@@ -1,0 +1,3 @@
+commande pour chercher les caractères spéciaux
+
+cat dblp.xml | egrep -o "&#[0-9]{0,9};" | sort -u >> res.txt

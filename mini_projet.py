@@ -7,5 +7,5 @@ import bottle
 tree = ET.parse('dblp.xml')
 root = tree.getroot()
 for child in root:
-        print(child)
+        print(child.tag)
         break

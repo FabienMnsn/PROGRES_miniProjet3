@@ -7,7 +7,8 @@ def create_dict():
     fonction qui fabriue un dictionnaire a partir d'un fichier des codes html de carateres spéciaux.
     chaque clé est un code de type &uml et la valeur associée est un caractere
     """
-    file = open('table_part2_0.txt', 'r')
+    print("----Création du dictionnaire de référence")
+    file = open('table_caracteres.txt', 'r')
     line = file.readline()
     dict = {}
     while(line != ""):
@@ -21,18 +22,6 @@ def create_dict():
     file.close()
     return dict
 
-"""
-####USELESS
-def position_char(str):
-    listS = []
-    listE = []
-    for i in range(len(str)):
-        if(str[i] == '&'):
-            listS.append(i)
-        if(str[i] == ';'):
-            listE.append(i)
-    return (listS, listE)
-"""
 
 def split_char_code(string):
     """
@@ -57,21 +46,23 @@ def split_char_code(string):
     return res
 
 
-def xml_formater(input_file, output_file):
+def xml_formater(input_file, output_file, dictionnaire_code):
     """
     reformatage du fichier pour pouvoir le parser correctement.
     WIP => il est possible que cette fonction ne serve a rien si
     on trouve la solution pour que le parser XML dans python ne crash pas des qu'il rencontre un '&' ou un '#'...
     """
     #recuperation du dictionnaire des codes iso
-    dict = create_dict()
-    xml = open('XML/dblp-01.xml')
+    dict = dictionnaire_code
+    xml = open('XML/'+input_file, 'r')
     #fichier de sortie
-    new_xml = open('newdblp-01.xml', 'w')
+    new_xml = open('XML/'+output_file, 'w')
     new_xml.write("<?xml version='1.0' encoding='UTF-8'?>\n")
+
+    print("--------Ouverture de :", input_file, ", création de :", output_file)
     #utilisé pour les tests : permet de stopper l'execution a un seul tour de boucle valide
     i = 0
-    first_line = True
+    first_line = False
     for line in xml:
         #if(i >= 1):
             #break
@@ -89,6 +80,9 @@ def xml_formater(input_file, output_file):
                         if(elem in dict):
                             #on remplace le code par le char
                             splited_line[j] = dict[elem]
+                        #s'il n'est pas dans le dictionnaire, on le supprime => remplce par la chaine vide
+                        else:
+                        	splited_line[j] = ""
             new_line = ''.join(splited_line)
             #print("ligne originale :",line)
             #print("ligne splitée   :",splited_line)
@@ -101,15 +95,13 @@ def xml_formater(input_file, output_file):
         first_line = False
     new_xml.close()
     xml.close()
-
+    print("--------Fermeture des fichiers", input_file, ", ", output_file)
 
 if __name__ == '__main__':
-    """
-    #Tests Samples :
-    extract1 = "<author>M. Tamer &Ouml;zsu</author>"
-    extract2 = "<title>Die Repr&auml;sentation r&auml;umlichen Wissens und die Behandlung von Einbettungsproblemen mit Quadtreedepiktionen</title>"
-    extract3 ="<title>DInG - ein Dom&auml;nen-orientierter Inkrementeller und Integrierter Generator f&uuml;r koh&auml;rente Texte</title>"
-    """
-    #res_dict = create_dict()
-    print("starting xml parse")
-    xml_formater()
+    dico = create_dict()
+    print("----Début du traitement des fichiers XML")
+    for i in range(0,7):
+        print("--------Traitement du", i+1, "ème fichier xml en cours")
+        xml_formater("dblp-0"+str(i)+".xml","newdblp-0"+str(i)+".xml",dico)
+
+    print("-----Traitement des fichiers terminé !")

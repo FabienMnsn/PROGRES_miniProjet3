@@ -111,9 +111,9 @@ def xml_formater(input_file, output_file, dictionnaire_code):
     """
     #recuperation du dictionnaire des codes iso
     dictio = dictionnaire_code
-    xml = open('XML/'+input_file, 'r')
+    xml = open(input_file, 'r')
     #fichier de sortie
-    new_xml = open('XML/'+output_file, 'w')
+    new_xml = open(output_file, 'w')
     new_xml.write("<?xml version='1.0' encoding='UTF-8'?>\n")
 
     print("--------Ouverture de :", input_file, ", création de :", output_file)
@@ -145,8 +145,8 @@ if __name__ == '__main__':
     print("Il prend pas mal de ram (entre 4Go et 8Go).")
     print("Pour obtenir un fichier XML 'propre' on peut relancer l'outil en choisissant en fichier source le fichier de sortie de l'execution précédente")
     print("----------------------------------------------")
-    source_file_name = input("Entrez le nom du fichier XML source :")
-    output_file_name = input("Entrez le nom du fichier de sortie :")
+    source_file_name = input("Entrez le nom du fichier XML source (exemple : XML/dblp.xml):")
+    output_file_name = input("Entrez le nom du fichier de sortie (exemple :  XML/dblp_transcoded.xml):")
     print("----------------------------------------------")
     dico = create_dict() 
     print("----Début du traitement du fichier XML")

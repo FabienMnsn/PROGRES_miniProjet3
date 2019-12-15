@@ -12,6 +12,9 @@ root = tree.getroot()
 for child in root:
         print(child.tag)
         break
+"""
+with open("XML/dblp.xml", 'r') as f:
+    content = f.read()
 
 #marche pas non plus et prend environ 12Go de ram pour tourner...
 dblp = open("dblp.xml", "r")

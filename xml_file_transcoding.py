@@ -139,13 +139,18 @@ def xml_formater(input_file, output_file, dictionnaire_code):
 
 if __name__ == '__main__':
     #dictionnaire des codes de caracteres speciaux
-    dico = create_dict()    
+    print("----------------------------------------------")
     print("Ceci est un outil qui remplace tous les caractères spéciaux par le caractère utf-8 correspondant dans un fichier XML.")
-    print("Il ne marche pas à 100% sur des fichiers de plusieurs millions de lignes mais marche parfaitement sur des petits fichiers")
-    print("Il prend pas mal de ram (entre 4Go et 8Go)")
+    print("Il ne marche pas à 100% sur des fichiers de plusieurs millions de lignes mais marche parfaitement sur des petits fichiers.")
+    print("Il prend pas mal de ram (entre 4Go et 8Go).")
     print("Pour obtenir un fichier XML 'propre' on peut relancer l'outil en choisissant en fichier source le fichier de sortie de l'execution précédente")
+    print("----------------------------------------------")
     source_file_name = input("Entrez le nom du fichier XML source :")
     output_file_name = input("Entrez le nom du fichier de sortie :")
+    print("----------------------------------------------")
+    dico = create_dict() 
     print("----Début du traitement du fichier XML")
+    print("----------------------------------------------")
     xml_formater(source_file_name, output_file_name, dico)
     print("----Fin du traitement du fichier XML, le résultat se trouve dans le fichier :", output_file_name)
+    print("----------------------------------------------")

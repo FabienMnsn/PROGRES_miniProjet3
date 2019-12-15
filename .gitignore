@@ -1,4 +1,6 @@
 
-*.xml
+dblp.xml
 
-XML
+XML/dblp-0*.xml
+XML/dblp.xml
+XML/PARSED_dblp.xml

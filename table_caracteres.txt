@@ -12581,7 +12581,7 @@ z;&#122
 ý;&yacute
 þ;&thorn
 ÿ;&yuml
-&;&amp
+and;&amp
 µ;&micro
 <;&lt
 >;&gt

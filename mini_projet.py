@@ -12,7 +12,7 @@ root = tree.getroot()
 for child in root:
         print(child.tag)
         break
-"""
+
 with open("XML/dblp.xml", 'r') as f:
     content = f.read()
 
@@ -33,3 +33,32 @@ for elem in tree:
         print(elem)
         i+=1
 """
+
+#--------------------------FONCTION BOTTLE--------------------------
+
+
+@bottle.route("/auteur/qui")
+@bottle.view("page.tpl")
+def qui():
+    stri = """
+    <form method='post' action='name'>
+    <input type='text' name='last_name' placeholder='Nom'/>
+    <input type='text' name='first_name' placeholder='Prénom'/>
+    <input type='submit' value='Chercher'/>
+    </form>
+    """
+    return {"title":"Rechercher un auteur", "body":stri}
+
+
+
+@bottle.route("/auteur/name", method='POST')
+@bottle.view("page.tpl")
+def name():
+    lname = bottle.request.forms.last_name
+    fname = bottle.request.forms.first_name
+    return {"title":"Vous consultez la page de ", "body": fname+", "+lname}
+
+
+#--------------------------RUN BOTTLE--------------------------
+bottle.run(bottle.app(), host='localhost', port='8080', debug=True, reloader=True)
+#--------------------------RUN BOTTLE--------------------------

@@ -3,13 +3,13 @@ import re
 import sys
 from xml.dom import minidom
 
-def create_dict():
+def create_dict(table_file_path):
     """
     fonction qui fabriue un dictionnaire a partir d'un fichier des codes html de carateres spéciaux.
     chaque clé est un code de type &uml et la valeur associée est un caractere
     """
     print("----Création du dictionnaire de référence")
-    file = open('table_caracteres.txt', 'r', encoding='utf-8')
+    file = open(table_file_path, 'r', encoding='utf-8')
     line = file.readline()
     dict = {}
     while(line != ""):

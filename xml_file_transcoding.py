@@ -9,7 +9,7 @@ def create_dict():
     chaque clé est un code de type &uml et la valeur associée est un caractere
     """
     print("----Création du dictionnaire de référence")
-    file = open('table_caracteres.txt', 'r')
+    file = open('table_caracteres.txt', 'r', encoding='utf-8')
     line = file.readline()
     dict = {}
     while(line != ""):
@@ -113,7 +113,7 @@ def xml_formater(input_file, output_file, dictionnaire_code):
     dictio = dictionnaire_code
     xml = open(input_file, 'r')
     #fichier de sortie
-    new_xml = open(output_file, 'w')
+    new_xml = open(output_file, 'w', encoding='utf-8')
     new_xml.write("<?xml version='1.0' encoding='UTF-8'?>\n")
 
     print("--------Ouverture de :", input_file, ", création de :", output_file)

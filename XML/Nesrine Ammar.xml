@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Nesrine Ammar">
+<homonyms n="2">
+<h f="a/Ammar_0001:Nesrine"><person key="homepages/180/2554-1" mdate="2018-11-28">
+<author>Nesrine Ammar 0001</author>
+<note type="affiliation">Nokia Bell Labs, Nozay, France</note>
+</person>
+</h>
+<h f="a/Ammar_0002:Nesrine"><person key="homepages/180/2554-2" mdate="2018-11-28">
+<author>Nesrine Ammar 0002</author>
+<note type="affiliation">Carthage University, Tunis, Tunisia</note>
+</person>
+</h>
+</homonyms>
+</dblpperson>
+

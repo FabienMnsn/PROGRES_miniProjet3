@@ -1,0 +1,958 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Swan Dubois" n="69">
+<person key="homepages/16/5110" mdate="2009-06-10">
+<author>Swan Dubois</author>
+</person>
+<r><book key="series/synthesis/2019Altisen" mdate="2019-06-18">
+<author>Karine Altisen</author>
+<author>Stéphane Devismes</author>
+<author>Swan Dubois</author>
+<author>Franck Petit</author>
+<title>Introduction to Distributed Self-Stabilizing Algorithms</title>
+<booktitle>Introduction to Distributed Self-Stabilizing Algorithms</booktitle>
+<publisher>Morgan & Claypool Publishers</publisher>
+<year>2019</year>
+<series href="db/series/synthesis/dct.html">Synthesis Lectures on Distributed Computing Theory</series>
+<ee>https://doi.org/10.2200/S00908ED1V01Y201903DCT015</ee>
+</book>
+</r>
+<r><article key="journals/dc/BouchardBDDP19" mdate="2019-08-08">
+<author>Sébastien Bouchard</author>
+<author>Marjorie Bournat</author>
+<author orcid="0000-0002-9593-7802">Yoann Dieudonné</author>
+<author>Swan Dubois</author>
+<author>Franck Petit</author>
+<title>Asynchronous approach in the plane: a deterministic polynomial algorithm.</title>
+<pages>317-337</pages>
+<year>2019</year>
+<volume>32</volume>
+<journal>Distributed Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00446-018-0338-2</ee>
+<url>db/journals/dc/dc32.html#BouchardBDDP19</url>
+</article>
+</r>
+<r><article key="journals/dc/DuboisGKPS19" mdate="2019-11-26">
+<author>Swan Dubois</author>
+<author>Rachid Guerraoui</author>
+<author orcid="0000-0003-1148-1228">Petr Kuznetsov</author>
+<author>Franck Petit</author>
+<author>Pierre Sens</author>
+<title>The weakest failure detector for eventual consistency.</title>
+<pages>479-492</pages>
+<year>2019</year>
+<volume>32</volume>
+<journal>Distributed Computing</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00446-016-0292-9</ee>
+<url>db/journals/dc/dc32.html#DuboisGKPS19</url>
+</article>
+</r>
+<r><article key="journals/tcs/BournatDD19" mdate="2019-05-08">
+<author>Marjorie Bournat</author>
+<author>Ajoy K. Datta</author>
+<author>Swan Dubois</author>
+<title>Self-stabilizing robots in highly dynamic environments.</title>
+<pages>88-110</pages>
+<year>2019</year>
+<volume>772</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2018.11.026</ee>
+<url>db/journals/tcs/tcs772.html#BournatDD19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-04106" mdate="2019-05-27">
+<author>Arnaud Casteigts</author>
+<author>Swan Dubois</author>
+<author>Franck Petit</author>
+<author>John Michael Robson</author>
+<title>Robustness: a New Form of Heredity Motivated by Dynamic Networks.</title>
+<year>2019</year>
+<volume>abs/1905.04106</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.04106</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-04106</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-08565" mdate="2019-05-29">
+<author>Lélia Blin</author>
+<author>Swan Dubois</author>
+<author>Laurent Feuilloley</author>
+<title>Silent MST approximation for tiny memory.</title>
+<year>2019</year>
+<volume>abs/1905.08565</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.08565</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-08565</url>
+</article>
+</r>
+<r><article key="journals/jpdc/BlinBD18" mdate="2018-11-30">
+<author>Lélia Blin</author>
+<author>Fadwa Boubekeur</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<title>A self-stabilizing memory efficient algorithm for the minimum diameter spanning tree under an omnipotent daemon.</title>
+<pages>50-62</pages>
+<year>2018</year>
+<volume>117</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2018.02.007</ee>
+<url>db/journals/jpdc/jpdc117.html#BlinBD18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sss/BournatDP18" mdate="2018-10-25">
+<author>Marjorie Bournat</author>
+<author>Swan Dubois</author>
+<author>Franck Petit</author>
+<title>Gracefully Degrading Gathering in Dynamic Rings.</title>
+<pages>349-364</pages>
+<year>2018</year>
+<booktitle>SSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-03232-6_23</ee>
+<crossref>conf/sss/2018</crossref>
+<url>db/conf/sss/sss2018.html#BournatDP18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-05137" mdate="2019-09-17">
+<author>Marjorie Bournat</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Franck Petit</author>
+<title>Gracefully Degrading Gathering in Dynamic Rings.</title>
+<year>2018</year>
+<volume>abs/1805.05137</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.05137</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-05137</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/BournatDP17" mdate="2018-11-02">
+<author>Marjorie Bournat</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Franck Petit</author>
+<title>Computability of Perpetual Exploration in Highly Dynamic Rings.</title>
+<pages>794-804</pages>
+<year>2017</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2017.80</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDCS.2017.80</ee>
+<crossref>conf/icdcs/2017</crossref>
+<url>db/conf/icdcs/icdcs2017.html#BournatDP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BouchardBDDP17" mdate="2019-10-19">
+<author orcid="0000-0002-6464-9517">Sébastien Bouchard</author>
+<author>Marjorie Bournat</author>
+<author>Yoann Dieudonné</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Franck Petit</author>
+<title>Asynchronous Approach in the Plane: A Deterministic Polynomial Algorithm.</title>
+<pages>8:1-8:16</pages>
+<year>2017</year>
+<booktitle>DISC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.DISC.2017.8</ee>
+<ee>https://www.wikidata.org/entity/Q60607859</ee>
+<crossref>conf/wdag/2017</crossref>
+<url>db/conf/wdag/disc2017.html#BouchardBDDP17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CasteigtsDPR17" mdate="2019-09-17">
+<author>Arnaud Casteigts</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Franck Petit</author>
+<author>John Michael Robson</author>
+<title>Robustness in Highly Dynamic Networks.</title>
+<year>2017</year>
+<volume>abs/1703.03190</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.03190</ee>
+<url>db/journals/corr/corr1703.html#CasteigtsDPR17</url>
+</article>
+</r>
+<r><article key="journals/ijnc/Braud-SantoniDK16" mdate="2016-01-20">
+<author>Nicolas Braud-Santoni</author>
+<author>Swan Dubois</author>
+<author>Mohamed-Hamza Kaaouachi</author>
+<author>Franck Petit</author>
+<title>The Next 700 Impossibility Results in Time-Varying Graphs.</title>
+<pages>27-41</pages>
+<year>2016</year>
+<volume>6</volume>
+<journal>IJNC</journal>
+<number>1</number>
+<ee>http://www.ijnc.org/index.php/ijnc/article/view/116</ee>
+<url>db/journals/ijnc/ijnc6.html#Braud-SantoniDK16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sss/BournatDD16" mdate="2018-11-02">
+<author>Marjorie Bournat</author>
+<author>Ajoy K. Datta</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<title>Self-stabilizing Robots in Highly Dynamic Environments.</title>
+<pages>54-69</pages>
+<year>2016</year>
+<booktitle>SSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-49259-9_5</ee>
+<crossref>conf/sss/2016</crossref>
+<url>db/conf/sss/sss2016.html#BournatDD16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BournatDD16" mdate="2019-09-17">
+<author>Marjorie Bournat</author>
+<author>Ajoy K. Datta</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<title>Self-Stabilizing Robots in Highly Dynamic Environments.</title>
+<year>2016</year>
+<volume>abs/1609.06161</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1609.06161</ee>
+<url>db/journals/corr/corr1609.html#BournatDD16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BouchardBDDP16" mdate="2019-09-17">
+<author>Sébastien Bouchard</author>
+<author>Marjorie Bournat</author>
+<author>Yoann Dieudonné</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Franck Petit</author>
+<title>Asynchronous approach in the plane: A deterministic polynomial algorithm.</title>
+<year>2016</year>
+<volume>abs/1612.02168</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.02168</ee>
+<url>db/journals/corr/corr1612.html#BouchardBDDP16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BournatDP16" mdate="2019-09-17">
+<author>Marjorie Bournat</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Franck Petit</author>
+<title>Computability of Perpetual Exploration in Highly Dynamic Rings.</title>
+<year>2016</year>
+<volume>abs/1612.05767</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.05767</ee>
+<url>db/journals/corr/corr1612.html#BournatDP16</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/DuboisMT15" mdate="2018-11-30">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Maximum Metric Spanning Tree Made Byzantine Tolerant.</title>
+<pages>166-201</pages>
+<year>2015</year>
+<volume>73</volume>
+<journal>Algorithmica</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00453-014-9913-5</ee>
+<url>db/journals/algorithmica/algorithmica73.html#DuboisMT15</url>
+</article>
+</r>
+<r><article key="journals/jcss/AlonADDPT15" mdate="2019-10-19">
+<author>Noga Alon</author>
+<author orcid="0000-0002-8017-6457">Hagit Attiya</author>
+<author orcid="0000-0001-5418-6670">Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Practically stabilizing SWMR atomic memory in message-passing systems.</title>
+<pages>692-701</pages>
+<year>2015</year>
+<volume>81</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.jcss.2014.11.014</ee>
+<ee>https://www.wikidata.org/entity/Q56806110</ee>
+<url>db/journals/jcss/jcss81.html#AlonADDPT15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/Braud-SantoniDK15" mdate="2018-11-02">
+<author orcid="0000-0002-5195-351X">Nicolas Braud-Santoni</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Mohamed-Hamza Kaaouachi</author>
+<author>Franck Petit</author>
+<title>A Generic Framework for Impossibility Results in Time-Varying Graphs.</title>
+<pages>483-489</pages>
+<year>2015</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW.2015.59</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPSW.2015.59</ee>
+<crossref>conf/ipps/2015w</crossref>
+<url>db/conf/ipps/ipdps2015w.html#Braud-SantoniDK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/BlinBD15" mdate="2018-11-02">
+<author>Lélia Blin</author>
+<author>Fadwa Boubekeur</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<title>A Self-Stabilizing Memory Efficient Algorithm for the Minimum Diameter Spanning Tree under an Omnipotent Daemon.</title>
+<pages>1065-1074</pages>
+<year>2015</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2015.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2015.44</ee>
+<crossref>conf/ipps/2015</crossref>
+<url>db/conf/ipps/ipdps2015.html#BlinBD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/DuboisGKPS15" mdate="2018-11-06">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Rachid Guerraoui</author>
+<author>Petr Kuznetsov</author>
+<author>Franck Petit</author>
+<author>Pierre Sens</author>
+<title>The Weakest Failure Detector for Eventual Consistency.</title>
+<pages>375-384</pages>
+<year>2015</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/2767386.2767404</ee>
+<crossref>conf/podc/2015</crossref>
+<url>db/conf/podc/podc2015.html#DuboisGKPS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/DuboisKP15" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Mohamed-Hamza Kaaouachi</author>
+<author>Franck Petit</author>
+<title>Enabling Minimal Dominating Set in Highly Dynamic Distributed Systems.</title>
+<pages>51-66</pages>
+<year>2015</year>
+<booktitle>SSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-21741-3_4</ee>
+<crossref>conf/sss/2015</crossref>
+<url>db/conf/sss/sss2015.html#DuboisKP15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DuboisKP15" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Mohamed-Hamza Kaaouachi</author>
+<author>Franck Petit</author>
+<title>Enabling Minimal Dominating Set in Highly Dynamic Distributed Systems.</title>
+<year>2015</year>
+<volume>abs/1502.00378</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1502.00378</ee>
+<url>db/journals/corr/corr1502.html#DuboisKP15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DuboisGKPS15" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Rachid Guerraoui</author>
+<author>Petr Kuznetsov</author>
+<author>Franck Petit</author>
+<author>Pierre Sens</author>
+<title>The Weakest Failure Detector for Eventual Consistency.</title>
+<year>2015</year>
+<volume>abs/1505.03469</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1505.03469</ee>
+<url>db/journals/corr/corr1505.html#DuboisGKPS15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Braud-SantoniDKP14" mdate="2019-09-17">
+<author>Nicolas Braud-Santoni</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Mohamed-Hamza Kaaouachi</author>
+<author>Franck Petit</author>
+<title>The Next 700 Impossibility Results in Time-Varying Graphs.</title>
+<year>2014</year>
+<volume>abs/1412.6007</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.6007</ee>
+<url>db/journals/corr/corr1412.html#Braud-SantoniDKP14</url>
+</article>
+</r>
+<r><article key="journals/tcs/CournierDLPV13" mdate="2018-11-30">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Anissa Lamani</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>The snap-stabilizing message forwarding algorithm on tree topologies.</title>
+<pages>89-112</pages>
+<year>2013</year>
+<volume>496</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2013.04.012</ee>
+<url>db/journals/tcs/tcs496.html#CournierDLPV13</url>
+</article>
+</r>
+<r><inproceedings key="conf/podc/DuboisG13" mdate="2018-11-06">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Rachid Guerraoui</author>
+<title>Introducing speculation in self-stabilization: an application to mutual exclusion.</title>
+<pages>290-298</pages>
+<year>2013</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/2484239.2484246</ee>
+<crossref>conf/podc/2013</crossref>
+<url>db/conf/podc/podc2013.html#DuboisG13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1302-2217" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Rachid Guerraoui</author>
+<title>Introducing Speculation in Self-Stabilization - An Application to Mutual Exclusion</title>
+<ee type="oa">http://arxiv.org/abs/1302.2217</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1302.2217</volume>
+<url>db/journals/corr/corr1302.html#abs-1302-2217</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-6994" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Rachid Guerraoui</author>
+<title>Spéculation et auto-stabilisation</title>
+<ee type="oa">http://arxiv.org/abs/1304.6994</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.6994</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-6994</url>
+</article>
+</r>
+<r><article key="journals/jpdc/DuboisPNT12" mdate="2018-11-30">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilizing byzantine asynchronous unison.</title>
+<pages>917-923</pages>
+<year>2012</year>
+<volume>72</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.jpdc.2012.04.001</ee>
+<url>db/journals/jpdc/jpdc72.html#DuboisPNT12</url>
+</article>
+</r>
+<r><article key="journals/tpds/DuboisMT12" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Bounding the Impact of Unbounded Attacks in Stabilization.</title>
+<pages>460-466</pages>
+<year>2012</year>
+<volume>23</volume>
+<journal>IEEE Trans. Parallel Distrib. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TPDS.2011.158</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2011.158</ee>
+<url>db/journals/tpds/tpds23.html#DuboisMT12</url>
+</article>
+</r>
+<r><inproceedings key="conf/fun/DuboisTZ12" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Sébastien Tixeuil</author>
+<author>Nini Zhu</author>
+<title>The Byzantine Brides Problem.</title>
+<pages>107-118</pages>
+<year>2012</year>
+<booktitle>FUN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-30347-0_13</ee>
+<crossref>conf/fun/2012</crossref>
+<url>db/conf/fun/fun2012.html#DuboisTZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcn/CournierDLPV12" mdate="2018-11-02">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Anissa Lamani</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing Message Forwarding Algorithm on Tree Topologies.</title>
+<pages>46-60</pages>
+<year>2012</year>
+<booktitle>ICDCN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25959-3_4</ee>
+<crossref>conf/icdcn/2012</crossref>
+<url>db/conf/icdcn/icdcn2012.html#CournierDLPV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/DolevDPT12" mdate="2018-11-02">
+<author>Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Crash Resilient and Pseudo-Stabilizing Atomic Registers.</title>
+<pages>135-150</pages>
+<year>2012</year>
+<booktitle>OPODIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35476-2_10</ee>
+<crossref>conf/opodis/2012</crossref>
+<url>db/conf/opodis/opodis2012.html#DolevDPT12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-3575" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Sébastien Tixeuil</author>
+<author>Nini Zhu</author>
+<title>The Byzantine Brides Problem</title>
+<ee type="oa">http://arxiv.org/abs/1203.3575</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.3575</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-3575</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1204-4565" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Sébastien Tixeuil</author>
+<author>Nini Zhu</author>
+<title>Mariages et Trahisons</title>
+<ee type="oa">http://arxiv.org/abs/1204.4565</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1204.4565</volume>
+<url>db/journals/corr/corr1204.html#abs-1204-4565</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Dubois11" mdate="2016-07-11">
+<author>Swan Dubois</author>
+<title>Tolerating Transient, Permanent, and Intermittent Failures. (Tolérer les fautes transitoires, permanentes et intermittentes).</title>
+<year>2011</year>
+<school>Pierre and Marie Curie University, Paris, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-00663317</ee>
+</phdthesis>
+</r>
+<r><article key="journals/ipl/DolevDPT11" mdate="2019-10-19">
+<author orcid="0000-0001-5418-6670">Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Stabilizing data-link over non-FIFO channels with optimal fault-resilience.</title>
+<pages>912-920</pages>
+<year>2011</year>
+<volume>111</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1016/j.ipl.2011.06.010</ee>
+<url>db/journals/ipl/ipl111.html#DolevDPT11</url>
+</article>
+</r>
+<r><article key="journals/tcs/DuboisPT11" mdate="2018-11-30">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Dynamic FTSS in asynchronous systems: The case of unison.</title>
+<pages>3418-3439</pages>
+<year>2011</year>
+<volume>412</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>29</number>
+<ee>https://doi.org/10.1016/j.tcs.2011.02.012</ee>
+<url>db/journals/tcs/tcs412.html#DuboisPT11</url>
+</article>
+</r>
+<r><article key="journals/tcs/CournierDV11" mdate="2018-11-30">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Vincent Villain</author>
+<title>How to improve snap-stabilizing point-to-point communication space complexity?</title>
+<pages>4285-4296</pages>
+<year>2011</year>
+<volume>412</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>33</number>
+<ee>https://doi.org/10.1016/j.tcs.2010.11.014</ee>
+<url>db/journals/tcs/tcs412.html#CournierDV11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sss/AlonADDPT11" mdate="2019-09-16">
+<author>Noga Alon</author>
+<author orcid="0000-0002-8017-6457">Hagit Attiya</author>
+<author>Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Pragmatic Self-stabilization of Atomic Memory in Message-Passing Systems.</title>
+<pages>19-31</pages>
+<year>2011</year>
+<booktitle>SSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24550-3_4</ee>
+<crossref>conf/sss/2011</crossref>
+<url>db/conf/sss/sss2011.html#AlonADDPT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/DuboisMT11" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Maximum Metric Spanning Tree Made Byzantine Tolerant.</title>
+<pages>150-164</pages>
+<year>2011</year>
+<booktitle>DISC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24100-0_14</ee>
+<crossref>conf/wdag/2011</crossref>
+<url>db/conf/wdag/disc2011.html#DuboisMT11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1103-3515" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilization, Byzantine Containment, and Maximizable Metrics: Necessary Conditions</title>
+<ee type="oa">http://arxiv.org/abs/1103.3515</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1103.3515</volume>
+<url>db/journals/corr/corr1103.html#abs-1103-3515</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1104-3947" mdate="2019-09-17">
+<author>Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Communication Optimalement Stabilisante sur Canaux non Fiables et non FIFO</title>
+<ee type="oa">http://arxiv.org/abs/1104.3947</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1104.3947</volume>
+<url>db/journals/corr/corr1104.html#abs-1104-3947</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1104-4022" mdate="2018-08-13">
+<author>Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Auto-Stabilisation et Confinement de Fautes Malicieuses : Optimalité du Protocole min+1</title>
+<ee type="oa">http://arxiv.org/abs/1104.4022</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1104.4022</volume>
+<url>db/journals/corr/corr1104.html#abs-1104-4022</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1104-5368" mdate="2018-08-13">
+<author>Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Maximum Metric Spanning Tree made Byzantine Tolerant</title>
+<ee type="oa">http://arxiv.org/abs/1104.5368</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1104.5368</volume>
+<url>db/journals/corr/corr1104.html#abs-1104-5368</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1107-6014" mdate="2019-09-17">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Anissa Lamani</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing Message Forwarding Algorithm on Tree Topologies</title>
+<ee type="oa">http://arxiv.org/abs/1107.6014</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1107.6014</volume>
+<url>db/journals/corr/corr1107.html#abs-1107-6014</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1110-0334" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Sébastien Tixeuil</author>
+<title>A Taxonomy of Daemons in Self-stabilization</title>
+<ee type="oa">http://arxiv.org/abs/1110.0334</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1110.0334</volume>
+<url>db/journals/corr/corr1110.html#abs-1110-0334</url>
+</article>
+</r>
+<r><inproceedings key="conf/opodis/DuboisPNT10" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilizing Byzantine Asynchronous Unison<sup>, </sup>.</title>
+<pages>83-86</pages>
+<year>2010</year>
+<booktitle>OPODIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17653-1_7</ee>
+<crossref>conf/opodis/2010</crossref>
+<url>db/conf/opodis/opodis2010.html#DuboisPNT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/DuboisMT10" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>On Byzantine Containment Properties of the <i>min</i> + 1 Protocol.</title>
+<pages>96-110</pages>
+<year>2010</year>
+<booktitle>SSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16023-3_10</ee>
+<crossref>conf/sss/2010</crossref>
+<url>db/conf/sss/sss2010.html#DuboisMT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/CournierDLPV10" mdate="2018-11-02">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Anissa Lamani</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing Linear Message Forwarding.</title>
+<pages>546-559</pages>
+<year>2010</year>
+<booktitle>SSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16023-3_42</ee>
+<crossref>conf/sss/2010</crossref>
+<url>db/conf/sss/sss2010.html#CournierDLPV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/DuboisMT10" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>The Impact of Topology on Byzantine Containment in Stabilization.</title>
+<pages>495-509</pages>
+<year>2010</year>
+<booktitle>DISC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15763-9_47</ee>
+<crossref>conf/wdag/2010</crossref>
+<url>db/conf/wdag/disc2010.html#DuboisMT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/AlonADDGT10" mdate="2019-09-16">
+<author>Noga Alon</author>
+<author orcid="0000-0002-8017-6457">Hagit Attiya</author>
+<author>Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief Announcement: Sharing Memory in a Self-stabilizing Manner.</title>
+<pages>525-527</pages>
+<year>2010</year>
+<booktitle>DISC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15763-9_49</ee>
+<crossref>conf/wdag/2010</crossref>
+<url>db/conf/wdag/disc2010.html#AlonADDGT10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1004-5256" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Construction auto-stabilisante d'arbre couvrant en dépit d'actions malicieuses</title>
+<ee type="oa">http://arxiv.org/abs/1004.5256</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1004.5256</volume>
+<url>db/journals/corr/corr1004.html#abs-1004-5256</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1005-1195" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>The Impact of Topology on Byzantine Containment in Stabilization</title>
+<ee type="oa">http://arxiv.org/abs/1005.1195</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1005.1195</volume>
+<url>db/journals/corr/corr1005.html#abs-1005-1195</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1005-3367" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilization with Byzantine tolerance for global tasks</title>
+<ee type="oa">http://arxiv.org/abs/1005.3367</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1005.3367</volume>
+<url>db/journals/corr/corr1005.html#abs-1005-3367</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1005-5223" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>On Byzantine Containment Properties of the $min+1$ Protocol</title>
+<ee type="oa">http://arxiv.org/abs/1005.5223</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1005.5223</volume>
+<url>db/journals/corr/corr1005.html#abs-1005-5223</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3432" mdate="2019-09-17">
+<author>Anissa Lamani</author>
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing Linear Message Forwarding</title>
+<ee type="oa">http://arxiv.org/abs/1006.3432</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3432</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3432</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1007-1802" mdate="2019-09-17">
+<author>Noga Alon</author>
+<author>Hagit Attiya</author>
+<author>Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu</author>
+<author>Sébastien Tixeuil</author>
+<title>Practically Stabilizing Atomic Memory</title>
+<ee type="oa">http://arxiv.org/abs/1007.1802</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1007.1802</volume>
+<url>db/journals/corr/corr1007.html#abs-1007-1802</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1011-3632" mdate="2019-09-17">
+<author>Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Stabilizing data-link over non-FIFO channels with optimal fault-resilience</title>
+<ee type="oa">http://arxiv.org/abs/1011.3632</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1011.3632</volume>
+<url>db/journals/corr/corr1011.html#abs-1011-3632</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/CournierDV09" mdate="2018-11-02">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Vincent Villain</author>
+<title>A snap-stabilizing point-to-point communication protocol in message-switched networks.</title>
+<pages>1-11</pages>
+<year>2009</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2009.5160997</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2009.5160997</ee>
+<crossref>conf/ipps/2009</crossref>
+<url>db/conf/ipps/ipdps2009.html#CournierDV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/CournierDV09" mdate="2018-11-02">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Vincent Villain</author>
+<title>How to Improve Snap-Stabilizing Point-to-Point Communication Space Complexity?</title>
+<pages>195-208</pages>
+<year>2009</year>
+<booktitle>SSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-05118-0_14</ee>
+<crossref>conf/sss/2009</crossref>
+<url>db/conf/sss/sss2009.html#CournierDV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/DuboisPT09" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief Announcement: Dynamic FTSS in Asynchronous Systems: The Case of Unison.</title>
+<pages>291-293</pages>
+<year>2009</year>
+<booktitle>DISC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04355-0_30</ee>
+<crossref>conf/wdag/2009</crossref>
+<url>db/conf/wdag/disc2009.html#DuboisPT09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-4615" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Dynamic FTSS in Asynchronous Systems: the Case of Unison</title>
+<ee type="oa">http://arxiv.org/abs/0904.4615</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.4615</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-4615</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0905-1786" mdate="2019-09-17">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Vincent Villain</author>
+<title>Une CNS pour l'acheminement de messages instantanément stabilisant</title>
+<ee type="oa">http://arxiv.org/abs/0905.1786</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0905.1786</volume>
+<url>db/journals/corr/corr0905.html#abs-0905-1786</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0905-2540" mdate="2019-09-17">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Vincent Villain</author>
+<title>Two snap-stabilizing point-to-point communication protocols in message-switched networks</title>
+<ee type="oa">http://arxiv.org/abs/0905.2540</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0905.2540</volume>
+<url>db/journals/corr/corr0905.html#abs-0905-2540</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0912-0134" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilizing Byzantine Asynchronous Unison</title>
+<ee type="oa">http://arxiv.org/abs/0912.0134</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0912.0134</volume>
+<url>db/journals/corr/corr0912.html#abs-0912-0134</url>
+</article>
+</r>
+<r><inproceedings key="conf/colognetwente/DuboisGM08" mdate="2008-11-28">
+<author>Swan Dubois</author>
+<author>Vassilis Giakoumakis</author>
+<author>Cheikh Brahim Ould El Mounir</author>
+<title>On co-distance hereditary graphs.</title>
+<pages>94-97</pages>
+<year>2008</year>
+<booktitle>CTW</booktitle>
+<crossref>conf/colognetwente/2008</crossref>
+<url>db/conf/colognetwente/colognetwente2008.html#DuboisGM08</url>
+</inproceedings>
+</r>
+<coauthors n="30" nc="2">
+<co c="0"><na f="a/Alon:Noga">Noga Alon</na></co>
+<co c="0"><na f="a/Altisen:Karine">Karine Altisen</na></co>
+<co c="0"><na f="a/Attiya:Hagit">Hagit Attiya</na></co>
+<co c="0"><na f="b/Blin:L=eacute=lia">Lélia Blin</na></co>
+<co c="0"><na f="b/Boubekeur:Fadwa">Fadwa Boubekeur</na></co>
+<co c="0"><na f="b/Bouchard:S=eacute=bastien">Sébastien Bouchard</na></co>
+<co c="0"><na f="b/Bournat:Marjorie">Marjorie Bournat</na></co>
+<co c="0"><na f="b/Braud=Santoni:Nicolas">Nicolas Braud-Santoni</na></co>
+<co c="0"><na f="c/Casteigts:Arnaud">Arnaud Casteigts</na></co>
+<co c="0"><na f="c/Cournier:Alain">Alain Cournier</na></co>
+<co c="0"><na f="d/Datta:Ajoy_K=">Ajoy K. Datta</na></co>
+<co c="0"><na f="d/Devismes:St=eacute=phane">Stéphane Devismes</na></co>
+<co c="0"><na f="d/Dieudonn=eacute=:Yoann">Yoann Dieudonné</na></co>
+<co c="0"><na f="d/Dolev:Shlomi">Shlomi Dolev</na></co>
+<co c="0"><na f="f/Feuilloley:Laurent">Laurent Feuilloley</na></co>
+<co c="1"><na f="g/Giakoumakis:Vassilis">Vassilis Giakoumakis</na></co>
+<co c="0"><na f="g/Guerraoui:Rachid">Rachid Guerraoui</na></co>
+<co c="0"><na f="k/Kaaouachi:Mohamed=Hamza">Mohamed-Hamza Kaaouachi</na></co>
+<co c="0"><na f="k/Kuznetsov:Petr">Petr Kuznetsov</na></co>
+<co c="0"><na f="l/Lamani:Anissa">Anissa Lamani</na></co>
+<co c="0"><na f="m/Masuzawa:Toshimitsu">Toshimitsu Masuzawa</na></co>
+<co c="1"><na f="m/Mounir:Cheikh_Brahim_Ould_El">Cheikh Brahim Ould El Mounir</na></co>
+<co c="0"><na f="n/Nesterenko:Mikhail">Mikhail Nesterenko</na></co>
+<co c="0"><na f="p/Petit:Franck">Franck Petit</na></co>
+<co c="0" n="3"><na f="p/Potop=Butucaru:Maria">Maria Potop-Butucaru</na><na>Maria Gradinariu Potop-Butucaru</na><na>Maria Gradinariu</na></co>
+<co c="0"><na f="r/Robson:John_Michael">John Michael Robson</na></co>
+<co c="0"><na f="s/Sens:Pierre">Pierre Sens</na></co>
+<co c="0"><na f="t/Tixeuil:S=eacute=bastien">Sébastien Tixeuil</na></co>
+<co c="0"><na f="v/Villain:Vincent">Vincent Villain</na></co>
+<co c="0"><na f="z/Zhu:Nini">Nini Zhu</na></co>
+</coauthors>
+</dblpperson>
+

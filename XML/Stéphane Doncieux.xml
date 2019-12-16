@@ -1,0 +1,1003 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Stéphane Doncieux" n="64">
+<person key="homepages/28/1564" mdate="2009-06-09">
+<author>Stéphane Doncieux</author>
+</person>
+<r><article key="journals/finr/MaestreMGD19" mdate="2019-08-21">
+<author>Carlos Maestre</author>
+<author>Ghanim Mukhtar</author>
+<author>Christophe Gonzales</author>
+<author>Stéphane Doncieux</author>
+<title>Action Generation Adapted to Low-Level and High-Level Robot-Object Interaction States.</title>
+<year>2019</year>
+<volume>2019</volume>
+<journal>Front. Neurorobot.</journal>
+<ee type="oa">https://doi.org/10.3389/fnbot.2019.00056</ee>
+<url>db/journals/finr/finr2019.html#MaestreMGD19</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/DoncieuxLC19" mdate="2019-07-04">
+<author>Stéphane Doncieux</author>
+<author>Alban Laflaquière</author>
+<author>Alexandre Coninx</author>
+<title>Novelty search: a theoretical perspective.</title>
+<pages>99-106</pages>
+<year>2019</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/3321707.3321752</ee>
+<crossref>conf/gecco/2019</crossref>
+<url>db/conf/gecco/gecco2019.html#DoncieuxLC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/BredecheDM19" mdate="2019-07-11">
+<author>Nicolas Bredèche</author>
+<author>Stéphane Doncieux</author>
+<author>Jean-Baptiste Mouret</author>
+<title>Evolutionary robotics tutorial.</title>
+<pages>431-460</pages>
+<year>2019</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3319619.3323391</ee>
+<crossref>conf/gecco/2019c</crossref>
+<url>db/conf/gecco/gecco2019c.html#BredecheDM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdl-epirob/JegorovaDH19" mdate="2019-10-02">
+<author>Marija Jegorova</author>
+<author>Stéphane Doncieux</author>
+<author>Timothy M. Hospedales</author>
+<title>Behavioral Repertoire via Generative Adversarial Policy Networks.</title>
+<pages>320-326</pages>
+<year>2019</year>
+<booktitle>ICDL-EPIROB</booktitle>
+<ee>https://doi.org/10.1109/DEVLRN.2019.8850727</ee>
+<crossref>conf/icdl-epirob/2019</crossref>
+<url>db/conf/icdl-epirob/icdl-epirob2019.html#JegorovaDH19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-00811" mdate="2019-01-31">
+<author>Seungsu Kim</author>
+<author>Alexandre Coninx</author>
+<author>Stéphane Doncieux</author>
+<title>From exploration to control: learning object manipulation skills through novelty search and local adaptation.</title>
+<year>2019</year>
+<volume>abs/1901.00811</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.00811</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-00811</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-10968" mdate="2019-02-03">
+<author>Léni K. Le Goff</author>
+<author>Ghanim Mukhtar</author>
+<author>Alexandre Coninx</author>
+<author>Stéphane Doncieux</author>
+<title>Bootstrapping Robotic Ecological Perception from a Limited Set of Hypotheses Through Interactive Perception.</title>
+<year>2019</year>
+<volume>abs/1901.10968</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.10968</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-10968</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-04413" mdate="2019-03-31">
+<author>Leni K. Le Goff</author>
+<author>Oussama Yaakoubi</author>
+<author>Alexandre Coninx</author>
+<author>Stéphane Doncieux</author>
+<title>Building an Affordances Map with Interactive Perception.</title>
+<year>2019</year>
+<volume>abs/1903.04413</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.04413</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-04413</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-05508" mdate="2019-09-17">
+<author>Giuseppe Paolo</author>
+<author>Alban Laflaquière</author>
+<author>Alexandre Coninx</author>
+<author>Stéphane Doncieux</author>
+<title>Unsupervised Learning and Exploration of Reachable Outcome Space.</title>
+<year>2019</year>
+<volume>abs/1909.05508</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.05508</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-05508</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-01738" mdate="2019-10-09">
+<author>Astrid Merckling</author>
+<author>Alexandre Coninx</author>
+<author>Loic Cressot</author>
+<author>Stéphane Doncieux</author>
+<author>Nicolas Perrin 0001</author>
+<title>State Representation Learning from Demonstration.</title>
+<year>2019</year>
+<volume>abs/1910.01738</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.01738</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-01738</url>
+</article>
+</r>
+<r><article key="journals/finr/DoncieuxFRHDCRG18" mdate="2019-07-29">
+<author>Stéphane Doncieux</author>
+<author>David Filliat</author>
+<author>Natalia Díaz Rodríguez</author>
+<author>Timothy M. Hospedales</author>
+<author>Richard J. Duro</author>
+<author>Alexandre Coninx</author>
+<author>Diederik M. Roijers</author>
+<author orcid="0000-0002-8117-7064">Benoît Girard 0001</author>
+<author>Nicolas Perrin 0001</author>
+<author>Olivier Sigaud</author>
+<title>Open-Ended Learning: A Conceptual Framework Based on Representational Redescription.</title>
+<year>2018</year>
+<volume>2018</volume>
+<journal>Front. Neurorobot.</journal>
+<ee type="oa">https://doi.org/10.3389/fnbot.2018.00059</ee>
+<ee>https://www.wikidata.org/entity/Q57492104</ee>
+<url>db/journals/finr/finr2018.html#DoncieuxFRHDCRG18</url>
+</article>
+</r>
+<r><article key="journals/firai/LongAD18" mdate="2018-09-12">
+<author>John H. Long</author>
+<author>Eric Aaron</author>
+<author>Stéphane Doncieux</author>
+<title>Editorial: Evolvability, Environments, Embodiment & Emergence in Robotics.</title>
+<year>2018</year>
+<volume>2018</volume>
+<journal>Front. Robotics and AI</journal>
+<ee type="oa">https://doi.org/10.3389/frobt.2018.00103</ee>
+<url>db/journals/firai/firai2018.html#LongAD18</url>
+</article>
+</r>
+<r><article key="journals/tamd/ZimmerD18" mdate="2018-07-04">
+<author>Matthieu Zimmer</author>
+<author orcid="0000-0003-1541-054X">Stéphane Doncieux</author>
+<title>Bootstrapping Q-Learning for Robotics From Neuro-Evolution Results.</title>
+<pages>102-119</pages>
+<year>2018</year>
+<volume>10</volume>
+<journal>IEEE Trans. Cognitive and Developmental Systems</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1109/TCDS.2016.2628817</ee>
+<url>db/journals/tamd/tamd10.html#ZimmerD18</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/DoncieuxC18" mdate="2018-11-21">
+<author>Stéphane Doncieux</author>
+<author>Alexandre Coninx</author>
+<title>Open-ended evolution with multi-containers QD.</title>
+<pages>107-108</pages>
+<year>2018</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3205651.3205705</ee>
+<crossref>conf/gecco/2018c</crossref>
+<url>db/conf/gecco/gecco2018c.html#DoncieuxC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/BredecheDM18" mdate="2018-11-21">
+<author>Nicolas Bredèche</author>
+<author>Stéphane Doncieux</author>
+<author>Jean-Baptiste Mouret</author>
+<title>Evolutionary robotics tutorial.</title>
+<pages>1060-1092</pages>
+<year>2018</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3205651.3207866</ee>
+<crossref>conf/gecco/2018c</crossref>
+<url>db/conf/gecco/gecco2018c.html#BredecheDM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-03453" mdate="2019-02-08">
+<author>Joel Lehman</author>
+<author>Jeff Clune</author>
+<author>Dusan Misevic</author>
+<author>Christoph Adami</author>
+<author>Lee Altenberg</author>
+<author>Julie Beaulieu</author>
+<author>Peter J. Bentley</author>
+<author>Samuel Bernard</author>
+<author>Guillaume Beslon</author>
+<author>David M. Bryson</author>
+<author>Patryk Chrabaszcz</author>
+<author>Nick Cheney</author>
+<author>Antoine Cully</author>
+<author>Stéphane Doncieux</author>
+<author>Fred C. Dyer</author>
+<author>Kai Olav Ellefsen</author>
+<author>Robert Feldt</author>
+<author>Stephan Fischer 0002</author>
+<author>Stephanie Forrest</author>
+<author>Antoine Frénoy</author>
+<author>Christian Gagné</author>
+<author>Leni K. Le Goff</author>
+<author>Laura M. Grabowski</author>
+<author>Babak Hodjat</author>
+<author>Frank Hutter</author>
+<author>Laurent Keller</author>
+<author>Carole Knibbe</author>
+<author>Peter Krcah</author>
+<author>Richard E. Lenski</author>
+<author>Hod Lipson</author>
+<author>Robert MacCurdy</author>
+<author>Carlos Maestre</author>
+<author>Risto Miikkulainen</author>
+<author>Sara Mitri</author>
+<author>David E. Moriarty</author>
+<author>Jean-Baptiste Mouret</author>
+<author>Anh Nguyen</author>
+<author>Charles Ofria</author>
+<author>Marc Parizeau</author>
+<author>David P. Parsons</author>
+<author>Robert T. Pennock</author>
+<author>William F. Punch</author>
+<author>Thomas S. Ray</author>
+<author>Marc Schoenauer</author>
+<author>Eric Shulte</author>
+<author>Karl Sims</author>
+<author>Kenneth O. Stanley</author>
+<author>François Taddei</author>
+<author>Danesh Tarapore</author>
+<author>Simon Thibault</author>
+<author>Westley Weimer</author>
+<author>Richard Watson</author>
+<author>Jason Yosinksi</author>
+<title>The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities.</title>
+<year>2018</year>
+<volume>abs/1803.03453</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.03453</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-03453</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-02945" mdate="2018-11-22">
+<author>Marija Jegorova</author>
+<author>Stéphane Doncieux</author>
+<author>Timothy M. Hospedales</author>
+<title>Generative Adversarial Policy Networks for Behavioural Repertoire.</title>
+<year>2018</year>
+<volume>abs/1811.02945</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.02945</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-02945</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/BredecheDM17" mdate="2018-11-06">
+<author>Nicolas Bredèche</author>
+<author>Stéphane Doncieux</author>
+<author>Jean-Baptiste Mouret</author>
+<title>Evolutionary robotics tutorial.</title>
+<pages>1005-1037</pages>
+<year>2017</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3067695.3067724</ee>
+<crossref>conf/gecco/2017c</crossref>
+<url>db/conf/gecco/gecco2017c.html#BredecheDM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoncieuxADV17" mdate="2018-11-06">
+<author>Stéphane Doncieux</author>
+<author>Joshua Evan Auerbach</author>
+<author>Richard J. Duro</author>
+<author>Harold P. de Vladar</author>
+<title>Chairs' welcome for GECCO'17 workshop "evolution in cognition".</title>
+<pages>1163-1164</pages>
+<year>2017</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3067695.3082462</ee>
+<crossref>conf/gecco/2017c</crossref>
+<url>db/conf/gecco/gecco2017c.html#DoncieuxADV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/KimD17" mdate="2018-11-06">
+<author>Seungsu Kim</author>
+<author>Stéphane Doncieux</author>
+<title>Learning highly diverse robot throwing movements through quality diversity search.</title>
+<pages>1177-1178</pages>
+<year>2017</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3067695.3082463</ee>
+<crossref>conf/gecco/2017c</crossref>
+<url>db/conf/gecco/gecco2017c.html#KimD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdl-epirob/MaestreMGD17" mdate="2018-04-12">
+<author>Carlos Maestre</author>
+<author>Ghanim Mukhtar</author>
+<author>Christophe Gonzales</author>
+<author>Stéphane Doncieux</author>
+<title>Iterative affordance learning with adaptive action generation.</title>
+<pages>368-375</pages>
+<year>2017</year>
+<booktitle>ICDL-EPIROB</booktitle>
+<ee>https://doi.org/10.1109/DEVLRN.2017.8329832</ee>
+<crossref>conf/icdl-epirob/2017</crossref>
+<url>db/conf/icdl-epirob/icdl-epirob2017.html#MaestreMGD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/irc/GoffMFD17" mdate="2019-02-12">
+<author>Leni K. Le Goff</author>
+<author>Ghanim Mukhtar</author>
+<author>Pierre-Henri Le Fur</author>
+<author>Stéphane Doncieux</author>
+<title>Segmenting Objects through an Autonomous Agnostic Exploration Conducted by a Robot.</title>
+<pages>284-291</pages>
+<year>2017</year>
+<booktitle>IRC</booktitle>
+<ee>https://doi.org/10.1109/IRC.2017.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IRC.2017.22</ee>
+<crossref>conf/irc/2017</crossref>
+<url>db/conf/irc/irc2017.html#GoffMFD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoncieuxADV16" mdate="2018-11-06">
+<author>Stéphane Doncieux</author>
+<author>Joshua Evan Auerbach</author>
+<author orcid="0000-0002-6807-524X">Richard J. Duro</author>
+<author>Harold P. de Vladar</author>
+<title>Evolution in Cognition 2016 Chairs' Welcome.</title>
+<pages>1043-1045</pages>
+<year>2016</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/2908961.2931670</ee>
+<crossref>conf/gecco/2016c</crossref>
+<url>db/conf/gecco/gecco2016c.html#DoncieuxADV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdl-epirob/GoffFD16" mdate="2017-05-19">
+<author>Leni K. Le Goff</author>
+<author>Pierre-Henri Le Fur</author>
+<author>Stéphane Doncieux</author>
+<title>Exploration of unknown dynamic environments: A visual saliency-based babbling approach.</title>
+<pages>152-153</pages>
+<year>2016</year>
+<booktitle>ICDL-EPIROB</booktitle>
+<ee>https://doi.org/10.1109/DEVLRN.2016.7846808</ee>
+<crossref>conf/icdl-epirob/2016</crossref>
+<url>db/conf/icdl-epirob/icdl-epirob2016.html#GoffFD16</url>
+</inproceedings>
+</r>
+<r><article key="journals/firai/DoncieuxBME15" mdate="2018-11-24">
+<author>Stéphane Doncieux</author>
+<author>Nicolas Bredèche</author>
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>A. E. Eiben</author>
+<title>Evolutionary Robotics: What, Why, and Where to.</title>
+<year>2015</year>
+<volume>2015</volume>
+<journal>Front. Robotics and AI</journal>
+<ee type="oa">https://doi.org/10.3389/frobt.2015.00004</ee>
+<ee>https://www.wikidata.org/entity/Q58643435</ee>
+<url>db/journals/firai/firai2015.html#DoncieuxBME15</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/BredecheDM15" mdate="2018-11-06">
+<author>Nicolas Bredèche</author>
+<author>Stéphane Doncieux</author>
+<author>Jean-Baptiste Mouret</author>
+<title>Tutorial on Evolutionary Robotics.</title>
+<pages>231-261</pages>
+<year>2015</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/2739482.2756583</ee>
+<crossref>conf/gecco/2015c</crossref>
+<url>db/conf/gecco/gecco2015c.html#BredecheDM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdl-epirob/MaestreCGD15" mdate="2017-05-19">
+<author>Carlos Maestre</author>
+<author>Antoine Cully</author>
+<author>Christophe Gonzales</author>
+<author>Stéphane Doncieux</author>
+<title>Bootstrapping interactions with objects from raw sensorimotor data: A novelty search based approach.</title>
+<pages>7-12</pages>
+<year>2015</year>
+<booktitle>ICDL-EPIROB</booktitle>
+<ee>https://doi.org/10.1109/DEVLRN.2015.7346098</ee>
+<crossref>conf/icdl-epirob/2015</crossref>
+<url>db/conf/icdl-epirob/icdl-epirob2015.html#MaestreCGD15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DoncieuxLGHC15" mdate="2018-08-13">
+<author>Stéphane Doncieux</author>
+<author>Jean Liénard</author>
+<author>Benoît Girard 0001</author>
+<author>Mohamed Hamdaoui</author>
+<author>Joël Chaskalovic</author>
+<title>Multi-objective analysis of computational models.</title>
+<year>2015</year>
+<volume>abs/1507.06877</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.06877</ee>
+<url>db/journals/corr/corr1507.html#DoncieuxLGHC15</url>
+</article>
+</r>
+<r><article key="journals/evi/DoncieuxM14" mdate="2019-06-02">
+<author>Stéphane Doncieux</author>
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<title>Beyond black-box optimization: a review of selective pressures for evolutionary robotics.</title>
+<pages>71-93</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Evolutionary Intelligence</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s12065-014-0110-x</ee>
+<ee>https://www.wikidata.org/entity/Q59275110</ee>
+<url>db/journals/evi/evi7.html#DoncieuxM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaaifs/Doncieux14" mdate="2018-11-14">
+<author>Stéphane Doncieux</author>
+<title>Knowledge Extraction from Learning Traces in Continuous Domains.</title>
+<year>2014</year>
+<booktitle>AAAI Fall Symposia</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/FSS/FSS14/paper/view/9127</ee>
+<crossref>conf/aaaifs/2014</crossref>
+<url>db/conf/aaaifs/aaaifs2014.html#Doncieux14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tec/KoosMD13" mdate="2019-06-02">
+<author>Sylvain Koos</author>
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<title>The Transferability Approach: Crossing the Reality Gap in Evolutionary Robotics.</title>
+<pages>122-145</pages>
+<year>2013</year>
+<volume>17</volume>
+<journal>IEEE Trans. Evolutionary Computation</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TEVC.2012.2185849</ee>
+<ee>https://www.wikidata.org/entity/Q59275122</ee>
+<url>db/journals/tec/tec17.html#KoosMD13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/DoncieuxM13" mdate="2019-06-02">
+<author>Stéphane Doncieux</author>
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<title>Behavioral diversity with multiple behavioral distances.</title>
+<pages>1427-1434</pages>
+<year>2013</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2013.6557731</ee>
+<ee>https://www.wikidata.org/entity/Q59275115</ee>
+<crossref>conf/cec/2013</crossref>
+<url>db/conf/cec/cec2013.html#DoncieuxM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdl-epirob/Doncieux13" mdate="2019-07-18">
+<author>Stéphane Doncieux</author>
+<title>Transfer learning for direct policy search: A reward shaping approach.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>ICDL-EPIROB</booktitle>
+<ee>https://doi.org/10.1109/DevLrn.2013.6652568</ee>
+<crossref>conf/icdl-epirob/2013</crossref>
+<url>db/conf/icdl-epirob/icdl-epirob2013.html#Doncieux13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MouretKD13" mdate="2018-08-13">
+<author>Jean-Baptiste Mouret</author>
+<author>Sylvain Koos</author>
+<author>Stéphane Doncieux</author>
+<title>Crossing the Reality Gap: a Short Introduction to the Transferability Approach.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1307.1870</ee>
+<volume>abs/1307.1870</volume>
+<url>db/journals/corr/corr1307.html#MouretKD13</url>
+</article>
+</r>
+<r><article key="journals/ec/MouretD12" mdate="2018-11-14">
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<title>Encouraging Behavioral Diversity in Evolutionary Robotics: An Empirical Study.</title>
+<pages>91-133</pages>
+<year>2012</year>
+<volume>20</volume>
+<journal>Evolutionary Computation</journal>
+<number>1</number>
+<ee>https://doi.org/10.1162/EVCO_a_00048</ee>
+<ee>https://www.wikidata.org/entity/Q37916591</ee>
+<url>db/journals/ec/ec20.html#MouretD12</url>
+</article>
+</r>
+<r><inproceedings key="conf/alife/OllionPD12" mdate="2017-05-17">
+<author>Charles Ollion</author>
+<author>Tony Pinville</author>
+<author>Stéphane Doncieux</author>
+<title>With a little help from selection pressures: evolution of memory in robot controllers.</title>
+<year>2012</year>
+<booktitle>ALIFE</booktitle>
+<ee>https://doi.org/10.7551/978-0-262-31050-5-ch054</ee>
+<crossref>conf/alife/2012</crossref>
+<url>db/conf/alife/alife2012.html#OllionPD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoncieuxJM12" mdate="2019-09-25">
+<author>Stéphane Doncieux</author>
+<author orcid="0000-0003-1100-0631">Yaochu Jin</author>
+<author>Jean-Baptiste Mouret</author>
+<title>Evo-devo-robo workshop program.</title>
+<pages>355-356</pages>
+<year>2012</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/2330784.2330836</ee>
+<crossref>conf/gecco/2012c</crossref>
+<url>db/conf/gecco/gecco2012c.html#DoncieuxJM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/OllionPD12" mdate="2018-11-06">
+<author>Charles Ollion</author>
+<author>Tony Pinville</author>
+<author>Stéphane Doncieux</author>
+<title>Emergence of memory in neuroevolution: impact of selection pressures.</title>
+<pages>369-372</pages>
+<year>2012</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/2330784.2330840</ee>
+<crossref>conf/gecco/2012c</crossref>
+<url>db/conf/gecco/gecco2012c.html#OllionPD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoncieuxM12" mdate="2018-11-06">
+<author>Stéphane Doncieux</author>
+<author>Jean-Baptiste Mouret</author>
+<title>Dynamic behavioral diversity.</title>
+<pages>1453-1454</pages>
+<year>2012</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/2330784.2330986</ee>
+<crossref>conf/gecco/2012c</crossref>
+<url>db/conf/gecco/gecco2012c.html#DoncieuxM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sab/OllionD12" mdate="2017-05-25">
+<author>Charles Ollion</author>
+<author>Stéphane Doncieux</author>
+<title>Towards Behavioral Consistency in Neuroevolution.</title>
+<pages>177-186</pages>
+<year>2012</year>
+<booktitle>SAB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33093-3_18</ee>
+<crossref>conf/sab/2012</crossref>
+<url>db/conf/sab/sab2012.html#OllionD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/PinvilleKMD11" mdate="2019-06-02">
+<author>Tony Pinville</author>
+<author>Sylvain Koos</author>
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<title>How to promote generalisation in evolutionary robotics: the ProGAb approach.</title>
+<pages>259-266</pages>
+<year>2011</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/2001576.2001612</ee>
+<ee>https://www.wikidata.org/entity/Q59275126</ee>
+<crossref>conf/gecco/2011</crossref>
+<url>db/conf/gecco/gecco2011.html#PinvilleKMD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/OllionD11" mdate="2018-11-06">
+<author>Charles Ollion</author>
+<author>Stéphane Doncieux</author>
+<title>Why and how to measure exploration in behavioral space.</title>
+<pages>267-274</pages>
+<year>2011</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/2001576.2001613</ee>
+<crossref>conf/gecco/2011</crossref>
+<url>db/conf/gecco/gecco2011.html#OllionD11</url>
+</inproceedings>
+</r>
+<r><book publtype="habil" key="books/hal/Doncieux10" mdate="2017-09-29">
+<author>Stéphane Doncieux</author>
+<title>Robotique évolutionniste: conception orientée vers le comportement. (Evolutionary robotics: behavior oriented design).</title>
+<year>2010</year>
+<school>Pierre and Marie Curie University, Paris, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-00547778</ee>
+</book>
+</r>
+<r><inproceedings key="conf/cec/DoncieuxM10" mdate="2019-06-02">
+<author>Stéphane Doncieux</author>
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<title>Behavioral diversity measures for Evolutionary Robotics.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2010.5586100</ee>
+<ee>https://www.wikidata.org/entity/Q59275133</ee>
+<crossref>conf/cec/2010</crossref>
+<url>db/conf/cec/cec2010.html#DoncieuxM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/MouretD10" mdate="2019-06-02">
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<title>Sferesv2: Evolvin' in the multi-core world.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2010.5586158</ee>
+<ee>https://www.wikidata.org/entity/Q59275134</ee>
+<crossref>conf/cec/2010</crossref>
+<url>db/conf/cec/cec2010.html#MouretD10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/KoosMD10" mdate="2019-06-02">
+<author>Sylvain Koos</author>
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<title>Crossing the reality gap in evolutionary robotics by promoting transferable controllers.</title>
+<pages>119-126</pages>
+<year>2010</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/1830483.1830505</ee>
+<ee>https://www.wikidata.org/entity/Q59275136</ee>
+<crossref>conf/gecco/2010</crossref>
+<url>db/conf/gecco/gecco2010.html#KoosMD10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/MouretDG10" mdate="2019-06-02">
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<author orcid="0000-0002-8117-7064">Benoît Girard 0001</author>
+<title>Importing the computational neuroscience toolbox into neuro-evolution-application to basal ganglia.</title>
+<pages>587-594</pages>
+<year>2010</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/1830483.1830592</ee>
+<ee>https://www.wikidata.org/entity/Q59275137</ee>
+<crossref>conf/gecco/2010</crossref>
+<url>db/conf/gecco/gecco2010.html#MouretDG10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sab/2010" mdate="2019-05-14">
+<editor>Stéphane Doncieux</editor>
+<editor>Benoît Girard 0001</editor>
+<editor>Agnès Guillot</editor>
+<editor>John Hallam</editor>
+<editor>Jean-Arcady Meyer</editor>
+<editor>Jean-Baptiste Mouret</editor>
+<title>From Animals to Animats 11, 11th International Conference on Simulation of Adaptive Behavior, SAB 2010, Paris - Clos Lucé, France, August 25-28, 2010. Proceedings</title>
+<volume>6226</volume>
+<year>2010</year>
+<ee>https://doi.org/10.1007/978-3-642-15193-4</ee>
+<isbn>978-3-642-15192-7</isbn>
+<booktitle>SAB</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/sab/sab2010.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/cec/KoosMD09" mdate="2019-06-02">
+<author>Sylvain Koos</author>
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<title>Automatic system identification based on coevolution of models and tests.</title>
+<pages>560-567</pages>
+<year>2009</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2009.4982995</ee>
+<ee>https://www.wikidata.org/entity/Q59275142</ee>
+<crossref>conf/cec/2009</crossref>
+<url>db/conf/cec/cec2009.html#KoosMD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/MouretD09" mdate="2019-06-02">
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<title>Overcoming the bootstrap problem in evolutionary robotics using behavioral diversity.</title>
+<pages>1161-1168</pages>
+<year>2009</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2009.4983077</ee>
+<ee>https://www.wikidata.org/entity/Q59275147</ee>
+<crossref>conf/cec/2009</crossref>
+<url>db/conf/cec/cec2009.html#MouretD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/MouretD09a" mdate="2019-06-02">
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<title>Evolving modular neural-networks through exaptation.</title>
+<pages>1570-1577</pages>
+<year>2009</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2009.4983129</ee>
+<ee>https://www.wikidata.org/entity/Q59275144</ee>
+<crossref>conf/cec/2009</crossref>
+<url>db/conf/cec/cec2009.html#MouretD09a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecal/TonelliMD09" mdate="2019-06-02">
+<author>Paul Tonelli</author>
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<title>Influence of Promoter Length on Network Convergence in GRN-Based Evolutionary Algorithms.</title>
+<pages>302-309</pages>
+<year>2009</year>
+<booktitle>ECAL (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21314-4_38</ee>
+<ee>https://www.wikidata.org/entity/Q59275127</ee>
+<crossref>conf/ecal/2009-2</crossref>
+<url>db/conf/ecal/ecal2009-2.html#TonelliMD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/MouretD09" mdate="2019-06-02">
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<title>Using behavioral exploration objectives to solve deceptive problems in neuro-evolution.</title>
+<pages>627-634</pages>
+<year>2009</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/1569901.1569988</ee>
+<ee>https://www.wikidata.org/entity/Q59275151</ee>
+<crossref>conf/gecco/2009g</crossref>
+<url>db/conf/gecco/gecco2009.html#MouretD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoncieuxM09" mdate="2019-06-02">
+<author>Stéphane Doncieux</author>
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<title>Single step evolution of robot controllers for sequential tasks.</title>
+<pages>1771-1772</pages>
+<year>2009</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/1569901.1570152</ee>
+<ee>https://www.wikidata.org/entity/Q59275150</ee>
+<crossref>conf/gecco/2009g</crossref>
+<url>db/conf/gecco/gecco2009.html#DoncieuxM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/AngeliDMF09" mdate="2017-06-15">
+<author>Adrien Angeli</author>
+<author>Stéphane Doncieux</author>
+<author>Jean-Arcady Meyer</author>
+<author orcid="0000-0002-5739-1618">David Filliat</author>
+<title>Visual topological SLAM and global localization.</title>
+<pages>4300-4305</pages>
+<year>2009</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2009.5152501</ee>
+<crossref>conf/icra/2009</crossref>
+<url>db/conf/icra/icra2009.html#AngeliDMF09</url>
+</inproceedings>
+</r>
+<r><article key="journals/evi/MouretD08" mdate="2019-06-02">
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<title>MENNAG: a modular, regular and hierarchical encoding for neural-networks based on attribute grammars.</title>
+<pages>187-207</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Evolutionary Intelligence</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s12065-008-0015-7</ee>
+<ee>https://www.wikidata.org/entity/Q59275149</ee>
+<url>db/journals/evi/evi1.html#MouretD08</url>
+</article>
+</r>
+<r><article key="journals/trob/AngeliFDM08" mdate="2017-06-15">
+<author>Adrien Angeli</author>
+<author orcid="0000-0002-5739-1618">David Filliat</author>
+<author>Stéphane Doncieux</author>
+<author>Jean-Arcady Meyer</author>
+<title>Fast and Incremental Method for Loop-Closure Detection Using Bags of Visual Words.</title>
+<pages>1027-1037</pages>
+<year>2008</year>
+<volume>24</volume>
+<journal>IEEE Trans. Robotics</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TRO.2008.2004514</ee>
+<url>db/journals/trob/trob24.html#AngeliFDM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/AngeliDMF08" mdate="2017-06-15">
+<author>Adrien Angeli</author>
+<author>Stéphane Doncieux</author>
+<author>Jean-Arcady Meyer</author>
+<author orcid="0000-0002-5739-1618">David Filliat</author>
+<title>Real-time visual loop-closure detection.</title>
+<pages>1842-1847</pages>
+<year>2008</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2008.4543475</ee>
+<crossref>conf/icra/2008</crossref>
+<url>db/conf/icra/icra2008.html#AngeliDMF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/AngeliDMF08" mdate="2017-06-15">
+<author>Adrien Angeli</author>
+<author>Stéphane Doncieux</author>
+<author>Jean-Arcady Meyer</author>
+<author orcid="0000-0002-5739-1618">David Filliat</author>
+<title>Incremental vision-based topological SLAM.</title>
+<pages>1031-1036</pages>
+<year>2008</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2008.4650675</ee>
+<crossref>conf/iros/2008</crossref>
+<url>db/conf/iros/iros2008.html#AngeliDMF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sab/MouretD08" mdate="2019-06-02">
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<title>Incremental Evolution of Animats' Behaviors as a Multi-objective Optimization.</title>
+<pages>210-219</pages>
+<year>2008</year>
+<booktitle>SAB</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-69134-1_21</ee>
+<ee>https://www.wikidata.org/entity/Q59275153</ee>
+<crossref>conf/sab/2008</crossref>
+<url>db/conf/sab/sab2008.html#MouretD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sab/MouretDM06" mdate="2017-06-05">
+<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+<author>Stéphane Doncieux</author>
+<author>Jean-Arcady Meyer</author>
+<title>Incremental Evolution of Target-Following Neuro-controllers for Flapping-Wing Animats.</title>
+<pages>606-618</pages>
+<year>2006</year>
+<crossref>conf/sab/2006</crossref>
+<booktitle>SAB</booktitle>
+<ee>https://doi.org/10.1007/11840541_50</ee>
+<url>db/conf/sab/sab2006.html#MouretDM06</url>
+</inproceedings>
+</r>
+<r><article key="journals/cis/DoncieuxM05" mdate="2017-05-28">
+<author>Stéphane Doncieux</author>
+<author>Jean-Arcady Meyer</author>
+<title>Evolving PID-like Neurocontrollers for Nonlinear Control Problems.</title>
+<year>2005</year>
+<volume>33</volume>
+<journal>Control and Intelligent Systems</journal>
+<number>1</number>
+<ee>https://doi.org/10.2316/Journal.201.2005.1.201-1555</ee>
+<url>db/journals/cis/cis33.html#DoncieuxM05</url>
+</article>
+</r>
+<r><article key="journals/ras/MuratetDBM05" mdate="2017-05-20">
+<author>Laurent Muratet</author>
+<author>Stéphane Doncieux</author>
+<author>Yves Briere</author>
+<author>Jean-Arcady Meyer</author>
+<title>A contribution to vision-based autonomous helicopter flight in urban environments.</title>
+<pages>195-209</pages>
+<year>2005</year>
+<volume>50</volume>
+<journal>Robotics and Autonomous Systems</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.robot.2004.09.017</ee>
+<url>db/journals/ras/ras50.html#MuratetDBM05</url>
+</article>
+</r>
+<r><inproceedings key="conf/evoW/DoncieuxM03" mdate="2017-05-21">
+<author>Stéphane Doncieux</author>
+<author>Jean-Arcady Meyer</author>
+<title>Evolving Neural Networks for the Control of a Lenticular Blimp.</title>
+<pages>626-637</pages>
+<year>2003</year>
+<crossref>conf/evoW/2003</crossref>
+<booktitle>EvoWorkshops</booktitle>
+<ee>https://doi.org/10.1007/3-540-36605-9_57</ee>
+<url>db/conf/evoW/evoW2003.html#DoncieuxM03</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/LandauDDM02" mdate="2006-04-27">
+<author>Samuel Landau</author>
+<author>Stéphane Doncieux</author>
+<author>Alexis Drogoul</author>
+<author>Jean-Arcady Meyer</author>
+<title>SFERES : Un framework pour la conception de systèmes multi-agents adaptatifs.</title>
+<pages>427-446</pages>
+<year>2002</year>
+<volume>21</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>4</number>
+<ee>http://tsi.revuesonline.com/article.jsp?articleId=263</ee>
+<url>db/journals/tsi/tsi21.html#LandauDDM02</url>
+</article>
+</r>
+<coauthors n="94" nc="2">
+<co c="1"><na f="a/Aaron:Eric">Eric Aaron</na></co>
+<co c="0"><na f="a/Adami:Christoph">Christoph Adami</na></co>
+<co c="0"><na f="a/Altenberg:Lee">Lee Altenberg</na></co>
+<co c="0"><na f="a/Angeli:Adrien">Adrien Angeli</na></co>
+<co c="0"><na f="a/Auerbach:Joshua_Evan">Joshua Evan Auerbach</na></co>
+<co c="0"><na f="b/Beaulieu:Julie">Julie Beaulieu</na></co>
+<co c="0"><na f="b/Bentley:Peter_J=">Peter J. Bentley</na></co>
+<co c="0"><na f="b/Bernard:Samuel">Samuel Bernard</na></co>
+<co c="0"><na f="b/Beslon:Guillaume">Guillaume Beslon</na></co>
+<co c="0"><na f="b/Bred=egrave=che:Nicolas">Nicolas Bredèche</na></co>
+<co c="0"><na f="b/Briere:Yves">Yves Briere</na></co>
+<co c="0"><na f="b/Bryson:David_M=">David M. Bryson</na></co>
+<co c="0"><na f="c/Chaskalovic:Jo=euml=l">Joël Chaskalovic</na></co>
+<co c="0"><na f="c/Cheney:Nick">Nick Cheney</na></co>
+<co c="0"><na f="c/Chrabaszcz:Patryk">Patryk Chrabaszcz</na></co>
+<co c="0"><na f="c/Clune:Jeff">Jeff Clune</na></co>
+<co c="0"><na f="c/Coninx:Alexandre">Alexandre Coninx</na></co>
+<co c="0"><na f="c/Cressot:Loic">Loic Cressot</na></co>
+<co c="0"><na f="c/Cully:Antoine">Antoine Cully</na></co>
+<co c="0"><na f="d/Drogoul:Alexis">Alexis Drogoul</na></co>
+<co c="0"><na f="d/Duro:Richard_J=">Richard J. Duro</na></co>
+<co c="0"><na f="d/Dyer:Fred_C=">Fred C. Dyer</na></co>
+<co c="0"><na f="e/Eiben:A=_E=">A. E. Eiben</na></co>
+<co c="0"><na f="e/Ellefsen:Kai_Olav">Kai Olav Ellefsen</na></co>
+<co c="0"><na f="f/Feldt:Robert">Robert Feldt</na></co>
+<co c="0"><na f="f/Filliat:David">David Filliat</na></co>
+<co c="0"><na f="f/Fischer_0002:Stephan">Stephan Fischer 0002</na></co>
+<co c="0"><na f="f/Forrest:Stephanie">Stephanie Forrest</na></co>
+<co c="0"><na f="f/Fr=eacute=noy:Antoine">Antoine Frénoy</na></co>
+<co c="0"><na f="f/Fur:Pierre=Henri_Le">Pierre-Henri Le Fur</na></co>
+<co c="0"><na f="g/Gagn=eacute=:Christian">Christian Gagné</na></co>
+<co c="0"><na f="g/Girard_0001:Beno=icirc=t">Benoît Girard 0001</na></co>
+<co c="0" n="2"><na f="g/Goff:Leni_K=_Le">Leni K. Le Goff</na><na>Léni K. Le Goff</na></co>
+<co c="0"><na f="g/Gonzales:Christophe">Christophe Gonzales</na></co>
+<co c="0"><na f="g/Grabowski:Laura_M=">Laura M. Grabowski</na></co>
+<co c="0"><na f="g/Guillot:Agn=egrave=s">Agnès Guillot</na></co>
+<co c="0"><na f="h/Hallam:John">John Hallam</na></co>
+<co c="0"><na f="h/Hamdaoui:Mohamed">Mohamed Hamdaoui</na></co>
+<co c="0"><na f="h/Hodjat:Babak">Babak Hodjat</na></co>
+<co c="0"><na f="h/Hospedales:Timothy_M=">Timothy M. Hospedales</na></co>
+<co c="0"><na f="h/Hutter:Frank">Frank Hutter</na></co>
+<co c="0"><na f="j/Jegorova:Marija">Marija Jegorova</na></co>
+<co c="0"><na f="j/Jin:Yaochu">Yaochu Jin</na></co>
+<co c="0"><na f="k/Keller:Laurent">Laurent Keller</na></co>
+<co c="0"><na f="k/Kim:Seungsu">Seungsu Kim</na></co>
+<co c="0"><na f="k/Knibbe:Carole">Carole Knibbe</na></co>
+<co c="0"><na f="k/Koos:Sylvain">Sylvain Koos</na></co>
+<co c="0"><na f="k/Krcah:Peter">Peter Krcah</na></co>
+<co c="0"><na f="l/Laflaqui=egrave=re:Alban">Alban Laflaquière</na></co>
+<co c="0"><na f="l/Landau:Samuel">Samuel Landau</na></co>
+<co c="0"><na f="l/Lehman:Joel">Joel Lehman</na></co>
+<co c="0"><na f="l/Lenski:Richard_E=">Richard E. Lenski</na></co>
+<co c="0"><na f="l/Li=eacute=nard:Jean">Jean Liénard</na></co>
+<co c="0"><na f="l/Lipson:Hod">Hod Lipson</na></co>
+<co c="1"><na f="l/Long:John_H=">John H. Long</na></co>
+<co c="0"><na f="m/MacCurdy:Robert">Robert MacCurdy</na></co>
+<co c="0"><na f="m/Maestre:Carlos">Carlos Maestre</na></co>
+<co c="0"><na f="m/Merckling:Astrid">Astrid Merckling</na></co>
+<co c="0"><na f="m/Meyer:Jean=Arcady">Jean-Arcady Meyer</na></co>
+<co c="0"><na f="m/Miikkulainen:Risto">Risto Miikkulainen</na></co>
+<co c="0"><na f="m/Misevic:Dusan">Dusan Misevic</na></co>
+<co c="0"><na f="m/Mitri:Sara">Sara Mitri</na></co>
+<co c="0"><na f="m/Moriarty:David_E=">David E. Moriarty</na></co>
+<co c="0"><na f="m/Mouret:Jean=Baptiste">Jean-Baptiste Mouret</na></co>
+<co c="0"><na f="m/Mukhtar:Ghanim">Ghanim Mukhtar</na></co>
+<co c="0"><na f="m/Muratet:Laurent">Laurent Muratet</na></co>
+<co c="0"><na f="n/Nguyen:Anh">Anh Nguyen</na></co>
+<co c="0"><na f="o/Ofria:Charles">Charles Ofria</na></co>
+<co c="0"><na f="o/Ollion:Charles">Charles Ollion</na></co>
+<co c="0"><na f="p/Paolo:Giuseppe">Giuseppe Paolo</na></co>
+<co c="0"><na f="p/Parizeau:Marc">Marc Parizeau</na></co>
+<co c="0"><na f="p/Parsons:David_P=">David P. Parsons</na></co>
+<co c="0"><na f="p/Pennock:Robert_T=">Robert T. Pennock</na></co>
+<co c="0"><na f="p/Perrin_0001:Nicolas">Nicolas Perrin 0001</na></co>
+<co c="0"><na f="p/Pinville:Tony">Tony Pinville</na></co>
+<co c="0"><na f="p/Punch:William_F=">William F. Punch</na></co>
+<co c="0"><na f="r/Ray:Thomas_S=">Thomas S. Ray</na></co>
+<co c="0"><na f="r/Rodr=iacute=guez:Natalia_D=iacute=az">Natalia Díaz Rodríguez</na></co>
+<co c="0"><na f="r/Roijers:Diederik_M=">Diederik M. Roijers</na></co>
+<co c="0"><na f="s/Schoenauer:Marc">Marc Schoenauer</na></co>
+<co c="0"><na f="s/Shulte:Eric">Eric Shulte</na></co>
+<co c="0"><na f="s/Sigaud:Olivier">Olivier Sigaud</na></co>
+<co c="0"><na f="s/Sims:Karl">Karl Sims</na></co>
+<co c="0"><na f="s/Stanley:Kenneth_O=">Kenneth O. Stanley</na></co>
+<co c="0"><na f="t/Taddei:Fran=ccedil=ois">François Taddei</na></co>
+<co c="0"><na f="t/Tarapore:Danesh">Danesh Tarapore</na></co>
+<co c="0"><na f="t/Thibault:Simon">Simon Thibault</na></co>
+<co c="0"><na f="t/Tonelli:Paul">Paul Tonelli</na></co>
+<co c="0"><na f="v/Vladar:Harold_P=_de">Harold P. de Vladar</na></co>
+<co c="0"><na f="w/Watson:Richard">Richard Watson</na></co>
+<co c="0"><na f="w/Weimer:Westley">Westley Weimer</na></co>
+<co c="0"><na f="y/Yaakoubi:Oussama">Oussama Yaakoubi</na></co>
+<co c="0"><na f="y/Yosinksi:Jason">Jason Yosinksi</na></co>
+<co c="-1"><na f="z/Zimmer:Matthieu">Matthieu Zimmer</na></co>
+</coauthors>
+</dblpperson>
+

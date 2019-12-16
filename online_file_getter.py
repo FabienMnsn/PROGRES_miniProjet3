@@ -5,28 +5,56 @@ import os
 #imported from our project :
 from xml_file_transcoding import *
 
-def request_author_file_builder(author_name):
+
+def create_dico_html(caracter_table_file_path):
 	"""
-	Retourne un url de requête donnant aucces au fichier xml correspondant au nom de l'auteur en paramètre
+	Cree un ditionnaire des codes html correspondnats au caracteres speciaux
+
+	@param
+	caracter_table_file_path = "/Doxuments/table_html.txt"
+	"""
+	dico = {}
+	table = open(caracter_table_file_path, "r", encoding='utf-8')
+	line = table.readline()
+	while(line != ""):
+		stri = line.split('|')
+		dico[stri[0]] = stri[1][1:-2]
+		line = table.readline()
+	table.close()
+	return dico
+
+
+def request_author_file_builder(author_name, table_path):
+	"""
+	Retourne un url de requete donnant aucces au fichier xml correspondant au nom de l auteur en parametre
 	
 	@param
 	author_name = "Prenom Nom"
 	"""
-	author_name_split = author_name.split(' ')
+	dico = create_dico_html(table_path)
+	splited_name = list(author_name)
+	splited_changed = []
+	for char in splited_name:
+		if(char in dico):
+			splited_changed.append('='+dico[char]+'=')
+		else:
+			splited_changed.append(char)
+	author_name_changed = "".join(splited_changed)
+	author_name_split = author_name_changed.split(' ')
 	last_name_cut = author_name_split[1][0].lower()
 	request = "https://dblp.uni-trier.de/pers/xx/"+last_name_cut+"/"+author_name_split[1]+":"+author_name_split[0]+".xml"
 	return request
 
 
-def download_file(author_name, download_path):
+def download_file(author_name, download_path, table_path):
 	"""
-	Télécharge et parse un fichier xml correspondant au nom de l'auteur passé en paramètre.
+	Telecharge et parse un fichier xml correspondant au nom de l'auteur passe en parametre.
 
 	@param
 	author_name = "Prenom Nom"
 	download_path = "XML/downloads/"
 	"""
-	requested = requests.get(request_author_file_builder(author_name))
+	requested = requests.get(request_author_file_builder(author_name, table_path))
 	file_name = download_path+"_"+author_name+".xml"
 	if(requested.status_code == 200):
 		with open(file_name, 'wb') as local_file:
@@ -40,6 +68,12 @@ def download_file(author_name, download_path):
 
 
 if __name__ == '__main__':
-	print(request_author_file_builder("Sebastien Baey"))
-	#pb avec les accents => solution : changer la fonction de réation d'url
-	#download_file("S=eacute=bastien Baey", "XML/")
+
+	#TESTS START
+	#print(request_author_file_builder("Sébastien Baey", "table_html.txt"))
+	#pb avec les accents => solution : changer la fonction de creation d'url
+	author_name = input("Entrez un nom de chercheur :")
+	download_file(author_name, "XML/", "table_html.txt")
+	#di = create_dico_html("table_html.txt")
+	#print(di["é"])
+	#TESTS END

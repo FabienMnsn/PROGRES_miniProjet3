@@ -1,6 +1,6 @@
-import json
+#import json
 import re
-import sys
+#import sys
 from xml.dom import minidom
 
 def create_dict(table_file_path):
@@ -13,11 +13,8 @@ def create_dict(table_file_path):
     line = file.readline()
     dict = {}
     while(line != ""):
-        str = line.split(';')
-        key = str[1][:-1]
-        value = str[0]
-        if(str[1][:-1] != "Alt"):
-            dict[key] = value
+        stri = line.split('|')
+        dict[stri[1][:-1]] = stri[0]
         line = file.readline()
     file.close()
     return dict
@@ -60,16 +57,6 @@ def _extend_split_char_code(string):
     return res
 
 
-def find_index(split_string, pattern):
-    """
-    retourne l'index du pattern dans le tableau de string split_string, et -1 en cas d'erreur
-    """
-    for i in range(len(split_string)+1):
-        if(pattern in split_string[i]):
-            return i
-    return -1
-
-
 def replace_char(splited_string, dictionnaire):
     """
     remplace le string pattern dans splited _string par le charactere corespondant au motif
@@ -78,13 +65,13 @@ def replace_char(splited_string, dictionnaire):
     res = []
     for elem in splited_string:
         #si c'est un '&' seul on le remplace par 'and'
-        if(elem == '&'):
+        if(elem == '&' and len(elem) == 1):
             res.append("and")
         #si c'est un code de caractere special, on le cherche deans le dico et on le remplace
         elif('&' in elem and ';' in elem):
-            if(elem[:-1] in dictionnaire):
+            if(elem in dictionnaire):
                 #elem = dico[elem[:-1]]
-                res.append(dico[elem[:-1]])
+                res.append(dictionnaire[elem])
             else:
                 elem = ""
                 res.append(elem)
@@ -137,7 +124,23 @@ def xml_formater(input_file, output_file, dictionnaire_code):
     print("--------Fermeture des fichiers", input_file, ", ", output_file)
 
 
+
+def parse_file(input_file_path, output_file_path, table_correspondance):
+	dico = create_dict(table_correspondance)
+	xml_formater(input_file_path, output_file_path, dico)
+
+
 if __name__ == '__main__':
+
+	#TESTS START
+	dico = create_dict("table_iso.txt")
+	string_in = "<author>S&#233;bastien & Monnet</author><author>Dami&#225;n Serrano</author>"
+	print(split_char_code(string_in))
+	parse_file("XML/Julien Sopena.xml", "XML/parsed_Julien.xml", "table_iso.txt")
+	#TESTS END
+
+
+	"""
     #dictionnaire des codes de caracteres speciaux
     print("----------------------------------------------")
     print("Ceci est un outil qui remplace tous les caractères spéciaux par le caractère utf-8 correspondant dans un fichier XML.")
@@ -154,3 +157,4 @@ if __name__ == '__main__':
     xml_formater(source_file_name, output_file_name, dico)
     print("----Fin du traitement du fichier XML, le résultat se trouve dans le fichier :", output_file_name)
     print("----------------------------------------------")
+"""

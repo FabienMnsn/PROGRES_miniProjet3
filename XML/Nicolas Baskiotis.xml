@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Nicolas Baskiotis" n="26">
+<person key="homepages/89/6907" mdate="2009-06-10">
+<author>Nicolas Baskiotis</author>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-1906-09838" mdate="2019-06-27">
+<author>Thomas Gerald</author>
+<author>Aurélia Léon</author>
+<author>Nicolas Baskiotis</author>
+<author>Ludovic Denoyer</author>
+<title>Binary Stochastic Representations for Large Multi-class Classification.</title>
+<year>2019</year>
+<volume>abs/1906.09838</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.09838</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-09838</url>
+</article>
+</r>
+<r><article key="journals/ijon/TonnelierBGG18" mdate="2018-06-01">
+<author>Emeric Tonnelier</author>
+<author orcid="0000-0001-5015-0961">Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Anomaly detection in smart card logs and distant evaluation with Twitter: a robust framework.</title>
+<pages>109-121</pages>
+<year>2018</year>
+<volume>298</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2017.12.067</ee>
+<url>db/journals/ijon/ijon298.html#TonnelierBGG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/setn/PrapasPAB18" mdate="2018-11-21">
+<author>Ioannis Prapas</author>
+<author>Georgios Paliouras</author>
+<author>Alexander Artikis</author>
+<author>Nicolas Baskiotis</author>
+<title>Towards Human Activity Reasoning with Computational Logic and Deep Learning.</title>
+<pages>27:1-27:4</pages>
+<year>2018</year>
+<booktitle>SETN</booktitle>
+<ee>https://doi.org/10.1145/3200947.3201051</ee>
+<crossref>conf/setn/2018</crossref>
+<url>db/conf/setn/setn2018.html#PrapasPAB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esann/TonnelierBGG17" mdate="2018-11-08">
+<author>Emeric Tonnelier</author>
+<author>Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Anomaly detection and characterization in smart card logs using NMF and Tweets.</title>
+<year>2017</year>
+<booktitle>ESANN</booktitle>
+<ee>http://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2017-93.pdf</ee>
+<crossref>conf/esann/2017</crossref>
+<url>db/conf/esann/esann2017.html#TonnelierBGG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iconip/GeraldBD17" mdate="2017-11-15">
+<author>Thomas Gerald</author>
+<author>Nicolas Baskiotis</author>
+<author>Ludovic Denoyer</author>
+<title>Binary Stochastic Representations for Large Multi-class Classification.</title>
+<pages>155-165</pages>
+<year>2017</year>
+<booktitle>ICONIP (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-70087-8_17</ee>
+<crossref>conf/iconip/2017-1</crossref>
+<url>db/conf/iconip/iconip2017-1.html#GeraldBD17</url>
+</inproceedings>
+</r>
+<r><article key="journals/paa/DhanjalBCU16" mdate="2017-05-20">
+<author>Charanpal Dhanjal</author>
+<author>Nicolas Baskiotis</author>
+<author>Stéphan Clémençon</author>
+<author>Nicolas Usunier</author>
+<title>An empirical comparison of V-fold penalisation and cross-validation for model selection in distribution-free regression.</title>
+<pages>41-53</pages>
+<year>2016</year>
+<volume>19</volume>
+<journal>Pattern Anal. Appl.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10044-014-0381-y</ee>
+<url>db/journals/paa/paa19.html#DhanjalBCU16</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/KraljevicBPG16" mdate="2017-05-08">
+<author>Zeljko Kraljevic</author>
+<author>Nicolas Baskiotis</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Représentation temporelle des mots : application au clustering de micro-blogs.</title>
+<pages>531-544</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<ee>https://doi.org/10.24348/sdnri.2016.37</ee>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#KraljevicBPG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esann/ZiatCBD16" mdate="2018-11-07">
+<author>Ali Ziat</author>
+<author>Gabriella Contardo</author>
+<author>Nicolas Baskiotis</author>
+<author>Ludovic Denoyer</author>
+<title>Learning Embeddings for Completion and Prediction of Relationnal Multivariate Time-Series.</title>
+<year>2016</year>
+<booktitle>ESANN</booktitle>
+<ee>http://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2016-103.pdf</ee>
+<crossref>conf/esann/2016</crossref>
+<url>db/conf/esann/esann2016.html#ZiatCBD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/ZiatLBD16" mdate="2017-05-23">
+<author>Ali Ziat</author>
+<author>Bertrand Leroy</author>
+<author>Nicolas Baskiotis</author>
+<author>Ludovic Denoyer</author>
+<title>Joint prediction of road-traffic and parking occupancy over a city with representation learning.</title>
+<pages>725-730</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2016.7795634</ee>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#ZiatLBD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/DelauneyBG16" mdate="2017-05-23">
+<author>Cynthia Delauney</author>
+<author>Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<title>Trajectory Bayesian indexing: The airport ground traffic case.</title>
+<pages>1047-1052</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2016.7795685</ee>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#DelauneyBG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/TonnelierBGG16" mdate="2017-05-23">
+<author>Emeric Tonnelier</author>
+<author>Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Smart card in public transportation: Designing a analysis system at the human scale.</title>
+<pages>1336-1341</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2016.7795730</ee>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#TonnelierBGG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/bmcbi/TsatsaronisBMPZ15" mdate="2018-11-14">
+<author orcid="0000-0003-2116-2933">George Tsatsaronis</author>
+<author>Georgios Balikas</author>
+<author>Prodromos Malakasiotis</author>
+<author>Ioannis Partalas</author>
+<author>Matthias Zschunke</author>
+<author>Michael R. Alvers</author>
+<author>Dirk Weissenborn</author>
+<author orcid="0000-0003-0491-4507">Anastasia Krithara</author>
+<author orcid="0000-0001-8926-7382">Sergios Petridis</author>
+<author orcid="0000-0001-9427-3082">Dimitris Polychronopoulos</author>
+<author>Yannis Almirantis</author>
+<author>John Pavlopoulos</author>
+<author>Nicolas Baskiotis</author>
+<author>Patrick Gallinari</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Axel-Cyrille Ngonga Ngomo</author>
+<author>Norman Heino</author>
+<author>Éric Gaussier</author>
+<author>Liliana Barrio-Alvers</author>
+<author>Michael Schroeder 0001</author>
+<author>Ion Androutsopoulos</author>
+<author>Georgios Paliouras</author>
+<title>An overview of the BIOASQ large-scale biomedical semantic indexing and question answering competition.</title>
+<pages>138:1-138:28</pages>
+<year>2015</year>
+<volume>16</volume>
+<journal>BMC Bioinformatics</journal>
+<ee type="oa">https://doi.org/10.1186/s12859-015-0564-6</ee>
+<ee>https://www.wikidata.org/entity/Q28646342</ee>
+<url>db/journals/bmcbi/bmcbi16.html#TsatsaronisBMPZ15</url>
+</article>
+</r>
+<r><article key="journals/infsof/LamprierBZH15" mdate="2017-05-17">
+<author>Sylvain Lamprier</author>
+<author>Nicolas Baskiotis</author>
+<author>Tewfik Ziadi</author>
+<author>Lom-Messan Hillah</author>
+<title>The CARE platform for the analysis of behavior model inference techniques.</title>
+<pages>32-50</pages>
+<year>2015</year>
+<volume>60</volume>
+<journal>Information & Software Technology</journal>
+<ee>https://doi.org/10.1016/j.infsof.2014.12.004</ee>
+<url>db/journals/infsof/infsof60.html#LamprierBZH15</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsaa/PugetB15" mdate="2017-05-19">
+<author>Raphael Puget</author>
+<author>Nicolas Baskiotis</author>
+<title>Hierarchical label partitioning for large scale classification.</title>
+<pages>1-10</pages>
+<year>2015</year>
+<booktitle>DSAA</booktitle>
+<ee>https://doi.org/10.1109/DSAA.2015.7344792</ee>
+<crossref>conf/dsaa/2015</crossref>
+<url>db/conf/dsaa/dsaa2015.html#PugetB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/ZiatCBD15" mdate="2019-05-28">
+<author>Ali Ziat</author>
+<author>Gabriella Contardo</author>
+<author>Nicolas Baskiotis</author>
+<author>Ludovic Denoyer</author>
+<title>Car-Traffic Forecasting: A Representation Learning Approach.</title>
+<pages>85-87</pages>
+<year>2015</year>
+<booktitle>MUD@ICML</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1392/paper-12.pdf</ee>
+<crossref>conf/icml/2015mud</crossref>
+<url>db/conf/icml/mud2015.html#ZiatCBD15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PartalasKBAPGAA15" mdate="2018-08-13">
+<author>Ioannis Partalas</author>
+<author>Aris Kosmopoulos</author>
+<author>Nicolas Baskiotis</author>
+<author>Thierry Artières</author>
+<author>George Paliouras</author>
+<author>Éric Gaussier</author>
+<author>Ion Androutsopoulos</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>LSHTC: A Benchmark for Large-Scale Text Classification.</title>
+<year>2015</year>
+<volume>abs/1503.08581</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1503.08581</ee>
+<url>db/journals/corr/corr1503.html#PartalasKBAPGAA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/iceccs/LamprierZBH14" mdate="2017-05-26">
+<author>Sylvain Lamprier</author>
+<author>Tewfik Ziadi</author>
+<author>Nicolas Baskiotis</author>
+<author>Lom-Messan Hillah</author>
+<title>Exact and Efficient Temporal Steering of Software Behavioral Model Inference.</title>
+<pages>166-175</pages>
+<year>2014</year>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS.2014.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICECCS.2014.31</ee>
+<crossref>conf/iceccs/2014</crossref>
+<url>db/conf/iceccs/iceccs2014.html#LamprierZBH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/PoussevinTBGG14" mdate="2017-05-22">
+<author>Mickaël Poussevin</author>
+<author>Emeric Tonnelier</author>
+<author>Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Mining Ticketing Logs for Usage Characterization with Nonnegative Matrix Factorization.</title>
+<pages>147-164</pages>
+<year>2014</year>
+<booktitle>MSM/MUSE/SenseML</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-29009-6_8</ee>
+<crossref>conf/pkdd/2014muse</crossref>
+<url>db/conf/pkdd/muse2014.html#PoussevinTBGG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/LamprierBZH13" mdate="2017-05-26">
+<author>Sylvain Lamprier</author>
+<author>Nicolas Baskiotis</author>
+<author>Tewfik Ziadi</author>
+<author>Lom-Messan Hillah</author>
+<title>CARE: A Platform for Reliable Comparison and Analysis of Reverse-Engineering Techniques.</title>
+<pages>252-255</pages>
+<year>2013</year>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS.2013.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICECCS.2013.44</ee>
+<crossref>conf/iceccs/2013</crossref>
+<url>db/conf/iceccs/iceccs2013.html#LamprierBZH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/RichardBEV10" mdate="2014-12-10">
+<author>Emile Richard</author>
+<author>Nicolas Baskiotis</author>
+<author>Theodoros Evgeniou</author>
+<author>Nicolas Vayatis</author>
+<title>Link Discovery using Graph Feature Tracking.</title>
+<pages>1966-1974</pages>
+<year>2010</year>
+<booktitle>NIPS</booktitle>
+<ee>http://papers.nips.cc/paper/3911-link-discovery-using-graph-feature-tracking</ee>
+<crossref>conf/nips/2010</crossref>
+<url>db/conf/nips/nips2010.html#RichardBEV10</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/BaskiotisSG08" mdate="2018-08-23">
+<author>Nicolas Baskiotis</author>
+<author>Michèle Sebag</author>
+<author>Marie-Claude Gaudel</author>
+<title>SoftwareTesting with Active Learning in a Graph.</title>
+<year>2008</year>
+<booktitle>Evolutionary Test Generation</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2009/2014/</ee>
+<crossref>conf/dagstuhl/2008P8351</crossref>
+<url>db/conf/dagstuhl/P8351.html#BaskiotisSG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BaskiotisSGG07" mdate="2019-08-20">
+<author>Nicolas Baskiotis</author>
+<author>Michèle Sebag</author>
+<author>Marie-Claude Gaudel</author>
+<author>Sandrine-Dominique Gouraud</author>
+<title>A Machine Learning Approach for Statistical Software Testing.</title>
+<pages>2274-2279</pages>
+<year>2007</year>
+<crossref>conf/ijcai/2007</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/07/Papers/366.pdf</ee>
+<url>db/conf/ijcai/ijcai2007.html#BaskiotisSGG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ilp/BaskiotisS07" mdate="2017-05-17">
+<author>Nicolas Baskiotis</author>
+<author>Michèle Sebag</author>
+<title>Structural Statistical Software Testing with Active Learning in a Graph.</title>
+<pages>49-62</pages>
+<year>2007</year>
+<booktitle>ILP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78469-2_9</ee>
+<crossref>conf/ilp/2007</crossref>
+<url>db/conf/ilp/ilp2007.html#BaskiotisS07</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/BaskiotisS07" mdate="2018-08-23">
+<author>Nicolas Baskiotis</author>
+<author>Michèle Sebag</author>
+<title>Structural Sampling for Statistical Software Testing.</title>
+<year>2007</year>
+<booktitle>Probabilistic, Logical and Relational Learning - A Further Synthesis</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2008/1387</ee>
+<crossref>conf/dagstuhl/2007P7161</crossref>
+<url>db/conf/dagstuhl/P7161.html#BaskiotisS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cfap/BaskiotisST05" mdate="2005-06-29">
+<author>Nicolas Baskiotis</author>
+<author>Michèle Sebag</author>
+<author>Olivier Teytaud</author>
+<title>Systèmes inductifs-déductifs: une approche statistique.</title>
+<pages>145-146</pages>
+<year>2005</year>
+<crossref>conf/cfap/2005</crossref>
+<booktitle>CAP</booktitle>
+<url>db/conf/cfap/cap2005.html#BaskiotisST05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/BaskiotisS04" mdate="2018-11-06">
+<author>Nicolas Baskiotis</author>
+<author>Michèle Sebag</author>
+<title>C4.5 competence map: a phase transition-inspired approach.</title>
+<year>2004</year>
+<crossref>conf/icml/2004</crossref>
+<booktitle>ICML</booktitle>
+<ee>https://doi.org/10.1145/1015330.1015398</ee>
+<url>db/conf/icml/icml2004.html#BaskiotisS04</url>
+</inproceedings>
+</r>
+<coauthors n="51" nc="1">
+<co c="0"><na f="a/Almirantis:Yannis">Yannis Almirantis</na></co>
+<co c="0"><na f="a/Alvers:Michael_R=">Michael R. Alvers</na></co>
+<co c="0"><na f="a/Amini:Massih=Reza">Massih-Reza Amini</na></co>
+<co c="0"><na f="a/Androutsopoulos:Ion">Ion Androutsopoulos</na></co>
+<co c="0"><na f="a/Arti=egrave=res:Thierry">Thierry Artières</na></co>
+<co c="0"><na f="a/Artikis:Alexander">Alexander Artikis</na></co>
+<co c="0"><na f="b/Balikas:Georgios">Georgios Balikas</na></co>
+<co c="0"><na f="b/Barrio=Alvers:Liliana">Liliana Barrio-Alvers</na></co>
+<co c="0"><na f="c/Cl=eacute=men=ccedil=on:St=eacute=phan">Stéphan Clémençon</na></co>
+<co c="0"><na f="c/Contardo:Gabriella">Gabriella Contardo</na></co>
+<co c="0"><na f="d/Delauney:Cynthia">Cynthia Delauney</na></co>
+<co c="0"><na f="d/Denoyer:Ludovic">Ludovic Denoyer</na></co>
+<co c="0"><na f="d/Dhanjal:Charanpal">Charanpal Dhanjal</na></co>
+<co c="0"><na f="e/Evgeniou:Theodoros">Theodoros Evgeniou</na></co>
+<co c="0"><na f="g/Gallinari:Patrick">Patrick Gallinari</na></co>
+<co c="0"><na f="g/Gaudel:Marie=Claude">Marie-Claude Gaudel</na></co>
+<co c="0"><na f="g/Gaussier:=Eacute=ric">Éric Gaussier</na></co>
+<co c="0"><na f="g/Gerald:Thomas">Thomas Gerald</na></co>
+<co c="0"><na f="g/Gouraud:Sandrine=Dominique">Sandrine-Dominique Gouraud</na></co>
+<co c="0"><na f="g/Guigue:Vincent">Vincent Guigue</na></co>
+<co c="0"><na f="h/Heino:Norman">Norman Heino</na></co>
+<co c="0"><na f="h/Hillah:Lom=Messan">Lom-Messan Hillah</na></co>
+<co c="0"><na f="k/Kosmopoulos:Aris">Aris Kosmopoulos</na></co>
+<co c="0"><na f="k/Kraljevic:Zeljko">Zeljko Kraljevic</na></co>
+<co c="0"><na f="k/Krithara:Anastasia">Anastasia Krithara</na></co>
+<co c="0"><na f="l/Lamprier:Sylvain">Sylvain Lamprier</na></co>
+<co c="0"><na f="l/L=eacute=on:Aur=eacute=lia">Aurélia Léon</na></co>
+<co c="0"><na f="l/Leroy:Bertrand">Bertrand Leroy</na></co>
+<co c="0"><na f="m/Malakasiotis:Prodromos">Prodromos Malakasiotis</na></co>
+<co c="0"><na f="n/Ngomo:Axel=Cyrille_Ngonga">Axel-Cyrille Ngonga Ngomo</na></co>
+<co c="0" n="2"><na f="p/Paliouras:Georgios">Georgios Paliouras</na><na>George Paliouras</na></co>
+<co c="0"><na f="p/Partalas:Ioannis">Ioannis Partalas</na></co>
+<co c="0"><na f="p/Pavlopoulos:John">John Pavlopoulos</na></co>
+<co c="0"><na f="p/Petridis:Sergios">Sergios Petridis</na></co>
+<co c="0"><na f="p/Piwowarski:Benjamin">Benjamin Piwowarski</na></co>
+<co c="0"><na f="p/Polychronopoulos:Dimitris">Dimitris Polychronopoulos</na></co>
+<co c="0"><na f="p/Poussevin:Micka=euml=l">Mickaël Poussevin</na></co>
+<co c="0"><na f="p/Prapas:Ioannis">Ioannis Prapas</na></co>
+<co c="-1"><na f="p/Puget:Raphael">Raphael Puget</na></co>
+<co c="0"><na f="r/Richard:Emile">Emile Richard</na></co>
+<co c="0"><na f="s/Schroeder_0001:Michael">Michael Schroeder 0001</na></co>
+<co c="0"><na f="s/Sebag:Mich=egrave=le">Michèle Sebag</na></co>
+<co c="0"><na f="t/Teytaud:Olivier">Olivier Teytaud</na></co>
+<co c="0"><na f="t/Tonnelier:Emeric">Emeric Tonnelier</na></co>
+<co c="0"><na f="t/Tsatsaronis:George">George Tsatsaronis</na></co>
+<co c="0"><na f="u/Usunier:Nicolas">Nicolas Usunier</na></co>
+<co c="0"><na f="v/Vayatis:Nicolas">Nicolas Vayatis</na></co>
+<co c="0"><na f="w/Weissenborn:Dirk">Dirk Weissenborn</na></co>
+<co c="0"><na f="z/Ziadi:Tewfik">Tewfik Ziadi</na></co>
+<co c="0"><na f="z/Ziat:Ali">Ali Ziat</na></co>
+<co c="0"><na f="z/Zschunke:Matthias">Matthias Zschunke</na></co>
+</coauthors>
+</dblpperson>
+

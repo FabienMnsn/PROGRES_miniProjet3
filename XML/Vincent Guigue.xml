@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Vincent Guigue" n="30">
+<person key="homepages/61/1640" mdate="2009-06-09">
+<author>Vincent Guigue</author>
+</person>
+<r><inproceedings key="conf/acl/SimonGP19" mdate="2019-08-19">
+<author>Étienne Simon</author>
+<author>Vincent Guigue</author>
+<author>Benjamin Piwowarski</author>
+<title>Unsupervised Information Extraction: Regularizing Discriminative Approaches with Relation Distribution Losses.</title>
+<pages>1378-1387</pages>
+<year>2019</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P19-1133/</ee>
+<crossref>conf/acl/2019-1</crossref>
+<url>db/conf/acl/acl2019-1.html#SimonGP19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/TonnelierBGG18" mdate="2018-06-01">
+<author>Emeric Tonnelier</author>
+<author orcid="0000-0001-5015-0961">Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Anomaly detection in smart card logs and distant evaluation with Twitter: a robust framework.</title>
+<pages>109-121</pages>
+<year>2018</year>
+<volume>298</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2017.12.067</ee>
+<url>db/journals/ijon/ijon298.html#TonnelierBGG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/DiasGGG18" mdate="2018-10-26">
+<author>Charles-Emmanuel Dias</author>
+<author>Clara Gainon de Forsan de Gabriac</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>RNN et modèle d'attention pour l'apprentissage de profils textuels personnalisés.</title>
+<year>2018</year>
+<booktitle>CORIA</booktitle>
+<ee>https://doi.org/10.24348/coria.2018.paper11</ee>
+<crossref>conf/coria/2018</crossref>
+<url>db/conf/coria/coria2018.html#DiasGGG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esann/DiasGG18" mdate="2018-11-09">
+<author>Charles-Emmanuel Dias</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Regularize and explicit collaborative filtering with textual attention.</title>
+<year>2018</year>
+<booktitle>ESANN</booktitle>
+<ee>http://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2018-152.pdf</ee>
+<crossref>conf/esann/2018</crossref>
+<url>db/conf/esann/esann2018.html#DiasGG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/DiasGG17" mdate="2017-05-08">
+<author>Charles-Emmanuel Dias</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Passé, présent, futurs : induction de carrières professionnelles à partir de CV.</title>
+<pages>281-296</pages>
+<year>2017</year>
+<booktitle>CORIA</booktitle>
+<ee>https://doi.org/10.24348/coria.2017.6</ee>
+<crossref>conf/coria/2017</crossref>
+<url>db/conf/coria/coria2017.html#DiasGG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esann/TonnelierBGG17" mdate="2018-11-08">
+<author>Emeric Tonnelier</author>
+<author>Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Anomaly detection and characterization in smart card logs using NMF and Tweets.</title>
+<year>2017</year>
+<booktitle>ESANN</booktitle>
+<ee>http://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2017-93.pdf</ee>
+<crossref>conf/esann/2017</crossref>
+<url>db/conf/esann/esann2017.html#TonnelierBGG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/DiasGG16" mdate="2017-05-08">
+<author>Charles-Emmanuel Dias</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Recommandation et analyse de sentiments dans un espace latent textuel.</title>
+<pages>73-88</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<ee>https://doi.org/10.24348/sdnri.2016.6</ee>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#DiasGG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/DelauneyBG16" mdate="2017-05-23">
+<author>Cynthia Delauney</author>
+<author>Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<title>Trajectory Bayesian indexing: The airport ground traffic case.</title>
+<pages>1047-1052</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2016.7795685</ee>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#DelauneyBG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/TonnelierBGG16" mdate="2017-05-23">
+<author>Emeric Tonnelier</author>
+<author>Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Smart card in public transportation: Designing a analysis system at the human scale.</title>
+<pages>1336-1341</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2016.7795730</ee>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#TonnelierBGG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/PoussevinGG15" mdate="2017-05-08">
+<author>Mickaël Poussevin</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Extraction d'un vocabulaire de surprise par mélange de filtrage collaboratif et d'analyse de sentiments.</title>
+<pages>123-138</pages>
+<year>2015</year>
+<booktitle>CORIA</booktitle>
+<ee>https://doi.org/10.24348/coria.2015.21</ee>
+<crossref>conf/coria/2015</crossref>
+<url>db/conf/coria/coria2015.html#PoussevinGG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esann/PipanmaekapornT15" mdate="2018-11-06">
+<author>Luepol Pipanmaekaporn</author>
+<author>Ludmilla Tajtelbom</author>
+<author>Vincent Guigue</author>
+<author>Thierry Artières</author>
+<title>Designing semantic feature spaces for brain-reading.</title>
+<year>2015</year>
+<booktitle>ESANN</booktitle>
+<ee>http://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-115.pdf</ee>
+<crossref>conf/esann/2015</crossref>
+<url>db/conf/esann/esann2015.html#PipanmaekapornT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/PoussevinGG15" mdate="2019-05-28">
+<author>Mickaël Poussevin</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Extended Recommendation Framework: Generating the Text of a User Review as a Personalized Summary.</title>
+<pages>34-41</pages>
+<year>2015</year>
+<booktitle>CBRecSys@RecSys</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1448/paper7.pdf</ee>
+<crossref>conf/recsys/2015cbrecsys</crossref>
+<url>db/conf/recsys/cbrecsys2015.html#PoussevinGG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/Guardia-Sebaoun15" mdate="2018-11-06">
+<author>Élie Guàrdia-Sebaoun</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Latent Trajectory Modeling: A Light and Efficient Way to Introduce Time in Recommender Systems.</title>
+<pages>281-284</pages>
+<year>2015</year>
+<booktitle>RecSys</booktitle>
+<ee>https://doi.org/10.1145/2792838.2799676</ee>
+<crossref>conf/recsys/2015</crossref>
+<url>db/conf/recsys/recsys2015.html#Guardia-Sebaoun15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/PoussevinSGG14" mdate="2017-05-08">
+<author>Mickaël Poussevin</author>
+<author>Élie Guàrdia-Sebaoun</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Recommandation par combinaison de filtrage collaboratif et d'analyse de sentiments.</title>
+<pages>27-42</pages>
+<year>2014</year>
+<booktitle>CORIA-CIFED</booktitle>
+<ee>https://doi.org/10.24348/sdnri.2014.CORIA-5</ee>
+<crossref>conf/coria/2014</crossref>
+<url>db/conf/coria/coria2014.html#PoussevinSGG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/PoussevinTBGG14" mdate="2017-05-22">
+<author>Mickaël Poussevin</author>
+<author>Emeric Tonnelier</author>
+<author>Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Mining Ticketing Logs for Usage Characterization with Nonnegative Matrix Factorization.</title>
+<pages>147-164</pages>
+<year>2014</year>
+<booktitle>MSM/MUSE/SenseML</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-29009-6_8</ee>
+<crossref>conf/pkdd/2014muse</crossref>
+<url>db/conf/pkdd/muse2014.html#PoussevinTBGG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sefm/NozzaMGMG14" mdate="2018-11-02">
+<author orcid="0000-0002-7998-2267">Debora Nozza</author>
+<author>Daniele Maccagnola</author>
+<author>Vincent Guigue</author>
+<author orcid="0000-0002-4062-0824">Enza Messina</author>
+<author>Patrick Gallinari</author>
+<title>A Latent Representation Model for Sentiment Analysis in Heterogeneous Social Networks.</title>
+<pages>201-213</pages>
+<year>2014</year>
+<booktitle>SEFM Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-15201-1_13</ee>
+<crossref>conf/sefm/2014w</crossref>
+<url>db/conf/sefm/sefm2014w.html#NozzaMGMG14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PoussevinGG14" mdate="2018-08-13">
+<author>Mickaël Poussevin</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Extended Recommendation Framework: Generating the Text of a User Review as a Personalized Summary.</title>
+<year>2014</year>
+<volume>abs/1412.5448</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.5448</ee>
+<url>db/journals/corr/corr1412.html#PoussevinGG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/RafrafiGG13" mdate="2017-05-08">
+<author>Abdelhalim Rafrafi</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Classification de Sentiments Multi-Domaines et Passage à l'Echelle.</title>
+<pages>117-124</pages>
+<year>2013</year>
+<booktitle>CORIA</booktitle>
+<ee>https://doi.org/10.24348/coria.2013.coria2013_33</ee>
+<crossref>conf/coria/2013</crossref>
+<url>db/conf/coria/coria2013.html#RafrafiGG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/riao/Guardia-SebaounRGG13" mdate="2014-05-29">
+<author>Élie Guàrdia-Sebaoun</author>
+<author>Abdelhalim Rafrafi</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Cross-media sentiment classification and application to box-office forecasting.</title>
+<pages>201-208</pages>
+<year>2013</year>
+<booktitle>OAIR</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2491789</ee>
+<crossref>conf/riao/2013</crossref>
+<url>db/conf/riao/oair2013.html#Guardia-SebaounRGG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/RafrafiGG12" mdate="2017-05-08">
+<author>Abdelhalim Rafrafi</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Représentations et régularisations pour la classification de sentiments.</title>
+<pages>285-300</pages>
+<year>2012</year>
+<booktitle>CORIA</booktitle>
+<ee>https://doi.org/10.24348/coria.2012.285</ee>
+<crossref>conf/coria/2012</crossref>
+<url>db/conf/coria/coria2012.html#RafrafiGG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/RafrafiGG12" mdate="2012-06-13">
+<author>Abdelhalim Rafrafi</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Coping with the Document Frequency Bias in Sentiment Classification.</title>
+<year>2012</year>
+<booktitle>ICWSM</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/ICWSM/ICWSM12/paper/view/4582</ee>
+<crossref>conf/icwsm/2012</crossref>
+<url>db/conf/icwsm/icwsm2012.html#RafrafiGG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/RafrafiGG11" mdate="2017-05-08">
+<author>Abdelhalim Rafrafi</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Réseau de neurones profond et SVM pour la classification des sentiments.</title>
+<pages>121-133</pages>
+<year>2011</year>
+<booktitle>CORIA</booktitle>
+<ee>https://doi.org/10.24348/coria.2011.121</ee>
+<crossref>conf/coria/2011</crossref>
+<url>db/conf/coria/coria2011.html#RafrafiGG11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tbe/RakotomamonjyG08" mdate="2018-11-14">
+<author>Alain Rakotomamonjy</author>
+<author>Vincent Guigue</author>
+<title>BCI Competition III: Dataset II- Ensemble of SVMs for BCI P300 Speller.</title>
+<pages>1147-1154</pages>
+<year>2008</year>
+<volume>55</volume>
+<journal>IEEE Trans. Biomed. Engineering</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TBME.2008.915728</ee>
+<ee>https://www.wikidata.org/entity/Q43491178</ee>
+<url>db/journals/tbe/tbe55.html#RakotomamonjyG08</url>
+</article>
+</r>
+<r><article key="journals/ijon/GuigueRC06" mdate="2019-09-25">
+<author>Vincent Guigue</author>
+<author>Alain Rakotomamonjy</author>
+<author orcid="0000-0002-7602-4557">Stéphane Canu</author>
+<title>Translation-invariant classification of non-stationary signals.</title>
+<pages>743-753</pages>
+<year>2006</year>
+<volume>69</volume>
+<journal>Neurocomputing</journal>
+<number>7-9</number>
+<ee>https://doi.org/10.1016/j.neucom.2005.12.015</ee>
+<url>db/journals/ijon/ijon69.html#GuigueRC06</url>
+</article>
+</r>
+<r><article key="journals/ria/GuigueRC06" mdate="2019-09-25">
+<author>Vincent Guigue</author>
+<author>Alain Rakotomamonjy</author>
+<author orcid="0000-0002-7602-4557">Stéphane Canu</author>
+<title>Kernel Basis Pursuit.</title>
+<pages>757-774</pages>
+<year>2006</year>
+<volume>20</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>6</number>
+<ee>https://doi.org/10.3166/ria.20.757-774</ee>
+<url>db/journals/ria/ria20.html#GuigueRC06</url>
+</article>
+</r>
+<r><inproceedings key="conf/cfap/GuigueRC05" mdate="2005-06-29">
+<author>Vincent Guigue</author>
+<author>Alain Rakotomamonjy</author>
+<author>Stéphane Canu</author>
+<title>Kernel Basis Pursuit.</title>
+<pages>93-106</pages>
+<year>2005</year>
+<crossref>conf/cfap/2005</crossref>
+<booktitle>CAP</booktitle>
+<url>db/conf/cfap/cap2005.html#GuigueRC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecml/GuigueRC05" mdate="2019-09-25">
+<author>Vincent Guigue</author>
+<author>Alain Rakotomamonjy</author>
+<author orcid="0000-0002-7602-4557">Stéphane Canu</author>
+<title>Kernel Basis Pursuit.</title>
+<pages>146-157</pages>
+<year>2005</year>
+<crossref>conf/ecml/2005</crossref>
+<booktitle>ECML</booktitle>
+<ee type="oa">https://doi.org/10.1007/11564096_18</ee>
+<url>db/conf/ecml/ecml2005.html#GuigueRC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esann/GuigueRC05" mdate="2014-07-29">
+<author>Vincent Guigue</author>
+<author>Alain Rakotomamonjy</author>
+<author>Stéphane Canu</author>
+<title>Translation invariant classification of non-stationary signals.</title>
+<pages>473-478</pages>
+<year>2005</year>
+<crossref>conf/esann/2005</crossref>
+<booktitle>ESANN</booktitle>
+<ee>https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2005-111.pdf</ee>
+<url>db/conf/esann/esann2005.html#GuigueRC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icann/RakotomamonjyGMA05" mdate="2017-05-26">
+<author>Alain Rakotomamonjy</author>
+<author>Vincent Guigue</author>
+<author>G. Mallet</author>
+<author>V. Alvarado</author>
+<title>Ensemble of SVMs for Improving Brain Computer Interface P300 Speller Performances.</title>
+<pages>45-50</pages>
+<year>2005</year>
+<crossref>conf/icann/2005-1</crossref>
+<booktitle>ICANN (1)</booktitle>
+<ee>https://doi.org/10.1007/11550822_8</ee>
+<url>db/conf/icann/icann2005-1.html#RakotomamonjyGMA05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smi/MarinMG01" mdate="2017-05-21">
+<author>Philippe Marin</author>
+<author>André Meyer</author>
+<author>Vincent Guigue</author>
+<title>Partition along Characteristic Edges of a Digitized Point Cloud.</title>
+<pages>326-334</pages>
+<year>2001</year>
+<crossref>conf/smi/2001</crossref>
+<booktitle>Shape Modeling International</booktitle>
+<ee>https://doi.org/10.1109/SMA.2001.923404</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SMA.2001.923404</ee>
+<url>db/conf/smi/smi2001.html#MarinMG01</url>
+</inproceedings>
+</r>
+<coauthors n="23" nc="3">
+<co c="1"><na f="a/Alvarado:V=">V. Alvarado</na></co>
+<co c="0"><na f="a/Arti=egrave=res:Thierry">Thierry Artières</na></co>
+<co c="0"><na f="b/Baskiotis:Nicolas">Nicolas Baskiotis</na></co>
+<co c="1"><na f="c/Canu:St=eacute=phane">Stéphane Canu</na></co>
+<co c="0"><na f="d/Delauney:Cynthia">Cynthia Delauney</na></co>
+<co c="0"><na f="d/Dias:Charles=Emmanuel">Charles-Emmanuel Dias</na></co>
+<co c="0"><na f="g/Gabriac:Clara_Gainon_de_Forsan_de">Clara Gainon de Forsan de Gabriac</na></co>
+<co c="0"><na f="g/Gallinari:Patrick">Patrick Gallinari</na></co>
+<co c="0"><na f="g/Gu=agrave=rdia=Sebaoun:=Eacute=lie">Élie Guàrdia-Sebaoun</na></co>
+<co c="0"><na f="m/Maccagnola:Daniele">Daniele Maccagnola</na></co>
+<co c="1"><na f="m/Mallet:G=">G. Mallet</na></co>
+<co c="2"><na f="m/Marin:Philippe">Philippe Marin</na></co>
+<co c="0"><na f="m/Messina:Enza">Enza Messina</na></co>
+<co c="2"><na f="m/Meyer:Andr=eacute=">André Meyer</na></co>
+<co c="0"><na f="n/Nozza:Debora">Debora Nozza</na></co>
+<co c="0"><na f="p/Pipanmaekaporn:Luepol">Luepol Pipanmaekaporn</na></co>
+<co c="0"><na f="p/Piwowarski:Benjamin">Benjamin Piwowarski</na></co>
+<co c="0"><na f="p/Poussevin:Micka=euml=l">Mickaël Poussevin</na></co>
+<co c="0"><na f="r/Rafrafi:Abdelhalim">Abdelhalim Rafrafi</na></co>
+<co c="1"><na f="r/Rakotomamonjy:Alain">Alain Rakotomamonjy</na></co>
+<co c="0"><na f="s/Simon:=Eacute=tienne">Étienne Simon</na></co>
+<co c="0"><na f="t/Tajtelbom:Ludmilla">Ludmilla Tajtelbom</na></co>
+<co c="0"><na f="t/Tonnelier:Emeric">Emeric Tonnelier</na></co>
+</coauthors>
+</dblpperson>
+

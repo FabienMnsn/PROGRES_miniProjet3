@@ -1,0 +1,654 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Julien Sopena" n="39">
+<person key="homepages/46/4691" mdate="2009-06-10">
+<author>Julien Sopena</author>
+</person>
+<r><inproceedings key="conf/sosp/CarverGLSLZPLM19" mdate="2019-11-05">
+<author>Damien Carver</author>
+<author>Redha Gouicem</author>
+<author>Jean-Pierre Lozi</author>
+<author>Julien Sopena</author>
+<author>Baptiste Lepers</author>
+<author>Willy Zwaenepoel</author>
+<author>Nicolas Palix</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<title>Fork/Wait and Multicore Frequency Scaling: a Generational Clash.</title>
+<pages>53-59</pages>
+<year>2019</year>
+<booktitle>PLOS@SOSP</booktitle>
+<ee>https://doi.org/10.1145/3365137.3365400</ee>
+<crossref>conf/sosp/2019plos</crossref>
+<url>db/conf/sosp/plos2019.html#CarverGLSLZPLM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/FriouxBSK19" mdate="2019-08-20">
+<author>Ludovic Le Frioux</author>
+<author>Souheib Baarir</author>
+<author>Julien Sopena</author>
+<author>Fabrice Kordon</author>
+<title>Modular and Efficient Divide-and-Conquer SAT Solver on Top of the Painless Framework.</title>
+<pages>135-151</pages>
+<year>2019</year>
+<booktitle>TACAS (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-17462-0_8</ee>
+<crossref>conf/tacas/2019-1</crossref>
+<url>db/conf/tacas/tacas2019-1.html#FriouxBSK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cnsm/FraysseLSS18" mdate="2019-01-08">
+<author>Guillaume Fraysse</author>
+<author>Jonathan Lejeune</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens</author>
+<title>Mapping the allocation of resources for 5G slices to the k-MUTEX with n instances of m resources problem.</title>
+<pages>318-322</pages>
+<year>2018</year>
+<booktitle>CNSM</booktitle>
+<ee>http://ieeexplore.ieee.org/document/8584929</ee>
+<crossref>conf/cnsm/2018</crossref>
+<url>db/conf/cnsm/cnsm2018.html#FraysseLSS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icin/FraysseYLSS18" mdate="2018-07-06">
+<author>Guillaume Fraysse</author>
+<author>Imen Grida Ben Yahia</author>
+<author>Jonathan Lejeune</author>
+<author>Pierre Sens</author>
+<author>Julien Sopena</author>
+<title>Towards multi-SDN services: Dangers of concurrent resource allocation from multiple providers.</title>
+<pages>1-5</pages>
+<year>2018</year>
+<booktitle>ICIN</booktitle>
+<ee>https://doi.org/10.1109/ICIN.2018.8401627</ee>
+<crossref>conf/icin/2018</crossref>
+<url>db/conf/icin/icin2018.html#FraysseYLSS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/BouronCLZGLMS18" mdate="2018-07-16">
+<author>Justinien Bouron</author>
+<author>Sebastien Chevalley</author>
+<author>Baptiste Lepers</author>
+<author>Willy Zwaenepoel</author>
+<author>Redha Gouicem</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<author>Julien Sopena</author>
+<title>The Battle of the Schedulers: FreeBSD ULE vs. Linux CFS.</title>
+<pages>85-96</pages>
+<year>2018</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee>https://www.usenix.org/conference/atc18/presentation/bouron</ee>
+<crossref>conf/usenix/2018</crossref>
+<url>db/conf/usenix/usenix2018.html#BouronCLZGLMS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotos/LepersZLPGSLM17" mdate="2018-11-06">
+<author>Baptiste Lepers</author>
+<author>Willy Zwaenepoel</author>
+<author>Jean-Pierre Lozi</author>
+<author>Nicolas Palix</author>
+<author>Redha Gouicem</author>
+<author>Julien Sopena</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<title>Towards Proving Optimistic Multicore Schedulers.</title>
+<pages>18-23</pages>
+<year>2017</year>
+<booktitle>HotOS</booktitle>
+<ee>https://doi.org/10.1145/3102980.3102984</ee>
+<crossref>conf/hotos/2017</crossref>
+<url>db/conf/hotos/hotos2017.html#LepersZLPGSLM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/CarverSM17" mdate="2018-01-11">
+<author>Damien Carver</author>
+<author>Julien Sopena</author>
+<author>Sébastien Monnet</author>
+<title>ACDC: Advanced consolidation for dynamic containers.</title>
+<pages>253-260</pages>
+<year>2017</year>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2017.8171363</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/NCA.2017.8171363</ee>
+<crossref>conf/nca/2017</crossref>
+<url>db/conf/nca/nca2017.html#CarverSM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sat/FriouxBSK17" mdate="2017-08-15">
+<author>Ludovic Le Frioux</author>
+<author>Souheib Baarir</author>
+<author>Julien Sopena</author>
+<author>Fabrice Kordon</author>
+<title>PaInleSS: A Framework for Parallel SAT Solving.</title>
+<pages>233-250</pages>
+<year>2017</year>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-66263-3_15</ee>
+<crossref>conf/sat/2017</crossref>
+<url>db/conf/sat/sat2017.html#FriouxBSK17</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/SerranoBKOLLSAS16" mdate="2017-05-27">
+<author>Damián Serrano</author>
+<author>Sara Bouchenak</author>
+<author>Yousri Kouki</author>
+<author>Frederico Alvares de Oliveira Jr.</author>
+<author>Thomas Ledoux</author>
+<author>Jonathan Lejeune</author>
+<author>Julien Sopena</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens</author>
+<title>SLA guarantees for cloud services.</title>
+<pages>233-246</pages>
+<year>2016</year>
+<volume>54</volume>
+<journal>Future Generation Comp. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2015.03.018</ee>
+<url>db/journals/fgcs/fgcs54.html#SerranoBKOLLSAS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecrts/BlinCSLM16" mdate="2017-05-21">
+<author>Antoine Blin</author>
+<author>Cédric Courtaud</author>
+<author>Julien Sopena</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Maximizing Parallelism without Exploding Deadlines in a Mixed Criticality Embedded System.</title>
+<pages>109-119</pages>
+<year>2016</year>
+<booktitle>ECRTS</booktitle>
+<ee>https://doi.org/10.1109/ECRTS.2016.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ECRTS.2016.18</ee>
+<crossref>conf/ecrts/2016</crossref>
+<url>db/conf/ecrts/ecrts2016.html#BlinCSLM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netys/BlinCSLM16" mdate="2017-05-23">
+<author>Antoine Blin</author>
+<author>Cédric Courtaud</author>
+<author>Julien Sopena</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<title>Understanding the Memory Consumption of the MiBench Embedded Benchmark.</title>
+<pages>71-86</pages>
+<year>2016</year>
+<booktitle>NETYS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46140-3_6</ee>
+<crossref>conf/netys/2016</crossref>
+<url>db/conf/netys/netys2016.html#BlinCSLM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jpdc/LejeuneASS15" mdate="2017-05-26">
+<author>Jonathan Lejeune</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens</author>
+<title>A fair starvation-free prioritized mutual exclusion algorithm for distributed systems.</title>
+<pages>13-29</pages>
+<year>2015</year>
+<volume>83</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2015.04.002</ee>
+<url>db/journals/jpdc/jpdc83.html#LejeuneASS15</url>
+</article>
+</r>
+<r><article key="journals/tsi/LejeuneASS15" mdate="2017-05-20">
+<author>Jonathan Lejeune</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens</author>
+<title>Allouer efficacement des ressources dans un environnement distribué.</title>
+<pages>79-100</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.3166/tsi.34.79-100</ee>
+<url>db/journals/tsi/tsi34.html#LejeuneASS15</url>
+</article>
+</r>
+<r><article key="journals/tsi/LorrillereSMS15" mdate="2017-05-20">
+<author>Maxime Lorrillere</author>
+<author>Julien Sopena</author>
+<author>Sébastien Monnet</author>
+<author>Pierre Sens</author>
+<title>Conception et évaluation d'un système de cache réparti adapté aux environnements virtualisés.</title>
+<pages>101-123</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.3166/tsi.34.101-123</ee>
+<url>db/journals/tsi/tsi34.html#LorrillereSMS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/Gidra0SSN15" mdate="2018-11-06">
+<author>Lokesh Gidra</author>
+<author>Gaël Thomas 0001</author>
+<author>Julien Sopena</author>
+<author>Marc Shapiro 0001</author>
+<author>Nhan Nguyen</author>
+<title>NumaGiC: a Garbage Collector for Big Data on Big NUMA Machines.</title>
+<pages>661-673</pages>
+<year>2015</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/2694344.2694361</ee>
+<crossref>conf/asplos/2015</crossref>
+<url>db/conf/asplos/asplos2015.html#Gidra0SSN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dais/Callau-ZoriASS15" mdate="2019-08-20">
+<author>Mar Callau-Zori</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens</author>
+<title>MERCi-MIsS: Should I Turn off My Servers?</title>
+<pages>16-29</pages>
+<year>2015</year>
+<booktitle>DAIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-19129-4_2</ee>
+<crossref>conf/dais/2015</crossref>
+<url>db/conf/dais/dais2015.html#Callau-ZoriASS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/LejeuneASS15" mdate="2017-05-19">
+<author>Jonathan Lejeune</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens</author>
+<title>Reducing Synchronization Cost in Distributed Multi-resource Allocation Problem.</title>
+<pages>540-549</pages>
+<year>2015</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2015.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.2015.63</ee>
+<crossref>conf/icpp/2015</crossref>
+<url>db/conf/icpp/icpp2015.html#LejeuneASS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/TomsicSGAS15" mdate="2019-05-09">
+<author>Alejandro Z. Tomsic</author>
+<author>Pierre Sens</author>
+<author>João Garcia 0001</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Julien Sopena</author>
+<title>2W-FD: A Failure Detector Algorithm with QoS.</title>
+<pages>885-893</pages>
+<year>2015</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2015.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2015.74</ee>
+<crossref>conf/ipps/2015</crossref>
+<url>db/conf/ipps/ipdps2015.html#TomsicSGAS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/systor/LorrillereSMS15" mdate="2018-11-06">
+<author>Maxime Lorrillere</author>
+<author>Julien Sopena</author>
+<author>Sébastien Monnet</author>
+<author>Pierre Sens</author>
+<title>Puma: pooling unused memory in virtual machines for I/O intensive applications.</title>
+<pages>1:1-1:11</pages>
+<year>2015</year>
+<booktitle>SYSTOR</booktitle>
+<ee>https://doi.org/10.1145/2757667.2757669</ee>
+<crossref>conf/systor/2015</crossref>
+<url>db/conf/systor/systor2015.html#LorrillereSMS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asplos/Gidra0SS13" mdate="2018-11-06">
+<author>Lokesh Gidra</author>
+<author>Gaël Thomas 0001</author>
+<author>Julien Sopena</author>
+<author>Marc Shapiro 0001</author>
+<title>A study of the scalability of stop-the-world garbage collectors on multicores.</title>
+<pages>229-240</pages>
+<year>2013</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/2451116.2451142</ee>
+<crossref>conf/asplos/2013</crossref>
+<url>db/conf/asplos/asplos2013.html#Gidra0SS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/SerranoBKLLSAS13" mdate="2018-11-30">
+<author>Damián Serrano</author>
+<author>Sara Bouchenak</author>
+<author>Yousri Kouki</author>
+<author>Thomas Ledoux</author>
+<author>Jonathan Lejeune</author>
+<author>Julien Sopena</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Pierre Sens</author>
+<title>Towards QoS-Oriented SLA Guarantees for Online Cloud Services.</title>
+<pages>50-57</pages>
+<year>2013</year>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGrid.2013.66</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CCGrid.2013.66</ee>
+<crossref>conf/ccgrid/2013</crossref>
+<url>db/conf/ccgrid/ccgrid2013.html#SerranoBKLLSAS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/LejeuneASS13" mdate="2017-05-19">
+<author>Jonathan Lejeune</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens</author>
+<pages>290-299</pages>
+<year>2013</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2013.38</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.2013.38</ee>
+<crossref>conf/icpp/2013</crossref>
+<url>db/conf/icpp/icpp2013.html#LejeuneASS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/HuSASD13" mdate="2018-11-02">
+<author>Ruijing Hu</author>
+<author>Julien Sopena</author>
+<author>Luciana Arantes</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens</author>
+<author>Isabelle M. Demeure</author>
+<title>Efficient Dissemination Algorithm for Scale-Free Topologies.</title>
+<pages>310-319</pages>
+<year>2013</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2013.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.2013.40</ee>
+<crossref>conf/icpp/2013</crossref>
+<url>db/conf/icpp/icpp2013.html#HuSASD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/ArantesS13" mdate="2018-11-02">
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Julien Sopena</author>
+<title>Easily Rendering Token-Ring Algorithms of Distributed and Parallel Applications Fault Tolerant.</title>
+<pages>206-213</pages>
+<year>2013</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2013.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2013.11</ee>
+<crossref>conf/sbac-pad/2013</crossref>
+<url>db/conf/sbac-pad/sbac-pad2013.html#ArantesS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wd/PebeyreTS13" mdate="2017-05-25">
+<author>Aurelie Faure de Pebeyre</author>
+<author>Fabien Tarissan</author>
+<author>Julien Sopena</author>
+<title>On the relevance of the edge-Markovian evolving graph model for real mobile networks.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>Wireless Days</booktitle>
+<ee>https://doi.org/10.1109/WD.2013.6686487</ee>
+<crossref>conf/wd/2013</crossref>
+<url>db/conf/wd/wd2013.html#PebeyreTS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/ArantesBCCCLPMPSSS12" mdate="2017-12-12">
+<author>Luciana Arantes</author>
+<author>Alysson Neves Bessani</author>
+<author>Vinicius V. Cogo</author>
+<author>Miguel Correia 0001</author>
+<author>Pedro Costa</author>
+<author>Jonathan Lejeune</author>
+<author>M. Piffaretti</author>
+<author>Olivier Marin</author>
+<author>Marcelo Pasin</author>
+<author>Pierre Sens</author>
+<author>F. Silva</author>
+<author>Julien Sopena</author>
+<title>Vers une plate-forme MapReduce tolérant les fautes byzantines.</title>
+<pages>1079-1099</pages>
+<year>2012</year>
+<volume>31</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>8-10</number>
+<ee>https://doi.org/10.3166/tsi.31.1079-1099</ee>
+<url>db/journals/tsi/tsi31.html#ArantesBCCCLPMPSSS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccgrid/LejeuneASS12" mdate="2018-11-30">
+<author>Jonathan Lejeune</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens</author>
+<title>Service Level Agreement for Distributed Mutual Exclusion in Cloud Computing.</title>
+<pages>180-187</pages>
+<year>2012</year>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGrid.2012.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CCGrid.2012.11</ee>
+<crossref>conf/ccgrid/2012</crossref>
+<url>db/conf/ccgrid/ccgrid2012.html#LejeuneASS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/PreudhommeS0F12" mdate="2017-05-26">
+<author>Thomas Preud'homme</author>
+<author>Julien Sopena</author>
+<author>Gaël Thomas 0001</author>
+<author>Bertil Folliot</author>
+<title>An Improvement of OpenMP Pipeline Parallelism with the BatchQueue Algorithm.</title>
+<pages>348-355</pages>
+<year>2012</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/ICPADS.2012.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPADS.2012.55</ee>
+<crossref>conf/icpads/2012</crossref>
+<url>db/conf/icpads/icpads2012.html#PreudhommeS0F12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/HuSASD12" mdate="2018-11-02">
+<author>Ruijing Hu</author>
+<author>Julien Sopena</author>
+<author>Luciana Arantes</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens</author>
+<author>Isabelle M. Demeure</author>
+<title>Fair Comparison of Gossip Algorithms over Large-Scale Random Topologies.</title>
+<pages>331-340</pages>
+<year>2012</year>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/SRDS.2012.28</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SRDS.2012.28</ee>
+<crossref>conf/srds/2012</crossref>
+<url>db/conf/srds/srds2012.html#HuSASD12</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigops/GidraTSS11" mdate="2018-11-06">
+<author>Lokesh Gidra</author>
+<author>Gaël Thomas 0001</author>
+<author>Julien Sopena</author>
+<author>Marc Shapiro 0001</author>
+<title>Assessing the scalability of garbage collectors on many cores.</title>
+<pages>15-19</pages>
+<year>2011</year>
+<volume>45</volume>
+<journal>Operating Systems Review</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2094091.2094096</ee>
+<url>db/journals/sigops/sigops45.html#GidraTSS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sosp/Gidra0S011" mdate="2018-11-06">
+<author>Lokesh Gidra</author>
+<author>Gaël Thomas 0001</author>
+<author>Julien Sopena</author>
+<author>Marc Shapiro 0001</author>
+<title>Assessing the scalability of garbage collectors on many cores.</title>
+<pages>7:1-7:5</pages>
+<year>2011</year>
+<booktitle>PLOS@SOSP</booktitle>
+<ee>https://doi.org/10.1145/2039239.2039249</ee>
+<crossref>conf/sosp/2011plos</crossref>
+<url>db/conf/sosp/plos2011.html#Gidra0S011</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/PreudhommeSTF10" mdate="2017-05-17">
+<author>Thomas Preud'homme</author>
+<author>Julien Sopena</author>
+<author>Gaël Thomas 0001</author>
+<author>Bertil Folliot</author>
+<title>BatchQueue: Fast and Memory-Thrifty Core to Core Communication.</title>
+<pages>215-222</pages>
+<year>2010</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2010.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2010.34</ee>
+<crossref>conf/sbac-pad/2010</crossref>
+<url>db/conf/sbac-pad/sbac-pad2010.html#PreudhommeSTF10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tjs/SopenaALS09" mdate="2017-05-28">
+<author>Julien Sopena</author>
+<author>Luciana Arantes</author>
+<author>Fabrice Legond-Aubry</author>
+<author>Pierre Sens</author>
+<title>Building effective mutual exclusion services for grids.</title>
+<pages>84-107</pages>
+<year>2009</year>
+<volume>49</volume>
+<journal>The Journal of Supercomputing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11227-008-0235-8</ee>
+<url>db/journals/tjs/tjs49.html#SopenaALS09</url>
+</article>
+</r>
+<r><article key="journals/tsi/SopenaBL09" mdate="2017-05-20">
+<author>Julien Sopena</author>
+<author>Souheib Baarir</author>
+<author>Fabrice Legond-Aubry</author>
+<title>Vérification formelle d'un algorithme générique et hiérarchique d'exclusion mutuelle.</title>
+<pages>1085-1105</pages>
+<year>2009</year>
+<volume>28</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>9</number>
+<ee>https://doi.org/10.3166/tsi.28.1085-1105</ee>
+<url>db/journals/tsi/tsi28.html#SopenaBL09</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/SopenaALS08" mdate="2017-05-24">
+<author>Julien Sopena</author>
+<author>Luciana Arantes</author>
+<author>Fabrice Legond-Aubry</author>
+<author>Pierre Sens</author>
+<title>The Impact of Clustering on Token-Based Mutual Exclusion Algorithms.</title>
+<pages>565-575</pages>
+<year>2008</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85451-7_60</ee>
+<crossref>conf/europar/2008</crossref>
+<url>db/conf/europar/europar2008.html#SopenaALS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/BaarirSL08" mdate="2018-06-26">
+<author>Souheib Baarir</author>
+<author>Julien Sopena</author>
+<author>Fabrice Legond-Aubry</author>
+<title>Verification of a Hierarchical Generic Mutual Exclusion Algorithm.</title>
+<pages>99-115</pages>
+<year>2008</year>
+<booktitle>FORTE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-68855-6_7</ee>
+<crossref>conf/forte/2008</crossref>
+<url>db/conf/forte/forte2008.html#BaarirSL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/SopenaLAS07" mdate="2017-05-19">
+<author>Julien Sopena</author>
+<author>Fabrice Legond-Aubry</author>
+<author>Luciana Bezerra Arantes</author>
+<author>Pierre Sens</author>
+<title>A Composition Approach to Mutual Exclusion Algorithms for Grid Applications.</title>
+<pages>65</pages>
+<year>2007</year>
+<crossref>conf/icpp/2007</crossref>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2007.6</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.2007.6</ee>
+<url>db/conf/icpp/icpp2007.html#SopenaLAS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/SopenaAS06" mdate="2017-05-19">
+<author>Julien Sopena</author>
+<author>Luciana Bezerra Arantes</author>
+<author>Pierre Sens</author>
+<title>Performance evaluation of a fair fault-tolerant mutual exclusion algorithm.</title>
+<pages>225-234</pages>
+<year>2006</year>
+<crossref>conf/srds/2006</crossref>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/SRDS.2006.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SRDS.2006.35</ee>
+<url>db/conf/srds/srds2006.html#SopenaAS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/SopenaABS05" mdate="2017-05-24">
+<author>Julien Sopena</author>
+<author>Luciana Bezerra Arantes</author>
+<author>Marin Bertier</author>
+<author>Pierre Sens</author>
+<title>A Fault-Tolerant Token-Based Mutual Exclusion Algorithm Using a Dynamic Tree.</title>
+<pages>654-663</pages>
+<year>2005</year>
+<crossref>conf/europar/2005</crossref>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/11549468_72</ee>
+<url>db/conf/europar/europar2005.html#SopenaABS05</url>
+</inproceedings>
+</r>
+<coauthors n="50" nc="2">
+<co c="0" n="2"><na f="a/Arantes:Luciana">Luciana Arantes</na><na>Luciana Bezerra Arantes</na></co>
+<co c="0"><na f="b/Baarir:Souheib">Souheib Baarir</na></co>
+<co c="0"><na f="b/Bertier:Marin">Marin Bertier</na></co>
+<co c="0"><na f="b/Bessani:Alysson_Neves">Alysson Neves Bessani</na></co>
+<co c="0"><na f="b/Blin:Antoine">Antoine Blin</na></co>
+<co c="0"><na f="b/Bouchenak:Sara">Sara Bouchenak</na></co>
+<co c="0"><na f="b/Bouron:Justinien">Justinien Bouron</na></co>
+<co c="0"><na f="c/Callau=Zori:Mar">Mar Callau-Zori</na></co>
+<co c="0"><na f="c/Carver:Damien">Damien Carver</na></co>
+<co c="0"><na f="c/Chevalley:Sebastien">Sebastien Chevalley</na></co>
+<co c="0"><na f="c/Cogo:Vinicius_V=">Vinicius V. Cogo</na></co>
+<co c="0"><na f="c/Correia_0001:Miguel">Miguel Correia 0001</na></co>
+<co c="0"><na f="c/Costa:Pedro">Pedro Costa</na></co>
+<co c="0"><na f="c/Courtaud:C=eacute=dric">Cédric Courtaud</na></co>
+<co c="0"><na f="d/Demeure:Isabelle_M=">Isabelle M. Demeure</na></co>
+<co c="0"><na f="f/Folliot:Bertil">Bertil Folliot</na></co>
+<co c="0"><na f="f/Fraysse:Guillaume">Guillaume Fraysse</na></co>
+<co c="0"><na f="f/Frioux:Ludovic_Le">Ludovic Le Frioux</na></co>
+<co c="0"><na f="g/Garcia_0001:Jo=atilde=o">João Garcia 0001</na></co>
+<co c="0"><na f="g/Gidra:Lokesh">Lokesh Gidra</na></co>
+<co c="0"><na f="g/Gouicem:Redha">Redha Gouicem</na></co>
+<co c="0"><na f="h/Hu:Ruijing">Ruijing Hu</na></co>
+<co c="0"><na f="k/Kordon:Fabrice">Fabrice Kordon</na></co>
+<co c="0"><na f="k/Kouki:Yousri">Yousri Kouki</na></co>
+<co c="0" n="2"><na f="l/Lawall:Julia_L=">Julia L. Lawall</na><na>Julia Lawall</na></co>
+<co c="0"><na f="l/Ledoux:Thomas">Thomas Ledoux</na></co>
+<co c="0"><na f="l/Legond=Aubry:Fabrice">Fabrice Legond-Aubry</na></co>
+<co c="0"><na f="l/Lejeune:Jonathan">Jonathan Lejeune</na></co>
+<co c="0"><na f="l/Lepers:Baptiste">Baptiste Lepers</na></co>
+<co c="0"><na f="l/Lorrillere:Maxime">Maxime Lorrillere</na></co>
+<co c="0"><na f="l/Lozi:Jean=Pierre">Jean-Pierre Lozi</na></co>
+<co c="0"><na f="m/Marin:Olivier">Olivier Marin</na></co>
+<co c="0"><na f="m/Monnet:S=eacute=bastien">Sébastien Monnet</na></co>
+<co c="0"><na f="m/Muller:Gilles">Gilles Muller</na></co>
+<co c="0"><na f="n/Nguyen:Nhan">Nhan Nguyen</na></co>
+<co c="0"><na f="o/Oliveira_Jr=:Frederico_Alvares_de">Frederico Alvares de Oliveira Jr.</na></co>
+<co c="0"><na f="p/Palix:Nicolas">Nicolas Palix</na></co>
+<co c="0"><na f="p/Pasin:Marcelo">Marcelo Pasin</na></co>
+<co c="1"><na f="p/Pebeyre:Aurelie_Faure_de">Aurelie Faure de Pebeyre</na></co>
+<co c="0"><na f="p/Piffaretti:M=">M. Piffaretti</na></co>
+<co c="0"><na f="p/Preud=homme:Thomas">Thomas Preud'homme</na></co>
+<co c="0"><na f="s/Sens:Pierre">Pierre Sens</na></co>
+<co c="0"><na f="s/Serrano:Dami=aacute=n">Damián Serrano</na></co>
+<co c="0"><na f="s/Shapiro_0001:Marc">Marc Shapiro 0001</na></co>
+<co c="0"><na f="s/Silva:F=">F. Silva</na></co>
+<co c="1"><na f="t/Tarissan:Fabien">Fabien Tarissan</na></co>
+<co c="0"><na f="t/Thomas_0001:Ga=euml=l">Gaël Thomas 0001</na></co>
+<co c="0"><na f="t/Tomsic:Alejandro_Z=">Alejandro Z. Tomsic</na></co>
+<co c="0"><na f="y/Yahia:Imen_Grida_Ben">Imen Grida Ben Yahia</na></co>
+<co c="0"><na f="z/Zwaenepoel:Willy">Willy Zwaenepoel</na></co>
+</coauthors>
+</dblpperson>
+

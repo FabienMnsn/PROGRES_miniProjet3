@@ -8,7 +8,7 @@ recherche dans l'extrait du fichier dblp.xml
 #_____________________________________________________________________________________________________
 					#Fonction qui repond à la spec de la question 2 du projet
 #_____________________________________________________________________________________________________
-def find_publication(file_path):
+def publication_stat(file_path):
 	tree = ET.parse(file_path)
 	root = tree.getroot()
 	res = {"journaux":0, "conferences":0, "co-auteurs":0}
@@ -31,7 +31,13 @@ def find_publication(file_path):
 #_____________________________________________________________________________________________________
 					#Fonction qui repond à la spec de la question 3 du projet
 #_____________________________________________________________________________________________________
-def tableau_publication(file_path):
+def liste_resume_publication(file_path):
+	"""
+	Retourne une liste resumee de toutes les publications d'un auteur [publication, annee]
+
+	@param
+	file_path : chemin du fichier xml source, par ex: 'Auteurs/Olivier Fourmaux.xml'
+	"""
 	tree = ET.parse(file_path)
 	root = tree.getroot()
 	tableau_publication = []
@@ -57,26 +63,149 @@ def tableau_publication(file_path):
 #_____________________________________________________________________________________________________
 					#Fonction qui repond à la spec de la question 4 du projet
 #_____________________________________________________________________________________________________
-def liste_publication(author_name_to_find, tree_root):
+def liste_detail_publication(file_path):
+	"""
+	Retourne une liste complete de toutes les publications d'un auteur avec pour chaque publication : 
+	le titre, la liste des auteurs, le nom du journal et l'annee de publication
+
+	@param
+	file_path : chemin du fichier xml source, par ex: 'Auteurs/Olivier Fourmaux.xml'
+	"""
+	tree = ET.parse(file_path)
+	root = tree.getroot()
 	tableau_publication = []
+	publication = []
+	titre = ""
+	auteur_liste = ""
+	journal_name = ""
+	annee = ""
 	for child in root:
-		liste = liste_auteurs(child)
-		if(author_name_to_find in liste):
-			liste.remove(author_name_to_find)
-			title = child.find('title')
-			journal = child.find('journal')
-			annee = child.find('year')
-			if(title != None and journal != None and annee != None):
-				tableau_publication.append([title.text, liste, journal.text, annee.text])
+		if(child.tag == 'r'):
+			for grandchild in child:
+				if(grandchild.tag == 'article'):
+					for article_data in grandchild:
+						if(article_data.tag == "journal"):
+							#acronyme ou titre => le mieux c'est titre selon nous
+							#j_acronyme = to_acronyme(article_data.text)
+							journal_name = article_data.text
+							#publication.append(journal_name)
+						if(article_data.tag == "year"):
+							annee = article_data.text
+							#publication.append(annee)
+						if(article_data.tag == "title"):
+							titre = article_data.text
+							#publication.append(article_data.text)
+						if(article_data.tag == "author"):
+							auteur_liste += article_data.text+", "
+					publication.append(titre)
+					publication.append(auteur_liste[:-2])
+					publication.append(journal_name)
+					publication.append(annee)
+					tableau_publication.append(publication)
+					publication = []
+					titre = ""
+					annee = ""
+					auteur_liste = ""
+					journal_name = ""
 	return tableau_publication
 #_____________________________________________________________________________________________________
 
+
+#_____________________________________________________________________________________________________
+					#Fonction qui repond à la spec de la question 5 du projet
+#_____________________________________________________________________________________________________
+def liste_resume_conference(file_path):
+	"""
+	Retourne une liste resumee de toutes les conferences d'un auteur [conference, annee]
+
+	@param
+	file_path : chemin du fichier xml source, par ex: 'Auteurs/Olivier Fourmaux.xml'
+	"""
+	tree = ET.parse(file_path)
+	root = tree.getroot()
+	tableau_conferences = []
+	conference = []
+	annee = ""
+	conference_name = ""
+	for child in root:
+		if(child.tag == 'r'):
+			for grandchild in child:
+				if(grandchild.tag == 'inproceedings'):
+					for article_data in grandchild:
+						if(article_data.tag == "booktitle"):
+							#acronyme ou titre => le mieux c'est titre selon nous
+							#c_acronyme = to_acronyme(article_data.text)
+							conference_name = article_data.text
+						if(article_data.tag == "year"):
+							annee = article_data.text
+					conference.append(conference_name)
+					conference.append(annee)
+					tableau_conferences.append(conference)
+					conference = []
+					conference_name = ""
+					annee = ""
+	return tableau_conferences
+#_____________________________________________________________________________________________________
+
+
+#_____________________________________________________________________________________________________
+					#Fonction qui repond à la spec de la question 6 du projet
+#_____________________________________________________________________________________________________
+def liste_detail_conference(file_path):
+	"""
+	Retourne une liste complete de toutes les conferences d'un auteur avec pour chaque conference : 
+	le titre, la liste des auteurs, le nom de la conference et la date 
+
+	@param
+	file_path : chemin du fichier xml source, par ex: 'Auteurs/Olivier Fourmaux.xml'
+	"""
+	tree = ET.parse(file_path)
+	root = tree.getroot()
+	tableau_conferences = []
+	conf = []
+	titre = ""
+	auteur_liste = ""
+	conference_name = ""
+	annee = ""
+	for child in root:
+		if(child.tag == 'r'):
+			for grandchild in child:
+				if(grandchild.tag == 'inproceedings'):
+					for article_data in grandchild:
+						if(article_data.tag == "booktitle"):
+							#acronyme ou titre => le mieux c'est titre selon nous
+							#c_acronyme = to_acronyme(article_data.text)
+							conference_name = article_data.text
+						if(article_data.tag == "year"):
+							annee = article_data.text
+						if(article_data.tag == "title"):
+							titre = article_data.text
+						if(article_data.tag == "author"):
+							auteur_liste += article_data.text+", "
+					conf.append(titre)
+					conf.append(auteur_liste[:-2])
+					conf.append(conference_name)
+					conf.append(annee)
+					tableau_conferences.append(conf)
+					conf = []
+					titre = ""
+					annee = ""
+					auteur_liste = ""
+					conference_name = ""
+	return tableau_conferences
+#_____________________________________________________________________________________________________
 
 #------------------------------------------------------------------
 #							Utilitaires
 #------------------------------------------------------------------
 
 def to_acronyme(journal_name):
+	"""
+	Retourne l'acronyme c-a-d les premieres lettres de chaque mot de journal_name
+
+	@param
+	journal_name : une string representant le nom du journal
+	"""
 	name_splited = journal_name.split(' ')
 	acronyme = ""
 	for word in name_splited:
@@ -84,16 +213,17 @@ def to_acronyme(journal_name):
 	return acronyme
 
 
-def liste_vers_html(liste, legende):
+def liste_vers_html(liste, legende_colonne, legende_table):
 	"""
 	Retourne une table html faite a partir d'une double liste python (liste de liste)
 
 	@param
 	liste : la double liste
-	legende : string decrivant la legende sseparee par des ';'
+	legende_colonne : string decrivant la legende de chaque colonne separee par des ';' ex: "Conference;Auteurs;Annee"
+	legende_table : legende de la table : <caption>legende_table</caption>
 	"""
-	legende_split = legende.split(';')
-	table_head = "<table style='width:100%'>\n<caption>Table des publications</caption>\n"
+	legende_split = legende_colonne.split(';')
+	table_head = "<table style='width:100%'>\n<caption>"+legende_table+"</caption>\n"
 	table_content = ""
 	table_bottom = "</table>"
 	if(len(legende_split)) != len(liste[0]):
@@ -110,8 +240,8 @@ def liste_vers_html(liste, legende):
 			table_content += "</tr>\n"
 		return table_head+table_content+table_bottom
 	else:
-		print("liste pas correcte")
-	#for elem in liste:
+		print("liste incorrecte")
+		return -1
 
 """
 style a incerer pour la table
@@ -125,12 +255,6 @@ th, td {
   text-align: left;
 }
 """
-def liste_auteurs(tree_element):
-	l = []
-	for child in tree_element:
-		if(child.tag == 'author'):
-			l.append(str(child.text))
-	return l
 
 #------------------------------------------------------------------
 
@@ -144,26 +268,8 @@ if __name__ == '__main__':
 	print(find_publication(file_path))
 	print(tableau_publication(file_path))
 	"""
-	print(liste_vers_html(tableau_publication("Auteurs/Pierre Sens.xml"), "Année de publication; Nom du journal"))
-	"""
-	#trouver le nombre de publication (articles + journaux + conferences + co-auteurs)
-	print("Résultats pour Frank Manola :", find_publication("Frank Manola", root))
-	print("Résultats pour Paul Kocher  :", find_publication("Paul Kocher", root))
-
-
-	#afficher un tableau des publications (journaux + date)
-	print("\nTableau des publications de Frank Manola : ")
-	for i in tableau_publication("Frank Manola", root):
-		print(i)
-	print("\nTableau des publications de Paul Kocher : ")
-	for i in tableau_publication("Paul Kocher", root):
-		print(i)
-
-	#afficher le tableau détaillé des publications
-	print("\nTableau des publications détaillé de Frank Manola : ")
-	for i in liste_publication("Frank Manola", root):
-		print(i)
-	print("\nTableau des publications détaillé de Paul Kocher : ")
-	for i in liste_publication("Paul Kocher", root):
-		print(i)
-	"""
+	#name = input("Saisir un nom d'auteur pour afficher la liste detaillee des publications :")
+	#print(liste_vers_html(liste_resume_conference("Auteurs/"+name+".xml"), "Titre;Auteurs;Journal;Année", "Table détailéé des publications"))
+	#print(liste_vers_html(tableau_publication("Auteurs/Pierre Sens.xml"), "Année de publication; Nom du journal"))
+	#print(liste_vers_html(liste_detail_conference("Auteurs/Olivier Fourmaux.xml"), "Conférence;Année", "Liste des conférences"))
+	print(liste_vers_html(liste_detail_conference("Auteurs/Olivier Fourmaux.xml"), "titre;auteurs;nom du book;annee", "liste des conferences"))

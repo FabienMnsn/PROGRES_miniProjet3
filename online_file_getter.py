@@ -73,7 +73,7 @@ if __name__ == '__main__':
 	#print(request_author_file_builder("Sébastien Baey", "table_html.txt"))
 	#pb avec les accents => solution : changer la fonction de creation d'url
 	author_name = input("Entrez un nom de chercheur :")
-	download_file(author_name, "XML/", "table_html.txt")
+	download_file(author_name, "Auteurs/", "table_html.txt")
 	#di = create_dico_html("table_html.txt")
 	#print(di["é"])
 	#TESTS END

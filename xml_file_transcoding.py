@@ -52,6 +52,9 @@ def _extend_split_char_code(string):
         if('&' in elem and elem[0] == '&' and elem[-1] != ';'):
             res.append(elem[0])
             res.append(elem[1:])
+        elif(elem[0] != '&' and elem[-1] == ';'):
+            #changé le 17/12/19
+            res.append(elem[:-1])
         else:
             res.append(elem)
     return res
@@ -134,7 +137,7 @@ if __name__ == '__main__':
 
 	#TESTS START
 	dico = create_dict("table_iso.txt")
-	string_in = "<author>S&#233;bastien & Monnet</author><author>Dami&#225;n Serrano</author>"
+	string_in = "<ee>https://doi.org/10.1002/(SICI)1097-024X(199808)28:10<1079::AID-SPE199>3.0.CO;2-D</ee>"
 	print(split_char_code(string_in))
-	parse_file("Auteurs/Julien Sopena.xml", "Auteurs/parsed_Julien.xml", "table_iso.txt")
+	#parse_file("Auteurs/Julien Sopena.xml", "Auteurs/parsed_Julien.xml", "table_iso.txt")
 	#TESTS END

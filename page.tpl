@@ -4,7 +4,6 @@
   <HEAD>
      <TITLE>{{title}}</TITLE>
      <meta charset="UTF-8">
-     <style>{{style}}</style>
   </HEAD>
 
   <body>

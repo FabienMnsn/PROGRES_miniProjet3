@@ -1,6 +1,7 @@
 #import xml.etree.ElementTree as ET
 from lxml import etree
 import bottle
+from bottle import redirect
 from bs4 import BeautifulSoup
 
 #parsing du fichier XML
@@ -15,7 +16,7 @@ from bs4 import BeautifulSoup
 
 @bottle.route("/auteur/qui")
 @bottle.view("page.tpl")
-def qui():
+def auteur():
     stri = """
     <form method='post' action='name'>
     <input type='text' name='last_name' placeholder='Nom'/>
@@ -32,7 +33,12 @@ def qui():
 def name():
     lname = bottle.request.forms.last_name
     fname = bottle.request.forms.first_name
-    return {"title":"Vous consultez la page de ", "body": fname+", "+lname}
+    redirect("/auteur/"+lname)
+
+@bottle.route("/auteur/<name>")
+@bottle.view("page.tpl")
+def auteur(name):
+    return {"title":"Vous consultez la page de ", "body":name}
 
 
 #--------------------------RUN BOTTLE--------------------------

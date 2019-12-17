@@ -1,4 +1,5 @@
 #import xml.etree.ElementTree as ET
+import xml_file_loader
 from lxml import etree
 import bottle
 from bottle import redirect
@@ -33,12 +34,25 @@ def auteur():
 def name():
     lname = bottle.request.forms.last_name
     fname = bottle.request.forms.first_name
-    redirect("/auteur/"+lname)
+    redirect("/auteur/"+lname+"/"+fname)
 
-@bottle.route("/auteur/<name>")
+@bottle.route("/auteur/<lname>/<name>")
 @bottle.view("page.tpl")
-def auteur(name):
-    return {"title":"Vous consultez la page de ", "body":name}
+def auteur(lname,name):
+    dico=xml_file_loader.publication_stat("Auteurs/"+name+" "+lname+".xml")
+    stri="""  <table style="width:15%">
+    <tr>
+    <td>Nombre journaux</td>"""+"<td>"+str(dico["journaux"])+"""</td>
+    </tr>
+    <tr>
+    <td>Nombre conference</td>"""+"<td>"+str(dico["conferences"])+"""</td>
+    </tr>
+    <tr>
+    <td>Nombre de co-auteur</td>"""+ "<td>"+str(dico["co-auteurs"])+"""</td>
+    </tr>
+    </table>"""
+    
+    return {"title":"Vous consultez la page de "+name+" "+lname, "body":" les stats de la personne    "+stri}
 
 
 #--------------------------RUN BOTTLE--------------------------

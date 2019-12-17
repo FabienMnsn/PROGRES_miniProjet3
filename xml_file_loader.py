@@ -82,7 +82,7 @@ if __name__ == '__main__':
 	##############################################
 	#           	   MAIN TREE 				 #
 	##############################################
-	tree = ET.parse('XML/PARSED_extract_dblp.xml')
+	tree = ET.parse('Auteurs/PARSED_extract_dblp.xml')
 	root = tree.getroot()
 	##############################################
 

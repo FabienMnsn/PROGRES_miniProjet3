@@ -237,4 +237,4 @@ if __name__ == '__main__':
 	#print(liste_vers_html(liste_resume_conference("Auteurs/"+name+".xml"), "Titre;Auteurs;Journal;Année", "Table détailéé des publications"))
 	#print(liste_vers_html(tableau_publication("Auteurs/Pierre Sens.xml"), "Année de publication; Nom du journal"))
 	#print(liste_vers_html(liste_detail_conference("Auteurs/Olivier Fourmaux.xml"), "Conférence;Année", "Liste des conférences"))
-	print(liste_vers_html(liste_detail_conference("Auteurs/Olivier Fourmaux.xml"), "titre;auteurs;nom du book;annee", "liste des conferences"))
+	print(liste_vers_html(liste_detail_conference("Auteurs/Vincent Guigue.xml"), "titre;auteurs;nom du book;annee", "liste des conferences"))

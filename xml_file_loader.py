@@ -1,14 +1,13 @@
 import xml.etree.ElementTree as ET
 
 
-"""
-recherche dans l'extrait du fichier dblp.xml
-"""
-
-#_____________________________________________________________________________________________________
-					#Fonction qui repond à la spec de la question 2 du projet
-#_____________________________________________________________________________________________________
 def publication_stat(file_path):
+	"""
+	Retourne un dictionnaire contenant les statistiques de publication d'un auteur : journaux, conferences, co-auteurs
+	
+	@param
+	file_path : string, chemin d'accès du fichier XML de l'auteur ex:"Auteurs/Nom Prénom.xml"
+	"""
 	tree = ET.parse(file_path)
 	root = tree.getroot()
 	res = {"journaux":0, "conferences":0, "co-auteurs":0}
@@ -24,13 +23,8 @@ def publication_stat(file_path):
 				res["co-auteurs"] += 1
 
 	return res
-#_____________________________________________________________________________________________________
 
 
-
-#_____________________________________________________________________________________________________
-					#Fonction qui repond à la spec de la question 3 du projet
-#_____________________________________________________________________________________________________
 def liste_resume_publication(file_path):
 	"""
 	Retourne une liste resumee de toutes les publications d'un auteur [publication, annee]
@@ -57,12 +51,8 @@ def liste_resume_publication(file_path):
 					tableau_publication.append(publication)
 					publication = []
 	return tableau_publication
-#_____________________________________________________________________________________________________
 
 
-#_____________________________________________________________________________________________________
-					#Fonction qui repond à la spec de la question 4 du projet
-#_____________________________________________________________________________________________________
 def liste_detail_publication(file_path):
 	"""
 	Retourne une liste complete de toutes les publications d'un auteur avec pour chaque publication : 
@@ -88,13 +78,10 @@ def liste_detail_publication(file_path):
 							#acronyme ou titre => le mieux c'est titre selon nous
 							#j_acronyme = to_acronyme(article_data.text)
 							journal_name = article_data.text
-							#publication.append(journal_name)
 						if(article_data.tag == "year"):
 							annee = article_data.text
-							#publication.append(annee)
 						if(article_data.tag == "title"):
 							titre = article_data.text
-							#publication.append(article_data.text)
 						if(article_data.tag == "author"):
 							auteur_liste += article_data.text+", "
 					publication.append(titre)
@@ -108,12 +95,8 @@ def liste_detail_publication(file_path):
 					auteur_liste = ""
 					journal_name = ""
 	return tableau_publication
-#_____________________________________________________________________________________________________
 
 
-#_____________________________________________________________________________________________________
-					#Fonction qui repond à la spec de la question 5 du projet
-#_____________________________________________________________________________________________________
 def liste_resume_conference(file_path):
 	"""
 	Retourne une liste resumee de toutes les conferences d'un auteur [conference, annee]
@@ -145,12 +128,8 @@ def liste_resume_conference(file_path):
 					conference_name = ""
 					annee = ""
 	return tableau_conferences
-#_____________________________________________________________________________________________________
 
 
-#_____________________________________________________________________________________________________
-					#Fonction qui repond à la spec de la question 6 du projet
-#_____________________________________________________________________________________________________
 def liste_detail_conference(file_path):
 	"""
 	Retourne une liste complete de toutes les conferences d'un auteur avec pour chaque conference : 
@@ -193,7 +172,6 @@ def liste_detail_conference(file_path):
 					auteur_liste = ""
 					conference_name = ""
 	return tableau_conferences
-#_____________________________________________________________________________________________________
 
 #------------------------------------------------------------------
 #							Utilitaires
@@ -243,21 +221,8 @@ def liste_vers_html(liste, legende_colonne, legende_table):
 		print("liste incorrecte")
 		return -1
 
-"""
-style a incerer pour la table
-
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 5px;
-  text-align: left;
-}
-"""
-
 #------------------------------------------------------------------
-
+#------------------------------------------------------------------
 
 
 if __name__ == '__main__':

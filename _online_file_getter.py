@@ -3,12 +3,12 @@ import re
 import os
 
 #imported from our project :
-from xml_file_transcoding import *
+import xml_file_transcoding
 
 
 def create_dico_html(caracter_table_file_path):
 	"""
-	Cree un ditionnaire des codes html correspondnats au caracteres speciaux
+	Cree un dictionnaire des codes html correspondnats au caracteres speciaux
 
 	@param
 	caracter_table_file_path = "/Doxuments/table_html.txt"
@@ -61,7 +61,7 @@ def download_file(author_name, download_path, table_path):
 			for chunk in requested.iter_content(chunk_size=128):
 				local_file.write(chunk)
 		local_file.close()
-		parse_file(file_name, download_path+author_name+".xml", "table_iso.txt")
+		xml_file_transcoding.parse_file(file_name, download_path+author_name+".xml", "table_iso.txt")
 		os.remove(file_name)
 	else:
 		print(requested.status_code)

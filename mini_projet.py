@@ -1,6 +1,6 @@
 #---------------------------
 import xml_file_loader
-import online_file_getter
+import utils_xml
 #---------------------------
 import os
 from lxml import etree
@@ -20,7 +20,7 @@ def telecharge(author_name):
         list_file = os.listdir("Auteurs/")
         if(file_name not in list_file):
         #si le fichier n'existe pas on le telecharge
-            status = online_file_getter.download_file(author_name, "Auteurs/", "table_html.txt")
+            status = utils_xml.download_file(author_name, "Auteurs/", "table_html.txt")
             if(status != 200):
                 #error(status, message)
                 print(status)
@@ -86,7 +86,7 @@ def synthese(lname,name):
     author_name = name+" "+lname
     file_name = author_name+".xml"
     if telecharge(author_name)=="ok" :
-        tab=xml_file_loader.liste_resume_publication("Auteurs/"+file_name)
+        tab = xml_file_loader.liste_resume_publication("Auteurs/"+file_name)
     else :
         return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
     tmp="vide"
@@ -115,7 +115,7 @@ def journal(lname,name):
     author_name = name+" "+lname
     file_name = author_name+".xml"
     if telecharge(author_name)=="ok" :
-        tab=xml_file_loader.liste_detail_publication("Auteurs/"+file_name)
+        tab = xml_file_loader.liste_detail_publication("Auteurs/"+file_name)
     else :
         return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
     stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
@@ -132,6 +132,8 @@ def journal(lname,name):
 
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
+
+#--------------------------FIN FONCTION BOTTLE--------------------------
 
 if __name__ == '__main__':
     #--------------------------RUN BOTTLE--------------------------

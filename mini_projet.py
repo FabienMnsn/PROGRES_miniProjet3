@@ -15,6 +15,18 @@ from bs4 import BeautifulSoup
 
 """
 
+def telecharge(author_name):
+        file_name = author_name+".xml"
+        list_file = os.listdir("Auteurs/")
+        if(file_name not in list_file):
+        #si le fichier n'existe pas on le telecharge
+            status = online_file_getter.download_file(author_name, "Auteurs/", "table_html.txt")
+            if(status != 200):
+                #error(status, message)
+                print(status)
+                return "erreur"
+        return "ok"
+
 #--------------------------FONCTION BOTTLE--------------------------
 
 
@@ -42,16 +54,13 @@ def name():
 @bottle.route("/auteur/<lname>/<name>")
 @bottle.view("page.tpl")
 def auteur(lname,name):
-    list_file = os.listdir("Auteurs/")
+   
     author_name = name+" "+lname
     file_name = author_name+".xml"
-    if(file_name not in list_file):
-        #si le fichier n'existe pas on le telecharge
-        status = online_file_getter.download_file(author_name, "Auteurs/", "table_html.txt")
-        if(status != 200):
-            #error(status, message)
-            print(status)
-            return
+    if telecharge(author_name)=="ok" :
+        tab=xml_file_loader.publication_stat("Auteurs/"+file_name)
+    else :
+        return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
     dico=xml_file_loader.publication_stat("Auteurs/"+file_name)
 
     stri="""<div><table style="border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse">
@@ -73,20 +82,22 @@ def auteur(lname,name):
 @bottle.route("/auteur/Journals/synthese/<lname>/<name>")
 @bottle.view("page.tpl")
 def synthese(lname,name):
-    list_file = os.listdir("Auteurs/")
+    
     author_name = name+" "+lname
     file_name = author_name+".xml"
-    if(file_name not in list_file):
-        #si le fichier n'existe pas on le telecharge
-        status = online_file_getter.download_file(author_name, "Auteurs/", "table_html.txt")
-        if(status != 200):
-            #error(status, message)
-            print(status)
-            return
-    tab=xml_file_loader.liste_resume_publication("Auteurs/"+file_name)
+    if telecharge(author_name)=="ok" :
+        tab=xml_file_loader.liste_resume_publication("Auteurs/"+file_name)
+    else :
+        return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
     tmp="vide"
 
-    stri="<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'><caption>Publications</caption><tr><th style='border:1px solid black'>Annee</th><th style='border:1px solid black'>Journal</th></tr>"
+    stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+    <caption>Publications</caption>
+    <tr>
+    <th style='border:1px solid black'>Annee</th>
+    <th style='border:1px solid black'>Journal</th>
+    </tr>"""
+
     for pub in tab:
         if tmp=="vide" or tmp[1]==pub[1]:
             pass
@@ -97,6 +108,30 @@ def synthese(lname,name):
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
+
+@bottle.route("/auteur/Journals/<lname>/<name>")
+@bottle.view("page.tpl")
+def journal(lname,name):
+    author_name = name+" "+lname
+    file_name = author_name+".xml"
+    if telecharge(author_name)=="ok" :
+        tab=xml_file_loader.liste_detail_publication("Auteurs/"+file_name)
+    else :
+        return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
+    stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+    <caption>Publications</caption>
+    <tr>
+    <th style='border:1px solid black'>Article</th>
+    <th style='border:1px solid black'>Auteur</th>
+    <th style='border:1px solid black'>Journal</th>
+    <th style='border:1px solid black'>Annee</th>
+    </tr>"""
+    for pub in tab:
+            stri+=" <tr><td style='border:1px solid black;padding:10px'>"+pub[0]+"</td><td style='border:1px solid black;padding:10px'>"+pub[1]+"</td>"
+            stri+=" <td style='border:1px solid black;padding:10px'>"+pub[2]+"</td><td style='border:1px solid black;padding:10px'>"+pub[3]+"</td></tr>"
+
+    stri+="</table></div>"
+    return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
 if __name__ == '__main__':
     #--------------------------RUN BOTTLE--------------------------

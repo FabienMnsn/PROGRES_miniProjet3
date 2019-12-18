@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Jean-Daniel Kant" n="14">
+<person key="homepages/30/2237" mdate="2009-06-09">
+<author>Jean-Daniel Kant</author>
+</person>
+<r><inproceedings key="conf/atal/BufalaK19" mdate="2019-05-29">
+<author>Nicolas De Bufala</author>
+<author>Jean-Daniel Kant</author>
+<title>An Evolutionary Approach to Find Optimal Policies with an Agent-Based Simulation.</title>
+<pages>610-618</pages>
+<year>2019</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3331747</ee>
+<crossref>conf/atal/2019</crossref>
+<url>db/conf/atal/aamas2019.html#BufalaK19</url>
+</inproceedings>
+</r>
+<r><article key="journals/jasss/BrousmicheKSP16" mdate="2019-05-23">
+<author>Kei-Léo Brousmiche</author>
+<author>Jean-Daniel Kant</author>
+<author>Nicolas Sabouret</author>
+<author>François Prenot-Guinard</author>
+<title>From Beliefs to Attitudes: Polias, a Model of Attitude Dynamics Based on Cognitive Modeling and Field Data.</title>
+<year>2016</year>
+<volume>19</volume>
+<journal>J. Artificial Societies and Social Simulation</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.18564/jasss.3161</ee>
+<url>db/journals/jasss/jasss19.html#BrousmicheKSP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/jfsma/BrousmicheKS16" mdate="2016-11-03">
+<author>Kei-Léo Brousmiche</author>
+<author>Jean-Daniel Kant</author>
+<author>Nicolas Sabouret</author>
+<title>Simulation multi-agent de dynamiques d'attitudes basée sur des données réelles.</title>
+<pages>203-212</pages>
+<year>2016</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2016</crossref>
+<url>db/conf/jfsma/jfsma2016.html#BrousmicheKS16</url>
+</inproceedings>
+</r>
+<r><article key="journals/complexity/MartinAK15" mdate="2017-05-28">
+<author>Sophie Martin</author>
+<author>Isabelle Alvarez</author>
+<author>Jean-Daniel Kant</author>
+<title>Micro/macro viability analysis of individual-based models: Investigation into the viability of a stylized agricultural cooperative.</title>
+<pages>276-296</pages>
+<year>2015</year>
+<volume>21</volume>
+<journal>Complexity</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cplx.21604</ee>
+<url>db/journals/complexity/complexity21.html#MartinAK15</url>
+</article>
+</r>
+<r><inproceedings key="conf/essa/BrousmicheKSP15" mdate="2017-05-23">
+<author>Kei-Léo Brousmiche</author>
+<author>Jean-Daniel Kant</author>
+<author>Nicolas Sabouret</author>
+<author>François Prenot-Guinard</author>
+<title>From Field Data to Attitude Formation.</title>
+<pages>1-14</pages>
+<year>2015</year>
+<booktitle>ESSA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-47253-9_1</ee>
+<crossref>conf/essa/2015</crossref>
+<url>db/conf/essa/essa2015.html#BrousmicheKSP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/BrousmicheKSFP14" mdate="2016-11-03">
+<author>Kei-Léo Brousmiche</author>
+<author>Jean-Daniel Kant</author>
+<author>Nicolas Sabouret</author>
+<author>Stéphane Fournier</author>
+<author>François Prenot-Guinard</author>
+<title>Modélisation de l'impact des croyances et de la communication sur la formation et la dynamique des attitudes : une approche multi-agent.</title>
+<pages>23-32</pages>
+<year>2014</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2014</crossref>
+<url>db/conf/jfsma/jfsma2014.html#BrousmicheKSFP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/ChapuisK14" mdate="2014-11-10">
+<author>Kevin Chapuis</author>
+<author>Jean-Daniel Kant</author>
+<title>Un modèle multi-agents de la satisfaction au travail fondé sur la comparaison sociale (présentation courte).</title>
+<pages>33-42</pages>
+<year>2014</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2014</crossref>
+<url>db/conf/jfsma/jfsma2014.html#ChapuisK14</url>
+</inproceedings>
+</r>
+<r><article key="journals/advcs/LewkoviczK08" mdate="2017-05-26">
+<author>Zach Lewkovicz</author>
+<author>Jean-Daniel Kant</author>
+<title>A Multiagent Simulation of a stylized French Labor Market: Emergences at the Micro Level.</title>
+<pages>217-230</pages>
+<year>2008</year>
+<volume>11</volume>
+<journal>Advances in Complex Systems</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0219525908001581</ee>
+<url>db/journals/advcs/advcs11.html#LewkoviczK08</url>
+</article>
+</r>
+<r><article key="journals/advcs/ThiriotK08" mdate="2017-05-26">
+<author>Samuel Thiriot</author>
+<author>Jean-Daniel Kant</author>
+<title>Using Associative Networks to Represent Adopters' Beliefs in a Multiagent Model of Innovation Diffusion.</title>
+<pages>261-272</pages>
+<year>2008</year>
+<volume>11</volume>
+<journal>Advances in Complex Systems</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0219525908001611</ee>
+<url>db/journals/advcs/advcs11.html#ThiriotK08</url>
+</article>
+</r>
+<r><inproceedings key="conf/wcss/ThiriotK08" mdate="2017-05-21">
+<author>Samuel Thiriot</author>
+<author>Jean-Daniel Kant</author>
+<title>A Naturalistic Multi-Agent Model of Word-of-Mouth Dynamics.</title>
+<pages>89-99</pages>
+<year>2008</year>
+<booktitle>WCSS</booktitle>
+<ee>https://doi.org/10.1007/978-4-431-99781-8_7</ee>
+<crossref>conf/wcss/2008</crossref>
+<url>db/conf/wcss/wcss2008.html#ThiriotK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/ThiriotK07" mdate="2012-02-07">
+<author>Samuel Thiriot</author>
+<author>Jean-Daniel Kant</author>
+<title>Représenter les croyances par des réseaux associatifs pour simuler la diffusion d'innovations (présentation courte).</title>
+<pages>159-168</pages>
+<year>2007</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2007</crossref>
+<url>db/conf/jfsma/jfsma2007.html#ThiriotK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/KantT06" mdate="2018-11-06">
+<author>Jean-Daniel Kant</author>
+<author>Samuel Thiriot</author>
+<title>Modeling one human decision maker with a multi-agent system: the CODAGE approach.</title>
+<pages>50-57</pages>
+<year>2006</year>
+<crossref>conf/atal/2006</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/1160633.1160639</ee>
+<url>db/conf/atal/aamas2006.html#KantT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/KantL03" mdate="2013-07-17">
+<author>Jean-Daniel Kant</author>
+<author>Alain Lifchitz</author>
+<title>Web-R: a Tool to Record and Replay Personal Web Navigation.</title>
+<year>2003</year>
+<crossref>conf/www/2003p</crossref>
+<booktitle>WWW (Posters)</booktitle>
+<ee>http://www2003.org/cdrom/papers/poster/p296/p296-kant.html</ee>
+<url>db/conf/www/www2003p.html#KantL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnn/KantL97" mdate="2019-09-16">
+<author>Jean-Daniel Kant</author>
+<author orcid="0000-0003-1080-7716">Daniel S. Levine 0001</author>
+<title>A neural network for decision making under the influence of reinforcement.</title>
+<pages>558-563</pages>
+<year>1997</year>
+<booktitle>ICNN</booktitle>
+<ee>https://doi.org/10.1109/ICNN.1997.611730</ee>
+<crossref>conf/icnn/1997</crossref>
+<url>db/conf/icnn/icnn1997.html#KantL97</url>
+</inproceedings>
+</r>
+<coauthors n="12" nc="2">
+<co c="1"><na f="a/Alvarez:Isabelle">Isabelle Alvarez</na></co>
+<co c="0"><na f="b/Brousmiche:Kei=L=eacute=o">Kei-Léo Brousmiche</na></co>
+<co c="-1"><na f="b/Bufala:Nicolas_De">Nicolas De Bufala</na></co>
+<co c="-1"><na f="c/Chapuis:Kevin">Kevin Chapuis</na></co>
+<co c="0"><na f="f/Fournier:St=eacute=phane">Stéphane Fournier</na></co>
+<co c="-1"><na f="l/Levine_0001:Daniel_S=">Daniel S. Levine 0001</na></co>
+<co c="-1"><na f="l/Lewkovicz:Zach">Zach Lewkovicz</na></co>
+<co c="-1"><na f="l/Lifchitz:Alain">Alain Lifchitz</na></co>
+<co c="1"><na f="m/Martin:Sophie">Sophie Martin</na></co>
+<co c="0"><na f="p/Prenot=Guinard:Fran=ccedil=ois">François Prenot-Guinard</na></co>
+<co c="0"><na f="s/Sabouret:Nicolas">Nicolas Sabouret</na></co>
+<co c="-1"><na f="t/Thiriot:Samuel">Samuel Thiriot</na></co>
+</coauthors>
+</dblpperson>
+

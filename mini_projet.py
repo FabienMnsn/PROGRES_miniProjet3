@@ -1,5 +1,4 @@
 #---------------------------
-import xml_file_loader
 import utils_xml
 #---------------------------
 import os
@@ -43,25 +42,31 @@ def auteur():
     return {"title":"Rechercher un auteur", "body":stri}
 
 
-
+#@bottle.route("/auteur/name", method='POST')
 @bottle.route("/auteur/name", method='POST')
 @bottle.view("page.tpl")
 def name():
     lname = bottle.request.forms.last_name
     fname = bottle.request.forms.first_name
-    redirect("/auteur/"+lname+"/"+fname)
+    #redirect("/auteur/"+lname+"/"+fname)
+    redirect("/auteur/"+lname+"_"+fname)
 
-@bottle.route("/auteur/<lname>/<name>")
+#@bottle.route("/auteur/<lname>/<name>")
+@bottle.route("/auteur/<name>")
 @bottle.view("page.tpl")
-def auteur(lname,name):
-   
-    author_name = name+" "+lname
+#def auteur(lname,name):
+def auteur(name):
+    #new WIP
+    name_split = name.split("_")
+    #inversion nom et prenom pour lancer la recherche
+    author_name = name_split[1]+" "+name_split[0]
+    #author_name = name+" "+lname
     file_name = author_name+".xml"
-    if telecharge(author_name)=="ok" :
-        tab=xml_file_loader.publication_stat("Auteurs/"+file_name)
+    if(telecharge(author_name)=="ok"):
+        tab=utils_xml.publication_stat("Auteurs/"+file_name)
     else :
         return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
-    dico=xml_file_loader.publication_stat("Auteurs/"+file_name)
+    dico=utils_xml.publication_stat("Auteurs/"+file_name)
 
     stri="""<div><table style="border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse">
     <caption>Statistiques générales</caption>
@@ -79,20 +84,26 @@ def auteur(lname,name):
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
 
-@bottle.route("/auteur/Journals/synthese/<lname>/<name>")
+#@bottle.route("/auteur/Journals/synthese/<lname>/<name>")
+@bottle.route("/auteur/Journals/synthese/<name>")
 @bottle.view("page.tpl")
-def synthese(lname,name):
-    
-    author_name = name+" "+lname
+#def synthese(lname,name):
+def synthese(name):
+    #new WIP
+    name_split = name.split("_")
+    #inversion nom et prenom pour lancer la recherche
+    author_name = name_split[1]+" "+name_split[0]
+    #original
+    #author_name = name+" "+lname
     file_name = author_name+".xml"
     if telecharge(author_name)=="ok" :
-        tab = xml_file_loader.liste_resume_publication("Auteurs/"+file_name)
+        tab = utils_xml.liste_resume_publication("Auteurs/"+file_name)
     else :
         return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
     tmp="vide"
 
     stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
-    <caption>Publications</caption>
+    <caption>Synthèse des publications</caption>
     <tr>
     <th style='border:1px solid black'>Annee</th>
     <th style='border:1px solid black'>Journal</th>
@@ -108,18 +119,24 @@ def synthese(lname,name):
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
-
-@bottle.route("/auteur/Journals/<lname>/<name>")
+#@bottle.route("/auteur/Journals/<lname>/<name>")
+@bottle.route("/auteur/Journals/<name>")
 @bottle.view("page.tpl")
-def journal(lname,name):
-    author_name = name+" "+lname
+#def journal(lname,name):
+def journal(name):
+    #new WIP
+    name_split = name.split("_")
+    #inversion nom et prenom pour lancer la recherche
+    author_name = name_split[1]+" "+name_split[0]
+    #original
+    #author_name = name+" "+lname
     file_name = author_name+".xml"
     if telecharge(author_name)=="ok" :
-        tab = xml_file_loader.liste_detail_publication("Auteurs/"+file_name)
+        tab = utils_xml.liste_detail_publication("Auteurs/"+file_name)
     else :
         return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
     stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
-    <caption>Publications</caption>
+    <caption>Liste détaillée des publications</caption>
     <tr>
     <th style='border:1px solid black'>Article</th>
     <th style='border:1px solid black'>Auteur</th>
@@ -133,18 +150,26 @@ def journal(lname,name):
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
-@bottle.route("/auteur/Conferences/synthese/<lname>/<name>")
+
+#@bottle.route("/auteur/Conferences/synthese/<lname>/<name>")
+@bottle.route("/auteur/Conferences/synthese/<name>")
 @bottle.view("page.tpl")
-def conferences(lname,name):
-    author_name = name+" "+lname
+#def conferences(lname,name):
+def conferences(name):
+	#new WIP
+    name_split = name.split("_")
+    #inversion nom et prenom pour lancer la recherche
+    author_name = name_split[1]+" "+name_split[0]
+    #original
+    #author_name = name+" "+lname
     file_name = author_name+".xml"
     if telecharge(author_name)=="ok" :
-        tab=xml_file_loader.liste_resume_conference("Auteurs/"+file_name)
+        tab=utils_xml.liste_resume_conference("Auteurs/"+file_name)
     else :
         return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
 
     stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
-    <caption>Publications</caption>
+    <caption>Synthèse des conférences</caption>
     <tr>
     <th style='border:1px solid black'>Conference</th>
     <th style='border:1px solid black'>Annee</th>
@@ -157,18 +182,26 @@ def conferences(lname,name):
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
-@bottle.route("/auteur/Conferences/<lname>/<name>")
+
+#@bottle.route("/auteur/Conferences/<lname>/<name>")
+@bottle.route("/auteur/Conferences/<name>")
 @bottle.view("page.tpl")
-def confdetail(lname,name):
-    author_name = name+" "+lname
+#def confdetail(lname,name):
+def confdetail(name):
+    #new WIP
+    name_split = name.split("_")
+    #inversion nom et prenom pour lancer la recherche
+    author_name = name_split[1]+" "+name_split[0]
+    #original
+    #author_name = name+" "+lname
     file_name = author_name+".xml"
     if telecharge(author_name)=="ok" :
-        tab=xml_file_loader.liste_detail_conference("Auteurs/"+file_name)
+        tab=utils_xml.liste_detail_conference("Auteurs/"+file_name)
     else :
         return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
     
     stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
-    <caption>Publications</caption>
+    <caption>Liste détailée des conférences</caption>
     <tr>
     <th style='border:1px solid black'>Titre</th>
     <th style='border:1px solid black'>Auteur</th>

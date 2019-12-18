@@ -1,14 +1,22 @@
 import requests
 import re
 import os
+import xml.etree.ElementTree as ET
+
+#############################################################################################################
+#																											#
+# Ceci est un fichier regroupant les fonctions qui sont nécéssaires au fonctionnement de notre API bottle	#
+#																											#
+#############################################################################################################
+
+
+
+
 
 
 #------------------------------------------------------------------------------------------------------------
-# Fonctions permettant de, télécharger et traiter un fichier XML avant de pouvoir lancer le parser ElementTree
+# 							Fonctions permettant de télécharger un fichier XML 
 #------------------------------------------------------------------------------------------------------------
-
-
-#------------------------------FONCTIONS DE RECUPERATION DU FICHIER SOURCE
 def create_dico_html(caracter_table_file_path):
 	"""
 	Cree un ditionnaire des codes html correspondants au caracteres speciaux html
@@ -46,8 +54,11 @@ def request_author_file_builder(author_name, table_path):
 			splited_changed.append(char)
 	author_name_changed = "".join(splited_changed)
 	author_name_split = author_name_changed.split(' ')
-	last_name_cut = author_name_split[1][0].lower()
-	request = "https://dblp.uni-trier.de/pers/xx/"+last_name_cut+"/"+author_name_split[1]+":"+author_name_split[0]+".xml"
+	#on remplace le trait d'union par un = pour générer la requete
+	first_name_maybe_composed = author_name_split[1].replace('-', '=')
+	name_maybe_composed = author_name_split[0].replace('-', '=')
+	name_first_letter_cut = author_name_split[1][0].lower()
+	request = "https://dblp.uni-trier.de/pers/xx/"+name_first_letter_cut+"/"+first_name_maybe_composed+":"+name_maybe_composed+".xml"
 	return request
 
 
@@ -71,11 +82,15 @@ def download_file(author_name, download_path, table_path):
 	else:
 		print(requested.status_code)
 	return requested.status_code
-#------------------------------FIN DES FONCTIONS DE RECUPERATION DU FICHIER SOURCE
 
 
 
-#------------------------------FONCTIONS DE TRAITEMENT DU FICHIER SOURCE
+
+
+
+#------------------------------------------------------------------------------------------------------------
+# 			Fonctions permettant de transformer les caractères spéciauxprésents dans le fichier XML 
+#------------------------------------------------------------------------------------------------------------
 def create_dico_iso(table_file_path):
     """
     Fonction qui fabrique un dictionnaire à partir d'un fichier de codes iso de carateres spéciaux.
@@ -208,17 +223,20 @@ def xml_formater(input_file, output_file, dictionnaire_code):
         if("version" in line_):
             continue
         else:
-            contains_special_char = re.search(r"&", line_)
-            if(contains_special_char != None and len(contains_special_char[0]) > 0):
+            #contains_special_char = re.search(r"&", line_)
+            contains_special_char = ('&' in line_)
+            #if(contains_special_char != None and len(contains_special_char[0]) > 0):
+            if(contains_special_char):
                 splited_line = split_char_code(line_)
                 new_line = replace_char(splited_line, dictio)
                 new_xml.write(new_line+"\n")
+                #print(line_)
+                #print(new_line)
             else:
                 new_xml.write(line_+"\n")
     new_xml.close()
     xml.close()
     #print("--------Fermeture des fichiers", input_file, ", ", output_file)
-
 
 
 def parse_file(input_file_path, output_file_path, table_correspondance):
@@ -232,6 +250,216 @@ def parse_file(input_file_path, output_file_path, table_correspondance):
 	"""
 	dico = create_dico_iso(table_correspondance)
 	xml_formater(input_file_path, output_file_path, dico)
+
+
+
+
+
+
+#------------------------------------------------------------------------------------------------------------
+# 						Fonctions permettant de parser un fichier XML avec ElementTree
+#------------------------------------------------------------------------------------------------------------
+def publication_stat(file_path):
+	"""
+	Retourne un dictionnaire contenant les statistiques de publication d'un auteur : journaux, conferences, co-auteurs
+	
+	@param
+	file_path : string, chemin d'accès du fichier XML de l'auteur ex:"Auteurs/Nom Prénom.xml"
+	"""
+	tree = ET.parse(file_path)
+	root = tree.getroot()
+	res = {"journaux":0, "conferences":0, "co-auteurs":0}
+	for child in root:
+		if(child.tag == 'r'):
+			for grandchild in child:
+				if(grandchild.tag == 'article'):
+					res["journaux"] += 1
+				elif(grandchild.tag == 'inproceedings'):
+					res["conferences"] += 1
+		elif(child.tag == 'coauthors'):
+			for author in child:
+				res["co-auteurs"] += 1
+
+	return res
+
+
+def liste_resume_publication(file_path):
+	"""
+	Retourne une liste resumee de toutes les publications d'un auteur [publication, annee]
+
+	@param
+	file_path : chemin du fichier XML source, par ex: 'Auteurs/Olivier Fourmaux.xml'
+	"""
+	tree = ET.parse(file_path)
+	root = tree.getroot()
+	tableau_publication = []
+	publication = []
+	for child in root:
+		if(child.tag == 'r'):
+			for grandchild in child:
+				if(grandchild.tag == 'article'):
+					for article_data in grandchild:
+						if(article_data.tag == "journal"):
+							publication.append(article_data.text)
+						if(article_data.tag == "year"):
+							annee = article_data.text
+							publication.append(annee)
+					tableau_publication.append(publication)
+					publication = []
+	return tableau_publication
+
+
+def liste_detail_publication(file_path):
+	"""
+	Retourne une liste complete de toutes les publications d'un auteur avec pour chaque publication : 
+	le titre, la liste des auteurs, le nom du journal et l'annee de publication
+
+	@param
+	file_path : chemin du fichier xml source, par ex: 'Auteurs/Olivier Fourmaux.xml'
+	"""
+	tree = ET.parse(file_path)
+	root = tree.getroot()
+	tableau_publication = []
+	publication = []
+	titre = ""
+	auteur_liste = ""
+	journal_name = ""
+	annee = ""
+	for child in root:
+		if(child.tag == 'r'):
+			for grandchild in child:
+				if(grandchild.tag == 'article'):
+					for article_data in grandchild:
+						if(article_data.tag == "journal"):
+							journal_name = article_data.text
+						if(article_data.tag == "year"):
+							annee = article_data.text
+						if(article_data.tag == "title"):
+							titre = article_data.text
+						if(article_data.tag == "author"):
+							auteur_liste += article_data.text+", "
+					publication.append(titre)
+					publication.append(auteur_liste[:-2])
+					publication.append(journal_name)
+					publication.append(annee)
+					tableau_publication.append(publication)
+					publication = []
+					titre = ""
+					annee = ""
+					auteur_liste = ""
+					journal_name = ""
+	return tableau_publication
+
+
+def liste_resume_conference(file_path):
+	"""
+	Retourne une liste resumee de toutes les conferences d'un auteur [conference, annee]
+
+	@param
+	file_path : chemin du fichier xml source, par ex: 'Auteurs/Olivier Fourmaux.xml'
+	"""
+	tree = ET.parse(file_path)
+	root = tree.getroot()
+	tableau_conferences = []
+	conference = []
+	annee = ""
+	conference_name = ""
+	for child in root:
+		if(child.tag == 'r'):
+			for grandchild in child:
+				if(grandchild.tag == 'inproceedings'):
+					for article_data in grandchild:
+						if(article_data.tag == "booktitle"):
+							#acronyme ou titre => le mieux c'est titre selon nous
+							#c_acronyme = to_acronyme(article_data.text)
+							conference_name = article_data.text
+						if(article_data.tag == "year"):
+							annee = article_data.text
+					conference.append(conference_name)
+					conference.append(annee)
+					tableau_conferences.append(conference)
+					conference = []
+					conference_name = ""
+					annee = ""
+	return tableau_conferences
+
+
+def liste_detail_conference(file_path):
+	"""
+	Retourne une liste complete de toutes les conferences d'un auteur avec pour chaque conference : 
+	le titre, la liste des auteurs, le nom de la conference et la date 
+
+	@param
+	file_path : chemin du fichier xml source, par ex: 'Auteurs/Olivier Fourmaux.xml'
+	"""
+	tree = ET.parse(file_path)
+	root = tree.getroot()
+	tableau_conferences = []
+	conf = []
+	titre = ""
+	auteur_liste = ""
+	conference_name = ""
+	annee = ""
+	for child in root:
+		if(child.tag == 'r'):
+			for grandchild in child:
+				if(grandchild.tag == 'inproceedings'):
+					for article_data in grandchild:
+						if(article_data.tag == "booktitle"):
+							#acronyme ou titre => le mieux c'est titre selon nous
+							#c_acronyme = to_acronyme(article_data.text)
+							conference_name = article_data.text
+						if(article_data.tag == "year"):
+							annee = article_data.text
+						if(article_data.tag == "title"):
+							titre = article_data.text
+						if(article_data.tag == "author"):
+							auteur_liste += article_data.text+", "
+					conf.append(titre)
+					conf.append(auteur_liste[:-2])
+					conf.append(conference_name)
+					conf.append(annee)
+					tableau_conferences.append(conf)
+					conf = []
+					titre = ""
+					annee = ""
+					auteur_liste = ""
+					conference_name = ""
+	return tableau_conferences
+
+
+def liste_vers_html(liste, legende_colonne, legende_table):
+	"""
+	Retourne une table html faite a partir d'une double liste python (liste de liste)
+
+	@param
+	liste : la double liste
+	legende_colonne : string decrivant la legende de chaque colonne separee par des ';' ex: "Conference;Auteurs;Annee"
+	legende_table : legende de la table : <caption>legende_table</caption>
+	"""
+	legende_split = legende_colonne.split(';')
+	table_head = "<table style='width:100%'>\n<caption>"+legende_table+"</caption>\n"
+	table_content = ""
+	table_bottom = "</table>"
+	if(len(legende_split)) != len(liste[0]):
+		return -1
+	if(type(liste) == list and type(liste[0]) == list):
+		table_content += "<tr>\n"
+		for lgd in legende_split:
+			table_content += "<th>"+lgd+"</th>\n"
+		table_content += "</tr>"
+		for objet in liste:
+			table_content += "<tr>\n"
+			for elem in objet:
+				table_content += "<td>"+elem+"</td>\n"
+			table_content += "</tr>\n"
+		return table_head+table_content+table_bottom
+	else:
+		print("liste incorrecte")
+		return -1
+
+
+
 
 
 

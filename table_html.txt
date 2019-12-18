@@ -4,7 +4,6 @@
 <|&lt;
 >|&gt;
 oe|&oelig;
-Y|&Yuml;
 |&nbsp;
 ¡|&iexcl;
 ¢|&cent;

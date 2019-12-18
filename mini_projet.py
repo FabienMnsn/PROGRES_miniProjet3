@@ -1,5 +1,8 @@
-#import xml.etree.ElementTree as ET
+#---------------------------
 import xml_file_loader
+import online_file_getter
+#---------------------------
+import os
 from lxml import etree
 import bottle
 from bottle import redirect
@@ -39,22 +42,35 @@ def name():
 @bottle.route("/auteur/<lname>/<name>")
 @bottle.view("page.tpl")
 def auteur(lname,name):
-    dico=xml_file_loader.publication_stat("Auteurs/"+name+" "+lname+".xml")
-    stri="""  <table style="width:15%">
+    list_file = os.listdir("Auteurs/")
+    author_name = name+" "+lname
+    file_name = author_name+".xml"
+    if(file_name not in list_file):
+        #si le fichier n'existe pas on le telecharge
+        status = online_file_getter.download_file(author_name, "Auteurs/", "table_html.txt")
+        if(status != 200):
+            #error(status, message)
+            print(status)
+            return
+    dico=xml_file_loader.publication_stat("Auteurs/"+file_name)
+
+    stri="""<div><table style="border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse">
+    <caption>Statistiques générales</caption>
     <tr>
-    <td>Nombre journaux</td>"""+"<td>"+str(dico["journaux"])+"""</td>
+    <td style="border:1px solid black;padding:10px">Nombre de journaux</td>"""+"<td style='border:1px solid black;padding:10px'>"+str(dico["journaux"])+"""</td>
     </tr>
     <tr>
-    <td>Nombre conference</td>"""+"<td>"+str(dico["conferences"])+"""</td>
+    <td style='border:1px solid black;padding:10px'>Nombre de conferences</td>"""+"<td style='border:1px solid black;padding:10px'>"+str(dico["conferences"])+"""</td>
     </tr>
     <tr>
-    <td>Nombre de co-auteur</td>"""+ "<td>"+str(dico["co-auteurs"])+"""</td>
+    <td style='border:1px solid black;padding:10px'>Nombre de co-auteurs</td>"""+ "<td style='border:1px solid black;padding:10px'>"+str(dico["co-auteurs"])+"""</td>
     </tr>
-    </table>"""
+    </table></div>"""
     
-    return {"title":"Vous consultez la page de "+name+" "+lname, "body":" les stats de la personne    "+stri}
+    return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
 
-#--------------------------RUN BOTTLE--------------------------
-bottle.run(bottle.app(), host='localhost', port='8080', debug=True, reloader=True)
-#--------------------------RUN BOTTLE--------------------------
+if __name__ == '__main__':
+    #--------------------------RUN BOTTLE--------------------------
+    bottle.run(bottle.app(), host='localhost', port='8080', debug=True, reloader=True)
+    #--------------------------RUN BOTTLE--------------------------

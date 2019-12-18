@@ -65,6 +65,7 @@ def download_file(author_name, download_path, table_path):
 		os.remove(file_name)
 	else:
 		print(requested.status_code)
+	return requested.status_code
 
 
 if __name__ == '__main__':

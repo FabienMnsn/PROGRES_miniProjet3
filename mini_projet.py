@@ -70,6 +70,34 @@ def auteur(lname,name):
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
 
+@bottle.route("/auteur/Journals/synthese/<lname>/<name>")
+@bottle.view("page.tpl")
+def synthese(lname,name):
+    list_file = os.listdir("Auteurs/")
+    author_name = name+" "+lname
+    file_name = author_name+".xml"
+    if(file_name not in list_file):
+        #si le fichier n'existe pas on le telecharge
+        status = online_file_getter.download_file(author_name, "Auteurs/", "table_html.txt")
+        if(status != 200):
+            #error(status, message)
+            print(status)
+            return
+    tab=xml_file_loader.liste_resume_publication("Auteurs/"+file_name)
+    tmp="vide"
+
+    stri="<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'><caption>Publications</caption><tr><th style='border:1px solid black'>Annee</th><th style='border:1px solid black'>Journal</th></tr>"
+    for pub in tab:
+        if tmp=="vide" or tmp[1]==pub[1]:
+            pass
+        else:
+            stri+=" <tr><td style='border:1px solid black;padding:10px'>"+pub[0]+"</td><td style='border:1px solid black;padding:10px'>"+pub[1]+"</td></tr>"
+        tmp=pub
+
+    stri+="</table></div>"
+    return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
+
+
 if __name__ == '__main__':
     #--------------------------RUN BOTTLE--------------------------
     bottle.run(bottle.app(), host='localhost', port='8080', debug=True, reloader=True)

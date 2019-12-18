@@ -133,6 +133,57 @@ def journal(lname,name):
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
+@bottle.route("/auteur/Conferences/synthese/<lname>/<name>")
+@bottle.view("page.tpl")
+def conferences(lname,name):
+    author_name = name+" "+lname
+    file_name = author_name+".xml"
+    if telecharge(author_name)=="ok" :
+        tab=xml_file_loader.liste_resume_conference("Auteurs/"+file_name)
+    else :
+        return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
+
+    stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+    <caption>Publications</caption>
+    <tr>
+    <th style='border:1px solid black'>Conference</th>
+    <th style='border:1px solid black'>Annee</th>
+    </tr>"""
+
+    for pub in tab:
+        stri+=" <tr><td style='border:1px solid black;padding:10px'>"+pub[0]+"</td><td style='border:1px solid black;padding:10px'>"+pub[1]+"</td></tr>"
+        
+
+    stri+="</table></div>"
+    return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
+
+@bottle.route("/auteur/Conferences/<lname>/<name>")
+@bottle.view("page.tpl")
+def confdetail(lname,name):
+    author_name = name+" "+lname
+    file_name = author_name+".xml"
+    if telecharge(author_name)=="ok" :
+        tab=xml_file_loader.liste_detail_conference("Auteurs/"+file_name)
+    else :
+        return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
+    
+    stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+    <caption>Publications</caption>
+    <tr>
+    <th style='border:1px solid black'>Titre</th>
+    <th style='border:1px solid black'>Auteur</th>
+    <th style='border:1px solid black'>Conference</th>
+    <th style='border:1px solid black'>Annee</th>
+    </tr>"""
+
+    for pub in tab:
+        stri+=" <tr><td style='border:1px solid black;padding:10px'>"+pub[0]+"</td><td style='border:1px solid black;padding:10px'>"+pub[1]+"</td>"
+        stri+=" <td style='border:1px solid black;padding:10px'>"+pub[2]+"</td><td style='border:1px solid black;padding:10px'>"+pub[3]+"</td></tr>"
+
+    stri+="</table></div>"
+    return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
+
+
 #--------------------------FIN FONCTION BOTTLE--------------------------
 
 if __name__ == '__main__':

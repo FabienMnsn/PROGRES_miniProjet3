@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <lip6>
 <team name="ACASA">
-<permanents>Bourgne Gauvain</permanents>
-<permanents>Denis Christophe</permanents>
-<permanents>Faucher Colette</permanents>
-<permanents>Ganascia Jean-Gabriel</permanents>
+	<permanents>Bourgne Gauvain</permanents>
+	<permanents>Denis Christophe</permanents>
+	<permanents>Faucher Colette</permanents>
+	<permanents>Ganascia Jean-Gabriel</permanents>
 </team>
 <team name="ALMASTY">
 	<permanents>Bajard Jean-Claude</permanents>

@@ -237,6 +237,7 @@ def parse_file(input_file_path, output_file_path, table_correspondance):
 
 if __name__ == '__main__':
 
+	"""
 	#TEST START
  	#--Tests de la partie récupération du fichier sur internet
 	print("<--TESTS TELECHARGEMENT DE FICHIER XML-->")
@@ -251,7 +252,7 @@ if __name__ == '__main__':
 	print("		Test remplacement caractere special : ", replace_char(["truc ", "&#233;", " muche"], create_dico_iso("table_iso.txt")) == "truc é muche")
 	print("		Test découpe caratere de fin de ligne :", cut_end("blablabla truc\n") == "blablabla truc")
 	#TEST END
-
+	"""
 
 	#AUTRES TESTS
 	print(request_author_file_builder("Christophe Gonzales", "table_html.txt"))

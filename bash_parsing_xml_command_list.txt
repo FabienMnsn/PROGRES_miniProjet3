@@ -14,3 +14,7 @@ modules python pour tracer les graphes : networkx, matplotlib, pylab
 https://stackoverflow.com/questions/19606313/networkx-directed-graph-no-weights-and-self-arc
 
 --------------------------------------------------------------------------------------------------------------
+
+pour le graphe ça c'est peut etre interessant : https://stackoverflow.com/questions/48845686/networkx-circular-plot-with-a-node-in-the-center
+
+--------------------------------------------------------------------------------------------------------------

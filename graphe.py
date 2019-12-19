@@ -3,6 +3,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import random
 
+
 def draw_graphe(auteur_name1, auteur_name2):
 	"""
 	Dessine un graphe ou chaque point est un memebre du lip6 et les deux point de couleur differente sont les deux meembres choisis
@@ -15,21 +16,34 @@ def draw_graphe(auteur_name1, auteur_name2):
 
 	nb_added = 0
 	centre = 100
+	centreX = 100
+	centreY = 100
 	pad = 40
 	random_max = 200
+	rayon = 50
 	#membres permanents du lip6 = 193 - les deux auteurs sélectionnés = 191
 	while(nb_added < 191):
-		x = random.uniform(1,random_max)
-		y = random.uniform(1,random_max)
+		x = random.randrange(1,random_max, 5+random.randint(1,4))
+		y = random.randrange(1,random_max, 5+random.randint(1,4))
+		#x = random.uniform(1,random_max)
+		#y = random.uniform(1,random_max)
+		distance_au_centre = math.pow((x-centreX),2)+math.pow((y-centreY),2)
+		if(distance_au_centre > math.pow(rayon, 2)+pad):
+			graph.add_node("N"+str(nb_added), pos=(x,y))
+			nb_added +=1
+		"""
 		if(y < centre-pad or y > centre+pad):
 			graph.add_node("N"+str(nb_added), pos=(x,y))
 			nb_added +=1
 		elif(x < centre-pad or x > centre+pad):
 			graph.add_node(nb_added, pos=(x,y))
 			nb_added +=1
-	graph.add_node(192, pos=(centre-pad/4, centre))
-	graph.add_node(193, pos=(centre+pad/4, centre))
-	graph.add_edge(192,192)
+		"""
+	graph.add_nodes_from(['Pierre\nSens'], pos=(centre-pad/4, centre), style="filled", fillcolor='red')
+	graph.add_node("Olivier\nFourmaux", pos=(centre+pad/4, centre))
+	graph.add_edge('Pierre\nSens','Olivier\nFourmaux')
+	graph.add_edge('Olivier\nFourmaux', 'Pierre\nSens')
+	graph.add_edge('Pierre\nSens','Olivier\nFourmaux')
 
 	pos = nx.get_node_attributes(graph, 'pos')
 	nx.draw(graph, pos, with_labels=True)

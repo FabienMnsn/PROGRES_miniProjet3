@@ -2,10 +2,11 @@ import requests
 import re
 import os
 import xml.etree.ElementTree as ET
+from bs4 import BeautifulSoup
 
 #############################################################################################################
 #																											#
-# Ceci est un fichier regroupant les fonctions qui sont nécéssaires au fonctionnement de notre API bottle	#
+# 	Ceci est un fichier regroupant les fonctions qui sont nécéssaires au fonctionnement de notre API 		#
 #																											#
 #############################################################################################################
 
@@ -285,6 +286,8 @@ def publication_stat(file_path):
 
 #lien vers le site core pour trouver le classement :
 # http://portal.core.edu.au/jnl-ranks/?search=[Nom_du_journal]&by=all&source=all
+# http://portal.core.edu.au/jnl-ranks/?search=[Distributed+Computing]&by=all&source=all
+
 def liste_resume_publication(file_path):
 	"""
 	Retourne une liste resumee de toutes les publications d'un auteur [publication, annee]
@@ -309,6 +312,52 @@ def liste_resume_publication(file_path):
 					tableau_publication.append(publication)
 					publication = []
 	return tableau_publication
+
+
+def get_rank(journal_name):
+	"""
+	Retourne le classement core (A*, A, B ou C) ou -1 s'il n'y a pas d'informations
+
+	@param
+	journal_name : string, nom du journal extrait du fichier xml de l'auteur
+	"""
+	journal_names_concat = journal_name.replace(' ', '+')	
+	url = "http://portal.core.edu.au/jnl-ranks/?search="+journal_names_concat+"&by=all&source=all"
+	#proxy = {"https":"https://proxy.ufr-info-p6.jussieu.fr:3128"}
+	r = requests.get(url) # , proxies=proxy)
+	soup = BeautifulSoup(r.content, "html.parser")
+	res = soup.find_all('td')
+	if(len(res) != 0):
+		name = clean_string(res[0].text)
+		rank = clean_string(res[2].text)
+		name_splited = name.split(' ')
+		journal_splited = journal_name.split(' ')
+		print("name splited", name_splited)
+		print("jour splited", journal_splited)
+		for i in range(len(name_splited)):
+			if(name_splited[i] == "of"):
+				print("skip", name_splited[i])
+				continue
+			if(name_splited[i][0] != journal_splited[i][0]):
+				print(""+journal_splited[0]+" == "+name_splited[0])
+				return -1
+
+
+
+def clean_string(string):
+	"""
+	Retourne une chaine de caracteres sans les espaces en trop : pb avec beautifulsoup
+	"""
+	if(len(string) <= 0):
+		return ""
+	else:
+		string_2 = string.replace('\n', '')
+		string_splited = string_2.split(' ')
+		res = ""
+		for i in string_splited:
+			if(len(i) > 0):
+				res += i+' '
+		return res[:-1]
 
 
 def liste_detail_publication(file_path):
@@ -485,6 +534,9 @@ if __name__ == '__main__':
 	"""
 
 	#AUTRES TESTS
-	print(request_author_file_builder("Christophe Gonzales", "table_html.txt"))
-	download_file("Christophe Gonzales", "Auteurs/", "table_html.txt")
-	xml_formater("Auteurs/Christophe Gonzales.xml", "Auteurs/_Christophe Gonzales.xml", create_dico_iso("table_iso.txt"))
+	#print(request_author_file_builder("Christophe Gonzales", "table_html.txt"))
+	#download_file("Christophe Gonzales", "Auteurs/", "table_html.txt")
+	#xml_formater("Auteurs/Christophe Gonzales.xml", "Auteurs/_Christophe Gonzales.xml", create_dico_iso("table_iso.txt"))
+	
+	get_rank("Int J Found Comput Sci")
+	

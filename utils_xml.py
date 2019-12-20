@@ -327,20 +327,43 @@ def get_rank(journal_name):
 	r = requests.get(url) # , proxies=proxy)
 	soup = BeautifulSoup(r.content, "html.parser")
 	res = soup.find_all('td')
+	print("------------------------------")
+	for elem in res:
+		print("------------------------------")
+		print("[elem =", elem,"]")
+		print("------------------------------")
 	if(len(res) != 0):
-		name = clean_string(res[0].text)
-		rank = clean_string(res[2].text)
-		name_splited = name.split(' ')
-		journal_splited = journal_name.split(' ')
-		print("name splited", name_splited)
-		print("jour splited", journal_splited)
-		for i in range(len(name_splited)):
-			if(name_splited[i] == "of"):
-				print("skip", name_splited[i])
-				continue
-			if(name_splited[i][0] != journal_splited[i][0]):
-				print(""+journal_splited[0]+" == "+name_splited[0])
-				return -1
+		sous_liste = res
+		found = False
+		while(len(sous_liste) >= 7 and not(found)):
+			name = clean_string(sous_liste[0].text)
+			rank = clean_string(sous_liste[2].text)
+			name_splited = name.split(' ')
+			journal_splited = journal_name.split(' ')
+			print("name Core", name_splited)
+			print("name XML", journal_splited)
+			i_j = 0
+			i_n = 0
+			while (True):
+				if(name_splited[i_n] == "of"):
+					#print("skiped", name_splited[i_n])
+					i_n += 1
+					continue
+				if(journal_splited[i_j] == "The" or journal_splited[i_j] == "the"):
+					i_j += 1
+					continue
+				if(journal_splited[i_j] in name_splited[i_n]):
+					print(""+journal_splited[i_j]+" in "+name_splited[i_n])
+					i_n +=1
+					i_j +=1
+				elif(name_splited[i_n][0] != journal_splited[i_j][0]):
+					print("false")
+					break
+				if(i_n == len(name_splited) or i_j == len(journal_splited)):
+					found = True
+					break
+			sous_liste = res[7:]
+
 
 
 
@@ -538,5 +561,6 @@ if __name__ == '__main__':
 	#download_file("Christophe Gonzales", "Auteurs/", "table_html.txt")
 	#xml_formater("Auteurs/Christophe Gonzales.xml", "Auteurs/_Christophe Gonzales.xml", create_dico_iso("table_iso.txt"))
 	
-	get_rank("Int J Found Comput Sci")
+	#get_rank("Algorithmica")
+	get_rank("Compute J")
 	

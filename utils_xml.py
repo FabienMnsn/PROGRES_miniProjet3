@@ -321,55 +321,63 @@ def get_rank(journal_name):
 	@param
 	journal_name : string, nom du journal extrait du fichier xml de l'auteur
 	"""
-	journal_names_concat = journal_name.replace(' ', '+')	
-	url = "http://portal.core.edu.au/jnl-ranks/?search="+journal_names_concat+"&by=all&source=all"
+	journal_names_concat = journal_name.replace(' ', '+')
+	journal_names_concat2 = journal_names_concat.replace('.','')
+	journal_name_clean = journal_name.replace('.', '')
+	url = "http://portal.core.edu.au/jnl-ranks/?search="+journal_names_concat2+"&by=all&source=all"
 	#proxy = {"https":"https://proxy.ufr-info-p6.jussieu.fr:3128"}
 	r = requests.get(url) # , proxies=proxy)
 	soup = BeautifulSoup(r.content, "html.parser")
-	res = soup.find_all('td')
-	print("------------------------------")
+	res = soup.find_all('tr')
+	#print(res)
 	for elem in res:
-		print("------------------------------")
-		print("[elem =", elem,"]")
-		print("------------------------------")
-	if(len(res) != 0):
-		sous_liste = res
-		found = False
-		while(len(sous_liste) >= 7 and not(found)):
-			name = clean_string(sous_liste[0].text)
-			rank = clean_string(sous_liste[2].text)
-			name_splited = name.split(' ')
-			journal_splited = journal_name.split(' ')
-			print("name Core", name_splited)
-			print("name XML", journal_splited)
-			i_j = 0
-			i_n = 0
-			while (True):
-				if(name_splited[i_n] == "of"):
-					#print("skiped", name_splited[i_n])
-					i_n += 1
-					continue
-				if(journal_splited[i_j] == "The" or journal_splited[i_j] == "the"):
-					i_j += 1
-					continue
-				if(journal_splited[i_j] in name_splited[i_n]):
-					print(""+journal_splited[i_j]+" in "+name_splited[i_n])
-					i_n +=1
-					i_j +=1
-				elif(name_splited[i_n][0] != journal_splited[i_j][0]):
-					print("false")
-					break
-				if(i_n == len(name_splited) or i_j == len(journal_splited)):
-					found = True
-					break
-			sous_liste = res[7:]
+		if(elem == res[0]):
+			continue
+		resultat = search_line(elem, journal_name_clean)
+		if(resultat != ""):
+			return resultat
+	
 
-
+def search_line(table_row, journal_name):
+	"""
+	Cherche si la ligne correspond au nom de journal et  retourne le rang du journal ou une chaine vide si pas d'infos
+	
+	@param
+	table_row : BeautifulSoup Element, ligne de table html a parcourir
+	journal_name : string, nom du journal trouvé dans le fichier XML
+	"""
+	line = table_row.find_all('td')
+	name = clean_string(line[0].text)
+	rank = clean_string(line[2].text)
+	name_splited = name.split(' ')
+	journal_splited = journal_name.split(' ')
+	i_j = 0
+	i_n = 0
+	found = False
+	while (not(found)):		
+		if(name_splited[i_n] == "of" or name_splited[i_n] == "and" or name_splited[i_n] == "on"):
+			#print("---skiped", name_splited[i_n])
+			i_n += 1
+			continue
+		if(name_splited[i_n] == "The" or name_splited[i_n] == "the"):
+			#print("---skiped THE", name_splited[i_n])
+			i_n += 1
+			continue
+		if(journal_splited[i_j] in name_splited[i_n]):
+			#print("---"+journal_splited[i_j]+" in "+name_splited[i_n])
+			i_n +=1
+			i_j +=1
+		else:
+			return ""
+		if(i_n == len(name_splited) or i_j == len(journal_splited)):
+			found = True
+			return rank
+	return ""
 
 
 def clean_string(string):
 	"""
-	Retourne une chaine de caracteres sans les espaces en trop : pb avec beautifulsoup
+	Retourne une chaine de caracteres sans les espaces en trop a cause de beautifulsoup
 	"""
 	if(len(string) <= 0):
 		return ""
@@ -381,6 +389,17 @@ def clean_string(string):
 			if(len(i) > 0):
 				res += i+' '
 		return res[:-1]
+
+
+def display_rank(journal_name):
+	"""
+	Simple fonction de test permettant de tester rapidement la fonction get_rank()
+
+	@param
+	journal_name : string, nom du journal
+	"""
+	print("DISPLAY_RANK | Journal :",journal_name,", rank :",get_rank(journal_name))
+
 
 
 def liste_detail_publication(file_path):
@@ -444,8 +463,6 @@ def liste_resume_conference(file_path):
 				if(grandchild.tag == 'inproceedings'):
 					for article_data in grandchild:
 						if(article_data.tag == "booktitle"):
-							#acronyme ou titre => le mieux c'est titre selon nous
-							#c_acronyme = to_acronyme(article_data.text)
 							conference_name = article_data.text
 						if(article_data.tag == "year"):
 							annee = article_data.text
@@ -480,8 +497,6 @@ def liste_detail_conference(file_path):
 				if(grandchild.tag == 'inproceedings'):
 					for article_data in grandchild:
 						if(article_data.tag == "booktitle"):
-							#acronyme ou titre => le mieux c'est titre selon nous
-							#c_acronyme = to_acronyme(article_data.text)
 							conference_name = article_data.text
 						if(article_data.tag == "year"):
 							annee = article_data.text
@@ -561,6 +576,12 @@ if __name__ == '__main__':
 	#download_file("Christophe Gonzales", "Auteurs/", "table_html.txt")
 	#xml_formater("Auteurs/Christophe Gonzales.xml", "Auteurs/_Christophe Gonzales.xml", create_dico_iso("table_iso.txt"))
 	
-	#get_rank("Algorithmica")
-	get_rank("Compute J")
-	
+	display_rank("CoRR")
+	display_rank("J. Parallel Distrib. Comput.")
+	display_rank("IEEE Trans. Parallel Distrib. Syst.")
+	display_rank("Algorithmica")
+	display_rank("Compute J")
+	display_rank("J. Comput. Syst. Sci.")
+	display_rank("Theor. Comput. Sci.")
+	display_rank("Computer Networks")
+	display_rank("Neurocomputing")

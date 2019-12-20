@@ -283,6 +283,8 @@ def publication_stat(file_path):
 	return res
 
 
+#lien vers le site core pour trouver le classement :
+# http://portal.core.edu.au/jnl-ranks/?search=[Nom_du_journal]&by=all&source=all
 def liste_resume_publication(file_path):
 	"""
 	Retourne une liste resumee de toutes les publications d'un auteur [publication, annee]

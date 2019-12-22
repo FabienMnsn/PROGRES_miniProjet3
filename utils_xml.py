@@ -12,9 +12,6 @@ from bs4 import BeautifulSoup
 
 
 
-
-
-
 #------------------------------------------------------------------------------------------------------------
 # 							Fonctions permettant de télécharger un fichier XML 
 #------------------------------------------------------------------------------------------------------------
@@ -90,7 +87,7 @@ def download_file(author_name, download_path, table_path):
 
 
 #------------------------------------------------------------------------------------------------------------
-# 			Fonctions permettant de transformer les caractères spéciauxprésents dans le fichier XML 
+# 			Fonctions permettant de transformer les caractères spéciaux présents dans le fichier XML 
 #------------------------------------------------------------------------------------------------------------
 def create_dico_iso(table_file_path):
     """
@@ -260,6 +257,10 @@ def parse_file(input_file_path, output_file_path, table_correspondance):
 #------------------------------------------------------------------------------------------------------------
 # 						Fonctions permettant de parser un fichier XML avec ElementTree
 #------------------------------------------------------------------------------------------------------------
+
+#-------------------------------------------------------
+#			Fonction concernant les journaux
+#-------------------------------------------------------
 def publication_stat(file_path):
 	"""
 	Retourne un dictionnaire contenant les statistiques de publication d'un auteur : journaux, conferences, co-auteurs
@@ -283,10 +284,6 @@ def publication_stat(file_path):
 
 	return res
 
-
-#lien vers le site core pour trouver le classement :
-# http://portal.core.edu.au/jnl-ranks/?search=[Nom_du_journal]&by=all&source=all
-# http://portal.core.edu.au/jnl-ranks/?search=[Distributed+Computing]&by=all&source=all
 
 def liste_resume_publication(file_path):
 	"""
@@ -446,6 +443,9 @@ def liste_detail_publication(file_path):
 	return tableau_publication
 
 
+#-------------------------------------------------------
+#			Fonction concernant les conferences
+#-------------------------------------------------------
 def liste_resume_conference(file_path):
 	"""
 	Retourne une liste resumee de toutes les conferences d'un auteur [conference, annee]
@@ -501,6 +501,7 @@ def get_rank_conference(conference_name):
 				return resultat
 	return ""
 
+
 def search_line_conference(table_row, conference_name):
 	"""
 	Cherche si la ligne correspond au nom de la conference et retourne le rang du journal ou une chaine vide si pas d'infos
@@ -523,24 +524,6 @@ def search_line_conference(table_row, conference_name):
 			i+=1
 		if(i == len(conference_name)):
 			return rank
-
-	print("[rank :"+rank+"]")
-
-
-def clean_string(string):
-	"""
-	Retourne une chaine de caracteres sans les espaces en trop a cause de beautifulsoup
-	"""
-	if(len(string) <= 0):
-		return ""
-	else:
-		string_2 = string.replace('\n', '')
-		string_splited = string_2.split(' ')
-		res = ""
-		for i in string_splited:
-			if(len(i) > 0):
-				res += i+' '
-		return res[:-1]
 
 
 def display_rank_conference(conference_name):
@@ -595,6 +578,44 @@ def liste_detail_conference(file_path):
 	return tableau_conferences
 
 
+def get_lieux(conference_url):
+	"""
+	Retourne une liste de 2 elements ['Pays', 'Etat, 'Ville'] correspondant au lieu de conference
+
+	@param
+	conference_url : string, url extrait d'un fichier xml d'un auteur ex: "db/conf/sss/sss2011.html#AlonADDPT11"
+	"""
+	if("db/journals/" in conference_url):
+		return ['','','']
+	url = "https://dblp.uni-trier.de/"+conference_url
+	#proxy = {"https":"https://proxy.ufr-info-p6.jussieu.fr:3128"}
+	page = requests.get(url) # , proxies=proxy)
+	soup = BeautifulSoup(page.content, "html.parser")
+	res = soup.find_all('h1')
+	for elem in res:
+		element_splited = elem.text.split('\n') 
+		element_splited_lieux = element_splited[1]
+		return element_splited_lieux.replace(' ', '').split(',')
+		
+
+def display_lieux_conf(conference_url):
+	tab = get_lieux(conference_url)
+	string = "Unknown"
+	if(len(tab) >= 2 and tab[0]):
+		string = "Pays:"+tab[0]
+	if(len(tab) == 3 and tab[1]):
+		string += " Etat:"+tab[1]
+		if(tab[2]):
+			string += " Ville:"+tab[2]
+	else:
+		if(tab[1]):
+			string += " Ville:"+tab[1]
+	print(string)
+
+
+#-------------------------------------------------------
+#			Fonctions utilitaires diverses
+#-------------------------------------------------------
 def liste_vers_html(liste, legende_colonne, legende_table):
 	"""
 	Retourne une table html faite a partir d'une double liste python (liste de liste)
@@ -653,7 +674,7 @@ if __name__ == '__main__':
 	#print(request_author_file_builder("Christophe Gonzales", "table_html.txt"))
 	#download_file("Christophe Gonzales", "Auteurs/", "table_html.txt")
 	#xml_formater("Auteurs/Christophe Gonzales.xml", "Auteurs/_Christophe Gonzales.xml", create_dico_iso("table_iso.txt"))
-
+	"""
 	display_rank_journal("CoRR")
 	display_rank_journal("J. Parallel Distrib. Comput.")
 	display_rank_journal("IEEE Trans. Parallel Distrib. Syst.")
@@ -671,3 +692,8 @@ if __name__ == '__main__':
 	display_rank_conference("PODC")
 	display_rank_conference("CTW")
 	display_rank_conference("")	
+	"""
+	display_lieux_conf("db/conf/wdag/disc2011.html#DuboisMT11")
+	display_lieux_conf("db/journals/corr/corr1103.html#abs-1103-3515")
+	display_lieux_conf("db/conf/opodis/opodis2010.html#DuboisPNT10")
+	display_lieux_conf(("db/conf/wdag/disc2010.html#DuboisMT10"))

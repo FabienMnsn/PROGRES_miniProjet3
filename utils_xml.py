@@ -321,6 +321,8 @@ def get_rank_journal(journal_name):
 	@param
 	journal_name : string, nom du journal extrait du fichier xml de l'auteur
 	"""
+	if(journal_name == ""):
+		return ""
 	journal_names_concat = journal_name.replace(' ', '+')
 	journal_names_concat2 = journal_names_concat.replace('.','')
 	journal_name_clean = journal_name.replace('.', '')
@@ -482,6 +484,8 @@ def get_rank_conference(conference_name):
 	@param
 	conference_name : string, nom du journal extrait du fichier xml de l'auteur
 	"""
+	if(conference_name == ""):
+		return ""
 	conference_name_concat = conference_name.replace(' ', '+')
 	url = "http://portal.core.edu.au/conf-ranks/?search="+conference_name_concat+"&by=all&source=all"
 	#proxy = {"https":"https://proxy.ufr-info-p6.jussieu.fr:3128"}
@@ -649,8 +653,7 @@ if __name__ == '__main__':
 	#print(request_author_file_builder("Christophe Gonzales", "table_html.txt"))
 	#download_file("Christophe Gonzales", "Auteurs/", "table_html.txt")
 	#xml_formater("Auteurs/Christophe Gonzales.xml", "Auteurs/_Christophe Gonzales.xml", create_dico_iso("table_iso.txt"))
-	
-	"""
+
 	display_rank_journal("CoRR")
 	display_rank_journal("J. Parallel Distrib. Comput.")
 	display_rank_journal("IEEE Trans. Parallel Distrib. Syst.")
@@ -660,6 +663,11 @@ if __name__ == '__main__':
 	display_rank_journal("Theor. Comput. Sci.")
 	display_rank_journal("Computer Networks")
 	display_rank_journal("Neurocomputing")
-	"""
+	display_rank_journal("")
+	print()
 	display_rank_conference("OPODIS")
 	display_rank_conference("DISC")
+	display_rank_conference("ICDCS")
+	display_rank_conference("PODC")
+	display_rank_conference("CTW")
+	display_rank_conference("")	

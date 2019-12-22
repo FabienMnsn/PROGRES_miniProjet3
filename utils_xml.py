@@ -314,7 +314,7 @@ def liste_resume_publication(file_path):
 	return tableau_publication
 
 
-def get_rank(journal_name):
+def get_rank_journal(journal_name):
 	"""
 	Retourne le classement core (A*, A, B ou C) ou -1 s'il n'y a pas d'informations
 
@@ -333,12 +333,12 @@ def get_rank(journal_name):
 	for elem in res:
 		if(elem == res[0]):
 			continue
-		resultat = search_line(elem, journal_name_clean)
+		resultat = search_line_journal(elem, journal_name_clean)
 		if(resultat != ""):
 			return resultat
 	
 
-def search_line(table_row, journal_name):
+def search_line_journal(table_row, journal_name):
 	"""
 	Cherche si la ligne correspond au nom de journal et  retourne le rang du journal ou une chaine vide si pas d'infos
 	
@@ -391,14 +391,14 @@ def clean_string(string):
 		return res[:-1]
 
 
-def display_rank(journal_name):
+def display_rank_journal(journal_name):
 	"""
 	Simple fonction de test permettant de tester rapidement la fonction get_rank()
 
 	@param
 	journal_name : string, nom du journal
 	"""
-	print("DISPLAY_RANK | Journal :",journal_name,", rank :",get_rank(journal_name))
+	print("DISPLAY_RANK | Journal :",journal_name,", rank :",get_rank_journal(journal_name))
 
 
 
@@ -473,6 +473,80 @@ def liste_resume_conference(file_path):
 					conference_name = ""
 					annee = ""
 	return tableau_conferences
+
+
+def get_rank_conference(conference_name):
+	"""
+	Retourne le classement core (A*, A, B ou C) ou -1 s'il n'y a pas d'informations
+
+	@param
+	conference_name : string, nom du journal extrait du fichier xml de l'auteur
+	"""
+	conference_name_concat = conference_name.replace(' ', '+')
+	url = "http://portal.core.edu.au/conf-ranks/?search="+conference_name_concat+"&by=all&source=all"
+	#proxy = {"https":"https://proxy.ufr-info-p6.jussieu.fr:3128"}
+	r = requests.get(url) # , proxies=proxy)
+	soup = BeautifulSoup(r.content, "html.parser")
+	res = soup.find_all('tr')
+	for elem in res:
+		if(elem == res[0]):
+			continue
+		else:
+			resultat = search_line_conference(elem, conference_name)
+			if(resultat != ""):
+				return resultat
+	return ""
+
+def search_line_conference(table_row, conference_name):
+	"""
+	Cherche si la ligne correspond au nom de la conference et retourne le rang du journal ou une chaine vide si pas d'infos
+	
+	@param
+	table_row : BeautifulSoup Element, ligne de table html a parcourir
+	conference_name : string, nom du journal trouvé dans le fichier XML
+	"""
+	line = table_row.find_all('td')
+	name = clean_string(line[1].text)
+	rank = clean_string(line[3].text)
+	i = 0
+	found = False
+	while(True):
+		if(conference_name[i] != name[i]):
+			#print(conference_name[i], "!=", name[i])
+			return ""
+		else:
+			#print(conference_name[i], "==", name[i])
+			i+=1
+		if(i == len(conference_name)):
+			return rank
+
+	print("[rank :"+rank+"]")
+
+
+def clean_string(string):
+	"""
+	Retourne une chaine de caracteres sans les espaces en trop a cause de beautifulsoup
+	"""
+	if(len(string) <= 0):
+		return ""
+	else:
+		string_2 = string.replace('\n', '')
+		string_splited = string_2.split(' ')
+		res = ""
+		for i in string_splited:
+			if(len(i) > 0):
+				res += i+' '
+		return res[:-1]
+
+
+def display_rank_conference(conference_name):
+	"""
+	Simple fonction de test permettant de tester rapidement la fonction get_rank()
+
+	@param
+	journal_name : string, nom du journal
+	"""
+	print("DISPLAY_RANK | Conference :",conference_name,", rank :",get_rank_conference(conference_name))
 
 
 def liste_detail_conference(file_path):
@@ -576,12 +650,16 @@ if __name__ == '__main__':
 	#download_file("Christophe Gonzales", "Auteurs/", "table_html.txt")
 	#xml_formater("Auteurs/Christophe Gonzales.xml", "Auteurs/_Christophe Gonzales.xml", create_dico_iso("table_iso.txt"))
 	
-	display_rank("CoRR")
-	display_rank("J. Parallel Distrib. Comput.")
-	display_rank("IEEE Trans. Parallel Distrib. Syst.")
-	display_rank("Algorithmica")
-	display_rank("Compute J")
-	display_rank("J. Comput. Syst. Sci.")
-	display_rank("Theor. Comput. Sci.")
-	display_rank("Computer Networks")
-	display_rank("Neurocomputing")
+	"""
+	display_rank_journal("CoRR")
+	display_rank_journal("J. Parallel Distrib. Comput.")
+	display_rank_journal("IEEE Trans. Parallel Distrib. Syst.")
+	display_rank_journal("Algorithmica")
+	display_rank_journal("Compute J")
+	display_rank_journal("J. Comput. Syst. Sci.")
+	display_rank_journal("Theor. Comput. Sci.")
+	display_rank_journal("Computer Networks")
+	display_rank_journal("Neurocomputing")
+	"""
+	display_rank_conference("OPODIS")
+	display_rank_conference("DISC")

@@ -261,6 +261,25 @@ def parse_file(input_file_path, output_file_path, table_correspondance):
 #-------------------------------------------------------
 #			Fonction concernant les journaux
 #-------------------------------------------------------
+def get_coauteurs(file_path):
+	"""
+	Retourne une liste de co-auteurs de l'auteur passe en parametres
+
+	@param
+	file_path : string, chemin d'acce du fichier de l'auteur
+	"""
+	res = []
+	tree = ET.parse(file_path)
+	root = tree.getroot()
+	for child in root:
+		if(child.tag == 'coauthors'):
+			for grandchild in child:
+				for elem in grandchild:
+					name = re.sub(r'[0-9]*', '', elem.text)
+					print(name)
+					res.append(name)
+	return res
+
 def publication_stat(file_path):
 	"""
 	Retourne un dictionnaire contenant les statistiques de publication d'un auteur : journaux, conferences, co-auteurs
@@ -692,8 +711,10 @@ if __name__ == '__main__':
 	display_rank_conference("PODC")
 	display_rank_conference("CTW")
 	display_rank_conference("")	
-	"""
+	
 	display_lieux_conf("db/conf/wdag/disc2011.html#DuboisMT11")
 	display_lieux_conf("db/journals/corr/corr1103.html#abs-1103-3515")
 	display_lieux_conf("db/conf/opodis/opodis2010.html#DuboisPNT10")
 	display_lieux_conf(("db/conf/wdag/disc2010.html#DuboisMT10"))
+	"""
+	get_coauteurs("Auteurs/Sébastien Tixeuil.xml")

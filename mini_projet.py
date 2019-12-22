@@ -22,7 +22,7 @@ def telecharge(author_name):
             status = utils_xml.download_file(author_name, "Auteurs/", "table_html.txt")
             if(status != 200):
                 #error(status, message)
-                print(status)
+                #print(status)
                 return "erreur"
         return "ok"
 
@@ -119,19 +119,15 @@ def synthese(name):
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
-#@bottle.route("/auteur/Journals/<lname>/<name>")
+
+
 @bottle.route("/auteur/Journals/<name>")
 @bottle.view("page.tpl")
-#def journal(lname,name):
 def journal(name):
-    #new WIP
     name_split = name.split("_")
-    #inversion nom et prenom pour lancer la recherche
     author_name = name_split[1]+" "+name_split[0]
-    #original
-    #author_name = name+" "+lname
     file_name = author_name+".xml"
-    if telecharge(author_name)=="ok" :
+    if(telecharge(author_name) == "ok"):
         tab = utils_xml.liste_detail_publication("Auteurs/"+file_name)
     else :
         return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
@@ -151,17 +147,12 @@ def journal(name):
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
 
-#@bottle.route("/auteur/Conferences/synthese/<lname>/<name>")
+
 @bottle.route("/auteur/Conferences/synthese/<name>")
 @bottle.view("page.tpl")
-#def conferences(lname,name):
 def conferences(name):
-	#new WIP
     name_split = name.split("_")
-    #inversion nom et prenom pour lancer la recherche
     author_name = name_split[1]+" "+name_split[0]
-    #original
-    #author_name = name+" "+lname
     file_name = author_name+".xml"
     if telecharge(author_name)=="ok" :
         tab=utils_xml.liste_resume_conference("Auteurs/"+file_name)
@@ -183,17 +174,12 @@ def conferences(name):
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
 
-#@bottle.route("/auteur/Conferences/<lname>/<name>")
+
 @bottle.route("/auteur/Conferences/<name>")
 @bottle.view("page.tpl")
-#def confdetail(lname,name):
 def confdetail(name):
-    #new WIP
     name_split = name.split("_")
-    #inversion nom et prenom pour lancer la recherche
     author_name = name_split[1]+" "+name_split[0]
-    #original
-    #author_name = name+" "+lname
     file_name = author_name+".xml"
     if telecharge(author_name)=="ok" :
         tab=utils_xml.liste_detail_conference("Auteurs/"+file_name)
@@ -215,6 +201,32 @@ def confdetail(name):
 
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
+
+
+
+@bottle.route("/auteur/coauteurs/<name>")
+@bottle.view("page.tpl")
+def coauteurs(name):
+    name_split = name.split("_")
+    author_name = name_split[1]+" "+name_split[0]
+    file_name = author_name+".xml"
+    if(telecharge(author_name) == "ok"):
+        tab = utils_xml.get_coauteurs("Auteurs/"+file_name)
+    else :
+        return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
+
+    stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+    <caption>Liste des co-auteurs</caption>
+    <tr>
+    <th style='border:1px solid black'>Prénom Nom</th>
+    </tr>"""
+
+    for aut in tab:
+        stri+=" <tr><td style='border:1px solid black;padding:10px'>"+aut+"</td></tr>"
+
+    stri+="</table></div>"
+    return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
+
 
 
 #--------------------------FIN FONCTION BOTTLE--------------------------

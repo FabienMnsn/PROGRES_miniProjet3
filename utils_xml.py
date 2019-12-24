@@ -280,6 +280,7 @@ def get_coauteurs(file_path):
 					res.append(name)
 	return res
 
+
 def publication_stat(file_path):
 	"""
 	Retourne un dictionnaire contenant les statistiques de publication d'un auteur : journaux, conferences, co-auteurs

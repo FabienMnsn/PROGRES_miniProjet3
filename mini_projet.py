@@ -124,6 +124,7 @@ def synthese(name):
             pass
 
     stri="<div><h3>   "+str(total)+" Articles publiees</h3></div>"
+    stri+="<div><a href='localhost:8080/auteur/Conferences/synthese/"+name+"'> Conference publiees</a></div>"
 
     stri+="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
         <caption>Liste detaillee des articles</caption><tr>"""
@@ -216,6 +217,7 @@ def conferences(name):
         total+=liste_nb_rang[k]
 
     stri="<div><h3>   "+str(total)+" Conferences publiees</h3></div>"
+    stri+="<div><a href='localhost:8080/auteur/Journals/synthese/"+name+"'> Articles publiees</a></div>"
 
     stri+="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
         <caption>Liste detaille des conférences</caption><tr>"""

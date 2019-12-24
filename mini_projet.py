@@ -297,6 +297,34 @@ def coauteurs(name):
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
+@bottle.route("/Conference/Laquelle")
+@bottle.view("page.tpl")
+def laquelle():
+    stri = """
+    <form method='post' action='recup_conf'>
+    <input type='text' name='conference' placeholder='Conference'/>
+    <input type='submit' value='Chercher'/>
+    </form>
+    """
+    return {"title":"Rechercher une conference", "body":stri}
+
+
+@bottle.route("/Conference/recup_conf", method='POST')
+@bottle.view("page.tpl")
+def recup_conf():
+
+    conf = bottle.request.forms.conference
+    #redirect("/auteur/"+lname+"/"+fname)
+    redirect("/Conference/Lieux/"+conf)
+
+
+@bottle.route("/Conference/Lieux/<conf>")
+@bottle.view("page.tpl")
+def conference_lieux(conf):
+     return {"title":"Test","body":"Test"}
+
+
+
 
 
 #--------------------------FIN FONCTION BOTTLE--------------------------

@@ -67,6 +67,7 @@ def download_file(author_name, download_path, table_path):
 	@param
 	author_name : string représentant le nom et le prénom d'un auteur  ex:"Prenom Nom"
 	download_path : chemin d'accès du repertoire ou le fichier sera téléchargé ex:"XML/downloads/"
+	table_path : string, chemin d'acces de la table html
 	"""
 	requested = requests.get(request_author_file_builder(author_name, table_path))
 	file_name = download_path+"_"+author_name+".xml"
@@ -78,7 +79,7 @@ def download_file(author_name, download_path, table_path):
 		parse_file(file_name, download_path+author_name+".xml", "table_iso.txt")
 		os.remove(file_name)
 	else:
-		print(requested.status_code)
+		print("error", requested.status_code)
 	return requested.status_code
 
 
@@ -144,7 +145,9 @@ def extend_split_char_code(string):
     """
     res = []
     for elem in string:
-        if('&' in elem and elem[0] == '&' and elem[-1] != ';'):
+        if(len(elem) == 0):
+            continue
+        elif('&' in elem and elem[0] == '&' and elem[-1] != ';'):
             res.append(elem[0])
             res.append(elem[1:])
         elif(elem[0] != '&' and elem[-1] == ';'):
@@ -220,18 +223,24 @@ def xml_formater(input_file, output_file, dictionnaire_code):
         #car on la remlace par la bonne valeur au debut de la fonction xml_formater
         if("version" in line_):
             continue
+        elif("<ee>" in line_ and "</ee>" in line_):
+        	continue
         else:
             #contains_special_char = re.search(r"&", line_)
-            contains_special_char = ('&' in line_)
+            #line2_ = line_.replace("<-->", "")
+            line2_ = line_
+            if("<-->" in line_):
+            	print(line_)
+            contains_special_char = ('&' in line2_)
             #if(contains_special_char != None and len(contains_special_char[0]) > 0):
             if(contains_special_char):
-                splited_line = split_char_code(line_)
+                splited_line = split_char_code(line2_)
                 new_line = replace_char(splited_line, dictio)
                 new_xml.write(new_line+"\n")
                 #print(line_)
                 #print(new_line)
             else:
-                new_xml.write(line_+"\n")
+                new_xml.write(line2_+"\n")
     new_xml.close()
     xml.close()
     #print("--------Fermeture des fichiers", input_file, ", ", output_file)
@@ -261,6 +270,26 @@ def parse_file(input_file_path, output_file_path, table_correspondance):
 #-------------------------------------------------------
 #			Fonction concernant les journaux
 #-------------------------------------------------------
+def liste_lip6(file_path):
+	"""
+	Retourne la liste de tous les membres permanents du lip6 en inversant nom et prenom
+
+	@param
+	file_path : string, chemin d'acces du fichier xml contenant tous les membres permanents du lip6
+	"""
+	res = []
+	tree = ET.parse(file_path)
+	root = tree.getroot()
+	for child in root:
+		for membre in child:
+			name = membre.text
+			name_splited = name.split(' ')
+			nom = '-'.join(name_splited[:-1])
+			#print(nom)
+			res.append(name_splited[-1]+" "+nom)
+	return res
+
+
 def get_coauteurs(file_path):
 	"""
 	Retourne une liste de co-auteurs de l'auteur passe en parametres
@@ -276,9 +305,9 @@ def get_coauteurs(file_path):
 			for grandchild in child:
 				for elem in grandchild:
 					name = re.sub(r'[0-9]*', '', elem.text)
-					print(name)
 					res.append(name)
 	return res
+
 
 def publication_stat(file_path):
 	"""
@@ -674,6 +703,11 @@ def liste_vers_html(liste, legende_colonne, legende_table):
 
 if __name__ == '__main__':
 
+	#https://dblp.uni-trier.de/pers/xx/b/Bazargan=Sabet:Pirouz.xml
+	#https://dblp.uni-trier.de/pers/xx/b/Bazargan=Sabet:Pirouz.xml
+
+	print(request_author_file_builder("Pirouz Bazargan Sabet", "table_html.txt"))
+
 	"""
 	#TEST START
  	#--Tests de la partie récupération du fichier sur internet
@@ -688,6 +722,7 @@ if __name__ == '__main__':
 	print("		Test decoupage complet d'une ligne avec des codes iso : ", split_char_code("<title>&truc muche&456; code iso & un autre truc</title>") == ['<title>', '&', 'truc muche', '&456;', ' code iso ', '&', ' un autre truc</title>'])
 	print("		Test remplacement caractere special : ", replace_char(["truc ", "&#233;", " muche"], create_dico_iso("table_iso.txt")) == "truc é muche")
 	print("		Test découpe caratere de fin de ligne :", cut_end("blablabla truc\n") == "blablabla truc")
+	print(split_char_code("Browsing, Sharing, Learning and Reviewing the Haine du th&#233;&#226;tre Corpus through Insightful Island."))
 	#TEST END
 	"""
 
@@ -719,4 +754,4 @@ if __name__ == '__main__':
 	display_lieux_conf("db/conf/opodis/opodis2010.html#DuboisPNT10")
 	display_lieux_conf(("db/conf/wdag/disc2010.html#DuboisMT10"))
 	"""
-	get_coauteurs("Auteurs/Sébastien Tixeuil.xml")
+	#get_coauteurs("Auteurs/Sébastien Tixeuil.xml")

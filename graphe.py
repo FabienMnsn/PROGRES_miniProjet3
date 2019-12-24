@@ -1,76 +1,98 @@
+#---------------------------
+import utils_xml
+#---------------------------
 import math
+import os
+import xml.etree.ElementTree as ET
 #import networkx as nx
-from sagemath import *
-import matplotlib.pyplot as plt
-import random
+#from sagemath import *
+#from sage.all import *
+#import matplotlib.pyplot as plt
+#import random
 
 
-def draw_graphe(auteur_name1, auteur_name2):
+
+
+
+def list_all_publication(author_name1, author_name2):
 	"""
-	Dessine un graphe ou chaque point est un memebre du lip6 et les deux point de couleur differente sont les deux meembres choisis
+	Retourne un dictionnaire contenant les lien de publication entre tous les membres permanents du lip6
 
 	@param
-	auteur_name1 : string, nom et prenom de l'auteur1 séparés par un espace
-	auteur_name2 : string, nom et prenom de l'auteur2 séparés par un espace
+	author_name1 : string, nom de l'auteur 1 ex:"Sébastien Tixeuil"
+	author_name2 : string, nom de l'auteur 2 ex:"Olivier Fourmaux"
 	"""
-	graph = nx.Graph()
+	links = {}
+	found = 0 
+	lip6 = utils_xml.liste_lip6("Auteurs/lip6.xml")
+	for i in lip6:
+		if(i == author_name1 or i == author_name2):
+			found += 1
+		else:
+			continue
+	if(found != 2):
+		print("Un des deux auteur n'est pas bien orthographié ou n'est pas un membre permanent du lip6")
+		return -1
+	else:
+		list_file = os.listdir("Auteurs/")
+		if(author_name1+".xml" not in list_file):
+			print("telechargement du fichier de :", author_name1)
+			utils_xml.download_file(author_name1, "Auteurs/", "table_html.txt")
+		if(author_name2+".xml" not in list_file):
+			print("telechargement du fichier de :", author_name2)
+			utils_xml.download_file(author_name2, "Auteurs/", "table_html.txt")
+		
+		l1_coauteurs = utils_xml.get_coauteurs("Auteurs/"+author_name1+".xml")
+		l2_coauteurs = utils_xml.get_coauteurs("Auteurs/"+author_name2+".xml")
+		
+		L1 = []
+		for aut in l1_coauteurs:
+			if(aut in lip6):
+				L1.append(aut)
+		links[author_name1] = L1
 
-	nb_added = 0
-	centre = 100
-	centreX = 100
-	centreY = 100
-	pad = 40
-	random_max = 200
-	rayon = 50
-	#membres permanents du lip6 = 193 - les deux auteurs sélectionnés = 191
-	while(nb_added < 191):
-		x = random.randrange(1,random_max, 5+random.randint(1,4))
-		y = random.randrange(1,random_max, 5+random.randint(1,4))
-		#x = random.uniform(1,random_max)
-		#y = random.uniform(1,random_max)
-		distance_au_centre = math.pow((x-centreX),2)+math.pow((y-centreY),2)
-		if(distance_au_centre > math.pow(rayon, 2)+pad):
-			graph.add_node("N"+str(nb_added), pos=(x,y))
-			nb_added +=1
-		"""
-		if(y < centre-pad or y > centre+pad):
-			graph.add_node("N"+str(nb_added), pos=(x,y))
-			nb_added +=1
-		elif(x < centre-pad or x > centre+pad):
-			graph.add_node(nb_added, pos=(x,y))
-			nb_added +=1
-		"""
-	graph.add_nodes_from(['Pierre\nSens'], pos=(centre-pad/4, centre), style="filled", fillcolor='red')
-	graph.add_node("Olivier\nFourmaux", pos=(centre+pad/4, centre))
-	graph.add_edge('Pierre\nSens','Olivier\nFourmaux')
-	graph.add_edge('Olivier\nFourmaux', 'Pierre\nSens')
-	graph.add_edge('Pierre\nSens','Olivier\nFourmaux')
+		L2 = []
+		for aut in l2_coauteurs:
+			if(aut in lip6):
+				L2.append(aut)
+		links[author_name2] = L2
 
-	pos = nx.get_node_attributes(graph, 'pos')
-	nx.draw(graph, pos, with_labels=True)
-
-	#plt.savefig("path.png")
-	plt.show()
+		#print(l1_coauteurs)
+		print(links)
 
 
-def circular():
-	rayon = 4
-	marge = 1
-	for x in range(-10, 10):
-		for y in range(-10, 10):
-			x2 = math.pow(x, 2)
-			r2 = math.pow(rayon, 2)
-			y2 = x2 - r2
-			if((x2+y2) > (r2-marge) and (x2+y2) < (r2+marge)):
-				print("eq res :")
+def get_links(lip6_members_path):
+	"""
+	Retourne un dictionnaire ou chaque cle est un membre premanent du lip6 et la valeur associée a la clée est la liste des coauteurs qui sont aussi membres permanents du lip6
+	
+	@param
+	lip6_members_path : string, chemin d'acces du fihcer xml des membres permanents du lip6
+	"""
+	links = {}
+	lip6 = utils_xml.liste_lip6(lip6_members_path)
+	if(len(lip6) == 0):
+		return -1
+	list_file = os.listdir("Auteurs/")
+	for member in lip6:
+		if(member+".xml" not in list_file):
+			print("telechargement du fichier de :", member)
+			ret = utils_xml.download_file(member, "Auteurs/", "table_html.txt")
+			if(ret == 404):
+				continue
+		else:
+			print("Fichier de "+member+ " déjà dans le répertoire")
+		coauteurs = utils_xml.get_coauteurs("Auteurs/"+member+".xml")
+		ltmp = []
+		for aut in coauteurs:
+			if(aut in lip6):
+				ltmp.append(aut)
+		links[member] = ltmp
+	print(links)
 
 
 if __name__ == '__main__':
 
-	#draw_graphe("hsfkjsfhe", "hsfjksh")
-
+	#list_all_publication("Sébastien Baey", "Olivier Fourmaux")
+	get_links("Auteurs/lip6.xml")
+	#print(liste_lip6("Auteurs/lip6.xml"))
 	#http://doc.sagemath.org/html/en/reference/graphs/sage/graphs/graph.html#graph-format
-
-	d = {0: [1,4,5], 1: [2,6], 2: [3,7], 3: [4,8], 4: [9], 5: [7, 8], 6: [8,9], 7: [9]}
-	G = Graph(d)
-	G.plot().show()

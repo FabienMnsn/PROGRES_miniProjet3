@@ -89,34 +89,68 @@ def auteur(name):
 @bottle.view("page.tpl")
 #def synthese(lname,name):
 def synthese(name):
-    #new WIP
     name_split = name.split("_")
-    #inversion nom et prenom pour lancer la recherche
     author_name = name_split[1]+" "+name_split[0]
-    #original
-    #author_name = name+" "+lname
     file_name = author_name+".xml"
     if telecharge(author_name)=="ok" :
-        tab = utils_xml.liste_resume_publication("Auteurs/"+file_name)
+        tab=utils_xml.liste_resume_publication("Auteurs/"+file_name)
     else :
         return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
-    tmp="vide"
 
-    stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
-    <caption>Synthèse des publications</caption>
-    <tr>
-    <th style='border:1px solid black'>Annee</th>
-    <th style='border:1px solid black'>Journal</th>
-    </tr>"""
-
+    
+    liste_conf={}
+    liste_nb_rang={}
+    keys=["A*","A","B","C","Unranked"]
+    dico={key: [] for key in keys}
     for pub in tab:
-        if tmp=="vide" or tmp[1]==pub[1]:
+        try:
+            liste_nb_rang[utils_xml.get_rank_journal(pub[1])]+=1
+        except:
+            liste_nb_rang[utils_xml.get_rank_journal(pub[1])]=1
+        try :
+            liste_conf[pub[1]]+=1
+        except:
+            liste_conf[pub[1]]=1
+        if liste_conf[pub[1]]==1:
+            
+            dico[utils_xml.get_rank_journal(pub[1])].append(pub[1])
+        
+    total =0
+
+    for k in keys:
+        try :
+            total+=liste_nb_rang[k]
+        except:
             pass
-        else:
-            stri+=" <tr><td style='border:1px solid black;padding:10px'>"+pub[0]+"</td><td style='border:1px solid black;padding:10px'>"+pub[1]+"</td></tr>"
-        tmp=pub
+
+    stri="<div><h3>   "+str(total)+" Articles publiees</h3></div>"
+
+    stri+="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+        <caption>Liste detaillee des articles</caption><tr>"""
+
+    for i in dico.keys():
+        try:
+            stri+="<th style='border:1px solid black'>"+i+" ("+str(liste_nb_rang[i])+") </th>"
+        except:
+            stri+="<th style='border:1px solid black'>"+i+" (0) </th>"
+    
+    stri+="</tr>"
+
+    m=max(len(dico[k]) for k in keys)
+    
+    for j in range(m):
+        stri+="<tr>"
+        for k in keys:
+            try:
+                tmp=dico[k][j]
+                stri+="<td style='border:1px solid black;padding:10px'>"+tmp+" ("+str(liste_conf[tmp])+") </td>"
+            except:
+                tmp=""
+                stri+="<td style='border:1px solid black;padding:10px'>"+tmp+"</td>"
+        stri+="</tr>"
 
     stri+="</table></div>"
+
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
 
@@ -147,7 +181,6 @@ def journal(name):
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
 
-
 @bottle.route("/auteur/Conferences/synthese/<name>")
 @bottle.view("page.tpl")
 def conferences(name):
@@ -159,21 +192,55 @@ def conferences(name):
     else :
         return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
 
-    stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
-    <caption>Synthèse des conférences</caption>
-    <tr>
-    <th style='border:1px solid black'>Conference</th>
-    <th style='border:1px solid black'>Annee</th>
-    </tr>"""
-
+    
+    liste_conf={}
+    liste_nb_rang={}
+    keys=["A*","A","B","C","Unranked"]
+    dico={key: [] for key in keys}
     for pub in tab:
-        stri+=" <tr><td style='border:1px solid black;padding:10px'>"+pub[0]+"</td><td style='border:1px solid black;padding:10px'>"+pub[1]+"</td></tr>"
+        try:
+            liste_nb_rang[utils_xml.get_rank_conference(pub[0])]+=1
+        except:
+            liste_nb_rang[utils_xml.get_rank_conference(pub[0])]=1
+        try :
+            liste_conf[pub[0]]+=1
+        except:
+            liste_conf[pub[0]]=1
+        if liste_conf[pub[0]]==1:
+            
+            dico[utils_xml.get_rank_conference(pub[0])].append(pub[0])
         
+    total =0
+
+    for k in keys:
+        total+=liste_nb_rang[k]
+
+    stri="<div><h3>   "+str(total)+" Conferences publiees</h3></div>"
+
+    stri+="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+        <caption>Liste detaille des conférences</caption><tr>"""
+
+    for i in dico.keys():
+        stri+="<th style='border:1px solid black'>"+i+" ("+str(liste_nb_rang[i])+") </th>"
+    
+    stri+="</tr>"
+
+    m=max(len(dico[k]) for k in keys)
+    
+    for j in range(m):
+        stri+="<tr>"
+        for k in keys:
+            try:
+                tmp=dico[k][j]
+                stri+="<td style='border:1px solid black;padding:10px'>"+tmp+" ("+str(liste_conf[tmp])+") </td>"
+            except:
+                tmp=""
+                stri+="<td style='border:1px solid black;padding:10px'>"+tmp+"</td>"
+        stri+="</tr>"
 
     stri+="</table></div>"
+
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
-
-
 
 @bottle.route("/auteur/Conferences/<name>")
 @bottle.view("page.tpl")
@@ -201,6 +268,7 @@ def confdetail(name):
 
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
+
 
 
 

@@ -351,9 +351,11 @@ def get_rank_journal(journal_name):
 	for elem in res:
 		if(elem == res[0]):
 			continue
-		resultat = search_line_journal(elem, journal_name_clean)
-		if(resultat != ""):
-			return resultat
+		else:
+			resultat = search_line_journal(elem, journal_name_clean)
+			if(resultat != ""):
+				return resultat
+	return "Unranked"
 	
 
 def search_line_journal(table_row, journal_name):
@@ -518,7 +520,7 @@ def get_rank_conference(conference_name):
 			resultat = search_line_conference(elem, conference_name)
 			if(resultat != ""):
 				return resultat
-	return ""
+	return "Unranked"
 
 
 def search_line_conference(table_row, conference_name):

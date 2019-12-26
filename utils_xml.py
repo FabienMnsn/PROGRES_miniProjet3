@@ -498,7 +498,7 @@ def liste_detail_publication(file_path):
 #-------------------------------------------------------
 def liste_resume_conference(file_path):
 	"""
-	Retourne une liste resumee de toutes les conferences d'un auteur [conference, annee]
+	Retourne une liste resumee de toutes les conferences d'un auteur [conference, annee, url]
 
 	@param
 	file_path : chemin du fichier xml source, par ex: 'Auteurs/Olivier Fourmaux.xml'
@@ -507,6 +507,7 @@ def liste_resume_conference(file_path):
 	root = tree.getroot()
 	tableau_conferences = []
 	conference = []
+	url = ""
 	annee = ""
 	conference_name = ""
 	for child in root:
@@ -518,12 +519,16 @@ def liste_resume_conference(file_path):
 							conference_name = article_data.text
 						if(article_data.tag == "year"):
 							annee = article_data.text
+						if(article_data.tag == "url"):
+							url = article_data.text
 					conference.append(conference_name)
 					conference.append(annee)
+					conference.append(url)
 					tableau_conferences.append(conference)
 					conference = []
-					conference_name = ""
-					annee = ""
+					#conference_name = ""
+					#annee = ""
+					#url = ""
 	return tableau_conferences
 
 
@@ -639,13 +644,15 @@ def get_lieux(conference_url):
 		return ['','','']
 	url = "https://dblp.uni-trier.de/"+conference_url
 	#proxy = {"https":"https://proxy.ufr-info-p6.jussieu.fr:3128"}
+	element_splited_lieux = ""
 	page = requests.get(url) # , proxies=proxy)
 	soup = BeautifulSoup(page.content, "html.parser")
 	res = soup.find_all('h1')
 	for elem in res:
-		element_splited = elem.text.split('\n') 
+		element_splited = elem.text.split(':') #\n
 		element_splited_lieux = element_splited[1]
-		return element_splited_lieux.replace(' ', '').split(',')
+		element_splited_lieux2 = element_splited_lieux.replace('\n', '')
+		return element_splited_lieux2.replace(' ', '').split(',')
 		
 
 def display_lieux_conf(conference_url):
@@ -664,11 +671,27 @@ def display_lieux_conf(conference_url):
 
 
 def conf_voyages(author_name):
-	liste_conf = liste_resume_conference("Auteurs/"+author_name+"xml")
+	"""
+	Retourne un tableau contenant des elements : [ [Ville, Etat, Pays], Conf_name, annee]
+	(utile pour simplifier l'affichage de la carte de la question 7)
+
+	@param
+	author_name : string, nom de l'auteur (nom+' '+prenom)
+	"""
+	liste_conf = liste_resume_conference("Auteurs/"+author_name+".xml")
+	#liste_conf => [conf_name, annee, url]
 	if(len(liste_conf) <= 0):
 		print("error taille liste [conf_voyages()]")
 		return -1
-	
+	else:
+		tab = []
+		for elem in liste_conf:
+			tab.append([get_lieux(elem[2]), elem[0], elem[1]])
+		for e in tab:
+			print(e)
+		return tab
+
+	#get_lieux(conference_url)
 
 #-------------------------------------------------------
 #			Fonctions utilitaires diverses
@@ -713,7 +736,7 @@ if __name__ == '__main__':
 	#https://dblp.uni-trier.de/pers/xx/b/Bazargan=Sabet:Pirouz.xml
 	#https://dblp.uni-trier.de/pers/xx/b/Bazargan=Sabet:Pirouz.xml
 
-	print(request_author_file_builder("Pirouz Bazargan Sabet", "table_html.txt"))
+	#print(request_author_file_builder("Pirouz Bazargan Sabet", "table_html.txt"))
 
 	"""
 	#TEST START
@@ -762,3 +785,5 @@ if __name__ == '__main__':
 	display_lieux_conf(("db/conf/wdag/disc2010.html#DuboisMT10"))
 	"""
 	#get_coauteurs("Auteurs/Sébastien Tixeuil.xml")
+	#print(liste_resume_conference("Auteurs/Olivier Fourmaux.xml"))
+	conf_voyages("Julien Sopena")

@@ -663,6 +663,13 @@ def display_lieux_conf(conference_url):
 	print(string)
 
 
+def conf_voyages(author_name):
+	liste_conf = liste_resume_conference("Auteurs/"+author_name+"xml")
+	if(len(liste_conf) <= 0):
+		print("error taille liste [conf_voyages()]")
+		return -1
+	
+
 #-------------------------------------------------------
 #			Fonctions utilitaires diverses
 #-------------------------------------------------------

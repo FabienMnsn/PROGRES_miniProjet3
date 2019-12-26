@@ -9,11 +9,11 @@ Question 1 : /auteurs/qui : status : OK : Question terminée et fonctionnelle.
 
 Question 2 : /auteur/<name> : status : OK : Question terminée et fonctionnelle.
 
-Question 3 : /auteur/Journals/synthese/<name> : status : OK : Question terminée et fonctionnelle.
+Question 3 : /auteur/Journals/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque publication.
 
 Question 4 : /auteur/Journals/<name> : status : OK : Question terminée et fonctionnelle.
 
-Question 5 : /auteur/Conferences/synthese/<name> : status : OK : Question terminée et fonctionnelle.
+Question 5 : /auteur/Conferences/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque conférence.
 
 Question 6 : /auteur/Conferences/<name> : status : OK : Question terminée et fonctionnelle.
 

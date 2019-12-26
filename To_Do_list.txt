@@ -1,7 +1,7 @@
 *----------------*
 	TO DO LIST
 *----------------*
-DONE : 5/11
+DONE : 8/11
 *----------------*
 
 
@@ -9,11 +9,11 @@ Question 1 : /auteurs/qui : status : OK : Question terminée et fonctionnelle.
 
 Question 2 : /auteur/<name> : status : OK : Question terminée et fonctionnelle.
 
-Question 3 : /auteur/Journals/synthese/<name> : status : TODO : Il reste à changer completement la forme de la table html en respectant l'organisation de la prof (cf. screenshot)une colonne par classement (A*, A, B, C et Unrank).
+Question 3 : /auteur/Journals/synthese/<name> : status : OK : Question terminée et fonctionnelle.
 
 Question 4 : /auteur/Journals/<name> : status : OK : Question terminée et fonctionnelle.
 
-Question 5 : /auteur/Conferences/synthese/<name> : status : TODO : Il faut changer la forme de la table html comme la Q°3.
+Question 5 : /auteur/Conferences/synthese/<name> : status : OK : Question terminée et fonctionnelle.
 
 Question 6 : /auteur/Conferences/<name> : status : OK : Question terminée et fonctionnelle.
 
@@ -21,8 +21,8 @@ Question 7 : /auteur/Conferences/Voyages/<name> : status : TODO : Question pas e
 
 Question 8 : /auteur/coauteurs/<name> : status : OK : Question terminée et fonctionnelle.
 
-Question 9 : /Conference/Laquelle : status : TODO : Question pas encore fait.
+Question 9 : /Conference/Laquelle : status : OK : Question terminée et fonctionnelle.
 
-Question 10 : /Conference/Lieux/<Conf> : status : TODO : Question pas encore fait.
+Question 10 : /Conference/Lieux/<Conf> : status : TODO : Question pas encore faite.
 
 Question 11 : /LIP6 : status : TODO : Question pas encore faite.

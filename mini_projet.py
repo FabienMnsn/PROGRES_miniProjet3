@@ -7,12 +7,7 @@ import bottle
 from bottle import redirect
 from bs4 import BeautifulSoup
 
-#parsing du fichier XML
 
-"""
-#marche pas a cause des '&' et des '#' qui font crash le parser
-
-"""
 
 def telecharge(author_name):
         file_name = author_name+".xml"
@@ -42,25 +37,21 @@ def auteur():
     return {"title":"Rechercher un auteur", "body":stri}
 
 
-#@bottle.route("/auteur/name", method='POST')
 @bottle.route("/auteur/name", method='POST')
 @bottle.view("page.tpl")
 def name():
     lname = bottle.request.forms.last_name
     fname = bottle.request.forms.first_name
-    #redirect("/auteur/"+lname+"/"+fname)
+    print("name() :", lname, fname)
     redirect("/auteur/"+lname+"_"+fname)
 
-#@bottle.route("/auteur/<lname>/<name>")
+
 @bottle.route("/auteur/<name>")
 @bottle.view("page.tpl")
-#def auteur(lname,name):
 def auteur(name):
-    #new WIP
     name_split = name.split("_")
     #inversion nom et prenom pour lancer la recherche
     author_name = name_split[1]+" "+name_split[0]
-    #author_name = name+" "+lname
     file_name = author_name+".xml"
     if(telecharge(author_name)=="ok"):
         tab=utils_xml.publication_stat("Auteurs/"+file_name)
@@ -84,10 +75,8 @@ def auteur(name):
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
 
-#@bottle.route("/auteur/Journals/synthese/<lname>/<name>")
 @bottle.route("/auteur/Journals/synthese/<name>")
 @bottle.view("page.tpl")
-#def synthese(lname,name):
 def synthese(name):
     name_split = name.split("_")
     author_name = name_split[1]+" "+name_split[0]
@@ -95,7 +84,7 @@ def synthese(name):
     if telecharge(author_name)=="ok" :
         tab=utils_xml.liste_resume_publication("Auteurs/"+file_name)
     else :
-        return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
+        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
 
     
     liste_conf={}
@@ -115,7 +104,7 @@ def synthese(name):
             
             dico[utils_xml.get_rank_journal(pub[1])].append(pub[1])
         
-    total =0
+    total = 0
 
     for k in keys:
         try :
@@ -123,11 +112,14 @@ def synthese(name):
         except:
             pass
 
-    stri="<div><h3>   "+str(total)+" Articles publiees</h3></div>"
-    stri+="<div><a href='localhost:8080/auteur/Conferences/synthese/"+name+"'> Conference publiees</a></div>"
+    if(total > 1):
+    	stri="<div><h3>   "+str(total)+" Articles publiés</h3></div>"
+    else:
+    	stri="<div><h3>   "+str(total)+" Article publié</h3></div>"
+    stri+="<div><a href='http://localhost:8080/auteur/Conferences/synthese/"+name+"'> Conférences </a></div>"
 
     stri+="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
-        <caption>Liste detaillee des articles</caption><tr>"""
+        <caption>Liste détaillée des articles</caption><tr>"""
 
     for i in dico.keys():
         try:
@@ -165,7 +157,7 @@ def journal(name):
     if(telecharge(author_name) == "ok"):
         tab = utils_xml.liste_detail_publication("Auteurs/"+file_name)
     else :
-        return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
+        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
     stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
     <caption>Liste détaillée des publications</caption>
     <tr>
@@ -191,7 +183,7 @@ def conferences(name):
     if telecharge(author_name)=="ok" :
         tab=utils_xml.liste_resume_conference("Auteurs/"+file_name)
     else :
-        return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
+        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
 
     
     liste_conf={}
@@ -216,11 +208,14 @@ def conferences(name):
     for k in keys:
         total+=liste_nb_rang[k]
 
-    stri="<div><h3>   "+str(total)+" Conferences publiees</h3></div>"
-    stri+="<div><a href='localhost:8080/auteur/Journals/synthese/"+name+"'> Articles publiees</a></div>"
+    if(total > 1):
+    	stri="<div><h3>   "+str(total)+" Conférences </h3></div>"
+    else:
+        stri="<div><h3>   "+str(total)+" Conférence </h3></div>"
+    stri+="<div><a href='http://localhost:8080/auteur/Journals/synthese/"+name+"'> Articles </a></div>"
 
     stri+="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
-        <caption>Liste detaille des conférences</caption><tr>"""
+        <caption>Liste détaillée des conférences</caption><tr>"""
 
     for i in dico.keys():
         stri+="<th style='border:1px solid black'>"+i+" ("+str(liste_nb_rang[i])+") </th>"
@@ -253,10 +248,10 @@ def confdetail(name):
     if telecharge(author_name)=="ok" :
         tab=utils_xml.liste_detail_conference("Auteurs/"+file_name)
     else :
-        return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
+        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
     
     stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
-    <caption>Liste détailée des conférences</caption>
+    <caption>Liste détaillée des conférences</caption>
     <tr>
     <th style='border:1px solid black'>Titre</th>
     <th style='border:1px solid black'>Auteur</th>
@@ -283,7 +278,7 @@ def coauteurs(name):
     if(telecharge(author_name) == "ok"):
         tab = utils_xml.get_coauteurs("Auteurs/"+file_name)
     else :
-        return {"title":"Oups nous n'avons pas pu récupérer les information de cette personne", "body":""}
+        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
 
     stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
     <caption>Liste des co-auteurs</caption>
@@ -297,6 +292,7 @@ def coauteurs(name):
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
+
 @bottle.route("/Conference/Laquelle")
 @bottle.view("page.tpl")
 def laquelle():
@@ -306,7 +302,7 @@ def laquelle():
     <input type='submit' value='Chercher'/>
     </form>
     """
-    return {"title":"Rechercher une conference", "body":stri}
+    return {"title":"Rechercher une conférence", "body":stri}
 
 
 @bottle.route("/Conference/recup_conf", method='POST')

@@ -185,7 +185,11 @@ def conferences(name):
     else :
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
 
-    
+    #####################################################################
+    #####################################################################
+    #				NE MARCHE PAS POUR JULIEN SOPENA					#
+    #####################################################################
+    #####################################################################
     liste_conf={}
     liste_nb_rang={}
     keys=["A*","A","B","C","Unranked"]
@@ -203,7 +207,7 @@ def conferences(name):
             
             dico[utils_xml.get_rank_conference(pub[0])].append(pub[0])
         
-    total =0
+    total = 0
 
     for k in keys:
         total+=liste_nb_rang[k]

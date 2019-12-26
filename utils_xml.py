@@ -543,6 +543,7 @@ def get_rank_conference(conference_name):
 		return ""
 	conference_name_concat = conference_name.replace(' ', '+')
 	url = "http://portal.core.edu.au/conf-ranks/?search="+conference_name_concat+"&by=all&source=all"
+	#print(url)
 	#proxy = {"https":"https://proxy.ufr-info-p6.jussieu.fr:3128"}
 	r = requests.get(url) # , proxies=proxy)
 	soup = BeautifulSoup(r.content, "html.parser")
@@ -571,6 +572,8 @@ def search_line_conference(table_row, conference_name):
 	i = 0
 	found = False
 	while(True):
+		if(name in conference_name):
+			return rank
 		if(conference_name[i] != name[i]):
 			#print(conference_name[i], "!=", name[i])
 			return ""
@@ -786,4 +789,5 @@ if __name__ == '__main__':
 	"""
 	#get_coauteurs("Auteurs/Sébastien Tixeuil.xml")
 	#print(liste_resume_conference("Auteurs/Olivier Fourmaux.xml"))
-	conf_voyages("Julien Sopena")
+	#conf_voyages("Julien Sopena")
+	print(get_rank_conference("USENIX Annual Technical Conference"))

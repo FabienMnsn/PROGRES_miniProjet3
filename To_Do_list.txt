@@ -9,6 +9,7 @@ Question 1 : /auteurs/qui : status : OK : Question terminée et fonctionnelle.
 Question 2 : /auteur/<name> : status : OK : Question terminée et fonctionnelle.
 Question 4 : /auteur/Journals/<name> : status : OK : Question terminée et fonctionnelle.
 
+Question 7 : /auteur/Conferences/Voyages/<name> : status : OK : Questionterminée et fonctionnelle.
 Question 8 : /auteur/coauteurs/<name> : status : OK : Question terminée et fonctionnelle.
 Question 9 : /Conference/Laquelle : status : OK : Question terminée et fonctionnelle.
 
@@ -19,7 +20,7 @@ TODO:
 
 Ajouter des href dans les pages /auteur/Journals/ et /auteur/Conferences/ comme pour les pages /auteur/Journals/synthese/ et /auteur/Conferences/synthese/
 
-Question 7 : /auteur/Conferences/Voyages/<name> : status : TODO : Question pas encore faite.
+
 Question 10 : /Conference/Lieux/<Conf> : status : TODO : Question pas encore faite.
 Question 11 : /LIP6 : status : TODO : Question pas encore faite.
 

@@ -683,15 +683,15 @@ def display_lieux_conf(conference_url):
 	print(string)
 
 
-def conf_voyages(author_name):
+def conf_voyages(file_name):
 	"""
 	Retourne un tableau contenant des elements : [ [Ville, Etat, Pays], Conf_name, annee]
 	(utile pour simplifier l'affichage de la carte de la question 7)
 
 	@param
-	author_name : string, nom de l'auteur (nom+' '+prenom)
+	file_name : string, nom du fichier de l'auteur (nom+' '+prenom+'.xml')
 	"""
-	liste_conf = liste_resume_conference("Auteurs/"+author_name+".xml")
+	liste_conf = liste_resume_conference(file_name)
 	#liste_conf => [conf_name, annee, url]
 	if(len(liste_conf) <= 0):
 		print("error taille liste [conf_voyages()]")
@@ -706,7 +706,6 @@ def conf_voyages(author_name):
 		return tab
 
 
-
 def address_to_gps(tab_conf_voyage):
     """
     Retourne un tableau identique au premier passé en parametres en remplacant la première case (l'adresse en toute lettre) par les coordonnéess gps
@@ -714,22 +713,22 @@ def address_to_gps(tab_conf_voyage):
     @param
     tab_conf_voyage : tab[], tableau contenant plusieurs element de la forme : [ [Ville, Etat, Pays], Conf_name, annee]
     """
-    print(len(tab_conf_voyage))
+    #print(len(tab_conf_voyage))
     res = []
     geolocator = Nominatim(user_agent="api")
 
     for element in tab_conf_voyage:
         adrs = clean_adrs(element[0])
+        #print(adrs)
         location = geolocator.geocode(adrs)
         if(location != None):
-            res.append([[location.latitude, location.longitude], element[1], element[2]])
-            #print(location.latitude, location.longitude)
+            res.append([element[0], [location.latitude, location.longitude], element[1], element[2]])
         else:
-            print(element)
+            #print(element)
             continue
-    print(len(res))
-    for i in res:
-        print(i)
+    #print(len(res))
+    #for i in res:
+        #print(i)
     return res
 
 
@@ -740,16 +739,13 @@ def clean_adrs(adrs):
 	@param:
 	adrs : string, ex :['PortodeGalinhas', 'Pernambuco', 'Brazil']
 	"""
-	#A = 65, Z = 90
 	new_adrs = []
 	for elem in adrs:
-		#print(elem)
 		sub_element = split_sub(elem)
 		if(sub_element[-2:] == "de"):
 			new_adrs.append(sub_element[-2:])
 		else:
 			new_adrs.append(str(sub_element))
-	#print(' '.join(new_adrs))
 	return ' '.join(new_adrs)
 
 
@@ -767,10 +763,8 @@ def split_sub(string):
 		else:
 			new_string = re.findall('[A-Z][a-z]*', string)
 			new_string_fusion = ' '.join(new_string)
-			replaced = re.sub(r'de ', ' ', new_string_fusion)
-			#print(replaced)
+			replaced = re.sub(r'de ', ' de ', new_string_fusion)
 		return replaced
-
 
 
 def geocoding(adrs):
@@ -885,7 +879,8 @@ if __name__ == '__main__':
 	#conf_voyages("Julien Sopena")
 	#print(get_rank_conference("USENIX Annual Technical Conference"))
 	
-	address_to_gps(conf_voyages("Julien Sopena"))
+	#address_to_gps(conf_voyages("Julien Sopena"))
+	#print(address_to_gps(conf_voyages("Auteurs/Lélia Blin.xml")))
 	#geocoding("Porto de Galinhas Pernambuco Brazil")
 
 	"""
@@ -894,6 +889,6 @@ if __name__ == '__main__':
 	[['PortodeGalinhas', 'Pernambuco', 'Brazil'], 'SBAC-PAD', '2013']
 	[['LasPalmasdeGranCanaria', 'Spain'], 'Euro-Par', '2008']
 	"""
-	#print(clean_adrs(['LasPalmasdeGranCanaria', 'Spain']))
+	#print(clean_adrs(['Anacarpi', 'CapriIsland', 'Italy']))
 	#adrs = clean_adrs(['LasPalmasdeGranCanaria', 'Spain'])
 	#geocoding(adrs)

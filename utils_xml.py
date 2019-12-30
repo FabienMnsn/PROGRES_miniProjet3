@@ -3,6 +3,7 @@ import re
 import os
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
+from geopy.geocoders import Nominatim
 
 #############################################################################################################
 #																											#
@@ -700,11 +701,92 @@ def conf_voyages(author_name):
 		for elem in liste_conf:
 			#if(len(elem) != 0):
 			tab.append([get_lieux(elem[2]), elem[0], elem[1]])
-		for e in tab:
-			print(e)
+		#for e in tab:
+			#print(e)
 		return tab
 
-	#get_lieux(conference_url)
+
+
+def address_to_gps(tab_conf_voyage):
+    """
+    Retourne un tableau identique au premier passé en parametres en remplacant la première case (l'adresse en toute lettre) par les coordonnéess gps
+
+    @param
+    tab_conf_voyage : tab[], tableau contenant plusieurs element de la forme : [ [Ville, Etat, Pays], Conf_name, annee]
+    """
+    print(len(tab_conf_voyage))
+    res = []
+    geolocator = Nominatim(user_agent="api")
+
+    for element in tab_conf_voyage:
+        adrs = clean_adrs(element[0])
+        location = geolocator.geocode(adrs)
+        if(location != None):
+            res.append([[location.latitude, location.longitude], element[1], element[2]])
+            #print(location.latitude, location.longitude)
+        else:
+            print(element)
+            continue
+    print(len(res))
+    for i in res:
+        print(i)
+    return res
+
+
+def clean_adrs(adrs):
+	"""
+	Retourne la nouvelle addresse sous forme d'une string avec les mot séparés selon les majuscules
+
+	@param:
+	adrs : string, ex :['PortodeGalinhas', 'Pernambuco', 'Brazil']
+	"""
+	#A = 65, Z = 90
+	new_adrs = []
+	for elem in adrs:
+		#print(elem)
+		sub_element = split_sub(elem)
+		if(sub_element[-2:] == "de"):
+			new_adrs.append(sub_element[-2:])
+		else:
+			new_adrs.append(str(sub_element))
+	#print(' '.join(new_adrs))
+	return ' '.join(new_adrs)
+
+
+def split_sub(string):
+	"""
+	Retourne une string ou les mot commençant par une majuscule sont séparés
+
+	@param
+	string : chaine de mots collés
+	"""
+	#print(string)
+	if(len(string) > 1):
+		if(64 < ord(string[0]) < 91 and 64 < ord(string[-1]) < 91):
+			return string
+		else:
+			new_string = re.findall('[A-Z][a-z]*', string)
+			new_string_fusion = ' '.join(new_string)
+			replaced = re.sub(r'de ', ' ', new_string_fusion)
+			#print(replaced)
+		return replaced
+
+
+
+def geocoding(adrs):
+    """
+    Fonction de test de geocoder
+
+    @param
+    adrs : string, addresse a coder en GPS
+    """
+    geolocator = Nominatim(user_agent="api")
+    location = None
+    while(location == None):
+        print("location not found")
+        location = geolocator.geocode(adrs)
+    print(location.latitude, location.longitude)
+
 
 
 #-------------------------------------------------------
@@ -754,7 +836,7 @@ if __name__ == '__main__':
 
 	"""
 	#TEST START
- 	#--Tests de la partie récupération du fichier sur internet
+	#--Tests de la partie récupération du fichier sur internet
 	print("<--TESTS TELECHARGEMENT DE FICHIER XML-->")
 	print("		Test création dictionnaire html : ",len(create_dico_html("table_html.txt")) == 103)
 	print("		Test création url pour le fichier XML de 'Sébastien Baey' :", request_author_file_builder("Sébastien Baey", "table_html.txt") == "https://dblp.uni-trier.de/pers/xx/b/Baey:S=eacute=bastien.xml")
@@ -802,3 +884,16 @@ if __name__ == '__main__':
 	#print(liste_resume_conference("Auteurs/Olivier Fourmaux.xml"))
 	#conf_voyages("Julien Sopena")
 	#print(get_rank_conference("USENIX Annual Technical Conference"))
+	
+	address_to_gps(conf_voyages("Julien Sopena"))
+	#geocoding("Porto de Galinhas Pernambuco Brazil")
+
+	"""
+	NOT CLEANED ADRS
+	[['Prague', 'CzechRepublic'], 'TACAS (1)', '2019']
+	[['PortodeGalinhas', 'Pernambuco', 'Brazil'], 'SBAC-PAD', '2013']
+	[['LasPalmasdeGranCanaria', 'Spain'], 'Euro-Par', '2008']
+	"""
+	#print(clean_adrs(['LasPalmasdeGranCanaria', 'Spain']))
+	#adrs = clean_adrs(['LasPalmasdeGranCanaria', 'Spain'])
+	#geocoding(adrs)

@@ -6,6 +6,8 @@ from lxml import etree
 import bottle
 from bottle import redirect
 from bs4 import BeautifulSoup
+from geopy.geocoders import Nominatim
+import folium
 
 
 
@@ -342,6 +344,14 @@ def confdetail(name):
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
+
+
+@bottle.route("auteur/Conference/Voyages/<name>")
+@bottle.view("page.tpl")
+def conference_voyage(name):
+
+    
+     return {"title":"Test","body":"Test"}
 
 
 

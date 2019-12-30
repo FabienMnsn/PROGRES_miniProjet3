@@ -479,7 +479,8 @@ def liste_detail_publication(file_path):
 						if(article_data.tag == "title"):
 							titre = article_data.text
 						if(article_data.tag == "author"):
-							auteur_liste += article_data.text+", "
+							name = re.sub(r'[0-9]*', '', article_data.text)
+							auteur_liste += name+", "
 					publication.append(titre)
 					publication.append(auteur_liste[:-2])
 					publication.append(journal_name)
@@ -622,7 +623,8 @@ def liste_detail_conference(file_path):
 						if(article_data.tag == "title"):
 							titre = article_data.text
 						if(article_data.tag == "author"):
-							auteur_liste += article_data.text+", "
+							name = re.sub(r'[0-9]*', '', article_data.text)
+							auteur_liste += name+", "
 					conf.append(titre)
 					conf.append(auteur_liste[:-2])
 					conf.append(conference_name)
@@ -768,7 +770,7 @@ if __name__ == '__main__':
 	"""
 
 	#AUTRES TESTS
-	#print(request_author_file_builder("Christophe Gonzales", "table_html.txt"))
+	print(request_author_file_builder("Pierre Sens", "table_html.txt"))
 	#download_file("Christophe Gonzales", "Auteurs/", "table_html.txt")
 	#xml_formater("Auteurs/Christophe Gonzales.xml", "Auteurs/_Christophe Gonzales.xml", create_dico_iso("table_iso.txt"))
 	"""
@@ -797,5 +799,5 @@ if __name__ == '__main__':
 	"""
 	#get_coauteurs("Auteurs/Sébastien Tixeuil.xml")
 	#print(liste_resume_conference("Auteurs/Olivier Fourmaux.xml"))
-	conf_voyages("Julien Sopena")
+	#conf_voyages("Julien Sopena")
 	#print(get_rank_conference("USENIX Annual Technical Conference"))

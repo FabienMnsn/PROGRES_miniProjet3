@@ -32,3 +32,5 @@ TO FIX (BUG / PB):
 Question 3 : /auteur/Journals/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque publication.
 Question 5 : /auteur/Conferences/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque conférence. + pb avec Julien Sopena erreur de clé de dico???
 Question 6 : /auteur/Conferences/<name> : status : TOFIX : Il reste a enlever les '0001' qui trainent dans les noms des auteurs ex "Pierre Sens 0001" devient "Pierre Sens"
+
+PB général : avec les homonymes pierre sens_0001 et pierre sens_0002

@@ -20,6 +20,8 @@ Question 9 : /Conference/Laquelle : status : OK : Question terminée et fonction
 ______________________________________________________________________________
 TODO:
 
+Ajouter des href dans les pages /auteur/Journals/ et /auteur/Conferences/ comme pour les pages /auteur/Journals/synthese/ et /auteur/Conferences/synthese/
+
 Question 7 : /auteur/Conferences/Voyages/<name> : status : TODO : Question pas encore faite.
 Question 10 : /Conference/Lieux/<Conf> : status : TODO : Question pas encore faite.
 Question 11 : /LIP6 : status : TODO : Question pas encore faite.
@@ -31,6 +33,3 @@ TO FIX (BUG / PB):
 
 Question 3 : /auteur/Journals/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque publication.
 Question 5 : /auteur/Conferences/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque conférence. + pb avec Julien Sopena erreur de clé de dico???
-Question 6 : /auteur/Conferences/<name> : status : TOFIX : Il reste a enlever les '0001' qui trainent dans les noms des auteurs ex "Pierre Sens 0001" devient "Pierre Sens"
-
-PB général : avec les homonymes pierre sens_0001 et pierre sens_0002

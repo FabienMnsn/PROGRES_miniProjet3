@@ -16,7 +16,6 @@ def telecharge(author_name):
     if(file_name not in list_file):
     #si le fichier n'existe pas on le telecharge
         status = utils_xml.download_file(author_name, "Auteurs/", "table_html.txt")
-        print("-------->Telechargement du fichier")
         if(status != 200):
             #si le telechargement echoue on retourne une erreur
             return "erreur"
@@ -27,12 +26,10 @@ def telecharge(author_name):
             file_content = file.readlines()
             print(file_content)
             if(len(file_content) > 30):
-                print("-------->fichier téléchargé présente des <r> correct")
                 return "ok"
             else:
                 file.close()
                 os.remove("Auteurs/"+file_name)
-                print("-------->fichier téléchargé incorrect : supprimé")
                 return "erreur homonymes"
     #si le fichier existe
     else:
@@ -43,10 +40,8 @@ def telecharge(author_name):
             #ce fichier n'est pas un fichier contenant les publication d'un auteur pb d'homonymes (personnes de meme nom)
             file.close()
             os.remove("Auteurs/"+file_name)
-            print("-------->fichier déjà présent incorrect : supprimé")
             return "erreur homonymes"
         else:
-            print("-------->fichier déjà correct")
             file.close()
             return "ok"
 
@@ -91,7 +86,7 @@ def auteur(name):
     if(status=="ok"):
         tab=utils_xml.publication_stat("Auteurs/"+file_name)
     elif(status=="erreur homonymes"):
-    	return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs persones ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+    	return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
     else:
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
     dico=utils_xml.publication_stat("Auteurs/"+file_name)
@@ -127,9 +122,9 @@ def synthese(name):
     file_name = author_name+".xml"
     status = telecharge(author_name)
     if(status=="ok"):
-        tab=utils_xml.publication_stat("Auteurs/"+file_name)
+        tab=utils_xml.liste_resume_publication("Auteurs/"+file_name)
     elif(status=="erreur homonymes"):
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs persones ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
     else:
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
 
@@ -207,18 +202,15 @@ def journal(name):
     author_name = name_split[1]+" "+name_split[0]
     """
     file_name = author_name+".xml"
-    print("JOURNAL : ", file_name)
     status = telecharge(author_name)
     if(status=="ok"):
-        print("status OK")
         tab=utils_xml.liste_detail_publication("Auteurs/"+file_name)
-        print(tab)
     elif(status=="erreur homonymes"):
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs persones ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
     else:
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
     stri="""<div align='center'><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
-    <caption>Liste détaillée des publications</caption>
+    <caption>Liste détaillée des publications ("""+str(len(tab))+""")</caption>
     <tr>
     <th style='border:1px solid black'>Article</th>
     <th style='border:1px solid black'>Auteur</th>
@@ -238,13 +230,19 @@ def journal(name):
 @bottle.view("page.tpl")
 def conferences(name):
     name_split = name.split("_")
+    #inversion nom et prenom pour lancer la recherche
+    name_h = name_split[0].replace('+', "_")
+    author_name = name_split[1]+" "+name_h
+    """
+    name_split = name.split("_")
     author_name = name_split[1]+" "+name_split[0]
+    """
     file_name = author_name+".xml"
     status = telecharge(author_name)
     if(status=="ok"):
         tab=utils_xml.liste_resume_conference("Auteurs/"+file_name)
     elif(status=="erreur homonymes"):
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs persones ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
     else:
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
 
@@ -312,13 +310,19 @@ def conferences(name):
 @bottle.view("page.tpl")
 def confdetail(name):
     name_split = name.split("_")
+    #inversion nom et prenom pour lancer la recherche
+    name_h = name_split[0].replace('+', "_")
+    author_name = name_split[1]+" "+name_h
+    """
+    name_split = name.split("_")
     author_name = name_split[1]+" "+name_split[0]
+    """
     file_name = author_name+".xml"
     status = telecharge(author_name)
     if(status=="ok"):
         tab=utils_xml.liste_detail_conference("Auteurs/"+file_name)
     elif(status=="erreur homonymes"):
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs persones ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
     else:
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
     
@@ -351,7 +355,7 @@ def coauthors(name):
     if(status=="ok"):
         tab=utils_xml.get_coauteurs("Auteurs/"+file_name)
     elif(status=="erreur homonymes"):
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs persones ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
     else:
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
 

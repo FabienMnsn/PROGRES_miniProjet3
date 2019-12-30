@@ -70,6 +70,7 @@ def download_file(author_name, download_path, table_path):
 	table_path : string, chemin d'acces de la table html
 	"""
 	requested = requests.get(request_author_file_builder(author_name, table_path))
+	#print("---->DOWNLOAD :", request_author_file_builder(author_name, table_path))
 	file_name = download_path+"_"+author_name+".xml"
 	if(requested.status_code == 200):
 		with open(file_name, 'wb') as local_file:
@@ -770,7 +771,7 @@ if __name__ == '__main__':
 	"""
 
 	#AUTRES TESTS
-	print(request_author_file_builder("Pierre Sens", "table_html.txt"))
+	#print(request_author_file_builder("Pierre Sens", "table_html.txt"))
 	#download_file("Christophe Gonzales", "Auteurs/", "table_html.txt")
 	#xml_formater("Auteurs/Christophe Gonzales.xml", "Auteurs/_Christophe Gonzales.xml", create_dico_iso("table_iso.txt"))
 	"""

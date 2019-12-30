@@ -27,7 +27,7 @@ Question 11 : /LIP6 : status : TODO : Question pas encore faite.
 
 
 ______________________________________________________________________________
-TO FIX (BUG / PB): 
+TO FIX (BUG / PB):
 
 Question 3 : /auteur/Journals/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque publication.
 Question 5 : /auteur/Conferences/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque conférence. + pb avec Julien Sopena erreur de clé de dico???

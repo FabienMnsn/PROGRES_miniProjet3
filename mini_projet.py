@@ -37,6 +37,7 @@ def auteur():
     return {"title":"Rechercher un auteur", "body":stri}
 
 
+
 @bottle.route("/auteur/name", method='POST')
 @bottle.view("page.tpl")
 def name():
@@ -44,6 +45,7 @@ def name():
     fname = bottle.request.forms.first_name
     print("name() :", lname, fname)
     redirect("/auteur/"+lname+"_"+fname)
+
 
 
 @bottle.route("/auteur/<name>")
@@ -73,6 +75,7 @@ def auteur(name):
     </table></div>"""
     
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
+
 
 
 @bottle.route("/auteur/Journals/synthese/<name>")
@@ -113,12 +116,12 @@ def synthese(name):
             pass
 
     if(total > 1):
-    	stri="<div><h3>   "+str(total)+" Articles publiés</h3></div>"
+    	stri="<div><h3 align='center'>   "+str(total)+" Articles publiés</h3></div>"
     else:
-    	stri="<div><h3>   "+str(total)+" Article publié</h3></div>"
-    stri+="<div><a href='http://localhost:8080/auteur/Conferences/synthese/"+name+"'> Conférences </a></div>"
+    	stri="<div><h3 align='center'>   "+str(total)+" Article publié</h3></div>"
+    stri+="<div align='center'><a href='http://localhost:8080/auteur/Conferences/synthese/"+name+"'> Conférences </a></div>"
 
-    stri+="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+    stri+="""<div align='center'><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
         <caption>Liste détaillée des articles</caption><tr>"""
 
     for i in dico.keys():
@@ -158,7 +161,7 @@ def journal(name):
         tab = utils_xml.liste_detail_publication("Auteurs/"+file_name)
     else :
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
-    stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+    stri="""<div align='center'><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
     <caption>Liste détaillée des publications</caption>
     <tr>
     <th style='border:1px solid black'>Article</th>
@@ -172,6 +175,7 @@ def journal(name):
 
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
+
 
 
 @bottle.route("/auteur/Conferences/synthese/<name>")
@@ -213,10 +217,10 @@ def conferences(name):
         total+=liste_nb_rang[k]
 
     if(total > 1):
-    	stri="<div><h3>   "+str(total)+" Conférences </h3></div>"
+    	stri="<div><h3 align='center'>   "+str(total)+" Conférences </h3></div>"
     else:
-        stri="<div><h3>   "+str(total)+" Conférence </h3></div>"
-    stri+="<div><a href='http://localhost:8080/auteur/Journals/synthese/"+name+"'> Articles </a></div>"
+        stri="<div><h3 align='center'>   "+str(total)+" Conférence </h3></div>"
+    stri+="<div align='center'><a href='http://localhost:8080/auteur/Journals/synthese/"+name+"'> Articles </a></div>"
 
     stri+="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
         <caption>Liste détaillée des conférences</caption><tr>"""
@@ -242,6 +246,8 @@ def conferences(name):
     stri+="</table></div>"
 
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
+
+
 
 @bottle.route("/auteur/Conferences/<name>")
 @bottle.view("page.tpl")
@@ -273,9 +279,9 @@ def confdetail(name):
 
 
 
-@bottle.route("/auteur/coauteurs/<name>")
+@bottle.route("/auteur/coauthors/<name>")
 @bottle.view("page.tpl")
-def coauteurs(name):
+def coauthors(name):
     name_split = name.split("_")
     author_name = name_split[1]+" "+name_split[0]
     file_name = author_name+".xml"
@@ -285,13 +291,13 @@ def coauteurs(name):
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
 
     stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
-    <caption>Liste des co-auteurs</caption>
+    <caption>Liste des co-auteurs ("""+str(len(tab))+""")</caption>
     <tr>
     <th style='border:1px solid black'>Prénom Nom</th>
     </tr>"""
 
-    for aut in tab:
-        stri+=" <tr><td style='border:1px solid black;padding:10px'>"+aut+"</td></tr>"
+    for author in tab:
+        stri+=" <tr><td style='border:1px solid black;padding:10px'>"+author+"</td></tr>"
 
     stri+="</table></div>"
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
@@ -301,7 +307,7 @@ def coauteurs(name):
 @bottle.view("page.tpl")
 def laquelle():
     stri = """
-    <form method='post' action='recup_conf'>
+    <form align='center' method='post' action='recup_conf'>
     <input type='text' name='conference' placeholder='Conference'/>
     <input type='submit' value='Chercher'/>
     </form>

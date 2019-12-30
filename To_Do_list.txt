@@ -5,24 +5,30 @@ DONE : 8/11
 *----------------*
 
 
+______________________________________________________________________________
+DONE:
+
 Question 1 : /auteurs/qui : status : OK : Question terminée et fonctionnelle.
-
 Question 2 : /auteur/<name> : status : OK : Question terminée et fonctionnelle.
-
-Question 3 : /auteur/Journals/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque publication.
-
 Question 4 : /auteur/Journals/<name> : status : OK : Question terminée et fonctionnelle.
 
-Question 5 : /auteur/Conferences/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque conférence.
-
-Question 6 : /auteur/Conferences/<name> : status : OK : Question terminée et fonctionnelle.
-
-Question 7 : /auteur/Conferences/Voyages/<name> : status : TODO : Question pas encore faite.
-
 Question 8 : /auteur/coauteurs/<name> : status : OK : Question terminée et fonctionnelle.
-
 Question 9 : /Conference/Laquelle : status : OK : Question terminée et fonctionnelle.
 
-Question 10 : /Conference/Lieux/<Conf> : status : TODO : Question pas encore faite.
 
+
+______________________________________________________________________________
+TODO:
+
+Question 7 : /auteur/Conferences/Voyages/<name> : status : TODO : Question pas encore faite.
+Question 10 : /Conference/Lieux/<Conf> : status : TODO : Question pas encore faite.
 Question 11 : /LIP6 : status : TODO : Question pas encore faite.
+
+
+
+______________________________________________________________________________
+TO FIX (BUG / PB): 
+
+Question 3 : /auteur/Journals/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque publication.
+Question 5 : /auteur/Conferences/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque conférence. + pb avec Julien Sopena erreur de clé de dico???
+Question 6 : /auteur/Conferences/<name> : status : TOFIX : Il reste a enlever les '0001' qui trainent dans les noms des auteurs ex "Pierre Sens 0001" devient "Pierre Sens"

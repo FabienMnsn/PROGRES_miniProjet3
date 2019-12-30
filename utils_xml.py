@@ -494,7 +494,7 @@ def liste_detail_publication(file_path):
 
 
 #-------------------------------------------------------
-#			Fonction concernant les conferences
+#			Fonctions concernant les conferences
 #-------------------------------------------------------
 def liste_resume_conference(file_path):
 	"""
@@ -659,6 +659,12 @@ def get_lieux(conference_url):
 		
 
 def display_lieux_conf(conference_url):
+	"""
+	Simple fonction permettant de tester get_lieux plus facilement
+
+	@param
+	conference_url : string, lien (dblp) vers la conference ex: "db/conf/sss/sss2011.html#AlonADDPT11"
+	"""
 	tab = get_lieux(conference_url)
 	string = "Unknown"
 	if(len(tab) >= 2 and tab[0]):
@@ -689,12 +695,14 @@ def conf_voyages(author_name):
 	else:
 		tab = []
 		for elem in liste_conf:
+			#if(len(elem) != 0):
 			tab.append([get_lieux(elem[2]), elem[0], elem[1]])
 		for e in tab:
 			print(e)
 		return tab
 
 	#get_lieux(conference_url)
+
 
 #-------------------------------------------------------
 #			Fonctions utilitaires diverses
@@ -789,5 +797,5 @@ if __name__ == '__main__':
 	"""
 	#get_coauteurs("Auteurs/Sébastien Tixeuil.xml")
 	#print(liste_resume_conference("Auteurs/Olivier Fourmaux.xml"))
-	#conf_voyages("Julien Sopena")
-	print(get_rank_conference("USENIX Annual Technical Conference"))
+	conf_voyages("Julien Sopena")
+	#print(get_rank_conference("USENIX Annual Technical Conference"))

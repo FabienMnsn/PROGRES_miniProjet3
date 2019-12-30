@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Nini Zhu" n="3">
+<person key="homepages/21/11142" mdate="2012-04-16">
+<author>Nini Zhu</author>
+</person>
+<r><inproceedings key="conf/fun/DuboisTZ12" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Sébastien Tixeuil</author>
+<author>Nini Zhu</author>
+<title>The Byzantine Brides Problem.</title>
+<pages>107-118</pages>
+<year>2012</year>
+<booktitle>FUN</booktitle>
+<crossref>conf/fun/2012</crossref>
+<url>db/conf/fun/fun2012.html#DuboisTZ12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-3575" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Sébastien Tixeuil</author>
+<author>Nini Zhu</author>
+<title>The Byzantine Brides Problem</title>
+<ee type="oa">http://arxiv.org/abs/1203.3575</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.3575</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-3575</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1204-4565" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Sébastien Tixeuil</author>
+<author>Nini Zhu</author>
+<title>Mariages et Trahisons</title>
+<ee type="oa">http://arxiv.org/abs/1204.4565</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1204.4565</volume>
+<url>db/journals/corr/corr1204.html#abs-1204-4565</url>
+</article>
+</r>
+<coauthors n="2" nc="1">
+<co c="0"><na f="d/Dubois:Swan">Swan Dubois</na></co>
+<co c="0"><na f="t/Tixeuil:S=eacute=bastien">Sébastien Tixeuil</na></co>
+</coauthors>
+</dblpperson>
+

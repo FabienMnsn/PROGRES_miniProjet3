@@ -1,0 +1,1104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Vincent Villain" n="85">
+<person key="homepages/79/6396" mdate="2009-06-10">
+<author>Vincent Villain</author>
+</person>
+<r><article key="journals/iandc/CournierRV19" mdate="2019-02-21">
+<author>Alain Cournier</author>
+<author>Stephane Rovedakis</author>
+<author>Vincent Villain</author>
+<title>The first fully polynomial stabilizing algorithm for BFS tree construction.</title>
+<pages>26-56</pages>
+<year>2019</year>
+<volume>265</volume>
+<journal>Inf. Comput.</journal>
+<url>db/journals/iandc/iandc265.html#CournierRV19</url>
+</article>
+</r>
+<r><article key="journals/ijfcs/HadidKV17" mdate="2017-09-07">
+<author>Rachid Hadid</author>
+<author>Mehmet Hakan Karaata</author>
+<author>Vincent Villain</author>
+<title>A Stabilizing Algorithm for Finding Two Node-Disjoint Paths in Arbitrary Networks.</title>
+<pages>411-</pages>
+<year>2017</year>
+<volume>28</volume>
+<journal>Int. J. Found. Comput. Sci.</journal>
+<number>4</number>
+<url>db/journals/ijfcs/ijfcs28.html#HadidKV17</url>
+</article>
+</r>
+<r><article key="journals/ppl/DattaDLV17" mdate="2019-12-18">
+<author>Ajoy K. Datta</author>
+<author>Stéphane Devismes</author>
+<author>Lawrence L. Larmore</author>
+<author>Vincent Villain</author>
+<title>Self-Stabilizing Weak Leader Election in Anonymous Trees Using Constant Memory per Edge.</title>
+<pages>1750002:1-1750002:18</pages>
+<year>2017</year>
+<volume>27</volume>
+<journal>Parallel Processing Letters</journal>
+<number>2</number>
+<url>db/journals/ppl/ppl27.html#DattaDLV17</url>
+</article>
+</r>
+<r><article key="journals/tcs/CournierDDPV16" mdate="2017-05-28">
+<author>Alain Cournier</author>
+<author>Ajoy Kumar Datta</author>
+<author>Stéphane Devismes</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>The expressive power of snap-stabilization.</title>
+<pages>40-66</pages>
+<year>2016</year>
+<volume>626</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs626.html#CournierDDPV16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sss/LeveMV16" mdate="2017-05-25">
+<author>Florence Levé</author>
+<author>Khaled Mohamed</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing PIF on Arbitrary Connected Networks in Message Passing Model.</title>
+<pages>281-297</pages>
+<year>2016</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2016</crossref>
+<url>db/conf/sss/sss2016.html#LeveMV16</url>
+</inproceedings>
+</r>
+<r><article key="journals/siamcomp/DieudonnePV15" mdate="2017-05-27">
+<author>Yoann Dieudonné</author>
+<author>Andrzej Pelc</author>
+<author>Vincent Villain</author>
+<title>How to Meet Asynchronously at Polynomial Cost.</title>
+<pages>844-867</pages>
+<year>2015</year>
+<volume>44</volume>
+<journal>SIAM J. Comput.</journal>
+<number>3</number>
+<url>db/journals/siamcomp/siamcomp44.html#DieudonnePV15</url>
+</article>
+</r>
+<r><inproceedings key="conf/sss/LeveMV14" mdate="2017-05-25">
+<author>Florence Levé</author>
+<author>Khaled Mohamed</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing PIF on Non-oriented Trees and Message Passing Model.</title>
+<pages>299-313</pages>
+<year>2014</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2014</crossref>
+<url>db/conf/sss/sss2014.html#LeveMV14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/CournierDLPV13" mdate="2018-11-30">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Anissa Lamani</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>The snap-stabilizing message forwarding algorithm on tree topologies.</title>
+<pages>89-112</pages>
+<year>2013</year>
+<volume>496</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs496.html#CournierDLPV13</url>
+</article>
+</r>
+<r><article key="journals/tcs/DieudonneLPV13" mdate="2017-05-28">
+<author>Yoann Dieudonné</author>
+<author>Florence Levé</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Deterministic geoleader election in disoriented anonymous systems.</title>
+<pages>43-54</pages>
+<year>2013</year>
+<volume>506</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs506.html#DieudonneLPV13</url>
+</article>
+</r>
+<r><article key="journals/tcs/DefagoPV13" mdate="2017-06-08">
+<author orcid="0000-0002-2377-205X">Xavier Défago</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Preface.</title>
+<pages>1</pages>
+<year>2013</year>
+<volume>512</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs512.html#DefagoPV13</url>
+</article>
+</r>
+<r><inproceedings key="conf/podc/DieudonnePV13" mdate="2018-11-06">
+<author>Yoann Dieudonné</author>
+<author>Andrzej Pelc</author>
+<author>Vincent Villain</author>
+<title>How to meet asynchronously at polynomial cost.</title>
+<pages>92-99</pages>
+<year>2013</year>
+<booktitle>PODC</booktitle>
+<crossref>conf/podc/2013</crossref>
+<url>db/conf/podc/podc2013.html#DieudonnePV13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-7119" mdate="2018-08-13">
+<author>Yoann Dieudonné</author>
+<author>Andrzej Pelc</author>
+<author>Vincent Villain</author>
+<title>How to Meet Asynchronously at Polynomial Cost</title>
+<ee type="oa">http://arxiv.org/abs/1301.7119</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.7119</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-7119</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcn/CournierDLPV12" mdate="2018-11-02">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Anissa Lamani</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing Message Forwarding Algorithm on Tree Topologies.</title>
+<pages>46-60</pages>
+<year>2012</year>
+<booktitle>ICDCN</booktitle>
+<crossref>conf/icdcn/2012</crossref>
+<url>db/conf/icdcn/icdcn2012.html#CournierDLPV12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1202-4486" mdate="2018-08-13">
+<author>Yoann Dieudonné</author>
+<author>Florence Levé</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Deterministic Leader Election Among Disoriented Anonymous Sensors</title>
+<ee type="oa">http://arxiv.org/abs/1202.4486</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1202.4486</volume>
+<url>db/journals/corr/corr1202.html#abs-1202-4486</url>
+</article>
+</r>
+<r><article key="journals/tcs/CournierDV11" mdate="2018-11-30">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Vincent Villain</author>
+<title>How to improve snap-stabilizing point-to-point communication space complexity?</title>
+<pages>4285-4296</pages>
+<year>2011</year>
+<volume>412</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>33</number>
+<url>db/journals/tcs/tcs412.html#CournierDV11</url>
+</article>
+</r>
+<r><article key="journals/tsi/DevismesPV11" mdate="2017-05-20">
+<author>Stéphane Devismes</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Autour de l'autostabilisation. 1. Techniques généralisant l'approche.</title>
+<pages>873-894</pages>
+<year>2011</year>
+<volume>30</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>7</number>
+<url>db/journals/tsi/tsi30.html#DevismesPV11</url>
+</article>
+</r>
+<r><article key="journals/tsi/DevismesPV11a" mdate="2017-05-20">
+<author>Stéphane Devismes</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Autour de l'autostabilisation. 2. Techniques spécialisant l'approche.</title>
+<pages>895-922</pages>
+<year>2011</year>
+<volume>30</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>7</number>
+<url>db/journals/tsi/tsi30.html#DevismesPV11a</url>
+</article>
+</r>
+<r><inproceedings key="conf/opodis/CournierRV11" mdate="2017-05-17">
+<author>Alain Cournier</author>
+<author>Stephane Rovedakis</author>
+<author>Vincent Villain</author>
+<title>The First Fully Polynomial Stabilizing Algorithm for BFS Tree Construction.</title>
+<pages>159-174</pages>
+<year>2011</year>
+<booktitle>OPODIS</booktitle>
+<crossref>conf/opodis/2011</crossref>
+<url>db/conf/opodis/opodis2011.html#CournierRV11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sss/2011" mdate="2019-05-14">
+<editor orcid="0000-0002-2377-205X">Xavier Défago</editor>
+<editor>Franck Petit</editor>
+<editor>Vincent Villain</editor>
+<title>Stabilization, Safety, and Security of Distributed Systems - 13th International Symposium, SSS 2011, Grenoble, France, October 10-12, 2011. Proceedings</title>
+<volume>6976</volume>
+<year>2011</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<isbn>978-3-642-24549-7</isbn>
+<booktitle>SSS</booktitle>
+<url>db/conf/sss/sss2011.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1107-6014" mdate="2019-09-17">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Anissa Lamani</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing Message Forwarding Algorithm on Tree Topologies</title>
+<ee type="oa">http://arxiv.org/abs/1107.6014</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1107.6014</volume>
+<url>db/journals/corr/corr1107.html#abs-1107-6014</url>
+</article>
+</r>
+<r><inproceedings key="conf/podc/DieudonnePV10" mdate="2018-11-06">
+<author>Yoann Dieudonné</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Brief announcement: leader election vs pattern formation.</title>
+<pages>404-405</pages>
+<year>2010</year>
+<booktitle>PODC</booktitle>
+<crossref>conf/podc/2010</crossref>
+<url>db/conf/podc/podc2010.html#DieudonnePV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/CournierDLPV10" mdate="2018-11-02">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Anissa Lamani</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing Linear Message Forwarding.</title>
+<pages>546-559</pages>
+<year>2010</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2010</crossref>
+<url>db/conf/sss/sss2010.html#CournierDLPV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/DieudonnePV10" mdate="2017-05-19">
+<author>Yoann Dieudonné</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Leader Election Problem versus Pattern Formation Problem.</title>
+<pages>267-281</pages>
+<year>2010</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2010</crossref>
+<url>db/conf/wdag/disc2010.html#DieudonnePV10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3432" mdate="2019-09-17">
+<author>Anissa Lamani</author>
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing Linear Message Forwarding</title>
+<ee type="oa">http://arxiv.org/abs/1006.3432</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3432</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3432</url>
+</article>
+</r>
+<r><article key="journals/taas/CournierDV09" mdate="2018-11-06">
+<author>Alain Cournier</author>
+<author>Stéphane Devismes</author>
+<author>Vincent Villain</author>
+<title>Light enabling snap-stabilization of fundamental protocols.</title>
+<year>2009</year>
+<volume>4</volume>
+<journal>TAAS</journal>
+<number>1</number>
+<url>db/journals/taas/taas4.html#CournierDV09</url>
+<pages>6:1-6:27</pages>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/CournierDV09" mdate="2018-11-02">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Vincent Villain</author>
+<title>A snap-stabilizing point-to-point communication protocol in message-switched networks.</title>
+<pages>1-11</pages>
+<year>2009</year>
+<booktitle>IPDPS</booktitle>
+<crossref>conf/ipps/2009</crossref>
+<url>db/conf/ipps/ipdps2009.html#CournierDV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/CournierDV09" mdate="2018-11-02">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Vincent Villain</author>
+<title>How to Improve Snap-Stabilizing Point-to-Point Communication Space Complexity?</title>
+<pages>195-208</pages>
+<year>2009</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2009</crossref>
+<url>db/conf/sss/sss2009.html#CournierDV09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0902-2851" mdate="2018-08-13">
+<author>Yoann Dieudonné</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Leader Election Problem Versus Pattern Formation Problem</title>
+<ee type="oa">http://arxiv.org/abs/0902.2851</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0902.2851</volume>
+<url>db/journals/corr/corr0902.html#abs-0902-2851</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0905-1786" mdate="2019-09-17">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Vincent Villain</author>
+<title>Une CNS pour l'acheminement de messages instantanément stabilisant</title>
+<ee type="oa">http://arxiv.org/abs/0905.1786</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0905.1786</volume>
+<url>db/journals/corr/corr0905.html#abs-0905-1786</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0905-2540" mdate="2019-09-17">
+<author>Alain Cournier</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Vincent Villain</author>
+<title>Two snap-stabilizing point-to-point communication protocols in message-switched networks</title>
+<ee type="oa">http://arxiv.org/abs/0905.2540</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0905.2540</volume>
+<url>db/journals/corr/corr0905.html#abs-0905-2540</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/BoulinierPV08" mdate="2017-05-17">
+<author>Christian Boulinier</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Synchronous vs. Asynchronous Unison.</title>
+<pages>61-80</pages>
+<year>2008</year>
+<volume>51</volume>
+<journal>Algorithmica</journal>
+<number>1</number>
+<url>db/journals/algorithmica/algorithmica51.html#BoulinierPV08</url>
+</article>
+</r>
+<r><article key="journals/cj/BeinDV07" mdate="2017-05-20">
+<author>Doina Bein</author>
+<author>Ajoy Kumar Datta</author>
+<author>Vincent Villain</author>
+<title>Self-Stabilizing Local Routing in Ad Hoc Networks.</title>
+<pages>197-203</pages>
+<year>2007</year>
+<volume>50</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj50.html#BeinDV07</url>
+</article>
+</r>
+<r><article key="journals/dc/BuiDPV07" mdate="2017-05-28">
+<author>Alain Bui</author>
+<author>Ajoy Kumar Datta</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Snap-stabilization and PIF in tree networks.</title>
+<pages>3-19</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>Distributed Computing</journal>
+<number>1</number>
+<url>db/journals/dc/dc20.html#BuiDPV07</url>
+</article>
+</r>
+<r><article key="journals/jpdc/PetitV07" mdate="2017-05-26">
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Optimal snap-stabilizing depth-first token circulation in tree networks.</title>
+<pages>1-12</pages>
+<year>2007</year>
+<volume>67</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<number>1</number>
+<url>db/journals/jpdc/jpdc67.html#PetitV07</url>
+</article>
+</r>
+<r><article key="journals/cj/CournierDPV06" mdate="2017-05-20">
+<author>Alain Cournier</author>
+<author>Stéphane Devismes</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing Depth-First Search on Arbitrary Networks.</title>
+<pages>268-280</pages>
+<year>2006</year>
+<volume>49</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj49.html#CournierDPV06</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpads/CournierDV06" mdate="2017-05-26">
+<author>Alain Cournier</author>
+<author>Stéphane Devismes</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing PIF and Useless Computations.</title>
+<pages>39-48</pages>
+<year>2006</year>
+<crossref>conf/icpads/2006</crossref>
+<booktitle>ICPADS (1)</booktitle>
+<url>db/conf/icpads/icpads2006-1.html#CournierDV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BoulinierPV06" mdate="2017-05-25">
+<author>Christian Boulinier</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Toward a Time-Optimal Odd Phase Clock Unison in Trees.</title>
+<pages>137-151</pages>
+<year>2006</year>
+<crossref>conf/sss/2006</crossref>
+<booktitle>SSS</booktitle>
+<url>db/conf/sss/sss2006.html#BoulinierPV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/CournierDV06" mdate="2017-05-25">
+<author>Alain Cournier</author>
+<author>Stéphane Devismes</author>
+<author>Vincent Villain</author>
+<title>From Self- to Snap- Stabilization.</title>
+<pages>199-213</pages>
+<year>2006</year>
+<crossref>conf/sss/2006</crossref>
+<booktitle>SSS</booktitle>
+<url>db/conf/sss/sss2006.html#CournierDV06</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/CantarellDPV05" mdate="2017-05-20">
+<author>Sébastien Cantarell</author>
+<author>Ajoy Kumar Datta</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Group Mutual Exclusion in Token Rings.</title>
+<pages>239-252</pages>
+<year>2005</year>
+<volume>48</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj48.html#CantarellDPV05</url>
+</article>
+</r>
+<r><article key="journals/jhsn/CournierDPV05" mdate="2015-05-18">
+<author>Alain Cournier</author>
+<author>Ajoy Kumar Datta</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Optimal snap-stabilizing PIF algorithms in un-oriented trees.</title>
+<pages>185-200</pages>
+<year>2005</year>
+<volume>14</volume>
+<journal>J. High Speed Networks</journal>
+<number>2</number>
+<url>db/journals/jhsn/jhsn14.html#CournierDPV05</url>
+</article>
+</r>
+<r><inproceedings key="conf/hipc/CournierDV05" mdate="2017-05-26">
+<author>Alain Cournier</author>
+<author>Stéphane Devismes</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing Detection of Cutsets.</title>
+<pages>488-497</pages>
+<year>2005</year>
+<crossref>conf/hipc/2005</crossref>
+<booktitle>HiPC</booktitle>
+<url>db/conf/hipc/hipc2005.html#CournierDV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcsw/BeinDV05" mdate="2017-05-26">
+<author>Doina Bein</author>
+<author>Ajoy Kumar Datta</author>
+<author>Vincent Villain</author>
+<title>Self-Stabilizing Optimal Local Routing in Ad Hoc Networks.</title>
+<pages>564-570</pages>
+<year>2005</year>
+<crossref>conf/icdcsw/2005</crossref>
+<booktitle>ICDCS Workshops</booktitle>
+<url>db/conf/icdcsw/icdcsw2005.html#BeinDV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispan/BeinDV05" mdate="2017-05-26">
+<author>Doina Bein</author>
+<author>Ajoy Kumar Datta</author>
+<author>Vincent Villain</author>
+<title>Self-Stablizing Pivot Interval Routing in General Networks.</title>
+<pages>282-287</pages>
+<year>2005</year>
+<booktitle>ISPAN</booktitle>
+<crossref>conf/ispan/2005</crossref>
+<url>db/conf/ispan/ispan2005.html#BeinDV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispan/BeinDJV05" mdate="2017-05-26">
+<author>Doina Bein</author>
+<author>Ajoy Kumar Datta</author>
+<author>Chakradhar R. Jagganagari</author>
+<author>Vincent Villain</author>
+<title>A Self-stabilizing Link-Cluster Algorithm in Mobile Ad Hoc Networks.</title>
+<pages>436-441</pages>
+<year>2005</year>
+<booktitle>ISPAN</booktitle>
+<crossref>conf/ispan/2005</crossref>
+<url>db/conf/ispan/ispan2005.html#BeinDJV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BeinDV05" mdate="2017-05-25">
+<author>Doina Bein</author>
+<author>Ajoy Kumar Datta</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing Optimal Binary Search Tree.</title>
+<pages>1-17</pages>
+<year>2005</year>
+<crossref>conf/sss/2005</crossref>
+<booktitle>Self-Stabilizing Systems</booktitle>
+<url>db/conf/sss/sss2005.html#BeinDV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BoulinierPV05" mdate="2017-05-25">
+<author>Christian Boulinier</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Synchronous vs. Asynchronous Unison.</title>
+<pages>18-32</pages>
+<year>2005</year>
+<crossref>conf/sss/2005</crossref>
+<booktitle>Self-Stabilizing Systems</booktitle>
+<url>db/conf/sss/sss2005.html#BoulinierPV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/CournierDV05" mdate="2017-05-25">
+<author>Alain Cournier</author>
+<author>Stéphane Devismes</author>
+<author>Vincent Villain</author>
+<title>A Snap-Stabilizing DFS with a Lower Space Requirement.</title>
+<pages>33-47</pages>
+<year>2005</year>
+<crossref>conf/sss/2005</crossref>
+<booktitle>Self-Stabilizing Systems</booktitle>
+<url>db/conf/sss/sss2005.html#CournierDV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/CournierDPV04" mdate="2017-05-17">
+<author>Alain Cournier</author>
+<author>Stéphane Devismes</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing Depth-First Search on Arbitrary Networks.</title>
+<pages>267-282</pages>
+<year>2004</year>
+<crossref>conf/opodis/2004</crossref>
+<booktitle>OPODIS</booktitle>
+<url>db/conf/opodis/opodis2004.html#CournierDPV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/BoulinierPV04" mdate="2018-11-06">
+<author>Christian Boulinier</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>When graph theory helps self-stabilization.</title>
+<pages>150-159</pages>
+<year>2004</year>
+<crossref>conf/podc/2004</crossref>
+<booktitle>PODC</booktitle>
+<url>db/conf/podc/podc2004.html#BoulinierPV04</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/DattaHV03" mdate="2017-05-20">
+<author>Ajoy Kumar Datta</author>
+<author>Rachid Hadid</author>
+<author>Vincent Villain</author>
+<title>A self-stabilizing token-based k-out-of- exclusion algorithm.</title>
+<pages>1069-1091</pages>
+<year>2003</year>
+<volume>15</volume>
+<journal>Concurrency and Computation: Practice and Experience</journal>
+<number>11-12</number>
+<url>db/journals/concurrency/concurrency15.html#DattaHV03</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/CournierDPV03" mdate="2017-05-21">
+<author>Alain Cournier</author>
+<author>Ajoy Kumar Datta</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Enabling Snap-Stabilizatio.</title>
+<pages>12-19</pages>
+<year>2003</year>
+<crossref>conf/icdcs/2003</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs2003.html#CournierDPV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/CaronDPV03" mdate="2017-05-24">
+<author>Eddy Caron</author>
+<author>Frederic Desprez</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>A Hierarchical Resource Reservation Algorithm for Network Enabled.</title>
+<pages>26</pages>
+<year>2003</year>
+<crossref>conf/ipps/2003</crossref>
+<booktitle>IPDPS</booktitle>
+<url>db/conf/ipps/ipdps2003.html#CaronDPV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/DattaHV03" mdate="2017-05-25">
+<author>Ajoy Kumar Datta</author>
+<author>Rachid Hadid</author>
+<author>Vincent Villain</author>
+<title>A New Self-Stabilizing k-out-of-l Exclusion Algorithm on Rings.</title>
+<pages>113-128</pages>
+<year>2003</year>
+<crossref>conf/sss/2003</crossref>
+<booktitle>Self-Stabilizing Systems</booktitle>
+<url>db/conf/sss/sss2003.html#DattaHV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BlinCV03" mdate="2017-05-25">
+<author>Lélia Blin</author>
+<author>Alain Cournier</author>
+<author>Vincent Villain</author>
+<title>An Improved Snap-Stabilizing PIF Algorithm.</title>
+<pages>199-214</pages>
+<year>2003</year>
+<crossref>conf/sss/2003</crossref>
+<booktitle>Self-Stabilizing Systems</booktitle>
+<url>db/conf/sss/sss2003.html#BlinCV03</url>
+</inproceedings>
+</r>
+<r><article key="journals/jpdc/DasDV02" mdate="2019-09-10">
+<author orcid="0000-0002-9471-0868">Sajal K. Das 0001</author>
+<author>Ajoy Kumar Datta</author>
+<author>Vincent Villain</author>
+<title>Special Issue on Self-Stabilizing Distributed Systems - Guest Editors' Introduction.</title>
+<pages>743-744</pages>
+<year>2002</year>
+<volume>62</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<number>5</number>
+<url>db/journals/jpdc/jpdc62.html#DasDV02</url>
+</article>
+</r>
+<r><article key="journals/tsi/NolotV02" mdate="2006-03-03">
+<author>Florent Nolot</author>
+<author>Vincent Villain</author>
+<title>Protocole universel auto-stabilisant de synchronisation d'horloges de phases.</title>
+<pages>735-756</pages>
+<year>2002</year>
+<volume>21</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>5</number>
+<url>db/journals/tsi/tsi21.html#NolotV02</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/DattaHV02" mdate="2017-05-24">
+<author>Ajoy Kumar Datta</author>
+<author>Rachid Hadid</author>
+<author>Vincent Villain</author>
+<title>A Self-stabilizing Token-Based k-out-of-l Exclusion Algorithm.</title>
+<pages>553-562</pages>
+<year>2002</year>
+<crossref>conf/europar/2002</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2002.html#DattaHV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/CournierDPV02" mdate="2019-08-04">
+<author>Alain Cournier</author>
+<author>Ajoy Kumar Datta</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Snap-Stabilizing PIF Algorithm in Arbitrary Networks.</title>
+<pages>199-206</pages>
+<year>2002</year>
+<crossref>conf/icdcs/2002</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs2002.html#CournierDPV02</url>
+</inproceedings>
+</r>
+<r><article key="journals/siu/DattaGPV01" mdate="2011-10-19">
+<author>Ajoy Kumar Datta</author>
+<author>Shivashankar Gurumurthy</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Self-Stabilizing Network Orientation Algorithms In Arbitrary Rooted Networks.</title>
+<pages>1-22</pages>
+<year>2001</year>
+<volume>1</volume>
+<journal>Stud. Inform. Univ.</journal>
+<number>1</number>
+<url>db/journals/siu/siu1.html#DattaGPV01</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/CournierPVD01" mdate="2017-05-21">
+<author>Alain Cournier</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<author>Ajoy Kumar Datta</author>
+<title>Self-Stabilizing PIF Algorithm in Arbitrary Rooted Networks.</title>
+<pages>91-98</pages>
+<year>2001</year>
+<crossref>conf/icdcs/2001</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs2001.html#CournierPVD01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/CantarellDPV01" mdate="2017-05-21">
+<author>Sébastien Cantarell</author>
+<author>Ajoy Kumar Datta</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Token Based Group Mutual Exclusion for Asynchronous Rings.</title>
+<pages>691-694</pages>
+<year>2001</year>
+<crossref>conf/icdcs/2001</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs2001.html#CantarellDPV01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/CournierDPV01" mdate="2004-11-25">
+<author>Alain Cournier</author>
+<author>Ajoy Kumar Datta</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Optimal Snap-Stabilizing PIF in Un-Oriented Trees.</title>
+<pages>71-90</pages>
+<year>2001</year>
+<crossref>conf/opodis/2001</crossref>
+<booktitle>OPODIS</booktitle>
+<url>db/conf/opodis/opodis01.html#CournierDPV01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/CantarellDPV01" mdate="2004-02-02">
+<author>Sébastien Cantarell</author>
+<author>Ajoy Kumar Datta</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Group Mutual Exclusion in Token Rings.</title>
+<pages>61-76</pages>
+<year>2001</year>
+<crossref>conf/sirocco/2001</crossref>
+<booktitle>SIROCCO</booktitle>
+<url>db/conf/sirocco/sirocco2001.html#CantarellDPV01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wss/HadidV01" mdate="2017-05-21">
+<author>Rachid Hadid</author>
+<author>Vincent Villain</author>
+<title>A New Efficient Tool for the Design of Self-Stabilizing l-Exclusion Algorithms: The Controller.</title>
+<pages>136-151</pages>
+<year>2001</year>
+<crossref>conf/wss/2001</crossref>
+<booktitle>WSS</booktitle>
+<url>db/conf/wss/wss2001.html#HadidV01</url>
+</inproceedings>
+</r>
+<r><article key="journals/cai/PetitV00" mdate="2007-05-15">
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Self-stabilizing Depth-first Token Circulation in Asynchronous Message-passing Systems.</title>
+<year>2000</year>
+<volume>19</volume>
+<journal>Computers and Artificial Intelligence</journal>
+<number>5</number>
+<url>db/journals/cai/cai19.html#PetitV00</url>
+</article>
+</r>
+<r><article key="journals/dc/DattaJPV00" mdate="2017-05-28">
+<author>Ajoy Kumar Datta</author>
+<author>Colette Johnen</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Self-stabilizing depth-first token circulation in arbitrary rooted networks.</title>
+<pages>207-218</pages>
+<year>2000</year>
+<volume>13</volume>
+<journal>Distributed Computing</journal>
+<number>4</number>
+<url>db/journals/dc/dc13.html#DattaJPV00</url>
+</article>
+</r>
+<r><article key="journals/ppl/PetitV00" mdate="2012-09-14">
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Optimality and Self-Stabilization in Rooted Tree Networks.</title>
+<pages>3-14</pages>
+<year>2000</year>
+<volume>10</volume>
+<journal>Parallel Processing Letters</journal>
+<number>1</number>
+<url>db/journals/ppl/ppl10.html#PetitV00</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/DattaGPV00" mdate="2017-05-21">
+<author>Ajoy Kumar Datta</author>
+<author>Shivashankar Gurumurthy</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Self-Stabilizing Network Orientation Algorithms in Arbitrary Rooted Networks.</title>
+<pages>576-583</pages>
+<year>2000</year>
+<crossref>conf/icdcs/2000</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs2000.html#DattaGPV00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/NolotV00" mdate="2017-05-24">
+<author>Florent Nolot</author>
+<author>Vincent Villain</author>
+<title>Limits and Power of the Simplest Uniform and Self-Stabilizing Phase Clock Algorithm.</title>
+<pages>541-546</pages>
+<year>2000</year>
+<crossref>conf/ipps/2000</crossref>
+<booktitle>IPDPS</booktitle>
+<url>db/conf/ipps/ipdps2000.html#NolotV00</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppl/PetitV99" mdate="2017-05-17">
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Optimality and Self-Stabilization in Rooted Tree Networks.</title>
+<pages>313-323</pages>
+<year>1999</year>
+<volume>9</volume>
+<journal>Parallel Processing Letters</journal>
+<number>3</number>
+<url>db/journals/ppl/ppl9.html#PetitV99</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipccc/BuiDPV99" mdate="2017-05-19">
+<author>Alain Bui</author>
+<author>Ajoy Kumar Datta</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Space optimal PIF algorithm: self-stabilized with no extra space.</title>
+<pages>20-26</pages>
+<year>1999</year>
+<crossref>conf/ipccc/1999</crossref>
+<booktitle>IPCCC</booktitle>
+<url>db/conf/ipccc/ipccc1999.html#BuiDPV99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/BuiDPV99" mdate="2003-11-18">
+<author>Alain Bui</author>
+<author>Ajoy Kumar Datta</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Snpa-Stabilizing PIF Algorithm in Trees.</title>
+<pages>32-46</pages>
+<year>1999</year>
+<crossref>conf/sirocco/1999</crossref>
+<booktitle>SIROCCO</booktitle>
+<url>db/conf/sirocco/sirocco1999.html#BuiDPV99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdas/BuiDPV99" mdate="2004-01-07">
+<author>Alain Bui</author>
+<author>Ajoy Kumar Datta</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Optimal PIF in Tree Networks.</title>
+<pages>1-16</pages>
+<year>1999</year>
+<crossref>conf/wdas/1999</crossref>
+<booktitle>WDAS</booktitle>
+<url>db/conf/wdas/wdas1999.html#BuiDPV99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdas/PetitV99" mdate="2004-01-07">
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Time and Space Optimality of Distributed Depth-First Token Circulation Algorithms.</title>
+<pages>91-106</pages>
+<year>1999</year>
+<crossref>conf/wdas/1999</crossref>
+<booktitle>WDAS</booktitle>
+<url>db/conf/wdas/wdas1999.html#PetitV99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdas/Villain99" mdate="2004-01-07">
+<author>Vincent Villain</author>
+<title>A Key Tool for Optimality in the State Model.</title>
+<pages>133-148</pages>
+<year>1999</year>
+<crossref>conf/wdas/1999</crossref>
+<booktitle>WDAS</booktitle>
+<url>db/conf/wdas/wdas1999.html#Villain99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wss/BuiDPV99" mdate="2002-12-30">
+<author>Alain Bui</author>
+<author>Ajoy Kumar Datta</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>State-optimal snap-stabilizing PIF in tree networks.</title>
+<pages>78-85</pages>
+<year>1999</year>
+<crossref>conf/wss/1999</crossref>
+<booktitle>WSS</booktitle>
+<url>db/conf/wss/wss1999.html#BuiDPV99</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/opodis/1998" mdate="2004-01-20">
+<editor>Alain Bui</editor>
+<editor>Vincent Villain</editor>
+<title>Distributed Computing, 2nd International Conference On Principles Of Distributed Systems. OPODIS 98, Amiens, France, December 16-18, 1998</title>
+<booktitle>OPODIS</booktitle>
+<publisher>Hermes</publisher>
+<isbn>2-86601-737-4</isbn>
+<url>db/conf/opodis/opodis98.html</url>
+<year>1999</year>
+</proceedings>
+</r>
+<r><inproceedings key="conf/sirocco/DattaJPV98" mdate="2003-11-18">
+<author>Ajoy Kumar Datta</author>
+<author>Colette Johnen</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Self-stabilizing depth-first token circulation in arbitrary rooted networks.</title>
+<pages>229-243</pages>
+<year>1998</year>
+<crossref>conf/sirocco/1998</crossref>
+<booktitle>SIROCCO</booktitle>
+<url>db/conf/sirocco/sirocco1998.html#DattaJPV98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/PetitV97" mdate="2017-05-23">
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>A Space-Efficient and Self-Stabilizing Depth-First Token Circulation Protocol for Asynchronous Message-Passing Systems (Short Version).</title>
+<pages>476-479</pages>
+<year>1997</year>
+<crossref>conf/europar/1997</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar97.html#PetitV97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispan/FlauzacV97" mdate="2017-05-26">
+<author>Olivier Flauzac</author>
+<author>Vincent Villain</author>
+<title>An Implementable Dynamic Automatic Self-Stabilizing Protocol.</title>
+<pages>91-97</pages>
+<year>1997</year>
+<crossref>conf/ispan/1997</crossref>
+<booktitle>ISPAN</booktitle>
+<url>db/conf/ispan/ispan1997.html#FlauzacV97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispan/PetitV97" mdate="2017-05-26">
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Color Optimal Self-Stabilizing Depth-First Token Circulation.</title>
+<pages>317-323</pages>
+<year>1997</year>
+<crossref>conf/ispan/1997</crossref>
+<booktitle>ISPAN</booktitle>
+<url>db/conf/ispan/ispan1997.html#PetitV97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/BuiBV97" mdate="2004-01-26">
+<author>Alain Bui</author>
+<author>Marc Bui</author>
+<author>Vincent Villain</author>
+<title>Preface.</title>
+<pages>7</pages>
+<year>1997</year>
+<crossref>conf/opodis/1997</crossref>
+<booktitle>OPODIS</booktitle>
+<url>db/conf/opodis/opodis97.html#BuiBV97</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/opodis/1997" mdate="2004-01-26">
+<editor>Alain Bui</editor>
+<editor>Marc Bui</editor>
+<editor>Vincent Villain</editor>
+<title>On Principles Of Distributed Systems, Proceedings of the 1997 International Conference, Chantilly, France, December 10-12, 1997</title>
+<booktitle>OPODIS</booktitle>
+<publisher>Hermes</publisher>
+<isbn>2-86601-659-9</isbn>
+<url>db/conf/opodis/opodis97.html</url>
+<year>1997</year>
+</proceedings>
+</r>
+<r><article key="journals/ppl/GastinV93" mdate="2017-05-17">
+<author>Paul Gastin</author>
+<author>Vincent Villain</author>
+<title>An Efficient Crash-tolerant Sequential Traversal.</title>
+<pages>87-97</pages>
+<year>1993</year>
+<volume>3</volume>
+<journal>Parallel Processing Letters</journal>
+<url>db/journals/ppl/ppl3.html#GastinV93</url>
+</article>
+</r>
+<r><inproceedings key="conf/wdag/BeauquierGV90" mdate="2017-05-19">
+<author>Joffroy Beauquier</author>
+<author>Paul Gastin</author>
+<author>Vincent Villain</author>
+<title>A Linear Fault-Tolerant Naming Algorithm.</title>
+<pages>57-70</pages>
+<year>1990</year>
+<crossref>conf/wdag/1990</crossref>
+<booktitle>WDAG</booktitle>
+<url>db/conf/wdag/wdag90.html#BeauquierGV90</url>
+</inproceedings>
+</r>
+<coauthors n="31" nc="1">
+<co c="0"><na f="b/Beauquier:Joffroy">Joffroy Beauquier</na></co>
+<co c="0"><na f="b/Bein:Doina">Doina Bein</na></co>
+<co c="0"><na f="b/Blin:L=eacute=lia">Lélia Blin</na></co>
+<co c="0"><na f="b/Boulinier:Christian">Christian Boulinier</na></co>
+<co c="0"><na f="b/Bui:Alain">Alain Bui</na></co>
+<co c="0"><na f="b/Bui:Marc">Marc Bui</na></co>
+<co c="0"><na f="c/Cantarell:S=eacute=bastien">Sébastien Cantarell</na></co>
+<co c="0"><na f="c/Caron:Eddy">Eddy Caron</na></co>
+<co c="0"><na f="c/Cournier:Alain">Alain Cournier</na></co>
+<co c="0"><na f="d/Das_0001:Sajal_K=">Sajal K. Das 0001</na></co>
+<co c="0" n="2"><na f="d/Datta:Ajoy_K=">Ajoy K. Datta</na><na>Ajoy Kumar Datta</na></co>
+<co c="0"><na f="d/D=eacute=fago:Xavier">Xavier Défago</na></co>
+<co c="0" n="2"><na f="d/Desprez:Fr=eacute=d=eacute=ric">Frédéric Desprez</na><na>Frederic Desprez</na></co>
+<co c="0"><na f="d/Devismes:St=eacute=phane">Stéphane Devismes</na></co>
+<co c="0"><na f="d/Dieudonn=eacute=:Yoann">Yoann Dieudonné</na></co>
+<co c="0"><na f="d/Dubois:Swan">Swan Dubois</na></co>
+<co c="0"><na f="f/Flauzac:Olivier">Olivier Flauzac</na></co>
+<co c="0"><na f="g/Gastin:Paul">Paul Gastin</na></co>
+<co c="0"><na f="g/Gurumurthy:Shivashankar">Shivashankar Gurumurthy</na></co>
+<co c="0"><na f="h/Hadid:Rachid">Rachid Hadid</na></co>
+<co c="0"><na f="j/Jagganagari:Chakradhar_R=">Chakradhar R. Jagganagari</na></co>
+<co c="0"><na f="j/Johnen:Colette">Colette Johnen</na></co>
+<co c="0"><na f="k/Karaata:Mehmet_Hakan">Mehmet Hakan Karaata</na></co>
+<co c="0"><na f="l/Lamani:Anissa">Anissa Lamani</na></co>
+<co c="0"><na f="l/Larmore:Lawrence_L=">Lawrence L. Larmore</na></co>
+<co c="0"><na f="l/Lev=eacute=:Florence">Florence Levé</na></co>
+<co c="0"><na f="m/Mohamed:Khaled">Khaled Mohamed</na></co>
+<co c="0"><na f="n/Nolot:Florent">Florent Nolot</na></co>
+<co c="0"><na f="p/Pelc:Andrzej">Andrzej Pelc</na></co>
+<co c="0"><na f="p/Petit:Franck">Franck Petit</na></co>
+<co c="0"><na f="r/Rovedakis:Stephane">Stephane Rovedakis</na></co>
+</coauthors>
+</dblpperson>
+

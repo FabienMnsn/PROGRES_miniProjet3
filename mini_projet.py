@@ -390,13 +390,42 @@ def confdetail(name):
 
 
 
-@bottle.route("auteur/Conference/Voyages/<name>")
+@bottle.route("/auteur/Conference/Voyages/<name>")
 @bottle.view("page.tpl")
 def conference_voyage(name):
-
+    name_split = name.split("_")
+    #inversion nom et prenom pour lancer la recherche
+    name_h = name_split[0].replace('+', "_")
+    author_name = name_split[1]+" "+name_h
     
-     return {"title":"Test","body":"Test"}
+    file_name = author_name+".xml"
+    status = telecharge(author_name)
+    if(status=="ok"):
+        tab=utils_xml.conf_voyages("Auteurs/"+file_name)
+        gps = utils_xml.address_to_gps(tab)
+    elif(status=="erreur homonymes"):
+        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+    else:
+        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
+    sumX = 0
+    sumY = 0
+    for elem in gps:
+        sumX += elem[1][0]
+        sumY += elem[1][1]
 
+    zoomX = sumX/len(gps)
+    zoomY = sumY/len(gps)
+    # un element du tableau gps : [['Budapest', 'Hungary'], [47.4983815, 19.0404707], 'DISC', '2019']
+    map = folium.Map(location=[zoomX, zoomY], zoom_start=2)
+    for elem in gps:
+        conf_name = elem[2]
+        ville = elem[0][0]
+        annee = elem[3]
+        #print(conf_name, ville, annee)
+        folium.Marker(elem[1],
+            popup=conf_name+' '+ville+' '+annee).add_to(map)
+    body = map.get_root().render()
+    return { "title":"Carte des lieux de conférence de : "+author_name, "body":body}
 
 
 @bottle.route("/auteur/coauthors/<name>")

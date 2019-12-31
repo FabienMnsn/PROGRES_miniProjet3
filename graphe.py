@@ -62,11 +62,10 @@ def draw_graph_2membres(author_name1, author_name2):
 		node_labels = {}
 		nodes_size = []
 		edges = []
-		edges_color = []
 		list_coaut1 = links_dico[author_name1]
 		list_coaut2 = links_dico[author_name2]
-		#print(list_coaut1)
-		#print(list_coaut2)
+		print(author_name1, list_coaut1)
+		print(author_name2, list_coaut2)
 		for key in links_dico.keys():
 			if(key == author_name1):
 				node_labels[author_name1] = author_name1.replace(' ', '\n')
@@ -91,19 +90,18 @@ def draw_graph_2membres(author_name1, author_name2):
 
 		for elem in list_coaut1:
 			edges.append((author_name1, elem))
-			edges_color.append("red")
 
 		for elem in list_coaut2:
 			edges.append((author_name2, elem))
-			edges_color.append("orange")
 
 		G.add_edges_from(edges)
 		plt.figure(figsize=(15,8))
-		nx.draw_random(G, node_size=nodes_size, with_labels=True, labels=node_labels, node_color=color, edge_color=edges_color, font_size=8, font_weight='bold')
+		nx.draw_random(G, node_size=nodes_size, with_labels=True, labels=node_labels, node_color=color, font_size=8, font_weight='bold')
 		plt.savefig("graphe2.png", dpi=200)
 		#plt.show()
 	else:
 		print("ERROR : incorrect name authors")
+		#os.remove("graphe2.png")
 
 
 def draw_graph_all():
@@ -139,7 +137,7 @@ def draw_graph_all():
 if __name__ == '__main__':
 
 
-	#draw_graph_2membres("Auteurs/lip6.xml", get_links("Auteurs/lip6.xml"), "Swan Dubois", "Sébastien Tixeuil")
-	draw_graph_all(get_links("Auteurs/lip6.xml"))
+	draw_graph_2membres("Vincent Guigue", "Swan Dubois")
+	#draw_graph_all(get_links("Auteurs/lip6.xml"))
 	#print(liste_lip6("Auteurs/lip6.xml"))
 	#http://doc.sagemath.org/html/en/reference/graphs/sage/graphs/graph.html#graph-format

@@ -495,11 +495,29 @@ def lip6():
     return static_file("grapheAll.png", root="")
 
 
-@bottle.route("/LIP6_2")
+@bottle.route("/LIP6/auteurs")
 @bottle.view("page.tpl")
-def lip6():
-    graphe.draw_graph_all()
-    #return static_file("grapheAll.png", root="")
+def lip6_v2():
+    stri = """
+    <form align='center' method='post' action='Graphe'>
+    <input type='text' name='auteur1' placeholder='Prénom Nom'/>
+    <input type='text' name='auteur2' placeholder='Prénom Nom'/>
+    <input type='submit' value='Générer'/>
+    </form>
+    """
+    return {"title":"Saisissez deux auteurs :", "body":stri}
+    #graphe.draw_graph_all()
+    
+
+
+@bottle.route("/LIP6/Graphe", method='POST')
+@bottle.view("page.tpl")
+def Graphe():
+    auteur1 = bottle.request.forms.auteur1
+    auteur2 = bottle.request.forms.auteur2
+    print(auteur1, auteur2)
+    graphe.draw_graph_2membres(auteur1, auteur2)
+    return static_file("graphe2.png", root="")
 
 
 

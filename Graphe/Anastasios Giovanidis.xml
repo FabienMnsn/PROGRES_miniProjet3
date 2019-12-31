@@ -1,0 +1,538 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Anastasios Giovanidis" n="42">
+<person key="homepages/69/2663" mdate="2018-03-12">
+<author>Anastasios Giovanidis</author>
+<url>https://orcid.org/0000-0002-7121-4802</url>
+</person>
+<r><inproceedings key="conf/infocom/GiovanidisBV19" mdate="2019-09-25">
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Bruno Baynat</author>
+<author>Antoine Vendeville</author>
+<title>Performance Analysis of Online Social Platforms.</title>
+<pages>2413-2421</pages>
+<year>2019</year>
+<booktitle>INFOCOM</booktitle>
+<crossref>conf/infocom/2019</crossref>
+<url>db/conf/infocom/infocom2019.html#GiovanidisBV19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/gamenets/2019" mdate="2019-09-25">
+<editor>Konstantin Avrachenkov</editor>
+<editor>Longbo Huang</editor>
+<editor>Jason R. Marden</editor>
+<editor>Marceau Coupechoux</editor>
+<editor orcid="0000-0002-7121-4802">Anastasios Giovanidis</editor>
+<title>Game Theory for Networks - 8th International EAI Conference, GameNets 2019, Paris, France, April 25-26, 2019, Proceedings</title>
+<booktitle>GAMENETS</booktitle>
+<publisher>Springer</publisher>
+<year>2019</year>
+<series href="db/series/lnicst/index.html">Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering</series>
+<volume>277</volume>
+<isbn>978-3-030-16988-6</isbn>
+<isbn>978-3-030-16989-3</isbn>
+<url>db/conf/gamenets/gamenets2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-07187" mdate="2019-05-21">
+<author>Anastasios Giovanidis</author>
+<author>Bruno Baynat</author>
+<author>Antoine Vendeville</author>
+<title>Performance Analysis of Online Social Platforms.</title>
+<year>2019</year>
+<volume>abs/1902.07187</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.07187</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-07187</url>
+</article>
+</r>
+<r><article key="journals/cn/JarrayG18" mdate="2019-09-16">
+<author>Chedia Jarray</author>
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<title>Successful file transmission in mobile D2D networks with caches.</title>
+<pages>162-179</pages>
+<year>2018</year>
+<volume>147</volume>
+<journal>Computer Networks</journal>
+<url>db/journals/cn/cn147.html#JarrayG18</url>
+</article>
+</r>
+<r><article key="journals/jsac/KrolikowskiGR18" mdate="2018-11-02">
+<author orcid="0000-0001-7687-2495">Jonatan Krolikowski</author>
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author orcid="0000-0003-0772-8793">Marco Di Renzo</author>
+<title>A Decomposition Framework for Optimal Edge-Cache Leasing.</title>
+<pages>1345-1359</pages>
+<year>2018</year>
+<volume>36</volume>
+<journal>IEEE Journal on Selected Areas in Communications</journal>
+<number>6</number>
+<url>db/journals/jsac/jsac36.html#KrolikowskiGR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/infocom/KrolikowskiGR18" mdate="2019-09-16">
+<author>Jonatan Krolikowski</author>
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Marco Di Renzo</author>
+<title>Optimal Cache Leasing from a Mobile Network Operator to a Content Provider.</title>
+<pages>2744-2752</pages>
+<year>2018</year>
+<booktitle>INFOCOM</booktitle>
+<crossref>conf/infocom/2018</crossref>
+<url>db/conf/infocom/infocom2018.html#KrolikowskiGR18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-08018" mdate="2018-08-13">
+<author>Jonatan Krolikowski</author>
+<author>Anastasios Giovanidis</author>
+<author>Marco Di Renzo</author>
+<title>Optimal Cache Leasing from a Mobile Network Operator to a Content Provider.</title>
+<year>2018</year>
+<volume>abs/1801.08018</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.08018</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-08018</url>
+</article>
+</r>
+<r><inproceedings key="conf/wiopt/Alvarez-Corrales17" mdate="2018-11-30">
+<author>Luis David Alvarez Corrales</author>
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Philippe Martins</author>
+<author orcid="0000-0002-8964-0957">Laurent Decreusefond</author>
+<title>Wireless node cooperation with resource availability constraints.</title>
+<pages>1-8</pages>
+<year>2017</year>
+<booktitle>WiOpt</booktitle>
+<crossref>conf/wiopt/2017</crossref>
+<url>db/conf/wiopt/wiopt2017.html#Alvarez-Corrales17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiopt/KrolikowskiGR17" mdate="2018-11-30">
+<author orcid="0000-0001-7687-2495">Jonatan Krolikowski</author>
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Marco Di Renzo</author>
+<title>Fair distributed user-traffic association in cache equipped cellular networks.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>WiOpt</booktitle>
+<crossref>conf/wiopt/2017</crossref>
+<url>db/conf/wiopt/wiopt2017.html#KrolikowskiGR17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CorralesGMD17" mdate="2018-08-13">
+<author>Luis David Alvarez Corrales</author>
+<author>Anastasios Giovanidis</author>
+<author>Philippe Martins</author>
+<author>Laurent Decreusefond</author>
+<title>Wireless Node Cooperation with Resource Availability Constraints.</title>
+<year>2017</year>
+<volume>abs/1703.00849</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.00849</ee>
+<url>db/journals/corr/corr1703.html#CorralesGMD17</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/CorralesGM16" mdate="2017-06-15">
+<author>Luis David Alvarez Corrales</author>
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Philippe Martins</author>
+<title>Coverage Gains from the Static Cooperation of Mutually Nearest Neighbours.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>GLOBECOM</booktitle>
+<crossref>conf/globecom/2016</crossref>
+<url>db/conf/globecom/globecom2016.html#CorralesGM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/istc/AvranasG16" mdate="2017-06-15">
+<author>Apostolos Avranas</author>
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<title>Performance of spatial Multi-LRU caching under traffic with temporal locality.</title>
+<pages>345-349</pages>
+<year>2016</year>
+<booktitle>ISTC</booktitle>
+<crossref>conf/istc/2016</crossref>
+<url>db/conf/istc/istc2016.html#AvranasG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/GiovanidisA16" mdate="2018-11-06">
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Apostolos Avranas</author>
+<title>Spatial Multi-LRU Caching for Wireless Networks with Coverage Overlaps.</title>
+<pages>403-405</pages>
+<year>2016</year>
+<booktitle>SIGMETRICS</booktitle>
+<crossref>conf/sigmetrics/2016</crossref>
+<url>db/conf/sigmetrics/sigmetrics2016.html#GiovanidisA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiopt/JarrayG16" mdate="2017-06-15">
+<author>Chedia Jarray</author>
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<title>The effects of mobility on the hit performance of cached D2D networks.</title>
+<pages>477-484</pages>
+<year>2016</year>
+<booktitle>WiOpt</booktitle>
+<crossref>conf/wiopt/2016</crossref>
+<url>db/conf/wiopt/wiopt2016.html#JarrayG16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Giovanidis16" mdate="2018-08-13">
+<author>Anastasios Giovanidis</author>
+<title>How to group wireless nodes together?</title>
+<year>2016</year>
+<volume>abs/1602.03906</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.03906</ee>
+<url>db/journals/corr/corr1602.html#Giovanidis16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GiovanidisA16" mdate="2018-08-13">
+<author>Anastasios Giovanidis</author>
+<author>Apostolos Avranas</author>
+<title>Spatial multi-LRU Caching for Wireless Networks with Coverage Overlaps.</title>
+<year>2016</year>
+<volume>abs/1602.07623</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.07623</ee>
+<url>db/journals/corr/corr1602.html#GiovanidisA16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/JarrayG16" mdate="2018-08-13">
+<author>Chedia Jarray</author>
+<author>Anastasios Giovanidis</author>
+<title>The Effects of Mobility on the Hit Performance of Cached D2D Networks.</title>
+<year>2016</year>
+<volume>abs/1603.02927</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.02927</ee>
+<url>db/journals/corr/corr1603.html#JarrayG16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CorralesGM16" mdate="2018-08-13">
+<author>Luis David Alvarez Corrales</author>
+<author>Anastasios Giovanidis</author>
+<author>Philippe Martins</author>
+<title>Coverage Gains from the Static Cooperation of Mutually Nearest Neighbours.</title>
+<year>2016</year>
+<volume>abs/1604.04640</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.04640</ee>
+<url>db/journals/corr/corr1604.html#CorralesGM16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AvranasG16" mdate="2018-08-13">
+<author>Apostolos Avranas</author>
+<author>Anastasios Giovanidis</author>
+<title>Performance of spatial Multi-LRU caching under traffic with temporal locality.</title>
+<year>2016</year>
+<volume>abs/1606.09206</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.09206</ee>
+<url>db/journals/corr/corr1606.html#AvranasG16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KrolikowskiGR16" mdate="2018-08-13">
+<author>Jonatan Krolikowski</author>
+<author>Anastasios Giovanidis</author>
+<author>Marco Di Renzo</author>
+<title>Fair distributed user-traffic association in cache equipped cellular networks.</title>
+<year>2016</year>
+<volume>abs/1610.03727</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.03727</ee>
+<url>db/journals/corr/corr1610.html#KrolikowskiGR16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CorralesGMD16" mdate="2018-08-13">
+<author>Luis David Alvarez Corrales</author>
+<author>Anastasios Giovanidis</author>
+<author>Philippe Martins</author>
+<author>Laurent Decreusefond</author>
+<title>Analysis of Static Cellular Cooperation between Mutually Nearest Neighboring Nodes.</title>
+<year>2016</year>
+<volume>abs/1611.02614</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.02614</ee>
+<url>db/journals/corr/corr1611.html#CorralesGMD16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GiovanidisA16a" mdate="2018-08-13">
+<author>Anastasios Giovanidis</author>
+<author>Apostolos Avranas</author>
+<title>Spatial multi-LRU: Distributed Caching for Wireless Networks with Coverage Overlaps.</title>
+<year>2016</year>
+<volume>abs/1612.04363</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.04363</ee>
+<url>db/journals/corr/corr1612.html#GiovanidisA16a</url>
+</article>
+</r>
+<r><article key="journals/twc/BaccelliG15" mdate="2017-06-09">
+<author>François Baccelli</author>
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<title>A Stochastic Geometry Framework for Analyzing Pairwise-Cooperative Cellular Networks.</title>
+<pages>794-808</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>IEEE Trans. Wireless Communications</journal>
+<number>2</number>
+<url>db/journals/twc/twc14.html#BaccelliG15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/BlaszczyszynG15" mdate="2017-06-04">
+<author>Bartlomiej Blaszczyszyn</author>
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<title>Optimal geographic caching in cellular networks.</title>
+<pages>3358-3363</pages>
+<year>2015</year>
+<booktitle>ICC</booktitle>
+<crossref>conf/icc/2015</crossref>
+<url>db/conf/icc/icc2015.html#BlaszczyszynG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiopt/GiovanidisCD15" mdate="2018-11-02">
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Luis David Alvarez Corrales</author>
+<author orcid="0000-0002-8964-0957">Laurent Decreusefond</author>
+<title>Analyzing interference from static cellular cooperation using the Nearest Neighbour Model.</title>
+<pages>576-583</pages>
+<year>2015</year>
+<booktitle>WiOpt</booktitle>
+<crossref>conf/wiopt/2015</crossref>
+<url>db/conf/wiopt/wiopt2015.html#GiovanidisCD15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GiovanidisCD15" mdate="2018-08-13">
+<author>Anastasios Giovanidis</author>
+<author>Luis David Alvarez Corrales</author>
+<author>Laurent Decreusefond</author>
+<title>Analyzing Interference from Static Cellular Cooperation using the Nearest Neighbour Model.</title>
+<year>2015</year>
+<volume>abs/1502.00033</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1502.00033</ee>
+<url>db/journals/corr/corr1502.html#GiovanidisCD15</url>
+</article>
+</r>
+<r><article key="journals/winet/GiovanidisLS14" mdate="2017-06-09">
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Qi Liao</author>
+<author>Slawomir Stanczak</author>
+<title>Measurement-adaptive cellular random access protocols.</title>
+<pages>1495-1514</pages>
+<year>2014</year>
+<volume>20</volume>
+<journal>Wireless Networks</journal>
+<number>6</number>
+<url>db/journals/winet/winet20.html#GiovanidisLS14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BlaszczyszynG14" mdate="2018-08-13">
+<author>Bartlomiej Blaszczyszyn</author>
+<author>Anastasios Giovanidis</author>
+<title>Optimal Geographic Caching In Cellular Networks.</title>
+<year>2014</year>
+<volume>abs/1409.7626</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1409.7626</ee>
+<url>db/journals/corr/corr1409.html#BlaszczyszynG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/acssc/BaccelliG13" mdate="2017-05-29">
+<author>François Baccelli</author>
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<title>Coverage by pairwise base station cooperation under adaptive geometric policies.</title>
+<pages>748-753</pages>
+<year>2013</year>
+<booktitle>ACSSC</booktitle>
+<crossref>conf/acssc/2013</crossref>
+<url>db/conf/acssc/acssc2013.html#BaccelliG13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1305-6254" mdate="2018-08-13">
+<author>Anastasios Giovanidis</author>
+<author>François Baccelli</author>
+<title>A Stochastic Geometry Framework for Analyzing Pairwise-Cooperative Cellular Networks</title>
+<ee type="oa">http://arxiv.org/abs/1305.6254</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1305.6254</volume>
+<url>db/journals/corr/corr1305.html#abs-1305-6254</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BaccelliG13" mdate="2018-08-13">
+<author>François Baccelli</author>
+<author>Anastasios Giovanidis</author>
+<title>Coverage by Pairwise Base Station Cooperation under Adaptive Geometric Policies.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1311.5362</ee>
+<volume>abs/1311.5362</volume>
+<url>db/journals/corr/corr1311.html#BaccelliG13</url>
+</article>
+</r>
+<r><inproceedings key="conf/wcnc/GiovanidisKB12" mdate="2018-11-02">
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author orcid="0000-0001-7687-2495">Jonatan Krolikowski</author>
+<author>Stefan Brueck</author>
+<title>A 0-1 program to form minimum cost clusters in the downlink of cooperating base stations.</title>
+<pages>940-945</pages>
+<year>2012</year>
+<booktitle>WCNC</booktitle>
+<crossref>conf/wcnc/2012</crossref>
+<url>db/conf/wcnc/wcnc2012.html#GiovanidisKB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsa/GiovanidisLS12" mdate="2017-06-05">
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Qi Liao</author>
+<author>Slawomir Stanczak</author>
+<title>A distributed interference-aware load balancing algorithm for LTE multi-cell networks.</title>
+<pages>28-35</pages>
+<year>2012</year>
+<booktitle>WSA</booktitle>
+<crossref>conf/wsa/2012</crossref>
+<url>db/conf/wsa/wsa2012.html#GiovanidisLS12</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcom/GiovanidisS11" mdate="2017-06-08">
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Slawomir Stanczak</author>
+<title>Stability and Distributed Power Control in MANETs with Per Hop Retransmissions.</title>
+<pages>1632-1643</pages>
+<year>2011</year>
+<volume>59</volume>
+<journal>IEEE Trans. Communications</journal>
+<number>6</number>
+<url>db/journals/tcom/tcom59.html#GiovanidisS11</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1107-1158" mdate="2018-08-13">
+<author>Anastasios Giovanidis</author>
+<author>Qi Liao</author>
+<author>Slawomir Stanczak</author>
+<title>Measurement Based Self-Optimization in Random Access Communications</title>
+<ee type="oa">http://arxiv.org/abs/1107.1158</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1107.1158</volume>
+<url>db/journals/corr/corr1107.html#abs-1107-1158</url>
+</article>
+</r>
+<r><article key="journals/twc/GiovanidisWB09" mdate="2017-06-09">
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Gerhard Wunder</author>
+<author>Jörg Bühler</author>
+<title>Optimal control of a single queue with retransmissions: delaydropping tradeoffs.</title>
+<pages>3736-3746</pages>
+<year>2009</year>
+<volume>8</volume>
+<journal>IEEE Trans. Wireless Communications</journal>
+<number>7</number>
+<url>db/journals/twc/twc8.html#GiovanidisWB09</url>
+</article>
+</r>
+<r><inproceedings key="conf/wiopt/GiovanidisS09" mdate="2017-06-15">
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Slawomir Stanczak</author>
+<title>Retransmission aware congestion control and distributed power allocation in MANETs.</title>
+<pages>1-10</pages>
+<year>2009</year>
+<booktitle>WiOpt</booktitle>
+<crossref>conf/wiopt/2009</crossref>
+<url>db/conf/wiopt/wiopt2009.html#GiovanidisS09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0902-3979" mdate="2018-08-13">
+<author>Anastasios Giovanidis</author>
+<author>Gerhard Wunder</author>
+<author>Jörg Bühler</author>
+<title>Optimal Control of a Single Queue with Retransmissions: Delay-Dropping Tradeoffs</title>
+<ee type="oa">http://arxiv.org/abs/0902.3979</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0902.3979</volume>
+<url>db/journals/corr/corr0902.html#abs-0902-3979</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0908-2542" mdate="2018-08-13">
+<author>Anastasios Giovanidis</author>
+<author>Slawomir Stanczak</author>
+<title>Stability and Distributed Power Control in MANETs with Outages and Retransmissions</title>
+<ee type="oa">http://arxiv.org/abs/0908.2542</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0908.2542</volume>
+<url>db/journals/corr/corr0908.html#abs-0908-2542</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciss/GiovanidisWBS08" mdate="2017-06-02">
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Gerhard Wunder</author>
+<author>Holger Boche</author>
+<author>Stoycho Stefanov</author>
+<title>Optimal control of transmission errors with power allocation and stability in ARQ downlink.</title>
+<pages>407-412</pages>
+<year>2008</year>
+<booktitle>CISS</booktitle>
+<crossref>conf/ciss/2008</crossref>
+<url>db/conf/ciss/ciss2008.html#GiovanidisWBS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/GiovanidisSMK07" mdate="2018-11-30">
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author orcid="0000-0003-3511-2662">Aydin Sezgin</author>
+<author>Ullrich J. Münich</author>
+<author>Donghee Kim</author>
+<title>Dynamic User Grouping and Shared Frequency Resource Assignment Strategies for OFDMA.</title>
+<pages>2746-2750</pages>
+<year>2007</year>
+<crossref>conf/vtc/2007s</crossref>
+<booktitle>VTC Spring</booktitle>
+<url>db/conf/vtc/vtc2007s.html#GiovanidisSMK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/GiovanidisHJK07" mdate="2017-06-15">
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Thomas Haustein</author>
+<author orcid="0000-0001-7893-8435">Eduard A. Jorswieck</author>
+<author>Donghee Kim</author>
+<title>Maximization of the Single User Rate in OFDMA Assuming Equal Power on Allocated Subcarriers.</title>
+<pages>2751-2755</pages>
+<year>2007</year>
+<crossref>conf/vtc/2007s</crossref>
+<booktitle>VTC Spring</booktitle>
+<url>db/conf/vtc/vtc2007s.html#GiovanidisHJK07</url>
+</inproceedings>
+</r>
+<coauthors n="27" nc="4">
+<co c="1"><na f="a/Avrachenkov:Konstantin">Konstantin Avrachenkov</na></co>
+<co c="-1"><na f="a/Avranas:Apostolos">Apostolos Avranas</na></co>
+<co c="3"><na f="b/Baccelli:Fran=ccedil=ois">François Baccelli</na></co>
+<co c="1"><na f="b/Baynat:Bruno">Bruno Baynat</na></co>
+<co c="3"><na f="b/Blaszczyszyn:Bartlomiej">Bartlomiej Blaszczyszyn</na></co>
+<co c="0"><na f="b/Boche:Holger">Holger Boche</na></co>
+<co c="2"><na f="b/Brueck:Stefan">Stefan Brueck</na></co>
+<co c="0"><na f="b/B=uuml=hler:J=ouml=rg">Jörg Bühler</na></co>
+<co c="1"><na f="c/Corrales:Luis_David_Alvarez">Luis David Alvarez Corrales</na></co>
+<co c="1"><na f="c/Coupechoux:Marceau">Marceau Coupechoux</na></co>
+<co c="1"><na f="d/Decreusefond:Laurent">Laurent Decreusefond</na></co>
+<co c="0"><na f="h/Haustein:Thomas">Thomas Haustein</na></co>
+<co c="1"><na f="h/Huang:Longbo">Longbo Huang</na></co>
+<co c="-1"><na f="j/Jarray:Chedia">Chedia Jarray</na></co>
+<co c="0"><na f="j/Jorswieck:Eduard_A=">Eduard A. Jorswieck</na></co>
+<co c="0"><na f="k/Kim:Donghee">Donghee Kim</na></co>
+<co c="2"><na f="k/Krolikowski:Jonatan">Jonatan Krolikowski</na></co>
+<co c="0"><na f="l/Liao:Qi">Qi Liao</na></co>
+<co c="1"><na f="m/Marden:Jason_R=">Jason R. Marden</na></co>
+<co c="1"><na f="m/Martins:Philippe">Philippe Martins</na></co>
+<co c="0"><na f="m/M=uuml=nich:Ullrich_J=">Ullrich J. Münich</na></co>
+<co c="2"><na f="r/Renzo:Marco_Di">Marco Di Renzo</na></co>
+<co c="0"><na f="s/Sezgin:Aydin">Aydin Sezgin</na></co>
+<co c="0"><na f="s/Stanczak:Slawomir">Slawomir Stanczak</na></co>
+<co c="0"><na f="s/Stefanov:Stoycho">Stoycho Stefanov</na></co>
+<co c="1"><na f="v/Vendeville:Antoine">Antoine Vendeville</na></co>
+<co c="0"><na f="w/Wunder:Gerhard">Gerhard Wunder</na></co>
+</coauthors>
+</dblpperson>
+

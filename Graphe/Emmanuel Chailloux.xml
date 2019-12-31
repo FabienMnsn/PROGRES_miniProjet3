@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Emmanuel Chailloux" n="32">
+<person key="homepages/44/1940" mdate="2009-06-09">
+<author>Emmanuel Chailloux</author>
+</person>
+<r><inproceedings key="conf/icfem/SallPC19" mdate="2019-10-28">
+<author>Boubacar Demba Sall</author>
+<author>Frédéric Peschanski</author>
+<author>Emmanuel Chailloux</author>
+<title>A Mechanized Theory of Program Refinement.</title>
+<pages>305-321</pages>
+<year>2019</year>
+<booktitle>ICFEM</booktitle>
+<crossref>conf/icfem/2019</crossref>
+<url>db/conf/icfem/icfem2019.html#SallPC19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijpp/BourgoinCL17" mdate="2017-05-28">
+<author>Mathias Bourgoin</author>
+<author>Emmanuel Chailloux</author>
+<author>Jean Luc Lamotte</author>
+<title>High Level Data Structures for GPGPU Programming in a Statically Typed Language.</title>
+<pages>242-261</pages>
+<year>2017</year>
+<volume>45</volume>
+<journal>International Journal of Parallel Programming</journal>
+<number>2</number>
+<url>db/journals/ijpp/ijpp45.html#BourgoinCL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/vmcai/BotbolCG17" mdate="2017-05-24">
+<author>Vincent Botbol</author>
+<author>Emmanuel Chailloux</author>
+<author>Tristan Le Gall</author>
+<title>Static Analysis of Communicating Processes Using Symbolic Transducers.</title>
+<pages>73-90</pages>
+<year>2017</year>
+<booktitle>VMCAI</booktitle>
+<crossref>conf/vmcai/2017</crossref>
+<url>db/conf/vmcai/vmcai2017.html#BotbolCG17</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/SalvucciC16" mdate="2017-05-28">
+<author>Jérémie Salvucci</author>
+<author>Emmanuel Chailloux</author>
+<title>Memory Consumption Analysis for a Functional and Imperative Language.</title>
+<pages>27-46</pages>
+<year>2016</year>
+<volume>330</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs330.html#SalvucciC16</url>
+</article>
+</r>
+<r><inproceedings key="conf/oopsla/SibaieC16" mdate="2018-11-06">
+<author>Rémy El Sibaïe</author>
+<author>Emmanuel Chailloux</author>
+<title>Synchronous-reactive web programming.</title>
+<pages>9-16</pages>
+<year>2016</year>
+<booktitle>REBLS@SPLASH</booktitle>
+<crossref>conf/oopsla/2016rebls</crossref>
+<url>db/conf/oopsla/rebls2016.html#SibaieC16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BotbolCG16" mdate="2018-08-13">
+<author>Vincent Botbol</author>
+<author>Emmanuel Chailloux</author>
+<author>Tristan Le Gall</author>
+<title>Static Analysis of Communicating Processes using Symbolic Transducers.</title>
+<year>2016</year>
+<volume>abs/1611.07812</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.07812</ee>
+<url>db/journals/corr/corr1611.html#BotbolCG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/padl/VaugonWC15" mdate="2017-05-17">
+<author>Benoît Vaugon</author>
+<author>Philippe Wang</author>
+<author>Emmanuel Chailloux</author>
+<title>Programming Microcontrollers in OCaml: The OCaPIC Project.</title>
+<pages>132-148</pages>
+<year>2015</year>
+<booktitle>PADL</booktitle>
+<crossref>conf/padl/2015</crossref>
+<url>db/conf/padl/padl2015.html#VaugonWC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/BourgoinC15" mdate="2018-11-06">
+<author>Mathias Bourgoin</author>
+<author>Emmanuel Chailloux</author>
+<title>High-level accelerated array programming in the web browser.</title>
+<pages>31-36</pages>
+<year>2015</year>
+<booktitle>ARRAY@PLDI</booktitle>
+<crossref>conf/pldi/2015array</crossref>
+<url>db/conf/pldi/array2015.html#BourgoinC15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijpp/BourgoinCL14" mdate="2017-05-28">
+<author>Mathias Bourgoin</author>
+<author>Emmanuel Chailloux</author>
+<author>Jean Luc Lamotte</author>
+<title>Efficient Abstractions for GPGPU Programming.</title>
+<pages>583-600</pages>
+<year>2014</year>
+<volume>42</volume>
+<journal>International Journal of Parallel Programming</journal>
+<number>4</number>
+<url>db/journals/ijpp/ijpp42.html#BourgoinCL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/jfla/SerpetteMC14" mdate="2017-06-26">
+<author>Bernard P. Serpette</author>
+<author>Pascal Manoury</author>
+<author>Emmanuel Chailloux</author>
+<title>Unification des couleurs dans un λ-calcul polychrome.</title>
+<pages>65-76</pages>
+<year>2014</year>
+<booktitle>JFLA</booktitle>
+<crossref>conf/jfla/2014</crossref>
+<url>db/conf/jfla/jfla2014.html#SerpetteMC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/BourgoinC14" mdate="2018-11-06">
+<author>Mathias Bourgoin</author>
+<author>Emmanuel Chailloux</author>
+<title>GPGPU Composition with OCaml.</title>
+<pages>32-37</pages>
+<year>2014</year>
+<booktitle>ARRAY@PLDI</booktitle>
+<crossref>conf/pldi/2014array</crossref>
+<url>db/conf/pldi/array2014.html#BourgoinC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/padl/CanouCB13" mdate="2017-05-17">
+<author>Benjamin Canou</author>
+<author>Emmanuel Chailloux</author>
+<author>Vincent Balat</author>
+<title>A Declarative-Friendly API for Web Document Manipulation.</title>
+<pages>109-124</pages>
+<year>2013</year>
+<booktitle>PADL</booktitle>
+<crossref>conf/padl/2013</crossref>
+<url>db/conf/padl/padl2013.html#CanouCB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/CanouCB13" mdate="2018-11-06">
+<author>Benjamin Canou</author>
+<author>Emmanuel Chailloux</author>
+<author>Vincent Botbol</author>
+<title>Static typing and JavaScript libraries: towards a more considerate relationship.</title>
+<pages>15-18</pages>
+<year>2013</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<crossref>conf/www/2013c</crossref>
+<url>db/conf/www/www2013c.html#CanouCB13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppl/BourgoinCL12" mdate="2017-05-17">
+<author>Mathias Bourgoin</author>
+<author>Emmanuel Chailloux</author>
+<author>Jean Luc Lamotte</author>
+<title>Spoc: GPGPU Programming through Stream Processing with OCaml.</title>
+<year>2012</year>
+<volume>22</volume>
+<journal>Parallel Processing Letters</journal>
+<number>2</number>
+<url>db/journals/ppl/ppl22.html#BourgoinCL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icfp/HenryMCM12" mdate="2018-11-06">
+<author>Grégoire Henry</author>
+<author>Michel Mauny</author>
+<author>Emmanuel Chailloux</author>
+<author>Pascal Manoury</author>
+<title>Typing unmarshalling without marshalling types.</title>
+<pages>287-298</pages>
+<year>2012</year>
+<booktitle>ICFP</booktitle>
+<crossref>conf/icfp/2012</crossref>
+<url>db/conf/icfp/icfp2012.html#HenryMCM12</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/WangJC11" mdate="2017-05-28">
+<author>Philippe Wang</author>
+<author>Adrien Jonquet</author>
+<author>Emmanuel Chailloux</author>
+<title>Non-Intrusive Structural Coverage for Objective Caml.</title>
+<pages>59-73</pages>
+<year>2011</year>
+<volume>264</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<number>4</number>
+<url>db/journals/entcs/entcs264.html#WangJC11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icfp/PaganoAMCCWMC09" mdate="2018-11-06">
+<author>Bruno Pagano</author>
+<author>Olivier Andrieu</author>
+<author>Thomas Moniot</author>
+<author>Benjamin Canou</author>
+<author>Emmanuel Chailloux</author>
+<author>Philippe Wang</author>
+<author>Pascal Manoury</author>
+<author>Jean-Louis Colaço</author>
+<title>Experience report: using objective caml to develop safety-critical embedded tools in a certification framework.</title>
+<pages>215-220</pages>
+<year>2009</year>
+<booktitle>ICFP</booktitle>
+<crossref>conf/icfp/2009</crossref>
+<url>db/conf/icfp/icfp2009.html#PaganoAMCCWMC09</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppl/ChaillouxRV08" mdate="2017-05-17">
+<author>Emmanuel Chailloux</author>
+<author>Vivien Ravet</author>
+<author>Julien Verlaguet</author>
+<title>Hirondml: Fair Threads Migrations for Objective Caml.</title>
+<pages>55-69</pages>
+<year>2008</year>
+<volume>18</volume>
+<journal>Parallel Processing Letters</journal>
+<number>1</number>
+<url>db/journals/ppl/ppl18.html#ChaillouxRV08</url>
+</article>
+</r>
+<r><inproceedings key="conf/ml/CanouBC08" mdate="2018-11-06">
+<author>Benjamin Canou</author>
+<author>Vincent Balat</author>
+<author>Emmanuel Chailloux</author>
+<title>O'browser: objective caml on browsers.</title>
+<pages>69-78</pages>
+<year>2008</year>
+<booktitle>ML</booktitle>
+<crossref>conf/ml/2008</crossref>
+<url>db/conf/ml/ml2008.html#CanouBC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/padl/PaganoACCCMW08" mdate="2017-05-17">
+<author>Bruno Pagano</author>
+<author>Olivier Andrieu</author>
+<author>Benjamin Canou</author>
+<author>Emmanuel Chailloux</author>
+<author>Jean-Louis Colaço</author>
+<author>Thomas Moniot</author>
+<author>Philippe Wang</author>
+<title>Certified Development Tools Implementation in Objective Caml.</title>
+<pages>2-17</pages>
+<year>2008</year>
+<crossref>conf/padl/2008</crossref>
+<booktitle>PADL</booktitle>
+<url>db/conf/padl/padl2008.html#PaganoACCCMW08</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/HenryMC07" mdate="2017-05-20">
+<author>Grégoire Henry</author>
+<author>Michel Mauny</author>
+<author>Emmanuel Chailloux</author>
+<title>Typer la désérialisation sans sérialiser les types.</title>
+<pages>1067-1090</pages>
+<year>2007</year>
+<volume>26</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>9</number>
+<url>db/journals/tsi/tsi26.html#HenryMC07</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0705-1452" mdate="2018-08-13">
+<author>Grégoire Henry</author>
+<author>Michel Mauny</author>
+<author>Emmanuel Chailloux</author>
+<title>Typer la dé-sérialisation sans sérialiser les types</title>
+<ee type="oa">http://arxiv.org/abs/0705.1452</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0705.1452</volume>
+<url>db/journals/corr/corr0705.html#abs-0705-1452</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0705-1458" mdate="2018-08-13">
+<author>Emmanuel Chailloux</author>
+<author>Grégoire Henry</author>
+<author>Raphaël Montelatici</author>
+<title>Mixing the Objective Caml and C# Programming Models in the .Net Framework</title>
+<ee type="oa">http://arxiv.org/abs/0705.1458</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0705.1458</volume>
+<url>db/journals/corr/corr0705.html#abs-0705-1458</url>
+</article>
+</r>
+<r><article key="journals/tsi/ChaillouxHM05" mdate="2017-05-20">
+<author>Emmanuel Chailloux</author>
+<author>Grégoire Henry</author>
+<author>Raphaël Montelatici</author>
+<title>Interopérabilité avec Objective Caml.</title>
+<pages>1055-1080</pages>
+<year>2005</year>
+<volume>24</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>9</number>
+<url>db/journals/tsi/tsi24.html#ChaillouxHM05</url>
+</article>
+</r>
+<r><article key="journals/Lobjet/ChaillouxH04" mdate="2017-05-27">
+<author>Emmanuel Chailloux</author>
+<author>Grégoire Henry</author>
+<title>O'Jacaré, une interface objet entre Objective Caml et Java.</title>
+<pages>75-88</pages>
+<year>2004</year>
+<volume>10</volume>
+<journal>L'OBJET</journal>
+<number>2-3</number>
+<url>db/journals/Lobjet/Lobjet10.html#ChaillouxH04</url>
+</article>
+</r>
+<r><inproceedings key="conf/rivf/ChaillouxMP04" mdate="2004-03-22">
+<author>Emmanuel Chailloux</author>
+<author>Raphaël Montelatici</author>
+<author>Bruno Pagano</author>
+<title>CamIL: Un compilateur Objective Caml vers .NET.</title>
+<pages>147-152</pages>
+<year>2004</year>
+<crossref>conf/rivf/2004</crossref>
+<booktitle>RIVF</booktitle>
+<url>db/conf/rivf/rivf2004.html#ChaillouxMP04</url>
+</inproceedings>
+</r>
+<r><book publtype="habil" key="books/hal/Chailloux03" mdate="2017-09-28">
+<author>Emmanuel Chailloux</author>
+<title>Pratique des langages fonctionnels Types.</title>
+<year>2003</year>
+<school>Pierre and Marie Curie University, Paris, France</school>
+</book>
+</r>
+<r><article key="journals/ppl/ChaillouxF03" mdate="2017-05-17">
+<author>Emmanuel Chailloux</author>
+<author>Christian Foisy</author>
+<title>A Portable Implementation for Objective Caml Flight.</title>
+<pages>425-436</pages>
+<year>2003</year>
+<volume>13</volume>
+<journal>Parallel Processing Letters</journal>
+<number>3</number>
+<url>db/journals/ppl/ppl13.html#ChaillouxF03</url>
+</article>
+</r>
+<r><inproceedings key="conf/vl/ChaillouxC97" mdate="2017-05-24">
+<author>Emmanuel Chailloux</author>
+<author>Philippe Codognet</author>
+<title>Toward Visual Constraint Programming.</title>
+<pages>424-425</pages>
+<year>1997</year>
+<crossref>conf/vl/1997</crossref>
+<booktitle>VL</booktitle>
+<url>db/conf/vl/vl97.html#ChaillouxC97</url>
+</inproceedings>
+</r>
+<r><article key="journals/jfp/HartelFAABBCFGGHHIJKLLLLRSTTTWWW96" mdate="2017-05-27">
+<author>Pieter H. Hartel</author>
+<author>Marc Feeley</author>
+<author>Martin Alt</author>
+<author>Lennart Augustsson</author>
+<author>Peter Baumann</author>
+<author>Marcel Beemster</author>
+<author>Emmanuel Chailloux</author>
+<author>Christine H. Flood</author>
+<author>Wolfgang Grieskamp</author>
+<author>John H. G. van Groningen</author>
+<author>Kevin Hammond</author>
+<author>Bogumil Hausman</author>
+<author>Melody Y. Ivory</author>
+<author>Richard E. Jones</author>
+<author>Jasper Kamperman</author>
+<author>Peter Lee 0001</author>
+<author>Xavier Leroy</author>
+<author>Rafael Dueire Lins</author>
+<author>Sandra Loosemore</author>
+<author>Niklas Röjemo</author>
+<author>Manuel Serrano</author>
+<author>Jean-Pierre Talpin</author>
+<author>Jon Thackray</author>
+<author>Stephen Thomas</author>
+<author>Pum Walters</author>
+<author>Pierre Weis</author>
+<author>Peter Wentworth</author>
+<title>Benchmarking Implementations of Functional Languages with 'Pseudoknot', a Float-Intensive Benchmark.</title>
+<pages>621-655</pages>
+<year>1996</year>
+<volume>6</volume>
+<journal>J. Funct. Program.</journal>
+<number>4</number>
+<url>db/journals/jfp/jfp6.html#HartelFAABBCFGGHHIJKLLLLRSTTTWWW96</url>
+</article>
+</r>
+<r><inproceedings key="conf/ictai/ChaillouxCC94" mdate="2019-02-12">
+<author>Emmanuel Chailloux</author>
+<author>Christian Codognet</author>
+<author>Philippe Codognet</author>
+<title>Finite Domain Constraints in the ML Functional Language.</title>
+<pages>784-787</pages>
+<year>1994</year>
+<crossref>conf/ictai/1994</crossref>
+<booktitle>ICTAI</booktitle>
+<url>db/conf/ictai/ictai1994.html#ChaillouxCC94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwmm/Chailloux92" mdate="2017-05-19">
+<author>Emmanuel Chailloux</author>
+<title>A Conservative Garbage Collector with Ambiguous Roots for Static Typechecking Languages.</title>
+<pages>218-229</pages>
+<year>1992</year>
+<crossref>conf/iwmm/1992</crossref>
+<booktitle>IWMM</booktitle>
+<url>db/conf/iwmm/iwmm92.html#Chailloux92</url>
+</inproceedings>
+</r>
+<coauthors n="53" nc="5">
+<co c="0"><na f="a/Alt:Martin">Martin Alt</na></co>
+<co c="0"><na f="a/Andrieu:Olivier">Olivier Andrieu</na></co>
+<co c="0"><na f="a/Augustsson:Lennart">Lennart Augustsson</na></co>
+<co c="0"><na f="b/Balat:Vincent">Vincent Balat</na></co>
+<co c="0"><na f="b/Baumann:Peter">Peter Baumann</na></co>
+<co c="0"><na f="b/Beemster:Marcel">Marcel Beemster</na></co>
+<co c="0"><na f="b/Botbol:Vincent">Vincent Botbol</na></co>
+<co c="3"><na f="b/Bourgoin:Mathias">Mathias Bourgoin</na></co>
+<co c="0"><na f="c/Canou:Benjamin">Benjamin Canou</na></co>
+<co c="2"><na f="c/Codognet:Christian">Christian Codognet</na></co>
+<co c="2"><na f="c/Codognet:Philippe">Philippe Codognet</na></co>
+<co c="0"><na f="c/Cola=ccedil=o:Jean=Louis">Jean-Louis Colaço</na></co>
+<co c="0"><na f="f/Feeley:Marc">Marc Feeley</na></co>
+<co c="0"><na f="f/Flood:Christine_H=">Christine H. Flood</na></co>
+<co c="-1"><na f="f/Foisy:Christian">Christian Foisy</na></co>
+<co c="0"><na f="g/Gall:Tristan_Le">Tristan Le Gall</na></co>
+<co c="0"><na f="g/Grieskamp:Wolfgang">Wolfgang Grieskamp</na></co>
+<co c="0"><na f="g/Groningen:John_H=_G=_van">John H. G. van Groningen</na></co>
+<co c="0"><na f="h/Hammond:Kevin">Kevin Hammond</na></co>
+<co c="0"><na f="h/Hartel:Pieter_H=">Pieter H. Hartel</na></co>
+<co c="0"><na f="h/Hausman:Bogumil">Bogumil Hausman</na></co>
+<co c="0"><na f="h/Henry:Gr=eacute=goire">Grégoire Henry</na></co>
+<co c="0"><na f="i/Ivory:Melody_Y=">Melody Y. Ivory</na></co>
+<co c="0"><na f="j/Jones:Richard_E=">Richard E. Jones</na></co>
+<co c="0"><na f="j/Jonquet:Adrien">Adrien Jonquet</na></co>
+<co c="0"><na f="k/Kamperman:Jasper">Jasper Kamperman</na></co>
+<co c="3"><na f="l/Lamotte:Jean_Luc">Jean Luc Lamotte</na></co>
+<co c="0"><na f="l/Lee_0001:Peter">Peter Lee 0001</na></co>
+<co c="0"><na f="l/Leroy:Xavier">Xavier Leroy</na></co>
+<co c="0"><na f="l/Lins:Rafael_Dueire">Rafael Dueire Lins</na></co>
+<co c="0"><na f="l/Loosemore:Sandra">Sandra Loosemore</na></co>
+<co c="0"><na f="m/Manoury:Pascal">Pascal Manoury</na></co>
+<co c="0"><na f="m/Mauny:Michel">Michel Mauny</na></co>
+<co c="0"><na f="m/Moniot:Thomas">Thomas Moniot</na></co>
+<co c="0"><na f="m/Montelatici:Rapha=euml=l">Raphaël Montelatici</na></co>
+<co c="0"><na f="p/Pagano:Bruno">Bruno Pagano</na></co>
+<co c="1"><na f="p/Peschanski:Fr=eacute=d=eacute=ric">Frédéric Peschanski</na></co>
+<co c="4"><na f="r/Ravet:Vivien">Vivien Ravet</na></co>
+<co c="0"><na f="r/R=ouml=jemo:Niklas">Niklas Röjemo</na></co>
+<co c="1"><na f="s/Sall:Boubacar_Demba">Boubacar Demba Sall</na></co>
+<co c="-1"><na f="s/Salvucci:J=eacute=r=eacute=mie">Jérémie Salvucci</na></co>
+<co c="0"><na f="s/Serpette:Bernard_P=">Bernard P. Serpette</na></co>
+<co c="0"><na f="s/Serrano:Manuel">Manuel Serrano</na></co>
+<co c="-1"><na f="s/Siba=iuml=e:R=eacute=my_El">Rémy El Sibaïe</na></co>
+<co c="0"><na f="t/Talpin:Jean=Pierre">Jean-Pierre Talpin</na></co>
+<co c="0"><na f="t/Thackray:Jon">Jon Thackray</na></co>
+<co c="0"><na f="t/Thomas:Stephen">Stephen Thomas</na></co>
+<co c="0"><na f="v/Vaugon:Beno=icirc=t">Benoît Vaugon</na></co>
+<co c="4"><na f="v/Verlaguet:Julien">Julien Verlaguet</na></co>
+<co c="0"><na f="w/Walters:Pum">Pum Walters</na></co>
+<co c="0"><na f="w/Wang:Philippe">Philippe Wang</na></co>
+<co c="0"><na f="w/Weis:Pierre">Pierre Weis</na></co>
+<co c="0"><na f="w/Wentworth:Peter">Peter Wentworth</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,634 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="François Bouchet" n="46">
+<person key="homepages/57/7255" mdate="2019-08-03">
+<author>François Bouchet</author>
+<url>https://orcid.org/0000-0001-9436-1250</url>
+<url>https://www.wikidata.org/entity/Q57085480</url>
+<url>https://www.researcherid.com/rid/H-2053-2014</url>
+</person>
+<r><inproceedings key="conf/ectel/VermeulenKFBMLL19" mdate="2019-09-23">
+<author orcid="0000-0003-3646-1741">Mathieu Vermeulen</author>
+<author>Abir-Beatrice Karami</author>
+<author orcid="0000-0002-0175-3181">Anthony Fleury</author>
+<author>François Bouchet</author>
+<author>Nadine Mandran</author>
+<author>Jannik Laval</author>
+<author>Jean-Marc Labat</author>
+<title>APACHES: Human-Centered and Project-Based Methods in Higher Education.</title>
+<pages>683-687</pages>
+<year>2019</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2019</crossref>
+<url>db/conf/ectel/ectel2019.html#VermeulenKFBMLL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edm/HarrakBL19" mdate="2019-07-12">
+<author>Fatima Harrak</author>
+<author>François Bouchet</author>
+<author>Vanda Luengo</author>
+<title>Categorizing students' questions using an ensemble hybrid approach.</title>
+<year>2019</year>
+<booktitle>EDM</booktitle>
+<crossref>conf/edm/2019</crossref>
+<url>db/conf/edm/edm2019.html#HarrakBL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edm/HarrakBLB19" mdate="2019-07-12">
+<author>Fatima Harrak</author>
+<author>François Bouchet</author>
+<author>Vanda Luengo</author>
+<author>Rémi Bachelet</author>
+<title>Automatic identification of questions in MOOC forums and association with self-regulated learning.</title>
+<year>2019</year>
+<booktitle>EDM</booktitle>
+<crossref>conf/edm/2019</crossref>
+<url>db/conf/edm/edm2019.html#HarrakBLB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emoocs/BouchetB19" mdate="2019-05-31">
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<author orcid="0000-0001-8725-0384">Rémi Bachelet</author>
+<title>Socializing on MOOCs: Comparing University and Self-enrolled Students.</title>
+<pages>31-36</pages>
+<year>2019</year>
+<booktitle>EMOOCs</booktitle>
+<crossref>conf/emoocs/2019</crossref>
+<url>db/conf/emoocs/emoocs2019.html#BouchetB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lats/HarrakLBB19" mdate="2019-08-01">
+<author>Fatima Harrak</author>
+<author>Vanda Luengo</author>
+<author>François Bouchet</author>
+<author>Rémi Bachelet</author>
+<title>Towards Improving Students' Forum Posts Categorization in MOOCs and Impact on Performance Prediction.</title>
+<pages>47:1-47:4</pages>
+<year>2019</year>
+<booktitle>L@S</booktitle>
+<crossref>conf/lats/2019</crossref>
+<url>db/conf/lats/lats2019.html#HarrakLBB19</url>
+</inproceedings>
+</r>
+<r><article key="journals/tlt/HarleyTAB18" mdate="2018-11-14">
+<author orcid="0000-0002-2061-9519">Jason M. Harley</author>
+<author orcid="0000-0002-6238-1334">Michelle Taub</author>
+<author>Roger Azevedo</author>
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<title>"Let's Set Up Some Subgoals": Understanding Human-Pedagogical Agent Collaborations and Their Implications for Learning and Prompt and Feedback Compliance.</title>
+<pages>54-66</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>TLT</journal>
+<number>1</number>
+<url>db/journals/tlt/tlt11.html#HarleyTAB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/its/BouchetHA18" mdate="2018-11-14">
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<author>Jason M. Harley</author>
+<author>Roger Azevedo</author>
+<title>Evaluating Adaptive Pedagogical Agents' Prompting Strategies Effect on Students' Emotions.</title>
+<pages>33-43</pages>
+<year>2018</year>
+<booktitle>ITS</booktitle>
+<crossref>conf/its/2018</crossref>
+<url>db/conf/its/its2018.html#BouchetHA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/LabartheLB18" mdate="2019-05-28">
+<author>Hugues Labarthe</author>
+<author>Vanda Luengo</author>
+<author>François Bouchet</author>
+<title>Analyzing the Relationships Between Learning Analytics, Educational Data Mining and AI for Education.</title>
+<pages>63-72</pages>
+<year>2018</year>
+<booktitle>ITS Workshops</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2354/w2paper2.pdf</ee>
+<crossref>conf/its/2018w</crossref>
+<url>db/conf/its/its2018w.html#LabartheLB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lak/HarrakBLG18" mdate="2018-11-21">
+<author>Fatima Harrak</author>
+<author>François Bouchet</author>
+<author>Vanda Luengo</author>
+<author>Pierre Gillois</author>
+<title>PHS profiling students from their questions in a blended learning environment.</title>
+<pages>102-110</pages>
+<year>2018</year>
+<booktitle>LAK</booktitle>
+<crossref>conf/lak/2018</crossref>
+<url>db/conf/lak/lak2018.html#HarrakBLG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/MonterratYBLL17" mdate="2017-09-05">
+<author>Baptiste Monterrat</author>
+<author>Amel Yessad</author>
+<author>François Bouchet</author>
+<author>Élise Lavoué</author>
+<author>Vanda Luengo</author>
+<title>MAGAM: A Multi-Aspect Generic Adaptation Model for Learning Environments.</title>
+<pages>139-152</pages>
+<year>2017</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2017</crossref>
+<url>db/conf/ectel/ectel2017.html#MonterratYBLL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edm/HarrakBL17" mdate="2018-05-07">
+<author>Fatima Harrak</author>
+<author>François Bouchet</author>
+<author>Vanda Luengo</author>
+<title>Identifying relationships between students' questions type and their behavior.</title>
+<year>2017</year>
+<booktitle>EDM</booktitle>
+<crossref>conf/edm/2017</crossref>
+<url>db/conf/edm/edm2017.html#HarrakBL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emoocs/BouchetLBY17" mdate="2019-09-25">
+<author>François Bouchet</author>
+<author>Hugues Labarthe</author>
+<author>Rémi Bachelet</author>
+<author orcid="0000-0001-7521-6429">Kalina Yacef</author>
+<title>Who Wants to Chat on a MOOC? Lessons from a Peer Recommender System.</title>
+<pages>150-159</pages>
+<year>2017</year>
+<booktitle>EMOOCs</booktitle>
+<crossref>conf/emoocs/2017</crossref>
+<url>db/conf/emoocs/emoocs2017.html#BouchetLBY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/BouchetLYB17" mdate="2019-09-25">
+<author>François Bouchet</author>
+<author>Hugues Labarthe</author>
+<author orcid="0000-0001-7521-6429">Kalina Yacef</author>
+<author>Rémi Bachelet</author>
+<title>Comparing Peer Recommendation Strategies in a MOOC.</title>
+<pages>129-134</pages>
+<year>2017</year>
+<booktitle>UMAP (Adjunct Publication)</booktitle>
+<crossref>conf/um/2017a</crossref>
+<url>db/conf/um/umap2017a.html#BouchetLYB17</url>
+</inproceedings>
+</r>
+<r><article key="journals/umuai/HarleyCPBLAK16" mdate="2018-11-14">
+<author>Jason M. Harley</author>
+<author>Cassia K. Carter</author>
+<author>Niki Papaionnou</author>
+<author>François Bouchet</author>
+<author>Ronald S. Landis</author>
+<author>Roger Azevedo</author>
+<author>Lana Karabachian</author>
+<title>Examining the predictive relationship between personality and emotion traits and students' agent-directed emotions: towards emotionally-adaptive agent-based learning environments.</title>
+<pages>177-219</pages>
+<year>2016</year>
+<volume>26</volume>
+<journal>User Model. User-Adapt. Interact.</journal>
+<number>2-3</number>
+<url>db/journals/umuai/umuai26.html#HarleyCPBLAK16</url>
+</article>
+</r>
+<r><inproceedings key="conf/edm/LabartheBBY16" mdate="2016-08-09">
+<author>Hugues Labarthe</author>
+<author>François Bouchet</author>
+<author>Rémi Bachelet</author>
+<author>Kalina Yacef</author>
+<title>Does a Peer Recommender Foster Students' Engagement in MOOCs?</title>
+<pages>418-423</pages>
+<year>2016</year>
+<booktitle>EDM</booktitle>
+<crossref>conf/edm/2016</crossref>
+<url>db/conf/edm/edm2016.html#LabartheBBY16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/BouchetHA16" mdate="2018-11-14">
+<author>François Bouchet</author>
+<author>Jason M. Harley</author>
+<author>Roger Azevedo</author>
+<title>Can Adaptive Pedagogical Agents' Prompting Strategies Improve Students' Learning and Self-Regulation?</title>
+<pages>368-374</pages>
+<year>2016</year>
+<booktitle>ITS</booktitle>
+<crossref>conf/its/2016</crossref>
+<url>db/conf/its/its2016.html#BouchetHA16</url>
+</inproceedings>
+</r>
+<r><article key="journals/chb/HarleyBHAC15" mdate="2018-11-14">
+<author>Jason M. Harley</author>
+<author>François Bouchet</author>
+<author>M. Sazzad Hussain</author>
+<author>Roger Azevedo</author>
+<author>Rafael A. Calvo</author>
+<title>A multi-componential analysis of emotions during complex learning with an intelligent multi-agent system.</title>
+<pages>615-625</pages>
+<year>2015</year>
+<volume>48</volume>
+<journal>Computers in Human Behavior</journal>
+<url>db/journals/chb/chb48.html#HarleyBHAC15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aied/HarleyCPBLAK15" mdate="2018-11-14">
+<author>Jason M. Harley</author>
+<author>Cassia C. Carter</author>
+<author>Niki Papaionnou</author>
+<author>François Bouchet</author>
+<author>Ronald S. Landis</author>
+<author>Roger Azevedo</author>
+<author>Lana Karabachian</author>
+<title>Examining the Predictive Relationship Between Personality and Emotion Traits and Learners' Agent-Direct Emotions.</title>
+<pages>145-154</pages>
+<year>2015</year>
+<booktitle>AIED</booktitle>
+<crossref>conf/aied/2015</crossref>
+<url>db/conf/aied/aied2015.html#HarleyCPBLAK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cogsci/MudrickATB15" mdate="2016-02-19">
+<author>Nicholas Mudrick</author>
+<author>Roger Azevedo</author>
+<author>Michelle Taub</author>
+<author>François Bouchet</author>
+<title>Does the Frequency of Pedagogical Agent Intervention Relate to Learners' Self-Reported Boredom while using Multiagent Intelligent Tutoring Systems?</title>
+<year>2015</year>
+<booktitle>CogSci</booktitle>
+<crossref>conf/cogsci/2015</crossref>
+<url>db/conf/cogsci/cogsci2015.html#MudrickATB15</url>
+</inproceedings>
+</r>
+<r><article key="journals/chb/TaubABK14" mdate="2018-11-14">
+<author>Michelle Taub</author>
+<author>Roger Azevedo</author>
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<author>Babak Khosravifar</author>
+<title>Can the use of cognitive and metacognitive self-regulated learning strategies be predicted by learners' levels of prior knowledge in hypermedia-learning environments?</title>
+<pages>356-367</pages>
+<year>2014</year>
+<volume>39</volume>
+<journal>Computers in Human Behavior</journal>
+<url>db/journals/chb/chb39.html#TaubABK14</url>
+</article>
+</r>
+<r><article key="journals/ria/BouchetS13" mdate="2017-06-08">
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<author>Jean-Paul Sansonnet</author>
+<title>Agents conversationnels psychologiques. Modélisation des réactions rationnelles et comportementales des agents assistants conversationnels.</title>
+<pages>679-708</pages>
+<year>2013</year>
+<volume>27</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>6</number>
+<url>db/journals/ria/ria27.html#BouchetS13</url>
+</article>
+</r>
+<r><article key="journals/wias/BouchetS13" mdate="2017-06-09">
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<author>Jean-Paul Sansonnet</author>
+<title>Influence of FFM/NEO PI-R personality traits on the rational process of autonomous agents.</title>
+<pages>203-220</pages>
+<year>2013</year>
+<volume>11</volume>
+<journal>Web Intelligence and Agent Systems</journal>
+<number>3</number>
+<url>db/journals/wias/wias11.html#BouchetS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/aied/HarleyBA13" mdate="2018-11-14">
+<author>Jason M. Harley</author>
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<author>Roger Azevedo</author>
+<title>Aligning and Comparing Data on Emotions Experienced during Learning with MetaTutor.</title>
+<pages>61-70</pages>
+<year>2013</year>
+<booktitle>AIED</booktitle>
+<crossref>conf/aied/2013</crossref>
+<url>db/conf/aied/aied2013.html#HarleyBA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/BondarevaCFHAB13" mdate="2018-11-14">
+<author>Daria Bondareva</author>
+<author>Cristina Conati</author>
+<author>Reza Feyzi-Behnagh</author>
+<author>Jason M. Harley</author>
+<author>Roger Azevedo</author>
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<title>Inferring Learning from Gaze Data during Interaction with an Environment to Support Self-Regulated Learning.</title>
+<pages>229-238</pages>
+<year>2013</year>
+<booktitle>AIED</booktitle>
+<crossref>conf/aied/2013</crossref>
+<url>db/conf/aied/aied2013.html#BondarevaCFHAB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/BouchetHA13" mdate="2018-11-14">
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<author>Jason M. Harley</author>
+<author>Roger Azevedo</author>
+<title>Impact of Different Pedagogical Agents' Adaptive Self-regulated Prompting Strategies on Learning with MetaTutor.</title>
+<pages>815-819</pages>
+<year>2013</year>
+<booktitle>AIED</booktitle>
+<crossref>conf/aied/2013</crossref>
+<url>db/conf/aied/aied2013.html#BouchetHA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/KhosravifarBFAH13" mdate="2018-11-14">
+<author>Babak Khosravifar</author>
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<author>Reza Feyzi-Behnagh</author>
+<author>Roger Azevedo</author>
+<author>Jason M. Harley</author>
+<title>Using Intelligent Multi-Agent Systems to Model and Foster Self-Regulated Learning: A Theoretically-Based Approach Using Markov Decision Process.</title>
+<pages>413-420</pages>
+<year>2013</year>
+<booktitle>AINA</booktitle>
+<crossref>conf/aina/2013</crossref>
+<url>db/conf/aina/aina2013.html#KhosravifarBFAH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaart/SansonnetB13a" mdate="2017-05-25">
+<author>Jean-Paul Sansonnet</author>
+<author>François Bouchet</author>
+<title>A Framework Covering the Influence of ffm/neo pi-r Traits over the Dialogical Process of Rational Agents.</title>
+<pages>62-79</pages>
+<year>2013</year>
+<booktitle>ICAART (Revised Selected Papers)</booktitle>
+<crossref>conf/icaart/2013s</crossref>
+<url>db/conf/icaart/icaart2013s.html#SansonnetB13a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaart/SansonnetB13" mdate="2013-10-01">
+<author>Jean-Paul Sansonnet</author>
+<author>François Bouchet</author>
+<title>Managing Personality Influences in Dialogical Agents.</title>
+<pages>89-98</pages>
+<year>2013</year>
+<booktitle>ICAART (1)</booktitle>
+<crossref>conf/icaart/2013-1</crossref>
+<url>db/conf/icaart/icaart2013-1.html#SansonnetB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/SansonnetBS13" mdate="2013-09-11">
+<author>Jean-Paul Sansonnet</author>
+<author>François Bouchet</author>
+<author>Nicolas Sabouret</author>
+<title>Moteurs de personnalité pour agents dialogiques : étude d'un modèle pour les traits interpersonnels.</title>
+<pages>105-114</pages>
+<year>2013</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2013</crossref>
+<url>db/conf/jfsma/jfsma2013.html#SansonnetBS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/BouchetS12" mdate="2018-11-14">
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<author>Jean-Paul Sansonnet</author>
+<title>Traits de personnalité computationnels. Enrichissement de la taxonomie FFM/NEO PI-R avec des gloses WordNet liées à des adjectifs de personnalité.</title>
+<pages>423-453</pages>
+<year>2012</year>
+<volume>31</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>4</number>
+<url>db/journals/tsi/tsi31.html#BouchetS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/edm/BouchetKBA12" mdate="2012-11-13">
+<author>François Bouchet</author>
+<author>John S. Kinnebrew</author>
+<author>Gautam Biswas</author>
+<author>Roger Azevedo</author>
+<title>Identifying Students' Characteristic Learning Behaviors in an Intelligent Tutoring System Fostering Self-Regulated Learning.</title>
+<pages>65-72</pages>
+<year>2012</year>
+<booktitle>EDM</booktitle>
+<crossref>conf/edm/2012</crossref>
+<url>db/conf/edm/edm2012.html#BouchetKBA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/HarleyBA12" mdate="2017-05-21">
+<author>Jason M. Harley</author>
+<author>François Bouchet</author>
+<author>Roger Azevedo</author>
+<title>Measuring Learners' Co-Occurring Emotional Responses during Their Interaction with a Pedagogical Agent in MetaTutor.</title>
+<pages>40-45</pages>
+<year>2012</year>
+<booktitle>ITS</booktitle>
+<crossref>conf/its/2012</crossref>
+<url>db/conf/its/its2012.html#HarleyBA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/AzevedoLFDTHBBTPYRTH12" mdate="2018-11-02">
+<author>Roger Azevedo</author>
+<author>Ronald S. Landis</author>
+<author>Reza Feyzi-Behnagh</author>
+<author>Melissa Duffy</author>
+<author>Gregory Trevors</author>
+<author>Jason M. Harley</author>
+<author>François Bouchet</author>
+<author>Jonathan D. Burlison</author>
+<author>Michelle Taub</author>
+<author>Nicole Pacampara</author>
+<author>Mohammed Yeasin</author>
+<author>A. K. M. Mahbubur Rahman</author>
+<author>Md. Iftekhar Tanveer</author>
+<author orcid="0000-0002-8205-4939">Gahangir Hossain</author>
+<title>The Effectiveness of Pedagogical Agents' Prompting and Feedback in Facilitating Co-adapted Learning with MetaTutor.</title>
+<pages>212-221</pages>
+<year>2012</year>
+<booktitle>ITS</booktitle>
+<crossref>conf/its/2012</crossref>
+<url>db/conf/its/its2012.html#AzevedoLFDTHBBTPYRTH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/BouchetS12" mdate="2013-04-18">
+<author>François Bouchet</author>
+<author>Jean-Paul Sansonnet</author>
+<title>Une approche facilitant la couverture et l'intelligibilité des influences des traits de personnalité sur le raisonnement rationnel des agents.</title>
+<pages>97-106</pages>
+<year>2012</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2012</crossref>
+<url>db/conf/jfsma/jfsma2012.html#BouchetS12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ria/BouchetS11" mdate="2018-11-14">
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<author>Jean-Paul Sansonnet</author>
+<title>Agents conversationnels psychologiques. Un cadre d'étude des comportements rationnels et psychologiques des agents assistants conversationnels.</title>
+<pages>591-623</pages>
+<year>2011</year>
+<volume>25</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>5</number>
+<url>db/journals/ria/ria25.html#BouchetS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/flairs/SansonnetB11" mdate="2011-06-28">
+<author>Jean-Paul Sansonnet</author>
+<author>François Bouchet</author>
+<title>Integrating Psychological Behaviors in the Rational Process of Conversational Assistant Agents.</title>
+<year>2011</year>
+<booktitle>FLAIRS Conference</booktitle>
+<crossref>conf/flairs/2011</crossref>
+<url>db/conf/flairs/flairs2011.html#SansonnetB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/BouchetS11" mdate="2018-11-14">
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<author>Jean-Paul Sansonnet</author>
+<title>Influence of Personality Traits on the Rational Process of Cognitive Agents.</title>
+<pages>81-88</pages>
+<year>2011</year>
+<booktitle>IAT</booktitle>
+<crossref>conf/iat/2011</crossref>
+<url>db/conf/iat/iat2011.html#BouchetS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iva/HarleyBA11" mdate="2017-05-21">
+<author>Jason M. Harley</author>
+<author>François Bouchet</author>
+<author>Roger Azevedo</author>
+<title>Examining Learners' Emotional Responses to Virtual Pedagogical Agents' Tutoring Strategies.</title>
+<pages>449-450</pages>
+<year>2011</year>
+<booktitle>IVA</booktitle>
+<crossref>conf/iva/2011</crossref>
+<url>db/conf/iva/iva2011.html#HarleyBA11</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Bouchet10" mdate="2016-07-11">
+<author>François Bouchet</author>
+<title>Conception d'une chaîne de traitement de la langue naturelle pour un agent conversationnel assistant. (Design of a natural language processing chain for an assistant conversational agent).</title>
+<year>2010</year>
+<school>University of Paris-Sud, Orsay, France</school>
+</phdthesis>
+</r>
+<r><article key="journals/tsi/XuetaoSB10" mdate="2017-06-09">
+<author>M. Xuetao</author>
+<author>Jean-Paul Sansonnet</author>
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<title>Définition d'un agent conversationnel assistant d'applications internet à partir d'un corpus de requêtes.</title>
+<pages>1123-1154</pages>
+<year>2010</year>
+<volume>29</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>10</number>
+<url>db/journals/tsi/tsi29.html#XuetaoSB10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/SansonnetB10" mdate="2017-06-02">
+<author>Jean-Paul Sansonnet</author>
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<title>Joint handling of Rational and Behavioral reactions in Assistant Conversational Agents.</title>
+<pages>1049-1050</pages>
+<year>2010</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2010</crossref>
+<url>db/conf/ecai/ecai2010.html#SansonnetB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iva/SansonnetB10" mdate="2017-05-21">
+<author>Jean-Paul Sansonnet</author>
+<author>François Bouchet</author>
+<title>Expression of Behaviors in Assistant Agents as Influences on Rational Execution of Plans.</title>
+<pages>413-419</pages>
+<year>2010</year>
+<booktitle>IVA</booktitle>
+<crossref>conf/iva/2010</crossref>
+<url>db/conf/iva/iva2010.html#SansonnetB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/BouchetS10" mdate="2012-02-07">
+<author>François Bouchet</author>
+<author>Jean-Paul Sansonnet</author>
+<title>Un cadre de modélisation des relations entre les réactions rationnelles et comportementales des agents assistants conversationnels.</title>
+<pages>97-106</pages>
+<year>2010</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2010</crossref>
+<url>db/conf/jfsma/jfsma2010.html#BouchetS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/MilettoPSB10" mdate="2018-11-14">
+<author>Evandro Manara Miletto</author>
+<author>Marcelo Soares Pimenta</author>
+<author>Jean-Paul Sansonnet</author>
+<author orcid="0000-0001-9436-1250">François Bouchet</author>
+<title>Social music making on the web with CODES.</title>
+<pages>876-877</pages>
+<year>2010</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2010</crossref>
+<url>db/conf/sac/sac2010.html#MilettoPSB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/BouchetS09" mdate="2017-05-23">
+<author>François Bouchet</author>
+<author>Jean-Paul Sansonnet</author>
+<title>Subjectivity and Cognitive Biases Modeling for a Realistic and Efficient Assisting Conversational Agent.</title>
+<pages>209-216</pages>
+<year>2009</year>
+<booktitle>IAT</booktitle>
+<crossref>conf/iat/2009</crossref>
+<url>db/conf/iat/iat2009.html#BouchetS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mldm/BouchetS09" mdate="2009-09-01">
+<author>François Bouchet</author>
+<author>Jean-Paul Sansonnet</author>
+<title>Tree Kernel and Feature Vector Methods for Formal Semantic Requests Classification.</title>
+<pages>126-140</pages>
+<year>2009</year>
+<booktitle>MLDM Posters</booktitle>
+<crossref>conf/mldm/2009p</crossref>
+<url>db/conf/mldm/mldm2009p.html#BouchetS09</url>
+</inproceedings>
+</r>
+<coauthors n="44" nc="2">
+<co c="0"><na f="a/Azevedo:Roger">Roger Azevedo</na></co>
+<co c="0"><na f="b/Bachelet:R=eacute=mi">Rémi Bachelet</na></co>
+<co c="0"><na f="b/Biswas:Gautam">Gautam Biswas</na></co>
+<co c="0"><na f="b/Bondareva:Daria">Daria Bondareva</na></co>
+<co c="0"><na f="b/Burlison:Jonathan_D=">Jonathan D. Burlison</na></co>
+<co c="0"><na f="c/Calvo:Rafael_A=">Rafael A. Calvo</na></co>
+<co c="0" n="2"><na f="c/Carter:Cassia_C=">Cassia C. Carter</na><na>Cassia K. Carter</na></co>
+<co c="0"><na f="c/Conati:Cristina">Cristina Conati</na></co>
+<co c="0"><na f="d/Duffy:Melissa">Melissa Duffy</na></co>
+<co c="0"><na f="f/Feyzi=Behnagh:Reza">Reza Feyzi-Behnagh</na></co>
+<co c="0"><na f="f/Fleury:Anthony">Anthony Fleury</na></co>
+<co c="0"><na f="g/Gillois:Pierre">Pierre Gillois</na></co>
+<co c="0"><na f="h/Harley:Jason_M=">Jason M. Harley</na></co>
+<co c="0"><na f="h/Harrak:Fatima">Fatima Harrak</na></co>
+<co c="0"><na f="h/Hossain:Gahangir">Gahangir Hossain</na></co>
+<co c="0"><na f="h/Hussain:M=_Sazzad">M. Sazzad Hussain</na></co>
+<co c="0"><na f="k/Karabachian:Lana">Lana Karabachian</na></co>
+<co c="0"><na f="k/Karami:Abir=Beatrice">Abir-Beatrice Karami</na></co>
+<co c="0"><na f="k/Khosravifar:Babak">Babak Khosravifar</na></co>
+<co c="0"><na f="k/Kinnebrew:John_S=">John S. Kinnebrew</na></co>
+<co c="0"><na f="l/Labarthe:Hugues">Hugues Labarthe</na></co>
+<co c="0"><na f="l/Labat:Jean=Marc">Jean-Marc Labat</na></co>
+<co c="0"><na f="l/Landis:Ronald_S=">Ronald S. Landis</na></co>
+<co c="0"><na f="l/Laval:Jannik">Jannik Laval</na></co>
+<co c="0"><na f="l/Lavou=eacute=:=Eacute=lise">Élise Lavoué</na></co>
+<co c="0"><na f="l/Luengo:Vanda">Vanda Luengo</na></co>
+<co c="0"><na f="m/Mandran:Nadine">Nadine Mandran</na></co>
+<co c="1"><na f="m/Miletto:Evandro_Manara">Evandro Manara Miletto</na></co>
+<co c="0"><na f="m/Monterrat:Baptiste">Baptiste Monterrat</na></co>
+<co c="0"><na f="m/Mudrick:Nicholas">Nicholas Mudrick</na></co>
+<co c="0"><na f="p/Pacampara:Nicole">Nicole Pacampara</na></co>
+<co c="0"><na f="p/Papaionnou:Niki">Niki Papaionnou</na></co>
+<co c="1"><na f="p/Pimenta:Marcelo_Soares">Marcelo Soares Pimenta</na></co>
+<co c="0"><na f="r/Rahman:A=_K=_M=_Mahbubur">A. K. M. Mahbubur Rahman</na></co>
+<co c="1"><na f="s/Sabouret:Nicolas">Nicolas Sabouret</na></co>
+<co c="1"><na f="s/Sansonnet:Jean=Paul">Jean-Paul Sansonnet</na></co>
+<co c="0"><na f="t/Tanveer:Md=_Iftekhar">Md. Iftekhar Tanveer</na></co>
+<co c="0"><na f="t/Taub:Michelle">Michelle Taub</na></co>
+<co c="0"><na f="t/Trevors:Gregory">Gregory Trevors</na></co>
+<co c="0"><na f="v/Vermeulen:Mathieu">Mathieu Vermeulen</na></co>
+<co c="1"><na f="x/Xuetao:M=">M. Xuetao</na></co>
+<co c="0"><na f="y/Yacef:Kalina">Kalina Yacef</na></co>
+<co c="0"><na f="y/Yeasin:Mohammed">Mohammed Yeasin</na></co>
+<co c="0"><na f="y/Yessad:Amel">Amel Yessad</na></co>
+</coauthors>
+</dblpperson>
+

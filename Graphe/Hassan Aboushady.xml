@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Hassan Aboushady" n="34">
+<person key="homepages/28/570" mdate="2009-06-09">
+<author>Hassan Aboushady</author>
+</person>
+<r><inproceedings key="conf/date/LeonhardYTNLCAS19" mdate="2019-05-20">
+<author>Julian Leonhard</author>
+<author>Muhammad Yasin</author>
+<author>Shadi Turk</author>
+<author>Mohammed Thari Nabeel</author>
+<author>Marie-Minerve Louërat</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Hassan Aboushady</author>
+<author>Ozgur Sinanoglu</author>
+<author>Haralampos-G. D. Stratigopoulos</author>
+<title>MixLock: Securing Mixed-Signal Circuits via Logic Locking.</title>
+<pages>84-89</pages>
+<year>2019</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2019</crossref>
+<url>db/conf/date/date2019.html#LeonhardYTNLCAS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/GebreyohannesLA19" mdate="2019-07-14">
+<author>Fikre Tsigabu Gebreyohannes</author>
+<author>Marie-Minerve Louërat</author>
+<author>Hassan Aboushady</author>
+<title>Design of a 4th-Order Feed-Forward-Compensated Operational Amplifier for Multi-GHz Sampling Frequency Continuous-Time Bandpass Sigma-Delta Modulators.</title>
+<pages>1-5</pages>
+<year>2019</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2019</crossref>
+<url>db/conf/iscas/iscas2019.html#GebreyohannesLA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smacd/LeonhardLASS19" mdate="2019-08-23">
+<author>Julian Leonhard</author>
+<author>Marie-Minerve Louërat</author>
+<author>Hassan Aboushady</author>
+<author>Ozgur Sinanoglu</author>
+<author>Haralampos-G. D. Stratigopoulos</author>
+<title>Mixed-Signal Hardware Security Using MixLock: Demonstration in an Audio Application.</title>
+<pages>185-188</pages>
+<year>2019</year>
+<booktitle>SMACD</booktitle>
+<crossref>conf/smacd/2019</crossref>
+<url>db/conf/smacd/smacd2019.html#LeonhardLASS19</url>
+</inproceedings>
+</r>
+<r><article key="journals/esticas/Torres-MirandaP17" mdate="2017-05-20">
+<author>Miguel Torres-Miranda</author>
+<author>Andreas Petritz</author>
+<author>Alexander Fian</author>
+<author>Christine Prietl</author>
+<author>Herbert Gold</author>
+<author>Hassan Aboushady</author>
+<author>Yvan Bonnassieux</author>
+<author>Barbara Stadlober</author>
+<title>High-Speed Plastic Integrated Circuits: Process Integration, Design, and Test.</title>
+<pages>133-146</pages>
+<year>2017</year>
+<volume>7</volume>
+<journal>IEEE J. Emerg. Sel. Topics Circuits Syst.</journal>
+<number>1</number>
+<url>db/journals/esticas/esticas7.html#Torres-MirandaP17</url>
+</article>
+</r>
+<r><article key="journals/mj/BelfortCA17" mdate="2019-05-29">
+<author orcid="0000-0001-5722-7394">Diomadson R. Belfort</author>
+<author orcid="0000-0002-9599-9552">Sebastian Yuri Cavalcanti Catunda</author>
+<author>Hassan Aboushady</author>
+<title>4th order capacitively-coupled LC-based ΣΔ modulator.</title>
+<pages>99-107</pages>
+<year>2017</year>
+<volume>62</volume>
+<journal>Microelectronics Journal</journal>
+<url>db/journals/mj/mj62.html#BelfortCA17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icecsys/BadranA16" mdate="2017-05-23">
+<author>Tamer Badran</author>
+<author>Hassan Aboushady</author>
+<title>Delta-sigma modulator based spectrum sensing transceiver.</title>
+<pages>443</pages>
+<year>2016</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2016</crossref>
+<url>db/conf/icecsys/icecsys2016.html#BadranA16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcas/AshryBA15" mdate="2018-11-02">
+<author>Ahmed Ashry</author>
+<author orcid="0000-0001-5722-7394">Diomadson Belfort</author>
+<author>Hassan Aboushady</author>
+<title>Phase Noise Effect on Sine-Shaped Feedback DACs Used in Continuous-Time ΣΔ ADCs.</title>
+<pages>717-724</pages>
+<year>2015</year>
+<volume>62-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>3</number>
+<url>db/journals/tcas/tcasI62.html#AshryBA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/KilicHMA14" mdate="2018-05-09">
+<author>Alp Kiliç</author>
+<author>Delaram Haghighitalab</author>
+<author>Habib Mehrez</author>
+<author>Hassan Aboushady</author>
+<title>Low-power comb decimation filter for RF Sigma-Delta ADCs.</title>
+<pages>1596-1599</pages>
+<year>2014</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2014</crossref>
+<url>db/conf/iscas/iscas2014.html#KilicHMA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/BelfortCA14" mdate="2019-05-29">
+<author orcid="0000-0001-5722-7394">Diomadson Belfort</author>
+<author orcid="0000-0002-9599-9552">Sebastian Yuri Cavalcanti Catunda</author>
+<author>Hassan Aboushady</author>
+<title>Design of RF BAW-based ΣΔ Modulators.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>LASCAS</booktitle>
+<crossref>conf/lascas/2014</crossref>
+<url>db/conf/lascas/lascas2014.html#BelfortCA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/Espinoza-Rhoton14" mdate="2019-01-23">
+<author>Alfredo Espinoza-Rhoton</author>
+<author>Luis F. Gonzalez-Perez</author>
+<author>J. L. Ponce</author>
+<author>Borrayo-S. Hector</author>
+<author>Lennin C. Yllescas-Calderon</author>
+<author>Ramón Parra-Michel</author>
+<author>Hassan Aboushady</author>
+<title>An FPGA-based all-digital 802.11b and 802.15.4 receiver for the Software Defined Radio paradigm.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2014</crossref>
+<url>db/conf/reconfig/reconfig2014.html#Espinoza-Rhoton14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcas/AshryA13" mdate="2017-05-26">
+<author>Ahmed Ashry</author>
+<author>Hassan Aboushady</author>
+<title>A 4th Order 3.6 GS/s RF ΣΔ ADC With a FoM of 1 pJ/bit.</title>
+<pages>2606-2617</pages>
+<year>2013</year>
+<volume>60-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>10</number>
+<url>db/journals/tcas/tcasI60.html#AshryA13</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/LevequePLACSMC12" mdate="2017-09-16">
+<author>Antoine Lévêque</author>
+<author>François Pêcheux</author>
+<author>Marie-Minerve Louërat</author>
+<author>Hassan Aboushady</author>
+<author>Fabio Cenni</author>
+<author>Serge Scotti</author>
+<author>Abdelbasset Massouri</author>
+<author orcid="0000-0002-3279-930X">Laurent Clavier</author>
+<title>Holistic modeling of embedded systems with multi-discipline feedback: Application to a Precollision Mitigation Braking System.</title>
+<pages>739-744</pages>
+<year>2012</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2012</crossref>
+<url>db/conf/date/date2012.html#LevequePLACSMC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cicc/AshryA11" mdate="2017-05-17">
+<author>Ahmed Ashry</author>
+<author>Hassan Aboushady</author>
+<title>A 3.6GS/s, 15mW, 50dB SNDR, 28MHz bandwidth RF ΔΣ ADC with a FoM of 1pJ/bit in 130nm CMOS.</title>
+<pages>1-4</pages>
+<year>2011</year>
+<booktitle>CICC</booktitle>
+<crossref>conf/cicc/2011</crossref>
+<url>db/conf/cicc/cicc2011.html#AshryA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esscirc/AshryA11" mdate="2017-05-26">
+<author>Ahmed Ashry</author>
+<author>Hassan Aboushady</author>
+<title>A 4<sup>th</sup> order subsampled RF Δ ADC centered at 2.4GHz with a sine-shaped feedback DAC.</title>
+<pages>263-266</pages>
+<year>2011</year>
+<booktitle>ESSCIRC</booktitle>
+<crossref>conf/esscirc/2011</crossref>
+<url>db/conf/esscirc/esscirc2011.html#AshryA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/AshryA11" mdate="2017-05-26">
+<author>Ahmed Ashry</author>
+<author>Hassan Aboushady</author>
+<title>Sine-shaping mixer for continuous-time ΣΔ ADCs.</title>
+<pages>1113-1116</pages>
+<year>2011</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2011</crossref>
+<url>db/conf/iscas/iscas2011.html#AshryA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arcs/LevequePLAV10" mdate="2017-04-30">
+<author>Antoine Lévêque</author>
+<author>François Pêcheux</author>
+<author>Marie-Minerve Louërat</author>
+<author>Hassan Aboushady</author>
+<author>Michel Vasilevski</author>
+<title>SystemC-AMS Models for Low-Power Heterogeneous Designs: Application to a WSN for the Detection of Seismic Perturbations.</title>
+<pages>205-210</pages>
+<year>2010</year>
+<booktitle>ARCS Workshops</booktitle>
+<crossref>conf/arcs/2010w</crossref>
+<url>db/conf/arcs/arcs2010w.html#LevequePLAV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmas/AshryA10" mdate="2017-05-21">
+<author>Ahmed Ashry</author>
+<author>Hassan Aboushady</author>
+<title>Modeling jitter in Continuous-Time sigma-delta modulators.</title>
+<pages>53-56</pages>
+<year>2010</year>
+<booktitle>BMAS</booktitle>
+<crossref>conf/bmas/2010</crossref>
+<url>db/conf/bmas/bmas2010.html#AshryA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/AshryA10" mdate="2017-05-26">
+<author>Ahmed Ashry</author>
+<author>Hassan Aboushady</author>
+<title>A generalized approach to design CT ΣΔMs based on FIR DAC.</title>
+<pages>21-24</pages>
+<year>2010</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2010</crossref>
+<url>db/conf/iscas/iscas2010.html#AshryA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/GaberAALE10" mdate="2017-05-26">
+<author>Wagdy M. Gaber</author>
+<author>Mootaz Allam</author>
+<author>Hassan Aboushady</author>
+<author>Marie-Minerve Louërat</author>
+<author>El-Sayed Eid</author>
+<title>Systematic design of continuous-time ΣΔ modulator with VCO-based quantizer.</title>
+<pages>29-32</pages>
+<year>2010</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2010</crossref>
+<url>db/conf/iscas/iscas2010.html#GaberAALE10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/AshryA10a" mdate="2017-05-26">
+<author>Ahmed Ashry</author>
+<author>Hassan Aboushady</author>
+<title>Jitter analysis of bandpass continuous-time ΣΔMs for different feedback DAC shapes.</title>
+<pages>3997-4000</pages>
+<year>2010</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2010</crossref>
+<url>db/conf/iscas/iscas2010.html#AshryA10a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/BelfortBALC09" mdate="2019-05-29">
+<author>Diomadson Belfort</author>
+<author>Nicolas Beilleau</author>
+<author>Hassan Aboushady</author>
+<author>Marie-Minerve Louërat</author>
+<author orcid="0000-0002-9599-9552">Sebastian Yuri Cavalcanti Catunda</author>
+<title>A Q-enhanced LC bandpass filter using CAIRO+.</title>
+<pages>860-863</pages>
+<year>2009</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2009</crossref>
+<url>db/conf/icecsys/icecsys2009.html#BelfortBALC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/VasilevskiAL09" mdate="2017-05-26">
+<author>Michel Vasilevski</author>
+<author>Hassan Aboushady</author>
+<author>Marie-Minerve Louërat</author>
+<title>Automatic Model Refinement of GmC Integrators for High-level Simulation of Continuous-time Sigma-Delta Modulators.</title>
+<pages>2769-2772</pages>
+<year>2009</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2009</crossref>
+<url>db/conf/iscas/iscas2009.html#VasilevskiAL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/JavidABM09" mdate="2017-05-26">
+<author>F. Javid</author>
+<author>Hassan Aboushady</author>
+<author>Nicolas Beilleau</author>
+<author>Dominique Morche</author>
+<title>Effect of OP-amp Phase Margin on SC SigmaDelta Modulator with Bulk Acoustic Wave Resonators.</title>
+<pages>3138-3141</pages>
+<year>2009</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2009</crossref>
+<url>db/conf/iscas/iscas2009.html#JavidABM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/VasilevskiPBAE08" mdate="2018-11-06">
+<author>Michel Vasilevski</author>
+<author>François Pêcheux</author>
+<author>Nicolas Beilleau</author>
+<author>Hassan Aboushady</author>
+<author>Karsten Einwich</author>
+<title>Modeling and Refining Heterogeneous Systems With SystemC-AMS: Application to WSN.</title>
+<pages>134-139</pages>
+<year>2008</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2008</crossref>
+<url>db/conf/date/date2008.html#VasilevskiPBAE08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/YazkurtDTBAL06" mdate="2019-10-19">
+<author>Umut Yazkurt</author>
+<author orcid="0000-0003-2044-2706">Günhan Dündar</author>
+<author>Selçuk Talay</author>
+<author>Nicolas Beilleau</author>
+<author>Hassan Aboushady</author>
+<author>Laurent de Lamarre</author>
+<title>Scaling Input Signal Swings of Overloaded Integrators in Resonator-based Sigma-Delta Modulators.</title>
+<pages>966-969</pages>
+<year>2006</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2006</crossref>
+<url>db/conf/icecsys/icecsys2006.html#YazkurtDTBAL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/BeilleauKA06" mdate="2019-10-25">
+<author>Nicolas Beilleau</author>
+<author>Abla Kammoun</author>
+<author>Hassan Aboushady</author>
+<title>Systematic design method for LC bandpass Sigma Delta modulators with feedback FIRDACs.</title>
+<year>2006</year>
+<crossref>conf/iscas/2006</crossref>
+<booktitle>ISCAS</booktitle>
+<url>db/conf/iscas/iscas2006.html#BeilleauKA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/KammounBA06" mdate="2019-10-25">
+<author>Abla Kammoun</author>
+<author>Nicolas Beilleau</author>
+<author>Hassan Aboushady</author>
+<title>Undersampled LC bandpass Sigma Delta modulators with feedback FIRDACs.</title>
+<year>2006</year>
+<crossref>conf/iscas/2006</crossref>
+<booktitle>ISCAS</booktitle>
+<url>db/conf/iscas/iscas2006.html#KammounBA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/LatiriAB05" mdate="2017-05-26">
+<author>A. Latiri</author>
+<author>Hassan Aboushady</author>
+<author>Nicolas Beilleau</author>
+<title>Design of continuous-time /spl Sigma//spl Delta/ modulators with sine-shaped feedback DACs.</title>
+<pages>3672-3675</pages>
+<year>2005</year>
+<crossref>conf/iscas/2005</crossref>
+<booktitle>ISCAS (4)</booktitle>
+<url>db/conf/iscas/iscas2005-4.html#LatiriAB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/AboushadyLBL04" mdate="2017-05-23">
+<author>Hassan Aboushady</author>
+<author>Laurent de Lamarre</author>
+<author>Nicolas Beilleau</author>
+<author>Marie-Minerve Louërat</author>
+<title>Automatic Synthesis and Simulation of Continuous-Time [Sigma-Delta] Modulators.</title>
+<pages>674-675</pages>
+<year>2004</year>
+<crossref>conf/date/2004</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2004-1.html#AboushadyLBL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/AboushadyL04" mdate="2017-05-26">
+<author>Hassan Aboushady</author>
+<author>Marie-Minerve Louërat</author>
+<title>Loop delay compensation in bandpass continuous-time Sigma Delta modulators without additional feedback coefficients.</title>
+<pages>1124-1127</pages>
+<year>2004</year>
+<crossref>conf/iscas/2004</crossref>
+<booktitle>ISCAS (1)</booktitle>
+<url>db/conf/iscas/iscas2004-1.html#AboushadyL04</url>
+</inproceedings>
+</r>
+<r><article key="journals/adt/GhirvuSA02" mdate="2017-05-28">
+<author>Lucian Ghirvu</author>
+<author>Alexandra Stoica</author>
+<author>Hassan Aboushady</author>
+<title>Résumés de thèse.</title>
+<pages>1013-1014</pages>
+<year>2002</year>
+<volume>57</volume>
+<journal>Annales des Télécommunications</journal>
+<number>9-10</number>
+<url>db/journals/adt/adt57.html#GhirvuSA02</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/AboushadyL02" mdate="2017-05-26">
+<author>Hassan Aboushady</author>
+<author>Marie-Minerve Louërat</author>
+<title>Systematic approach for discrete-time to continuous-time transformation of Sigma-Delta modulators.</title>
+<pages>229-232</pages>
+<year>2002</year>
+<crossref>conf/iscas/2002</crossref>
+<booktitle>ISCAS (4)</booktitle>
+<url>db/conf/iscas/iscas2002-4.html#AboushadyL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/AboushadyL01" mdate="2017-05-26">
+<author>Hassan Aboushady</author>
+<author>Marie-Minerve Louërat</author>
+<title>Low-power design of low-voltage current-mode integrators for continuous-time Sigma-Delta modulators.</title>
+<pages>276-279</pages>
+<year>2001</year>
+<crossref>conf/iscas/2001</crossref>
+<booktitle>ISCAS (1)</booktitle>
+<url>db/conf/iscas/iscas2001-1.html#AboushadyL01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/AboushadyMDL99" mdate="2017-05-26">
+<author>Hassan Aboushady</author>
+<author>E. de Lira Mendes</author>
+<author>M. Dessouky</author>
+<author>Patrick Loumeau</author>
+<title>A current-mode continuous-time Sigma-Delta modulator with delayed return-to-zero feedback.</title>
+<pages>360-363</pages>
+<year>1999</year>
+<crossref>conf/iscas/1999</crossref>
+<booktitle>ISCAS (2)</booktitle>
+<url>db/conf/iscas/iscas1999-2.html#AboushadyMDL99</url>
+</inproceedings>
+</r>
+<coauthors n="54" nc="5">
+<co c="0"><na f="a/Allam:Mootaz">Mootaz Allam</na></co>
+<co c="0"><na f="a/Ashry:Ahmed">Ahmed Ashry</na></co>
+<co c="-1"><na f="b/Badran:Tamer">Tamer Badran</na></co>
+<co c="0"><na f="b/Beilleau:Nicolas">Nicolas Beilleau</na></co>
+<co c="0" n="2"><na f="b/Belfort:Diomadson_R=">Diomadson R. Belfort</na><na>Diomadson Belfort</na></co>
+<co c="1"><na f="b/Bonnassieux:Yvan">Yvan Bonnassieux</na></co>
+<co c="0" n="2"><na f="c/Catunda:Sebastian_Y=_C=">Sebastian Y. C. Catunda</na><na>Sebastian Yuri Cavalcanti Catunda</na></co>
+<co c="0"><na f="c/Cenni:Fabio">Fabio Cenni</na></co>
+<co c="0"><na f="c/Chotin=Avot:Roselyne">Roselyne Chotin-Avot</na></co>
+<co c="0"><na f="c/Clavier:Laurent">Laurent Clavier</na></co>
+<co c="3"><na f="d/Dessouky:M=">M. Dessouky</na></co>
+<co c="0"><na f="d/D=uuml=ndar:G=uuml=nhan">Günhan Dündar</na></co>
+<co c="0"><na f="e/Eid:El=Sayed">El-Sayed Eid</na></co>
+<co c="0"><na f="e/Einwich:Karsten">Karsten Einwich</na></co>
+<co c="2"><na f="e/Espinoza=Rhoton:Alfredo">Alfredo Espinoza-Rhoton</na></co>
+<co c="1"><na f="f/Fian:Alexander">Alexander Fian</na></co>
+<co c="0"><na f="g/Gaber:Wagdy_M=">Wagdy M. Gaber</na></co>
+<co c="0"><na f="g/Gebreyohannes:Fikre_Tsigabu">Fikre Tsigabu Gebreyohannes</na></co>
+<co c="4"><na f="g/Ghirvu:Lucian">Lucian Ghirvu</na></co>
+<co c="1"><na f="g/Gold:Herbert">Herbert Gold</na></co>
+<co c="2"><na f="g/Gonzalez=Perez:Luis_F=">Luis F. Gonzalez-Perez</na></co>
+<co c="0"><na f="h/Haghighitalab:Delaram">Delaram Haghighitalab</na></co>
+<co c="2"><na f="h/Hector:Borrayo=S=">Borrayo-S. Hector</na></co>
+<co c="0"><na f="j/Javid:F=">F. Javid</na></co>
+<co c="0"><na f="k/Kammoun:Abla">Abla Kammoun</na></co>
+<co c="0"><na f="k/Kili=ccedil=:Alp">Alp Kiliç</na></co>
+<co c="0"><na f="l/Lamarre:Laurent_de">Laurent de Lamarre</na></co>
+<co c="0"><na f="l/Latiri:A=">A. Latiri</na></co>
+<co c="0"><na f="l/Leonhard:Julian">Julian Leonhard</na></co>
+<co c="0"><na f="l/L=eacute=v=ecirc=que:Antoine">Antoine Lévêque</na></co>
+<co c="0"><na f="l/Lou=euml=rat:Marie=Minerve">Marie-Minerve Louërat</na></co>
+<co c="3"><na f="l/Loumeau:Patrick">Patrick Loumeau</na></co>
+<co c="0"><na f="m/Massouri:Abdelbasset">Abdelbasset Massouri</na></co>
+<co c="0"><na f="m/Mehrez:Habib">Habib Mehrez</na></co>
+<co c="3"><na f="m/Mendes:E=_de_Lira">E. de Lira Mendes</na></co>
+<co c="0"><na f="m/Morche:Dominique">Dominique Morche</na></co>
+<co c="0"><na f="n/Nabeel:Mohammed_Thari">Mohammed Thari Nabeel</na></co>
+<co c="2"><na f="p/Parra=Michel:Ram=oacute=n">Ramón Parra-Michel</na></co>
+<co c="0"><na f="p/P=ecirc=cheux:Fran=ccedil=ois">François Pêcheux</na></co>
+<co c="1"><na f="p/Petritz:Andreas">Andreas Petritz</na></co>
+<co c="2"><na f="p/Ponce:J=_L=">J. L. Ponce</na></co>
+<co c="1"><na f="p/Prietl:Christine">Christine Prietl</na></co>
+<co c="0"><na f="s/Scotti:Serge">Serge Scotti</na></co>
+<co c="0"><na f="s/Sinanoglu:Ozgur">Ozgur Sinanoglu</na></co>
+<co c="1"><na f="s/Stadlober:Barbara">Barbara Stadlober</na></co>
+<co c="4"><na f="s/Stoica:Alexandra">Alexandra Stoica</na></co>
+<co c="0"><na f="s/Stratigopoulos:Haralampos=G=_D=">Haralampos-G. D. Stratigopoulos</na></co>
+<co c="0"><na f="t/Talay:Sel=ccedil=uk">Selçuk Talay</na></co>
+<co c="1"><na f="t/Torres=Miranda:Miguel">Miguel Torres-Miranda</na></co>
+<co c="0"><na f="t/Turk:Shadi">Shadi Turk</na></co>
+<co c="0"><na f="v/Vasilevski:Michel">Michel Vasilevski</na></co>
+<co c="0"><na f="y/Yasin:Muhammad">Muhammad Yasin</na></co>
+<co c="0"><na f="y/Yazkurt:Umut">Umut Yazkurt</na></co>
+<co c="2"><na f="y/Yllescas=Calderon:Lennin_C=">Lennin C. Yllescas-Calderon</na></co>
+</coauthors>
+</dblpperson>
+

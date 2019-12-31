@@ -1,0 +1,367 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Khalil Hachicha" n="22">
+<person key="homepages/60/8285" mdate="2010-07-08">
+<author>Khalil Hachicha</author>
+</person>
+<r><article key="journals/jrtip/IbraheemHALG19" mdate="2019-11-29">
+<author>Mohammed Shaaban Ibraheem</author>
+<author>Khalil Hachicha</author>
+<author>Syed Zahid Ahmed</author>
+<author>Laurent Lambert</author>
+<author>Patrick Garda</author>
+<title>High-throughput parallel DWT hardware architecture implemented on an FPGA-based platform.</title>
+<pages>2043-2057</pages>
+<year>2019</year>
+<volume>16</volume>
+<journal>J. Real-Time Image Processing</journal>
+<number>6</number>
+<url>db/journals/jrtip/jrtip16.html#IbraheemHALG19</url>
+</article>
+</r>
+<r><article key="journals/access/IbraheemHR17" mdate="2018-11-02">
+<author>Mohammed Shaaban Ibraheem</author>
+<author orcid="0000-0002-5588-4291">Khalil Hachicha</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<title>Fast and Parallel AAC Decoder Architecture for a Digital Radio Mondiale 30 Receiver.</title>
+<pages>14638-14646</pages>
+<year>2017</year>
+<volume>5</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2017.2731902</ee>
+<url>db/journals/access/access5.html#IbraheemHR17</url>
+</article>
+</r>
+<r><inproceedings key="conf/embc/DhifHPHMG17" mdate="2018-11-14">
+<author>Imen Dhif</author>
+<author>Khalil Hachicha</author>
+<author>Andréa Pinna</author>
+<author>Sylvain Hochberg</author>
+<author>Imen Mhedhbi</author>
+<author>Patrick Garda</author>
+<title>Epileptic seizure detection based on expected activity measurement and Neural Network classification.</title>
+<pages>2814-2817</pages>
+<year>2017</year>
+<booktitle>EMBC</booktitle>
+<crossref>conf/embc/2017</crossref>
+<url>db/conf/embc/embc2017.html#DhifHPHMG17</url>
+</inproceedings>
+</r>
+<r><article key="journals/phat/IbraheemHAHG16" mdate="2019-05-24">
+<author>Mohammed Shaaban Ibraheem</author>
+<author>Khalil Hachicha</author>
+<author>Syed Zahid Ahmed</author>
+<author>Sylvain Hochberg</author>
+<author>Patrick Garda</author>
+<title>Logarithmic Discrete Wavelet Transform for Medical Image Compression with Diagnostic Quality.</title>
+<pages>e3</pages>
+<year>2016</year>
+<volume>2</volume>
+<journal>EAI Endorsed Trans. Pervasive Health Technol.</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.4108/eai.14-10-2015.2261675</ee>
+<url>db/journals/phat/phat2.html#IbraheemHAHG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/bhi/IbraheemAHHG16" mdate="2017-05-26">
+<author>Mohammed Shaaban Ibraheem</author>
+<author>Syed Zahid Ahmed</author>
+<author>Khalil Hachicha</author>
+<author>Sylvain Hochberg</author>
+<author>Patrick Garda</author>
+<title>Medical images compression with clinical diagnostic quality using logarithmic DWT.</title>
+<pages>402-405</pages>
+<year>2016</year>
+<booktitle>BHI</booktitle>
+<crossref>conf/bhi/2016</crossref>
+<url>db/conf/bhi/bhi2016.html#IbraheemAHHG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bhi/DhifILHPHMG16" mdate="2017-05-26">
+<author>Imen Dhif</author>
+<author>Mohammed Shaaban Ibraheem</author>
+<author>Laurent Lambert</author>
+<author>Khalil Hachicha</author>
+<author>Andréa Pinna</author>
+<author>Sylvain Hochberg</author>
+<author>Imen Mhedhbi</author>
+<author>Patrick Garda</author>
+<title>A novel approach using WAAVES coder for the EEG signal compression.</title>
+<pages>453-456</pages>
+<year>2016</year>
+<booktitle>BHI</booktitle>
+<crossref>conf/bhi/2016</crossref>
+<url>db/conf/bhi/bhi2016.html#DhifILHPHMG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/embc/LambertAHPG16" mdate="2018-11-14">
+<author>Laurent Lambert</author>
+<author>Syed Zahid Ahmed</author>
+<author>Khalil Hachicha</author>
+<author>Andréa Pinna</author>
+<author>Patrick Garda</author>
+<title>High frame rate medical quality video compression for tele-EEG.</title>
+<pages>5392-5396</pages>
+<year>2016</year>
+<booktitle>EMBC</booktitle>
+<crossref>conf/embc/2016</crossref>
+<url>db/conf/embc/embc2016.html#LambertAHPG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/IbraheemAHHG16" mdate="2018-11-06">
+<author>Mohammed Shaaban Ibraheem</author>
+<author>Syed Zahid Ahmed</author>
+<author>Khalil Hachicha</author>
+<author>Sylvain Hochberg</author>
+<author>Patrick Garda</author>
+<title>A Low DDR Bandwidth 100FPS 1080p Video 2D Discrete Wavelet Transform Implementation on FPGA (Abstract Only).</title>
+<pages>274</pages>
+<year>2016</year>
+<booktitle>FPGA</booktitle>
+<crossref>conf/fpga/2016</crossref>
+<url>db/conf/fpga/fpga2016.html#IbraheemAHHG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/embc/LambertHAPG15" mdate="2018-11-14">
+<author>Laurent Lambert</author>
+<author>Khalil Hachicha</author>
+<author>Syed Zahid Ahmed</author>
+<author>Andréa Pinna</author>
+<author>Patrick Garda</author>
+<title>Synchronizing physiological data and video in a telemedicine application: A multimedia approach.</title>
+<pages>181-185</pages>
+<year>2015</year>
+<booktitle>EMBC</booktitle>
+<crossref>conf/embc/2015</crossref>
+<url>db/conf/embc/embc2015.html#LambertHAPG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/BramasDFHGT15" mdate="2017-05-24">
+<author>Quentin Bramas</author>
+<author>Wilfried Dron</author>
+<author>Mariem Ben Fadhl</author>
+<author>Khalil Hachicha</author>
+<author>Patrick Garda</author>
+<author>Sébastien Tixeuil</author>
+<title>WiSeBat: accurate energy benchmarking of wireless sensor networks.</title>
+<pages>40-47</pages>
+<year>2015</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2015</crossref>
+<url>db/conf/fdl/fdl2015.html#BramasDFHGT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bhi/MhedhbiKHHHG14" mdate="2017-05-26">
+<author>Imen Mhedhbi</author>
+<author>Fayez Kaddouh</author>
+<author>Khalil Hachicha</author>
+<author>Didier Heudes</author>
+<author>Sylvain Hochberg</author>
+<author>Patrick Garda</author>
+<title>Mask motion adaptive medical image coding.</title>
+<pages>408-411</pages>
+<year>2014</year>
+<booktitle>BHI</booktitle>
+<crossref>conf/bhi/2014</crossref>
+<url>db/conf/bhi/bhi2014.html#MhedhbiKHHHG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dcoss/DronDVHG14" mdate="2017-05-25">
+<author>Wilfried Dron</author>
+<author>Simon Duquennoy</author>
+<author>Thiemo Voigt</author>
+<author>Khalil Hachicha</author>
+<author>Patrick Garda</author>
+<title>An Emulation-Based Method for Lifetime Estimation of Wireless Sensor Networks.</title>
+<pages>241-248</pages>
+<year>2014</year>
+<booktitle>DCOSS</booktitle>
+<crossref>conf/dcoss/2014</crossref>
+<url>db/conf/dcoss/dcoss2014.html#DronDVHG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/MhedhbiHG14" mdate="2017-05-24">
+<author>Imen Mhedhbi</author>
+<author>Khalil Hachicha</author>
+<author>Patrick Garda</author>
+<title>A new integer energy activity measure for parallel bit plane coding.</title>
+<pages>305-308</pages>
+<year>2014</year>
+<booktitle>NEWCAS</booktitle>
+<crossref>conf/newcas/2014</crossref>
+<url>db/conf/newcas/newcas2014.html#MhedhbiHG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/DronHG13" mdate="2017-05-24">
+<author>Wilfried Dron</author>
+<author>Khalil Hachicha</author>
+<author>Patrick Garda</author>
+<title>A fixed frequency sampling method for wireless sensors power consumption estimation.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>NEWCAS</booktitle>
+<crossref>conf/newcas/2013</crossref>
+<url>db/conf/newcas/newcas2013.html#DronHG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/BaiAMHCGG13" mdate="2017-05-24">
+<author>Yuhui Bai</author>
+<author>Syed Zahid Ahmed</author>
+<author>Imen Mhedhbi</author>
+<author>Khalil Hachicha</author>
+<author>Cedric Champion</author>
+<author>Patrick Garda</author>
+<author>Bertrand Granado</author>
+<title>FPGA vs DSP: A throughput and power efficiency comparison for Hierarchical Enumerative Coding.</title>
+<pages>318-321</pages>
+<year>2013</year>
+<booktitle>VLSI-SoC</booktitle>
+<crossref>conf/vlsi/2013soc</crossref>
+<url>db/conf/vlsi/vlsisoc2013.html#BaiAMHCGG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/TietcheRDBDGWKCPBHV12" mdate="2017-04-30">
+<author>Brunel Happi Tietche</author>
+<author>Olivier Romain</author>
+<author>Bruce Denby</author>
+<author>Laurent Benaroya</author>
+<author>Francois de Dieuleveult</author>
+<author>Bertrand Granado</author>
+<author>Guy Wassi</author>
+<author>Houssemeddine Khemiri</author>
+<author>Gérard Chollet</author>
+<author>Dijana Petrovska</author>
+<author>Raphaël Blouet</author>
+<author>Khalil Hachicha</author>
+<author>Sylvain Viateur</author>
+<title>Prototype of a radio-on-demand broadcast receiver with real time musical genre classification.</title>
+<pages>1-2</pages>
+<year>2012</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2012</crossref>
+<url>db/conf/dasip/dasip2012.html#TietcheRDBDGWKCPBHV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobihealth/MhedhbiHGBGTH12" mdate="2017-05-19">
+<author>Imen Mhedhbi</author>
+<author>Khalil Hachicha</author>
+<author>Patrick Garda</author>
+<author>Yuhui Bai</author>
+<author>Bertrand Granado</author>
+<author>Sébastien Topin</author>
+<author>Sylvain Hochberg</author>
+<title>Towards a Mobile Implementation of Waaves for Certified Medical Image Compression in E-Health Applications.</title>
+<pages>79-87</pages>
+<year>2012</year>
+<booktitle>MobiHealth</booktitle>
+<crossref>conf/mobihealth/2012</crossref>
+<url>db/conf/mobihealth/mobihealth2012.html#MhedhbiHGBGTH12</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcad/SuissaRDHG10" mdate="2018-11-02">
+<author>Abraham Suissa</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Julien Denoulet</author>
+<author>Khalil Hachicha</author>
+<author>Patrick Garda</author>
+<title>Empirical Method Based on Neural Networks for Analog Power Modeling.</title>
+<pages>839-844</pages>
+<year>2010</year>
+<volume>29</volume>
+<journal>IEEE Trans. on CAD of Integrated Circuits and Systems</journal>
+<number>5</number>
+<url>db/journals/tcad/tcad29.html#SuissaRDHG10</url>
+</article>
+</r>
+<r><article key="journals/tds/FauraHRG10" mdate="2018-11-02">
+<author>David Faura</author>
+<author>Khalil Hachicha</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Patrick Garda</author>
+<title>Markov-MJPEG2000 pour la surveillance vidéo sur des réseaux de capteurs sans fils.</title>
+<pages>541-562</pages>
+<year>2010</year>
+<volume>27</volume>
+<journal>Traitement du Signal</journal>
+<number>6</number>
+<url>db/journals/tds/tds27.html#FauraHRG10</url>
+</article>
+</r>
+<r><article key="journals/jrtip/HachichaFRG09" mdate="2018-11-30">
+<author>Khalil Hachicha</author>
+<author>David Faura</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Patrick Garda</author>
+<title>Accelerating the multiple reference frames compensation in the H.264 video coder.</title>
+<pages>55-65</pages>
+<year>2009</year>
+<volume>4</volume>
+<journal>J. Real-Time Image Processing</journal>
+<number>1</number>
+<url>db/journals/jrtip/jrtip4.html#HachichaFRG09</url>
+</article>
+</r>
+<r><article key="journals/jei/HachichaG08" mdate="2017-05-28">
+<author>Khalil Hachicha</author>
+<author>Patrick Garda</author>
+<title>Noise-robustness improvement of the H.264 video coder.</title>
+<pages>033019</pages>
+<year>2008</year>
+<volume>17</volume>
+<journal>J. Electronic Imaging</journal>
+<number>3</number>
+<url>db/journals/jei/jei17.html#HachichaG08</url>
+</article>
+</r>
+<r><inproceedings key="conf/nnsp/GardaRGPFH03" mdate="2018-11-02">
+<author>Patrick Garda</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Bertrand Granado</author>
+<author>Andréa Pinna</author>
+<author>David Faura</author>
+<author>Khalil Hachicha</author>
+<title>Architecture of an intelligent beacon for wireless sensor networks.</title>
+<pages>151-158</pages>
+<year>2003</year>
+<booktitle>NNSP</booktitle>
+<crossref>conf/nnsp/2003</crossref>
+<url>db/conf/nnsp/nnsp2003.html#GardaRGPFH03</url>
+</inproceedings>
+</r>
+<coauthors n="34" nc="1">
+<co c="0"><na f="a/Ahmed:Syed_Zahid">Syed Zahid Ahmed</na></co>
+<co c="0"><na f="b/Bai:Yuhui">Yuhui Bai</na></co>
+<co c="0" n="2"><na f="b/Benaroya:Elie=Laurent">Elie-Laurent Benaroya</na><na>Laurent Benaroya</na></co>
+<co c="0"><na f="b/Blouet:Rapha=euml=l">Raphaël Blouet</na></co>
+<co c="0"><na f="b/Bramas:Quentin">Quentin Bramas</na></co>
+<co c="0"><na f="c/Champion:Cedric">Cedric Champion</na></co>
+<co c="0"><na f="c/Chollet:G=eacute=rard">Gérard Chollet</na></co>
+<co c="0"><na f="d/Denby:Bruce">Bruce Denby</na></co>
+<co c="0"><na f="d/Denoulet:Julien">Julien Denoulet</na></co>
+<co c="0"><na f="d/Dhif:Imen">Imen Dhif</na></co>
+<co c="0"><na f="d/Dieuleveult:Francois_de">Francois de Dieuleveult</na></co>
+<co c="0"><na f="d/Dron:Wilfried">Wilfried Dron</na></co>
+<co c="0"><na f="d/Duquennoy:Simon">Simon Duquennoy</na></co>
+<co c="0"><na f="f/Fadhl:Mariem_Ben">Mariem Ben Fadhl</na></co>
+<co c="0"><na f="f/Faura:David">David Faura</na></co>
+<co c="0"><na f="g/Garda:Patrick">Patrick Garda</na></co>
+<co c="0"><na f="g/Granado:Bertrand">Bertrand Granado</na></co>
+<co c="0"><na f="h/Heudes:Didier">Didier Heudes</na></co>
+<co c="0"><na f="h/Hochberg:Sylvain">Sylvain Hochberg</na></co>
+<co c="0"><na f="i/Ibraheem:Mohammed_Shaaban">Mohammed Shaaban Ibraheem</na></co>
+<co c="0"><na f="k/Kaddouh:Fayez">Fayez Kaddouh</na></co>
+<co c="0"><na f="k/Khemiri:Houssemeddine">Houssemeddine Khemiri</na></co>
+<co c="0"><na f="l/Lambert:Laurent">Laurent Lambert</na></co>
+<co c="0"><na f="m/Mhedhbi:Imen">Imen Mhedhbi</na></co>
+<co c="0" n="2"><na f="p/Petrovska=Delacr=eacute=taz:Dijana">Dijana Petrovska-Delacrétaz</na><na>Dijana Petrovska</na></co>
+<co c="0"><na f="p/Pinna:Andr=eacute=a">Andréa Pinna</na></co>
+<co c="0"><na f="r/Romain:Olivier">Olivier Romain</na></co>
+<co c="0"><na f="s/Suissa:Abraham">Abraham Suissa</na></co>
+<co c="0"><na f="t/Tietche:Brunel_Happi">Brunel Happi Tietche</na></co>
+<co c="0"><na f="t/Tixeuil:S=eacute=bastien">Sébastien Tixeuil</na></co>
+<co c="0"><na f="t/Topin:S=eacute=bastien">Sébastien Topin</na></co>
+<co c="0"><na f="v/Viateur:Sylvain">Sylvain Viateur</na></co>
+<co c="0"><na f="v/Voigt:Thiemo">Thiemo Voigt</na></co>
+<co c="0"><na f="w/Wassi:Guy">Guy Wassi</na></co>
+</coauthors>
+</dblpperson>
+

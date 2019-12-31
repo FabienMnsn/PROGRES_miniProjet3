@@ -1,0 +1,1217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Marie-Jeanne Lesot" n="92">
+<person key="homepages/10/2063" mdate="2019-09-03">
+<author>Marie-Jeanne Lesot</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www-poleia.lip6.fr/~lesot/</url>
+<url>https://orcid.org/0000-0002-3604-6647</url>
+</person>
+<r><article key="journals/fss/GuillonLM19" mdate="2019-05-31">
+<author>Arthur Guillon</author>
+<author orcid="0000-0002-3604-6647">Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<title>A proximal framework for fuzzy subspace clustering.</title>
+<pages>34-45</pages>
+<year>2019</year>
+<volume>366</volume>
+<journal>Fuzzy Sets and Systems</journal>
+<url>db/journals/fss/fss366.html#GuillonLM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/SmitsNLP19" mdate="2019-10-14">
+<author>Grégory Smits</author>
+<author>Pierre Nerzic</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Olivier Pivert</author>
+<title>FRELS: Fast and Reliable Estimated Linguistic Summaries.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2019</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2019.html#SmitsNLP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/dAllonnesL19" mdate="2019-10-14">
+<author>Adrien Revault d'Allonnes</author>
+<author>Marie-Jeanne Lesot</author>
+<title>Study of an Abating Aggregation Operator in Many-Valued Logic.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2019</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2019.html#dAllonnesL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/LaugelLMRD19" mdate="2019-08-20">
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Xavier Renard</author>
+<author>Marcin Detyniecki</author>
+<title>The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/388</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#LaugelLMRD19</url>
+<pages>2801-2807</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/LenartBLPd19" mdate="2019-06-05">
+<author>Marcin Lenart</author>
+<author>Andrzej Bielecki</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Teodora Petrisor</author>
+<author>Adrien Revault d'Allonnes</author>
+<title>Trust Dynamics: A Case-study on Railway Sensors.</title>
+<pages>47-57</pages>
+<year>2019</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2019</crossref>
+<url>db/conf/sensornets/sensornets2019.html#LenartBLPd19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/Lesot19" mdate="2019-12-02">
+<author>Marie-Jeanne Lesot</author>
+<title>Subspace Clustering and Some Soft Variants.</title>
+<pages>433-443</pages>
+<year>2019</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2019</crossref>
+<url>db/conf/sum/sum2019.html#Lesot19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-04774" mdate="2019-06-14">
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>Issues with post-hoc counterfactual explanations: a discussion.</title>
+<year>2019</year>
+<volume>abs/1906.04774</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.04774</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-04774</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-09294" mdate="2019-07-30">
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Xavier Renard</author>
+<author>Marcin Detyniecki</author>
+<title>The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations.</title>
+<year>2019</year>
+<volume>abs/1907.09294</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.09294</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-09294</url>
+</article>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/SmitsNPL18" mdate="2018-10-23">
+<author>Grégory Smits</author>
+<author>Pierre Nerzic</author>
+<author>Olivier Pivert</author>
+<author>Marie-Jeanne Lesot</author>
+<title>Efficient Generation of Reliable Estimated Linguistic Summaries.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2018</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2018.html#SmitsNPL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaisc/LenartBLPd18" mdate="2018-05-24">
+<author>Marcin Lenart</author>
+<author>Andrzej Bielecki</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Teodora Petrisor</author>
+<author>Adrien Revault d'Allonnes</author>
+<title>Dynamic Trust Scoring of Railway Sensor Information.</title>
+<pages>579-591</pages>
+<year>2018</year>
+<booktitle>ICAISC (2)</booktitle>
+<crossref>conf/icaisc/2018-2</crossref>
+<url>db/conf/icaisc/icaisc2018-2.html#LenartBLPd18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/LaugelLMRD18" mdate="2018-05-30">
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Xavier Renard</author>
+<author>Marcin Detyniecki</author>
+<title>Comparison-Based Inverse Classification for Interpretability in Machine Learning.</title>
+<pages>100-111</pages>
+<year>2018</year>
+<booktitle>IPMU (1)</booktitle>
+<crossref>conf/ipmu/2018-1</crossref>
+<url>db/conf/ipmu/ipmu2018-1.html#LaugelLMRD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/RenardLLMD18" mdate="2019-02-19">
+<author>Xavier Renard</author>
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>Detecting Potential Local Adversarial Examples for Human-Interpretable Defense.</title>
+<pages>41-47</pages>
+<year>2018</year>
+<booktitle>Nemesis/UrbReas/SoGood/IWAISe/GDM@PKDD/ECML</booktitle>
+<crossref>conf/pkdd/2018nemesis</crossref>
+<url>db/conf/pkdd/nemesis2018.html#RenardLLMD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/MarsalaLLRC18" mdate="2018-09-24">
+<author>Christophe Marsala</author>
+<author>Anne Laurent</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<author>Arnaud Castelltort</author>
+<title>Discovering Ordinal Attributes Through Gradual Patterns, Morphological Filters and Rank Discrimination Measures.</title>
+<pages>152-163</pages>
+<year>2018</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2018</crossref>
+<url>db/conf/sum/sum2018.html#MarsalaLLRC18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-07498" mdate="2018-08-13">
+<author>Thibault Laugel</author>
+<author>Xavier Renard</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>Defining Locality for Surrogates in Post-hoc Interpretablity.</title>
+<year>2018</year>
+<volume>abs/1806.07498</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.07498</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-07498</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-02397" mdate="2018-10-05">
+<author>Xavier Renard</author>
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>Detecting Potential Local Adversarial Examples for Human-Interpretable Defense.</title>
+<year>2018</year>
+<volume>abs/1809.02397</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.02397</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-02397</url>
+</article>
+</r>
+<r><article key="journals/ijar/LefortLZTD17" mdate="2017-06-15">
+<author>Sébastien Lefort</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Elisabetta Zibetti</author>
+<author orcid="0000-0003-0604-1412">Charles Tijus</author>
+<author>Marcin Detyniecki</author>
+<title>Interpretation of approximate numerical expressions: Computational model and empirical study.</title>
+<pages>193-209</pages>
+<year>2017</year>
+<volume>82</volume>
+<journal>Int. J. Approx. Reasoning</journal>
+<url>db/journals/ijar/ijar82.html#LefortLZTD17</url>
+</article>
+</r>
+<r><article key="journals/ijar/LegasteloisLd17" mdate="2019-10-19">
+<author>Bénédicte Legastelois</author>
+<author orcid="0000-0002-3604-6647">Marie-Jeanne Lesot</author>
+<author orcid="0000-0003-2888-1770">Adrien Revault d'Allonnes</author>
+<title>Typology of axioms for a weighted modal logic.</title>
+<pages>341-358</pages>
+<year>2017</year>
+<volume>90</volume>
+<journal>Int. J. Approx. Reasoning</journal>
+<url>db/journals/ijar/ijar90.html#LegasteloisLd17</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusflat/LegasteloisLd17" mdate="2018-01-31">
+<author>Bénédicte Legastelois</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Adrien Revault d'Allonnes</author>
+<title>A Fuzzy Take on Graded Beliefs.</title>
+<pages>392-404</pages>
+<year>2017</year>
+<booktitle>EUSFLAT/IWIFSGN (2)</booktitle>
+<crossref>conf/eusflat/2017-2</crossref>
+<url>db/conf/eusflat/eusflat2017-2.html#LegasteloisLd17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/CrossL17" mdate="2017-08-29">
+<author>Valerie V. Cross</author>
+<author>Marie-Jeanne Lesot</author>
+<title>Fuzzy inferences using geometric compatibility or using graduality and ambiguity constraints.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2017</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2017.html#CrossL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/GuillonLM17" mdate="2017-08-29">
+<author>Arthur Guillon</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<title>Laplacian regularization for fuzzy subspace clustering.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2017</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2017.html#GuillonLM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/LefortLZTD17" mdate="2017-08-29">
+<author>Sébastien Lefort</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Elisabetta Zibetti</author>
+<author>Charles Tijus</author>
+<author>Marcin Detyniecki</author>
+<title>How arithmetically fuzzy are we? An empirical comparison of human imprecise calculation and fuzzy arithmetic.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2017</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2017.html#LefortLZTD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/LesotB17" mdate="2017-08-29">
+<author>Marie-Jeanne Lesot</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>A local transformation-based constraint-guided GMP compatible with an interpolation scheme.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2017</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2017.html#LesotB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifsa/SmitsPL17" mdate="2017-09-07">
+<author>Grégory Smits</author>
+<author>Olivier Pivert</author>
+<author>Marie-Jeanne Lesot</author>
+<title>Vocabulary elicitation for informative descriptions of classes.</title>
+<pages>1-8</pages>
+<year>2017</year>
+<booktitle>IFSA-SCIS</booktitle>
+<crossref>conf/ifsa/2017</crossref>
+<url>db/conf/ifsa/ifsa-scis2017.html#SmitsPL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifsa/dAllonnesL17" mdate="2017-09-07">
+<author>Adrien Revault d'Allonnes</author>
+<author>Marie-Jeanne Lesot</author>
+<title>If I don't know, should I infer? Reasoning around ignorance in a many-valued framework.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>IFSA-SCIS</booktitle>
+<crossref>conf/ifsa/2017</crossref>
+<url>db/conf/ifsa/ifsa-scis2017.html#dAllonnesL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iui/LefortZLDT17" mdate="2018-11-06">
+<author>Sébastien Lefort</author>
+<author>Elisabetta Zibetti</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Marcin Detyniecki</author>
+<author orcid="0000-0003-0604-1412">Charles Tijus</author>
+<title>Dimensions for Automatic Interpretation of Approximate Numerical Expressions: An empirical study.</title>
+<pages>107-117</pages>
+<year>2017</year>
+<booktitle>IUI</booktitle>
+<crossref>conf/iui/2017</crossref>
+<url>db/conf/iui/iui2017.html#LefortZLDT17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CanuLd17" mdate="2018-08-13">
+<author>Maël Canu</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Adrien Revault d'Allonnes</author>
+<title>Overlapping Community Detection by Local Decentralised Vertex-centred Process.</title>
+<year>2017</year>
+<volume>abs/1702.03773</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.03773</ee>
+<url>db/journals/corr/corr1702.html#CanuLd17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-08443" mdate="2018-08-13">
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Xavier Renard</author>
+<author>Marcin Detyniecki</author>
+<title>Inverse Classification for Comparison-based Interpretability in Machine Learning.</title>
+<year>2017</year>
+<volume>abs/1712.08443</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.08443</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-08443</url>
+</article>
+</r>
+<r><article key="journals/fss/MoyseL16" mdate="2017-06-14">
+<author orcid="0000-0002-1536-1250">Gilles Moyse</author>
+<author>Marie-Jeanne Lesot</author>
+<title>Linguistic summaries of locally periodic time series.</title>
+<pages>94-117</pages>
+<year>2016</year>
+<volume>285</volume>
+<journal>Fuzzy Sets and Systems</journal>
+<url>db/journals/fss/fss285.html#MoyseL16</url>
+</article>
+</r>
+<r><article key="journals/fss/LesotMB16" mdate="2017-06-14">
+<author>Marie-Jeanne Lesot</author>
+<author orcid="0000-0002-1536-1250">Gilles Moyse</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Interpretability of fuzzy linguistic summaries.</title>
+<pages>307-317</pages>
+<year>2016</year>
+<volume>292</volume>
+<journal>Fuzzy Sets and Systems</journal>
+<url>db/journals/fss/fss292.html#LesotMB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/complexnetworks/CanuLd16" mdate="2017-08-24">
+<author>Maël Canu</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Adrien Revault d'Allonnes</author>
+<title>Vertex-centred Method to Detect Communities in Evolving Networks.</title>
+<pages>275-286</pages>
+<year>2016</year>
+<booktitle>COMPLEX NETWORKS</booktitle>
+<crossref>conf/complexnetworks/2016</crossref>
+<url>db/conf/complexnetworks/complexnetworks2016.html#CanuLd16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/BlotLD16" mdate="2017-05-21">
+<author>Michael Blot</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Marcin Detyniecki</author>
+<title>Transformation-based constraint-guided Generalised Modus Ponens.</title>
+<pages>1316-1322</pages>
+<year>2016</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2016</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2016.html#BlotLD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/CanuLd16" mdate="2019-10-19">
+<author>Maël Canu</author>
+<author>Marie-Jeanne Lesot</author>
+<author orcid="0000-0003-2888-1770">Adrien Revault d'Allonnes</author>
+<title>Overlapping Community Detection by Local Decentralised Vertex-Centred Process.</title>
+<pages>77-84</pages>
+<year>2016</year>
+<booktitle>ICDM Workshops</booktitle>
+<crossref>conf/icdm/2016w</crossref>
+<url>db/conf/icdm/icdm2016w.html#CanuLd16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/LegasteloisLd16" mdate="2017-05-21">
+<author>Bénédicte Legastelois</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Adrien Revault d'Allonnes</author>
+<title>Negation of Graded Beliefs.</title>
+<pages>148-160</pages>
+<year>2016</year>
+<booktitle>IPMU (2)</booktitle>
+<crossref>conf/ipmu/2016-2</crossref>
+<url>db/conf/ipmu/ipmu2016-2.html#LegasteloisLd16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/LefortLZTD16" mdate="2017-06-15">
+<author>Sébastien Lefort</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Elisabetta Zibetti</author>
+<author orcid="0000-0003-0604-1412">Charles Tijus</author>
+<author>Marcin Detyniecki</author>
+<title>How Much Is "About"? Fuzzy Interpretation of Approximate Numerical Expressions.</title>
+<pages>226-237</pages>
+<year>2016</year>
+<booktitle>IPMU (1)</booktitle>
+<crossref>conf/ipmu/2016-1</crossref>
+<url>db/conf/ipmu/ipmu2016-1.html#LefortLZTD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/GuillonLMP16" mdate="2017-05-21">
+<author>Arthur Guillon</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Nikhil R. Pal</author>
+<title>Proximal Optimization for Fuzzy Subspace Clustering.</title>
+<pages>675-686</pages>
+<year>2016</year>
+<booktitle>IPMU (1)</booktitle>
+<crossref>conf/ipmu/2016-1</crossref>
+<url>db/conf/ipmu/ipmu2016-1.html#GuillonLMP16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ipmu/2016-1" mdate="2017-05-21">
+<editor>João Paulo Carvalho</editor>
+<editor>Marie-Jeanne Lesot</editor>
+<editor>Uzay Kaymak</editor>
+<editor>Susana M. Vieira</editor>
+<editor>Bernadette Bouchon-Meunier</editor>
+<editor>Ronald R. Yager</editor>
+<title>Information Processing and Management of Uncertainty in Knowledge-Based Systems - 16th International Conference, IPMU 2016, Eindhoven, The Netherlands, June 20-24, 2016, Proceedings, Part I</title>
+<booktitle>IPMU (1)</booktitle>
+<publisher>Springer</publisher>
+<year>2016</year>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>610</volume>
+<isbn>978-3-319-40595-7</isbn>
+<url>db/conf/ipmu/ipmu2016-1.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/ipmu/2016-2" mdate="2017-06-04">
+<editor>João Paulo Carvalho</editor>
+<editor>Marie-Jeanne Lesot</editor>
+<editor>Uzay Kaymak</editor>
+<editor orcid="0000-0001-7961-1004">Susana M. Vieira</editor>
+<editor>Bernadette Bouchon-Meunier</editor>
+<editor>Ronald R. Yager</editor>
+<title>Information Processing and Management of Uncertainty in Knowledge-Based Systems - 16th International Conference, IPMU 2016, Eindhoven, The Netherlands, June 20-24, 2016, Proceedings, Part II</title>
+<booktitle>IPMU (2)</booktitle>
+<publisher>Springer</publisher>
+<year>2016</year>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>611</volume>
+<isbn>978-3-319-40580-3</isbn>
+<url>db/conf/ipmu/ipmu2016-2.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CanuLd16" mdate="2018-08-13">
+<author>Maël Canu</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Adrien Revault d'Allonnes</author>
+<title>Vertex-centred Method to Detect Communities in Evolving Networks.</title>
+<year>2016</year>
+<volume>abs/1611.08484</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.08484</ee>
+<url>db/journals/corr/corr1611.html#CanuLd16</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/CanuDLd15" mdate="2019-10-19">
+<author>Maël Canu</author>
+<author>Marcin Detyniecki</author>
+<author>Marie-Jeanne Lesot</author>
+<author orcid="0000-0003-2888-1770">Adrien Revault d'Allonnes</author>
+<title>Fast community structure local uncovering by independent vertex-centred process.</title>
+<pages>823-830</pages>
+<year>2015</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2015</crossref>
+<url>db/conf/asunam/asonam2015.html#CanuDLd15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusflat/LaurentLR15" mdate="2015-11-23">
+<author>Anne Laurent</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<title>Mining Emerging Gradual Patterns.</title>
+<year>2015</year>
+<booktitle>IFSA-EUSFLAT</booktitle>
+<crossref>conf/eusflat/2015</crossref>
+<url>db/conf/eusflat/eusflat2015.html#LaurentLR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/MoyseLB15" mdate="2017-05-21">
+<author>Gilles Moyse</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Oppositions in Fuzzy Linguistic Summaries.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2015</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2015.html#MoyseLB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/OudniLRB15" mdate="2019-10-19">
+<author>Amal Oudni</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<author orcid="0000-0001-6683-4380">Rosangela Ballini</author>
+<title>Analysis of the emission of American Depositary Receipts of Brazilian companies through the extraction of linguistic summaries.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2015</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2015.html#OudniLRB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/dAllonnesL15" mdate="2017-05-21">
+<author>Adrien Revault d'Allonnes</author>
+<author>Marie-Jeanne Lesot</author>
+<title>Dynamics of trust building: Models of information cross-checking in a multivalued logic framework.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2015</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2015.html#dAllonnesL15</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sfsc/BorgeltBLK15" mdate="2017-05-16">
+<author>Christian Borgelt</author>
+<author>Christian Braune</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Rudolf Kruse</author>
+<title>Handling Noise and Outliers in Fuzzy Clustering.</title>
+<pages>315-335</pages>
+<year>2015</year>
+<booktitle>Fifty Years of Fuzzy Logic and its Applications</booktitle>
+<crossref>series/sfsc/2015-326</crossref>
+<url>db/series/sfsc/sfsc326.html#BorgeltBLK15</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/CanuDLd15" mdate="2018-08-13">
+<author>Maël Canu</author>
+<author>Marcin Detyniecki</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Adrien Revault d'Allonnes</author>
+<title>Fast community structure local uncovering by independent vertex-centred process.</title>
+<year>2015</year>
+<volume>abs/1509.03500</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1509.03500</ee>
+<url>db/journals/corr/corr1509.html#CanuDLd15</url>
+</article>
+</r>
+<r><article key="journals/ria/DzogangLR14" mdate="2017-05-27">
+<author>Fabon Dzogang</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<title>Apprentissage de concepts émotionnels à partir de descripteurs bas niveau.</title>
+<pages>131-157</pages>
+<year>2014</year>
+<volume>28</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>1</number>
+<url>db/journals/ria/ria28.html#DzogangLR14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ic3k/Lesot14" mdate="2015-06-01">
+<author>Marie-Jeanne Lesot</author>
+<title>Bridging the Emotional Gap - From Objective Representations to Subjective Interpretations.</title>
+<pages>IS-15</pages>
+<year>2014</year>
+<booktitle>KEOD</booktitle>
+<crossref>conf/ic3k/2014keod</crossref>
+<url>db/conf/ic3k/keod2014.html#Lesot14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/SmitsPL14" mdate="2017-05-21">
+<author>Grégory Smits</author>
+<author>Olivier Pivert</author>
+<author>Marie-Jeanne Lesot</author>
+<title>A Vocabulary Revision Method Based on Modality Splitting.</title>
+<pages>140-149</pages>
+<year>2014</year>
+<booktitle>IPMU (3)</booktitle>
+<crossref>conf/ipmu/2014-3</crossref>
+<url>db/conf/ipmu/ipmu2014-3.html#SmitsPL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/dAllonnesL14" mdate="2017-05-21">
+<author>Adrien Revault d'Allonnes</author>
+<author>Marie-Jeanne Lesot</author>
+<title>Formalising Information Scoring in a Multivalued Logic Framework.</title>
+<pages>314-324</pages>
+<year>2014</year>
+<booktitle>IPMU (1)</booktitle>
+<crossref>conf/ipmu/2014-1</crossref>
+<url>db/conf/ipmu/ipmu2014-1.html#dAllonnesL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/MoyseL14" mdate="2017-05-21">
+<author>Gilles Moyse</author>
+<author>Marie-Jeanne Lesot</author>
+<title>Fast and Incremental Computation for the Erosion Score.</title>
+<pages>376-385</pages>
+<year>2014</year>
+<booktitle>IPMU (1)</booktitle>
+<crossref>conf/ipmu/2014-1</crossref>
+<url>db/conf/ipmu/ipmu2014-1.html#MoyseL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/OudniLR14" mdate="2017-05-21">
+<author>Amal Oudni</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<title>Accelerating Effect of Attribute Variations: Accelerated Gradual Itemsets Extraction.</title>
+<pages>395-404</pages>
+<year>2014</year>
+<booktitle>IPMU (2)</booktitle>
+<crossref>conf/ipmu/2014-2</crossref>
+<url>db/conf/ipmu/ipmu2014-2.html#OudniLR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/is/DetynieckiLM14" mdate="2017-05-21">
+<author>Marcin Detyniecki</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Paul Moncuquet</author>
+<title>Intuitionistic Fuzzy Tautology Definitions for the Validity of Intuitionistic Fuzzy Implications: An Experimental Study.</title>
+<pages>171-182</pages>
+<year>2014</year>
+<booktitle>IEEE Conf. on Intelligent Systems (1)</booktitle>
+<crossref>conf/is/2014-1</crossref>
+<url>db/conf/is/is2014-1.html#DetynieckiLM14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijgs/Bouchon-MeunierLM13" mdate="2017-05-20">
+<author>Bernadette Bouchon-Meunier</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<title>Modelling and management of subjective information in a fuzzy setting.</title>
+<pages>3-19</pages>
+<year>2013</year>
+<volume>42</volume>
+<journal>Int. J. General Systems</journal>
+<number>1</number>
+<url>db/journals/ijgs/ijgs42.html#Bouchon-MeunierLM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusflat/OudniLR13" mdate="2017-05-21">
+<author>Amal Oudni</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<title>Characterisation of gradual itemsets based on mathematical morphology tools.</title>
+<year>2013</year>
+<booktitle>EUSFLAT Conf.</booktitle>
+<crossref>conf/eusflat/2013</crossref>
+<url>db/conf/eusflat/eusflat2013.html#OudniLR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/foci/MoyseLB13" mdate="2017-05-17">
+<author>Gilles Moyse</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Linguistic summaries for periodicity detection based on mathematical morphology.</title>
+<pages>106-113</pages>
+<year>2013</year>
+<booktitle>FOCI</booktitle>
+<crossref>conf/foci/2013</crossref>
+<url>db/conf/foci/foci2013.html#MoyseLB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/MoyseLB13" mdate="2017-05-21">
+<author>Gilles Moyse</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Mathematical Morphology Tools to Evaluate Periodic Linguistic Summaries.</title>
+<pages>257-268</pages>
+<year>2013</year>
+<booktitle>FQAS</booktitle>
+<crossref>conf/fqas/2013</crossref>
+<url>db/conf/fqas/fqas2013.html#MoyseLB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/AlmeidaLBKM13" mdate="2017-04-29">
+<author>Rui Jorge Almeida</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Bernadette Bouchon-Meunier</author>
+<author>Uzay Kaymak</author>
+<author>Gilles Moyse</author>
+<title>Linguistic summaries of categorical time series for septic shock patient data.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2013</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2013.html#AlmeidaLBKM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/LesotSP13" mdate="2017-04-29">
+<author>Marie-Jeanne Lesot</author>
+<author>Grégory Smits</author>
+<author>Olivier Pivert</author>
+<title>Adequacy of a user-defined vocabulary to the data structure.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2013</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2013.html#LesotSP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/OudniLR13" mdate="2017-04-29">
+<author>Amal Oudni</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<title>Processing contradiction in gradual itemset extraction.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2013</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2013.html#OudniLR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/LesotNDCB12" mdate="2017-05-21">
+<author>Marie-Jeanne Lesot</author>
+<author>François Nel</author>
+<author>Thomas Delavallade</author>
+<author>Philippe Capet</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Two methods for Internet buzz detection exploiting the citation graph.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2012</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2012.html#LesotNDCB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/DzogangMLR12" mdate="2017-05-26">
+<author>Fabon Dzogang</author>
+<author>Christophe Marsala</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<title>An Ellipsoidal K-Means for Document Clustering.</title>
+<pages>221-230</pages>
+<year>2012</year>
+<booktitle>ICDM</booktitle>
+<crossref>conf/icdm/2012</crossref>
+<url>db/conf/icdm/icdm2012.html#DzogangMLR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdai/DamezLd12" mdate="2017-05-24">
+<author>Marc Damez</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Adrien Revault d'Allonnes</author>
+<title>Dynamic Credit-Card Fraud Profiling.</title>
+<pages>234-245</pages>
+<year>2012</year>
+<booktitle>MDAI</booktitle>
+<crossref>conf/mdai/2012</crossref>
+<url>db/conf/mdai/mdai2012.html#DamezLd12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/Lesotd12" mdate="2017-05-24">
+<author>Marie-Jeanne Lesot</author>
+<author>Adrien Revault d'Allonnes</author>
+<title>Credit-Card Fraud Profiling Using a Hybrid Incremental Clustering Methodology.</title>
+<pages>325-336</pages>
+<year>2012</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2012</crossref>
+<url>db/conf/sum/sum2012.html#Lesotd12</url>
+</inproceedings>
+</r>
+<r><incollection key="series/rnti/LesotR12" mdate="2014-05-01">
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<title>Degrés d'équivalence de mesures de comparaison pour données binaires et pour données numériques.</title>
+<pages>145-164</pages>
+<year>2012</year>
+<booktitle>Mesurer et évaluer la Qualité des Données et des Connaissances</booktitle>
+<crossref>series/rnti/E22</crossref>
+<url>db/series/rnti/rnti-E22.html#LesotR12</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/eusflat/LesotDPABC11" mdate="2017-05-21">
+<author>Marie-Jeanne Lesot</author>
+<author>Thomas Delavallade</author>
+<author>Frédéric Pichon</author>
+<author>Herman Akdag</author>
+<author>Bernadette Bouchon-Meunier</author>
+<author>Philippe Capet</author>
+<title>Proposition of a semi-automatic possibilistic information scoring process.</title>
+<pages>949-956</pages>
+<year>2011</year>
+<booktitle>EUSFLAT Conf.</booktitle>
+<crossref>conf/eusflat/2011</crossref>
+<url>db/conf/eusflat/eusflat2011.html#LesotDPABC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/BareckeLAB11" mdate="2014-04-24">
+<author>Thomas Bärecke</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Herman Akdag</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Prise en compte du réseau de sources pour la fusion d'informations.</title>
+<pages>323-324</pages>
+<year>2011</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2011</crossref>
+<url>db/conf/f-egc/egc2011.html#BareckeLAB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/NelLCD11" mdate="2014-04-24">
+<author>François Nel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Philippe Capet</author>
+<author>Thomas Delavallade</author>
+<title>Modélisation de la propagation de l'information sur le Web : de l'extraction des données à la simulation.</title>
+<pages>587-592</pages>
+<year>2011</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2011</crossref>
+<url>db/conf/f-egc/egc2011.html#NelLCD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/NelLDC11" mdate="2012-01-04">
+<author>François Nel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Thomas Delavallade</author>
+<author>Philippe Capet</author>
+<title>Information Propagation on the Web: Data Extraction, Modeling and Simulation.</title>
+<year>2011</year>
+<booktitle>ICWSM</booktitle>
+<crossref>conf/icwsm/2011</crossref>
+<url>db/conf/icwsm/icwsm2011.html#NelLDC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/Bouchon-MeunierLLR10" mdate="2017-05-21">
+<author>Bernadette Bouchon-Meunier</author>
+<author>Anne Laurent</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<title>Strengthening fuzzy gradual rules through "all the more" clauses.</title>
+<pages>1-7</pages>
+<year>2010</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2010</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2010.html#Bouchon-MeunierLLR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/DzogangLRB10" mdate="2017-05-21">
+<author>Fabon Dzogang</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Expressions of graduality for sentiments analysis - A survey.</title>
+<pages>1-7</pages>
+<year>2010</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2010</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2010.html#DzogangLRB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/Bouchon-MeunierCLR10" mdate="2017-06-04">
+<author>Bernadette Bouchon-Meunier</author>
+<author orcid="0000-0002-0152-1735">Giulianella Coletti</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<title>Towards a Conscious Choice of a Fuzzy Similarity Measure: A Qualitative Point of View.</title>
+<pages>1-10</pages>
+<year>2010</year>
+<booktitle>IPMU</booktitle>
+<crossref>conf/ipmu/2010</crossref>
+<url>db/conf/ipmu/ipmu2010.html#Bouchon-MeunierCLR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/LesotR10" mdate="2017-05-21">
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<title>Order-Based Equivalence Degrees for Similarity and Distance Measures.</title>
+<pages>19-28</pages>
+<year>2010</year>
+<booktitle>IPMU</booktitle>
+<crossref>conf/ipmu/2010</crossref>
+<url>db/conf/ipmu/ipmu2010.html#LesotR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kes/FengLD10" mdate="2017-05-21">
+<author>Haifeng Feng</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Marcin Detyniecki</author>
+<title>Using Association Rules to Discover Color-Emotion Relationships Based on Social Tagging.</title>
+<pages>544-553</pages>
+<year>2010</year>
+<booktitle>KES (1)</booktitle>
+<crossref>conf/kes/2010-1</crossref>
+<url>db/conf/kes/kes2010-1.html#FengLD10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijkesdp/LesotRB09" mdate="2017-05-26">
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<author>Hamid Benhadda</author>
+<title>Similarity measures for binary and numerical data: a survey.</title>
+<pages>63-84</pages>
+<year>2009</year>
+<volume>1</volume>
+<journal>IJKESDP</journal>
+<number>1</number>
+<url>db/journals/ijkesdp/ijkesdp1.html#LesotRB09</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecsqaru/Bouchon-MeunierCLR09" mdate="2017-06-02">
+<author>Bernadette Bouchon-Meunier</author>
+<author orcid="0000-0002-0152-1735">Giulianella Coletti</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<title>Towards a Conscious Choice of a Similarity Measure: A Qualitative Point of View.</title>
+<pages>542-553</pages>
+<year>2009</year>
+<booktitle>ECSQARU</booktitle>
+<crossref>conf/ecsqaru/2009</crossref>
+<url>db/conf/ecsqaru/ecsqaru2009.html#Bouchon-MeunierCLR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/LesotRD09" mdate="2014-04-24">
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<author>Marcin Detyniecki</author>
+<title>Comparaison de distances et noyaux classiques par degré d'équivalence des ordres induits.</title>
+<pages>55-60</pages>
+<year>2009</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2009</crossref>
+<url>db/conf/f-egc/egc2009.html#LesotRD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/LaurentLR09" mdate="2017-05-21">
+<author>Anne Laurent</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<title>GRAANK: Exploiting Rank Correlations for Extracting Gradual Itemsets.</title>
+<pages>382-393</pages>
+<year>2009</year>
+<booktitle>FQAS</booktitle>
+<crossref>conf/fqas/2009</crossref>
+<url>db/conf/fqas/fqas2009.html#LaurentLR09</url>
+</inproceedings>
+</r>
+<r><book key="books/igi/09/LL2009" mdate="2019-07-01">
+<editor>Anne Laurent</editor>
+<editor>Marie-Jeanne Lesot</editor>
+<title>Scalable Fuzzy Algorithms for Data Management and Analysis - Methods and Design.</title>
+<booktitle>Scalable Fuzzy Algorithms for Data Management and Analysis</booktitle>
+<publisher>IGI Global</publisher>
+<year>2009</year>
+<isbn>978-1-60566-858-1</isbn>
+<url>db/books/collections/LL2009.html</url>
+</book>
+</r>
+<r><article key="journals/ria/LesotLY08" mdate="2017-09-16">
+<author>Marie-Jeanne Lesot</author>
+<author orcid="0000-0002-2794-2124">Nicolas Labroche</author>
+<author>Lionel Yaffi</author>
+<title>Analyse et visualisation interactive de sessions web.</title>
+<pages>369-382</pages>
+<year>2008</year>
+<volume>22</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>3-4</number>
+<url>db/journals/ria/ria22.html#LesotLY08</url>
+</article>
+</r>
+<r><inproceedings key="conf/dlog/CouchariereLB08" mdate="2019-05-28">
+<author>Olivier Couchariere</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Consistency Checking for Extended Description Logics.</title>
+<year>2008</year>
+<booktitle>Description Logics</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-353/CouchariereLesotBouchon-meunier.pdf</ee>
+<crossref>conf/dlog/2008</crossref>
+<url>db/conf/dlog/dlog2008.html#CouchariereLB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcci/Bouchon-MeunierRL08" mdate="2017-05-25">
+<author>Bernadette Bouchon-Meunier</author>
+<author>Maria Rifqi</author>
+<author>Marie-Jeanne Lesot</author>
+<title>Similarities in Fuzzy Data Mining: From a Cognitive View to Real-World Applications.</title>
+<pages>349-367</pages>
+<year>2008</year>
+<booktitle>WCCI</booktitle>
+<crossref>conf/wcci/2008</crossref>
+<url>db/conf/wcci/wcci2008.html#Bouchon-MeunierRL08</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sfsc/LesotRB08" mdate="2017-05-16">
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Fuzzy Prototypes: From a Cognitive View to a Machine Learning Principle.</title>
+<pages>431-452</pages>
+<year>2008</year>
+<booktitle>Fuzzy Sets and Their Extensions: Representation, Aggregation and Models</booktitle>
+<crossref>series/sfsc/2008-220</crossref>
+<url>db/series/sfsc/sfsc220.html#LesotRB08</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/ictai/LabrocheLY07" mdate="2017-11-06">
+<author orcid="0000-0002-2794-2124">Nicolas Labroche</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Lionel Yaffi</author>
+<title>A New Web Usage Mining and Visualization Tool.</title>
+<pages>321-328</pages>
+<year>2007</year>
+<crossref>conf/ictai/2007-1</crossref>
+<booktitle>ICTAI (1)</booktitle>
+<url>db/conf/ictai/ictai2007-1.html#LabrocheLY07</url>
+</inproceedings>
+</r>
+<r><article key="journals/csda/DoringLK06" mdate="2017-05-17">
+<author>Christian Döring</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Rudolf Kruse</author>
+<title>Data analysis with fuzzy clustering methods.</title>
+<pages>192-214</pages>
+<year>2006</year>
+<volume>51</volume>
+<journal>Computational Statistics and Data Analysis</journal>
+<number>1</number>
+<url>db/journals/csda/csda51.html#DoringLK06</url>
+</article>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/LesotK06" mdate="2017-05-21">
+<author>Marie-Jeanne Lesot</author>
+<author>Rudolf Kruse</author>
+<title>Data Summarisation by Typicality-based Clustering for Vectorial and Non Vectorial Data.</title>
+<pages>547-554</pages>
+<year>2006</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2006</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2006.html#LesotK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gfkl/LesotK06" mdate="2017-05-23">
+<author>Marie-Jeanne Lesot</author>
+<author>Rudolf Kruse</author>
+<title>Typicality Degrees and Fuzzy Prototypes for Clustering.</title>
+<pages>107-114</pages>
+<year>2006</year>
+<booktitle>GfKl</booktitle>
+<crossref>conf/gfkl/2006</crossref>
+<url>db/conf/gfkl/gfkl2006.html#LesotK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gfkl/Lesot05" mdate="2017-05-23">
+<author>Marie-Jeanne Lesot</author>
+<title>Outlier Preserving Clustering for Structured Data Through Kernels.</title>
+<pages>462-469</pages>
+<year>2005</year>
+<booktitle>GfKl</booktitle>
+<crossref>conf/gfkl/2005</crossref>
+<url>db/conf/gfkl/gfkl2005.html#Lesot05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/LesotB04" mdate="2017-05-21">
+<author>Marie-Jeanne Lesot</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Cluster Characterization through a Representativity Measure.</title>
+<pages>446-458</pages>
+<year>2004</year>
+<crossref>conf/fqas/2004</crossref>
+<booktitle>FQAS</booktitle>
+<url>db/conf/fqas/fqas2004.html#LesotB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/LesotB04" mdate="2017-05-21">
+<author>Marie-Jeanne Lesot</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Descriptive concept extraction with exceptions by hybrid clustering.</title>
+<pages>389-394</pages>
+<year>2004</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2004</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2004.html#LesotB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzy/LesotMB04" mdate="2017-05-19">
+<author>Marie-Jeanne Lesot</author>
+<author>Laure Mouillet</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Fuzzy Prototypes Based on Typicality Degrees.</title>
+<pages>125-138</pages>
+<year>2004</year>
+<booktitle>Fuzzy Days</booktitle>
+<crossref>conf/fuzzy/2004</crossref>
+<url>db/conf/fuzzy/fuzzy2004.html#LesotMB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecml/LesotdS03" mdate="2018-11-02">
+<author>Marie-Jeanne Lesot</author>
+<author orcid="0000-0002-8353-0589">Florence d'Alché-Buc</author>
+<author>George Siolas</author>
+<title>Evaluation of Topographic Clustering and Its Kernelization.</title>
+<pages>265-276</pages>
+<year>2003</year>
+<crossref>conf/ecml/2003</crossref>
+<booktitle>ECML</booktitle>
+<url>db/conf/ecml/ecml2003.html#LesotdS03</url>
+</inproceedings>
+</r>
+<r><article key="journals/prl/LouchetGLB02" mdate="2018-11-14">
+<author>Jean Louchet</author>
+<author>Maud Guyon</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Amine M. Boumaza</author>
+<title>Dynamic flies: a new pattern recognition tool applied to stereo sequence processing.</title>
+<pages>335-345</pages>
+<year>2002</year>
+<volume>23</volume>
+<journal>Pattern Recognition Letters</journal>
+<number>1-3</number>
+<url>db/journals/prl/prl23.html#LouchetGLB02</url>
+</article>
+</r>
+<coauthors n="57" nc="4">
+<co c="0"><na f="a/Akdag:Herman">Herman Akdag</na></co>
+<co c="0"><na f="a/Almeida:Rui_Jorge">Rui Jorge Almeida</na></co>
+<co c="0"><na f="b/Ballini:Rosangela">Rosangela Ballini</na></co>
+<co c="0"><na f="b/B=auml=recke:Thomas">Thomas Bärecke</na></co>
+<co c="0"><na f="b/Benhadda:Hamid">Hamid Benhadda</na></co>
+<co c="0"><na f="b/Bielecki:Andrzej">Andrzej Bielecki</na></co>
+<co c="0"><na f="b/Blot:Michael">Michael Blot</na></co>
+<co c="1"><na f="b/Borgelt:Christian">Christian Borgelt</na></co>
+<co c="0"><na f="b/Bouchon=Meunier:Bernadette">Bernadette Bouchon-Meunier</na></co>
+<co c="2"><na f="b/Boumaza:Amine_M=">Amine M. Boumaza</na></co>
+<co c="1"><na f="b/Braune:Christian">Christian Braune</na></co>
+<co c="0"><na f="c/Canu:Ma=euml=l">Maël Canu</na></co>
+<co c="0"><na f="c/Capet:Philippe">Philippe Capet</na></co>
+<co c="0"><na f="c/Carvalho:Jo=atilde=o_Paulo">João Paulo Carvalho</na></co>
+<co c="0"><na f="c/Castelltort:Arnaud">Arnaud Castelltort</na></co>
+<co c="0"><na f="c/Coletti:Giulianella">Giulianella Coletti</na></co>
+<co c="0"><na f="c/Couchariere:Olivier">Olivier Couchariere</na></co>
+<co c="0"><na f="c/Cross:Valerie_V=">Valerie V. Cross</na></co>
+<co c="3"><na f="d/d=Alch=eacute==Buc:Florence">Florence d'Alché-Buc</na></co>
+<co c="0"><na f="d/d=Allonnes:Adrien_Revault">Adrien Revault d'Allonnes</na></co>
+<co c="0"><na f="d/Damez:Marc">Marc Damez</na></co>
+<co c="0"><na f="d/Delavallade:Thomas">Thomas Delavallade</na></co>
+<co c="0"><na f="d/Detyniecki:Marcin">Marcin Detyniecki</na></co>
+<co c="1"><na f="d/D=ouml=ring:Christian">Christian Döring</na></co>
+<co c="0"><na f="d/Dzogang:Fabon">Fabon Dzogang</na></co>
+<co c="0"><na f="f/Feng:Haifeng">Haifeng Feng</na></co>
+<co c="0"><na f="g/Guillon:Arthur">Arthur Guillon</na></co>
+<co c="2"><na f="g/Guyon:Maud">Maud Guyon</na></co>
+<co c="0"><na f="k/Kaymak:Uzay">Uzay Kaymak</na></co>
+<co c="1"><na f="k/Kruse:Rudolf">Rudolf Kruse</na></co>
+<co c="0"><na f="l/Labroche:Nicolas">Nicolas Labroche</na></co>
+<co c="0"><na f="l/Laugel:Thibault">Thibault Laugel</na></co>
+<co c="0"><na f="l/Laurent:Anne">Anne Laurent</na></co>
+<co c="0"><na f="l/Lefort:S=eacute=bastien">Sébastien Lefort</na></co>
+<co c="0"><na f="l/Legastelois:B=eacute=n=eacute=dicte">Bénédicte Legastelois</na></co>
+<co c="0"><na f="l/Lenart:Marcin">Marcin Lenart</na></co>
+<co c="2"><na f="l/Louchet:Jean">Jean Louchet</na></co>
+<co c="0"><na f="m/Marsala:Christophe">Christophe Marsala</na></co>
+<co c="0"><na f="m/Moncuquet:Paul">Paul Moncuquet</na></co>
+<co c="0"><na f="m/Mouillet:Laure">Laure Mouillet</na></co>
+<co c="0"><na f="m/Moyse:Gilles">Gilles Moyse</na></co>
+<co c="0"><na f="n/Nel:Fran=ccedil=ois">François Nel</na></co>
+<co c="0"><na f="n/Nerzic:Pierre">Pierre Nerzic</na></co>
+<co c="0"><na f="o/Oudni:Amal">Amal Oudni</na></co>
+<co c="0"><na f="p/Pal:Nikhil_R=">Nikhil R. Pal</na></co>
+<co c="0"><na f="p/Petrisor:Teodora">Teodora Petrisor</na></co>
+<co c="0"><na f="p/Pichon:Fr=eacute=d=eacute=ric">Frédéric Pichon</na></co>
+<co c="0"><na f="p/Pivert:Olivier">Olivier Pivert</na></co>
+<co c="0"><na f="r/Renard:Xavier">Xavier Renard</na></co>
+<co c="0"><na f="r/Rifqi:Maria">Maria Rifqi</na></co>
+<co c="3" n="2"><na f="s/Siolas:Georgios">Georgios Siolas</na><na>George Siolas</na></co>
+<co c="0"><na f="s/Smits:Gr=eacute=gory">Grégory Smits</na></co>
+<co c="0"><na f="t/Tijus:Charles">Charles Tijus</na></co>
+<co c="0"><na f="v/Vieira:Susana_M=">Susana M. Vieira</na></co>
+<co c="0"><na f="y/Yaffi:Lionel">Lionel Yaffi</na></co>
+<co c="0"><na f="y/Yager:Ronald_R=">Ronald R. Yager</na></co>
+<co c="0"><na f="z/Zibetti:Elisabetta">Elisabetta Zibetti</na></co>
+</coauthors>
+</dblpperson>
+

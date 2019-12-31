@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Cédric Herpson" n="8">
+<person key="homepages/00/7439" mdate="2009-10-12">
+<author>Cédric Herpson</author>
+</person>
+<r><proceedings key="conf/idc/2016" mdate="2019-06-02">
+<editor>Costin Badica</editor>
+<editor>Amal El Fallah-Seghrouchni</editor>
+<editor>Aurélie Beynier</editor>
+<editor>David Camacho</editor>
+<editor>Cédric Herpson</editor>
+<editor orcid="0000-0002-5707-5236">Koen V. Hindriks</editor>
+<editor orcid="0000-0002-3549-0754">Paulo Novais</editor>
+<title>Intelligent Distributed Computing X - Proceedings of the 10th International Symposium on Intelligent Distributed Computing - IDC 2016, Paris, France, October 10-12 2016</title>
+<booktitle>IDC</booktitle>
+<year>2017</year>
+<series href="db/series/sci/index.html">Studies in Computational Intelligence</series>
+<volume>678</volume>
+<isbn>978-3-319-48828-8</isbn>
+<url>db/conf/idc/idc2016.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/safeprocess/HerpsonCF15" mdate="2019-05-28">
+<author>Cédric Herpson</author>
+<author>Vincent Corruble</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<title>ADS2 : Anytime Distributed Supervision of Distributed Systems that Face Unreliable or Costly Communication.</title>
+<pages>35-42</pages>
+<year>2015</year>
+<booktitle>DX@Safeprocess</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1507/dx15paper5.pdf</ee>
+<crossref>conf/safeprocess/2015dx</crossref>
+<url>db/conf/safeprocess/dx2015.html#HerpsonCF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/HerpsonFC14" mdate="2017-05-24">
+<author>Cédric Herpson</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Vincent Corruble</author>
+<title>ADS2 : Anytime Distributed Supervision of Distributed Systems that Face Unreliable or Costly Communication.</title>
+<pages>1023-1024</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HerpsonFC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/procedia/BaljakBFHHNOSTT12" mdate="2017-05-28">
+<author>Valentina Baljak</author>
+<author>Marius Tudor Benea</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Cédric Herpson</author>
+<author>Shinichi Honiden</author>
+<author>Nga Thi Thuy Nguyen</author>
+<author>Andrei Olaru</author>
+<author>Ryo Shimizu</author>
+<author>Kenji Tei</author>
+<author>Susumu Toriumi</author>
+<title>S-CLAIM: An Agent-based Programming Language for AmI, A Smart-Room Case Study.</title>
+<pages>30-37</pages>
+<year>2012</year>
+<crossref>conf/ant/2012</crossref>
+<booktitle>ANT/MobiWIS</booktitle>
+<url>db/journals/procedia/procedia10.html#BaljakBFHHNOSTT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idc/HerpsonCS11" mdate="2017-05-26">
+<author>Cédric Herpson</author>
+<author>Vincent Corruble</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<title>Towards an Adaptive Supervision of Distributed Systems.</title>
+<pages>129-139</pages>
+<year>2011</year>
+<booktitle>IDC</booktitle>
+<crossref>conf/idc/2011</crossref>
+<url>db/conf/idc/idc2011.html#HerpsonCS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/HerpsonCS11" mdate="2012-02-07">
+<author>Cédric Herpson</author>
+<author>Vincent Corruble</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<title>Un Modèle décisionnel d'agent pour une supervision adaptative des systèmes distribués.</title>
+<pages>31-40</pages>
+<year>2011</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2011</crossref>
+<url>db/conf/jfsma/jfsma2011.html#HerpsonCS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/QuijanoHS10" mdate="2012-02-07">
+<author>Javier Gil Quijano</author>
+<author>Cédric Herpson</author>
+<author>Nicolas Sabouret</author>
+<title>Prédiction de l'activité humaine afin de réduire la consommation électrique de l'habitat.</title>
+<pages>43-52</pages>
+<year>2010</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2010</crossref>
+<url>db/conf/jfsma/jfsma2010.html#QuijanoHS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dis/HerpsonC09" mdate="2017-05-23">
+<author>Cédric Herpson</author>
+<author>Vincent Corruble</author>
+<title>Discovering Abstract Concepts to Aid Cross-Map Transfer for a Learning Agent.</title>
+<pages>409-416</pages>
+<year>2009</year>
+<booktitle>Discovery Science</booktitle>
+<crossref>conf/dis/2009</crossref>
+<url>db/conf/dis/dis2009.html#HerpsonC09</url>
+</inproceedings>
+</r>
+<coauthors n="17" nc="1">
+<co c="0"><na f="b/Badica:Costin">Costin Badica</na></co>
+<co c="0"><na f="b/Baljak:Valentina">Valentina Baljak</na></co>
+<co c="0"><na f="b/Benea:Marius_Tudor">Marius Tudor Benea</na></co>
+<co c="0"><na f="b/Beynier:Aur=eacute=lie">Aurélie Beynier</na></co>
+<co c="0"><na f="c/Camacho:David">David Camacho</na></co>
+<co c="0"><na f="c/Corruble:Vincent">Vincent Corruble</na></co>
+<co c="0"><na f="f/Fallah=Seghrouchni:Amal_El">Amal El Fallah-Seghrouchni</na></co>
+<co c="0"><na f="h/Hindriks:Koen_V=">Koen V. Hindriks</na></co>
+<co c="0"><na f="h/Honiden:Shinichi">Shinichi Honiden</na></co>
+<co c="0"><na f="n/Nguyen:Nga_Thi_Thuy">Nga Thi Thuy Nguyen</na></co>
+<co c="0"><na f="n/Novais:Paulo">Paulo Novais</na></co>
+<co c="0"><na f="o/Olaru:Andrei">Andrei Olaru</na></co>
+<co c="0"><na f="q/Quijano:Javier_Gil">Javier Gil Quijano</na></co>
+<co c="0"><na f="s/Sabouret:Nicolas">Nicolas Sabouret</na></co>
+<co c="0"><na f="s/Shimizu:Ryo">Ryo Shimizu</na></co>
+<co c="0"><na f="t/Tei:Kenji">Kenji Tei</na></co>
+<co c="0"><na f="t/Toriumi:Susumu">Susumu Toriumi</na></co>
+</coauthors>
+</dblpperson>
+

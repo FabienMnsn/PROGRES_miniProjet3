@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Olivier Fourmaux" n="29">
+<person key="homepages/54/5967" mdate="2009-06-10">
+<author>Olivier Fourmaux</author>
+</person>
+<r><inproceedings key="conf/infocom/VermeulenLFFM19" mdate="2019-09-25">
+<author>Kevin Vermeulen</author>
+<author>Burim Ljuma</author>
+<author>Olivier Fourmaux</author>
+<author>Timur Friedman</author>
+<author>Rick McGeer</author>
+<title>Internet measurements on EdgeNet.</title>
+<pages>915-916</pages>
+<year>2019</year>
+<booktitle>INFOCOM Workshops</booktitle>
+<crossref>conf/infocom/2019w</crossref>
+<url>db/conf/infocom/infocom2019w.html#VermeulenLFFM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imc/VermeulenSFF18" mdate="2019-10-25">
+<author>Kevin Vermeulen</author>
+<author>Stephen D. Strowes</author>
+<author>Olivier Fourmaux</author>
+<author>Timur Friedman</author>
+<title>Multilevel MDA-Lite Paris Traceroute.</title>
+<pages>29-42</pages>
+<year>2018</year>
+<booktitle>Internet Measurement Conference</booktitle>
+<crossref>conf/imc/2018</crossref>
+<url>db/conf/imc/imc2018.html#VermeulenSFF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/AbuteirFF18" mdate="2019-01-03">
+<author>Rabee Mustapha Abuteir</author>
+<author>Anne Fladenmuller</author>
+<author>Olivier Fourmaux</author>
+<title>Towards Centralized Management for Video Streaming Over Enterprise Wireless LANs.</title>
+<pages>1-7</pages>
+<year>2018</year>
+<booktitle>PIMRC</booktitle>
+<crossref>conf/pimrc/2018</crossref>
+<url>db/conf/pimrc/pimrc2018.html#AbuteirFF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qshine/NguyenFD18" mdate="2019-03-08">
+<author>Anh-Tuan Nguyen</author>
+<author>Olivier Fourmaux</author>
+<author>Christophe Deleuze</author>
+<title>Exploring YouTube's CDN Heterogeneity.</title>
+<pages>158-166</pages>
+<year>2018</year>
+<booktitle>QSHINE</booktitle>
+<crossref>conf/qshine/2018</crossref>
+<url>db/conf/qshine/qshine2018.html#NguyenFD18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-10070" mdate="2018-10-05">
+<author>Kevin Vermeulen</author>
+<author>Stephen D. Strowes</author>
+<author>Olivier Fourmaux</author>
+<author>Timur Friedman</author>
+<title>Multilevel MDA-Lite Paris Traceroute.</title>
+<year>2018</year>
+<volume>abs/1809.10070</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.10070</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-10070</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwcmc/AbuteirFFA17" mdate="2017-07-24">
+<author>Rabee Mustapha Abuteir</author>
+<author>Anne Fladenmuller</author>
+<author>Olivier Fourmaux</author>
+<author>Mostafa Ammar</author>
+<title>Variable-threshold buffer based adaptation for DASH mobile Video Streaming.</title>
+<pages>1-7</pages>
+<year>2017</year>
+<booktitle>IWCMC</booktitle>
+<crossref>conf/iwcmc/2017</crossref>
+<url>db/conf/iwcmc/iwcmc2017.html#AbuteirFFA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/AbuteirFF16" mdate="2018-11-30">
+<author>Rabee Mustapha Abuteir</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Olivier Fourmaux</author>
+<title>SDN Based Architecture to Improve Video Streaming in Home Networks.</title>
+<pages>220-226</pages>
+<year>2016</year>
+<booktitle>AINA</booktitle>
+<crossref>conf/aina/2016</crossref>
+<url>db/conf/aina/aina2016.html#AbuteirFF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apnoms/GhanemFTM16" mdate="2018-12-20">
+<author>Marwan Ghanem 0001</author>
+<author>Olivier Fourmaux</author>
+<author>Fabien Tarissan</author>
+<author>Takumi Miyoshi</author>
+<title>P2PTV multi-channel peers analysis.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>APNOMS</booktitle>
+<crossref>conf/apnoms/2016</crossref>
+<url>db/conf/apnoms/apnoms2016.html#GhanemFTM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/AbuteirFF16" mdate="2018-11-30">
+<author>Rabee Mustapha Abuteir</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Olivier Fourmaux</author>
+<title>An SDN approach to adaptive Video Streaming in Wireless home networks.</title>
+<pages>321-326</pages>
+<year>2016</year>
+<booktitle>IWCMC</booktitle>
+<crossref>conf/iwcmc/2016</crossref>
+<url>db/conf/iwcmc/iwcmc2016.html#AbuteirFF16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieicet/Hoang-VanSMF14" mdate="2018-09-28">
+<author>Hiep Hoang-Van</author>
+<author>Yuki Shinozaki</author>
+<author>Takumi Miyoshi</author>
+<author>Olivier Fourmaux</author>
+<title>A Router-Aided Hierarchical P2P Traffic Localization Based on Variable Additional Delay Insertion.</title>
+<pages>29-39</pages>
+<year>2014</year>
+<volume>97-B</volume>
+<journal>IEICE Transactions</journal>
+<number>1</number>
+<url>db/journals/ieicet/ieicet97b.html#Hoang-VanSMF14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/Hoang-VanMF14" mdate="2017-05-25">
+<author>Hiep Hoang-Van</author>
+<author>Takumi Miyoshi</author>
+<author>Olivier Fourmaux</author>
+<title>A hierarchical P2P traffic localization method with bandwidth limitation.</title>
+<pages>3136-3141</pages>
+<year>2014</year>
+<booktitle>ICC</booktitle>
+<crossref>conf/icc/2014</crossref>
+<url>db/conf/icc/icc2014.html#Hoang-VanMF14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijndc/Hoang-VanMMF13" mdate="2018-10-16">
+<author>Hiep Hoang-Van</author>
+<author>Koki Mizutani</author>
+<author>Takumi Miyoshi</author>
+<author>Olivier Fourmaux</author>
+<title>P2P Traffic Localization by Forcing Packet Loss.</title>
+<pages>251-259</pages>
+<year>2013</year>
+<volume>1</volume>
+<journal>IJNDC</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.2991/ijndc.2013.1.4.6</ee>
+<url>db/journals/ijndc/ijndc1.html#Hoang-VanMMF13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ACISicis/Hoang-VanMMF13" mdate="2017-05-25">
+<author>Hiep Hoang-Van</author>
+<author>Koki Mizutani</author>
+<author>Takumi Miyoshi</author>
+<author>Olivier Fourmaux</author>
+<title>P2P traffic localization by forcing packet loss.</title>
+<pages>323-328</pages>
+<year>2013</year>
+<booktitle>ICIS</booktitle>
+<crossref>conf/ACISicis/2013</crossref>
+<url>db/conf/ACISicis/ACISicis2013.html#Hoang-VanMMF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rivf/Hoang-VanMF13" mdate="2017-05-25">
+<author>Hiep Hoang-Van</author>
+<author>Takumi Miyoshi</author>
+<author>Olivier Fourmaux</author>
+<title>A hierarchical P2P traffic localization method with bandwidth limitation.</title>
+<pages>127-130</pages>
+<year>2013</year>
+<booktitle>RIVF</booktitle>
+<crossref>conf/rivf/2013</crossref>
+<url>db/conf/rivf/rivf2013.html#Hoang-VanMF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/snpd/Hoang-VanMF13" mdate="2017-05-26">
+<author>Hiep Hoang-Van</author>
+<author>Takumi Miyoshi</author>
+<author>Olivier Fourmaux</author>
+<title>P2PTV Traffic Localization by Deep Packet Inspection.</title>
+<pages>375-380</pages>
+<year>2013</year>
+<booktitle>SNPD</booktitle>
+<crossref>conf/snpd/2013</crossref>
+<url>db/conf/snpd/snpd2013.html#Hoang-VanMF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/incos/MiyoshiSF12" mdate="2017-05-25">
+<author>Takumi Miyoshi</author>
+<author>Yuki Shinozaki</author>
+<author>Olivier Fourmaux</author>
+<title>A P2P Traffic Localization Method with Additional Delay Insertion.</title>
+<pages>148-154</pages>
+<year>2012</year>
+<booktitle>INCoS</booktitle>
+<crossref>conf/incos/2012</crossref>
+<url>db/conf/incos/incos2012.html#MiyoshiSF12</url>
+</inproceedings>
+</r>
+<r><article key="journals/spic/SilverstonJCFSC11" mdate="2017-05-28">
+<author>Thomas Silverston</author>
+<author>Loránd Jakab</author>
+<author>Albert Cabellos-Aparicio</author>
+<author>Olivier Fourmaux</author>
+<author>Kavé Salamatian</author>
+<author>Kenjiro Cho</author>
+<title>Large-scale measurement experiments of P2P-TV systems insights on fairness and locality.</title>
+<pages>327-338</pages>
+<year>2011</year>
+<volume>26</volume>
+<journal>Sig. Proc.: Image Comm.</journal>
+<number>7</number>
+<url>db/journals/spic/spic26.html#SilverstonJCFSC11</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/SilverstonFSC10" mdate="2017-05-23">
+<author>Thomas Silverston</author>
+<author>Olivier Fourmaux</author>
+<author>Kavé Salamatian</author>
+<author>Kenjiro Cho</author>
+<title>On Fairness and Locality in P2P-TV through Large-Scale Measurement Experiment.</title>
+<pages>1-6</pages>
+<year>2010</year>
+<booktitle>GLOBECOM</booktitle>
+<crossref>conf/globecom/2010</crossref>
+<url>db/conf/globecom/globecom2010.html#SilverstonFSC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/SilverstonFSC10" mdate="2017-05-25">
+<author>Thomas Silverston</author>
+<author>Olivier Fourmaux</author>
+<author>Kavé Salamatian</author>
+<author>Kenjiro Cho</author>
+<title>Measuring P2P-TV systems on both sides of the world.</title>
+<pages>1321-1326</pages>
+<year>2010</year>
+<booktitle>ICME</booktitle>
+<crossref>conf/icmcs/2010</crossref>
+<url>db/conf/icmcs/icme2010.html#SilverstonFSC10</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/SilverstonFBDPVS09" mdate="2018-11-30">
+<author>Thomas Silverston</author>
+<author>Olivier Fourmaux</author>
+<author orcid="0000-0002-3365-1446">Alessio Botta</author>
+<author>Alberto Dainotti</author>
+<author>Antonio Pescapè</author>
+<author>Giorgio Ventre</author>
+<author>Kavé Salamatian</author>
+<title>Traffic analysis of peer-to-peer IPTV communities.</title>
+<pages>470-484</pages>
+<year>2009</year>
+<volume>53</volume>
+<journal>Computer Networks</journal>
+<number>4</number>
+<url>db/journals/cn/cn53.html#SilverstonFBDPVS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/p2p/SilverstonFC08" mdate="2017-05-23">
+<author>Thomas Silverston</author>
+<author>Olivier Fourmaux</author>
+<author>Jon Crowcroft</author>
+<title>Towards an Incentive Mechanism for Peer-to-Peer Multimedia Live Streaming Systems.</title>
+<pages>125-128</pages>
+<year>2008</year>
+<booktitle>Peer-to-Peer Computing</booktitle>
+<crossref>conf/p2p/2008</crossref>
+<url>db/conf/p2p/p2p2008.html#SilverstonFC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/SilverstonFSC07" mdate="2018-11-06">
+<author>Thomas Silverston</author>
+<author>Olivier Fourmaux</author>
+<author>Kavé Salamatian</author>
+<author>Kenjiro Cho</author>
+<title>Measuring P2P IPTV traffic on both sides of the world.</title>
+<pages>39</pages>
+<year>2007</year>
+<booktitle>CoNEXT</booktitle>
+<crossref>conf/conext/2007</crossref>
+<url>db/conf/conext/conext2007.html#SilverstonFSC07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0704-3228" mdate="2018-08-13">
+<author>Thomas Silverston</author>
+<author>Olivier Fourmaux</author>
+<author>Kavé Salamatian</author>
+<title>Characterization of P2P IPTV Traffic: Scaling Analysis</title>
+<ee type="oa">http://arxiv.org/abs/0704.3228</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0704.3228</volume>
+<url>db/journals/corr/corr0704.html#abs-0704-3228</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/SilverstonF06" mdate="2018-11-06">
+<author>Thomas Silverston</author>
+<author>Olivier Fourmaux</author>
+<title>P2P IPTV measurement: a case study of TVants.</title>
+<pages>45</pages>
+<year>2006</year>
+<booktitle>CoNEXT</booktitle>
+<crossref>conf/conext/2006</crossref>
+<url>db/conf/conext/conext2006.html#SilverstonF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icn/SilverstonF06" mdate="2017-05-24">
+<author>Thomas Silverston</author>
+<author>Olivier Fourmaux</author>
+<title>Source vs Data-driven Approach for Live P2P Streaming.</title>
+<pages>99</pages>
+<year>2006</year>
+<crossref>conf/icn/2006</crossref>
+<booktitle>ICN/ICONS/MCL</booktitle>
+<url>db/conf/icn/icn2006.html#SilverstonF06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0610133" mdate="2018-08-13">
+<author>Thomas Silverston</author>
+<author>Olivier Fourmaux</author>
+<title>P2P IPTV Measurement: A Comparison Study</title>
+<ee type="oa">http://arxiv.org/abs/cs/0610133</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0610133</volume>
+<url>db/journals/corr/corr0610.html#abs-cs-0610133</url>
+</article>
+</r>
+<r><inproceedings key="conf/icn/MorenoF05" mdate="2017-05-24">
+<author>Joaquín Caraballo Moreno</author>
+<author>Olivier Fourmaux</author>
+<title>Live Streaming on a Peer-to-Peer Overlay: Implementation and Validation.</title>
+<pages>625-633</pages>
+<year>2005</year>
+<crossref>conf/icn/2005-2</crossref>
+<booktitle>ICN (2)</booktitle>
+<url>db/conf/icn/icn2005-2.html#MorenoF05</url>
+</inproceedings>
+</r>
+<r><article key="journals/telsys/FourmauxF99" mdate="2017-05-28">
+<author>Olivier Fourmaux</author>
+<author>Serge Fdida</author>
+<title>Multicast for RSVP switching: An extended multicast model with QoS for label swapping in an IP over ATM environment.</title>
+<pages>85-104</pages>
+<year>1999</year>
+<volume>11</volume>
+<journal>Telecommunication Systems</journal>
+<number>1-2</number>
+<url>db/journals/telsys/telsys11.html#FourmauxF99</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Fourmaux98" mdate="2016-07-14">
+<author>Olivier Fourmaux</author>
+<title>Les communications multipoints dans les réseaux haut débit multimédia : Le multicast en environnement IP sur ATM. (Multipoint Communication in High-Speed Multimedia Networks: IP Multicast over ATM).</title>
+<year>1998</year>
+<school>Pierre and Marie Curie University, Paris, France</school>
+</phdthesis>
+</r>
+<coauthors n="28" nc="1">
+<co c="0"><na f="a/Abuteir:Rabee_Mustapha">Rabee Mustapha Abuteir</na></co>
+<co c="0"><na f="a/Ammar:Mostafa">Mostafa Ammar</na></co>
+<co c="0"><na f="b/Botta:Alessio">Alessio Botta</na></co>
+<co c="0"><na f="c/Cabellos=Aparicio:Albert">Albert Cabellos-Aparicio</na></co>
+<co c="0"><na f="c/Cho:Kenjiro">Kenjiro Cho</na></co>
+<co c="0"><na f="c/Crowcroft:Jon">Jon Crowcroft</na></co>
+<co c="0"><na f="d/Dainotti:Alberto">Alberto Dainotti</na></co>
+<co c="0"><na f="d/Deleuze:Christophe">Christophe Deleuze</na></co>
+<co c="0"><na f="f/Fdida:Serge">Serge Fdida</na></co>
+<co c="0"><na f="f/Fladenmuller:Anne">Anne Fladenmuller</na></co>
+<co c="0"><na f="f/Friedman:Timur">Timur Friedman</na></co>
+<co c="0"><na f="g/Ghanem_0001:Marwan">Marwan Ghanem 0001</na></co>
+<co c="0"><na f="h/Hoang=Van:Hiep">Hiep Hoang-Van</na></co>
+<co c="0"><na f="j/Jakab:Lor=aacute=nd">Loránd Jakab</na></co>
+<co c="0"><na f="l/Ljuma:Burim">Burim Ljuma</na></co>
+<co c="0"><na f="m/McGeer:Rick">Rick McGeer</na></co>
+<co c="0"><na f="m/Miyoshi:Takumi">Takumi Miyoshi</na></co>
+<co c="0"><na f="m/Mizutani:Koki">Koki Mizutani</na></co>
+<co c="-1"><na f="m/Moreno:Joaqu=iacute=n_Caraballo">Joaquín Caraballo Moreno</na></co>
+<co c="0"><na f="n/Nguyen:Anh=Tuan">Anh-Tuan Nguyen</na></co>
+<co c="0"><na f="p/Pescap=egrave=:Antonio">Antonio Pescapè</na></co>
+<co c="0"><na f="s/Salamatian:Kav=eacute=">Kavé Salamatian</na></co>
+<co c="0"><na f="s/Shinozaki:Yuki">Yuki Shinozaki</na></co>
+<co c="0"><na f="s/Silverston:Thomas">Thomas Silverston</na></co>
+<co c="0"><na f="s/Strowes:Stephen_D=">Stephen D. Strowes</na></co>
+<co c="0"><na f="t/Tarissan:Fabien">Fabien Tarissan</na></co>
+<co c="0"><na f="v/Ventre:Giorgio">Giorgio Ventre</na></co>
+<co c="0"><na f="v/Vermeulen:Kevin">Kevin Vermeulen</na></co>
+</coauthors>
+</dblpperson>
+

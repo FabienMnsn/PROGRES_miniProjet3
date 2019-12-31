@@ -1,0 +1,4169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Patrick Gallinari" n="301">
+<person key="homepages/g/PatrickGallinari" mdate="2016-03-03">
+<author>Patrick Gallinari</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www-connex.lip6.fr/~gallinar/</url>
+</person>
+<r><article key="journals/datamine/LamprierGG19" mdate="2019-10-19">
+<author orcid="0000-0002-2508-922X">Sylvain Lamprier</author>
+<author>Thibault Gisselbrecht</author>
+<author>Patrick Gallinari</author>
+<title>Contextual bandits with hidden contexts: a focused data capture from social media streams.</title>
+<pages>1853-1893</pages>
+<year>2019</year>
+<volume>33</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>6</number>
+<url>db/journals/datamine/datamine33.html#LamprierGG19</url>
+</article>
+</r>
+<r><article key="journals/entropy/ZhaoFG19" mdate="2019-11-28">
+<author>Yu Zhao</author>
+<author>Huali Feng</author>
+<author>Patrick Gallinari</author>
+<title>Embedding Learning with Triple Trustiness on Noisy Knowledge Graph.</title>
+<pages>1083</pages>
+<year>2019</year>
+<volume>21</volume>
+<journal>Entropy</journal>
+<number>11</number>
+<ee type="oa">https://doi.org/10.3390/e21111083</ee>
+<url>db/journals/entropy/entropy21.html#ZhaoFG19</url>
+</article>
+</r>
+<r><article key="journals/kais/BottaCGTGL19" mdate="2019-08-21">
+<author>Marco Botta</author>
+<author orcid="0000-0002-9120-3799">Rossella Cancelliere</author>
+<author>Leo Ghignone</author>
+<author>Fabio Tango</author>
+<author>Patrick Gallinari</author>
+<author>Clara Luison</author>
+<pages>1549-1564</pages>
+<year>2019</year>
+<volume>60</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>3</number>
+<url>db/journals/kais/kais60.html#BottaCGTGL19</url>
+</article>
+</r>
+<r><article key="journals/kais/DelasallesZDG19" mdate="2019-11-07">
+<author orcid="0000-0002-1571-9910">Edouard Delasalles</author>
+<author>Ali Ziat</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Spatio-temporal neural networks for space-time data modeling and relation discovery.</title>
+<pages>1241-1267</pages>
+<year>2019</year>
+<volume>61</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>3</number>
+<url>db/journals/kais/kais61.html#DelasallesZDG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/BordesZSPG19" mdate="2019-03-29">
+<author>Patrick Bordes</author>
+<author>Eloi Zablocki</author>
+<author>Laure Soulier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Un modèle multimodal d'apprentissage de représentations de phrases qui préserve la sémantique visuelle.</title>
+<year>2019</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2019</crossref>
+<url>db/conf/coria/coria2019.html#BordesZSPG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/BordesZSPG19" mdate="2019-12-12">
+<author>Patrick Bordes</author>
+<author>Eloi Zablocki</author>
+<author>Laure Soulier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Incorporating Visual Semantics into Sentence Representations within a Grounded Space.</title>
+<pages>696-707</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1064</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#BordesZSPG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fimh/AyedCGS19" mdate="2019-05-31">
+<author>Ibrahim Ayed</author>
+<author>Nicolas Cedilnik</author>
+<author>Patrick Gallinari</author>
+<author>Maxime Sermesant</author>
+<title>EP-Net: Learning Cardiac Electrophysiology Models for Physiology-Based Constraints in Data-Driven Predictions.</title>
+<pages>55-63</pages>
+<year>2019</year>
+<booktitle>FIMH</booktitle>
+<crossref>conf/fimh/2019</crossref>
+<url>db/conf/fimh/fimh2019.html#AyedCGS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/PajotBG19" mdate="2019-07-25">
+<author>Arthur Pajot</author>
+<author>Emmanuel de Bézenac</author>
+<author>Patrick Gallinari</author>
+<title>Unsupervised Adversarial Image Reconstruction.</title>
+<year>2019</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=BJg4Z3RqF7</ee>
+<crossref>conf/iclr/2019</crossref>
+<url>db/conf/iclr/iclr2019.html#PajotBG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/ZablockiBSPG19" mdate="2019-06-11">
+<author>Eloi Zablocki</author>
+<author>Patrick Bordes</author>
+<author>Laure Soulier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Context-Aware Zero-Shot Learning for Object Recognition.</title>
+<pages>7292-7303</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zablocki19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZablockiBSPG19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-11136" mdate="2019-07-22">
+<author>Ibrahim Ayed</author>
+<author>Emmanuel de Bézenac</author>
+<author>Arthur Pajot</author>
+<author>Julien Brajard</author>
+<author>Patrick Gallinari</author>
+<title>Learning Dynamical Systems from Partial Observations.</title>
+<year>2019</year>
+<volume>abs/1902.11136</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.11136</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-11136</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-11838" mdate="2019-05-02">
+<author>Marco Roberti</author>
+<author>Giovanni Bonetta</author>
+<author>Rossella Cancelliere</author>
+<author>Patrick Gallinari</author>
+<title>Copy mechanism and tailored training for character-based data-to-text generation.</title>
+<year>2019</year>
+<volume>abs/1904.11838</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.11838</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-11838</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-12638" mdate="2019-05-02">
+<author>Eloi Zablocki</author>
+<author>Patrick Bordes</author>
+<author>Benjamin Piwowarski</author>
+<author>Laure Soulier</author>
+<author>Patrick Gallinari</author>
+<title>Context-Aware Zero-Shot Learning for Object Recognition.</title>
+<year>2019</year>
+<volume>abs/1904.12638</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.12638</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-12638</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-12868" mdate="2019-06-03">
+<author>Karan Aggarwal</author>
+<author>Matthieu Kirchmeyer</author>
+<author>Pranjul Yadav</author>
+<author>S. Sathiya Keerthi</author>
+<author>Patrick Gallinari</author>
+<title>Regression with Conditional GAN.</title>
+<year>2019</year>
+<volume>abs/1905.12868</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.12868</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-12868</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-01292" mdate="2019-06-13">
+<author>Emmanuel de Bézenac</author>
+<author>Ibrahim Ayed</author>
+<author>Patrick Gallinari</author>
+<title>Optimal Unsupervised Domain Translation.</title>
+<year>2019</year>
+<volume>abs/1906.01292</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.01292</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-01292</url>
+</article>
+</r>
+<r><article key="journals/asc/RinconTESPG18" mdate="2019-06-02">
+<author orcid="0000-0003-4491-5889">Alejandro Lopez Rincon</author>
+<author orcid="0000-0001-5895-4809">Alberto Paolo Tonda</author>
+<author orcid="0000-0002-4440-2904">Mohamed Elati</author>
+<author>Olivier Schwander</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Evolutionary optimization of convolutional neural networks for cancer miRNA biomarkers classification.</title>
+<pages>91-100</pages>
+<year>2018</year>
+<volume>65</volume>
+<journal>Appl. Soft Comput.</journal>
+<url>db/journals/asc/asc65.html#RinconTESPG18</url>
+</article>
+</r>
+<r><article key="journals/dn/BourigaultLG18" mdate="2019-07-26">
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Détection de sources de diffusion par apprentissage de représentations distribuées.</title>
+<pages>11-31</pages>
+<year>2018</year>
+<volume>21</volume>
+<journal>Document Numérique</journal>
+<number>3</number>
+<url>db/journals/dn/dn21.html#BourigaultLG18</url>
+</article>
+</r>
+<r><article key="journals/ijon/QiuGLGG18" mdate="2019-12-09">
+<author>Lin Qiu</author>
+<author>Sheng Gao</author>
+<author>Qinjie Lyu</author>
+<author>Jun Guo 0002</author>
+<author>Patrick Gallinari</author>
+<title>A novel non-Gaussian embedding based model for recommender systems.</title>
+<pages>144-152</pages>
+<year>2018</year>
+<volume>278</volume>
+<journal>Neurocomputing</journal>
+<url>db/journals/ijon/ijon278.html#QiuGLGG18</url>
+</article>
+</r>
+<r><article key="journals/ijon/TonnelierBGG18" mdate="2018-06-01">
+<author>Emeric Tonnelier</author>
+<author orcid="0000-0001-5015-0961">Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Anomaly detection in smart card logs and distant evaluation with Twitter: a robust framework.</title>
+<pages>109-121</pages>
+<year>2018</year>
+<volume>298</volume>
+<journal>Neurocomputing</journal>
+<url>db/journals/ijon/ijon298.html#TonnelierBGG18</url>
+</article>
+</r>
+<r><article key="journals/jmlr/LamprierGG18" mdate="2019-07-10">
+<author>Sylvain Lamprier</author>
+<author>Thibault Gisselbrecht</author>
+<author>Patrick Gallinari</author>
+<title>Profile-Based Bandit with Unknown Profiles.</title>
+<year>2018</year>
+<volume>19</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v19/17-693.html</ee>
+<url>db/journals/jmlr/jmlr19.html#LamprierGG18</url>
+<pages>53:1-53:40</pages>
+</article>
+</r>
+<r><article key="journals/ml/ZhengBG18" mdate="2019-08-20">
+<author orcid="0000-0002-2814-4837">Wenjie Zheng 0001</author>
+<author>Aurélien Bellet</author>
+<author>Patrick Gallinari</author>
+<title>A distributed Frank-Wolfe framework for learning low-rank matrices with the trace norm.</title>
+<pages>1457-1475</pages>
+<year>2018</year>
+<volume>107</volume>
+<journal>Machine Learning</journal>
+<number>8-10</number>
+<ee type="oa">https://doi.org/10.1007/s10994-018-5713-5</ee>
+<url>db/journals/ml/ml107.html#ZhengBG18</url>
+</article>
+</r>
+<r><article key="journals/tkdd/SantosPDG18" mdate="2018-11-21">
+<author>Ludovic Dos Santos</author>
+<author>Benjamin Piwowarski</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Representation Learning for Classification in Heterogeneous Graphs with Application to Social Networks.</title>
+<pages>62:1-62:33</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>TKDD</journal>
+<number>5</number>
+<url>db/journals/tkdd/tkdd12.html#SantosPDG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ZablockiPSG18" mdate="2018-10-22">
+<author>Eloi Zablocki</author>
+<author>Benjamin Piwowarski</author>
+<author>Laure Soulier</author>
+<author>Patrick Gallinari</author>
+<title>Learning Multi-Modal Word Representation Grounded in Visual Context.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZablockiPSG18</url>
+<pages>5626-5633</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/DiasGGG18" mdate="2018-10-26">
+<author>Charles-Emmanuel Dias</author>
+<author>Clara Gainon de Forsan de Gabriac</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>RNN et modèle d'attention pour l'apprentissage de profils textuels personnalisés.</title>
+<year>2018</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2018</crossref>
+<url>db/conf/coria/coria2018.html#DiasGGG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/TiteuxPG18" mdate="2018-10-26">
+<author>Hadrien Titeux</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Représentations Gaussiennes pour le Filtrage Collaboratif.</title>
+<year>2018</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2018</crossref>
+<url>db/conf/coria/coria2018.html#TiteuxPG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esann/DiasGG18" mdate="2018-11-09">
+<author>Charles-Emmanuel Dias</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Regularize and explicit collaborative filtering with textual attention.</title>
+<year>2018</year>
+<booktitle>ESANN</booktitle>
+<crossref>conf/esann/2018</crossref>
+<url>db/conf/esann/esann2018.html#DiasGG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/BezenacPG18" mdate="2019-07-25">
+<author>Emmanuel de Bézenac</author>
+<author>Arthur Pajot</author>
+<author>Patrick Gallinari</author>
+<title>Deep Learning for Physical Processes: Incorporating Prior Scientific Knowledge.</title>
+<year>2018</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=By4HsfWAZ</ee>
+<crossref>conf/iclr/2018</crossref>
+<url>db/conf/iclr/iclr2018.html#BezenacPG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/YazdiCGM18" mdate="2019-01-18">
+<author>Saeed Varasteh Yazdi</author>
+<author>Ahlame Douzal Chouakria</author>
+<author>Patrick Gallinari</author>
+<author>Manuel Moussallam</author>
+<title>Time Warp Invariant Dictionary Learning for Time Series Clustering: Application to Music Data Stream Analysis.</title>
+<pages>356-372</pages>
+<year>2018</year>
+<booktitle>ECML/PKDD (1)</booktitle>
+<crossref>conf/pkdd/2018-1</crossref>
+<url>db/conf/pkdd/pkdd2018-1.html#YazdiCGM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-08562" mdate="2018-08-13">
+<author>Ali Ziat</author>
+<author>Edouard Delasalles</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Spatio-Temporal Neural Networks for Space-Time Series Forecasting and Relations Discovery.</title>
+<year>2018</year>
+<volume>abs/1804.08562</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.08562</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-08562</url>
+</article>
+</r>
+<r><article key="journals/datamine/ZhangWCG17" mdate="2017-05-20">
+<author>Jianfei Zhang</author>
+<author>Shengrui Wang</author>
+<author>Lifei Chen</author>
+<author>Patrick Gallinari</author>
+<title>Multiple Bayesian discriminant functions for high-dimensional massive data classification.</title>
+<pages>465-501</pages>
+<year>2017</year>
+<volume>31</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>2</number>
+<url>db/journals/datamine/datamine31.html#ZhangWCG17</url>
+</article>
+</r>
+<r><article key="journals/ieicet/ZhaoGGG17" mdate="2019-12-09">
+<author>Yu Zhao</author>
+<author>Sheng Gao</author>
+<author>Patrick Gallinari</author>
+<author>Jun Guo 0002</author>
+<title>A Novel Embedding Model for Relation Prediction in Recommendation Systems.</title>
+<pages>1242-1250</pages>
+<year>2017</year>
+<volume>100-D</volume>
+<journal>IEICE Transactions</journal>
+<number>6</number>
+<url>db/journals/ieicet/ieicet100d.html#ZhaoGGG17</url>
+</article>
+</r>
+<r><article key="journals/ieicet/ZhaoGGG17a" mdate="2019-12-09">
+<author>Yu Zhao</author>
+<author>Sheng Gao</author>
+<author>Patrick Gallinari</author>
+<author>Jun Guo 0002</author>
+<title>Zero-Shot Embedding for Unseen Entities in Knowledge Graph.</title>
+<pages>1440-1447</pages>
+<year>2017</year>
+<volume>100-D</volume>
+<journal>IEICE Transactions</journal>
+<number>7</number>
+<url>db/journals/ieicet/ieicet100d.html#ZhaoGGG17a</url>
+</article>
+</r>
+<r><article key="journals/tii/GaoPGGK17" mdate="2019-12-09">
+<author>Sheng Gao</author>
+<author>Huacan Pang</author>
+<author>Patrick Gallinari</author>
+<author>Jun Guo 0002</author>
+<author orcid="0000-0001-8769-302X">Nei Kato</author>
+<title>A Novel Embedding Method for Information Diffusion Prediction in Social Network Big Data.</title>
+<pages>2097-2105</pages>
+<year>2017</year>
+<volume>13</volume>
+<journal>IEEE Trans. Industrial Informatics</journal>
+<number>4</number>
+<url>db/journals/tii/tii13.html#GaoPGGK17</url>
+</article>
+</r>
+<r><inproceedings key="conf/clef/ZablockiBSPG17" mdate="2019-05-28">
+<author>Eloi Zablocki</author>
+<author>Patrick Bordes</author>
+<author>Laure Soulier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>LIP6@CLEF2017: Multi-Modal Spatial Role Labeling using Word Embeddings.</title>
+<year>2017</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1866/paper_76.pdf</ee>
+<crossref>conf/clef/2017w</crossref>
+<url>db/conf/clef/clef2017w.html#ZablockiBSPG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/BourigaultLG17" mdate="2017-05-08">
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage de représentation pour la détection de source dans les réseaux sociaux.</title>
+<pages>235-250</pages>
+<year>2017</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2017</crossref>
+<url>db/conf/coria/coria2017.html#BourigaultLG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/DiasGG17" mdate="2017-05-08">
+<author>Charles-Emmanuel Dias</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Passé, présent, futurs : induction de carrières professionnelles à partir de CV.</title>
+<pages>281-296</pages>
+<year>2017</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2017</crossref>
+<url>db/conf/coria/coria2017.html#DiasGG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esann/TonnelierBGG17" mdate="2018-11-08">
+<author>Emeric Tonnelier</author>
+<author>Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Anomaly detection and characterization in smart card logs using NMF and Tweets.</title>
+<year>2017</year>
+<booktitle>ESANN</booktitle>
+<crossref>conf/esann/2017</crossref>
+<url>db/conf/esann/esann2017.html#TonnelierBGG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/ZiatDDG17" mdate="2018-01-11">
+<author>Ali Ziat</author>
+<author>Edouard Delasalles</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Spatio-Temporal Neural Networks for Space-Time Series Forecasting and Relations Discovery.</title>
+<pages>705-714</pages>
+<year>2017</year>
+<booktitle>ICDM</booktitle>
+<crossref>conf/icdm/2017</crossref>
+<url>db/conf/icdm/icdm2017.html#ZiatDDG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/LamprierGG17" mdate="2018-01-02">
+<author>Sylvain Lamprier</author>
+<author>Thibault Gisselbrecht</author>
+<author>Patrick Gallinari</author>
+<title>Variational Thompson Sampling for Relational Recurrent Bandits.</title>
+<pages>405-421</pages>
+<year>2017</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<crossref>conf/pkdd/2017-2</crossref>
+<url>db/conf/pkdd/pkdd2017-2.html#LamprierGG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/SantosPG17" mdate="2018-11-06">
+<author>Ludovic Dos Santos</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Gaussian Embeddings for Collaborative Filtering.</title>
+<pages>1065-1068</pages>
+<year>2017</year>
+<booktitle>SIGIR</booktitle>
+<crossref>conf/sigir/2017</crossref>
+<url>db/conf/sigir/sigir2017.html#SantosPG17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-03483" mdate="2018-08-13">
+<author>Eloi Zablocki</author>
+<author>Benjamin Piwowarski</author>
+<author>Laure Soulier</author>
+<author>Patrick Gallinari</author>
+<title>Learning Multi-Modal Word Representation Grounded in Visual Context.</title>
+<year>2017</year>
+<volume>abs/1711.03483</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.03483</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-03483</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-07970" mdate="2019-07-22">
+<author>Emmanuel de Bézenac</author>
+<author>Arthur Pajot</author>
+<author>Patrick Gallinari</author>
+<title>Deep Learning for Physical Processes: Incorporating Prior Scientific Knowledge.</title>
+<year>2017</year>
+<volume>abs/1711.07970</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.07970</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-07970</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-07495" mdate="2019-07-05">
+<author>Wenjie Zheng 0001</author>
+<author>Aurélien Bellet</author>
+<author>Patrick Gallinari</author>
+<title>A Distributed Frank-Wolfe Framework for Learning Low-Rank Matrices with the Trace Norm.</title>
+<year>2017</year>
+<volume>abs/1712.07495</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.07495</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-07495</url>
+</article>
+</r>
+<r><article key="journals/cys/ZhaoGGG16" mdate="2019-12-09">
+<author>Yu Zhao</author>
+<author>Sheng Gao</author>
+<author>Patrick Gallinari</author>
+<author>Jun Guo 0002</author>
+<title>A Novel Multimodal Deep Neural Network Framework for Extending Knowledge Base.</title>
+<pages>459-466</pages>
+<year>2016</year>
+<volume>20</volume>
+<journal>Computación y Sistemas</journal>
+<number>3</number>
+<url>db/journals/cys/cys20.html#ZhaoGGG16</url>
+</article>
+</r>
+<r><article key="journals/dn/GisselbrechtLG16" mdate="2017-05-27">
+<author>Thibault Gisselbrecht</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Collecte ciblée à partir de flux de données en ligne dans les médias sociaux. Une approche de bandit contextuel.</title>
+<pages>11-30</pages>
+<year>2016</year>
+<volume>19</volume>
+<journal>Document Numérique</journal>
+<number>2-3</number>
+<url>db/journals/dn/dn19.html#GisselbrechtLG16</url>
+</article>
+</r>
+<r><article key="journals/dn/BourigaultLG16" mdate="2017-05-27">
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage de représentations pour la modélisation de processus de diffusion dans les réseaux sociaux.</title>
+<pages>31-52</pages>
+<year>2016</year>
+<volume>19</volume>
+<journal>Document Numérique</journal>
+<number>2-3</number>
+<url>db/journals/dn/dn19.html#BourigaultLG16</url>
+</article>
+</r>
+<r><article key="journals/kais/RubiniCGG16" mdate="2017-05-28">
+<author>Luca Rubini</author>
+<author>Rossella Cancelliere</author>
+<author>Patrick Gallinari</author>
+<author>Andrea Grosso</author>
+<pages>493-503</pages>
+<year>2016</year>
+<volume>48</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>2</number>
+<url>db/journals/kais/kais48.html#RubiniCGG16</url>
+</article>
+</r>
+<r><article key="journals/snam/LamprierBG16" mdate="2017-05-27">
+<author>Sylvain Lamprier</author>
+<author>Simon Bourigault</author>
+<author>Patrick Gallinari</author>
+<title>Influence learning for cascade diffusion models: focus on partial orders of infections.</title>
+<pages>93:1-93:16</pages>
+<year>2016</year>
+<volume>6</volume>
+<journal>Social Netw. Analys. Mining</journal>
+<number>1</number>
+<url>db/journals/snam/snam6.html#LamprierBG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/GisselbrechtLG16" mdate="2017-05-08">
+<author>Thibault Gisselbrecht</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Bandit contextuel pour la capture de données temps réel sur les médias sociaux.</title>
+<pages>57-72</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#GisselbrechtLG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/DiasGG16" mdate="2017-05-08">
+<author>Charles-Emmanuel Dias</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Recommandation et analyse de sentiments dans un espace latent textuel.</title>
+<pages>73-88</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#DiasGG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/BourigaultLG16" mdate="2017-05-08">
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage de représentations probabilistes pour la prédiction de diffusions d'informations sur les réseaux sociaux.</title>
+<pages>89-104</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#BourigaultLG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/KraljevicBPG16" mdate="2017-05-08">
+<author>Zeljko Kraljevic</author>
+<author>Nicolas Baskiotis</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Représentation temporelle des mots : application au clustering de micro-blogs.</title>
+<pages>531-544</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#KraljevicBPG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/GisselbrechtLG16" mdate="2016-05-22">
+<author>Thibault Gisselbrecht</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Dynamic Data Capture from Social Media Streams: A Contextual Bandit Approach.</title>
+<pages>131-140</pages>
+<year>2016</year>
+<booktitle>ICWSM</booktitle>
+<crossref>conf/icwsm/2016</crossref>
+<url>db/conf/icwsm/icwsm2016.html#GisselbrechtLG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/TonnelierBGG16" mdate="2017-05-23">
+<author>Emeric Tonnelier</author>
+<author>Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Smart card in public transportation: Designing a analysis system at the human scale.</title>
+<pages>1336-1341</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#TonnelierBGG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/BourigaultLG16" mdate="2017-05-22">
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Learning Distributed Representations of Users for Source Detection in Online Social Networks.</title>
+<pages>265-281</pages>
+<year>2016</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<crossref>conf/pkdd/2016-2</crossref>
+<url>db/conf/pkdd/pkdd2016-2.html#BourigaultLG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/GisselbrechtLG16" mdate="2017-05-22">
+<author>Thibault Gisselbrecht</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Linear Bandits in Unknown Environments.</title>
+<pages>282-298</pages>
+<year>2016</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<crossref>conf/pkdd/2016-2</crossref>
+<url>db/conf/pkdd/pkdd2016-2.html#GisselbrechtLG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/SantosPG16" mdate="2017-05-22">
+<author>Ludovic Dos Santos</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Multilabel Classification on Heterogeneous Graphs with Gaussian Embeddings.</title>
+<pages>606-622</pages>
+<year>2016</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<crossref>conf/pkdd/2016-2</crossref>
+<url>db/conf/pkdd/pkdd2016-2.html#SantosPG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/BourigaultLG16" mdate="2018-11-06">
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Representation Learning for Information Diffusion through Social Networks: an Embedded Cascade Model.</title>
+<pages>573-582</pages>
+<year>2016</year>
+<booktitle>WSDM</booktitle>
+<crossref>conf/wsdm/2016</crossref>
+<url>db/conf/wsdm/wsdm2016.html#BourigaultLG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/bmcbi/TsatsaronisBMPZ15" mdate="2018-11-14">
+<author orcid="0000-0003-2116-2933">George Tsatsaronis</author>
+<author>Georgios Balikas</author>
+<author>Prodromos Malakasiotis</author>
+<author>Ioannis Partalas</author>
+<author>Matthias Zschunke</author>
+<author>Michael R. Alvers</author>
+<author>Dirk Weissenborn</author>
+<author orcid="0000-0003-0491-4507">Anastasia Krithara</author>
+<author orcid="0000-0001-8926-7382">Sergios Petridis</author>
+<author orcid="0000-0001-9427-3082">Dimitris Polychronopoulos</author>
+<author>Yannis Almirantis</author>
+<author>John Pavlopoulos</author>
+<author>Nicolas Baskiotis</author>
+<author>Patrick Gallinari</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Axel-Cyrille Ngonga Ngomo</author>
+<author>Norman Heino</author>
+<author>Éric Gaussier</author>
+<author>Liliana Barrio-Alvers</author>
+<author>Michael Schroeder 0001</author>
+<author>Ion Androutsopoulos</author>
+<author>Georgios Paliouras</author>
+<title>An overview of the BIOASQ large-scale biomedical semantic indexing and question answering competition.</title>
+<pages>138:1-138:28</pages>
+<year>2015</year>
+<volume>16</volume>
+<journal>BMC Bioinformatics</journal>
+<ee type="oa">https://doi.org/10.1186/s12859-015-0564-6</ee>
+<url>db/journals/bmcbi/bmcbi16.html#TsatsaronisBMPZ15</url>
+</article>
+</r>
+<r><article key="journals/datamine/ZhaoGGG15" mdate="2019-12-09">
+<author>Yu Zhao</author>
+<author>Sheng Gao</author>
+<author>Patrick Gallinari</author>
+<author>Jun Guo 0002</author>
+<title>Knowledge base completion by learning pairwise-interaction differentiated embeddings.</title>
+<pages>1486-1504</pages>
+<year>2015</year>
+<volume>29</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>5</number>
+<url>db/journals/datamine/datamine29.html#ZhaoGGG15</url>
+</article>
+</r>
+<r><article key="journals/dn/GisselbrechtDGL15" mdate="2017-05-27">
+<author>Thibault Gisselbrecht</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<author>Sylvain Lamprier</author>
+<title>Apprentissage en temps réel pour la collecte d'information dans les réseaux sociaux.</title>
+<pages>39-58</pages>
+<year>2015</year>
+<volume>18</volume>
+<journal>Document Numérique</journal>
+<number>2-3</number>
+<url>db/journals/dn/dn18.html#GisselbrechtDGL15</url>
+</article>
+</r>
+<r><article key="journals/nn/CancelliereGGR15" mdate="2018-11-14">
+<author>Rossella Cancelliere</author>
+<author>Mario Gai</author>
+<author>Patrick Gallinari</author>
+<author>Luca Rubini</author>
+<pages>76-87</pages>
+<year>2015</year>
+<volume>71</volume>
+<journal>Neural Networks</journal>
+<url>db/journals/nn/nn71.html#CancelliereGGR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/LamprierBG15" mdate="2018-11-06">
+<author>Sylvain Lamprier</author>
+<author>Simon Bourigault</author>
+<author>Patrick Gallinari</author>
+<title>Extracting Diffusion Channels from Real-World Social Data: a Delay-Agnostic Learning of Transmission Probabilities.</title>
+<pages>178-185</pages>
+<year>2015</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2015</crossref>
+<url>db/conf/asunam/asonam2015.html#LamprierBG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asunam/GauthierPG15" mdate="2018-11-06">
+<author>Luc-Aurélien Gauthier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Leveraging Rating Behavior to Predict Negative Social Ties.</title>
+<pages>623-628</pages>
+<year>2015</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2015</crossref>
+<url>db/conf/asunam/asonam2015.html#GauthierPG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/SantosPG15" mdate="2019-05-28">
+<author>Ludovic Dos Santos</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Graph Based Method Approach to the ImageCLEF2015 Task1 - Image Annotation.</title>
+<year>2015</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1391/159-CR.pdf</ee>
+<crossref>conf/clef/2015w</crossref>
+<url>db/conf/clef/clef2015w.html#SantosPG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/GisselbrechtDGL15" mdate="2017-05-08">
+<author>Thibault Gisselbrecht</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<author>Sylvain Lamprier</author>
+<title>Apprentissage en temps réel pour la collecte d'information dans les réseaux sociaux.</title>
+<pages>7-22</pages>
+<year>2015</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2015</crossref>
+<url>db/conf/coria/coria2015.html#GisselbrechtDGL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/PoussevinGG15" mdate="2017-05-08">
+<author>Mickaël Poussevin</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Extraction d'un vocabulaire de surprise par mélange de filtrage collaboratif et d'analyse de sentiments.</title>
+<pages>123-138</pages>
+<year>2015</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2015</crossref>
+<url>db/conf/coria/coria2015.html#PoussevinGG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/GauthierPG15" mdate="2017-05-08">
+<author>Luc-Aurélien Gauthier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Polarité des jugements et des interactions pour le filtrage collaboratif et la prédiction de liens sociaux.</title>
+<pages>139-154</pages>
+<year>2015</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2015</crossref>
+<url>db/conf/coria/coria2015.html#GauthierPG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/GisselbrechtLG15" mdate="2017-05-26">
+<author>Thibault Gisselbrecht</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Policies for Contextual Bandit Problems with Count Payoffs.</title>
+<pages>542-549</pages>
+<year>2015</year>
+<booktitle>ICTAI</booktitle>
+<crossref>conf/ictai/2015</crossref>
+<url>db/conf/ictai/ictai2015.html#GisselbrechtLG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/GisselbrechtDGL15" mdate="2015-06-12">
+<author>Thibault Gisselbrecht</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<author>Sylvain Lamprier</author>
+<title>WhichStreams: A Dynamic Approach for Focused Data Capture from Large Social Media.</title>
+<pages>130-139</pages>
+<year>2015</year>
+<booktitle>ICWSM</booktitle>
+<crossref>conf/icwsm/2015</crossref>
+<url>db/conf/icwsm/icwsm2015.html#GisselbrechtDGL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/PoussevinGG15" mdate="2019-05-28">
+<author>Mickaël Poussevin</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Extended Recommendation Framework: Generating the Text of a User Review as a Personalized Summary.</title>
+<pages>34-41</pages>
+<year>2015</year>
+<booktitle>CBRecSys@RecSys</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1448/paper7.pdf</ee>
+<crossref>conf/recsys/2015cbrecsys</crossref>
+<url>db/conf/recsys/cbrecsys2015.html#PoussevinGG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/Guardia-Sebaoun15" mdate="2018-11-06">
+<author>Élie Guàrdia-Sebaoun</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Latent Trajectory Modeling: A Light and Efficient Way to Introduce Time in Recommender Systems.</title>
+<pages>281-284</pages>
+<year>2015</year>
+<booktitle>RecSys</booktitle>
+<crossref>conf/recsys/2015</crossref>
+<url>db/conf/recsys/recsys2015.html#Guardia-Sebaoun15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PartalasKBAPGAA15" mdate="2018-08-13">
+<author>Ioannis Partalas</author>
+<author>Aris Kosmopoulos</author>
+<author>Nicolas Baskiotis</author>
+<author>Thierry Artières</author>
+<author>George Paliouras</author>
+<author>Éric Gaussier</author>
+<author>Ion Androutsopoulos</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>LSHTC: A Benchmark for Large-Scale Text Classification.</title>
+<year>2015</year>
+<volume>abs/1503.08581</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1503.08581</ee>
+<url>db/journals/corr/corr1503.html#PartalasKBAPGAA15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CancelliereDGGR15" mdate="2018-08-13">
+<author>Rossella Cancelliere</author>
+<author>R. Deluca</author>
+<author>Mario Gai</author>
+<author>Patrick Gallinari</author>
+<author>Luca Rubini</author>
+<year>2015</year>
+<volume>abs/1508.06092</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1508.06092</ee>
+<url>db/journals/corr/corr1508.html#CancelliereDGGR15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CancelliereGGR15" mdate="2018-08-13">
+<author>Rossella Cancelliere</author>
+<author>Mario Gai</author>
+<author>Patrick Gallinari</author>
+<author>Luca Rubini</author>
+<year>2015</year>
+<volume>abs/1508.06095</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1508.06095</ee>
+<url>db/journals/corr/corr1508.html#CancelliereGGR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aimsa/RubiniCGGR14" mdate="2017-05-21">
+<author>Luca Rubini</author>
+<author>Rossella Cancelliere</author>
+<author>Patrick Gallinari</author>
+<author>Andrea Grosso</author>
+<author>Antonino Raiti</author>
+<pages>236-245</pages>
+<year>2014</year>
+<booktitle>AIMSA</booktitle>
+<crossref>conf/aimsa/2014</crossref>
+<url>db/conf/aimsa/aimsa2014.html#RubiniCGGR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/MaagDG14" mdate="2017-05-21">
+<author>Maria Laura Maag</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Graph Anonymization Using Machine Learning.</title>
+<pages>1111-1118</pages>
+<year>2014</year>
+<booktitle>AINA</booktitle>
+<crossref>conf/aina/2014</crossref>
+<url>db/conf/aina/aina2014.html#MaagDG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/GauthierPG14" mdate="2017-05-08">
+<author>Luc-Aurélien Gauthier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Filtrage collaboratif et intégration de la polarité des jugements.</title>
+<pages>11-26</pages>
+<year>2014</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2014</crossref>
+<url>db/conf/coria/coria2014.html#GauthierPG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/PoussevinSGG14" mdate="2017-05-08">
+<author>Mickaël Poussevin</author>
+<author>Élie Guàrdia-Sebaoun</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Recommandation par combinaison de filtrage collaboratif et d'analyse de sentiments.</title>
+<pages>27-42</pages>
+<year>2014</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2014</crossref>
+<url>db/conf/coria/coria2014.html#PoussevinSGG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/BourigaultLDG14" mdate="2017-05-08">
+<author>Simon Bourigault</author>
+<author>Cédric Lagnier</author>
+<author>Sylvain Lamprier</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage de représentation pour la diffusion d'Information dans les réseaux sociaux.</title>
+<pages>155-170</pages>
+<year>2014</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2014</crossref>
+<url>db/conf/coria/coria2014.html#BourigaultLDG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/PoussevinTBGG14" mdate="2017-05-22">
+<author>Mickaël Poussevin</author>
+<author>Emeric Tonnelier</author>
+<author>Nicolas Baskiotis</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Mining Ticketing Logs for Usage Characterization with Nonnegative Matrix Factorization.</title>
+<pages>147-164</pages>
+<year>2014</year>
+<booktitle>MSM/MUSE/SenseML</booktitle>
+<crossref>conf/pkdd/2014muse</crossref>
+<url>db/conf/pkdd/muse2014.html#PoussevinTBGG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sefm/NozzaMGMG14" mdate="2018-11-02">
+<author orcid="0000-0002-7998-2267">Debora Nozza</author>
+<author>Daniele Maccagnola</author>
+<author>Vincent Guigue</author>
+<author orcid="0000-0002-4062-0824">Enza Messina</author>
+<author>Patrick Gallinari</author>
+<title>A Latent Representation Model for Sentiment Analysis in Heterogeneous Social Networks.</title>
+<pages>201-213</pages>
+<year>2014</year>
+<booktitle>SEFM Workshops</booktitle>
+<crossref>conf/sefm/2014w</crossref>
+<url>db/conf/sefm/sefm2014w.html#NozzaMGMG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/JacobDG14" mdate="2018-11-06">
+<author>Yann Jacob</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Learning latent representations of nodes for classifying in heterogeneous social networks.</title>
+<pages>373-382</pages>
+<year>2014</year>
+<booktitle>WSDM</booktitle>
+<crossref>conf/wsdm/2014</crossref>
+<url>db/conf/wsdm/wsdm2014.html#JacobDG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/BourigaultLLDG14" mdate="2018-11-06">
+<author>Simon Bourigault</author>
+<author>Cédric Lagnier</author>
+<author>Sylvain Lamprier</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Learning social network embeddings for predicting information diffusion.</title>
+<pages>393-402</pages>
+<year>2014</year>
+<booktitle>WSDM</booktitle>
+<crossref>conf/wsdm/2014</crossref>
+<url>db/conf/wsdm/wsdm2014.html#BourigaultLLDG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/PartalasAAAGGP14" mdate="2018-11-06">
+<author>Ioannis Partalas</author>
+<author>Massih-Reza Amini</author>
+<author>Ion Androutsopoulos</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<author>Éric Gaussier</author>
+<author>Georgios Paliouras</author>
+<title>Web-scale classification: web classification in the big data era.</title>
+<pages>687-688</pages>
+<year>2014</year>
+<booktitle>WSDM</booktitle>
+<crossref>conf/wsdm/2014</crossref>
+<url>db/conf/wsdm/wsdm2014.html#PartalasAAAGGP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/ContardoDAG13" mdate="2019-07-25">
+<author>Gabriella Contardo</author>
+<author>Ludovic Denoyer</author>
+<author>Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>Learning States Representations in POMDP.</title>
+<year>2014</year>
+<crossref>conf/iclr/2014w</crossref>
+<booktitle>ICLR (Workshop Poster)</booktitle>
+<ee type="oa">http://arxiv.org/abs/1312.6042</ee>
+<url>db/conf/iclr/iclr2014w.html#ContardoDAG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/Dulac-ArnoldDTCG13" mdate="2019-03-29">
+<author>Gabriel Dulac-Arnold</author>
+<author>Ludovic Denoyer</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Patrick Gallinari</author>
+<title>Sequentially Generated Instance-Dependent Image Representations for Classification.</title>
+<year>2014</year>
+<crossref>conf/iclr/2014</crossref>
+<booktitle>ICLR</booktitle>
+<ee type="oa">http://arxiv.org/abs/1312.6594</ee>
+<url>db/conf/iclr/iclr2014.html#Dulac-ArnoldDTCG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/LagnierBLDG13" mdate="2019-07-25">
+<author>Cédric Lagnier</author>
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Learning Information Spread in Content Networks.</title>
+<year>2014</year>
+<crossref>conf/iclr/2014w</crossref>
+<booktitle>ICLR (Workshop Poster)</booktitle>
+<ee type="oa">http://arxiv.org/abs/1312.6169</ee>
+<url>db/conf/iclr/iclr2014w.html#LagnierBLDG13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DenoyerG14" mdate="2018-08-13">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Deep Sequential Neural Network.</title>
+<year>2014</year>
+<volume>abs/1410.0510</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1410.0510</ee>
+<url>db/journals/corr/corr1410.html#DenoyerG14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PoussevinGG14" mdate="2018-08-13">
+<author>Mickaël Poussevin</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Extended Recommendation Framework: Generating the Text of a User Review as a Personalized Summary.</title>
+<year>2014</year>
+<volume>abs/1412.5448</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.5448</ee>
+<url>db/journals/corr/corr1412.html#PoussevinGG14</url>
+</article>
+</r>
+<r><article key="journals/artmed/RubrichiQSRG13" mdate="2018-11-14">
+<author>Stefania Rubrichi</author>
+<author>Silvana Quaglini</author>
+<author>Alex Spengler</author>
+<author>Paola Russo</author>
+<author>Patrick Gallinari</author>
+<title>A system for the extraction and representation of summary of product characteristics content.</title>
+<pages>145-154</pages>
+<year>2013</year>
+<volume>57</volume>
+<journal>Artificial Intelligence in Medicine</journal>
+<number>2</number>
+<url>db/journals/artmed/artmed57.html#RubrichiQSRG13</url>
+</article>
+</r>
+<r><article key="journals/ml/CalauzenesUG13" mdate="2018-06-26">
+<author>Clément Calauzènes</author>
+<author>Nicolas Usunier</author>
+<author>Patrick Gallinari</author>
+<title>Calibration and regret bounds for order-preserving surrogate losses in learning to rank.</title>
+<pages>227-260</pages>
+<year>2013</year>
+<volume>93</volume>
+<journal>Machine Learning</journal>
+<number>2-3</number>
+<ee type="oa">https://doi.org/10.1007/s10994-013-5382-3</ee>
+<url>db/journals/ml/ml93.html#CalauzenesUG13</url>
+</article>
+</r>
+<r><article key="journals/tetc/GaoLCLGMG13" mdate="2018-08-20">
+<author>Sheng Gao</author>
+<author>Hao Luo</author>
+<author>Da Chen</author>
+<author>Shantao Li</author>
+<author>Patrick Gallinari</author>
+<author>Zhanyu Ma</author>
+<author>Jun Guo 0002</author>
+<title>A Cross-Domain Recommendation Model for Cyber-Physical Systems.</title>
+<pages>384-393</pages>
+<year>2013</year>
+<volume>1</volume>
+<journal>IEEE Trans. Emerging Topics Comput.</journal>
+<number>2</number>
+<url>db/journals/tetc/tetc1.html#GaoLCLGMG13</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/LageDGD13" mdate="2018-11-06">
+<author>Ricardo Lage</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<author orcid="0000-0003-1842-9131">Peter Dolog</author>
+<title>Choosing which message to publish on social networks: a contextual bandit approach.</title>
+<pages>620-627</pages>
+<year>2013</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2013</crossref>
+<url>db/conf/asunam/asonam2013.html#LageDGD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/JacobDG13" mdate="2017-05-08">
+<author>Yann Jacob</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Classification dans les graphes hétérogènes basée sur une représentation latente des noeuds.</title>
+<pages>85-100</pages>
+<year>2013</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2013</crossref>
+<url>db/conf/coria/coria2013.html#JacobDG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/RafrafiGG13" mdate="2017-05-08">
+<author>Abdelhalim Rafrafi</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Classification de Sentiments Multi-Domaines et Passage à l'Echelle.</title>
+<pages>117-124</pages>
+<year>2013</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2013</crossref>
+<url>db/conf/coria/coria2013.html#RafrafiGG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/LagnierDGG13" mdate="2017-05-21">
+<author>Cédric Lagnier</author>
+<author>Ludovic Denoyer</author>
+<author>Éric Gaussier</author>
+<author>Patrick Gallinari</author>
+<title>Predicting Information Diffusion in Social Networks Using Content and User's Profiles.</title>
+<pages>74-85</pages>
+<year>2013</year>
+<booktitle>ECIR</booktitle>
+<crossref>conf/ecir/2013</crossref>
+<url>db/conf/ecir/ecir2013.html#LagnierDGG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/GaoDGG13" mdate="2019-12-09">
+<author>Sheng Gao</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<author>Jun Guo 0002</author>
+<title>Latent Factor BlockModel for Modelling Relational Data.</title>
+<pages>447-458</pages>
+<year>2013</year>
+<booktitle>ECIR</booktitle>
+<crossref>conf/ecir/2013</crossref>
+<url>db/conf/ecir/ecir2013.html#GaoDGG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/Fakeri-TabriziAG13" mdate="2018-11-06">
+<author>Ali Fakeri-Tabrizi</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Multiview semi-supervised ranking for automatic image annotation.</title>
+<pages>513-516</pages>
+<year>2013</year>
+<booktitle>ACM Multimedia</booktitle>
+<crossref>conf/mm/2013</crossref>
+<url>db/conf/mm/mm2013.html#Fakeri-TabriziAG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/CisseUAG13" mdate="2014-01-07">
+<author>Moustapha Cissé</author>
+<author>Nicolas Usunier</author>
+<author>Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>Robust Bloom Filters for Large MultiLabel Classification Tasks.</title>
+<pages>1851-1859</pages>
+<year>2013</year>
+<booktitle>NIPS</booktitle>
+<crossref>conf/nips/2013</crossref>
+<url>db/conf/nips/nips2013.html#CisseUAG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/GaoLCLGG13" mdate="2019-03-21">
+<author>Sheng Gao</author>
+<author>Hao Luo</author>
+<author>Da Chen</author>
+<author>Shantao Li</author>
+<author>Patrick Gallinari</author>
+<author>Jun Guo 0002</author>
+<title>Cross-Domain Recommendation via Cluster-Level Latent Factor Model.</title>
+<pages>161-176</pages>
+<year>2013</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-40991-2_11</ee>
+<crossref>conf/pkdd/2013-2</crossref>
+<url>db/conf/pkdd/pkdd2013-2.html#GaoLCLGG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/riao/Guardia-SebaounRGG13" mdate="2014-05-29">
+<author>Élie Guàrdia-Sebaoun</author>
+<author>Abdelhalim Rafrafi</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Cross-media sentiment classification and application to box-office forecasting.</title>
+<pages>201-208</pages>
+<year>2013</year>
+<booktitle>OAIR</booktitle>
+<crossref>conf/riao/2013</crossref>
+<url>db/conf/riao/oair2013.html#Guardia-SebaounRGG13</url>
+</inproceedings>
+</r>
+<r><article key="journals/dn/JacobDG12" mdate="2017-05-27">
+<author>Yann Jacob</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage automatique de la propagation des étiquettes dans les réseaux sociaux multirelationnels.</title>
+<pages>79-99</pages>
+<year>2012</year>
+<volume>15</volume>
+<journal>Document Numérique</journal>
+<number>1</number>
+<url>db/journals/dn/dn15.html#JacobDG12</url>
+</article>
+</r>
+<r><article key="journals/isi/GaoDG12" mdate="2017-05-28">
+<author>Sheng Gao</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Prédiction de liens temporels en intégrant les informations de contenu et de structure.</title>
+<pages>75-90</pages>
+<year>2012</year>
+<volume>17</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>6</number>
+<url>db/journals/isi/isi17.html#GaoDG12</url>
+</article>
+</r>
+<r><article key="journals/ml/Dulac-ArnoldDPG12" mdate="2018-06-26">
+<author>Gabriel Dulac-Arnold</author>
+<author>Ludovic Denoyer</author>
+<author>Philippe Preux</author>
+<author>Patrick Gallinari</author>
+<title>Sequential approaches for learning datum-wise sparse representations.</title>
+<pages>87-122</pages>
+<year>2012</year>
+<volume>89</volume>
+<journal>Machine Learning</journal>
+<number>1-2</number>
+<ee type="oa">https://doi.org/10.1007/s10994-012-5306-7</ee>
+<url>db/journals/ml/ml89.html#Dulac-ArnoldDPG12</url>
+</article>
+</r>
+<r><article key="journals/mta/BuffoniTG12" mdate="2017-05-28">
+<author>David Buffoni</author>
+<author>Sabrina Tollari</author>
+<author>Patrick Gallinari</author>
+<title>A Learning to Rank framework applied to text-image retrieval.</title>
+<pages>161-180</pages>
+<year>2012</year>
+<volume>60</volume>
+<journal>Multimedia Tools Appl.</journal>
+<number>1</number>
+<url>db/journals/mta/mta60.html#BuffoniTG12</url>
+</article>
+</r>
+<r><article key="journals/snam/PetersJDG12" mdate="2017-05-27">
+<author>Stéphane Peters</author>
+<author>Yann Jacob</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Iterative Multi-label Multi-relational Classification Algorithm for complex social networks.</title>
+<pages>17-29</pages>
+<year>2012</year>
+<volume>2</volume>
+<journal>Social Netw. Analys. Mining</journal>
+<number>1</number>
+<url>db/journals/snam/snam2.html#PetersJDG12</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaaifs/TsatsaronisSPAAGGAAZN12" mdate="2017-10-11">
+<author>George Tsatsaronis</author>
+<author>Michael Schroeder 0001</author>
+<author>Georgios Paliouras</author>
+<author>Yannis Almirantis</author>
+<author>Ion Androutsopoulos</author>
+<author>Éric Gaussier</author>
+<author>Patrick Gallinari</author>
+<author>Thierry Artières</author>
+<author>Michael R. Alvers</author>
+<author>Matthias Zschunke</author>
+<author>Axel-Cyrille Ngonga Ngomo</author>
+<title>BioASQ: A Challenge on Large-Scale Biomedical Semantic Indexing and Question Answering.</title>
+<year>2012</year>
+<booktitle>AAAI Fall Symposium: Information Retrieval and Knowledge Discovery in Biomedical Text</booktitle>
+<crossref>conf/aaaifs/2012-5</crossref>
+<url>db/conf/aaaifs/aaaifs2012-05.html#TsatsaronisSPAAGGAAZN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/Dulac-ArnoldDG12" mdate="2017-05-08">
+<author>Gabriel Dulac-Arnold</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Lecture Séquentielle de Documents pour la Classification.</title>
+<pages>245-259</pages>
+<year>2012</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2012</crossref>
+<url>db/conf/coria/coria2012.html#Dulac-ArnoldDG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/RafrafiGG12" mdate="2017-05-08">
+<author>Abdelhalim Rafrafi</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Représentations et régularisations pour la classification de sentiments.</title>
+<pages>285-300</pages>
+<year>2012</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2012</crossref>
+<url>db/conf/coria/coria2012.html#RafrafiGG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnidc/GaoDG12" mdate="2017-06-22">
+<author>Sheng Gao</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Probabilistic Latent Tensor Factorization model for link pattern prediction.</title>
+<pages>549-553</pages>
+<year>2012</year>
+<booktitle>IC-NIDC</booktitle>
+<crossref>conf/icnidc/2012</crossref>
+<url>db/conf/icnidc/icnidc2012.html#GaoDG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iconip/CancelliereGAG12" mdate="2017-06-15">
+<author>Rossella Cancelliere</author>
+<author>Mario Gai</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<pages>116-125</pages>
+<year>2012</year>
+<booktitle>ICONIP (5)</booktitle>
+<crossref>conf/iconip/2012-5</crossref>
+<url>db/conf/iconip/iconip2012-5.html#CancelliereGAG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/RafrafiGG12" mdate="2012-06-13">
+<author>Abdelhalim Rafrafi</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Coping with the Document Frequency Bias in Sentiment Classification.</title>
+<year>2012</year>
+<booktitle>ICWSM</booktitle>
+<crossref>conf/icwsm/2012</crossref>
+<url>db/conf/icwsm/icwsm2012.html#RafrafiGG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/CalauzenesUG12" mdate="2014-12-10">
+<author>Clément Calauzènes</author>
+<author>Nicolas Usunier</author>
+<author>Patrick Gallinari</author>
+<title>"On the (Non-)existence of Convex, Calibrated Surrogate Losses for Ranking".</title>
+<pages>197-205</pages>
+<year>2012</year>
+<booktitle>NIPS</booktitle>
+<crossref>conf/nips/2012</crossref>
+<url>db/conf/nips/nips2012.html#CalauzenesUG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/Dulac-ArnoldDPG12" mdate="2018-06-26">
+<author>Gabriel Dulac-Arnold</author>
+<author>Ludovic Denoyer</author>
+<author>Philippe Preux</author>
+<author>Patrick Gallinari</author>
+<title>Fast Reinforcement Learning with Large Action Sets Using Error-Correcting Output Codes for MDP Factorization.</title>
+<pages>180-194</pages>
+<year>2012</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-33486-3_12</ee>
+<crossref>conf/pkdd/2012-2</crossref>
+<url>db/conf/pkdd/pkdd2012-2.html#Dulac-ArnoldDPG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/CisseAG12" mdate="2018-06-26">
+<author>Moustapha Cissé</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>Learning Compact Class Codes for Fast Inference in Large Multi Class Classification.</title>
+<pages>506-520</pages>
+<year>2012</year>
+<booktitle>ECML/PKDD (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-33460-3_38</ee>
+<crossref>conf/pkdd/2012-1</crossref>
+<url>db/conf/pkdd/pkdd2012-1.html#CisseAG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/PradelUG12" mdate="2018-11-06">
+<author>Bruno Pradel</author>
+<author>Nicolas Usunier</author>
+<author>Patrick Gallinari</author>
+<title>Ranking with non-random missing ratings: influence of popularity and positivity on evaluation metrics.</title>
+<pages>147-154</pages>
+<year>2012</year>
+<booktitle>RecSys</booktitle>
+<crossref>conf/recsys/2012</crossref>
+<url>db/conf/recsys/recsys2012.html#PradelUG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/GaoDG12" mdate="2018-11-06">
+<author>Sheng Gao</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Link prediction via latent factor BlockModel.</title>
+<pages>507-508</pages>
+<year>2012</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<crossref>conf/www/2012c</crossref>
+<url>db/conf/www/www2012c.html#GaoDG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/NajarDG12" mdate="2018-11-06">
+<author>Anis Najar</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Predicting information diffusion on social networks with partial knowledge.</title>
+<pages>1197-1204</pages>
+<year>2012</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<crossref>conf/www/2012c</crossref>
+<url>db/conf/www/www2012c.html#NajarDG12</url>
+</inproceedings>
+</r>
+<r><incollection key="books/wi/p/AminiBGTU12" mdate="2016-02-22">
+<author>Massih-Reza Amini</author>
+<author>David Buffoni</author>
+<author>Patrick Gallinari</author>
+<author>Tuong-Vinh Truong</author>
+<author>Nicolas Usunier</author>
+<title>Learnable Ranking Models for Automatic Text Summarization and Information Retrieval.</title>
+<pages>33-58</pages>
+<year>2012</year>
+<booktitle>Textual Information Access: Statistical Models</booktitle>
+<crossref>books/wi/GY2012</crossref>
+<url>db/books/collections/GY2012.html#AminiBGTU12</url>
+</incollection>
+</r>
+<r><incollection key="series/sci/MaesDG12" mdate="2017-05-16">
+<author>Francis Maes</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Corpus-Based Structure Mapping of XML Document Corpora: A Reinforcement Learning Based Model.</title>
+<pages>249-266</pages>
+<year>2012</year>
+<booktitle>Modeling, Learning, and Processing of Text Technological Data Structures</booktitle>
+<crossref>series/sci/2012-370</crossref>
+<url>db/series/sci/sci370.html#MaesDG12</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-0203" mdate="2018-08-13">
+<author>Gabriel Dulac-Arnold</author>
+<author>Ludovic Denoyer</author>
+<author>Philippe Preux</author>
+<author>Patrick Gallinari</author>
+<title>Fast Reinforcement Learning with Large Action Sets using Error-Correcting Output Codes for MDP Factorization</title>
+<ee type="oa">http://arxiv.org/abs/1203.0203</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.0203</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-0203</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1204-2581" mdate="2018-08-13">
+<author>Sheng Gao</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Modeling Relational Data via Latent Factor Blockmodel</title>
+<ee type="oa">http://arxiv.org/abs/1204.2581</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1204.2581</volume>
+<url>db/journals/corr/corr1204.html#abs-1204-2581</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1204-2588" mdate="2018-08-13">
+<author>Sheng Gao</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Probabilistic Latent Tensor Factorization Model for Link Pattern Prediction in Multi-relational Networks</title>
+<ee type="oa">http://arxiv.org/abs/1204.2588</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1204.2588</volume>
+<url>db/journals/corr/corr1204.html#abs-1204-2588</url>
+</article>
+</r>
+<r><inproceedings key="conf/aime/RubrichiQSG11" mdate="2017-05-21">
+<author>Stefania Rubrichi</author>
+<author>Silvana Quaglini</author>
+<author>Alex Spengler</author>
+<author>Patrick Gallinari</author>
+<title>Extracting Information from Summary of Product Characteristics for Improving Drugs Prescription Safety.</title>
+<pages>327-337</pages>
+<year>2011</year>
+<booktitle>AIME</booktitle>
+<crossref>conf/aime/2011</crossref>
+<url>db/conf/aime/aime2011.html#RubrichiQSG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidm/GaoDG11" mdate="2017-05-21">
+<author>Sheng Gao</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Link Pattern Prediction with tensor decomposition in multi-relational networks.</title>
+<pages>333-340</pages>
+<year>2011</year>
+<booktitle>CIDM</booktitle>
+<crossref>conf/cidm/2011</crossref>
+<url>db/conf/cidm/cidm2011.html#GaoDG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/GaoDG11" mdate="2018-11-06">
+<author>Sheng Gao</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Temporal link prediction by integrating content and structure information.</title>
+<pages>1169-1174</pages>
+<year>2011</year>
+<booktitle>CIKM</booktitle>
+<crossref>conf/cikm/2011</crossref>
+<url>db/conf/cikm/cikm2011.html#GaoDG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/JacobDG11" mdate="2018-11-06">
+<author>Yann Jacob</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Classification and annotation in social corpora using multiple relations.</title>
+<pages>1215-1220</pages>
+<year>2011</year>
+<booktitle>CIKM</booktitle>
+<crossref>conf/cikm/2011</crossref>
+<url>db/conf/cikm/cikm2011.html#JacobDG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/RafrafiGG11" mdate="2017-05-08">
+<author>Abdelhalim Rafrafi</author>
+<author>Vincent Guigue</author>
+<author>Patrick Gallinari</author>
+<title>Réseau de neurones profond et SVM pour la classification des sentiments.</title>
+<pages>121-133</pages>
+<year>2011</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2011</crossref>
+<url>db/conf/coria/coria2011.html#RafrafiGG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/JacobDG11" mdate="2017-05-08">
+<author>Yann Jacob</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage des schémas de propagation dans les multi-graphes.</title>
+<pages>159-174</pages>
+<year>2011</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2011</crossref>
+<url>db/conf/coria/coria2011.html#JacobDG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/Dulac-ArnoldDG11" mdate="2017-05-21">
+<author>Gabriel Dulac-Arnold</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Text Classification: A Sequential Reading Approach.</title>
+<pages>411-423</pages>
+<year>2011</year>
+<booktitle>ECIR</booktitle>
+<crossref>conf/ecir/2011</crossref>
+<url>db/conf/ecir/ecir2011.html#Dulac-ArnoldDG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/BuffoniTG11" mdate="2017-05-21">
+<author>David Buffoni</author>
+<author>Sabrina Tollari</author>
+<author>Patrick Gallinari</author>
+<title>The Importance of the Depth for Text-Image Selection Strategy in Learning-To-Rank.</title>
+<pages>743-746</pages>
+<year>2011</year>
+<booktitle>ECIR</booktitle>
+<crossref>conf/ecir/2011</crossref>
+<url>db/conf/ecir/ecir2011.html#BuffoniTG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/BuffoniCGU11" mdate="2019-04-03">
+<author>David Buffoni</author>
+<author>Clément Calauzènes</author>
+<author>Patrick Gallinari</author>
+<author>Nicolas Usunier</author>
+<title>Learning Scoring Functions with Order-Preserving Losses and Standardized Supervision.</title>
+<pages>825-832</pages>
+<year>2011</year>
+<booktitle>ICML</booktitle>
+<crossref>conf/icml/2011</crossref>
+<ee type="oa">https://icml.cc/2011/papers/447_icmlpaper.pdf</ee>
+<url>db/conf/icml/icml2011.html#BuffoniCGU11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/Dulac-ArnoldDPG11" mdate="2017-05-22">
+<author>Gabriel Dulac-Arnold</author>
+<author>Ludovic Denoyer</author>
+<author>Philippe Preux</author>
+<author>Patrick Gallinari</author>
+<title>Datum-Wise Classification: A Sequential Approach to Sparsity.</title>
+<pages>375-390</pages>
+<year>2011</year>
+<booktitle>ECML/PKDD (1)</booktitle>
+<crossref>conf/pkdd/2011-1</crossref>
+<url>db/conf/pkdd/pkdd2011-1.html#Dulac-ArnoldDPG11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1107-1322" mdate="2018-08-13">
+<author>Gabriel Dulac-Arnold</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Text Classification: A Sequential Reading Approach</title>
+<ee type="oa">http://arxiv.org/abs/1107.1322</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1107.1322</volume>
+<url>db/journals/corr/corr1107.html#abs-1107-1322</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1108-5668" mdate="2018-08-13">
+<author>Gabriel Dulac-Arnold</author>
+<author>Ludovic Denoyer</author>
+<author>Philippe Preux</author>
+<author>Patrick Gallinari</author>
+<title>Datum-Wise Classification: A Sequential Approach to Sparsity</title>
+<ee type="oa">http://arxiv.org/abs/1108.5668</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1108.5668</volume>
+<url>db/journals/corr/corr1108.html#abs-1108-5668</url>
+</article>
+</r>
+<r><article key="journals/dn/BoughanemG10" mdate="2013-11-22">
+<author>Mohand Boughanem</author>
+<author>Patrick Gallinari</author>
+<title>Éditorial.</title>
+<pages>7-8</pages>
+<year>2010</year>
+<volume>13</volume>
+<journal>Document Numérique</journal>
+<number>1</number>
+<url>db/journals/dn/dn13.html#BoughanemG10</url>
+</article>
+</r>
+<r><article key="journals/dn/KimPAG10" mdate="2017-05-27">
+<author>Young-Min Kim</author>
+<author>Jean-François Pessiot</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage d'un espace de concepts de mots pour une nouvelle représentation des données textuelles.</title>
+<pages>63-82</pages>
+<year>2010</year>
+<volume>13</volume>
+<journal>Document Numérique</journal>
+<number>1</number>
+<url>db/journals/dn/dn13.html#KimPAG10</url>
+</article>
+</r>
+<r><article key="journals/dn/TollariDFMAG10" mdate="2017-05-27">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Christophe Marsala</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Exploitation du contenu visuel pour améliorer la recherche textuelle d'images en ligne.</title>
+<pages>187-209</pages>
+<year>2010</year>
+<volume>13</volume>
+<journal>Document Numérique</journal>
+<number>1</number>
+<url>db/journals/dn/dn13.html#TollariDFMAG10</url>
+</article>
+</r>
+<r><article key="journals/ipm/PessiotKAG10" mdate="2017-05-18">
+<author>Jean-François Pessiot</author>
+<author>Young-Min Kim</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Improving document clustering in a learned concept space.</title>
+<pages>180-192</pages>
+<year>2010</year>
+<volume>46</volume>
+<journal>Inf. Process. Manage.</journal>
+<number>2</number>
+<url>db/journals/ipm/ipm46.html#PessiotKAG10</url>
+</article>
+</r>
+<r><article key="journals/jmlr/BordesBGCS10" mdate="2019-07-10">
+<author>Antoine Bordes</author>
+<author>Léon Bottou</author>
+<author>Patrick Gallinari</author>
+<author>Jonathan Chang</author>
+<author>S. Alex Smith</author>
+<title>Erratum: SGDQN is Less Careful than Expected.</title>
+<pages>2229-2240</pages>
+<year>2010</year>
+<volume>11</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<url>db/journals/jmlr/jmlr11.html#BordesBGCS10</url>
+</article>
+</r>
+<r><article key="journals/sigir/BeckersBDDVDFFGGHIKKKKLLMNNPSSTTTTV10" mdate="2018-11-06">
+<author>Thomas Beckers</author>
+<author>Patrice Bellot</author>
+<author orcid="0000-0002-7311-3693">Gianluca Demartini</author>
+<author>Ludovic Denoyer</author>
+<author>Christopher M. De Vries</author>
+<author>Antoine Doucet</author>
+<author>Khairun Nisa Fachry</author>
+<author>Norbert Fuhr</author>
+<author>Patrick Gallinari</author>
+<author>Shlomo Geva</author>
+<author>Wei Chi Huang</author>
+<author>Tereza Iofciu</author>
+<author>Jaap Kamps</author>
+<author>Gabriella Kazai</author>
+<author>Marijn Koolen</author>
+<author>Sangeetha Kutty</author>
+<author>Monica Landoni</author>
+<author>Miro Lehtonen</author>
+<author>Véronique Moriceau</author>
+<author>Richi Nayak</author>
+<author>Ragnar Nordlie</author>
+<author>Nils Pharo</author>
+<author>Eric SanJuan</author>
+<author>Ralf Schenkel</author>
+<author>Xavier Tannier</author>
+<author>Martin Theobald</author>
+<author>James A. Thom</author>
+<author>Andrew Trotman</author>
+<author>Arjen P. de Vries</author>
+<title>Report on INEX 2009.</title>
+<pages>38-57</pages>
+<year>2010</year>
+<volume>44</volume>
+<journal>SIGIR Forum</journal>
+<number>1</number>
+<url>db/journals/sigir/sigir44.html#BeckersBDDVDFFGGHIKKKKLLMNNPSSTTTTV10</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/PetersDG10" mdate="2017-05-23">
+<author>Stéphane Peters</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Iterative Annotation of Multi-relational Social Networks.</title>
+<pages>96-103</pages>
+<year>2010</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2010</crossref>
+<url>db/conf/asunam/asonam2010.html#PetersDG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/Fakeri-TabriziTUAG10" mdate="2019-05-28">
+<author>Ali Fakeri-Tabrizi</author>
+<author>Sabrina Tollari</author>
+<author>Nicolas Usunier</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>UPMC/LIP6 at ImageCLEFannotation 2010.</title>
+<year>2010</year>
+<booktitle>CLEF (Notebook Papers/LABs/Workshops)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1176/CLEF2010wn-ImageCLEF-Fakeri-TabriziEt2010.pdf</ee>
+<crossref>conf/clef/2010w</crossref>
+<url>db/conf/clef/clef2010w.html#Fakeri-TabriziTUAG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/BuffoniUG10" mdate="2017-05-08">
+<author>David Buffoni</author>
+<author>Nicolas Usunier</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage de fonctions d'ordonnancement par classification de paires ordonnées et pondérées (OWPC).</title>
+<pages>67-82</pages>
+<year>2010</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2010</crossref>
+<url>db/conf/coria/coria2010.html#BuffoniUG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/DenoyerG10" mdate="2017-05-08">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Modèles d'Ordonnancement pour l'Annotation Automatique d'Images dans les Réseaux Sociaux.</title>
+<pages>115-129</pages>
+<year>2010</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2010</crossref>
+<url>db/conf/coria/coria2010.html#DenoyerG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/SpenglerG10" mdate="2018-11-06">
+<author>Alex Spengler</author>
+<author>Patrick Gallinari</author>
+<title>Document structure meets page layout: loopy random fields for web news content extraction.</title>
+<pages>151-160</pages>
+<year>2010</year>
+<booktitle>ACM Symposium on Document Engineering</booktitle>
+<crossref>conf/doceng/2010</crossref>
+<url>db/conf/doceng/doceng2010.html#SpenglerG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/DenoyerG10" mdate="2010-09-01">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>A Ranking Based Model for Automatic Image Annotation in a Social Network.</title>
+<year>2010</year>
+<booktitle>ICWSM</booktitle>
+<crossref>conf/icwsm/2010</crossref>
+<url>db/conf/icwsm/icwsm2010.html#DenoyerG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/BuffoniUG10" mdate="2017-05-26">
+<author>David Buffoni</author>
+<author>Nicolas Usunier</author>
+<author>Patrick Gallinari</author>
+<title>LIP6 at INEX'10: OWPC for Ad Hoc Track.</title>
+<pages>54-62</pages>
+<year>2010</year>
+<booktitle>INEX</booktitle>
+<crossref>conf/inex/2010</crossref>
+<url>db/conf/inex/inex2010.html#BuffoniUG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/riao/SpenglerBG10" mdate="2011-04-21">
+<author>Alex Spengler</author>
+<author>Antoine Bordes</author>
+<author>Patrick Gallinari</author>
+<title>A comparison of discriminative classifiers for web news content extraction.</title>
+<pages>172-175</pages>
+<year>2010</year>
+<booktitle>RIAO</booktitle>
+<crossref>conf/riao/2010</crossref>
+<url>db/conf/riao/riao2010.html#SpenglerBG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/KimAGG10" mdate="2018-11-06">
+<author>Young-Min Kim</author>
+<author>Massih-Reza Amini</author>
+<author>Cyril Goutte</author>
+<author>Patrick Gallinari</author>
+<title>Multi-view clustering of multilingual documents.</title>
+<pages>821-822</pages>
+<year>2010</year>
+<booktitle>SIGIR</booktitle>
+<crossref>conf/sigir/2010</crossref>
+<url>db/conf/sigir/sigir2010.html#KimAGG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smbm/RubrichiSGQ10" mdate="2019-05-28">
+<author>Stefania Rubrichi</author>
+<author>Alex Spengler</author>
+<author>Patrick Gallinari</author>
+<author>Silvana Quaglini</author>
+<title>Preventing adverse drug events by extracting information from drug fact sheets.</title>
+<year>2010</year>
+<booktitle>Semantic Mining in Biomedicine</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-714/ShortPaper06_Rubrichi.pdf</ee>
+<crossref>conf/smbm/2010</crossref>
+<url>db/conf/smbm/smbm2010.html#RubrichiSGQ10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jmlr/BordesBG09" mdate="2019-07-10">
+<author>Antoine Bordes</author>
+<author>Léon Bottou</author>
+<author>Patrick Gallinari</author>
+<title>SGD-QN: Careful Quasi-Newton Stochastic Gradient Descent.</title>
+<pages>1737-1754</pages>
+<year>2009</year>
+<volume>10</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<url>db/journals/jmlr/jmlr10.html#BordesBG09</url>
+</article>
+</r>
+<r><article key="journals/ml/MaesDG09" mdate="2017-05-28">
+<author>Francis Maes</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Structured prediction with reinforcement learning.</title>
+<pages>271-301</pages>
+<year>2009</year>
+<volume>77</volume>
+<journal>Machine Learning</journal>
+<number>2-3</number>
+<url>db/journals/ml/ml77.html#MaesDG09</url>
+</article>
+</r>
+<r><article key="journals/sigir/DemartiniDDFGGHIKKKLNPSTTVWZ09" mdate="2018-11-06">
+<author orcid="0000-0002-7311-3693">Gianluca Demartini</author>
+<author>Ludovic Denoyer</author>
+<author>Antoine Doucet</author>
+<author>Khairun Nisa Fachry</author>
+<author>Patrick Gallinari</author>
+<author>Shlomo Geva</author>
+<author>Darren Wei Che Huang</author>
+<author>Tereza Iofciu</author>
+<author>Jaap Kamps</author>
+<author>Gabriella Kazai</author>
+<author>Marijn Koolen</author>
+<author>Monica Landoni</author>
+<author>Ragnar Nordlie</author>
+<author orcid="0000-0003-2668-5899">Nils Pharo</author>
+<author>Ralf Schenkel</author>
+<author>Martin Theobald</author>
+<author orcid="0000-0003-1253-7123">Andrew Trotman</author>
+<author>Arjen P. de Vries</author>
+<author>Alan Woodley</author>
+<author>Jianhan Zhu</author>
+<title>Report on INEX 2008.</title>
+<pages>17-36</pages>
+<year>2009</year>
+<volume>43</volume>
+<journal>SIGIR Forum</journal>
+<number>1</number>
+<url>db/journals/sigir/sigir43.html#DemartiniDDFGGHIKKKLNPSTTVWZ09</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/SpenglerG09" mdate="2017-05-21">
+<author>Alex Spengler</author>
+<author>Patrick Gallinari</author>
+<title>Learning to Extract Content from News Webpages.</title>
+<pages>709-714</pages>
+<year>2009</year>
+<booktitle>AINA Workshops</booktitle>
+<crossref>conf/aina/2009w</crossref>
+<url>db/conf/aina/ainaw2009.html#SpenglerG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/Fakeri-TabriziTDG09" mdate="2019-05-28">
+<author>Ali Fakeri-Tabrizi</author>
+<author>Sabrina Tollari</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>UPMC/LIP6 at ImageCLEFannotation2009: Large Scale Visual Concept Detection and Annotation.</title>
+<year>2009</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1175/CLEF2009wn-ImageCLEF-FakeriTabriziEt2009.pdf</ee>
+<crossref>conf/clef/2009w</crossref>
+<url>db/conf/clef/clef2009w.html#Fakeri-TabriziTDG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/Fakeri-TabriziTUG09" mdate="2017-05-24">
+<author>Ali Fakeri-Tabrizi</author>
+<author>Sabrina Tollari</author>
+<author>Nicolas Usunier</author>
+<author>Patrick Gallinari</author>
+<title>Improving Image Annotation in Imbalanced Classification Problems with Ranking SVM.</title>
+<pages>291-294</pages>
+<year>2009</year>
+<booktitle>CLEF (2)</booktitle>
+<crossref>conf/clef/2009-2</crossref>
+<url>db/conf/clef/clef2009-2.html#Fakeri-TabriziTUG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/GlotinFMFZTQSDG09" mdate="2019-05-28">
+<author>Hervé Glotin</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Philippe Mulhem</author>
+<author>Marin Ferecatu</author>
+<author>Z. Zhao</author>
+<author>Sabrina Tollari</author>
+<author>Georges Quénot</author>
+<author>Hichem Sahbi</author>
+<author>Emilie Dumont</author>
+<author>Patrick Gallinari</author>
+<title>Comparison of Various AVEIR Visual Concept Detectors with an Index of Carefulness.</title>
+<year>2009</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1175/CLEF2009wn-ImageCLEF-GlotinEt2009a.pdf</ee>
+<crossref>conf/clef/2009w</crossref>
+<url>db/conf/clef/clef2009w.html#GlotinFMFZTQSDG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/TollariDFMAG09" mdate="2017-05-08">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Christophe Marsala</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Utilisation de concepts visuels et de la diversité visuelle pour améliorer la recherche d'images.</title>
+<pages>83-98</pages>
+<year>2009</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2009</crossref>
+<url>db/conf/coria/coria2009.html#TollariDFMAG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/TollariDMFAG09" mdate="2017-05-21">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Christophe Marsala</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Exploiting Visual Concepts to Improve Text-Based Image Retrieval.</title>
+<pages>701-705</pages>
+<year>2009</year>
+<booktitle>ECIR</booktitle>
+<crossref>conf/ecir/2009</crossref>
+<url>db/conf/ecir/ecir2009.html#TollariDMFAG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esann/TruongAG09" mdate="2014-07-29">
+<author>Tuong-Vinh Truong</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>A self-training method for learning to rank with unlabeled data.</title>
+<year>2009</year>
+<booktitle>ESANN</booktitle>
+<crossref>conf/esann/2009</crossref>
+<url>db/conf/esann/esann2009.html#TruongAG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/TrinhBG09" mdate="2014-04-24">
+<author>Anh Phuc Trinh</author>
+<author>David Buffoni</author>
+<author>Patrick Gallinari</author>
+<title>Probabilistic Multi-classifier by SVM from voting rule to voting features.</title>
+<pages>433-434</pages>
+<year>2009</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2009</crossref>
+<url>db/conf/f-egc/egc2009.html#TrinhBG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/UsunierBG09" mdate="2018-11-06">
+<author>Nicolas Usunier</author>
+<author>David Buffoni</author>
+<author>Patrick Gallinari</author>
+<title>Ranking with ordered weighted pairwise classification.</title>
+<pages>1057-1064</pages>
+<year>2009</year>
+<booktitle>ICML</booktitle>
+<crossref>conf/icml/2009</crossref>
+<url>db/conf/icml/icml2009.html#UsunierBG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/BuffoniUG09" mdate="2017-05-26">
+<author>David Buffoni</author>
+<author>Nicolas Usunier</author>
+<author>Patrick Gallinari</author>
+<title>LIP6 at INEX'09: OWPC for Ad Hoc Track.</title>
+<pages>59-69</pages>
+<year>2009</year>
+<booktitle>INEX</booktitle>
+<crossref>conf/inex/2009</crossref>
+<url>db/conf/inex/inex2009.html#BuffoniUG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/NayakVKGDG09" mdate="2019-11-28">
+<author orcid="0000-0002-9954-0159">Richi Nayak</author>
+<author>Christopher M. De Vries</author>
+<author>Sangeetha Kutty</author>
+<author orcid="0000-0003-1340-2802">Shlomo Geva</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Overview of the INEX 2009 XML Mining Track: Clustering and Classification of XML Documents.</title>
+<pages>366-378</pages>
+<year>2009</year>
+<booktitle>INEX</booktitle>
+<crossref>conf/inex/2009</crossref>
+<url>db/conf/inex/inex2009.html#NayakVKGDG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/MaesPDG09" mdate="2018-06-26">
+<author>Francis Maes</author>
+<author>Stéphane Peters</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Simulated Iterative Classification A New Learning Procedure for Graph Labeling.</title>
+<pages>47-62</pages>
+<year>2009</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-04174-7_4</ee>
+<crossref>conf/pkdd/2009-2</crossref>
+<url>db/conf/pkdd/pkdd2009-2.html#MaesPDG09</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigir/DenoyerG08" mdate="2018-11-06">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Report on the XML mining track at INEX 2007 categorization and clustering of XML documents.</title>
+<pages>22-28</pages>
+<year>2008</year>
+<volume>42</volume>
+<journal>SIGIR Forum</journal>
+<number>1</number>
+<url>db/journals/sigir/sigir42.html#DenoyerG08</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/KimPAG08" mdate="2018-11-06">
+<author>Young-Min Kim</author>
+<author>Jean-François Pessiot</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>An extension of PLSA for document clustering.</title>
+<pages>1345-1346</pages>
+<year>2008</year>
+<booktitle>CIKM</booktitle>
+<crossref>conf/cikm/2008</crossref>
+<url>db/conf/cikm/cikm2008.html#KimPAG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/Fakeri-TabriziATG08" mdate="2019-05-28">
+<author>Ali Fakeri-Tabrizi</author>
+<author>Massih-Reza Amini</author>
+<author>Sabrina Tollari</author>
+<author>Patrick Gallinari</author>
+<title>UPMC/LIP6 at ImageCLEF's WikipediaMM: An Image-Annotation Model for an Image Search-Engine.</title>
+<year>2008</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1174/CLEF2008wn-ImageCLEF-FakeriTabriziEt2008.pdf</ee>
+<crossref>conf/clef/2008w</crossref>
+<url>db/conf/clef/clef2008w.html#Fakeri-TabriziATG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/TollariDFAG08" mdate="2019-05-28">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>UPMC/LIP6 at ImageCLEFphoto 2008: on the Exploitation of Visual Concepts (VCDT).</title>
+<year>2008</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1174/CLEF2008wn-ImageCLEF-TollariEt2008a.pdf</ee>
+<crossref>conf/clef/2008w</crossref>
+<url>db/conf/clef/clef2008w.html#TollariDFAG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/TollariDFGMAFGSZ08" mdate="2019-05-28">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Marin Ferecatu</author>
+<author>Hervé Glotin</author>
+<author>Philippe Mulhem</author>
+<author>Massih-Reza Amini</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Patrick Gallinari</author>
+<author>Hichem Sahbi</author>
+<author>Zhong-Qiu Zhao</author>
+<title>Consortium AVEIR at ImageCLEFphoto 2008: on the Fusion of Runs.</title>
+<year>2008</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1174/CLEF2008wn-ImageCLEF-TollariEt2008b.pdf</ee>
+<crossref>conf/clef/2008w</crossref>
+<url>db/conf/clef/clef2008w.html#TollariDFGMAFGSZ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/TollariDFMAG08" mdate="2017-05-24">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Christophe Marsala</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Using Visual Concepts and Fast Visual Diversity to Improve Image Retrieval.</title>
+<pages>577-584</pages>
+<year>2008</year>
+<booktitle>CLEF</booktitle>
+<crossref>conf/clef/2008</crossref>
+<url>db/conf/clef/clef2008.html#TollariDFMAG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/TollariMFGDGSZ08" mdate="2017-05-24">
+<author>Sabrina Tollari</author>
+<author>Philippe Mulhem</author>
+<author>Marin Ferecatu</author>
+<author>Hervé Glotin</author>
+<author>Marcin Detyniecki</author>
+<author>Patrick Gallinari</author>
+<author>Hichem Sahbi</author>
+<author>Zhong-Qiu Zhao</author>
+<title>A Comparative Study of Diversity Methods for Hybrid Text and Image Retrieval Approaches.</title>
+<pages>585-592</pages>
+<year>2008</year>
+<booktitle>CLEF</booktitle>
+<crossref>conf/clef/2008</crossref>
+<url>db/conf/clef/clef2008.html#TollariMFGDGSZ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/VuG08" mdate="2017-05-08">
+<author>Huyen-Trang Vu</author>
+<author>Patrick Gallinari</author>
+<title>Analyse de la robustesse des algorithmes de méta-recherche discriminante.</title>
+<pages>87-102</pages>
+<year>2008</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2008</crossref>
+<url>db/conf/coria/coria2008.html#VuG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/KimPAG08" mdate="2017-05-08">
+<author>Young-Min Kim</author>
+<author>Jean-François Pessiot</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage d'un espace de concepts de mots pour une nouvelle représentation des données textuelles.</title>
+<pages>119-134</pages>
+<year>2008</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2008</crossref>
+<url>db/conf/coria/coria2008.html#KimPAG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/MaesDG08" mdate="2017-05-08">
+<author>Francis Maes</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<pages>181-196</pages>
+<year>2008</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2008</crossref>
+<url>db/conf/coria/coria2008.html#MaesDG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/PessiotKAUG08" mdate="2017-05-08">
+<author>Jean-François Pessiot</author>
+<author>Young-Min Kim</author>
+<author>Massih-Reza Amini</author>
+<author>Nicolas Usunier</author>
+<author>Patrick Gallinari</author>
+<title>Une méthode contextuelle d'extension de requête avec des groupements de mots pour le résumé automatique.</title>
+<pages>289-304</pages>
+<year>2008</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2008</crossref>
+<url>db/conf/coria/coria2008.html#PessiotKAUG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Akodjenou-JeanninG08" mdate="2017-05-24">
+<author>Marc-Ismaël Akodjènou-Jeannin</author>
+<author>Patrick Gallinari</author>
+<title>Efficient Data Clustering by Local Density Approximation.</title>
+<pages>767-768</pages>
+<year>2008</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2008</crossref>
+<url>db/conf/ecai/ecai2008.html#Akodjenou-JeanninG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ewrl/MaesDG08" mdate="2017-05-23">
+<author>Francis Maes</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Applications of Reinforcement Learning to Structured Prediction.</title>
+<pages>205-219</pages>
+<year>2008</year>
+<booktitle>EWRL</booktitle>
+<crossref>conf/ewrl/2008</crossref>
+<url>db/conf/ewrl/ewrl2008.html#MaesDG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/Akodjenou-JeanninSG08" mdate="2014-04-24">
+<author>Marc-Ismaël Akodjènou-Jeannin</author>
+<author>Kavé Salamatian</author>
+<author>Patrick Gallinari</author>
+<title>Clustering en haute dimension par accumulation de clusterings locaux.</title>
+<pages>253-264</pages>
+<year>2008</year>
+<crossref>conf/f-egc/2008</crossref>
+<booktitle>EGC</booktitle>
+<url>db/conf/f-egc/egc2008.html#Akodjenou-JeanninSG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/WisniewskiG08" mdate="2017-05-26">
+<author>Guillaume Wisniewski</author>
+<author>Patrick Gallinari</author>
+<title>Experimental Evaluation of the Value of Structure: How to Efficiently Exploit Interdependencies in Sequence Labeling.</title>
+<pages>1097-1102</pages>
+<year>2008</year>
+<booktitle>ICDM</booktitle>
+<crossref>conf/icdm/2008</crossref>
+<url>db/conf/icdm/icdm2008.html#WisniewskiG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/DenoyerG08" mdate="2019-11-28">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Overview of the INEX 2008 XML Mining Track.</title>
+<pages>401-411</pages>
+<year>2008</year>
+<booktitle>INEX</booktitle>
+<crossref>conf/inex/2008</crossref>
+<url>db/conf/inex/inex2008.html#DenoyerG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miar/MesrobMCSHDGLKB08" mdate="2017-05-21">
+<author>Lilia Mesrob</author>
+<author>Benoit Magnin</author>
+<author>Olivier Colliot</author>
+<author>Marie Sarazin</author>
+<author>Valérie Hahn-Barma</author>
+<author>Bruno Dubois</author>
+<author>Patrick Gallinari</author>
+<author>Stéphane Lehéricy</author>
+<author>Serge Kinkingnéhun</author>
+<author>Habib Benali</author>
+<title>Identification of Atrophy Patterns in Alzheimer's Disease Based on SVM Feature Selection and Anatomical Parcellation.</title>
+<pages>124-132</pages>
+<year>2008</year>
+<booktitle>MIAR</booktitle>
+<crossref>conf/miar/2008</crossref>
+<url>db/conf/miar/miar2008.html#MesrobMCSHDGLKB08</url>
+</inproceedings>
+</r>
+<r><incollection key="series/cogtech/DenoyerG08" mdate="2017-05-16">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Machine Learning for Semi-structured Multimedia Documents: Application to Pornographic Filtering and Thematic Categorization.</title>
+<pages>227-247</pages>
+<year>2008</year>
+<booktitle>Machine Learning Techniques for Multimedia</booktitle>
+<crossref>series/cogtech/354075170</crossref>
+<url>db/series/cogtech/354075170.html#DenoyerG08</url>
+</incollection>
+</r>
+<r><article key="journals/pami/ArtieresMG07" mdate="2018-11-14">
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Sanparith Marukatat</author>
+<author>Patrick Gallinari</author>
+<title>Online Handwritten Shape Recognition Using Segmental Hidden Markov Models.</title>
+<pages>205-217</pages>
+<year>2007</year>
+<volume>29</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>2</number>
+<url>db/journals/pami/pami29.html#ArtieresMG07</url>
+</article>
+</r>
+<r><article key="journals/sigir/DenoyerG07" mdate="2018-11-06">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Report on the XML mining track at INEX 2005 and INEX 2006: categorization and clustering of XML documents.</title>
+<pages>79-90</pages>
+<year>2007</year>
+<volume>41</volume>
+<journal>SIGIR Forum</journal>
+<number>1</number>
+<url>db/journals/sigir/sigir41.html#DenoyerG07</url>
+</article>
+</r>
+<r><article key="journals/tois/PiwowarskiGD07" mdate="2018-11-06">
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<author>Georges Dupret</author>
+<title>Precision recall with user modeling (PRUM): Application to structured information retrieval.</title>
+<year>2007</year>
+<volume>25</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>1</number>
+<url>db/journals/tois/tois25.html#PiwowarskiGD07</url>
+<pages>1</pages>
+</article>
+</r>
+<r><inproceedings key="conf/coria/PessiotTUAG07" mdate="2017-05-08">
+<author>Jean-François Pessiot</author>
+<author>Tuong-Vinh Truong</author>
+<author>Nicolas Usunier</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Filtrage Collaboratif avec un Algorithme d'Ordonnancement.</title>
+<pages>165-180</pages>
+<year>2007</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2007</crossref>
+<url>db/conf/coria/coria2007.html#PessiotTUAG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecml/MaesDG07" mdate="2018-06-26">
+<author>Francis Maes</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Sequence Labeling with Reinforcement Learning and Ranking Algorithms.</title>
+<pages>648-657</pages>
+<year>2007</year>
+<crossref>conf/ecml/2007</crossref>
+<booktitle>ECML</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-74958-5_64</ee>
+<url>db/conf/ecml/ecml2007.html#MaesDG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/WisniewskiG07" mdate="2014-04-24">
+<author>Guillaume Wisniewski</author>
+<author>Patrick Gallinari</author>
+<title>Ré-ordonnancement pour l'apprentissage de transformations de documents HTML.</title>
+<pages>727-738</pages>
+<year>2007</year>
+<crossref>conf/f-egc/2007</crossref>
+<booktitle>EGC</booktitle>
+<url>db/conf/f-egc/egc2007.html#WisniewskiG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/PessiotTUAG07" mdate="2008-01-14">
+<author>Jean-François Pessiot</author>
+<author>Tuong-Vinh Truong</author>
+<author>Nicolas Usunier</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Learning to Rank for Collaborative Filtering.</title>
+<pages>145-151</pages>
+<year>2007</year>
+<crossref>conf/iceis/2007-2</crossref>
+<booktitle>ICEIS (2)</booktitle>
+<url>db/conf/iceis/iceis2007-2.html#PessiotTUAG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/BordesBGW07" mdate="2018-11-06">
+<author>Antoine Bordes</author>
+<author>Léon Bottou</author>
+<author>Patrick Gallinari</author>
+<author>Jason Weston</author>
+<title>Solving multiclass support vector machines with LaRank.</title>
+<pages>89-96</pages>
+<year>2007</year>
+<crossref>conf/icml/2007</crossref>
+<booktitle>ICML</booktitle>
+<url>db/conf/icml/icml2007.html#BordesBGW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mldm/WisniewskiMDG07" mdate="2017-05-17">
+<author>Guillaume Wisniewski</author>
+<author>Francis Maes</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Probabilistic Model for Structured Document Mapping.</title>
+<pages>854-867</pages>
+<year>2007</year>
+<crossref>conf/mldm/2007</crossref>
+<booktitle>MLDM</booktitle>
+<url>db/conf/mldm/mldm2007.html#WisniewskiMDG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/WisniewskiG07" mdate="2018-06-26">
+<author>Guillaume Wisniewski</author>
+<author>Patrick Gallinari</author>
+<title>Relaxation Labeling for Selecting and Exploiting Efficiently Non-local Dependencies in Sequence Labeling.</title>
+<pages>312-323</pages>
+<year>2007</year>
+<crossref>conf/pkdd/2007</crossref>
+<booktitle>PKDD</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-74976-9_30</ee>
+<url>db/conf/pkdd/pkdd2007.html#WisniewskiG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/Akodjenou-JeanninSG07" mdate="2018-06-26">
+<author>Marc-Ismaël Akodjènou-Jeannin</author>
+<author>Kavé Salamatian</author>
+<author>Patrick Gallinari</author>
+<title>Flexible Grid-Based Clustering.</title>
+<pages>350-357</pages>
+<year>2007</year>
+<crossref>conf/pkdd/2007</crossref>
+<booktitle>PKDD</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-74976-9_33</ee>
+<url>db/conf/pkdd/pkdd2007.html#Akodjenou-JeanninSG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/riao/WisniewskiG07" mdate="2009-03-10">
+<author>Guillaume Wisniewski</author>
+<author>Patrick Gallinari</author>
+<title>From Layout to Semantic: a Reranking Model for Mapping Web Documents to Mediated XML Representations.</title>
+<year>2007</year>
+<booktitle>RIAO</booktitle>
+<crossref>conf/riao/2007</crossref>
+<url>db/conf/riao/riao2007.html#WisniewskiG07</url>
+</inproceedings>
+</r>
+<r><article key="journals/isi/UsunierAG06" mdate="2017-05-28">
+<author>Nicolas Usunier</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Résumé automatique de texte avec un algorithme d'ordonnancement.</title>
+<pages>71-91</pages>
+<year>2006</year>
+<volume>11</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>2</number>
+<url>db/journals/isi/isi11.html#UsunierAG06</url>
+</article>
+</r>
+<r><article key="journals/sigir/DenoyerG06" mdate="2019-11-28">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>The Wikipedia XML corpus.</title>
+<pages>64-69</pages>
+<year>2006</year>
+<volume>40</volume>
+<journal>SIGIR Forum</journal>
+<number>1</number>
+<url>db/journals/sigir/sigir40.html#DenoyerG06</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/GallinariV06" mdate="2017-05-08">
+<author>Patrick Gallinari</author>
+<author>Jean-Noël Vittaut</author>
+<title>Apprentissage d'ordonnancements en recherche d'information structurée.</title>
+<pages>17-28</pages>
+<year>2006</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2006</crossref>
+<url>db/conf/coria/coria2006.html#GallinariV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/VuG06" mdate="2017-05-08">
+<author>Huyen-Trang Vu</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage statistique pour la constitution des corpus d'évaluation.</title>
+<pages>85-96</pages>
+<year>2006</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2006</crossref>
+<url>db/conf/coria/coria2006.html#VuG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/WisniewskiDMG06" mdate="2017-05-08">
+<author>Guillaume Wisniewski</author>
+<author>Ludovic Denoyer</author>
+<author>Francis Maes</author>
+<author>Patrick Gallinari</author>
+<title>Modèle probabiliste pour l'extraction de structures dans les documents semistructurés - Application aux documents Web.</title>
+<pages>169-180</pages>
+<year>2006</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2006</crossref>
+<url>db/conf/coria/coria2006.html#WisniewskiDMG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/PessiotTUAG06" mdate="2017-05-08">
+<author>Jean-François Pessiot</author>
+<author>Tuong-Vinh Truong</author>
+<author>Nicolas Usunier</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Factorisation en matrices non négatives pour le filtrage collaboratif.</title>
+<pages>315-326</pages>
+<year>2006</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2006</crossref>
+<url>db/conf/coria/coria2006.html#PessiotTUAG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/VittautG06" mdate="2017-05-21">
+<author>Jean-Noël Vittaut</author>
+<author>Patrick Gallinari</author>
+<title>Machine Learning Ranking for Structured Information Retrieval.</title>
+<pages>338-349</pages>
+<year>2006</year>
+<crossref>conf/ecir/2006</crossref>
+<booktitle>ECIR</booktitle>
+<url>db/conf/ecir/ecir2006.html#VittautG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecml/AminiULLG06" mdate="2018-06-26">
+<author>Massih-Reza Amini</author>
+<author>Nicolas Usunier</author>
+<author>François Laviolette</author>
+<author>Alexandre Lacasse</author>
+<author>Patrick Gallinari</author>
+<title>A Selective Sampling Strategy for Label Ranking.</title>
+<pages>18-29</pages>
+<year>2006</year>
+<crossref>conf/ecml/2006</crossref>
+<booktitle>ECML</booktitle>
+<ee type="oa">https://doi.org/10.1007/11871842_7</ee>
+<url>db/conf/ecml/ecml2006.html#AminiULLG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/DenoyerG06" mdate="2017-05-26">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>The Wikipedia XML Corpus.</title>
+<pages>12-19</pages>
+<year>2006</year>
+<crossref>conf/inex/2006</crossref>
+<booktitle>INEX</booktitle>
+<url>db/conf/inex/inex2006.html#DenoyerG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/VittautG06" mdate="2017-05-26">
+<author>Jean-Noël Vittaut</author>
+<author>Patrick Gallinari</author>
+<title>Supervised and Semi-supervised Machine Learning Ranking.</title>
+<pages>213-222</pages>
+<year>2006</year>
+<crossref>conf/inex/2006</crossref>
+<booktitle>INEX</booktitle>
+<url>db/conf/inex/inex2006.html#VittautG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/DenoyerGV06" mdate="2017-05-26">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<author>Anne-Marie Vercoustre</author>
+<title>Report on the XML Mining Track at INEX 2005 and INEX 2006.</title>
+<pages>432-443</pages>
+<year>2006</year>
+<crossref>conf/inex/2006</crossref>
+<booktitle>INEX</booktitle>
+<url>db/conf/inex/inex2006.html#DenoyerGV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/MaesDG06" mdate="2017-05-26">
+<author>Francis Maes</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>XML Structure Mapping.</title>
+<pages>540-551</pages>
+<year>2006</year>
+<crossref>conf/inex/2006</crossref>
+<booktitle>INEX</booktitle>
+<url>db/conf/inex/inex2006.html#MaesDG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/VuG06" mdate="2019-09-11">
+<author>Huyen-Trang Vu</author>
+<author>Patrick Gallinari</author>
+<title>A Machine Learning based Approach to Evaluating Retrieval Systems.</title>
+<year>2006</year>
+<crossref>conf/naacl/2006</crossref>
+<booktitle>HLT-NAACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/N06-1051/</ee>
+<url>db/conf/naacl/naacl2006.html#VuG06</url>
+</inproceedings>
+</r>
+<r><article key="journals/ir/PiwowarskiG05" mdate="2017-05-27">
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>A Bayesian Framework for XML Information Retrieval: Searching and Learning with the INEX Collection.</title>
+<pages>655-681</pages>
+<year>2005</year>
+<volume>8</volume>
+<journal>Inf. Retr.</journal>
+<number>4</number>
+<url>db/journals/ir/ir8.html#PiwowarskiG05</url>
+</article>
+</r>
+<r><article key="journals/kais/AminiG05" mdate="2017-05-28">
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Semi-supervised learning with an imperfect supervisor.</title>
+<pages>385-413</pages>
+<year>2005</year>
+<volume>8</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>4</number>
+<url>db/journals/kais/kais8.html#AminiG05</url>
+</article>
+</r>
+<r><inproceedings key="conf/airs/VuG05" mdate="2017-05-26">
+<author>Huyen-Trang Vu</author>
+<author>Patrick Gallinari</author>
+<title>On Effectiveness Measures and Relevance Functions in Ranking INEX Systems.</title>
+<pages>312-327</pages>
+<year>2005</year>
+<crossref>conf/airs/2005</crossref>
+<booktitle>AIRS</booktitle>
+<url>db/conf/airs/airs2005.html#VuG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/AminiTULG05" mdate="2018-11-06">
+<author>Massih-Reza Amini</author>
+<author>Anastasios Tombros</author>
+<author>Nicolas Usunier</author>
+<author>Mounia Lalmas</author>
+<author>Patrick Gallinari</author>
+<title>Learning to summarise XML documents using content and structure.</title>
+<pages>297-298</pages>
+<year>2005</year>
+<crossref>conf/cikm/2005</crossref>
+<booktitle>CIKM</booktitle>
+<url>db/conf/cikm/cikm2005.html#AminiTULG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/VuG05" mdate="2018-11-06">
+<author>Huyen-Trang Vu</author>
+<author>Patrick Gallinari</author>
+<title>Using RankBoost to compare retrieval systems.</title>
+<pages>309-310</pages>
+<year>2005</year>
+<crossref>conf/cikm/2005</crossref>
+<booktitle>CIKM</booktitle>
+<url>db/conf/cikm/cikm2005.html#VuG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/UsunierAG05" mdate="2017-05-08">
+<author>Nicolas Usunier</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Résumé automatique de texte avec un algorithme d'ordonnancement.</title>
+<pages>25-40</pages>
+<year>2005</year>
+<crossref>conf/coria/2005</crossref>
+<booktitle>CORIA</booktitle>
+<url>db/conf/coria/coria2005.html#UsunierAG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/WisniewskiDG05" mdate="2017-05-08">
+<author>Guillaume Wisniewski</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Classification automatique de documents structurés. Application au corpus d'arbres étiquetés de type XML.</title>
+<pages>167-184</pages>
+<year>2005</year>
+<crossref>conf/coria/2005</crossref>
+<booktitle>CORIA</booktitle>
+<url>db/conf/coria/coria2005.html#WisniewskiDG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/AminiUG05" mdate="2017-05-21">
+<author>Massih-Reza Amini</author>
+<author>Nicolas Usunier</author>
+<author>Patrick Gallinari</author>
+<title>Automatic Text Summarization Based on Word-Clusters and Ranking Algorithms.</title>
+<pages>142-156</pages>
+<year>2005</year>
+<crossref>conf/ecir/2005</crossref>
+<booktitle>ECIR</booktitle>
+<url>db/conf/ecir/ecir2005.html#AminiUG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/UsunierAG05" mdate="2014-04-24">
+<author>Nicolas Usunier</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Combinaison de fonctions de préférence par boosting pour la recherche de passages dans les systèmes de question/réponse.</title>
+<pages>1-6</pages>
+<year>2005</year>
+<crossref>conf/f-egc/2005</crossref>
+<booktitle>EGC</booktitle>
+<url>db/conf/f-egc/egc2005.html#UsunierAG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/FotzoAGBL05" mdate="2014-04-27">
+<author>Hermine Njike Fotzo</author>
+<author>Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<author>Julien Blanchard</author>
+<author>Guillaume Letellier</author>
+<title>Apprentissage d'une hiérarchie de concepts pour la conception de modèles de domaine d'hypermédias.</title>
+<pages>125-130</pages>
+<year>2005</year>
+<booktitle>EGC (Ateliers)</booktitle>
+<crossref>conf/f-egc/2005w</crossref>
+<url>db/conf/f-egc/egc2005w.html#FotzoAGBL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/DoAG05" mdate="2014-04-24">
+<author>Trinh Minh Tri Do</author>
+<author>Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>Sélection de modèles par des méthodes à noyaux pour la classification de données séquentielles.</title>
+<pages>165-176</pages>
+<year>2005</year>
+<crossref>conf/f-egc/2005</crossref>
+<booktitle>EGC</booktitle>
+<url>db/conf/f-egc/egc2005.html#DoAG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/WisniewskiDG05" mdate="2014-04-24">
+<author>Guillaume Wisniewski</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Restructuration automatique de documents dans les corpus semi-structurés hétérogènes.</title>
+<pages>227-238</pages>
+<year>2005</year>
+<crossref>conf/f-egc/2005</crossref>
+<booktitle>EGC</booktitle>
+<url>db/conf/f-egc/egc2005.html#WisniewskiDG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/BlanchardPAG05" mdate="2014-04-24">
+<author>Julien Blanchard</author>
+<author>Bertrand Petitjean</author>
+<author>Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>Un système d'aide à la navigation dans des hypermédias.</title>
+<pages>281-292</pages>
+<year>2005</year>
+<crossref>conf/f-egc/2005</crossref>
+<booktitle>EGC</booktitle>
+<url>db/conf/f-egc/egc2005.html#BlanchardPAG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/FotzoAGBL05" mdate="2019-08-20">
+<author>Hermine Njike Fotzo</author>
+<author>Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<author>Julien Blanchard</author>
+<author>Guillaume Letellier</author>
+<title>Automatic learning of domain model for personalized hypermedia applications.</title>
+<pages>1624-1625</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0282.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FotzoAGBL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/VittautG05" mdate="2017-05-30">
+<author>Jean-Noël Vittaut</author>
+<author>Patrick Gallinari</author>
+<title>Machine Learning Ranking and INEX'05.</title>
+<pages>336-343</pages>
+<year>2005</year>
+<crossref>conf/inex/2005</crossref>
+<booktitle>INEX</booktitle>
+<url>db/conf/inex/inex2005.html#VittautG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/UsunierAG05" mdate="2014-12-11">
+<author>Nicolas Usunier</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Generalization error bounds for classifiers trained with interdependent data.</title>
+<year>2005</year>
+<crossref>conf/nips/2005</crossref>
+<booktitle>NIPS</booktitle>
+<url>db/conf/nips/nips2005.html#UsunierAG05</url>
+<pages>1369-1376</pages>
+</inproceedings>
+</r>
+<r><article key="journals/dn/DenoyerG04" mdate="2013-11-24">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Un modèle de mixture de modèles génératifs pour les documents structurés multimédias. Application à la classification de documents XML et HTML.</title>
+<pages>35-54</pages>
+<year>2004</year>
+<volume>8</volume>
+<journal>Document Numérique</journal>
+<number>3</number>
+<url>db/journals/dn/dn8.html#DenoyerG04</url>
+</article>
+</r>
+<r><article key="journals/ipm/DenoyerG04" mdate="2017-05-18">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Bayesian network model for semi-structured document classification.</title>
+<pages>807-827</pages>
+<year>2004</year>
+<volume>40</volume>
+<journal>Inf. Process. Manage.</journal>
+<number>5</number>
+<url>db/journals/ipm/ipm40.html#DenoyerG04</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/FotzoG04" mdate="2017-05-08">
+<author>Hermine Njike Fotzo</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage de Relations entre Concepts - Génération Automatique d'une Structuration Hiérarchique à partir de Corpus.</title>
+<pages>57-74</pages>
+<year>2004</year>
+<crossref>conf/coria/2004</crossref>
+<booktitle>CORIA</booktitle>
+<url>db/conf/coria/coria2004.html#FotzoG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/PessiotCAG04" mdate="2017-05-08">
+<author>Jean-François Pessiot</author>
+<author>Marc Caillet</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage non-supervisé pour la segmentation automatique de textes.</title>
+<pages>213-228</pages>
+<year>2004</year>
+<crossref>conf/coria/2004</crossref>
+<booktitle>CORIA</booktitle>
+<url>db/conf/coria/coria2004.html#PessiotCAG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BinsztokAG04" mdate="2004-09-02">
+<author>Henri Binsztok</author>
+<author>Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>A Model-Based Approach to Sequence Clustering.</title>
+<pages>420-424</pages>
+<year>2004</year>
+<crossref>conf/ecai/2004</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2004.html#BinsztokAG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/FotzoG04" mdate="2017-02-02">
+<author>Hermine Njike Fotzo</author>
+<author>Patrick Gallinari</author>
+<title>Information Access via Topic Hierarchies and Thematic Annotations from Document Collections.</title>
+<pages>69-76</pages>
+<year>2004</year>
+<crossref>conf/iceis/2004</crossref>
+<booktitle>ICEIS (2)</booktitle>
+<url>db/conf/iceis/iceis2004-2.html#FotzoG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/FotzoG04a" mdate="2019-05-15">
+<author>Hermine Njike Fotzo</author>
+<author>Patrick Gallinari</author>
+<title>Information Access via Topic Hierarchies and Thematic Annotations from Document Collections.</title>
+<pages>143-150</pages>
+<year>2004</year>
+<booktitle>ICEIS (Selected Papers)</booktitle>
+<crossref>conf/iceis/2004s</crossref>
+<url>db/conf/iceis/iceis2004s.html#FotzoG04a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfhr/MarukatatAG04" mdate="2017-06-15">
+<author>Sanparith Marukatat</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>A generic approach for on-line handwriting recognition.</title>
+<pages>401-406</pages>
+<year>2004</year>
+<booktitle>IWFHR</booktitle>
+<crossref>conf/icfhr/2004</crossref>
+<url>db/conf/icfhr/iwfhr2004.html#MarukatatAG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/VittautPG04" mdate="2017-05-26">
+<author>Jean-Noël Vittaut</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>An Algebra for Structured Queries in Bayesian Networks.</title>
+<pages>100-112</pages>
+<year>2004</year>
+<crossref>conf/inex/2004</crossref>
+<booktitle>INEX</booktitle>
+<url>db/conf/inex/inex2004.html#VittautPG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/riao/FotzoG04" mdate="2009-03-10">
+<author>Hermine Njike Fotzo</author>
+<author>Patrick Gallinari</author>
+<title>Learning "Generalization/Specialization" Relations between Concepts - Application for Automatically Building Thematic Document Hierarchies.</title>
+<pages>143-155</pages>
+<year>2004</year>
+<booktitle>RIAO</booktitle>
+<crossref>conf/riao/2004</crossref>
+<url>db/conf/riao/riao2004.html#FotzoG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/riao/CailletPAG04" mdate="2009-03-10">
+<author>Marc Caillet</author>
+<author>Jean-François Pessiot</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Unsupervised Learning with Term Clustering for Thematic Segmentation of Texts.</title>
+<pages>648-657</pages>
+<year>2004</year>
+<booktitle>RIAO</booktitle>
+<crossref>conf/riao/2004</crossref>
+<url>db/conf/riao/riao2004.html#CailletPAG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tdm/PiwowarskiG04" mdate="2007-02-28">
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>An Algebra for Probabilistic XML Retrieval.</title>
+<pages>65-72</pages>
+<year>2004</year>
+<crossref>conf/tdm/2004</crossref>
+<booktitle>TDM</booktitle>
+<url>db/conf/tdm/tdm2004.html#PiwowarskiG04</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijdar/ArtieresGGD03" mdate="2017-06-14">
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Nadji Gauthier</author>
+<author>Patrick Gallinari</author>
+<author>Bernadette Dorizzi</author>
+<title>A Hidden Markov Models combination framework for handwriting recognition.</title>
+<pages>233-243</pages>
+<year>2003</year>
+<volume>5</volume>
+<journal>IJDAR</journal>
+<number>4</number>
+<url>db/journals/ijdar/ijdar5.html#ArtieresGGD03</url>
+</article>
+</r>
+<r><article key="journals/ijdar/BelliliGG03" mdate="2017-05-17">
+<author>Abdel Bellili</author>
+<author>Michel Gilloux</author>
+<author>Patrick Gallinari</author>
+<title>An MLP-SVM combination architecture for offline handwritten digit recognition: Reduction of recognition errors by Support Vector Machines rejection mechanisms.</title>
+<pages>244-252</pages>
+<year>2003</year>
+<volume>5</volume>
+<journal>IJDAR</journal>
+<number>4</number>
+<url>db/journals/ijdar/ijdar5.html#BelliliGG03</url>
+</article>
+</r>
+<r><inproceedings key="conf/doceng/DenoyerVGBB03" mdate="2018-11-06">
+<author>Ludovic Denoyer</author>
+<author>Jean-Noël Vittaut</author>
+<author>Patrick Gallinari</author>
+<author>Sylvie Brunessaux</author>
+<author>Stephan Brunessaux</author>
+<title>Structured multimedia document classification.</title>
+<pages>153-160</pages>
+<year>2003</year>
+<crossref>conf/doceng/2003</crossref>
+<booktitle>ACM Symposium on Document Engineering</booktitle>
+<url>db/conf/doceng/doceng2003.html#DenoyerVGBB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/VuDG03" mdate="2006-11-02">
+<author>Huyen-Trang Vu</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Un modèle statistique pour la classification de documents structurés.</title>
+<pages>233-246</pages>
+<year>2003</year>
+<crossref>conf/f-egc/2003</crossref>
+<booktitle>EGC</booktitle>
+<url>db/conf/f-egc/egc2003.html#VuDG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/FotzoGL03" mdate="2006-11-02">
+<author>Hermine Njike Fotzo</author>
+<author>Patrick Gallinari</author>
+<author>Nathalie Lagunas</author>
+<title>Génération automatique d'une structure hiérarchique de concepts et de documents à partir de corpus.</title>
+<pages>331-342</pages>
+<year>2003</year>
+<crossref>conf/f-egc/2003</crossref>
+<booktitle>EGC</booktitle>
+<url>db/conf/f-egc/egc2003.html#FotzoGL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/BidelLPAG03" mdate="2006-11-02">
+<author>Sylvain Bidel</author>
+<author>Laurent Lemoine</author>
+<author>Frédéric Piat</author>
+<author>Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage de comportements utilisateurs de produits hypermédias.</title>
+<pages>423-436</pages>
+<year>2003</year>
+<crossref>conf/f-egc/2003</crossref>
+<booktitle>EGC</booktitle>
+<url>db/conf/f-egc/egc2003.html#BidelLPAG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icann/GallinariBLPA03" mdate="2017-06-15">
+<author>Patrick Gallinari</author>
+<author>Sylvain Bidel</author>
+<author>Laurent Lemoine</author>
+<author>Frédéric Piat</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<title>Classification and Tracking of Hypermedia Navigation Patterns.</title>
+<pages>891-900</pages>
+<year>2003</year>
+<crossref>conf/icann/2003</crossref>
+<booktitle>ICANN</booktitle>
+<url>db/conf/icann/icann2003.html#GallinariBLPA03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/MarukatatSAG03" mdate="2017-06-15">
+<author>Sanparith Marukatat</author>
+<author>Rudy Sicard</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>A Flexible Recognition Engine for Complex On-line Handwritten Character Recognition.</title>
+<pages>1048-1052</pages>
+<year>2003</year>
+<crossref>conf/icdar/2003</crossref>
+<booktitle>ICDAR</booktitle>
+<url>db/conf/icdar/icdar2003.html#MarukatatSAG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/AminiG03" mdate="2019-08-20">
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Semi-Supervised Learning with Explicit Misclassification Modeling.</title>
+<pages>555-560</pages>
+<year>2003</year>
+<crossref>conf/ijcai/2003</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai2003.html#AminiG03</url>
+<ee type="oa">http://ijcai.org/Proceedings/03/Papers/082.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mldm/DenoyerG03" mdate="2017-05-17">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>A Belief Networks-Based Generative Model for Structured Documents. An Application to the XML Categorization.</title>
+<pages>328-342</pages>
+<year>2003</year>
+<crossref>conf/mldm/2003</crossref>
+<booktitle>MLDM</booktitle>
+<url>db/conf/mldm/mldm2003.html#DenoyerG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mldm/PiwowarskiG03" mdate="2017-05-17">
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>A Machine Learning Model for Information Retrieval with Structured Documents.</title>
+<pages>425-438</pages>
+<year>2003</year>
+<crossref>conf/mldm/2003</crossref>
+<booktitle>MLDM</booktitle>
+<url>db/conf/mldm/mldm2003.html#PiwowarskiG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/DenoyerG03" mdate="2017-05-22">
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Using Belief Networks and Fisher Kernels for Structured Document Classification.</title>
+<pages>120-131</pages>
+<year>2003</year>
+<crossref>conf/pkdd/2003</crossref>
+<booktitle>PKDD</booktitle>
+<url>db/conf/pkdd/pkdd2003.html#DenoyerG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pris/KerlochPG03" mdate="2003-09-01">
+<author>Frédéric Kerloch</author>
+<author>Thierry Paquet</author>
+<author>Patrick Gallinari</author>
+<title>Using Structure For Information Extraction In Html Documents.</title>
+<pages>173-178</pages>
+<year>2003</year>
+<crossref>conf/pris/2003</crossref>
+<booktitle>PRIS</booktitle>
+<url>db/conf/pris/pris2003.html#KerlochPG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/AminiG02" mdate="2003-11-25">
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Semi Supervised Logistic Regression.</title>
+<pages>390-394</pages>
+<year>2002</year>
+<crossref>conf/ecai/2002</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2002.html#AminiG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecml/VittautAG02" mdate="2017-05-21">
+<author>Jean-Noël Vittaut</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Learning Classification with Both Labeled and Unlabeled Data.</title>
+<pages>468-479</pages>
+<year>2002</year>
+<crossref>conf/ecml/2002</crossref>
+<booktitle>ECML</booktitle>
+<url>db/conf/ecml/ecml2002.html#VittautAG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfhr/MarukatatAGD02" mdate="2017-06-15">
+<author>Sanparith Marukatat</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<author>Bernadette Dorizzi</author>
+<title>Rejection measures for handwriting sentence recognition.</title>
+<pages>24-29</pages>
+<year>2002</year>
+<booktitle>IWFHR</booktitle>
+<crossref>conf/icfhr/2002</crossref>
+<url>db/conf/icfhr/iwfhr2002.html#MarukatatAGD02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfhr/ArtieresG02" mdate="2017-06-15">
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>Stroke level HMMs for on-line handwriting recognition.</title>
+<pages>227-232</pages>
+<year>2002</year>
+<booktitle>IWFHR</booktitle>
+<crossref>conf/icfhr/2002</crossref>
+<url>db/conf/icfhr/iwfhr2002.html#ArtieresG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmi/LiAG02" mdate="2017-06-15">
+<author>Haifeng Li</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>Data Driven Design of an ANN/HMM System for On-line Unconstrained Handwritten Character Recognition.</title>
+<pages>149-154</pages>
+<year>2002</year>
+<crossref>conf/icmi/2002</crossref>
+<booktitle>ICMI</booktitle>
+<url>db/conf/icmi/icmi2002.html#LiAG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmi/LiAG02a" mdate="2017-06-15">
+<author>Haifeng Li</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>State Sharing in a Hybrid Neuro-Markovian On-Line Handwriting Recognition System through a Simple Hierarchical Clustering Algorithm.</title>
+<pages>203-210</pages>
+<year>2002</year>
+<crossref>conf/icmi/2002</crossref>
+<booktitle>ICMI</booktitle>
+<url>db/conf/icmi/icmi2002.html#LiAG02a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/PiwowarskiFG02" mdate="2005-01-12">
+<author>Benjamin Piwowarski</author>
+<author>Georges-Etienne Faure</author>
+<author>Patrick Gallinari</author>
+<title>Bayesian Networks and INEX.</title>
+<pages>149-154</pages>
+<year>2002</year>
+<crossref>conf/inex/2002</crossref>
+<booktitle>INEX Workshop</booktitle>
+<url>db/conf/inex/inex2002.html#PiwowarskiFG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/AminiG02" mdate="2018-11-06">
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>The use of unlabeled data to improve supervised learning for text summarization.</title>
+<pages>105-112</pages>
+<year>2002</year>
+<crossref>conf/sigir/2002</crossref>
+<booktitle>SIGIR</booktitle>
+<url>db/conf/sigir/sigir2002.html#AminiG02</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijdar/Garcia-SalicettiDGW01" mdate="2017-05-17">
+<author>Sonia Garcia-Salicetti</author>
+<author>Bernadette Dorizzi</author>
+<author>Patrick Gallinari</author>
+<author>Zsolt Wimmer</author>
+<title>Maximum mutual information training for an online neural predictive handwritten word recognition system.</title>
+<pages>56-68</pages>
+<year>2001</year>
+<volume>4</volume>
+<journal>IJDAR</journal>
+<number>1</number>
+<url>db/journals/ijdar/ijdar4.html#Garcia-SalicettiDGW01</url>
+</article>
+</r>
+<r><article key="journals/ria/LerayG01" mdate="2017-05-27">
+<author>Philippe Leray</author>
+<author>Patrick Gallinari</author>
+<title>De l'utilisation d'OBD pour la sélection de variables dans les perceptrons multicouches.</title>
+<pages>373-391</pages>
+<year>2001</year>
+<volume>15</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>3-4</number>
+<url>db/journals/ria/ria15.html#LerayG01</url>
+</article>
+</r>
+<r><inproceedings key="conf/icann/AminiG01" mdate="2017-05-26">
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Learning for Text Summarization Using Labeled and Unlabeled Sentences.</title>
+<pages>1177-1184</pages>
+<year>2001</year>
+<crossref>conf/icann/2001</crossref>
+<booktitle>ICANN</booktitle>
+<url>db/conf/icann/icann2001.html#AminiG01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/BelliliGG01" mdate="2017-05-24">
+<author>Abdel Bellili</author>
+<author>Michel Gilloux</author>
+<author>Patrick Gallinari</author>
+<title>An Hybrid MLP-SVM Handwritten Digit Recognizer.</title>
+<pages>28-33</pages>
+<year>2001</year>
+<crossref>conf/icdar/2001</crossref>
+<booktitle>ICDAR</booktitle>
+<url>db/conf/icdar/icdar2001.html#BelliliGG01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/GauthierAGD01" mdate="2017-06-15">
+<author>Nadji Gauthier</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<author>Bernadette Dorizzi</author>
+<title>Strategies for Combining On-line and Off-line Information in an On-line Handwriting Recognition System.</title>
+<pages>412-416</pages>
+<year>2001</year>
+<crossref>conf/icdar/2001</crossref>
+<booktitle>ICDAR</booktitle>
+<url>db/conf/icdar/icdar2001.html#GauthierAGD01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/MarukatatAGD01" mdate="2017-06-15">
+<author>Sanparith Marukatat</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<author>Bernadette Dorizzi</author>
+<title>Sentence Recognition through Hybrid Neuro-Markovian Modeling.</title>
+<pages>731-737</pages>
+<year>2001</year>
+<crossref>conf/icdar/2001</crossref>
+<booktitle>ICDAR</booktitle>
+<url>db/conf/icdar/icdar2001.html#MarukatatAGD01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/AminiG01" mdate="2017-05-22">
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Automatic Text Summarization Using Unsupervised and Semi-supervised Learning.</title>
+<pages>16-28</pages>
+<year>2001</year>
+<crossref>conf/pkdd/2001</crossref>
+<booktitle>PKDD</booktitle>
+<url>db/conf/pkdd/pkdd2001.html#AminiG01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/DraierG01" mdate="2017-05-21">
+<author>Thomas Draier</author>
+<author>Patrick Gallinari</author>
+<title>Characterizing Sequences of User Actions for Access Logs Analysis.</title>
+<pages>228-230</pages>
+<year>2001</year>
+<crossref>conf/um/2001</crossref>
+<booktitle>User Modeling</booktitle>
+<url>db/conf/um/um2001.html#DraierG01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/ArtieresMGD00" mdate="2017-06-15">
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<author>J.-M. Marchand</author>
+<author>Patrick Gallinari</author>
+<author>Bernadette Dorizzi</author>
+<title>Multi-Modal Segmental Models for On-Line Handwriting Recognition.</title>
+<pages>2247-2250</pages>
+<year>2000</year>
+<crossref>conf/icpr/2000</crossref>
+<booktitle>ICPR</booktitle>
+<url>db/conf/icpr/icpr2000-2.html#ArtieresMGD00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/riao/AminiZG00" mdate="2009-03-10">
+<author>Massih-Reza Amini</author>
+<author>Hugo Zaragoza</author>
+<author>Patrick Gallinari</author>
+<title>Learning for Sequence Extraction Tasks.</title>
+<pages>476-490</pages>
+<year>2000</year>
+<booktitle>RIAO</booktitle>
+<crossref>conf/riao/2000</crossref>
+<url>db/conf/riao/riao2000.html#AminiZG00</url>
+</inproceedings>
+</r>
+<r><article key="journals/bioinformatics/GuermeurGGD99" mdate="2018-11-14">
+<author>Yann Guermeur</author>
+<author>Christophe Geourjon</author>
+<author>Patrick Gallinari</author>
+<author>Gilbert Deléage</author>
+<title>Improved performance in protein secondary structure prediction by inhomogeneous score combination.</title>
+<pages>413-421</pages>
+<year>1999</year>
+<volume>15</volume>
+<journal>Bioinformatics</journal>
+<number>5</number>
+<url>db/journals/bioinformatics/bioinformatics15.html#GuermeurGGD99</url>
+</article>
+</r>
+<r><article key="journals/sigpro/GallinariC99" mdate="2017-05-28">
+<author>Patrick Gallinari</author>
+<author>Tautvydas Cibas</author>
+<title>Practical complexity control in multilayer perceptrons.</title>
+<pages>29-46</pages>
+<year>1999</year>
+<volume>74</volume>
+<journal>Signal Processing</journal>
+<number>1</number>
+<url>db/journals/sigpro/sigpro74.html#GallinariC99</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecir/AminiZG99" mdate="2014-06-11">
+<author>Massih-Reza Amini</author>
+<author>Hugo Zaragoza</author>
+<author>Patrick Gallinari</author>
+<title>Sequence Models for Automatic Highlighting and Surface Information Extraction.</title>
+<year>1999</year>
+<crossref>conf/ecir/1999</crossref>
+<booktitle>BCS-IRSG Annual Colloquium on IR Research</booktitle>
+<url>db/conf/ecir/ecir1999.html#AminiZG99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/WimmerDG99" mdate="2017-05-24">
+<author>Zsolt Wimmer</author>
+<author>Bernadette Dorizzi</author>
+<author>Patrick Gallinari</author>
+<title>Dictionary Preselection in a Neuro-Markovian Word Recognition System.</title>
+<pages>539-542</pages>
+<year>1999</year>
+<crossref>conf/icdar/1999</crossref>
+<booktitle>ICDAR</booktitle>
+<url>db/conf/icdar/icdar1999.html#WimmerDG99</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijprai/GascuelBCGGGLMMNNRSTVV98" mdate="2017-05-28">
+<author>Olivier Gascuel</author>
+<author>Bernadette Bouchon-Meunier</author>
+<author>Gilles Caraux</author>
+<author>Patrick Gallinari</author>
+<author>Alain Guénoche</author>
+<author>Yann Guermeur</author>
+<author>Yves Lechevallier</author>
+<author>Christophe Marsala</author>
+<author>Laurent Miclet</author>
+<author>Jacques Nicolas</author>
+<author>Richard Nock</author>
+<author>Mohammed Ramdani</author>
+<author>Michèle Sebag</author>
+<author>Basavanneppa Tallur</author>
+<author>Gilles Venturini</author>
+<author>Patrick Vitte</author>
+<title>Twelve Numerical, Symbolic and Hybrid Supervised Classification Methods.</title>
+<pages>517-571</pages>
+<year>1998</year>
+<volume>12</volume>
+<journal>IJPRAI</journal>
+<number>4</number>
+<url>db/journals/ijprai/ijprai12.html#GascuelBCGGGLMMNNRSTVV98</url>
+</article>
+</r>
+<r><article key="journals/sigpro/ZaragozaGCL98" mdate="2017-05-28">
+<author>Hugo Zaragoza</author>
+<author>Patrick Gallinari</author>
+<author>R. Curtelin</author>
+<author>F. Leglaye</author>
+<title>Multiple multivariate regression and global sequence optimization: : An application to large-scale models of radiation intensity.</title>
+<pages>371-382</pages>
+<year>1998</year>
+<volume>64</volume>
+<journal>Signal Processing</journal>
+<number>3</number>
+<url>db/journals/sigpro/sigpro64.html#ZaragozaGCL98</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecir/ZaragozaG98" mdate="2014-06-11">
+<author>Hugo Zaragoza</author>
+<author>Patrick Gallinari</author>
+<title>Coupled Hierarchical IR and Stochastic Models for Surface Information Extraction.</title>
+<year>1998</year>
+<crossref>conf/ecir/1998</crossref>
+<booktitle>BCS-IRSG Annual Colloquium on IR Research</booktitle>
+<url>db/conf/ecir/ecir1998.html#ZaragozaG98</url>
+</inproceedings>
+</r>
+<r><article key="journals/aei/ToudeftG97" mdate="2017-05-28">
+<author>Abdelmoumène Toudeft</author>
+<author>Patrick Gallinari</author>
+<title>Neural and adaptive controllers for a non-minimum phase varying time-delay system.</title>
+<pages>431-439</pages>
+<year>1997</year>
+<volume>11</volume>
+<journal>AI in Engineering</journal>
+<number>4</number>
+<url>db/journals/aei/aie11.html#ToudeftG97</url>
+</article>
+</r>
+<r><inproceedings key="conf/bsdia/WimmerGDG97" mdate="2017-05-23">
+<author>Zsolt Wimmer</author>
+<author>Sonia Garcia-Salicetti</author>
+<author>Bernadette Dorizzi</author>
+<author>Patrick Gallinari</author>
+<title>Off-Line Cursive Word Recognition with a Hybrid Neural-HMM System.</title>
+<pages>249-260</pages>
+<year>1997</year>
+<crossref>conf/bsdia/1997</crossref>
+<booktitle>BSDIA</booktitle>
+<url>db/conf/bsdia/bsdia1997.html#WimmerGDG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icann/GuermeurdG97" mdate="2018-11-30">
+<author>Yann Guermeur</author>
+<author orcid="0000-0002-8353-0589">Florence d'Alché-Buc</author>
+<author>Patrick Gallinari</author>
+<title>Optimal Linear Regression on Classifier Outputs.</title>
+<pages>481-486</pages>
+<year>1997</year>
+<crossref>conf/icann/1997</crossref>
+<booktitle>ICANN</booktitle>
+<url>db/conf/icann/icann1997.html#GuermeurdG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icann/ZaragozaG97" mdate="2017-05-23">
+<author>Hugo Zaragoza</author>
+<author>Patrick Gallinari</author>
+<title>Multiple Multivariate Regression and Global Optimization in a Large Scale Thermodynamical Application.</title>
+<pages>861-866</pages>
+<year>1997</year>
+<crossref>conf/icann/1997</crossref>
+<booktitle>ICANN</booktitle>
+<url>db/conf/icann/icann1997.html#ZaragozaG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nn/Gallinari97" mdate="2017-05-23">
+<author>Patrick Gallinari</author>
+<title>Predictive Models for Sequence Modelling, Application to Speech and Character Recognition.</title>
+<pages>418-434</pages>
+<year>1997</year>
+<crossref>conf/nn/1997</crossref>
+<booktitle>Summer School on Neural Networks</booktitle>
+<url>db/conf/nn/nn1997.html#Gallinari97</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/CibasSGR96" mdate="2017-05-20">
+<author>Tautvydas Cibas</author>
+<author>Françoise Fogelman-Soulié</author>
+<author>Patrick Gallinari</author>
+<author>Sarunas Raudys</author>
+<title>Variable selection with neural networks.</title>
+<pages>223-248</pages>
+<year>1996</year>
+<volume>12</volume>
+<journal>Neurocomputing</journal>
+<number>2-3</number>
+<url>db/journals/ijon/ijon12.html#CibasSGR96</url>
+</article>
+</r>
+<r><inproceedings key="conf/icann/LerayGD96" mdate="2017-06-04">
+<author orcid="0000-0002-0207-9280">Philippe Leray</author>
+<author>Patrick Gallinari</author>
+<author>Elisabeth Didelet</author>
+<title>Diagnosis Tools for Telecommunication Network Traffic Management.</title>
+<pages>209-214</pages>
+<year>1996</year>
+<crossref>conf/icann/1996</crossref>
+<booktitle>ICANN</booktitle>
+<url>db/conf/icann/icann1996.html#LerayGD96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icann/GuermeurG96" mdate="2017-05-22">
+<author>Yann Guermeur</author>
+<author>Patrick Gallinari</author>
+<title>Combining Statistical Models for Protein Secondary Structure Prediction.</title>
+<pages>599-604</pages>
+<year>1996</year>
+<crossref>conf/icann/1996</crossref>
+<booktitle>ICANN</booktitle>
+<url>db/conf/icann/icann1996.html#GuermeurG96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/Garcia-SalicettiGDWG96" mdate="2017-05-19">
+<author>Sonia Garcia-Salicetti</author>
+<author>Patrick Gallinari</author>
+<author>Bernadette Dorizzi</author>
+<author>Zsolt Wimmer</author>
+<author>Stéphane Gentric</author>
+<title>From characters to words: dynamical segmentation and predictive neural networks.</title>
+<pages>3442-3445</pages>
+<year>1996</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/1996</crossref>
+<url>db/conf/icassp/icassp1996.html#Garcia-SalicettiGDWG96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/Garcia-SalicettiDGW96" mdate="2017-05-24">
+<author>Sonia Garcia-Salicetti</author>
+<author>Bernadette Dorizzi</author>
+<author>Patrick Gallinari</author>
+<author>Zsolt Wimmer</author>
+<title>Adaptive discrimination in an HMM-based neural predictive system for on-line word recognition.</title>
+<pages>515-519</pages>
+<year>1996</year>
+<booktitle>ICPR</booktitle>
+<crossref>conf/icpr/1996</crossref>
+<url>db/conf/icpr/icpr1996.html#Garcia-SalicettiDGW96</url>
+</inproceedings>
+</r>
+<r><article key="journals/speech/BennaniG95" mdate="2018-11-02">
+<author orcid="0000-0003-3667-3357">Younès Bennani</author>
+<author>Patrick Gallinari</author>
+<title>Neural networks for discrimination and modelization of speakers.</title>
+<pages>159-175</pages>
+<year>1995</year>
+<volume>17</volume>
+<journal>Speech Communication</journal>
+<number>1-2</number>
+<url>db/journals/speech/speech17.html#BennaniG95</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/MelloukG95" mdate="2017-05-19">
+<author>Abdelhamid Mellouk</author>
+<author>Patrick Gallinari</author>
+<title>Global discrimination for neural predictive systems based on N-best algorithm.</title>
+<pages>465-468</pages>
+<year>1995</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/1995</crossref>
+<url>db/conf/icassp/icassp1995.html#MelloukG95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/Garcia-SalicettiGDMF95" mdate="2017-05-19">
+<author>Sonia Garcia-Salicetti</author>
+<author>Patrick Gallinari</author>
+<author>Bernadette Dorizzi</author>
+<author>Abdelhamid Mellouk</author>
+<author>D. Fanchon</author>
+<title>A neural predictive approach for on-line cursive script recognition.</title>
+<pages>3463-3466</pages>
+<year>1995</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/1995</crossref>
+<url>db/conf/icassp/icassp1995.html#Garcia-SalicettiGDMF95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/Garcia-SalicettiDGMF95" mdate="2017-05-24">
+<author>Sonia Garcia-Salicetti</author>
+<author>Bernadette Dorizzi</author>
+<author>Patrick Gallinari</author>
+<author>Abdelhamid Mellouk</author>
+<author>D. Fanchon</author>
+<title>A hidden Markov model extension of a neural predictive system for on-line character recognition.</title>
+<pages>50-53</pages>
+<year>1995</year>
+<crossref>conf/icdar/1995-1</crossref>
+<booktitle>ICDAR</booktitle>
+<url>db/conf/icdar/icdar1995-1.html#Garcia-SalicettiDGMF95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/ArtieresG95" mdate="2011-03-29">
+<author>Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>Multi-state predictive neural networks for text-independent speaker recognition.</title>
+<year>1995</year>
+<booktitle>EUROSPEECH</booktitle>
+<crossref>conf/interspeech/1995</crossref>
+<url>db/conf/interspeech/eurospeech1995.html#ArtieresG95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/StevenurG95" mdate="2011-03-29">
+<author>Adelaide Stevenur</author>
+<author>Patrick Gallinari</author>
+<title>Integrating heuristic preferences into a neural understanding system.</title>
+<year>1995</year>
+<booktitle>EUROSPEECH</booktitle>
+<crossref>conf/interspeech/1995</crossref>
+<url>db/conf/interspeech/eurospeech1995.html#StevenurG95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/MelloukG94" mdate="2017-05-19">
+<author>Abdelhamid Mellouk</author>
+<author>Patrick Gallinari</author>
+<title>Discriminative training for improved neural prediction systems.</title>
+<pages>233-236</pages>
+<year>1994</year>
+<booktitle>ICASSP (1)</booktitle>
+<crossref>conf/icassp/1994</crossref>
+<url>db/conf/icassp/icassp1994.html#MelloukG94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/MelloukG93" mdate="2019-01-03">
+<author>Abdelhamid Mellouk</author>
+<author>Patrick Gallinari</author>
+<title>A discriminative neural prediction system for speech recognition.</title>
+<pages>533-536</pages>
+<year>1993</year>
+<booktitle>ICASSP (1)</booktitle>
+<crossref>conf/icassp/1993</crossref>
+<url>db/conf/icassp/icassp1993.html#MelloukG93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/ArtieresG93" mdate="2011-04-01">
+<author>Thierry Artières</author>
+<author>Patrick Gallinari</author>
+<title>Neural models for extracting speaker characteristics in speech modelization systems.</title>
+<year>1993</year>
+<booktitle>EUROSPEECH</booktitle>
+<crossref>conf/interspeech/1993</crossref>
+<url>db/conf/interspeech/eurospeech1993.html#ArtieresG93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/MelloukGR93" mdate="2014-11-04">
+<author>Abdelhamid Mellouk</author>
+<author>Patrick Gallinari</author>
+<author>F. Rauscher</author>
+<title>Prediction and discrimination in neural networks for continuous speech recognition.</title>
+<year>1993</year>
+<booktitle>EUROSPEECH</booktitle>
+<crossref>conf/interspeech/1993</crossref>
+<url>db/conf/interspeech/eurospeech1993.html#MelloukGR93</url>
+</inproceedings>
+</r>
+<r><article key="journals/nn/GallinariTBF91" mdate="2017-05-28">
+<author>Patrick Gallinari</author>
+<author>Sylvie Thiria</author>
+<author>Fouad Badran</author>
+<author>Françoise Fogelman-Soulié</author>
+<title>On the relations between discriminant analysis and multilayer perceptrons.</title>
+<pages>349-360</pages>
+<year>1991</year>
+<volume>4</volume>
+<journal>Neural Networks</journal>
+<number>3</number>
+<url>db/journals/nn/nn4.html#GallinariTBF91</url>
+</article>
+</r>
+<r><article key="journals/ijon/ChoukriSWBVGBVIM90" mdate="2018-11-02">
+<author>Khalid Choukri</author>
+<author>S. Soudoplatoff</author>
+<author>A. Wallyn</author>
+<author>Frédéric Bimbot</author>
+<author>H. Valbret</author>
+<author>Patrick Gallinari</author>
+<author orcid="0000-0003-3667-3357">Younès Bennani</author>
+<author>A. Varga</author>
+<author>Manfred Immendörfer</author>
+<author>T. Michaux</author>
+<title>Speech processing and recognition using integrated neurocomputing techniques (Esprit Basic Research Action 3228: SPRINT).</title>
+<pages>71-78</pages>
+<year>1990</year>
+<volume>2</volume>
+<journal>Neurocomputing</journal>
+<number>2</number>
+<url>db/journals/ijon/ijon2.html#ChoukriSWBVGBVIM90</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnn/BollivierGT90" mdate="2018-01-29">
+<author>Michel de Bollivier</author>
+<author>Patrick Gallinari</author>
+<author>Sylvie Thiria</author>
+<title>Cooperation of neural nets for robust classification.</title>
+<pages>113-120</pages>
+<year>1990</year>
+<booktitle>IJCNN</booktitle>
+<crossref>conf/ijcnn/1990</crossref>
+<url>db/conf/ijcnn/ijcnn1990.html#BollivierGT90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/BottouG90" mdate="2014-12-10">
+<author>Léon Bottou</author>
+<author>Patrick Gallinari</author>
+<title>A Framework for the Cooperation of Learning Algorithms.</title>
+<pages>781-788</pages>
+<year>1990</year>
+<crossref>conf/nips/1990</crossref>
+<booktitle>NIPS</booktitle>
+<url>db/conf/nips/nips1990.html#BottouG90</url>
+</inproceedings>
+</r>
+<r><article key="journals/nn/GallinariTF88" mdate="2017-05-28">
+<author>Patrick Gallinari</author>
+<author>Sylvie Thiria</author>
+<author>Françoise Fogelman-Soulié</author>
+<title>Comparing neural networks and data analysis.</title>
+<pages>24-25</pages>
+<year>1988</year>
+<volume>1</volume>
+<journal>Neural Networks</journal>
+<number>Supplement-1</number>
+<url>db/journals/nn/nn1.html#GallinariTF88</url>
+</article>
+</r>
+<r><inproceedings key="conf/icnn/GallinariTF88" mdate="2019-08-15">
+<author>Patrick Gallinari</author>
+<author>Sylvie Thiria</author>
+<author>Françoise Fogelman</author>
+<title>Multilayer perceptrons and data analysis.</title>
+<pages>391-399</pages>
+<year>1988</year>
+<booktitle>ICNN</booktitle>
+<crossref>conf/icnn/1988</crossref>
+<url>db/conf/icnn/icnn1988.html#GallinariTF88</url>
+</inproceedings>
+</r>
+<coauthors n="258" nc="6">
+<co c="0"><na f="a/Aggarwal:Karan">Karan Aggarwal</na></co>
+<co c="4"><na f="a/Akodj=egrave=nou=Jeannin:Marc=Isma=euml=l">Marc-Ismaël Akodjènou-Jeannin</na></co>
+<co c="0"><na f="a/Almirantis:Yannis">Yannis Almirantis</na></co>
+<co c="0"><na f="a/Alvers:Michael_R=">Michael R. Alvers</na></co>
+<co c="0"><na f="a/Amini:Massih=Reza">Massih-Reza Amini</na></co>
+<co c="0"><na f="a/Androutsopoulos:Ion">Ion Androutsopoulos</na></co>
+<co c="0"><na f="a/Arti=egrave=res:Thierry">Thierry Artières</na></co>
+<co c="0"><na f="a/Ayed:Ibrahim">Ibrahim Ayed</na></co>
+<co c="0"><na f="b/Badran:Fouad">Fouad Badran</na></co>
+<co c="0"><na f="b/Balikas:Georgios">Georgios Balikas</na></co>
+<co c="0"><na f="b/Barrio=Alvers:Liliana">Liliana Barrio-Alvers</na></co>
+<co c="0"><na f="b/Baskiotis:Nicolas">Nicolas Baskiotis</na></co>
+<co c="0"><na f="b/Beckers:Thomas">Thomas Beckers</na></co>
+<co c="3"><na f="b/Bellet:Aur=eacute=lien">Aurélien Bellet</na></co>
+<co c="5"><na f="b/Bellili:Abdel">Abdel Bellili</na></co>
+<co c="0"><na f="b/Bellot:Patrice">Patrice Bellot</na></co>
+<co c="1"><na f="b/Benali:Habib">Habib Benali</na></co>
+<co c="0"><na f="b/Bennani:Youn=egrave=s">Younès Bennani</na></co>
+<co c="0"><na f="b/B=eacute=zenac:Emmanuel_de">Emmanuel de Bézenac</na></co>
+<co c="0"><na f="b/Bidel:Sylvain">Sylvain Bidel</na></co>
+<co c="0"><na f="b/Bimbot:Fr=eacute=d=eacute=ric">Frédéric Bimbot</na></co>
+<co c="0"><na f="b/Binsztok:Henri">Henri Binsztok</na></co>
+<co c="0"><na f="b/Blanchard:Julien">Julien Blanchard</na></co>
+<co c="0"><na f="b/Bollivier:Michel_de">Michel de Bollivier</na></co>
+<co c="0"><na f="b/Bonetta:Giovanni">Giovanni Bonetta</na></co>
+<co c="0"><na f="b/Bordes:Antoine">Antoine Bordes</na></co>
+<co c="0"><na f="b/Bordes:Patrick">Patrick Bordes</na></co>
+<co c="0"><na f="b/Botta:Marco">Marco Botta</na></co>
+<co c="0"><na f="b/Bottou:L=eacute=on">Léon Bottou</na></co>
+<co c="0"><na f="b/Bouchon=Meunier:Bernadette">Bernadette Bouchon-Meunier</na></co>
+<co c="0"><na f="b/Boughanem:Mohand">Mohand Boughanem</na></co>
+<co c="0"><na f="b/Bourigault:Simon">Simon Bourigault</na></co>
+<co c="0"><na f="b/Brajard:Julien">Julien Brajard</na></co>
+<co c="0"><na f="b/Brunessaux:Stephan">Stephan Brunessaux</na></co>
+<co c="0"><na f="b/Brunessaux:Sylvie">Sylvie Brunessaux</na></co>
+<co c="0"><na f="b/Buffoni:David">David Buffoni</na></co>
+<co c="0"><na f="c/Caillet:Marc">Marc Caillet</na></co>
+<co c="0"><na f="c/Calauz=egrave=nes:Cl=eacute=ment">Clément Calauzènes</na></co>
+<co c="0"><na f="c/Cancelliere:Rossella">Rossella Cancelliere</na></co>
+<co c="0"><na f="c/Caraux:Gilles">Gilles Caraux</na></co>
+<co c="0"><na f="c/Cedilnik:Nicolas">Nicolas Cedilnik</na></co>
+<co c="0"><na f="c/Chang:Jonathan">Jonathan Chang</na></co>
+<co c="0"><na f="c/Chen:Da">Da Chen</na></co>
+<co c="2"><na f="c/Chen:Lifei">Lifei Chen</na></co>
+<co c="0"><na f="c/Chouakria:Ahlame_Douzal">Ahlame Douzal Chouakria</na></co>
+<co c="0"><na f="c/Choukri:Khalid">Khalid Choukri</na></co>
+<co c="0"><na f="c/Cibas:Tautvydas">Tautvydas Cibas</na></co>
+<co c="0"><na f="c/Ciss=eacute=:Moustapha">Moustapha Cissé</na></co>
+<co c="1"><na f="c/Colliot:Olivier">Olivier Colliot</na></co>
+<co c="0"><na f="c/Contardo:Gabriella">Gabriella Contardo</na></co>
+<co c="0"><na f="c/Cord:Matthieu">Matthieu Cord</na></co>
+<co c="0"><na f="c/Curtelin:R=">R. Curtelin</na></co>
+<co c="0"><na f="d/d=Alch=eacute==Buc:Florence">Florence d'Alché-Buc</na></co>
+<co c="0"><na f="d/Delasalles:Edouard">Edouard Delasalles</na></co>
+<co c="0"><na f="d/Del=eacute=age:Gilbert">Gilbert Deléage</na></co>
+<co c="0"><na f="d/Deluca:R=">R. Deluca</na></co>
+<co c="0"><na f="d/Demartini:Gianluca">Gianluca Demartini</na></co>
+<co c="0"><na f="d/Denoyer:Ludovic">Ludovic Denoyer</na></co>
+<co c="0"><na f="d/Detyniecki:Marcin">Marcin Detyniecki</na></co>
+<co c="0"><na f="d/Dias:Charles=Emmanuel">Charles-Emmanuel Dias</na></co>
+<co c="0"><na f="d/Didelet:Elisabeth">Elisabeth Didelet</na></co>
+<co c="0"><na f="d/Do:Trinh_Minh_Tri">Trinh Minh Tri Do</na></co>
+<co c="0"><na f="d/Dolog:Peter">Peter Dolog</na></co>
+<co c="0"><na f="d/Dorizzi:Bernadette">Bernadette Dorizzi</na></co>
+<co c="0"><na f="d/Doucet:Antoine">Antoine Doucet</na></co>
+<co c="-1"><na f="d/Draier:Thomas">Thomas Draier</na></co>
+<co c="1"><na f="d/Dubois:Bruno">Bruno Dubois</na></co>
+<co c="0"><na f="d/Dulac=Arnold:Gabriel">Gabriel Dulac-Arnold</na></co>
+<co c="0"><na f="d/Dumont:Emilie">Emilie Dumont</na></co>
+<co c="0"><na f="d/Dupret:Georges">Georges Dupret</na></co>
+<co c="0"><na f="e/Elati:Mohamed">Mohamed Elati</na></co>
+<co c="0"><na f="f/Fachry:Khairun_Nisa">Khairun Nisa Fachry</na></co>
+<co c="0"><na f="f/Fakeri=Tabrizi:Ali">Ali Fakeri-Tabrizi</na></co>
+<co c="0"><na f="f/Fanchon:D=">D. Fanchon</na></co>
+<co c="0"><na f="f/Faure:Georges=Etienne">Georges-Etienne Faure</na></co>
+<co c="0"><na f="f/Feng:Huali">Huali Feng</na></co>
+<co c="0"><na f="f/Ferecatu:Marin">Marin Ferecatu</na></co>
+<co c="0" n="2"><na f="f/Fogelman=Souli=eacute=:Fran=ccedil=oise">Françoise Fogelman-Soulié</na><na>Françoise Fogelman</na></co>
+<co c="0"><na f="f/Fotzo:Hermine_Njike">Hermine Njike Fotzo</na></co>
+<co c="0"><na f="f/Fuhr:Norbert">Norbert Fuhr</na></co>
+<co c="0"><na f="g/Gabriac:Clara_Gainon_de_Forsan_de">Clara Gainon de Forsan de Gabriac</na></co>
+<co c="0"><na f="g/Gai:Mario">Mario Gai</na></co>
+<co c="0"><na f="g/Gao:Sheng">Sheng Gao</na></co>
+<co c="0"><na f="g/Garcia=Salicetti:Sonia">Sonia Garcia-Salicetti</na></co>
+<co c="0"><na f="g/Gascuel:Olivier">Olivier Gascuel</na></co>
+<co c="0"><na f="g/Gaussier:=Eacute=ric">Éric Gaussier</na></co>
+<co c="0"><na f="g/Gauthier:Luc=Aur=eacute=lien">Luc-Aurélien Gauthier</na></co>
+<co c="0"><na f="g/Gauthier:Nadji">Nadji Gauthier</na></co>
+<co c="0"><na f="g/Gentric:St=eacute=phane">Stéphane Gentric</na></co>
+<co c="0"><na f="g/Geourjon:Christophe">Christophe Geourjon</na></co>
+<co c="0"><na f="g/Geva:Shlomo">Shlomo Geva</na></co>
+<co c="0"><na f="g/Ghignone:Leo">Leo Ghignone</na></co>
+<co c="5"><na f="g/Gilloux:Michel">Michel Gilloux</na></co>
+<co c="0"><na f="g/Gisselbrecht:Thibault">Thibault Gisselbrecht</na></co>
+<co c="0"><na f="g/Glotin:Herv=eacute=">Hervé Glotin</na></co>
+<co c="0"><na f="g/Goutte:Cyril">Cyril Goutte</na></co>
+<co c="0"><na f="g/Grosso:Andrea">Andrea Grosso</na></co>
+<co c="0"><na f="g/Gu=agrave=rdia=Sebaoun:=Eacute=lie">Élie Guàrdia-Sebaoun</na></co>
+<co c="0"><na f="g/Gu=eacute=noche:Alain">Alain Guénoche</na></co>
+<co c="0"><na f="g/Guermeur:Yann">Yann Guermeur</na></co>
+<co c="0"><na f="g/Guigue:Vincent">Vincent Guigue</na></co>
+<co c="0"><na f="g/Guo_0002:Jun">Jun Guo 0002</na></co>
+<co c="1"><na f="h/Hahn=Barma:Val=eacute=rie">Valérie Hahn-Barma</na></co>
+<co c="0"><na f="h/Heino:Norman">Norman Heino</na></co>
+<co c="0" n="2"><na f="h/Huang:Wei_Che">Wei Che Huang</na><na>Darren Wei Che Huang</na></co>
+<co c="0"><na f="h/Huang:Wei_Chi">Wei Chi Huang</na></co>
+<co c="0"><na f="i/Immend=ouml=rfer:Manfred">Manfred Immendörfer</na></co>
+<co c="0"><na f="i/Iofciu:Tereza">Tereza Iofciu</na></co>
+<co c="0"><na f="j/Jacob:Yann">Yann Jacob</na></co>
+<co c="0"><na f="k/Kamps:Jaap">Jaap Kamps</na></co>
+<co c="0"><na f="k/Kato:Nei">Nei Kato</na></co>
+<co c="0"><na f="k/Kazai:Gabriella">Gabriella Kazai</na></co>
+<co c="0"><na f="k/Keerthi:S=_Sathiya">S. Sathiya Keerthi</na></co>
+<co c="0"><na f="k/Kerloch:Fr=eacute=d=eacute=ric">Frédéric Kerloch</na></co>
+<co c="0"><na f="k/Kim:Young=Min">Young-Min Kim</na></co>
+<co c="1"><na f="k/Kinkingn=eacute=hun:Serge">Serge Kinkingnéhun</na></co>
+<co c="0"><na f="k/Kirchmeyer:Matthieu">Matthieu Kirchmeyer</na></co>
+<co c="0"><na f="k/Koolen:Marijn">Marijn Koolen</na></co>
+<co c="0"><na f="k/Kosmopoulos:Aris">Aris Kosmopoulos</na></co>
+<co c="0"><na f="k/Kraljevic:Zeljko">Zeljko Kraljevic</na></co>
+<co c="0"><na f="k/Krithara:Anastasia">Anastasia Krithara</na></co>
+<co c="0"><na f="k/Kutty:Sangeetha">Sangeetha Kutty</na></co>
+<co c="0"><na f="l/Lacasse:Alexandre">Alexandre Lacasse</na></co>
+<co c="0"><na f="l/Lage:Ricardo">Ricardo Lage</na></co>
+<co c="0"><na f="l/Lagnier:C=eacute=dric">Cédric Lagnier</na></co>
+<co c="0"><na f="l/Lagunas:Nathalie">Nathalie Lagunas</na></co>
+<co c="0"><na f="l/Lalmas:Mounia">Mounia Lalmas</na></co>
+<co c="0"><na f="l/Lamprier:Sylvain">Sylvain Lamprier</na></co>
+<co c="0"><na f="l/Landoni:Monica">Monica Landoni</na></co>
+<co c="0"><na f="l/Laviolette:Fran=ccedil=ois">François Laviolette</na></co>
+<co c="0"><na f="l/Lechevallier:Yves">Yves Lechevallier</na></co>
+<co c="0"><na f="l/Leglaye:F=">F. Leglaye</na></co>
+<co c="1"><na f="l/Leh=eacute=ricy:St=eacute=phane">Stéphane Lehéricy</na></co>
+<co c="0"><na f="l/Lehtonen:Miro">Miro Lehtonen</na></co>
+<co c="0"><na f="l/Lemoine:Laurent">Laurent Lemoine</na></co>
+<co c="0"><na f="l/Leray:Philippe">Philippe Leray</na></co>
+<co c="0"><na f="l/Letellier:Guillaume">Guillaume Letellier</na></co>
+<co c="0"><na f="l/Li:Haifeng">Haifeng Li</na></co>
+<co c="0"><na f="l/Li:Shantao">Shantao Li</na></co>
+<co c="0"><na f="l/Luison:Clara">Clara Luison</na></co>
+<co c="0"><na f="l/Luo:Hao">Hao Luo</na></co>
+<co c="0"><na f="l/Lyu:Qinjie">Qinjie Lyu</na></co>
+<co c="0"><na f="m/Ma:Zhanyu">Zhanyu Ma</na></co>
+<co c="0"><na f="m/Maag:Maria_Laura">Maria Laura Maag</na></co>
+<co c="0"><na f="m/Maccagnola:Daniele">Daniele Maccagnola</na></co>
+<co c="0"><na f="m/Maes:Francis">Francis Maes</na></co>
+<co c="1"><na f="m/Magnin:Benoit">Benoit Magnin</na></co>
+<co c="0"><na f="m/Malakasiotis:Prodromos">Prodromos Malakasiotis</na></co>
+<co c="0"><na f="m/Marchand:J==M=">J.-M. Marchand</na></co>
+<co c="0"><na f="m/Marsala:Christophe">Christophe Marsala</na></co>
+<co c="0"><na f="m/Marukatat:Sanparith">Sanparith Marukatat</na></co>
+<co c="0"><na f="m/Mellouk:Abdelhamid">Abdelhamid Mellouk</na></co>
+<co c="1"><na f="m/Mesrob:Lilia">Lilia Mesrob</na></co>
+<co c="0"><na f="m/Messina:Enza">Enza Messina</na></co>
+<co c="0"><na f="m/Michaux:T=">T. Michaux</na></co>
+<co c="0"><na f="m/Miclet:Laurent">Laurent Miclet</na></co>
+<co c="0"><na f="m/Moriceau:V=eacute=ronique">Véronique Moriceau</na></co>
+<co c="0"><na f="m/Moussallam:Manuel">Manuel Moussallam</na></co>
+<co c="0"><na f="m/Mulhem:Philippe">Philippe Mulhem</na></co>
+<co c="0"><na f="n/Najar:Anis">Anis Najar</na></co>
+<co c="0"><na f="n/Nayak:Richi">Richi Nayak</na></co>
+<co c="0"><na f="n/Ngomo:Axel=Cyrille_Ngonga">Axel-Cyrille Ngonga Ngomo</na></co>
+<co c="0"><na f="n/Nicolas:Jacques">Jacques Nicolas</na></co>
+<co c="0"><na f="n/Nock:Richard">Richard Nock</na></co>
+<co c="0"><na f="n/Nordlie:Ragnar">Ragnar Nordlie</na></co>
+<co c="0"><na f="n/Nozza:Debora">Debora Nozza</na></co>
+<co c="0"><na f="p/Pajot:Arthur">Arthur Pajot</na></co>
+<co c="0" n="2"><na f="p/Paliouras:Georgios">Georgios Paliouras</na><na>George Paliouras</na></co>
+<co c="0"><na f="p/Pang:Huacan">Huacan Pang</na></co>
+<co c="0"><na f="p/Paquet:Thierry">Thierry Paquet</na></co>
+<co c="0"><na f="p/Partalas:Ioannis">Ioannis Partalas</na></co>
+<co c="0"><na f="p/Pavlopoulos:John">John Pavlopoulos</na></co>
+<co c="0"><na f="p/Pessiot:Jean=Fran=ccedil=ois">Jean-François Pessiot</na></co>
+<co c="0"><na f="p/Peters:St=eacute=phane">Stéphane Peters</na></co>
+<co c="0"><na f="p/Petitjean:Bertrand">Bertrand Petitjean</na></co>
+<co c="0"><na f="p/Petridis:Sergios">Sergios Petridis</na></co>
+<co c="0"><na f="p/Pharo:Nils">Nils Pharo</na></co>
+<co c="0"><na f="p/Piat:Fr=eacute=d=eacute=ric">Frédéric Piat</na></co>
+<co c="0"><na f="p/Piwowarski:Benjamin">Benjamin Piwowarski</na></co>
+<co c="0"><na f="p/Polychronopoulos:Dimitris">Dimitris Polychronopoulos</na></co>
+<co c="0"><na f="p/Poussevin:Micka=euml=l">Mickaël Poussevin</na></co>
+<co c="0"><na f="p/Pradel:Bruno">Bruno Pradel</na></co>
+<co c="0"><na f="p/Preux:Philippe">Philippe Preux</na></co>
+<co c="0"><na f="q/Qiu:Lin">Lin Qiu</na></co>
+<co c="0"><na f="q/Quaglini:Silvana">Silvana Quaglini</na></co>
+<co c="0"><na f="q/Qu=eacute=not:Georges">Georges Quénot</na></co>
+<co c="0"><na f="r/Rafrafi:Abdelhalim">Abdelhalim Rafrafi</na></co>
+<co c="0"><na f="r/Raiti:Antonino">Antonino Raiti</na></co>
+<co c="0"><na f="r/Ramdani:Mohammed">Mohammed Ramdani</na></co>
+<co c="0"><na f="r/Raudys:Sarunas">Sarunas Raudys</na></co>
+<co c="0"><na f="r/Rauscher:F=">F. Rauscher</na></co>
+<co c="0"><na f="r/Rincon:Alejandro_Lopez">Alejandro Lopez Rincon</na></co>
+<co c="0"><na f="r/Roberti:Marco">Marco Roberti</na></co>
+<co c="0"><na f="r/Rubini:Luca">Luca Rubini</na></co>
+<co c="0"><na f="r/Rubrichi:Stefania">Stefania Rubrichi</na></co>
+<co c="0"><na f="r/Russo:Paola">Paola Russo</na></co>
+<co c="0"><na f="s/Sahbi:Hichem">Hichem Sahbi</na></co>
+<co c="4"><na f="s/Salamatian:Kav=eacute=">Kavé Salamatian</na></co>
+<co c="0"><na f="s/SanJuan:Eric">Eric SanJuan</na></co>
+<co c="0"><na f="s/Santos:Ludovic_Dos">Ludovic Dos Santos</na></co>
+<co c="1"><na f="s/Sarazin:Marie">Marie Sarazin</na></co>
+<co c="0"><na f="s/Schenkel:Ralf">Ralf Schenkel</na></co>
+<co c="0"><na f="s/Schroeder_0001:Michael">Michael Schroeder 0001</na></co>
+<co c="0"><na f="s/Schwander:Olivier">Olivier Schwander</na></co>
+<co c="0"><na f="s/Sebag:Mich=egrave=le">Michèle Sebag</na></co>
+<co c="0"><na f="s/Sermesant:Maxime">Maxime Sermesant</na></co>
+<co c="0"><na f="s/Sicard:Rudy">Rudy Sicard</na></co>
+<co c="0"><na f="s/Smith:S=_Alex">S. Alex Smith</na></co>
+<co c="0"><na f="s/Soudoplatoff:S=">S. Soudoplatoff</na></co>
+<co c="0"><na f="s/Soulier:Laure">Laure Soulier</na></co>
+<co c="0"><na f="s/Spengler:Alex">Alex Spengler</na></co>
+<co c="-1"><na f="s/Stevenur:Adelaide">Adelaide Stevenur</na></co>
+<co c="0"><na f="t/Tallur:Basavanneppa">Basavanneppa Tallur</na></co>
+<co c="0"><na f="t/Tango:Fabio">Fabio Tango</na></co>
+<co c="0"><na f="t/Tannier:Xavier">Xavier Tannier</na></co>
+<co c="0"><na f="t/Theobald:Martin">Martin Theobald</na></co>
+<co c="0"><na f="t/Thiria:Sylvie">Sylvie Thiria</na></co>
+<co c="0"><na f="t/Thom:James_A=">James A. Thom</na></co>
+<co c="0"><na f="t/Thome:Nicolas">Nicolas Thome</na></co>
+<co c="0"><na f="t/Titeux:Hadrien">Hadrien Titeux</na></co>
+<co c="0"><na f="t/Tollari:Sabrina">Sabrina Tollari</na></co>
+<co c="0"><na f="t/Tombros:Anastasios">Anastasios Tombros</na></co>
+<co c="0"><na f="t/Tonda:Alberto_Paolo">Alberto Paolo Tonda</na></co>
+<co c="0"><na f="t/Tonnelier:Emeric">Emeric Tonnelier</na></co>
+<co c="-1"><na f="t/Toudeft:Abdelmoum=egrave=ne">Abdelmoumène Toudeft</na></co>
+<co c="0"><na f="t/Trinh:Anh_Phuc">Anh Phuc Trinh</na></co>
+<co c="0"><na f="t/Trotman:Andrew">Andrew Trotman</na></co>
+<co c="0"><na f="t/Truong:Tuong=Vinh">Tuong-Vinh Truong</na></co>
+<co c="0"><na f="t/Tsatsaronis:George">George Tsatsaronis</na></co>
+<co c="0"><na f="u/Usunier:Nicolas">Nicolas Usunier</na></co>
+<co c="0"><na f="v/Valbret:H=">H. Valbret</na></co>
+<co c="0"><na f="v/Varga:A=">A. Varga</na></co>
+<co c="0"><na f="v/Venturini:Gilles">Gilles Venturini</na></co>
+<co c="0"><na f="v/Vercoustre:Anne=Marie">Anne-Marie Vercoustre</na></co>
+<co c="0"><na f="v/Vittaut:Jean=No=euml=l">Jean-Noël Vittaut</na></co>
+<co c="0"><na f="v/Vitte:Patrick">Patrick Vitte</na></co>
+<co c="0"><na f="v/Vries:Arjen_P=_de">Arjen P. de Vries</na></co>
+<co c="0"><na f="v/Vries:Christopher_M=_De">Christopher M. De Vries</na></co>
+<co c="0"><na f="v/Vu:Huyen=Trang">Huyen-Trang Vu</na></co>
+<co c="0"><na f="w/Wallyn:A=">A. Wallyn</na></co>
+<co c="2"><na f="w/Wang:Shengrui">Shengrui Wang</na></co>
+<co c="0"><na f="w/Weissenborn:Dirk">Dirk Weissenborn</na></co>
+<co c="0"><na f="w/Weston:Jason">Jason Weston</na></co>
+<co c="0"><na f="w/Wimmer:Zsolt">Zsolt Wimmer</na></co>
+<co c="0"><na f="w/Wisniewski:Guillaume">Guillaume Wisniewski</na></co>
+<co c="0"><na f="w/Woodley:Alan">Alan Woodley</na></co>
+<co c="0"><na f="y/Yadav:Pranjul">Pranjul Yadav</na></co>
+<co c="0"><na f="y/Yazdi:Saeed_Varasteh">Saeed Varasteh Yazdi</na></co>
+<co c="0"><na f="z/Zablocki:Eloi">Eloi Zablocki</na></co>
+<co c="0"><na f="z/Zaragoza:Hugo">Hugo Zaragoza</na></co>
+<co c="2"><na f="z/Zhang:Jianfei">Jianfei Zhang</na></co>
+<co c="0"><na f="z/Zhao:Yu">Yu Zhao</na></co>
+<co c="0"><na f="z/Zhao:Z=">Z. Zhao</na></co>
+<co c="0"><na f="z/Zhao:Zhong=Qiu">Zhong-Qiu Zhao</na></co>
+<co c="3"><na f="z/Zheng_0001:Wenjie">Wenjie Zheng 0001</na></co>
+<co c="0"><na f="z/Zhu:Jianhan">Jianhan Zhu</na></co>
+<co c="0"><na f="z/Ziat:Ali">Ali Ziat</na></co>
+<co c="0"><na f="z/Zschunke:Matthias">Matthias Zschunke</na></co>
+</coauthors>
+</dblpperson>
+

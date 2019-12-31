@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Jean-Noël Vittaut" n="13">
+<person key="homepages/12/3351" mdate="2009-06-10">
+<author>Jean-Noël Vittaut</author>
+</person>
+<r><inproceedings key="conf/ijcai/HufschmittVJ18" mdate="2019-07-10">
+<author>Aline Hufschmitt</author>
+<author>Jean-Noël Vittaut</author>
+<author>Nicolas Jouandeau</author>
+<title>Statistical GGP Game Decomposition.</title>
+<pages>79-97</pages>
+<year>2018</year>
+<booktitle>CGW@IJCAI</booktitle>
+<crossref>conf/ijcai/2018cgw</crossref>
+<url>db/conf/ijcai/cgw2018.html#HufschmittVJ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/HufschmittVM16" mdate="2019-07-10">
+<author>Aline Hufschmitt</author>
+<author>Jean-Noël Vittaut</author>
+<author>Jean Méhat</author>
+<title>A General Approach of Game Description Decomposition for General Game Playing.</title>
+<pages>165-177</pages>
+<year>2016</year>
+<booktitle>CGW@IJCAI</booktitle>
+<crossref>conf/ijcai/2016cgw</crossref>
+<url>db/conf/ijcai/cgw2016.html#HufschmittVM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/VittautM14a" mdate="2017-05-24">
+<author>Jean-Noël Vittaut</author>
+<author>Jean Méhat</author>
+<title>Efficient Grounding of Game Descriptions with Tabling.</title>
+<pages>105-118</pages>
+<year>2014</year>
+<booktitle>CGW@ECAI</booktitle>
+<crossref>conf/ecai/2014cgw</crossref>
+<url>db/conf/ecai/cgw2014.html#VittautM14a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/VittautM14" mdate="2017-05-24">
+<author>Jean-Noël Vittaut</author>
+<author>Jean Méhat</author>
+<title>Fast Instantiation of GGP Game Descriptions Using Prolog with Tabling.</title>
+<pages>1121-1122</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#VittautM14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jmpt/SauvagetVSBM10" mdate="2014-11-29">
+<author>Catherine Sauvaget</author>
+<author>Jean-Noël Vittaut</author>
+<author>Jordane Suarez</author>
+<author>Vincent Boyer 0001</author>
+<author>Stéphane Manuel</author>
+<title>Automated Colorization of Segmented Images Based on Color Harmony.</title>
+<pages>228-244</pages>
+<year>2010</year>
+<volume>1</volume>
+<journal>JMPT</journal>
+<number>4</number>
+<url>db/journals/jmpt/jmpt1.html#SauvagetVSBM10</url>
+</article>
+</r>
+<r><inproceedings key="conf/sitis/SauvagetMVSB10" mdate="2017-05-23">
+<author>Catherine Sauvaget</author>
+<author>Stéphane Manuel</author>
+<author>Jean-Noël Vittaut</author>
+<author>Jordane Suarez</author>
+<author>Vincent Boyer 0001</author>
+<title>Segmented Images Colorization Using Harmony.</title>
+<pages>153-160</pages>
+<year>2010</year>
+<booktitle>SITIS</booktitle>
+<crossref>conf/sitis/2010</crossref>
+<url>db/conf/sitis/sitis2010.html#SauvagetMVSB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/GallinariV06" mdate="2017-05-08">
+<author>Patrick Gallinari</author>
+<author>Jean-Noël Vittaut</author>
+<title>Apprentissage d'ordonnancements en recherche d'information structurée.</title>
+<pages>17-28</pages>
+<year>2006</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2006</crossref>
+<url>db/conf/coria/coria2006.html#GallinariV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/VittautG06" mdate="2017-05-21">
+<author>Jean-Noël Vittaut</author>
+<author>Patrick Gallinari</author>
+<title>Machine Learning Ranking for Structured Information Retrieval.</title>
+<pages>338-349</pages>
+<year>2006</year>
+<crossref>conf/ecir/2006</crossref>
+<booktitle>ECIR</booktitle>
+<url>db/conf/ecir/ecir2006.html#VittautG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/VittautG06" mdate="2017-05-26">
+<author>Jean-Noël Vittaut</author>
+<author>Patrick Gallinari</author>
+<title>Supervised and Semi-supervised Machine Learning Ranking.</title>
+<pages>213-222</pages>
+<year>2006</year>
+<crossref>conf/inex/2006</crossref>
+<booktitle>INEX</booktitle>
+<url>db/conf/inex/inex2006.html#VittautG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/VittautG05" mdate="2017-05-30">
+<author>Jean-Noël Vittaut</author>
+<author>Patrick Gallinari</author>
+<title>Machine Learning Ranking and INEX'05.</title>
+<pages>336-343</pages>
+<year>2005</year>
+<crossref>conf/inex/2005</crossref>
+<booktitle>INEX</booktitle>
+<url>db/conf/inex/inex2005.html#VittautG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/VittautPG04" mdate="2017-05-26">
+<author>Jean-Noël Vittaut</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>An Algebra for Structured Queries in Bayesian Networks.</title>
+<pages>100-112</pages>
+<year>2004</year>
+<crossref>conf/inex/2004</crossref>
+<booktitle>INEX</booktitle>
+<url>db/conf/inex/inex2004.html#VittautPG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/DenoyerVGBB03" mdate="2018-11-06">
+<author>Ludovic Denoyer</author>
+<author>Jean-Noël Vittaut</author>
+<author>Patrick Gallinari</author>
+<author>Sylvie Brunessaux</author>
+<author>Stephan Brunessaux</author>
+<title>Structured multimedia document classification.</title>
+<pages>153-160</pages>
+<year>2003</year>
+<crossref>conf/doceng/2003</crossref>
+<booktitle>ACM Symposium on Document Engineering</booktitle>
+<url>db/conf/doceng/doceng2003.html#DenoyerVGBB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecml/VittautAG02" mdate="2017-05-21">
+<author>Jean-Noël Vittaut</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Learning Classification with Both Labeled and Unlabeled Data.</title>
+<pages>468-479</pages>
+<year>2002</year>
+<crossref>conf/ecml/2002</crossref>
+<booktitle>ECML</booktitle>
+<url>db/conf/ecml/ecml2002.html#VittautAG02</url>
+</inproceedings>
+</r>
+<coauthors n="13" nc="3">
+<co c="0"><na f="a/Amini:Massih=Reza">Massih-Reza Amini</na></co>
+<co c="1"><na f="b/Boyer_0001:Vincent">Vincent Boyer 0001</na></co>
+<co c="0"><na f="b/Brunessaux:Stephan">Stephan Brunessaux</na></co>
+<co c="0"><na f="b/Brunessaux:Sylvie">Sylvie Brunessaux</na></co>
+<co c="0"><na f="d/Denoyer:Ludovic">Ludovic Denoyer</na></co>
+<co c="0"><na f="g/Gallinari:Patrick">Patrick Gallinari</na></co>
+<co c="2"><na f="h/Hufschmitt:Aline">Aline Hufschmitt</na></co>
+<co c="2"><na f="j/Jouandeau:Nicolas">Nicolas Jouandeau</na></co>
+<co c="1"><na f="m/Manuel:St=eacute=phane">Stéphane Manuel</na></co>
+<co c="2"><na f="m/M=eacute=hat:Jean">Jean Méhat</na></co>
+<co c="0"><na f="p/Piwowarski:Benjamin">Benjamin Piwowarski</na></co>
+<co c="1"><na f="s/Sauvaget:Catherine">Catherine Sauvaget</na></co>
+<co c="1"><na f="s/Suarez:Jordane">Jordane Suarez</na></co>
+</coauthors>
+</dblpperson>
+

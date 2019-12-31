@@ -1,0 +1,925 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Bernd Amann" n="63">
+<person key="homepages/a/BAmann" mdate="2018-10-17">
+<author>Bernd Amann</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www-poleia.lip6.fr/~amann/</url>
+<url>https://scholar.google.com/citations?user=jKHvF80AAAAJ</url>
+<url>https://dl.acm.org/author_page.cfm?id=81100124650</url>
+</person>
+<r><inproceedings key="conf/adbis/HannouAB19" mdate="2019-08-28">
+<author>Fatma-Zohra Hannou</author>
+<author>Bernd Amann</author>
+<author>Mohamed Amine Baazizi</author>
+<title>Query-Oriented Answer Imputation for Aggregate Queries.</title>
+<pages>302-318</pages>
+<year>2019</year>
+<booktitle>ADBIS</booktitle>
+<crossref>conf/adbis/2019</crossref>
+<url>db/conf/adbis/adbis2019.html#HannouAB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/HannouAB19" mdate="2019-08-19">
+<author>Fatma-Zohra Hannou</author>
+<author>Bernd Amann</author>
+<author>Mohamed Amine Baazizi</author>
+<title>Explaining Query Answer Completeness and Correctness with Partition Patterns.</title>
+<pages>47-62</pages>
+<year>2019</year>
+<booktitle>DEXA (2)</booktitle>
+<crossref>conf/dexa/2019-2</crossref>
+<url>db/conf/dexa/dexa2019-2.html#HannouAB19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-00050" mdate="2019-07-08">
+<author>Bernd Amann</author>
+<author>Youry Khmelevsky</author>
+<author>Gaétan Hains</author>
+<title>State-of-the-Art on Query and Transaction Processing Acceleration.</title>
+<year>2019</year>
+<volume>abs/1907.00050</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.00050</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-00050</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Amann18" mdate="2019-02-14">
+<author>Bernd Amann</author>
+<title>XSL/XSLT.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/x2.html#Amann18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/snam/Amann18" mdate="2019-02-17">
+<author>Bernd Amann</author>
+<title>XSLT.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+<crossref>reference/snam/2018</crossref>
+<url>db/reference/snam/snam2018.html#Amann18</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/grades/NaackeAC17" mdate="2018-11-06">
+<author>Hubert Naacke</author>
+<author>Bernd Amann</author>
+<author>Olivier Curé</author>
+<title>SPARQL Graph Pattern Processing with Apache Spark.</title>
+<pages>1:1-1:7</pages>
+<year>2017</year>
+<booktitle>GRADES@SIGMOD/PODS</booktitle>
+<crossref>conf/grades/2017</crossref>
+<url>db/conf/grades/grades2017.html#NaackeAC17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/NaackeCA16" mdate="2018-08-13">
+<author>Hubert Naacke</author>
+<author>Olivier Curé</author>
+<author>Bernd Amann</author>
+<title>SPARQL query processing with Apache Spark.</title>
+<year>2016</year>
+<volume>abs/1604.08903</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.08903</ee>
+<url>db/journals/corr/corr1604.html#NaackeCA16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/VouzoukidouAC16" mdate="2018-08-13">
+<author>Nelly Vouzoukidou</author>
+<author>Bernd Amann</author>
+<author>Vassilis Christophides</author>
+<title>Continuous Top-k Queries over Real-Time Web Streams.</title>
+<year>2016</year>
+<volume>abs/1610.06500</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.06500</ee>
+<url>db/journals/corr/corr1610.html#VouzoukidouAC16</url>
+</article>
+</r>
+<r><article key="journals/www/HorincarAA15" mdate="2017-06-14">
+<author>Roxana Horincar</author>
+<author>Bernd Amann</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<title>Online refresh strategies for content based feed aggregation.</title>
+<pages>913-947</pages>
+<year>2015</year>
+<volume>18</volume>
+<journal>World Wide Web</journal>
+<number>4</number>
+<url>db/journals/www/www18.html#HorincarAA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/CureNRA15" mdate="2019-02-20">
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Tendry Randriamalala</author>
+<author>Bernd Amann</author>
+<title>LiteMat: A scalable, cost-efficient inference encoding scheme for large RDF graphs.</title>
+<pages>1823-1830</pages>
+<year>2015</year>
+<booktitle>BigData</booktitle>
+<crossref>conf/bigdataconf/2015</crossref>
+<url>db/conf/bigdataconf/bigdataconf2015.html#CureNRA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/Gomes15" mdate="2019-05-28">
+<author>Luiz Gomes Jr.</author>
+<author>Bernd Amann</author>
+<author>André Santanchè</author>
+<title>Beta-Algebra: Towards a Relational Algebra for Graph Analysis.</title>
+<pages>157-162</pages>
+<year>2015</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1330/paper-26.pdf</ee>
+<crossref>conf/edbt/2015w</crossref>
+<url>db/conf/edbt/edbtw2015.html#Gomes15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/CureNBA15" mdate="2019-05-28">
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Mohamed Amine Baazizi</author>
+<author>Bernd Amann</author>
+<title>On the Evaluation of RDF Distribution Algorithms Implemented over Apache Spark.</title>
+<pages>16-31</pages>
+<year>2015</year>
+<booktitle>SSWS@ISWC</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1457/SSWS2015_paper2.pdf</ee>
+<crossref>conf/semweb/2015ssws</crossref>
+<url>db/conf/semweb/ssws2015.html#CureNBA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/CureNBA15a" mdate="2019-05-28">
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Mohamed Amine Baazizi</author>
+<author>Bernd Amann</author>
+<title>HAQWA: a Hash-based and Query Workload Aware Distributed RDF Store.</title>
+<year>2015</year>
+<booktitle>International Semantic Web Conference (Posters and Demos)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1486/paper_100.pdf</ee>
+<crossref>conf/semweb/2015p</crossref>
+<url>db/conf/semweb/iswc2015p.html#CureNBA15a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/Amann15" mdate="2015-08-03">
+<author>Bernd Amann</author>
+<title>Selective Information Dissemination on the Real-time Web - A Database Perspective.</title>
+<pages>IS-9</pages>
+<year>2015</year>
+<booktitle>WEBIST</booktitle>
+<crossref>conf/webist/2015</crossref>
+<url>db/conf/webist/webist2015.html#Amann15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CureNBA15" mdate="2018-08-13">
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Mohamed Amine Baazizi</author>
+<author>Bernd Amann</author>
+<title>On the Evaluation of RDF Distribution Algorithms Implemented over Apache Spark.</title>
+<year>2015</year>
+<volume>abs/1507.02321</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.02321</ee>
+<url>db/journals/corr/corr1507.html#CureNBA15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CureNRA15" mdate="2018-08-13">
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Tendry Randriamalala</author>
+<author>Bernd Amann</author>
+<title>LiteMat: a scalable, cost-efficient inference encoding scheme for large RDF graphs.</title>
+<year>2015</year>
+<volume>abs/1510.03409</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1510.03409</ee>
+<url>db/journals/corr/corr1510.html#CureNRA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/VouzoukidouAC14" mdate="2018-11-06">
+<author>Nelly Vouzoukidou</author>
+<author>Bernd Amann</author>
+<author>Vassilis Christophides</author>
+<title>MeowsReader: Real-Time Ranking and Filtering of News with Generalized Continuous Top-k Queries.</title>
+<pages>2066-2068</pages>
+<year>2014</year>
+<booktitle>CIKM</booktitle>
+<crossref>conf/cikm/2014</crossref>
+<url>db/conf/cikm/cikm2014.html#VouzoukidouAC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/CaronACG14" mdate="2017-05-21">
+<author>Clément Caron</author>
+<author>Bernd Amann</author>
+<author>Camélia Constantin</author>
+<author>Patrick Giroux</author>
+<title>WePIGE: The WebLab Provenance Information Generator and Explorer.</title>
+<pages>664-667</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#CaronACG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/CaronACGS14" mdate="2017-05-25">
+<author>Clément Caron</author>
+<author>Bernd Amann</author>
+<author>Camélia Constantin</author>
+<author>Patrick Giroux</author>
+<author>André Santanchè</author>
+<title>Provenance-Based Quality Assessment and Inference in Data-Centric Workflow Executions.</title>
+<pages>130-147</pages>
+<year>2014</year>
+<booktitle>OTM Conferences</booktitle>
+<crossref>conf/otm/2014</crossref>
+<url>db/conf/otm/otm2014.html#CaronACGS14</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/snam/Amann14" mdate="2017-07-12">
+<author>Bernd Amann</author>
+<title>XSLT.</title>
+<pages>2432-2435</pages>
+<year>2014</year>
+<booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+<url>db/reference/snam/snam2014.html#Amann14</url>
+</incollection>
+</r>
+<r><article key="journals/isi/ColletABBBDGPHS13" mdate="2017-11-06">
+<author>Christine Collet</author>
+<author>Bernd Amann</author>
+<author>Nicole Bidoit</author>
+<author>Mohand Boughanem</author>
+<author>Mokrane Bouzeghoub</author>
+<author>A. Doucet</author>
+<author>David Gross-Amblard</author>
+<author>Jean-Marc Petit</author>
+<author>Mohand-Said Hacid</author>
+<author orcid="0000-0001-9545-1821">Genoveva Vargas-Solar</author>
+<title>De la gestion de bases de données à la gestion de grands espaces de données.</title>
+<pages>11-31</pages>
+<year>2013</year>
+<volume>18</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>4</number>
+<url>db/journals/isi/isi18.html#ColletABBBDGPHS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/AmannCCG13" mdate="2018-11-06">
+<author>Bernd Amann</author>
+<author>Camélia Constantin</author>
+<author>Clément Caron</author>
+<author>Patrick Giroux</author>
+<title>WebLab PROV: computing fine-grained provenance links for XML artifacts.</title>
+<pages>298-306</pages>
+<year>2013</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<crossref>conf/edbt/2013w</crossref>
+<url>db/conf/edbt/edbtw2013.html#AmannCCG13</url>
+</inproceedings>
+</r>
+<r><proceedings key="journals/tlsdkcs/2013-11" mdate="2019-05-14">
+<editor>Abdelkader Hameurlain</editor>
+<editor>Josef Küng</editor>
+<editor>Roland R. Wagner</editor>
+<editor>Bernd Amann</editor>
+<editor>Philippe Lamarre</editor>
+<title>Transactions on Large-Scale Data- and Knowledge-Centered Systems XI - Special Issue on Advanced Data Stream Management and Continuous Query Processing</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8290</volume>
+<isbn>978-3-642-45268-0</isbn>
+<booktitle>Trans. Large-Scale Data- and Knowledge-Centered Systems</booktitle>
+<url>db/journals/tlsdkcs/tlsdkcs11.html</url>
+</proceedings>
+</r>
+<r><article key="journals/isi/TomasACTV12" mdate="2017-06-06">
+<author>Jordi Creus Tomàs</author>
+<author>Bernd Amann</author>
+<author>Vassilis Christophides</author>
+<author orcid="0000-0002-3502-151X">Nicolas Travers</author>
+<author>Dan Vodislav</author>
+<title>RoSeS, un moteur de requêtes continues pour la syndication RSS à large échelle.</title>
+<pages>57-85</pages>
+<year>2012</year>
+<volume>17</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>5</number>
+<url>db/journals/isi/isi17.html#TomasACTV12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/VouzoukidouAC12" mdate="2018-11-06">
+<author>Nelly Vouzoukidou</author>
+<author>Bernd Amann</author>
+<author>Vassilis Christophides</author>
+<title>Processing continuous text queries featuring non-homogeneous scoring functions.</title>
+<pages>1065-1074</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#VouzoukidouAC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/HorincarAA12" mdate="2018-06-26">
+<author>Roxana Horincar</author>
+<author>Bernd Amann</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<title>Online Change Estimation Models for Dynamic Web Resources - A Case-Study of RSS Feed Refresh Strategies.</title>
+<pages>395-410</pages>
+<year>2012</year>
+<booktitle>ICWE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-31753-8_33</ee>
+<crossref>conf/icwe/2012</crossref>
+<url>db/conf/icwe/icwe2012.html#HorincarAA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/TomasATV11" mdate="2018-11-06">
+<author>Jordi Creus Tomàs</author>
+<author>Bernd Amann</author>
+<author orcid="0000-0002-3502-151X">Nicolas Travers</author>
+<author>Dan Vodislav</author>
+<title>RoSeS: a continuous query processor for large-scale RSS filtering and aggregation.</title>
+<pages>2549-2552</pages>
+<year>2011</year>
+<booktitle>CIKM</booktitle>
+<crossref>conf/cikm/2011</crossref>
+<url>db/conf/cikm/cikm2011.html#TomasATV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/TomasATV11" mdate="2017-06-15">
+<author>Jordi Creus Tomàs</author>
+<author>Bernd Amann</author>
+<author orcid="0000-0002-3502-151X">Nicolas Travers</author>
+<author>Dan Vodislav</author>
+<title>RoSeS: A Continuous Content-Based Query Engine for RSS Feeds.</title>
+<pages>203-218</pages>
+<year>2011</year>
+<booktitle>DEXA (2)</booktitle>
+<crossref>conf/dexa/2011-2</crossref>
+<url>db/conf/dexa/dexa2011-2.html#TomasATV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/red/HochardLTA10" mdate="2017-05-24">
+<author>Gaïane Hochard</author>
+<author>Zoé Lacroix</author>
+<author>Jordi Creus Tomàs</author>
+<author>Bernd Amann</author>
+<title>A Semantic Map of RSS Feeds to Support Discovery.</title>
+<pages>122-133</pages>
+<year>2010</year>
+<booktitle>RED</booktitle>
+<crossref>conf/red/2010</crossref>
+<url>db/conf/red/red2010.html#HochardLTA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/red/AmannBLV10" mdate="2017-09-16">
+<author>Bernd Amann</author>
+<author orcid="0000-0002-8046-0570">Laure Berti-Équille</author>
+<author>Zoé Lacroix</author>
+<author>Maria-Esther Vidal</author>
+<title>Challenges of Quality-Driven Resource Discovery.</title>
+<pages>181-189</pages>
+<year>2010</year>
+<booktitle>RED</booktitle>
+<crossref>conf/red/2010</crossref>
+<url>db/conf/red/red2010.html#AmannBLV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/HorincarAA10" mdate="2017-06-15">
+<author>Roxana Horincar</author>
+<author>Bernd Amann</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<title>Best-Effort Refresh Strategies for Content-Based RSS Feed Aggregation.</title>
+<pages>262-270</pages>
+<year>2010</year>
+<booktitle>WISE</booktitle>
+<crossref>conf/wise/2010</crossref>
+<url>db/conf/wise/wise2010.html#HorincarAA10</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Amann09" mdate="2017-07-12">
+<author>Bernd Amann</author>
+<title>XSL/XSLT.</title>
+<pages>3676-3681</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/x.html#Amann09</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/sac/ConstantinA08" mdate="2018-11-06">
+<author>Camélia Constantin</author>
+<author>Bernd Amann</author>
+<title>Usage-based ranking of distributed XML data.</title>
+<pages>1008-1012</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#ConstantinA08</url>
+</inproceedings>
+</r>
+<r><article key="journals/isi/ConstantinAG07" mdate="2017-05-28">
+<author>Camélia Constantin</author>
+<author>Bernd Amann</author>
+<author>David Gross-Amblard</author>
+<title>Un modèle de classement de services par contribution et utilité.</title>
+<pages>33-60</pages>
+<year>2007</year>
+<volume>12</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>1</number>
+<url>db/journals/isi/isi12.html#ConstantinAG07</url>
+</article>
+</r>
+<r><inproceedings key="conf/ams/ParlitzAH07" mdate="2017-05-23">
+<author>Christopher Parlitz</author>
+<author>Bernd Amann</author>
+<author>Martin Hägele</author>
+<title>Dynamische Satzgenerierung und Sprachausgabe für einen mobilen Serviceroboter.</title>
+<pages>152-157</pages>
+<year>2007</year>
+<booktitle>AMS</booktitle>
+<crossref>conf/ams/2007</crossref>
+<url>db/conf/ams/ams2007.html#ParlitzAH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/ConstantinA07" mdate="2009-02-02">
+<author>Camélia Constantin</author>
+<author>Bernd Amann</author>
+<title>A collaborative caching policy based on path materialization scores.</title>
+<year>2007</year>
+<booktitle>BDA</booktitle>
+<crossref>conf/bda/2007</crossref>
+<url>db/conf/bda/bda2007.html#ConstantinA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/AmannC07" mdate="2017-05-25">
+<author>Bernd Amann</author>
+<author>Camélia Constantin</author>
+<title>Collaborative Cache Based on Path Scores.</title>
+<pages>87-98</pages>
+<year>2007</year>
+<crossref>conf/wise/2007</crossref>
+<booktitle>WISE</booktitle>
+<url>db/conf/wise/wise2007.html#AmannC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/ConstantinAG06" mdate="2006-09-14">
+<author>Camélia Constantin</author>
+<author>Bernd Amann</author>
+<author>David Gross-Amblard</author>
+<title>A Link-based Ranking Model for Services.</title>
+<year>2006</year>
+<crossref>conf/bda/2006</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2006.html#ConstantinAG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/ConstantinAG06" mdate="2017-05-25">
+<author>Camélia Constantin</author>
+<author>Bernd Amann</author>
+<author>David Gross-Amblard</author>
+<title>A Link-Based Ranking Model for Services.</title>
+<pages>327-344</pages>
+<year>2006</year>
+<crossref>conf/otm/2006-1</crossref>
+<booktitle>OTM Conferences (1)</booktitle>
+<url>db/conf/otm/otm2006-1.html#ConstantinAG06</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/MiloAABN05" mdate="2018-11-06">
+<author>Tova Milo</author>
+<author>Serge Abiteboul</author>
+<author>Bernd Amann</author>
+<author>Omar Benjelloun</author>
+<author>Frederic Dang Ngoc</author>
+<title>Exchanging intensional XML data.</title>
+<pages>1-40</pages>
+<year>2005</year>
+<volume>30</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<url>db/journals/tods/tods30.html#MiloAABN05</url>
+</article>
+</r>
+<r><article key="journals/tsi/AmannBFS03" mdate="2017-05-20">
+<author>Bernd Amann</author>
+<author>Catriel Beeri</author>
+<author>Irini Fundulaki</author>
+<author>Michel Scholl</author>
+<title>Interrogation de ressources XML concernant un domaine d'intérêt.</title>
+<pages>1243-1270</pages>
+<year>2003</year>
+<volume>22</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>10</number>
+<url>db/journals/tsi/tsi22.html#AmannBFS03</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/MiloAABN03" mdate="2018-11-06">
+<author>Tova Milo</author>
+<author>Serge Abiteboul</author>
+<author>Bernd Amann</author>
+<author>Omar Benjelloun</author>
+<author>Frederic Dang Ngoc</author>
+<title>Exchanging Intensional XML Data.</title>
+<pages>289-300</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#MiloAABN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AbiteboulABBNM03" mdate="2019-06-07">
+<author>Serge Abiteboul</author>
+<author>Bernd Amann</author>
+<author>Jérôme Baumgarten</author>
+<author>Omar Benjelloun</author>
+<author>Frederic Dang Ngoc</author>
+<author>Tova Milo</author>
+<title>Schema-driven Customization of Web Services.</title>
+<pages>1093-1096</pages>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#AbiteboulABBNM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/AmannBFS02" mdate="2006-09-13">
+<author>Bernd Amann</author>
+<author>Catriel Beeri</author>
+<author>Irini Fundulaki</author>
+<author>Michel Scholl</author>
+<title>Querying XML Sources Using an Ontology-based Mediator.</title>
+<year>2002</year>
+<crossref>conf/bda/2002</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2002.html#AmannBFS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coopis/AmannBFS02" mdate="2017-05-25">
+<author>Bernd Amann</author>
+<author>Catriel Beeri</author>
+<author>Irini Fundulaki</author>
+<author>Michel Scholl</author>
+<title>Querying XML Sources Using an Ontology-Based Mediator.</title>
+<pages>429-448</pages>
+<year>2002</year>
+<crossref>conf/coopis/2002</crossref>
+<booktitle>CoopIS/DOA/ODBASE</booktitle>
+<url>db/conf/coopis/coopis2002.html#AmannBFS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/FundulakiABSV02" mdate="2017-05-21">
+<author>Irini Fundulaki</author>
+<author>Bernd Amann</author>
+<author>Catriel Beeri</author>
+<author>Michel Scholl</author>
+<author>Anne-Marie Vercoustre</author>
+<title>ST<sub>Y</sub>X: Connecting the XML Web to the World of Semantics.</title>
+<pages>759-761</pages>
+<year>2002</year>
+<crossref>conf/edbt/2002</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt2002.html#FundulakiABSV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/AmannBFS02" mdate="2017-05-22">
+<author>Bernd Amann</author>
+<author>Catriel Beeri</author>
+<author>Irini Fundulaki</author>
+<author>Michel Scholl</author>
+<title>Ontology-Based Integration of XML Web Resources.</title>
+<pages>117-131</pages>
+<year>2002</year>
+<crossref>conf/semweb/2002</crossref>
+<booktitle>International Semantic Web Conference</booktitle>
+<url>db/conf/semweb/semweb2002.html#AmannBFS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/AmannBFSV01" mdate="2006-09-13">
+<author>Bernd Amann</author>
+<author>Catriel Beeri</author>
+<author>Irini Fundulaki</author>
+<author>Michel Scholl</author>
+<author>Anne-Marie Vercoustre</author>
+<title>Rewriting and Evaluating Tree Queries with XPath.</title>
+<year>2001</year>
+<crossref>conf/bda/2001</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2001.html#AmannBFSV01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/AmannFSBV01" mdate="2017-02-08">
+<author>Bernd Amann</author>
+<author>Irini Fundulaki</author>
+<author>Michel Scholl</author>
+<author>Catriel Beeri</author>
+<author>Anne-Marie Vercoustre</author>
+<title>Mapping XML Fragments to Community Web Ontologies.</title>
+<pages>97-102</pages>
+<year>2001</year>
+<crossref>conf/webdb/2001</crossref>
+<booktitle>WebDB</booktitle>
+<url>db/conf/webdb/webdb2001.html#AmannFSBV01</url>
+</inproceedings>
+</r>
+<r><article key="journals/jodl/AmannFS00" mdate="2017-05-17">
+<author>Bernd Amann</author>
+<author>Irini Fundulaki</author>
+<author>Michel Scholl</author>
+<title>Integrating ontologies and thesauri for RDF schema creation and metadata querying.</title>
+<pages>221-236</pages>
+<year>2000</year>
+<volume>3</volume>
+<journal>Int. J. on Digital Libraries</journal>
+<number>3</number>
+<url>db/journals/jodl/jodl3.html#AmannFS00</url>
+</article>
+</r>
+<r><inproceedings key="conf/bda/MignetAAAMP00" mdate="2006-09-13">
+<author>Laurent Mignet</author>
+<author>Serge Abiteboul</author>
+<author>Sébastien Ailleret</author>
+<author>Bernd Amann</author>
+<author>Amélie Marian</author>
+<author>Mihai Preda</author>
+<title>Acquiring XML pages for a WebHouse.</title>
+<year>2000</year>
+<crossref>conf/bda/2000</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2000.html#MignetAAAMP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/AlexakiCKPTAFSV00" mdate="2017-05-24">
+<author>Sofia Alexaki</author>
+<author>Vassilis Christophides</author>
+<author>Gregory Karvounarakis</author>
+<author>Dimitris Plexousakis</author>
+<author>Karsten Tolle</author>
+<author>Bernd Amann</author>
+<author>Irini Fundulaki</author>
+<author>Michel Scholl</author>
+<author>Anne-Marie Vercoustre</author>
+<title>Managing RDF Metadata for Community Webs.</title>
+<pages>140-151</pages>
+<year>2000</year>
+<crossref>conf/er/2000w</crossref>
+<booktitle>ER (Workshops)</booktitle>
+<url>db/conf/er/erw2000.html#AlexakiCKPTAFSV00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ercimdl/AmannF99" mdate="2017-05-24">
+<author>Bernd Amann</author>
+<author>Irini Fundulaki</author>
+<title>Integrating Ontologies and Thesauri to Build RDF Schemas.</title>
+<pages>234-253</pages>
+<year>1999</year>
+<crossref>conf/ercimdl/1999</crossref>
+<booktitle>ECDL</booktitle>
+<url>db/conf/ercimdl/ercimdl99.html#AmannF99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AbiteboulACEMM99" mdate="2018-08-03">
+<author>Serge Abiteboul</author>
+<author>Bernd Amann</author>
+<author>Sophie Cluet</author>
+<author>Anat Eyal</author>
+<author>Laurent Mignet</author>
+<author>Tova Milo</author>
+<title>Active Views for Electronic Commerce.</title>
+<pages>138-149</pages>
+<year>1999</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb99.html#AbiteboulACEMM99</url>
+<crossref>conf/vldb/99</crossref>
+<cite>journals/vldb/AbiteboulCM98</cite>
+<cite>conf/vldb/AbiteboulMRVW98</cite>
+<cite>journals/jodl/AbiteboulQMWW97</cite>
+<cite>conf/pods/AbiteboulVFY98</cite>
+<cite>conf/icde/AlonsoAAKGM96</cite>
+<cite>...</cite>
+<cite>journals/tods/BancilhonS81</cite>
+<cite>www/org/w3/TR/NOTE-xml-ql</cite>
+<cite>books/sp/kimrb85/FurtadoC85</cite>
+<cite>...</cite>
+<cite>conf/jcdkb/Keller82</cite>
+<cite>conf/pods/MiloS99</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/jcss/PicouetV98</cite>
+<cite>...</cite>
+<cite>conf/edbt/SantosAD94</cite>
+<cite>www/org/aiim-wfmc</cite>
+<cite>www/org/w3/dom</cite>
+<cite>www/org/w3/TR/REC-xml</cite>
+<cite>www/org/w3/style-xsl</cite>
+<cite>www/org/w3/ql98</cite>
+<cite>...</cite>
+<cite>books/mk/WidomC96</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AbiteboulAAACHHMMMMSTV99" mdate="2018-08-03">
+<author>Serge Abiteboul</author>
+<author>Vincent Aguilera</author>
+<author>Sébastien Ailleret</author>
+<author>Bernd Amann</author>
+<author>Sophie Cluet</author>
+<author>Brendan Hills</author>
+<author>Frédéric Hubert</author>
+<author>Jean-Claude Mamou</author>
+<author>Amélie Marian</author>
+<author>Laurent Mignet</author>
+<author>Tova Milo</author>
+<author>Cassio Souza dos Santos</author>
+<author>Bruno Tessier</author>
+<author>Anne-Marie Vercoustre</author>
+<title>XML Repository and Active Views Demonstration.</title>
+<pages>742-745</pages>
+<year>1999</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb99.html#AbiteboulAAACHHMMMMSTV99</url>
+<crossref>conf/vldb/99</crossref>
+<cite>conf/vldb/AbiteboulACEMM99</cite>
+<cite>journals/jodl/AbiteboulQMWW97</cite>
+<cite>...</cite>
+<cite>www/org/w3/TR/NOTE-xml-ql</cite>
+<cite>conf/edbt/SantosAD94</cite>
+<cite>www/org/w3/dom</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/AbiteboulACMV98" mdate="2006-09-14">
+<author>Serge Abiteboul</author>
+<author>Bernd Amann</author>
+<author>Sophie Cluet</author>
+<author>Tova Milo</author>
+<author>Victor Vianu</author>
+<title>Active Views for Electronic Commerce.</title>
+<pages>405-424</pages>
+<year>1998</year>
+<crossref>conf/bda/1998</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda98.html#AbiteboulACMV98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/AmannVFC98" mdate="2017-05-23">
+<author>Bernd Amann</author>
+<author>Dan Vodislav</author>
+<author>Julio Fernandes</author>
+<author>Georges Coste</author>
+<title>Browsing SGML Documents with Maps: The French "Inventaire" Experience.</title>
+<pages>250-259</pages>
+<year>1998</year>
+<crossref>conf/dexa/1998</crossref>
+<booktitle>DEXA</booktitle>
+<url>db/conf/dexa/dexa98.html#AmannVFC98</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmms/AmannSR95" mdate="2017-05-20">
+<author>Bernd Amann</author>
+<author>Michel Scholl</author>
+<author>Antoine Rizk</author>
+<title>Schema-based authoring and querying of large hypertexts.</title>
+<pages>281-299</pages>
+<year>1995</year>
+<volume>43</volume>
+<journal>Int. J. Hum.-Comput. Stud.</journal>
+<number>3</number>
+<url>db/journals/ijmms/ijmms43.html#AmannSR95</url>
+</article>
+</r>
+<r><inproceedings key="conf/echt/AmannSR94" mdate="2018-11-06">
+<author>Bernd Amann</author>
+<author>Michel Scholl</author>
+<author>Antoine Rizk</author>
+<title>Querying Typed Hypertexts in Multicard/O2.</title>
+<pages>198-205</pages>
+<cdrom>ECHT1994/P198.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/echt/94</crossref>
+<booktitle>ECHT</booktitle>
+<url>db/conf/echt/echt94.html#AmannSR94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/AmannCS93" mdate="2004-05-11">
+<author>Bernd Amann</author>
+<author>Vassilis Christophides</author>
+<author>Michel Scholl</author>
+<title>HyperPATH/O2: Integrating Hypermedia Systems with Object-Oriented Database Systems.</title>
+<pages>277-295</pages>
+<year>1993</year>
+<crossref>conf/bda/1993</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda1993.html#AmannCS93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/AmannCS93" mdate="2017-05-20">
+<author>Bernd Amann</author>
+<author>Vassilis Christophides</author>
+<author>Michel Scholl</author>
+<title>HyperPATH/O2: Integrating Hypermedia Systems with Object-Oriented Database Systems.</title>
+<pages>709-720</pages>
+<year>1993</year>
+<crossref>conf/dexa/1993</crossref>
+<booktitle>DEXA</booktitle>
+<url>db/conf/dexa/dexa93.html#AmannCS93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/AmannS92" mdate="2004-05-07">
+<author>Bernd Amann</author>
+<author>Michel Scholl</author>
+<title>Gram: a graph data model and query language.</title>
+<pages>86-</pages>
+<year>1992</year>
+<crossref>conf/bda/1992</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda1992.html#AmannS92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/echt/AmannS92" mdate="2018-11-06">
+<author>Bernd Amann</author>
+<author>Michel Scholl</author>
+<title>Gram: A Graph Data Model and Query Language.</title>
+<pages>201-211</pages>
+<cdrom>ECHT1992/P201.pdf</cdrom>
+<year>1992</year>
+<crossref>conf/echt/92</crossref>
+<booktitle>ECHT</booktitle>
+<url>db/conf/echt/echt92.html#AmannS92</url>
+</inproceedings>
+</r>
+<coauthors n="67" nc="5">
+<co c="0"><na f="a/Abiteboul:Serge">Serge Abiteboul</na></co>
+<co c="0"><na f="a/Aguilera:Vincent">Vincent Aguilera</na></co>
+<co c="0"><na f="a/Ailleret:S=eacute=bastien">Sébastien Ailleret</na></co>
+<co c="0"><na f="a/Alexaki:Sofia">Sofia Alexaki</na></co>
+<co c="2"><na f="a/Arti=egrave=res:Thierry">Thierry Artières</na></co>
+<co c="0"><na f="b/Baazizi:Mohamed_Amine">Mohamed Amine Baazizi</na></co>
+<co c="0"><na f="b/Baumgarten:J=eacute=r=ocirc=me">Jérôme Baumgarten</na></co>
+<co c="0"><na f="b/Beeri:Catriel">Catriel Beeri</na></co>
+<co c="0"><na f="b/Benjelloun:Omar">Omar Benjelloun</na></co>
+<co c="0"><na f="b/Berti==Eacute=quille:Laure">Laure Berti-Équille</na></co>
+<co c="0"><na f="b/Bidoit:Nicole">Nicole Bidoit</na></co>
+<co c="0"><na f="b/Boughanem:Mohand">Mohand Boughanem</na></co>
+<co c="0"><na f="b/Bouzeghoub:Mokrane">Mokrane Bouzeghoub</na></co>
+<co c="0"><na f="c/Caron:Cl=eacute=ment">Clément Caron</na></co>
+<co c="0"><na f="c/Christophides:Vassilis">Vassilis Christophides</na></co>
+<co c="0"><na f="c/Cluet:Sophie">Sophie Cluet</na></co>
+<co c="0"><na f="c/Collet:Christine">Christine Collet</na></co>
+<co c="0"><na f="c/Constantin:Cam=eacute=lia">Camélia Constantin</na></co>
+<co c="0"><na f="c/Coste:Georges">Georges Coste</na></co>
+<co c="0"><na f="c/Cur=eacute=:Olivier">Olivier Curé</na></co>
+<co c="0"><na f="d/Doucet:A=">A. Doucet</na></co>
+<co c="0"><na f="e/Eyal:Anat">Anat Eyal</na></co>
+<co c="0"><na f="f/Fernandes:Julio">Julio Fernandes</na></co>
+<co c="0"><na f="f/Fundulaki:Irini">Irini Fundulaki</na></co>
+<co c="0"><na f="g/Giroux:Patrick">Patrick Giroux</na></co>
+<co c="0"><na f="g/Gomes_Jr=:Luiz">Luiz Gomes Jr.</na></co>
+<co c="0"><na f="g/Gross=Amblard:David">David Gross-Amblard</na></co>
+<co c="0"><na f="h/Hacid:Mohand=Said">Mohand-Said Hacid</na></co>
+<co c="4"><na f="h/H=auml=gele:Martin">Martin Hägele</na></co>
+<co c="3"><na f="h/Hains:Ga=eacute=tan">Gaétan Hains</na></co>
+<co c="1"><na f="h/Hameurlain:Abdelkader">Abdelkader Hameurlain</na></co>
+<co c="0"><na f="h/Hannou:Fatma=Zohra">Fatma-Zohra Hannou</na></co>
+<co c="0"><na f="h/Hills:Brendan">Brendan Hills</na></co>
+<co c="0"><na f="h/Hochard:Ga=iuml=ane">Gaïane Hochard</na></co>
+<co c="2"><na f="h/Horincar:Roxana">Roxana Horincar</na></co>
+<co c="0"><na f="h/Hubert:Fr=eacute=d=eacute=ric">Frédéric Hubert</na></co>
+<co c="0"><na f="k/Karvounarakis:Gregory">Gregory Karvounarakis</na></co>
+<co c="3"><na f="k/Khmelevsky:Youry">Youry Khmelevsky</na></co>
+<co c="1"><na f="k/K=uuml=ng:Josef">Josef Küng</na></co>
+<co c="0"><na f="l/Lacroix:Zo=eacute=">Zoé Lacroix</na></co>
+<co c="1"><na f="l/Lamarre:Philippe">Philippe Lamarre</na></co>
+<co c="0"><na f="m/Mamou:Jean=Claude">Jean-Claude Mamou</na></co>
+<co c="0"><na f="m/Marian:Am=eacute=lie">Amélie Marian</na></co>
+<co c="0"><na f="m/Mignet:Laurent">Laurent Mignet</na></co>
+<co c="0"><na f="m/Milo:Tova">Tova Milo</na></co>
+<co c="0"><na f="n/Naacke:Hubert">Hubert Naacke</na></co>
+<co c="0"><na f="n/Ngoc:Frederic_Dang">Frederic Dang Ngoc</na></co>
+<co c="4"><na f="p/Parlitz:Christopher">Christopher Parlitz</na></co>
+<co c="0"><na f="p/Petit:Jean=Marc">Jean-Marc Petit</na></co>
+<co c="0"><na f="p/Plexousakis:Dimitris">Dimitris Plexousakis</na></co>
+<co c="0"><na f="p/Preda:Mihai">Mihai Preda</na></co>
+<co c="0"><na f="r/Randriamalala:Tendry">Tendry Randriamalala</na></co>
+<co c="0"><na f="r/Rizk:Antoine">Antoine Rizk</na></co>
+<co c="0"><na f="s/Santanch=egrave=:Andr=eacute=">André Santanchè</na></co>
+<co c="0"><na f="s/Santos:Cassio_Souza_dos">Cassio Souza dos Santos</na></co>
+<co c="0"><na f="s/Scholl:Michel">Michel Scholl</na></co>
+<co c="0"><na f="t/Tessier:Bruno">Bruno Tessier</na></co>
+<co c="0"><na f="t/Tolle:Karsten">Karsten Tolle</na></co>
+<co c="0"><na f="t/Tom=agrave=s:Jordi_Creus">Jordi Creus Tomàs</na></co>
+<co c="0"><na f="t/Travers:Nicolas">Nicolas Travers</na></co>
+<co c="0"><na f="v/Vargas=Solar:Genoveva">Genoveva Vargas-Solar</na></co>
+<co c="0"><na f="v/Vercoustre:Anne=Marie">Anne-Marie Vercoustre</na></co>
+<co c="0"><na f="v/Vianu:Victor">Victor Vianu</na></co>
+<co c="0"><na f="v/Vidal:Maria=Esther">Maria-Esther Vidal</na></co>
+<co c="0"><na f="v/Vodislav:Dan">Dan Vodislav</na></co>
+<co c="0"><na f="v/Vouzoukidou:Nelly">Nelly Vouzoukidou</na></co>
+<co c="1"><na f="w/Wagner:Roland_R=">Roland R. Wagner</na></co>
+</coauthors>
+</dblpperson>
+

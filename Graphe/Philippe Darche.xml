@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Philippe Darche" n="1">
+<person key="homepages/93/88" mdate="2009-06-08">
+<author>Philippe Darche</author>
+</person>
+<r><inproceedings key="conf/obpdc/DarcheRC95" mdate="2017-05-22">
+<author>Philippe Darche</author>
+<author>Pierre-Guillaume Raverdy</author>
+<author>Eric Commelin</author>
+<title>ActNet: The Actor Model Applied to Mobile Robotic Environments.</title>
+<pages>273-289</pages>
+<year>1995</year>
+<crossref>conf/obpdc/1995</crossref>
+<booktitle>OBPDC</booktitle>
+<url>db/conf/obpdc/obpdc1995.html#DarcheRC95</url>
+</inproceedings>
+</r>
+<coauthors n="2" nc="1">
+<co c="0"><na f="c/Commelin:Eric">Eric Commelin</na></co>
+<co c="0"><na f="r/Raverdy:Pierre=Guillaume">Pierre-Guillaume Raverdy</na></co>
+</coauthors>
+</dblpperson>
+

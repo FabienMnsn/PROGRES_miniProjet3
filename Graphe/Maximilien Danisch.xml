@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Maximilien Danisch" n="15">
+<person key="homepages/133/8169" mdate="2013-08-31">
+<author>Maximilien Danisch</author>
+</person>
+<r><article key="journals/ijdsa/PramanikSDWGM19" mdate="2019-06-05">
+<author>Soumajit Pramanik</author>
+<author>Mohit Sharma</author>
+<author>Maximilien Danisch</author>
+<author>Qinna Wang</author>
+<author>Jean-Loup Guillaume</author>
+<author>Bivas Mitra</author>
+<title>Easy-Mention: a model-driven mention recommendation heuristic to boost your tweet popularity.</title>
+<pages>131-147</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>Int. J. Data Sci. Anal.</journal>
+<number>2</number>
+<url>db/journals/ijdsa/ijdsa7.html#PramanikSDWGM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/www/DanischBS18" mdate="2018-11-21">
+<author>Maximilien Danisch</author>
+<author>Oana Denisa Balalau</author>
+<author>Mauro Sozio</author>
+<title>Listing k-cliques in Sparse Real-World Graphs.</title>
+<pages>589-598</pages>
+<year>2018</year>
+<booktitle>WWW</booktitle>
+<crossref>conf/www/2018</crossref>
+<url>db/conf/www/www2018.html#DanischBS18</url>
+</inproceedings>
+</r>
+<r><article key="journals/snam/PramanikWDGM17" mdate="2019-10-19">
+<author orcid="0000-0002-2297-1153">Soumajit Pramanik</author>
+<author>Qinna Wang</author>
+<author>Maximilien Danisch</author>
+<author orcid="0000-0002-4615-1563">Jean-Loup Guillaume</author>
+<author>Bivas Mitra</author>
+<title>Modeling cascade formation in Twitter amidst mentions and retweets.</title>
+<pages>41:1-41:18</pages>
+<year>2017</year>
+<volume>7</volume>
+<journal>Social Netw. Analys. Mining</journal>
+<number>1</number>
+<url>db/journals/snam/snam7.html#PramanikWDGM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/www/DanischCS17" mdate="2018-11-06">
+<author>Maximilien Danisch</author>
+<author>T.-H. Hubert Chan</author>
+<author>Mauro Sozio</author>
+<title>Large Scale Density-friendly Graph Decomposition via Convex Programming.</title>
+<pages>233-242</pages>
+<year>2017</year>
+<booktitle>WWW</booktitle>
+<crossref>conf/www/2017</crossref>
+<url>db/conf/www/www2017.html#DanischCS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asunam/SamusevichDS16" mdate="2017-05-23">
+<author>Raman Samusevich</author>
+<author>Maximilien Danisch</author>
+<author>Mauro Sozio</author>
+<title>Local triangle-densest subgraphs.</title>
+<pages>33-40</pages>
+<year>2016</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2016</crossref>
+<url>db/conf/asunam/asonam2016.html#SamusevichDS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsaa/PramanikWDBKGM16" mdate="2019-10-19">
+<author>Soumajit Pramanik</author>
+<author>Qinna Wang</author>
+<author>Maximilien Danisch</author>
+<author>Sumanth Bandi</author>
+<author>Anand Kumar</author>
+<author orcid="0000-0002-4615-1563">Jean-Loup Guillaume</author>
+<author>Bivas Mitra</author>
+<title>On the Role of Mentions on Tweet Virality.</title>
+<pages>204-213</pages>
+<year>2016</year>
+<booktitle>DSAA</booktitle>
+<crossref>conf/dsaa/2016</crossref>
+<url>db/conf/dsaa/dsaa2016.html#PramanikWDBKGM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/LetsiosBDOS16" mdate="2019-02-11">
+<author>Matthaios Letsios</author>
+<author>Oana Denisa Balalau</author>
+<author>Maximilien Danisch</author>
+<author>Emmanuel Orsini</author>
+<author>Mauro Sozio</author>
+<title>Finding Heaviest k-Subgraphs and Events in Social Media.</title>
+<pages>113-120</pages>
+<year>2016</year>
+<booktitle>ICDM Workshops</booktitle>
+<crossref>conf/icdm/2016w</crossref>
+<url>db/conf/icdm/icdm2016w.html#LetsiosBDOS16</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Danisch15" mdate="2016-07-04">
+<author>Maximilien Danisch</author>
+<title>Mesures de proximité appliquées à la détection de communautés dans les grands graphes de terrain. (Proximity measure applied to community detection in complex networks).</title>
+<year>2015</year>
+<school>Pierre and Marie Curie University, Paris, France</school>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/asunam/DuguePDBDKMD15" mdate="2018-11-06">
+<author>Nicolas Dugué</author>
+<author>Anthony Perez 0001</author>
+<author>Maximilien Danisch</author>
+<author>Florian Bridoux</author>
+<author>Amélie Daviau</author>
+<author>Tennessy Kolubako</author>
+<author>Simon Munier</author>
+<author>Hugo Durbano</author>
+<title>A reliable and evolutive web application to detect social capitalists.</title>
+<pages>741-744</pages>
+<year>2015</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2015</crossref>
+<url>db/conf/asunam/asonam2015.html#DuguePDBDKMD15</url>
+</inproceedings>
+</r>
+<r><article key="journals/snam/DanischGG14" mdate="2019-10-19">
+<author>Maximilien Danisch</author>
+<author orcid="0000-0002-4615-1563">Jean-Loup Guillaume</author>
+<author>Bénédicte Le Grand</author>
+<title>Multi-ego-centered communities in practice.</title>
+<year>2014</year>
+<volume>4</volume>
+<journal>Social Netw. Analys. Mining</journal>
+<number>1</number>
+<url>db/journals/snam/snam4.html#DanischGG14</url>
+<pages>180</pages>
+</article>
+</r>
+<r><inproceedings key="conf/cason/ObradovicD14" mdate="2017-05-23">
+<author>Darko Obradovic</author>
+<author>Maximilien Danisch</author>
+<title>Direct generation of random graphs exactly realising a prescribed degree sequence.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>CASoN</booktitle>
+<crossref>conf/cason/2014</crossref>
+<url>db/conf/cason/cason2014.html#ObradovicD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsaa/DanischGG14" mdate="2019-10-19">
+<author>Maximilien Danisch</author>
+<author orcid="0000-0002-4615-1563">Jean-Loup Guillaume</author>
+<author>Bénédicte Le Grand</author>
+<title>Learning a proximity measure to complete a community.</title>
+<pages>90-96</pages>
+<year>2014</year>
+<booktitle>DSAA</booktitle>
+<crossref>conf/dsaa/2014</crossref>
+<url>db/conf/dsaa/dsaa2014.html#DanischGG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rcis/FournierD14" mdate="2017-05-25">
+<author>Raphaël Fournier</author>
+<author>Maximilien Danisch</author>
+<title>Mining bipartite graphs to improve semantic pedophile activity detection.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>RCIS</booktitle>
+<crossref>conf/rcis/2014</crossref>
+<url>db/conf/rcis/rcis2014.html#FournierD14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijwbc/DanischGG13" mdate="2019-10-19">
+<author>Maximilien Danisch</author>
+<author orcid="0000-0002-4615-1563">Jean-Loup Guillaume</author>
+<author>Bénédicte Le Grand</author>
+<title>Towards multi-ego-centred communities: a node similarity approach.</title>
+<pages>299-322</pages>
+<year>2013</year>
+<volume>9</volume>
+<journal>IJWBC</journal>
+<number>3</number>
+<url>db/journals/ijwbc/ijwbc9.html#DanischGG13</url>
+</article>
+</r>
+<r><inproceedings key="conf/complenet/DanischGG13" mdate="2019-10-19">
+<author>Maximilien Danisch</author>
+<author orcid="0000-0002-4615-1563">Jean-Loup Guillaume</author>
+<author>Bénédicte Le Grand</author>
+<title>Unfolding Ego-Centered Community Structures with "A Similarity Approach".</title>
+<pages>145-153</pages>
+<year>2013</year>
+<booktitle>CompleNet</booktitle>
+<crossref>conf/complenet/2013</crossref>
+<url>db/conf/complenet/complenet2013.html#DanischGG13</url>
+</inproceedings>
+</r>
+<coauthors n="23" nc="3">
+<co c="2"><na f="b/Balalau:Oana_Denisa">Oana Denisa Balalau</na></co>
+<co c="0"><na f="b/Bandi:Sumanth">Sumanth Bandi</na></co>
+<co c="1"><na f="b/Bridoux:Florian">Florian Bridoux</na></co>
+<co c="2"><na f="c/Chan:T==H=_Hubert">T.-H. Hubert Chan</na></co>
+<co c="1"><na f="d/Daviau:Am=eacute=lie">Amélie Daviau</na></co>
+<co c="1"><na f="d/Dugu=eacute=:Nicolas">Nicolas Dugué</na></co>
+<co c="1"><na f="d/Durbano:Hugo">Hugo Durbano</na></co>
+<co c="0" n="2"><na f="f/Fournier=S=niehotta:Rapha=euml=l">Raphaël Fournier-S'niehotta</na><na>Raphaël Fournier</na></co>
+<co c="0"><na f="g/Grand:B=eacute=n=eacute=dicte_Le">Bénédicte Le Grand</na></co>
+<co c="0"><na f="g/Guillaume:Jean=Loup">Jean-Loup Guillaume</na></co>
+<co c="1"><na f="k/Kolubako:Tennessy">Tennessy Kolubako</na></co>
+<co c="0"><na f="k/Kumar:Anand">Anand Kumar</na></co>
+<co c="2"><na f="l/Letsios:Matthaios">Matthaios Letsios</na></co>
+<co c="0"><na f="m/Mitra:Bivas">Bivas Mitra</na></co>
+<co c="1"><na f="m/Munier:Simon">Simon Munier</na></co>
+<co c="-1"><na f="o/Obradovic:Darko">Darko Obradovic</na></co>
+<co c="2"><na f="o/Orsini:Emmanuel">Emmanuel Orsini</na></co>
+<co c="1"><na f="p/Perez_0001:Anthony">Anthony Perez 0001</na></co>
+<co c="0"><na f="p/Pramanik:Soumajit">Soumajit Pramanik</na></co>
+<co c="2"><na f="s/Samusevich:Raman">Raman Samusevich</na></co>
+<co c="0"><na f="s/Sharma:Mohit">Mohit Sharma</na></co>
+<co c="2"><na f="s/Sozio:Mauro">Mauro Sozio</na></co>
+<co c="0"><na f="w/Wang:Qinna">Qinna Wang</na></co>
+</coauthors>
+</dblpperson>
+

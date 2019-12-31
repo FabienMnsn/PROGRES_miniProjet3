@@ -1,0 +1,1345 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Luciana Arantes" n="90">
+<person key="homepages/a/LucianaArantes" mdate="2016-03-03">
+<author>Luciana Arantes</author>
+<author>Luciana Bezerra Arantes</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://pagesperso-systeme.lip6.fr/Luciana.Arantes/</url>
+</person>
+<r><article key="journals/jpdc/AraujoADRS19" mdate="2019-12-18">
+<author orcid="0000-0001-7972-8552">João Paulo de Araujo</author>
+<author>Luciana Arantes</author>
+<author>Elias Procópio Duarte Jr.</author>
+<author>Luiz A. Rodrigues</author>
+<author>Pierre Sens 0001</author>
+<title>VCube-PS: A causal broadcast topic-based publish/subscribe system.</title>
+<pages>18-30</pages>
+<year>2019</year>
+<volume>125</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<url>db/journals/jpdc/jpdc125.html#AraujoADRS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcn/MauffretJAS19" mdate="2019-12-18">
+<author>Etienne Mauffret</author>
+<author>Denis Jeanneau</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>The weakest failure detector to solve the mutual exclusion problem in an unknown dynamic environment.</title>
+<pages>11-20</pages>
+<year>2019</year>
+<booktitle>ICDCN</booktitle>
+<crossref>conf/icdcn/2019</crossref>
+<url>db/conf/icdcn/icdcn2019.html#MauffretJAS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icppw/TeyloASD19" mdate="2019-12-18">
+<author>Luan Teylo</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<author>Lúcia Maria de A. Drummond</author>
+<title>A Hibernation Aware Dynamic Scheduler for Cloud Environments.</title>
+<pages>24:1-24:10</pages>
+<year>2019</year>
+<booktitle>ICPP Workshops</booktitle>
+<crossref>conf/icppw/2019</crossref>
+<url>db/conf/icppw/icppw2019.html#TeyloASD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/TeyloA0D19" mdate="2019-12-19">
+<author>Luan Teylo</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<author>Lúcia Maria de A. Drummond</author>
+<title>A Bag-of-Tasks Scheduler Tolerant to Temporal Failures in Clouds.</title>
+<pages>144-151</pages>
+<year>2019</year>
+<booktitle>SBAC-PAD</booktitle>
+<crossref>conf/sbac-pad/2019</crossref>
+<url>db/conf/sbac-pad/sbac-pad2019.html#TeyloA0D19</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/RossettoGAS18" mdate="2019-12-18">
+<author orcid="0000-0001-8657-2816">Anubis Graciela de Moraes Rossetto</author>
+<author>Cláudio F. R. Geyer</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>Impact FD: An Unreliable Failure Detector Based on Process Relevance and Confidence in the System.</title>
+<pages>1557-1576</pages>
+<year>2018</year>
+<volume>61</volume>
+<journal>Comput. J.</journal>
+<number>10</number>
+<url>db/journals/cj/cj61.html#RossettoGAS18</url>
+</article>
+</r>
+<r><article key="journals/jpdc/RodriguesDA18" mdate="2018-04-06">
+<author>Luiz A. Rodrigues</author>
+<author>Elias Procópio Duarte Jr.</author>
+<author>Luciana Arantes</author>
+<title>A distributed k-mutual exclusion algorithm based on autonomic spanning trees.</title>
+<pages>41-55</pages>
+<year>2018</year>
+<volume>115</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<url>db/journals/jpdc/jpdc115.html#RodriguesDA18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpp/AraujoAJRS18" mdate="2019-12-18">
+<author>João Paulo de Araujo</author>
+<author>Luciana Arantes</author>
+<author>Elias Procópio Duarte Jr.</author>
+<author>Luiz A. Rodrigues</author>
+<author>Pierre Sens 0001</author>
+<title>A Communication-Efficient Causal Broadcast Protocol.</title>
+<pages>74:1-74:10</pages>
+<year>2018</year>
+<booktitle>ICPP</booktitle>
+<crossref>conf/icpp/2018</crossref>
+<url>db/conf/icpp/icpp2018.html#AraujoAJRS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ArantesBKLLS18" mdate="2019-12-18">
+<author>Luciana Arantes</author>
+<author>Evripidis Bampis</author>
+<author>Alexander V. Kononov</author>
+<author>Manthos Letsios</author>
+<author>Giorgio Lucarelli</author>
+<author>Pierre Sens 0001</author>
+<title>Scheduling under Uncertainty: A Query-based Approach.</title>
+<pages>4646-4652</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/646</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#ArantesBKLLS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/RodriguesDAAS18" mdate="2019-12-18">
+<author>Luiz A. Rodrigues</author>
+<author>Elias P. Duarte</author>
+<author>João Paulo de Araujo</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>Bundling Messages to Reduce the Cost of Tree-Based Broadcast Algorithms.</title>
+<pages>115-124</pages>
+<year>2018</year>
+<booktitle>LADC</booktitle>
+<crossref>conf/ladc/2018</crossref>
+<url>db/conf/ladc/ladc2018.html#RodriguesDAAS18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-10279" mdate="2019-12-18">
+<author>Luan Teylo</author>
+<author>Lúcia Maria de A. Drummond</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>A Bag-of-Tasks Scheduler Tolerant to Temporal Failures in Clouds.</title>
+<year>2018</year>
+<volume>abs/1810.10279</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.10279</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-10279</url>
+</article>
+</r>
+<r><article key="journals/concurrency/GoldmanAM17" mdate="2017-12-28">
+<author orcid="0000-0001-5746-4154">Alfredo Goldman</author>
+<author>Luciana Arantes</author>
+<author>Edward Moreno</author>
+<title>Computer architecture and high performance computing.</title>
+<year>2017</year>
+<volume>29</volume>
+<journal>Concurrency and Computation: Practice and Experience</journal>
+<number>22</number>
+<url>db/journals/concurrency/concurrency29.html#GoldmanAM17</url>
+</article>
+</r>
+<r><article key="journals/jbcs/JeanneauRAD17" mdate="2019-06-02">
+<author>Denis Jeanneau</author>
+<author orcid="0000-0002-9516-1282">Luiz A. Rodrigues</author>
+<author>Luciana Arantes</author>
+<author>Elias Procópio Duarte Jr.</author>
+<title>An autonomic hierarchical reliable broadcast protocol for asynchronous distributed systems with failure detection.</title>
+<pages>15:1-15:14</pages>
+<year>2017</year>
+<volume>23</volume>
+<journal>J. Braz. Comp. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-017-0064-9</ee>
+<url>db/journals/jbcs/jbcs23.html#JeanneauRAD17</url>
+</article>
+</r>
+<r><article key="journals/tpds/JeanneauRAS17" mdate="2019-12-18">
+<author orcid="0000-0003-0787-7334">Denis Jeanneau</author>
+<author>Thibault Rieutord</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>Solving k-Set Agreement Using Failure Detectors in Unknown Dynamic Networks.</title>
+<pages>1484-1499</pages>
+<year>2017</year>
+<volume>28</volume>
+<journal>IEEE Trans. Parallel Distrib. Syst.</journal>
+<number>5</number>
+<url>db/journals/tpds/tpds28.html#JeanneauRAS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/KniessASA17" mdate="2019-12-18">
+<author>Janine Kniess</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<author orcid="0000-0002-7959-6569">Célio Vinicius N. de Albuquerque</author>
+<title>Saving Resources in Discovery Protocol on Delay-Sensitive Rescue Mobile Networks.</title>
+<pages>538-545</pages>
+<year>2017</year>
+<booktitle>AINA</booktitle>
+<crossref>conf/aina/2017</crossref>
+<url>db/conf/aina/aina2017.html#KniessASA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcn/ArantesFMS17" mdate="2019-12-18">
+<author>Luciana Arantes</author>
+<author>Roy Friedman</author>
+<author>Olivier Marin</author>
+<author>Pierre Sens 0001</author>
+<title>Probabilistic Byzantine Tolerance Scheduling in Hybrid Cloud Environments.</title>
+<pages>2</pages>
+<year>2017</year>
+<booktitle>ICDCN</booktitle>
+<crossref>conf/icdcn/2017</crossref>
+<url>db/conf/icdcn/icdcn2017.html#ArantesFMS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/AraujoADRS17" mdate="2019-12-18">
+<author>João Paulo de Araujo</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Elias Procópio Duarte Jr.</author>
+<author>Luiz A. Rodrigues</author>
+<author>Pierre Sens 0001</author>
+<title>A Publish/Subscribe System Using Causal Broadcast over Dynamically Built Spanning Trees.</title>
+<pages>161-168</pages>
+<year>2017</year>
+<booktitle>SBAC-PAD</booktitle>
+<crossref>conf/sbac-pad/2017</crossref>
+<url>db/conf/sbac-pad/sbac-pad2017.html#AraujoADRS17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AraujoADRS17" mdate="2019-12-18">
+<author>João Paulo de Araujo</author>
+<author>Luciana Arantes</author>
+<author>Elias Procópio Duarte Jr.</author>
+<author>Luiz A. Rodrigues</author>
+<author>Pierre Sens 0001</author>
+<title>A Publish/Subscribe System Using Causal Broadcast Over Dynamically Built Spanning Trees.</title>
+<year>2017</year>
+<volume>abs/1706.08302</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.08302</ee>
+<url>db/journals/corr/corr1706.html#AraujoADRS17</url>
+</article>
+</r>
+<r><article key="journals/concurrency/SengerCAMMSS16" mdate="2018-11-30">
+<author orcid="0000-0003-1273-9809">Hermes Senger</author>
+<author>Veronica Gil Costa</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Cesar A. C. Marcondes</author>
+<author>Mauricio Marín</author>
+<author>Liria Matsumoto Sato</author>
+<author>Fabrício A. B. da Silva</author>
+<title>BSP cost and scalability analysis for MapReduce operations.</title>
+<pages>2503-2527</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurrency and Computation: Practice and Experience</journal>
+<number>8</number>
+<url>db/journals/concurrency/concurrency28.html#SengerCAMMSS16</url>
+</article>
+</r>
+<r><article key="journals/fgcs/SerranoBKOLLSAS16" mdate="2019-12-18">
+<author>Damián Serrano</author>
+<author>Sara Bouchenak</author>
+<author>Yousri Kouki</author>
+<author>Frederico Alvares de Oliveira Jr.</author>
+<author>Thomas Ledoux</author>
+<author>Jonathan Lejeune</author>
+<author>Julien Sopena</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>SLA guarantees for cloud services.</title>
+<pages>233-246</pages>
+<year>2016</year>
+<volume>54</volume>
+<journal>Future Generation Comp. Syst.</journal>
+<url>db/journals/fgcs/fgcs54.html#SerranoBKOLLSAS16</url>
+</article>
+</r>
+<r><article key="journals/jcst/RosasHCBMSAMM16" mdate="2018-11-30">
+<author>Erika Rosas</author>
+<author orcid="0000-0003-0831-9350">Nicolas Hidalgo</author>
+<author>Veronica Gil Costa</author>
+<author>Carolina Bonacic</author>
+<author>Mauricio Marín</author>
+<author orcid="0000-0003-1273-9809">Hermes Senger</author>
+<author>Luciana Arantes</author>
+<author>Cesar A. C. Marcondes</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<title>Survey on Simulation for Mobile Ad-Hoc Communication for Disaster Scenarios.</title>
+<pages>326-349</pages>
+<year>2016</year>
+<volume>31</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>2</number>
+<url>db/journals/jcst/jcst31.html#RosasHCBMSAMM16</url>
+</article>
+</r>
+<r><article key="journals/jisa/TurchettiDAS16" mdate="2019-12-18">
+<author>Rogério C. Turchetti</author>
+<author>Elias Procópio Duarte Jr.</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<title>A QoS-configurable failure detection service for internet applications.</title>
+<pages>9:1-9:14</pages>
+<year>2016</year>
+<volume>7</volume>
+<journal>J. Internet Services and Applications</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13174-016-0051-y</ee>
+<url>db/journals/jisa/jisa7.html#TurchettiDAS16</url>
+</article>
+</r>
+<r><article key="journals/jpdc/HidalgoASB16" mdate="2019-12-18">
+<author orcid="0000-0003-0831-9350">Nicolas Hidalgo</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<author>Xavier Bonnaire</author>
+<title>ECHO: Efficient Complex Query over DHT Overlays.</title>
+<pages>31-45</pages>
+<year>2016</year>
+<volume>88</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<url>db/journals/jpdc/jpdc88.html#HidalgoASB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/RodriguesAD16" mdate="2017-05-21">
+<author>Luiz A. Rodrigues</author>
+<author>Luciana Arantes</author>
+<author>Elias Procópio Duarte Jr.</author>
+<title>An Autonomic Majority Quorum System.</title>
+<pages>524-531</pages>
+<year>2016</year>
+<booktitle>AINA</booktitle>
+<crossref>conf/aina/2016</crossref>
+<url>db/conf/aina/aina2016.html#RodriguesAD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/RossettoGAS16" mdate="2019-12-18">
+<author>Anubis Graciela de Moraes Rossetto</author>
+<author>Cláudio Fernando Resin Geyer</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>Implementing a Flexible Failure Detector That Expresses the Confidence in the System.</title>
+<pages>61-70</pages>
+<year>2016</year>
+<booktitle>LADC</booktitle>
+<crossref>conf/ladc/2016</crossref>
+<url>db/conf/ladc/ladc2016.html#RossettoGAS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/JeanneauRAD16" mdate="2017-05-21">
+<author>Denis Jeanneau</author>
+<author>Luiz A. Rodrigues</author>
+<author>Luciana Arantes</author>
+<author>Elias Procópio Duarte Jr.</author>
+<title>An Autonomic Hierarchical Reliable Broadcast Protocol for Asynchronous Distributed Systems with Failure Detector.</title>
+<pages>91-98</pages>
+<year>2016</year>
+<booktitle>LADC</booktitle>
+<crossref>conf/ladc/2016</crossref>
+<url>db/conf/ladc/ladc2016.html#JeanneauRAD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/CoriatFAM16" mdate="2018-11-02">
+<author>Florent Coriat</author>
+<author>Anne Fladenmuller</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<title>Crowdsourcing-based architecture for post-disaster geolocation: A comparative performance evaluation.</title>
+<pages>1-9</pages>
+<year>2016</year>
+<booktitle>NCA</booktitle>
+<crossref>conf/nca/2016</crossref>
+<url>db/conf/nca/nca2016.html#CoriatFAM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/CortesBMAS16" mdate="2019-12-18">
+<author>Rudyar Cortés</author>
+<author>Xavier Bonnaire</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>GeoTrie: A scalable architecture for location-temporal range queries over massive geotagged data sets.</title>
+<pages>10-17</pages>
+<year>2016</year>
+<booktitle>NCA</booktitle>
+<crossref>conf/nca/2016</crossref>
+<url>db/conf/nca/nca2016.html#CortesBMAS16</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/AnjosIKTAG15" mdate="2017-12-28">
+<author orcid="0000-0003-3623-2762">Julio C. S. dos Anjos</author>
+<author>Ivan Carrera Izurieta</author>
+<author>Wagner Kolberg</author>
+<author>Andre Luis Tibola</author>
+<author>Luciana Bezerra Arantes</author>
+<author>Cláudio F. R. Geyer</author>
+<title>MRA++: Scheduling and data placement on MapReduce for heterogeneous environments.</title>
+<pages>22-35</pages>
+<year>2015</year>
+<volume>42</volume>
+<journal>Future Generation Comp. Syst.</journal>
+<url>db/journals/fgcs/fgcs42.html#AnjosIKTAG15</url>
+</article>
+</r>
+<r><article key="journals/jpdc/LejeuneASS15" mdate="2019-12-18">
+<author>Jonathan Lejeune</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens 0001</author>
+<title>A fair starvation-free prioritized mutual exclusion algorithm for distributed systems.</title>
+<pages>13-29</pages>
+<year>2015</year>
+<volume>83</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<url>db/journals/jpdc/jpdc83.html#LejeuneASS15</url>
+</article>
+</r>
+<r><article key="journals/tsi/LejeuneASS15" mdate="2019-12-18">
+<author>Jonathan Lejeune</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens 0001</author>
+<title>Allouer efficacement des ressources dans un environnement distribué.</title>
+<pages>79-100</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>1-2</number>
+<url>db/journals/tsi/tsi34.html#LejeuneASS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/RossettoRLBGAS15" mdate="2019-12-18">
+<author>Anubis Graciela de Moraes Rossetto</author>
+<author orcid="0000-0002-5441-9339">Carlos Oberdan Rolim</author>
+<author orcid="0000-0003-0446-9271">Valderi R. Q. Leithardt</author>
+<author>Guilherme A. Borges</author>
+<author>Cláudio Fernando Resin Geyer</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>A New Unreliable Failure Detector for Self-Healing in Ubiquitous Environments.</title>
+<pages>316-323</pages>
+<year>2015</year>
+<booktitle>AINA</booktitle>
+<crossref>conf/aina/2015</crossref>
+<url>db/conf/aina/aina2015.html#RossettoRLBGAS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dais/Callau-ZoriASS15" mdate="2019-12-18">
+<author>Mar Callau-Zori</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens 0001</author>
+<title>MERCi-MIsS: Should I Turn off My Servers?</title>
+<pages>16-29</pages>
+<year>2015</year>
+<booktitle>DAIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-19129-4_2</ee>
+<crossref>conf/dais/2015</crossref>
+<url>db/conf/dais/dais2015.html#Callau-ZoriASS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/LejeuneASS15" mdate="2019-12-18">
+<author>Jonathan Lejeune</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens 0001</author>
+<title>Reducing Synchronization Cost in Distributed Multi-resource Allocation Problem.</title>
+<pages>540-549</pages>
+<year>2015</year>
+<booktitle>ICPP</booktitle>
+<crossref>conf/icpp/2015</crossref>
+<url>db/conf/icpp/icpp2015.html#LejeuneASS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/TomsicSGAS15" mdate="2019-12-18">
+<author>Alejandro Z. Tomsic</author>
+<author>Pierre Sens 0001</author>
+<author>João Garcia 0001</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Julien Sopena</author>
+<title>2W-FD: A Failure Detector Algorithm with QoS.</title>
+<pages>885-893</pages>
+<year>2015</year>
+<booktitle>IPDPS</booktitle>
+<crossref>conf/ipps/2015</crossref>
+<url>db/conf/ipps/ipdps2015.html#TomsicSGAS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/RossettoGAS15" mdate="2019-12-18">
+<author>Anubis Graciela de Moraes Rossetto</author>
+<author>Cláudio Fernando Resin Geyer</author>
+<author>Luciana Arantes</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<title>A failure detector that gives information on the degree of confidence in the system.</title>
+<pages>532-537</pages>
+<year>2015</year>
+<booktitle>ISCC</booktitle>
+<crossref>conf/iscc/2015</crossref>
+<url>db/conf/iscc/iscc2015.html#RossettoGAS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/CortesMBAS15" mdate="2019-12-18">
+<author>Rudyar Cortés</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<author>Xavier Bonnaire</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>A Scalable Architecture for Spatio-Temporal Range Queries over Big Location Data.</title>
+<pages>159-166</pages>
+<year>2015</year>
+<booktitle>NCA</booktitle>
+<crossref>conf/nca/2015</crossref>
+<url>db/conf/nca/nca2015.html#CortesMBAS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/JeanneauRAS15" mdate="2019-12-18">
+<author orcid="0000-0003-0787-7334">Denis Jeanneau</author>
+<author>Thibault Rieutord</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>A Failure Detector for k-Set Agreement in Dynamic Systems.</title>
+<pages>176-183</pages>
+<year>2015</year>
+<booktitle>NCA</booktitle>
+<crossref>conf/nca/2015</crossref>
+<url>db/conf/nca/nca2015.html#JeanneauRAS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/ArantesFMS15" mdate="2019-12-18">
+<author>Luciana Arantes</author>
+<author>Roy Friedman</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<title>Probabilistic Byzantine Tolerance for Cloud Computing.</title>
+<pages>1-10</pages>
+<year>2015</year>
+<booktitle>SRDS</booktitle>
+<crossref>conf/srds/2015</crossref>
+<url>db/conf/srds/srds2015.html#ArantesFMS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/biostec/RossettoGRLA14" mdate="2018-11-02">
+<author>Anubis Graciela de Moraes Rossetto</author>
+<author>Cláudio Fernando Resin Geyer</author>
+<author>Carlos Oberdan Rolim</author>
+<author>Valderi R. Q. Leithardt</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<title>An Architecture for Resilient Ubiquitous Systems.</title>
+<pages>459-464</pages>
+<year>2014</year>
+<booktitle>HEALTHINF</booktitle>
+<crossref>conf/biostec/2014hi</crossref>
+<url>db/conf/biostec/healthinf2014.html#RossettoGRLA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edcc/RodriguesAD14" mdate="2017-05-26">
+<author>Luiz A. Rodrigues</author>
+<author>Luciana Arantes</author>
+<author>Elias Procópio Duarte Jr.</author>
+<title>An Autonomic Implementation of Reliable Broadcast Based on Dynamic Spanning Trees.</title>
+<pages>1-12</pages>
+<year>2014</year>
+<booktitle>EDCC</booktitle>
+<crossref>conf/edcc/2014</crossref>
+<url>db/conf/edcc/edcc2014.html#RodriguesAD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/Portugal-PomaMS14" mdate="2017-05-23">
+<author>Lourdes P. Portugal-Poma</author>
+<author>Cesar A. C. Marcondes</author>
+<author>Hermes Senger</author>
+<author>Luciana Arantes</author>
+<title>Applying Machine Learning to Reduce Overhead in DTN Vehicular Networks.</title>
+<pages>94-102</pages>
+<year>2014</year>
+<booktitle>SBRC</booktitle>
+<crossref>conf/sbrc/2014</crossref>
+<url>db/conf/sbrc/sbrc2014.html#Portugal-PomaMS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/RodriguesDA14" mdate="2017-05-23">
+<author>Luiz A. Rodrigues</author>
+<author>Elias Procópio Duarte Jr.</author>
+<author>Luciana Arantes</author>
+<title>Distributed and Autonomic Minimum Spanning Trees.</title>
+<pages>138-146</pages>
+<year>2014</year>
+<booktitle>SBRC</booktitle>
+<crossref>conf/sbrc/2014</crossref>
+<url>db/conf/sbrc/sbrc2014.html#RodriguesDA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/CoriatAMFHR14" mdate="2018-11-30">
+<author>Florent Coriat</author>
+<author>Luciana Arantes</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author orcid="0000-0003-0831-9350">Nicolas Hidalgo</author>
+<author>Erika Rosas</author>
+<title>Towards Distributed Geolocation for Large Scale Disaster Management.</title>
+<pages>70-75</pages>
+<year>2014</year>
+<booktitle>SCCC</booktitle>
+<crossref>conf/sccc/2014</crossref>
+<url>db/conf/sccc/sccc2014.html#CoriatAMFHR14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/RossettoGAS14" mdate="2019-12-18">
+<author>Anubis Graciela de Moraes Rossetto</author>
+<author>Cláudio F. R. Geyer</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>The Impact Failure Detector.</title>
+<year>2014</year>
+<volume>abs/1404.6415</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1404.6415</ee>
+<url>db/journals/corr/corr1404.html#RossettoGAS14</url>
+</article>
+</r>
+<r><article key="journals/pc/KolbergMAMGA13" mdate="2017-05-27">
+<author>Wagner Kolberg</author>
+<author>Pedro de B. Marcos</author>
+<author>Julio C. S. dos Anjos</author>
+<author>Alexandre K. S. Miyazaki</author>
+<author>Cláudio Fernando Resin Geyer</author>
+<author>Luciana Arantes</author>
+<title>MRSG - A MapReduce simulator over SimGrid.</title>
+<pages>233-244</pages>
+<year>2013</year>
+<volume>39</volume>
+<journal>Parallel Computing</journal>
+<number>4-5</number>
+<url>db/journals/pc/pc39.html#KolbergMAMGA13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccgrid/SerranoBKLLSAS13" mdate="2019-12-18">
+<author>Damián Serrano</author>
+<author>Sara Bouchenak</author>
+<author>Yousri Kouki</author>
+<author>Thomas Ledoux</author>
+<author>Jonathan Lejeune</author>
+<author>Julien Sopena</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>Towards QoS-Oriented SLA Guarantees for Online Cloud Services.</title>
+<pages>50-57</pages>
+<year>2013</year>
+<booktitle>CCGRID</booktitle>
+<crossref>conf/ccgrid/2013</crossref>
+<url>db/conf/ccgrid/ccgrid2013.html#SerranoBKLLSAS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/LejeuneASS13" mdate="2019-12-18">
+<author>Jonathan Lejeune</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens 0001</author>
+<pages>290-299</pages>
+<year>2013</year>
+<booktitle>ICPP</booktitle>
+<crossref>conf/icpp/2013</crossref>
+<url>db/conf/icpp/icpp2013.html#LejeuneASS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/HuSASD13" mdate="2019-12-18">
+<author>Ruijing Hu</author>
+<author>Julien Sopena</author>
+<author>Luciana Arantes</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<author>Isabelle M. Demeure</author>
+<title>Efficient Dissemination Algorithm for Scale-Free Topologies.</title>
+<pages>310-319</pages>
+<year>2013</year>
+<booktitle>ICPP</booktitle>
+<crossref>conf/icpp/2013</crossref>
+<url>db/conf/icpp/icpp2013.html#HuSASD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispdc/RodriguesCAD13" mdate="2017-05-17">
+<author>Luiz A. Rodrigues</author>
+<author>Jaime Cohen</author>
+<author>Luciana Arantes</author>
+<author>Elias Procópio Duarte Jr.</author>
+<title>A Robust Permission-Based Hierarchical Distributed k-Mutual Exclusion Algorithm.</title>
+<pages>151-158</pages>
+<year>2013</year>
+<booktitle>ISPDC</booktitle>
+<crossref>conf/ispdc/2013</crossref>
+<url>db/conf/ispdc/ispdc2013.html#RodriguesCAD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/ArantesGSS13" mdate="2019-12-18">
+<author>Luciana Arantes</author>
+<author>Fabíola Greve</author>
+<author>Pierre Sens 0001</author>
+<author>Véronique Simon</author>
+<title>Eventual Leader Election in Evolving Mobile Networks.</title>
+<pages>23-37</pages>
+<year>2013</year>
+<booktitle>OPODIS</booktitle>
+<crossref>conf/opodis/2013</crossref>
+<url>db/conf/opodis/opodis2013.html#ArantesGSS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/ArantesS13" mdate="2018-11-02">
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Julien Sopena</author>
+<title>Easily Rendering Token-Ring Algorithms of Distributed and Parallel Applications Fault Tolerant.</title>
+<pages>206-213</pages>
+<year>2013</year>
+<booktitle>SBAC-PAD</booktitle>
+<crossref>conf/sbac-pad/2013</crossref>
+<url>db/conf/sbac-pad/sbac-pad2013.html#ArantesS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/GreveSAS12" mdate="2019-12-18">
+<author>Fabíola Greve</author>
+<author>Pierre Sens 0001</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Véronique Simon</author>
+<title>Eventually Strong Failure Detector with Unknown Membership.</title>
+<pages>1507-1524</pages>
+<year>2012</year>
+<volume>55</volume>
+<journal>Comput. J.</journal>
+<number>12</number>
+<url>db/journals/cj/cj55.html#GreveSAS12</url>
+</article>
+</r>
+<r><article key="journals/tsi/ArantesBCCCLPMPSSS12" mdate="2019-12-18">
+<author>Luciana Arantes</author>
+<author>Alysson Neves Bessani</author>
+<author>Vinicius V. Cogo</author>
+<author>Miguel Correia 0001</author>
+<author>Pedro Costa</author>
+<author>Jonathan Lejeune</author>
+<author>M. Piffaretti</author>
+<author>Olivier Marin</author>
+<author>Marcelo Pasin</author>
+<author>Pierre Sens 0001</author>
+<author>F. Silva</author>
+<author>Julien Sopena</author>
+<title>Vers une plate-forme MapReduce tolérant les fautes byzantines.</title>
+<pages>1079-1099</pages>
+<year>2012</year>
+<volume>31</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>8-10</number>
+<url>db/journals/tsi/tsi31.html#ArantesBCCCLPMPSSS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/HidalgoRAMSB12" mdate="2019-12-18">
+<author orcid="0000-0003-0831-9350">Nicolas Hidalgo</author>
+<author>Erika Rosas</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<author>Xavier Bonnaire</author>
+<title>Optimized Range Queries for Large Scale Networks.</title>
+<pages>438-445</pages>
+<year>2012</year>
+<booktitle>AINA</booktitle>
+<crossref>conf/aina/2012</crossref>
+<url>db/conf/aina/aina2012.html#HidalgoRAMSB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/LejeuneASS12" mdate="2019-12-18">
+<author>Jonathan Lejeune</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens 0001</author>
+<title>Service Level Agreement for Distributed Mutual Exclusion in Cloud Computing.</title>
+<pages>180-187</pages>
+<year>2012</year>
+<booktitle>CCGRID</booktitle>
+<crossref>conf/ccgrid/2012</crossref>
+<url>db/conf/ccgrid/ccgrid2012.html#LejeuneASS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edcc/GreveLAS12" mdate="2019-12-18">
+<author>Fabíola Greve</author>
+<author orcid="0000-0002-2297-811X">Murilo Santos de Lima</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>A Time-Free Byzantine Failure Detector for Dynamic Networks.</title>
+<pages>191-202</pages>
+<year>2012</year>
+<booktitle>EDCC</booktitle>
+<crossref>conf/edcc/2012</crossref>
+<url>db/conf/edcc/edcc2012.html#GreveLAS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fhies/MaiaAMZCVSCCMAS12" mdate="2017-11-03">
+<author>Felipe Maia</author>
+<author>Rafael Viana Lopes Araújo</author>
+<author>Luiz Carlos Muniz</author>
+<author>Rayrone Zirtany</author>
+<author>Luciano R. Coutinho</author>
+<author>Samyr Vale</author>
+<author>Francisco José Silva</author>
+<author>Pierpaolo Cincilla</author>
+<author>Ikram Chabbouh</author>
+<author>Sébastien Monnet</author>
+<author>Luciana Arantes</author>
+<author>Marc Shapiro 0001</author>
+<title>A Grid Based Distributed Cooperative Environment for Health Care Research.</title>
+<pages>142-150</pages>
+<year>2012</year>
+<booktitle>FHIES</booktitle>
+<crossref>conf/fhies/2012</crossref>
+<url>db/conf/fhies/fhies2012.html#MaiaAMZCVSCCMAS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/HuSASD12" mdate="2019-12-18">
+<author>Ruijing Hu</author>
+<author>Julien Sopena</author>
+<author>Luciana Arantes</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<author>Isabelle M. Demeure</author>
+<title>Fair Comparison of Gossip Algorithms over Large-Scale Random Topologies.</title>
+<pages>331-340</pages>
+<year>2012</year>
+<booktitle>SRDS</booktitle>
+<crossref>conf/srds/2012</crossref>
+<url>db/conf/srds/srds2012.html#HuSASD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEcit/HidalgoRAMSB11" mdate="2019-12-18">
+<author orcid="0000-0003-0831-9350">Nicolas Hidalgo</author>
+<author>Erika Rosas</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<author>Pierre Sens 0001</author>
+<author>Xavier Bonnaire</author>
+<title>DRing: A Layered Scheme for Range Queries over DHTs.</title>
+<pages>29-34</pages>
+<year>2011</year>
+<booktitle>CIT</booktitle>
+<crossref>conf/IEEEcit/2011</crossref>
+<url>db/conf/IEEEcit/IEEEcit2011.html#HidalgoRAMSB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/LimaGAS11" mdate="2019-12-18">
+<author orcid="0000-0002-2297-811X">Murilo Santos de Lima</author>
+<author>Fabíola Greve</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>The time-free approach to Byzantine failure detection in dynamic networks.</title>
+<pages>3-8</pages>
+<year>2011</year>
+<booktitle>DSN Workshops</booktitle>
+<crossref>conf/dsn/2011w</crossref>
+<url>db/conf/dsn/dsnw2011.html#LimaGAS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/GreveSAS11" mdate="2019-12-18">
+<author>Fabíola Greve</author>
+<author>Pierre Sens 0001</author>
+<author>Luciana Arantes</author>
+<author>Véronique Simon</author>
+<title>A Failure Detector for Wireless Networks with Unknown Membership.</title>
+<pages>27-38</pages>
+<year>2011</year>
+<booktitle>Euro-Par (2)</booktitle>
+<crossref>conf/europar/2011-2</crossref>
+<url>db/conf/europar/europar2011-2.html#GreveSAS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/HidalgoASB11" mdate="2019-12-18">
+<author orcid="0000-0003-0831-9350">Nicolas Hidalgo</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<author>Xavier Bonnaire</author>
+<title>A Tabu Based Cache to Improve Latency and Load Balancing on Prefix Trees.</title>
+<pages>557-564</pages>
+<year>2011</year>
+<booktitle>ICPADS</booktitle>
+<crossref>conf/icpads/2011</crossref>
+<url>db/conf/icpads/icpads2011.html#HidalgoASB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/ValeroAPS11" mdate="2019-12-18">
+<author>Mathieu Valero</author>
+<author>Luciana Arantes</author>
+<author>Maria Potop-Butucaru</author>
+<author>Pierre Sens 0001</author>
+<title>Enhancing Fault Tolerance of Distributed R-Tree.</title>
+<pages>25-34</pages>
+<year>2011</year>
+<booktitle>LADC</booktitle>
+<crossref>conf/ladc/2011</crossref>
+<url>db/conf/ladc/ladc2011.html#ValeroAPS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/FlorianoGA11" mdate="2019-09-25">
+<author>Paulo Floriano</author>
+<author orcid="0000-0001-5746-4154">Alfredo Goldman</author>
+<author>Luciana Arantes</author>
+<title>Formalization of the Necessary and Sufficient Connectivity Conditions to the Distributed Mutual Exclusion Problem in Dynamic Networks.</title>
+<pages>203-210</pages>
+<year>2011</year>
+<booktitle>NCA</booktitle>
+<crossref>conf/nca/2011</crossref>
+<url>db/conf/nca/nca2011.html#FlorianoGA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tadds/GreveAS11" mdate="2019-12-18">
+<author>Fabíola Greve</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>What model and what conditions to implement unreliable failure detectors in dynamic networks?</title>
+<pages>13-17</pages>
+<year>2011</year>
+<booktitle>TADDS</booktitle>
+<crossref>conf/tadds/2011</crossref>
+<url>db/conf/tadds/tadds2011.html#GreveAS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/ArantesPSV10" mdate="2019-12-18">
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<author>Mathieu Valero</author>
+<title>Enhanced DR-Tree for Low Latency Filtering in Publish/Subscribe Systems.</title>
+<pages>58-65</pages>
+<year>2010</year>
+<booktitle>AINA</booktitle>
+<crossref>conf/aina/2010</crossref>
+<url>db/conf/aina/aina2010.html#ArantesPSV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaart/AknineMA10" mdate="2010-03-03">
+<author>Samir Aknine</author>
+<author>Usama Mir</author>
+<author>Luciana Bezerra Arantes</author>
+<title>Multiagent Coordination in Ad-hoc Networks based on Coalition Formation.</title>
+<pages>241-246</pages>
+<year>2010</year>
+<booktitle>ICAART (1)</booktitle>
+<crossref>conf/icaart/2010-1</crossref>
+<url>db/conf/icaart/icaart2010-1.html#AknineMA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/ArantesSTCL10" mdate="2019-12-18">
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<author>Gaël Thomas 0001</author>
+<author>Denis Conan</author>
+<author>Léon Lim</author>
+<title>Partition Participant Detector with Dynamic Paths in Mobile Networks.</title>
+<pages>224-228</pages>
+<year>2010</year>
+<booktitle>NCA</booktitle>
+<crossref>conf/nca/2010</crossref>
+<url>db/conf/nca/nca2010.html#ArantesSTCL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/ValeroAGS10" mdate="2019-12-18">
+<author>Mathieu Valero</author>
+<author>Luciana Arantes</author>
+<author>Maria Gradinariu</author>
+<author>Pierre Sens 0001</author>
+<title>Dynamically Reconfigurable Filtering Architectures.</title>
+<pages>504-518</pages>
+<year>2010</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2010</crossref>
+<url>db/conf/sss/sss2010.html#ValeroAGS10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tjs/SopenaALS09" mdate="2019-12-18">
+<author>Julien Sopena</author>
+<author>Luciana Arantes</author>
+<author>Fabrice Legond-Aubry</author>
+<author>Pierre Sens 0001</author>
+<title>Building effective mutual exclusion services for grids.</title>
+<pages>84-107</pages>
+<year>2009</year>
+<volume>49</volume>
+<journal>The Journal of Supercomputing</journal>
+<number>1</number>
+<url>db/journals/tjs/tjs49.html#SopenaALS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/ladc/BouillaguetAS09" mdate="2017-05-21">
+<author>Mathieu Bouillaguet</author>
+<author>Luciana Arantes</author>
+<author>Luciana Sens</author>
+<title>A Timer-Free Fault Tolerant K-Mutual Exclusion Algorithm.</title>
+<pages>41-48</pages>
+<year>2009</year>
+<booktitle>LADC</booktitle>
+<crossref>conf/ladc/2009</crossref>
+<url>db/conf/ladc/ladc2009.html#BouillaguetAS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/SopenaALS08" mdate="2019-12-18">
+<author>Julien Sopena</author>
+<author>Luciana Arantes</author>
+<author>Fabrice Legond-Aubry</author>
+<author>Pierre Sens 0001</author>
+<title>The Impact of Clustering on Token-Based Mutual Exclusion Algorithms.</title>
+<pages>565-575</pages>
+<year>2008</year>
+<booktitle>Euro-Par</booktitle>
+<crossref>conf/europar/2008</crossref>
+<url>db/conf/europar/europar2008.html#SopenaALS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispdc/BouillaguetAS08" mdate="2019-12-18">
+<author>Mathieu Bouillaguet</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<title>Fault Tolerant K-Mutual Exclusion Algorithm Using Failure Detector.</title>
+<pages>343-350</pages>
+<year>2008</year>
+<booktitle>ISPDC</booktitle>
+<crossref>conf/ispdc/2008</crossref>
+<url>db/conf/ispdc/ispdc2008.html#BouillaguetAS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/ConanSAB08" mdate="2019-12-18">
+<author>Denis Conan</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Mathieu Bouillaguet</author>
+<title>Failure, Disconnection and Partition Detection in Mobile Environment.</title>
+<pages>119-127</pages>
+<year>2008</year>
+<booktitle>NCA</booktitle>
+<crossref>conf/nca/2008</crossref>
+<url>db/conf/nca/nca2008.html#ConanSAB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/SensABSG08" mdate="2019-12-18">
+<author>Pierre Sens 0001</author>
+<author>Luciana Arantes</author>
+<author>Mathieu Bouillaguet</author>
+<author>Véronique Simon</author>
+<author>Fabíola Greve</author>
+<title>An Unreliable Failure Detector for Unknown and Mobile Networks.</title>
+<pages>555-559</pages>
+<year>2008</year>
+<booktitle>OPODIS</booktitle>
+<crossref>conf/opodis/2008</crossref>
+<url>db/conf/opodis/opodis2008.html#SensABSG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/AknineA07" mdate="2017-05-23">
+<author>Samir Aknine</author>
+<author>Luciana Arantes</author>
+<title>Scalable Coalition Formation Method for Large-Scale Systems.</title>
+<pages>520-523</pages>
+<year>2007</year>
+<crossref>conf/iat/2007</crossref>
+<booktitle>IAT</booktitle>
+<url>db/conf/iat/iat2007.html#AknineA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/SopenaLAS07" mdate="2019-12-18">
+<author>Julien Sopena</author>
+<author>Fabrice Legond-Aubry</author>
+<author>Luciana Bezerra Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>A Composition Approach to Mutual Exclusion Algorithms for Grid Applications.</title>
+<pages>65</pages>
+<year>2007</year>
+<crossref>conf/icpp/2007</crossref>
+<booktitle>ICPP</booktitle>
+<url>db/conf/icpp/icpp2007.html#SopenaLAS07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701015" mdate="2019-12-18">
+<author>Pierre Sens 0001</author>
+<author>Luciana Bezerra Arantes</author>
+<author>Mathieu Bouillaguet</author>
+<title>Asynchronous Implementation of Failure Detectors with partial connectivity and unknown participants</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701015</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701015</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701015</url>
+</article>
+</r>
+<r><article key="journals/jpdc/BertierAS06" mdate="2019-12-18">
+<author>Marin Bertier</author>
+<author orcid="0000-0002-0938-2004">Luciana Bezerra Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>Distributed mutual exclusion algorithms for grid applications: A hierarchical approach.</title>
+<pages>128-144</pages>
+<year>2006</year>
+<volume>66</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<number>1</number>
+<url>db/journals/jpdc/jpdc66.html#BertierAS06</url>
+</article>
+</r>
+<r><inproceedings key="conf/srds/SopenaAS06" mdate="2019-12-18">
+<author>Julien Sopena</author>
+<author>Luciana Bezerra Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>Performance evaluation of a fair fault-tolerant mutual exclusion algorithm.</title>
+<pages>225-234</pages>
+<year>2006</year>
+<crossref>conf/srds/2006</crossref>
+<booktitle>SRDS</booktitle>
+<url>db/conf/srds/srds2006.html#SopenaAS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/SopenaABS05" mdate="2019-12-18">
+<author>Julien Sopena</author>
+<author>Luciana Bezerra Arantes</author>
+<author>Marin Bertier</author>
+<author>Pierre Sens 0001</author>
+<title>A Fault-Tolerant Token-Based Mutual Exclusion Algorithm Using a Dynamic Tree.</title>
+<pages>654-663</pages>
+<year>2005</year>
+<crossref>conf/europar/2005</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2005.html#SopenaABS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/BertierAS04" mdate="2019-12-18">
+<author>Marin Bertier</author>
+<author orcid="0000-0002-0938-2004">Luciana Bezerra Arantes</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<title>Hierarchical token based mutual exclusion algorithms.</title>
+<pages>539-546</pages>
+<year>2004</year>
+<crossref>conf/ccgrid/2004</crossref>
+<booktitle>CCGRID</booktitle>
+<url>db/conf/ccgrid/ccgrid2004.html#BertierAS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/BuscaBBSA04" mdate="2019-12-18">
+<author>Jean-Michel Busca</author>
+<author>Marin Bertier</author>
+<author>Fatima Belkouch</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<author orcid="0000-0002-0938-2004">Luciana Bezerra Arantes</author>
+<title>A Performance Evaluation of a Quorum-Based State-Machine Replication Algorithm For Computing Grids.</title>
+<pages>116-123</pages>
+<year>2004</year>
+<crossref>conf/sbac-pad/2004</crossref>
+<booktitle>SBAC-PAD</booktitle>
+<url>db/conf/sbac-pad/sbac-pad2004.html#BuscaBBSA04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotos/MislovePRWDWBSBA03" mdate="2019-12-18">
+<author>Alan Mislove</author>
+<author>Ansley Post</author>
+<author>Charles Reis</author>
+<author>Paul Willmann</author>
+<author>Peter Druschel</author>
+<author>Dan S. Wallach</author>
+<author>Xavier Bonnaire</author>
+<author>Pierre Sens 0001</author>
+<author>Jean-Michel Busca</author>
+<author>Luciana Bezerra Arantes</author>
+<title>POST: A Secure, Resilient, Cooperative Messaging System.</title>
+<pages>61-66</pages>
+<year>2003</year>
+<crossref>conf/hotos/2003</crossref>
+<booktitle>HotOS</booktitle>
+<url>db/conf/hotos/hotos2003.html#MislovePRWDWBSBA03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icai/Tnazefti-KerkeniA03" mdate="2010-09-10">
+<author>Insaf Tnazefti-Kerkeni</author>
+<author>Luciana Bezerra Arantes</author>
+<title>Multi-Level Knowledge for Controlling and Monitoring Systems: A Multi-Agent Support.</title>
+<pages>783-788</pages>
+<year>2003</year>
+<crossref>conf/icai/2003-2</crossref>
+<booktitle>IC-AI</booktitle>
+<url>db/conf/icai/icai2003-2.html#Tnazefti-KerkeniA03</url>
+</inproceedings>
+</r>
+<r><article key="journals/cluster/ArantesSF02" mdate="2019-12-18">
+<author>Luciana Bezerra Arantes</author>
+<author>Pierre Sens 0001</author>
+<author>Bertil Folliot</author>
+<title>An Effective Logical Cache for a Clustered LRC-Based DSM System.</title>
+<pages>19-31</pages>
+<year>2002</year>
+<volume>5</volume>
+<journal>Cluster Computing</journal>
+<number>1</number>
+<url>db/journals/cluster/cluster5.html#ArantesSF02</url>
+</article>
+</r>
+<r><article key="journals/ppl/ArantesPSF01" mdate="2019-12-18">
+<author>Luciana Bezerra Arantes</author>
+<author>Denis Poitrenaud</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<author>Bertil Folliot</author>
+<title>The Barrier-Lock Clock: A Scalable Synchronization-Oriented Logical Clock.</title>
+<pages>65-76</pages>
+<year>2001</year>
+<volume>11</volume>
+<journal>Parallel Processing Letters</journal>
+<number>1</number>
+<url>db/journals/ppl/ppl11.html#ArantesPSF01</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpp/ArantesSF01" mdate="2019-12-18">
+<author orcid="0000-0002-0938-2004">Luciana Bezerra Arantes</author>
+<author>Pierre Sens 0001</author>
+<author>Bertil Folliot</author>
+<title>Enhancing the Cache Strategy of a Cluster-Based DSM System Using an Adaptive Approach.</title>
+<pages>251-258</pages>
+<year>2001</year>
+<crossref>conf/icpp/2001</crossref>
+<booktitle>ICPP</booktitle>
+<url>db/conf/icpp/icpp2001.html#ArantesSF01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cluster/ArantesSF00" mdate="2019-12-18">
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<author>Bertil Folliot</author>
+<title>The Impact of Caching in a Loosely-coupled Clustered Software DSM System.</title>
+<pages>27-34</pages>
+<year>2000</year>
+<booktitle>CLUSTER</booktitle>
+<crossref>conf/cluster/2000</crossref>
+<url>db/conf/cluster/cluster2000.html#ArantesSF00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/ArantesFS99" mdate="2019-12-18">
+<author>Luciana Bezerra Arantes</author>
+<author>Bertil Folliot</author>
+<author>Pierre Sens 0001</author>
+<title>A Node Count-Independent Logical Clock for Scaling Lazy Release Consistency Protocol.</title>
+<pages>816-822</pages>
+<year>1999</year>
+<crossref>conf/europar/1999</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar99.html#ArantesFS99</url>
+</inproceedings>
+</r>
+<coauthors n="102" nc="1">
+<co c="0"><na f="a/Aknine:Samir">Samir Aknine</na></co>
+<co c="0"><na f="a/Albuquerque:C=eacute=lio_Vinicius_N=_de">Célio Vinicius N. de Albuquerque</na></co>
+<co c="0"><na f="a/Anjos:Julio_C=_S=_dos">Julio C. S. dos Anjos</na></co>
+<co c="0"><na f="a/Araujo:Jo=atilde=o_Paulo_de">João Paulo de Araujo</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Rafael_Viana_Lopes">Rafael Viana Lopes Araújo</na></co>
+<co c="0"><na f="b/Bampis:Evripidis">Evripidis Bampis</na></co>
+<co c="0"><na f="b/Belkouch:Fatima">Fatima Belkouch</na></co>
+<co c="0"><na f="b/Bertier:Marin">Marin Bertier</na></co>
+<co c="0"><na f="b/Bessani:Alysson_Neves">Alysson Neves Bessani</na></co>
+<co c="0"><na f="b/Bonacic:Carolina">Carolina Bonacic</na></co>
+<co c="0"><na f="b/Bonnaire:Xavier">Xavier Bonnaire</na></co>
+<co c="0"><na f="b/Borges:Guilherme_A=">Guilherme A. Borges</na></co>
+<co c="0"><na f="b/Bouchenak:Sara">Sara Bouchenak</na></co>
+<co c="0"><na f="b/Bouillaguet:Mathieu">Mathieu Bouillaguet</na></co>
+<co c="0"><na f="b/Busca:Jean=Michel">Jean-Michel Busca</na></co>
+<co c="0"><na f="c/Callau=Zori:Mar">Mar Callau-Zori</na></co>
+<co c="0"><na f="c/Chabbouh:Ikram">Ikram Chabbouh</na></co>
+<co c="0"><na f="c/Cincilla:Pierpaolo">Pierpaolo Cincilla</na></co>
+<co c="0"><na f="c/Cogo:Vinicius_V=">Vinicius V. Cogo</na></co>
+<co c="0"><na f="c/Cohen:Jaime">Jaime Cohen</na></co>
+<co c="0"><na f="c/Conan:Denis">Denis Conan</na></co>
+<co c="0"><na f="c/Coriat:Florent">Florent Coriat</na></co>
+<co c="0"><na f="c/Correia_0001:Miguel">Miguel Correia 0001</na></co>
+<co c="0"><na f="c/Cort=eacute=s:Rudyar">Rudyar Cortés</na></co>
+<co c="0"><na f="c/Costa:Pedro">Pedro Costa</na></co>
+<co c="0"><na f="c/Costa:Veronica_Gil">Veronica Gil Costa</na></co>
+<co c="0"><na f="c/Coutinho:Luciano_R=">Luciano R. Coutinho</na></co>
+<co c="0"><na f="d/Demeure:Isabelle_M=">Isabelle M. Demeure</na></co>
+<co c="0"><na f="d/Drummond:L=uacute=cia_Maria_de_A=">Lúcia Maria de A. Drummond</na></co>
+<co c="0"><na f="d/Druschel:Peter">Peter Druschel</na></co>
+<co c="0" n="2"><na f="d/Duarte_Jr=:Elias_Proc=oacute=pio">Elias Procópio Duarte Jr.</na><na>Elias P. Duarte</na></co>
+<co c="0"><na f="f/Fladenmuller:Anne">Anne Fladenmuller</na></co>
+<co c="0"><na f="f/Floriano:Paulo">Paulo Floriano</na></co>
+<co c="0"><na f="f/Folliot:Bertil">Bertil Folliot</na></co>
+<co c="0"><na f="f/Friedman:Roy">Roy Friedman</na></co>
+<co c="0"><na f="g/Garcia_0001:Jo=atilde=o">João Garcia 0001</na></co>
+<co c="0" n="2"><na f="g/Geyer:Cl=aacute=udio_Fernando_Resin">Cláudio Fernando Resin Geyer</na><na>Cláudio F. R. Geyer</na></co>
+<co c="0"><na f="g/Goldman:Alfredo">Alfredo Goldman</na></co>
+<co c="0" n="2"><na f="g/Greve:Fab=iacute=ola_Gon=ccedil=alves_Pereira">Fabíola Gonçalves Pereira Greve</na><na>Fabíola Greve</na></co>
+<co c="0"><na f="h/Hidalgo:Nicolas">Nicolas Hidalgo</na></co>
+<co c="0"><na f="h/Hu:Ruijing">Ruijing Hu</na></co>
+<co c="0"><na f="i/Izurieta:Ivan_Carrera">Ivan Carrera Izurieta</na></co>
+<co c="0"><na f="j/Jeanneau:Denis">Denis Jeanneau</na></co>
+<co c="-1" n="2"><na f="k/Kerkeni:Insaf">Insaf Kerkeni</na><na>Insaf Tnazefti-Kerkeni</na></co>
+<co c="0"><na f="k/Kniess:Janine">Janine Kniess</na></co>
+<co c="0"><na f="k/Kolberg:Wagner">Wagner Kolberg</na></co>
+<co c="0"><na f="k/Kononov:Alexander_V=">Alexander V. Kononov</na></co>
+<co c="0"><na f="k/Kouki:Yousri">Yousri Kouki</na></co>
+<co c="0"><na f="l/Ledoux:Thomas">Thomas Ledoux</na></co>
+<co c="0"><na f="l/Legond=Aubry:Fabrice">Fabrice Legond-Aubry</na></co>
+<co c="0"><na f="l/Leithardt:Valderi_R=_Q=">Valderi R. Q. Leithardt</na></co>
+<co c="0"><na f="l/Lejeune:Jonathan">Jonathan Lejeune</na></co>
+<co c="0"><na f="l/Letsios:Manthos">Manthos Letsios</na></co>
+<co c="0"><na f="l/Lim:L=eacute=on">Léon Lim</na></co>
+<co c="0"><na f="l/Lima:Murilo_Santos_de">Murilo Santos de Lima</na></co>
+<co c="0"><na f="l/Lucarelli:Giorgio">Giorgio Lucarelli</na></co>
+<co c="0"><na f="m/Maia:Felipe">Felipe Maia</na></co>
+<co c="0"><na f="m/Marcondes:Cesar_A=_C=">Cesar A. C. Marcondes</na></co>
+<co c="0"><na f="m/Marcos:Pedro_de_B=">Pedro de B. Marcos</na></co>
+<co c="0"><na f="m/Mar=iacute=n:Mauricio">Mauricio Marín</na></co>
+<co c="0"><na f="m/Marin:Olivier">Olivier Marin</na></co>
+<co c="0" n="2"><na f="m/Marques:Rayrone_Zirtany_Nunes">Rayrone Zirtany Nunes Marques</na><na>Rayrone Zirtany</na></co>
+<co c="0"><na f="m/Mauffret:Etienne">Etienne Mauffret</na></co>
+<co c="0"><na f="m/Mir:Usama">Usama Mir</na></co>
+<co c="0"><na f="m/Mislove:Alan">Alan Mislove</na></co>
+<co c="0"><na f="m/Miyazaki:Alexandre_K=_S=">Alexandre K. S. Miyazaki</na></co>
+<co c="0"><na f="m/Monnet:S=eacute=bastien">Sébastien Monnet</na></co>
+<co c="0"><na f="m/Moreno:Edward">Edward Moreno</na></co>
+<co c="0"><na f="m/Muniz:Luiz_Carlos">Luiz Carlos Muniz</na></co>
+<co c="0"><na f="o/Oliveira_Jr=:Frederico_Alvares_de">Frederico Alvares de Oliveira Jr.</na></co>
+<co c="0"><na f="p/Pasin:Marcelo">Marcelo Pasin</na></co>
+<co c="0"><na f="p/Piffaretti:M=">M. Piffaretti</na></co>
+<co c="0"><na f="p/Poitrenaud:Denis">Denis Poitrenaud</na></co>
+<co c="0"><na f="p/Portugal=Poma:Lourdes_P=">Lourdes P. Portugal-Poma</na></co>
+<co c="0"><na f="p/Post:Ansley">Ansley Post</na></co>
+<co c="0" n="3"><na f="p/Potop=Butucaru:Maria">Maria Potop-Butucaru</na><na>Maria Gradinariu Potop-Butucaru</na><na>Maria Gradinariu</na></co>
+<co c="0"><na f="r/Reis:Charles">Charles Reis</na></co>
+<co c="0"><na f="r/Rieutord:Thibault">Thibault Rieutord</na></co>
+<co c="0"><na f="r/Rodrigues:Luiz_A=">Luiz A. Rodrigues</na></co>
+<co c="0"><na f="r/Rolim:Carlos_Oberdan">Carlos Oberdan Rolim</na></co>
+<co c="0"><na f="r/Rosas:Erika">Erika Rosas</na></co>
+<co c="0"><na f="r/Rossetto:Anubis_Graciela_de_Moraes">Anubis Graciela de Moraes Rossetto</na></co>
+<co c="0"><na f="s/Sato:Liria_Matsumoto">Liria Matsumoto Sato</na></co>
+<co c="0"><na f="s/Senger:Hermes">Hermes Senger</na></co>
+<co c="0"><na f="s/Sens:Luciana">Luciana Sens</na></co>
+<co c="0"><na f="s/Sens_0001:Pierre">Pierre Sens 0001</na></co>
+<co c="0"><na f="s/Serrano:Dami=aacute=n">Damián Serrano</na></co>
+<co c="0"><na f="s/Shapiro_0001:Marc">Marc Shapiro 0001</na></co>
+<co c="0"><na f="s/Silva:F=">F. Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Fabr=iacute=cio_Alves_Barbosa_da">Fabrício Alves Barbosa da Silva</na><na>Fabrício A. B. da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Francisco_Jos=eacute=_da_Silva_e">Francisco José da Silva e Silva</na><na>Francisco José Silva</na></co>
+<co c="0"><na f="s/Simon:V=eacute=ronique">Véronique Simon</na></co>
+<co c="0"><na f="s/Sopena:Julien">Julien Sopena</na></co>
+<co c="0"><na f="t/Teylo:Luan">Luan Teylo</na></co>
+<co c="0"><na f="t/Thomas_0001:Ga=euml=l">Gaël Thomas 0001</na></co>
+<co c="0"><na f="t/Tibola:Andre_Luis">Andre Luis Tibola</na></co>
+<co c="0"><na f="t/Tomsic:Alejandro_Z=">Alejandro Z. Tomsic</na></co>
+<co c="0"><na f="t/Turchetti:Rog=eacute=rio_C=">Rogério C. Turchetti</na></co>
+<co c="0"><na f="v/Vale:Samyr">Samyr Vale</na></co>
+<co c="0"><na f="v/Valero:Mathieu">Mathieu Valero</na></co>
+<co c="0"><na f="w/Wallach:Dan_S=">Dan S. Wallach</na></co>
+<co c="0"><na f="w/Willmann:Paul">Paul Willmann</na></co>
+</coauthors>
+</dblpperson>
+

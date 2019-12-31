@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Philippe Aubry" n="9">
+<person key="homepages/83/7032" mdate="2009-06-10">
+<author>Philippe Aubry</author>
+</person>
+<r><inproceedings key="conf/ijcci/AubryMV19" mdate="2019-10-17">
+<author>Philippe Aubry</author>
+<author>Jérémy Marrez</author>
+<author>Annick Valibouze</author>
+<title>The Real Transform: Computing Positive Solutions of Fuzzy Polynomial Systems.</title>
+<pages>351-359</pages>
+<year>2019</year>
+<booktitle>IJCCI</booktitle>
+<crossref>conf/ijcci/2019</crossref>
+<url>db/conf/ijcci/ijcci2019.html#AubryMV19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ejc/AubryV12" mdate="2017-05-26">
+<author>Philippe Aubry</author>
+<author>Annick Valibouze</author>
+<title>Algebraic computation of resolvents without extraneous powers.</title>
+<pages>1369-1385</pages>
+<year>2012</year>
+<volume>33</volume>
+<journal>Eur. J. Comb.</journal>
+<number>7</number>
+<url>db/journals/ejc/ejc33.html#AubryV12</url>
+</article>
+</r>
+<r><article key="journals/ijac/AubryV12" mdate="2017-05-28">
+<author>Philippe Aubry</author>
+<author>Annick Valibouze</author>
+<title>Parallel Computation of Resolvents by Multimodular Techniques and Decomposition Formula.</title>
+<year>2012</year>
+<volume>22</volume>
+<journal>IJAC</journal>
+<number>5</number>
+<url>db/journals/ijac/ijac22.html#AubryV12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/ZhaoHWA12" mdate="2019-11-19">
+<author>Ting Zhao</author>
+<author>Hoon Hong</author>
+<author>Dongming Wang 0001</author>
+<author>Philippe Aubry</author>
+<title>Real solution formulas of cubic and quartic equations applied to generate dynamic diagrams with inequality constraints.</title>
+<pages>94-101</pages>
+<year>2012</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2012</crossref>
+<url>db/conf/sac/sac2012.html#ZhaoHWA12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsc/AubryRD02" mdate="2017-05-17">
+<author>Philippe Aubry</author>
+<author>Fabrice Rouillier</author>
+<author>Mohab Safey El Din</author>
+<title>Real Solving for Positive Dimensional Systems.</title>
+<pages>543-560</pages>
+<year>2002</year>
+<volume>34</volume>
+<journal>J. Symb. Comput.</journal>
+<number>6</number>
+<url>db/journals/jsc/jsc34.html#AubryRD02</url>
+</article>
+</r>
+<r><article key="journals/jsc/AubryV00" mdate="2017-05-17">
+<author>Philippe Aubry</author>
+<author>Annick Valibouze</author>
+<title>Using Galois Ideals for Computing Relative Resolvents.</title>
+<pages>635-651</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>J. Symb. Comput.</journal>
+<number>6</number>
+<url>db/journals/jsc/jsc30.html#AubryV00</url>
+</article>
+</r>
+<r><inproceedings key="conf/adg/AubryW00" mdate="2019-11-19">
+<author>Philippe Aubry</author>
+<author>Dongming Wang 0001</author>
+<title>Reasoning about Surfaces Using Differential Zero and Ideal Decomposition.</title>
+<pages>154-174</pages>
+<year>2000</year>
+<crossref>conf/adg/2000</crossref>
+<booktitle>Automated Deduction in Geometry</booktitle>
+<url>db/conf/adg/adg2000.html#AubryW00</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsc/AubryLM99" mdate="2017-05-17">
+<author>Philippe Aubry</author>
+<author>Daniel Lazard</author>
+<author>Marc Moreno Maza</author>
+<title>On the Theories of Triangular Sets.</title>
+<pages>105-124</pages>
+<year>1999</year>
+<volume>28</volume>
+<journal>J. Symb. Comput.</journal>
+<number>1-2</number>
+<url>db/journals/jsc/jsc28.html#AubryLM99</url>
+</article>
+</r>
+<r><article key="journals/jsc/AubryM99" mdate="2018-11-14">
+<author>Philippe Aubry</author>
+<author>Marc Moreno Maza</author>
+<title>Triangular Sets for Solving Polynomial Systems: a Comparative Implementation of Four Methods.</title>
+<pages>125-154</pages>
+<year>1999</year>
+<volume>28</volume>
+<journal>J. Symb. Comput.</journal>
+<number>1-2</number>
+<url>db/journals/jsc/jsc28.html#AubryM99</url>
+</article>
+</r>
+<coauthors n="9" nc="1">
+<co c="0"><na f="d/Din:Mohab_Safey_El">Mohab Safey El Din</na></co>
+<co c="0"><na f="h/Hong:Hoon">Hoon Hong</na></co>
+<co c="0"><na f="l/Lazard:Daniel">Daniel Lazard</na></co>
+<co c="0"><na f="m/Marrez:J=eacute=r=eacute=my">Jérémy Marrez</na></co>
+<co c="0"><na f="m/Maza:Marc_Moreno">Marc Moreno Maza</na></co>
+<co c="0"><na f="r/Rouillier:Fabrice">Fabrice Rouillier</na></co>
+<co c="0"><na f="v/Valibouze:Annick">Annick Valibouze</na></co>
+<co c="0"><na f="w/Wang_0001:Dongming">Dongming Wang 0001</na></co>
+<co c="0"><na f="z/Zhao:Ting">Ting Zhao</na></co>
+</coauthors>
+</dblpperson>
+

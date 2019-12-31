@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Claude Dutheillet" n="17">
+<person key="homepages/22/2660" mdate="2009-06-09">
+<author>Claude Dutheillet</author>
+</person>
+<r><article key="journals/cma/GharbiD11" mdate="2017-05-28">
+<author>Nawel Gharbi</author>
+<author>Claude Dutheillet</author>
+<title>An algorithmic approach for analysis of finite-source retrial systems with unreliable servers.</title>
+<pages>2535-2546</pages>
+<year>2011</year>
+<volume>62</volume>
+<journal>Computers and Mathematics with Applications</journal>
+<number>6</number>
+<url>db/journals/cma/cma62.html#GharbiD11</url>
+</article>
+</r>
+<r><article key="journals/pe/BaarirBDFH11" mdate="2017-06-08">
+<author>Souheib Baarir</author>
+<author orcid="0000-0001-6125-9460">Marco Beccuti</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<author>Serge Haddad</author>
+<title>Lumping partially symmetrical stochastic models.</title>
+<pages>21-44</pages>
+<year>2011</year>
+<volume>68</volume>
+<journal>Perform. Eval.</journal>
+<number>1</number>
+<url>db/journals/pe/pe68.html#BaarirBDFH11</url>
+</article>
+</r>
+<r><article key="journals/mcm/GharbiDI09" mdate="2017-05-28">
+<author>Nawel Gharbi</author>
+<author>Claude Dutheillet</author>
+<author>Malika Ioualalen</author>
+<title>Colored stochastic Petri nets for modelling and analysis of multiclass retrial systems.</title>
+<pages>1436-1448</pages>
+<year>2009</year>
+<volume>49</volume>
+<journal>Mathematical and Computer Modelling</journal>
+<number>7-8</number>
+<url>db/journals/mcm/mcm49.html#GharbiDI09</url>
+</article>
+</r>
+<r><inproceedings key="conf/valuetools/BaarirBDF09" mdate="2017-06-05">
+<author>Souheib Baarir</author>
+<author orcid="0000-0001-6125-9460">Marco Beccuti</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<title>From partially to fully lumped Markov chains in stochastic well formed Petri nets.</title>
+<pages>43</pages>
+<year>2009</year>
+<booktitle>VALUETOOLS</booktitle>
+<crossref>conf/valuetools/2009</crossref>
+<url>db/conf/valuetools/valuetools2009.html#BaarirBDF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qest/BaarirDHI05" mdate="2017-05-26">
+<author>Souheib Baarir</author>
+<author>Claude Dutheillet</author>
+<author>Serge Haddad</author>
+<author>Jean-Michel Ilié</author>
+<title>On the use of exact lumpability in partially symmetricalWell-formed Nets.</title>
+<pages>23-32</pages>
+<year>2005</year>
+<crossref>conf/qest/2005</crossref>
+<booktitle>QEST</booktitle>
+<url>db/conf/qest/qest2005.html#BaarirDHI05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qest/IlieBBDDDFGM04" mdate="2017-05-26">
+<author>Jean-Michel Ilié</author>
+<author>Souheib Baarir</author>
+<author>Marco Beccuti</author>
+<author>Clément Delamare</author>
+<author>Susanna Donatelli</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<author>Rossano Gaeta</author>
+<author>Patrice Moreaux</author>
+<title>Extended SWN Solvers in GreatSPN.</title>
+<pages>324-325</pages>
+<year>2004</year>
+<crossref>conf/qest/2004</crossref>
+<booktitle>QEST</booktitle>
+<url>db/conf/qest/qest2004.html#IlieBBDDDFGM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/Thierry-MiegDM03" mdate="2018-11-02">
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Claude Dutheillet</author>
+<author>Isabelle Mounier</author>
+<title>Automatic Symmetry Detection in Well-Formed Nets.</title>
+<pages>82-101</pages>
+<year>2003</year>
+<crossref>conf/apn/2003</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn2003.html#Thierry-MiegDM03</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmetrics/CapraDFI01" mdate="2018-11-06">
+<author>Lorenzo Capra</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<author>Jean-Michel Ilié</author>
+<title>On the use of partial symmetries for lumping Markov chains.</title>
+<pages>33-35</pages>
+<year>2001</year>
+<volume>28</volume>
+<journal>SIGMETRICS Performance Evaluation Review</journal>
+<number>4</number>
+<url>db/journals/sigmetrics/sigmetrics28.html#CapraDFI01</url>
+</article>
+</r>
+<r><article key="journals/entcs/CapraDFI02" mdate="2017-05-28">
+<author>Lorenzo Capra</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<author>Jean-Michel Ilié</author>
+<title>Exploiting Partial Symmetries for Markov Chain Aggregation.</title>
+<year>2000</year>
+<volume>39</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<number>3</number>
+<url>db/journals/entcs/entcs39.html#CapraDFI02</url>
+<pages>231-257</pages>
+</article>
+</r>
+<r><inproceedings key="conf/mascots/CapraDFI99" mdate="2017-05-26">
+<author>Lorenzo Capra</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<author>Jean-Michel Ilié</author>
+<title>Towards Performance Analysis with Partially Symmetrical SWN.</title>
+<pages>148-155</pages>
+<year>1999</year>
+<crossref>conf/mascots/1999</crossref>
+<booktitle>MASCOTS</booktitle>
+<url>db/conf/mascots/mascots1999.html#CapraDFI99</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/ChiolaDFH97" mdate="2017-05-28">
+<author>Giovanni Chiola</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<author>Serge Haddad</author>
+<title>A Symbolic Reachability Graph for Coloured Petri Nets.</title>
+<pages>39-65</pages>
+<year>1997</year>
+<volume>176</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs176.html#ChiolaDFH97</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/BarkaouiCD95" mdate="2017-05-20">
+<author>Kamel Barkaoui</author>
+<author>Jean-Michel Couvreur</author>
+<author>Claude Dutheillet</author>
+<title>On Liveness in Extended non Self-Controlling Nets.</title>
+<pages>25-44</pages>
+<year>1995</year>
+<crossref>conf/apn/1995</crossref>
+<booktitle>Application and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn95.html#BarkaouiCD95</url>
+</inproceedings>
+</r>
+<r><article key="journals/tc/ChiolaDFH93" mdate="2017-05-20">
+<author>Giovanni Chiola</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<author>Serge Haddad</author>
+<title>Stochastic Well-Formed Colored Nets and Symmetric Modeling Applications.</title>
+<pages>1343-1360</pages>
+<year>1993</year>
+<volume>42</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>11</number>
+<url>db/journals/tc/tc42.html#ChiolaDFH93</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/BarkaouiDH93" mdate="2017-05-20">
+<author>Kamel Barkaoui</author>
+<author>Claude Dutheillet</author>
+<author>Serge Haddad</author>
+<title>An Efficient Algorithm for Finding Structural Deadlocks in Colored Petri Nets.</title>
+<pages>69-88</pages>
+<year>1993</year>
+<crossref>conf/apn/1993</crossref>
+<booktitle>Application and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn93.html#BarkaouiDH93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pnpm/DutheilletH93" mdate="2019-02-22">
+<author>Claude Dutheillet</author>
+<author>Serge Haddad</author>
+<title>Conflict sets in colored Petri nets.</title>
+<pages>76-85</pages>
+<year>1993</year>
+<booktitle>PNPM</booktitle>
+<crossref>conf/pnpm/1993</crossref>
+<url>db/conf/pnpm/pnpm1993.html#DutheilletH93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/DutheilletH89" mdate="2017-05-19">
+<author>Claude Dutheillet</author>
+<author>Serge Haddad</author>
+<title>Regular stochastic Petri nets.</title>
+<pages>186-209</pages>
+<year>1989</year>
+<crossref>conf/apn/1989</crossref>
+<booktitle>Applications and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn1989.html#DutheilletH89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pnpm/DutheilletH89" mdate="2019-02-22">
+<author>Claude Dutheillet</author>
+<author>Serge Haddad</author>
+<title>Aggregation of States in Colored Stochastic Petri Nets: Application to a Multiprocessor Architecture.</title>
+<pages>40-49</pages>
+<year>1989</year>
+<crossref>conf/pnpm/1989</crossref>
+<booktitle>PNPM</booktitle>
+<url>db/conf/pnpm/pnpm1989.html#DutheilletH89</url>
+</inproceedings>
+</r>
+<coauthors n="17" nc="1">
+<co c="0"><na f="b/Baarir:Souheib">Souheib Baarir</na></co>
+<co c="0"><na f="b/Barkaoui:Kamel">Kamel Barkaoui</na></co>
+<co c="0"><na f="b/Beccuti:Marco">Marco Beccuti</na></co>
+<co c="0"><na f="c/Capra:Lorenzo">Lorenzo Capra</na></co>
+<co c="0"><na f="c/Chiola:Giovanni">Giovanni Chiola</na></co>
+<co c="0"><na f="c/Couvreur:Jean=Michel">Jean-Michel Couvreur</na></co>
+<co c="0"><na f="d/Delamare:Cl=eacute=ment">Clément Delamare</na></co>
+<co c="0"><na f="d/Donatelli:Susanna">Susanna Donatelli</na></co>
+<co c="0"><na f="f/Franceschinis:Giuliana">Giuliana Franceschinis</na></co>
+<co c="0"><na f="g/Gaeta:Rossano">Rossano Gaeta</na></co>
+<co c="0"><na f="g/Gharbi:Nawel">Nawel Gharbi</na></co>
+<co c="0"><na f="h/Haddad:Serge">Serge Haddad</na></co>
+<co c="0"><na f="i/Ili=eacute=:Jean=Michel">Jean-Michel Ilié</na></co>
+<co c="0"><na f="i/Ioualalen:Malika">Malika Ioualalen</na></co>
+<co c="0"><na f="m/Moreaux:Patrice">Patrice Moreaux</na></co>
+<co c="0"><na f="m/Mounier:Isabelle">Isabelle Mounier</na></co>
+<co c="0"><na f="t/Thierry=Mieg:Yann">Yann Thierry-Mieg</na></co>
+</coauthors>
+</dblpperson>
+

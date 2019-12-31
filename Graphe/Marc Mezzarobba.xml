@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Marc Mezzarobba" n="25">
+<person key="homepages/60/948" mdate="2009-06-09">
+<author>Marc Mezzarobba</author>
+</person>
+<r><article key="journals/cca/KauersM19" mdate="2019-12-06">
+<author>Manuel Kauers</author>
+<author>Marc Mezzarobba</author>
+<title>Multivariate ore polynomials in SageMath.</title>
+<pages>57-60</pages>
+<year>2019</year>
+<volume>53</volume>
+<journal>ACM Comm. Computer Algebra</journal>
+<number>2</number>
+<url>db/journals/cca/cca53.html#KauersM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/issac/LairezMD19" mdate="2019-07-26">
+<author>Pierre Lairez</author>
+<author>Marc Mezzarobba</author>
+<author>Mohab Safey El Din</author>
+<title>Computing the Volume of Compact Semi-Algebraic Sets.</title>
+<pages>259-266</pages>
+<year>2019</year>
+<booktitle>ISSAC</booktitle>
+<crossref>conf/issac/2019</crossref>
+<url>db/conf/issac/issac2019.html#LairezMD19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-11705" mdate="2019-05-02">
+<author>Pierre Lairez</author>
+<author>Marc Mezzarobba</author>
+<author>Mohab Safey El Din</author>
+<title>Computing the volume of compact semi-algebraic sets.</title>
+<year>2019</year>
+<volume>abs/1904.11705</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.11705</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-11705</url>
+</article>
+</r>
+<r><article key="journals/moc/ChyzakDDM18" mdate="2018-08-08">
+<author>Frédéric Chyzak</author>
+<author>Thomas Dreyfus</author>
+<author>Philippe Dumas</author>
+<author>Marc Mezzarobba</author>
+<title>Computing solutions of linear Mahler equations.</title>
+<pages>2977-3021</pages>
+<year>2018</year>
+<volume>87</volume>
+<journal>Math. Comput.</journal>
+<number>314</number>
+<url>db/journals/moc/moc87.html#ChyzakDDM18</url>
+</article>
+</r>
+<r><article key="journals/siamsc/JohanssonM18" mdate="2019-05-31">
+<author orcid="0000-0002-7368-092X">Fredrik Johansson 0001</author>
+<author>Marc Mezzarobba</author>
+<title>Fast and Rigorous Arbitrary-Precision Computation of Gauss-Legendre Quadrature Nodes and Weights.</title>
+<pages>C726-C747</pages>
+<year>2018</year>
+<volume>40</volume>
+<journal>SIAM J. Scientific Computing</journal>
+<number>6</number>
+<url>db/journals/siamsc/siamsc40.html#JohanssonM18</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-03948" mdate="2018-08-13">
+<author>Fredrik Johansson 0001</author>
+<author>Marc Mezzarobba</author>
+<title>Fast and rigorous arbitrary-precision computation of Gauss-Legendre quadrature nodes and weights.</title>
+<year>2018</year>
+<volume>abs/1802.03948</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.03948</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-03948</url>
+</article>
+</r>
+<r><article key="journals/moc/BenoitJM17" mdate="2017-05-28">
+<author>Alexandre Benoit</author>
+<author>Mioara Joldes</author>
+<author>Marc Mezzarobba</author>
+<title>Rigorous uniform approximation of D-finite functions using Chebyshev expansions.</title>
+<pages>1303-1341</pages>
+<year>2017</year>
+<volume>86</volume>
+<journal>Math. Comput.</journal>
+<number>305</number>
+<url>db/journals/moc/moc86.html#BenoitJM17</url>
+</article>
+</r>
+<r><article key="journals/tc/BrisebarreLMM16" mdate="2017-05-20">
+<author>Nicolas Brisebarre</author>
+<author>Christoph Quirin Lauter</author>
+<author>Marc Mezzarobba</author>
+<author>Jean-Michel Muller</author>
+<title>Comparison between Binary and Decimal Floating-Point Numbers.</title>
+<pages>2032-2044</pages>
+<year>2016</year>
+<volume>65</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>7</number>
+<url>db/journals/tc/tc65.html#BrisebarreLMM16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Mezzarobba16" mdate="2018-08-13">
+<author>Marc Mezzarobba</author>
+<title>Rigorous Multiple-Precision Evaluation of D-Finite Functions in SageMath.</title>
+<year>2016</year>
+<volume>abs/1607.01967</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1607.01967</ee>
+<url>db/journals/corr/corr1607.html#Mezzarobba16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ChyzakDDM16" mdate="2018-08-13">
+<author>Frédéric Chyzak</author>
+<author>Thomas Dreyfus</author>
+<author>Philippe Dumas</author>
+<author>Marc Mezzarobba</author>
+<title>Computing solutions of linear Mahler equations.</title>
+<year>2016</year>
+<volume>abs/1612.05518</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.05518</ee>
+<url>db/journals/corr/corr1612.html#ChyzakDDM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/arith/LauterM15" mdate="2017-05-21">
+<author>Christoph Quirin Lauter</author>
+<author>Marc Mezzarobba</author>
+<title>Semi-Automatic Floating-Point Implementation of Special Functions.</title>
+<pages>58-65</pages>
+<year>2015</year>
+<booktitle>ARITH</booktitle>
+<crossref>conf/arith/2015</crossref>
+<url>db/conf/arith/arith2015.html#LauterM15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BenoitJM14" mdate="2018-08-13">
+<author>Alexandre Benoit</author>
+<author>Mioara Joldes</author>
+<author>Marc Mezzarobba</author>
+<title>Rigorous uniform approximation of D-finite functions using Chebyshev expansions.</title>
+<year>2014</year>
+<volume>abs/1407.2802</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.2802</ee>
+<url>db/journals/corr/corr1407.html#BenoitJM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/arith/BrisebarreMML13" mdate="2017-05-21">
+<author>Nicolas Brisebarre</author>
+<author>Marc Mezzarobba</author>
+<author>Jean-Michel Muller</author>
+<author>Christoph Quirin Lauter</author>
+<title>Comparison between Binary64 and Decimal64 Floating-Point Numbers.</title>
+<pages>145-152</pages>
+<year>2013</year>
+<booktitle>IEEE Symposium on Computer Arithmetic</booktitle>
+<crossref>conf/arith/2013</crossref>
+<url>db/conf/arith/arith2013.html#BrisebarreMML13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arith/ChevillardM13" mdate="2017-05-21">
+<author>Sylvain Chevillard</author>
+<author>Marc Mezzarobba</author>
+<title>Multiple-Precision Evaluation of the Airy Ai Function with Reduced Cancellation.</title>
+<pages>175-182</pages>
+<year>2013</year>
+<booktitle>IEEE Symposium on Computer Arithmetic</booktitle>
+<crossref>conf/arith/2013</crossref>
+<url>db/conf/arith/arith2013.html#ChevillardM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issac/JohanssonKM13" mdate="2018-11-06">
+<author>Fredrik Johansson 0001</author>
+<author>Manuel Kauers</author>
+<author>Marc Mezzarobba</author>
+<title>Finding hyperexponential solutions of linear ODEs by numerical evaluation.</title>
+<pages>211-218</pages>
+<year>2013</year>
+<booktitle>ISSAC</booktitle>
+<crossref>conf/issac/2013</crossref>
+<url>db/conf/issac/issac2013.html#JohanssonKM13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-2486" mdate="2018-08-13">
+<author>Fredrik Johansson 0001</author>
+<author>Manuel Kauers</author>
+<author>Marc Mezzarobba</author>
+<title>Finding Hyperexponential Solutions of Linear ODEs by Numerical Evaluation</title>
+<ee type="oa">http://arxiv.org/abs/1301.2486</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.2486</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-2486</url>
+</article>
+</r>
+<r><inproceedings key="conf/casc/Mezzarobba12" mdate="2017-05-22">
+<author>Marc Mezzarobba</author>
+<title>A Note on the Space Complexity of Fast D-Finite Function Evaluation.</title>
+<pages>212-223</pages>
+<year>2012</year>
+<booktitle>CASC</booktitle>
+<crossref>conf/casc/2012</crossref>
+<url>db/conf/casc/casc2012.html#Mezzarobba12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1209-5097" mdate="2018-08-13">
+<author>Marc Mezzarobba</author>
+<title>A Note on the Space Complexity of Fast D-Finite Function Evaluation</title>
+<ee type="oa">http://arxiv.org/abs/1209.5097</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1209.5097</volume>
+<url>db/journals/corr/corr1209.html#abs-1209-5097</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1212-4731" mdate="2018-08-13">
+<author>Sylvain Chevillard</author>
+<author>Marc Mezzarobba</author>
+<title>Multiple precision evaluation of the Airy Ai function with reduced cancellation</title>
+<ee type="oa">http://arxiv.org/abs/1212.4731</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1212.4731</volume>
+<url>db/journals/corr/corr1212.html#abs-1212-4731</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Mezzarobba11" mdate="2016-07-11">
+<author>Marc Mezzarobba</author>
+<title>Autour de l'évaluation numérique des fonctions D-finies. (Around the Numerical Evaluation of D-Finite Functions).</title>
+<year>2011</year>
+<school>École Polytechnique, Palaiseau, France</school>
+</phdthesis>
+</r>
+<r><article key="journals/jsc/MezzarobbaS10" mdate="2017-06-06">
+<author>Marc Mezzarobba</author>
+<author orcid="0000-0002-4313-0679">Bruno Salvy</author>
+<title>Effective bounds for P-recursive sequences.</title>
+<pages>1075-1096</pages>
+<year>2010</year>
+<volume>45</volume>
+<journal>J. Symb. Comput.</journal>
+<number>10</number>
+<url>db/journals/jsc/jsc45.html#MezzarobbaS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icms/BenoitCDGMS10" mdate="2017-06-04">
+<author>Alexandre Benoit</author>
+<author>Frédéric Chyzak</author>
+<author>Alexis Darrasse</author>
+<author>Stefan Gerhold</author>
+<author>Marc Mezzarobba</author>
+<author orcid="0000-0002-4313-0679">Bruno Salvy</author>
+<title>The Dynamic Dictionary of Mathematical Functions (DDMF).</title>
+<pages>35-41</pages>
+<year>2010</year>
+<booktitle>ICMS</booktitle>
+<crossref>conf/icms/2010</crossref>
+<url>db/conf/icms/icms2010.html#BenoitCDGMS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issac/Mezzarobba10" mdate="2018-11-06">
+<author>Marc Mezzarobba</author>
+<title>NumGfun: a package for numerical and analytic computation with D-finite functions.</title>
+<pages>139-145</pages>
+<year>2010</year>
+<booktitle>ISSAC</booktitle>
+<crossref>conf/issac/2010</crossref>
+<url>db/conf/issac/issac2010.html#Mezzarobba10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1002-3077" mdate="2018-08-13">
+<author>Marc Mezzarobba</author>
+<title>NumGfun: a Package for Numerical and Analytic Computation with D-finite Functions</title>
+<ee type="oa">http://arxiv.org/abs/1002.3077</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1002.3077</volume>
+<url>db/journals/corr/corr1002.html#abs-1002-3077</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-2452" mdate="2018-08-13">
+<author>Marc Mezzarobba</author>
+<author>Bruno Salvy</author>
+<title>Effective Bounds for P-Recursive Sequences</title>
+<ee type="oa">http://arxiv.org/abs/0904.2452</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.2452</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-2452</url>
+</article>
+</r>
+<coauthors n="16" nc="1">
+<co c="0"><na f="b/Benoit:Alexandre">Alexandre Benoit</na></co>
+<co c="0"><na f="b/Brisebarre:Nicolas">Nicolas Brisebarre</na></co>
+<co c="0"><na f="c/Chevillard:Sylvain">Sylvain Chevillard</na></co>
+<co c="0"><na f="c/Chyzak:Fr=eacute=d=eacute=ric">Frédéric Chyzak</na></co>
+<co c="0"><na f="d/Darrasse:Alexis">Alexis Darrasse</na></co>
+<co c="0"><na f="d/Din:Mohab_Safey_El">Mohab Safey El Din</na></co>
+<co c="0"><na f="d/Dreyfus:Thomas">Thomas Dreyfus</na></co>
+<co c="0"><na f="d/Dumas:Philippe">Philippe Dumas</na></co>
+<co c="0"><na f="g/Gerhold:Stefan">Stefan Gerhold</na></co>
+<co c="0"><na f="j/Johansson_0001:Fredrik">Fredrik Johansson 0001</na></co>
+<co c="0"><na f="j/Joldes:Mioara">Mioara Joldes</na></co>
+<co c="0"><na f="k/Kauers:Manuel">Manuel Kauers</na></co>
+<co c="0"><na f="l/Lairez:Pierre">Pierre Lairez</na></co>
+<co c="0"><na f="l/Lauter:Christoph_Quirin">Christoph Quirin Lauter</na></co>
+<co c="0"><na f="m/Muller:Jean=Michel">Jean-Michel Muller</na></co>
+<co c="0"><na f="s/Salvy:Bruno">Bruno Salvy</na></co>
+</coauthors>
+</dblpperson>
+

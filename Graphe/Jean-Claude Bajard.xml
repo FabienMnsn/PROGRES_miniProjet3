@@ -1,0 +1,758 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Jean-Claude Bajard" n="54">
+<person key="homepages/71/570" mdate="2009-06-09">
+<author>Jean-Claude Bajard</author>
+</person>
+<r><article key="journals/tc/CourtoisAB19" mdate="2019-11-26">
+<author>Jérôme Courtois</author>
+<author>Lokman A. Abbas-Turki</author>
+<author orcid="0000-0002-6301-4464">Jean-Claude Bajard</author>
+<title>Resilience of Randomized RNS Arithmetic with Respect to Side-Channel Leaks of Cryptographic Computation.</title>
+<pages>1720-1730</pages>
+<year>2019</year>
+<volume>68</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>12</number>
+<url>db/journals/tc/tc68.html#CourtoisAB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/arith/0002MBS19" mdate="2019-10-22">
+<author>Paulo Martins 0002</author>
+<author>Jérémy Marrez</author>
+<author>Jean-Claude Bajard</author>
+<author>Leonel Sousa</author>
+<title>HyPoRes: An Hybrid Representation System for ECC.</title>
+<pages>207-214</pages>
+<year>2019</year>
+<booktitle>ARITH</booktitle>
+<crossref>conf/arith/2019</crossref>
+<url>db/conf/arith/arith2019.html#0002MBS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BajardE0SZ19" mdate="2019-06-07">
+<author>Jean-Claude Bajard</author>
+<author>Julien Eynard</author>
+<author>Paulo Martins 0002</author>
+<author>Leonel Sousa</author>
+<author>Vincent Zucca</author>
+<title>An HPR variant of the FV scheme: Computationally Cheaper, Asymptotically Faster.</title>
+<pages>500</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">https://eprint.iacr.org/2019/500</ee>
+<url>db/journals/iacr/iacr2019.html#BajardE0SZ19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BajardEMSZ19" mdate="2019-11-20">
+<author>Jean-Claude Bajard</author>
+<author>Julien Eynard</author>
+<author>Paulo Martins 0002</author>
+<author>Leonel Sousa</author>
+<author>Vincent Zucca</author>
+<title>Note on the noise growth of the RNS variants of the BFV scheme.</title>
+<pages>1266</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">https://eprint.iacr.org/2019/1266</ee>
+<url>db/journals/iacr/iacr2019.html#BajardEMSZ19</url>
+</article>
+</r>
+<r><article key="journals/jce/BajardEM18" mdate="2018-11-02">
+<author orcid="0000-0002-6301-4464">Jean-Claude Bajard</author>
+<author>Julien Eynard</author>
+<author>Nabil Merkiche</author>
+<title>Montgomery reduction within the context of residue number system arithmetic.</title>
+<pages>189-200</pages>
+<year>2018</year>
+<volume>8</volume>
+<journal>J. Cryptographic Engineering</journal>
+<number>3</number>
+<url>db/journals/jce/jce8.html#BajardEM18</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/CourtoisAB18" mdate="2018-08-14">
+<author>Jérôme Courtois</author>
+<author>Lokman A. Abbas-Turki</author>
+<author>Jean-Claude Bajard</author>
+<title>Evaluation of Resilience of randomized RNS implementation.</title>
+<pages>9</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2018/009</ee>
+<url>db/journals/iacr/iacr2018.html#CourtoisAB18</url>
+</article>
+</r>
+<r><article key="journals/tc/MartinsEBS17" mdate="2019-01-16">
+<author orcid="0000-0002-0482-2808">Paulo Martins 0002</author>
+<author>Julien Eynard</author>
+<author>Jean-Claude Bajard</author>
+<author orcid="0000-0002-8066-221X">Leonel Sousa</author>
+<title>Arithmetical Improvement of the Round-Off for Cryptosystems in High-Dimensional Lattices.</title>
+<pages>2005-2018</pages>
+<year>2017</year>
+<volume>66</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>12</number>
+<url>db/journals/tc/tc66.html#MartinsEBS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/sacrypt/BajardEHMSZ17" mdate="2019-01-16">
+<author>Jean-Claude Bajard</author>
+<author>Julien Eynard</author>
+<author>M. Anwar Hasan</author>
+<author>Paulo Martins 0002</author>
+<author>Leonel Sousa</author>
+<author>Vincent Zucca</author>
+<title>Efficient Reductions in Cyclotomic Rings - Application to Ring-LWE Based FHE Schemes.</title>
+<pages>151-171</pages>
+<year>2017</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sacrypt/2017</crossref>
+<url>db/conf/sacrypt/sacrypt2017.html#BajardEHMSZ17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BajardEHMSZ17" mdate="2019-01-16">
+<author>Jean-Claude Bajard</author>
+<author>Julien Eynard</author>
+<author>M. Anwar Hasan</author>
+<author>Paulo Martins 0002</author>
+<author>Leonel Sousa</author>
+<author>Vincent Zucca</author>
+<title>Efficient reductions in cyclotomic rings - Application to R-LWE based FHE schemes.</title>
+<pages>748</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2017/748</ee>
+<url>db/journals/iacr/iacr2017.html#BajardEHMSZ17</url>
+</article>
+</r>
+<r><inproceedings key="conf/arith/BajardEM16" mdate="2017-05-21">
+<author>Jean-Claude Bajard</author>
+<author>Julien Eynard</author>
+<author>Nabil Merkiche</author>
+<title>Multi-fault Attack Detection for RNS Cryptographic Architecture.</title>
+<pages>16-23</pages>
+<year>2016</year>
+<booktitle>ARITH</booktitle>
+<crossref>conf/arith/2016</crossref>
+<url>db/conf/arith/arith2016.html#BajardEM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/BajardEHZ16" mdate="2017-10-20">
+<author>Jean-Claude Bajard</author>
+<author>Julien Eynard</author>
+<author>M. Anwar Hasan</author>
+<author>Vincent Zucca</author>
+<title>A Full RNS Variant of FV Like Somewhat Homomorphic Encryption Schemes.</title>
+<pages>423-442</pages>
+<year>2016</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sacrypt/2016</crossref>
+<url>db/conf/sacrypt/sacrypt2016.html#BajardEHZ16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BajardEHZ16" mdate="2018-08-14">
+<author>Jean-Claude Bajard</author>
+<author>Julien Eynard</author>
+<author>M. Anwar Hasan</author>
+<author>Vincent Zucca</author>
+<title>A Full RNS Variant of FV like Somewhat Homomorphic Encryption Schemes.</title>
+<pages>510</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2016/510</ee>
+<url>db/journals/iacr/iacr2016.html#BajardEHZ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/arith/BajardEMP15" mdate="2018-11-02">
+<author>Jean-Claude Bajard</author>
+<author>Julien Eynard</author>
+<author>Nabil Merkiche</author>
+<author orcid="0000-0003-2521-2520">Thomas Plantard</author>
+<title>RNS Arithmetic Approach in Lattice-Based Cryptography: Accelerating the "Rounding-off" Core Procedure.</title>
+<pages>113-120</pages>
+<year>2015</year>
+<booktitle>ARITH</booktitle>
+<crossref>conf/arith/2015</crossref>
+<url>db/conf/arith/arith2015.html#BajardEMP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/MartinsSEB15" mdate="2019-01-16">
+<author>Paulo Martins 0002</author>
+<author orcid="0000-0002-8066-221X">Leonel Sousa</author>
+<author>Julien Eynard</author>
+<author>Jean-Claude Bajard</author>
+<title>Programmable RNS lattice-based parallel cryptographic decryption.</title>
+<pages>149-153</pages>
+<year>2015</year>
+<booktitle>ASAP</booktitle>
+<crossref>conf/asap/2015</crossref>
+<url>db/conf/asap/asap2015.html#MartinsSEB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cardis/BajardM14" mdate="2017-05-23">
+<author>Jean-Claude Bajard</author>
+<author>Nabil Merkiche</author>
+<title>Double Level Montgomery Cox-Rower Architecture, New Bounds.</title>
+<pages>139-153</pages>
+<year>2014</year>
+<booktitle>CARDIS</booktitle>
+<crossref>conf/cardis/2014</crossref>
+<url>db/conf/cardis/cardis2014.html#BajardM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isicir/BajardEMP14" mdate="2018-11-02">
+<author>Jean-Claude Bajard</author>
+<author>Julien Eynard</author>
+<author>Nabil Merkiche</author>
+<author orcid="0000-0003-2521-2520">Thomas Plantard</author>
+<title>Babaï round-off CVP method in RNS: Application to lattice based cryptographic protocols.</title>
+<pages>440-443</pages>
+<year>2014</year>
+<booktitle>ISIC</booktitle>
+<crossref>conf/isicir/2014</crossref>
+<url>db/conf/isicir/isic2014.html#BajardEMP14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BajardM14" mdate="2018-08-14">
+<author>Jean-Claude Bajard</author>
+<author>Nabil Merkiche</author>
+<title>Double Level Montgomery Cox-Rower Architecture, New Bounds.</title>
+<pages>440</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2014/440</ee>
+<url>db/journals/iacr/iacr2014.html#BajardM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/arith/BajardEG13" mdate="2017-06-01">
+<author>Jean-Claude Bajard</author>
+<author>Julien Eynard</author>
+<author orcid="0000-0001-5581-1159">Filippo Gandino</author>
+<title>Fault Detection in RNS Montgomery Modular Multiplication.</title>
+<pages>119-126</pages>
+<year>2013</year>
+<booktitle>IEEE Symposium on Computer Arithmetic</booktitle>
+<crossref>conf/arith/2013</crossref>
+<url>db/conf/arith/arith2013.html#BajardEG13</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/AntaoBS12" mdate="2017-06-05">
+<author>Samuel Antao</author>
+<author>Jean-Claude Bajard</author>
+<author orcid="0000-0002-8066-221X">Leonel Sousa</author>
+<title>RNS-Based Elliptic Curve Point Multiplication for Massive Parallel Architectures.</title>
+<pages>629-647</pages>
+<year>2012</year>
+<volume>55</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj55.html#AntaoBS12</url>
+</article>
+</r>
+<r><article key="journals/tc/GandinoLPBM12" mdate="2019-06-02">
+<author orcid="0000-0001-5581-1159">Filippo Gandino</author>
+<author orcid="0000-0001-7703-1372">Fabrizio Lamberti</author>
+<author>Gianluca Paravati</author>
+<author>Jean-Claude Bajard</author>
+<author orcid="0000-0003-2563-2250">Paolo Montuschi</author>
+<title>An Algorithmic and Architectural Study on Montgomery Exponentiation in RNS.</title>
+<pages>1071-1083</pages>
+<year>2012</year>
+<volume>61</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>8</number>
+<url>db/journals/tc/tc61.html#GandinoLPBM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/arith/GandinoLMB10" mdate="2019-06-02">
+<author orcid="0000-0001-5581-1159">Filippo Gandino</author>
+<author orcid="0000-0001-7703-1372">Fabrizio Lamberti</author>
+<author orcid="0000-0003-2563-2250">Paolo Montuschi</author>
+<author>Jean-Claude Bajard</author>
+<title>A General Approach for Improving RNS Montgomery Exponentiation Using Pre-processing.</title>
+<pages>195-204</pages>
+<year>2011</year>
+<booktitle>IEEE Symposium on Computer Arithmetic</booktitle>
+<crossref>conf/arith/2010</crossref>
+<url>db/conf/arith/arith2010.html#GandinoLMB10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tc/BajardNP10" mdate="2018-11-02">
+<author>Jean-Claude Bajard</author>
+<author>Christophe Nègre</author>
+<author orcid="0000-0003-2521-2520">Thomas Plantard</author>
+<title>Subquadratic Space Complexity Binary Field Multiplier Using Double Polynomial Representation.</title>
+<pages>1585-1597</pages>
+<year>2010</year>
+<volume>59</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>12</number>
+<url>db/journals/tc/tc59.html#BajardNP10</url>
+</article>
+</r>
+<r><inproceedings key="conf/asap/AntaoBS10" mdate="2019-02-05">
+<author>Samuel Antao</author>
+<author>Jean-Claude Bajard</author>
+<author orcid="0000-0002-8066-221X">Leonel Sousa</author>
+<title>Elliptic Curve point multiplication on GPUs.</title>
+<pages>192-199</pages>
+<year>2010</year>
+<booktitle>ASAP</booktitle>
+<crossref>conf/asap/2010</crossref>
+<url>db/conf/asap/asap2010.html#AntaoBS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scn/SarrEB10" mdate="2017-05-26">
+<author>Augustin P. Sarr</author>
+<author>Philippe Elbaz-Vincent</author>
+<author>Jean-Claude Bajard</author>
+<title>A New Security Model for Authenticated Key Agreement.</title>
+<pages>219-234</pages>
+<year>2010</year>
+<booktitle>SCN</booktitle>
+<crossref>conf/scn/2010</crossref>
+<url>db/conf/scn/scn2010.html#SarrEB10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/SarrEB10" mdate="2018-08-14">
+<author>Augustin P. Sarr</author>
+<author>Philippe Elbaz-Vincent</author>
+<author>Jean-Claude Bajard</author>
+<title>A New Security Model for Authenticated Key Agreement.</title>
+<pages>237</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2010/237</ee>
+<url>db/journals/iacr/iacr2010.html#SarrEB10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BajardDE10" mdate="2018-08-14">
+<author>Jean-Claude Bajard</author>
+<author>Sylvain Duquesne</author>
+<author>Milos D. Ercegovac</author>
+<title>Combining leak-resistant arithmetic for elliptic curves defined over F<sub>p</sub> and RNS representation.</title>
+<pages>311</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2010/311</ee>
+<url>db/journals/iacr/iacr2010.html#BajardDE10</url>
+</article>
+</r>
+<r><inproceedings key="conf/arith/BajardKP09" mdate="2018-11-02">
+<author>Jean-Claude Bajard</author>
+<author>Marcelo E. Kaihara</author>
+<author orcid="0000-0003-2521-2520">Thomas Plantard</author>
+<title>Selected RNS Bases for Modular Multiplication.</title>
+<pages>25-32</pages>
+<year>2009</year>
+<booktitle>IEEE Symposium on Computer Arithmetic</booktitle>
+<crossref>conf/arith/2009</crossref>
+<url>db/conf/arith/arith2009.html#BajardKP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europki/SarrEB09" mdate="2017-05-19">
+<author>Augustin P. Sarr</author>
+<author>Philippe Elbaz-Vincent</author>
+<author>Jean-Claude Bajard</author>
+<title>A Secure and Efficient Authenticated Diffie-Hellman Protocol.</title>
+<pages>83-98</pages>
+<year>2009</year>
+<booktitle>EuroPKI</booktitle>
+<crossref>conf/europki/2009</crossref>
+<url>db/conf/europki/europki2009.html#SarrEB09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/SarrEB09" mdate="2018-08-14">
+<author>Augustin P. Sarr</author>
+<author>Philippe Elbaz-Vincent</author>
+<author>Jean-Claude Bajard</author>
+<title>A Secure and Efficient Authenticated Diffie - Hellman Protocol.</title>
+<pages>408</pages>
+<year>2009</year>
+<volume>2009</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2009/408</ee>
+<url>db/journals/iacr/iacr2009.html#SarrEB09</url>
+</article>
+</r>
+<r><article key="journals/tc/BajardIN06" mdate="2017-05-20">
+<author>Jean-Claude Bajard</author>
+<author>Laurent Imbert</author>
+<author>Christophe Nègre</author>
+<title>Arithmetic Operations in Finite Fields of Medium Prime Characteristic Using the Lagrange Representation.</title>
+<pages>1167-1177</pages>
+<year>2006</year>
+<volume>55</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>9</number>
+<url>db/journals/tc/tc55.html#BajardIN06</url>
+</article>
+</r>
+<r><inproceedings key="conf/fpl/MesquitaBTSRBM06" mdate="2017-05-21">
+<author>Daniel Mesquita</author>
+<author>Benoît Badrignans</author>
+<author>Lionel Torres</author>
+<author>Gilles Sassatelli</author>
+<author>Michel Robert</author>
+<author>Jean-Claude Bajard</author>
+<author>Fernando Gehm Moraes</author>
+<title>A Leak Resistant Architecture Against Side Channel Attacks.</title>
+<pages>1-4</pages>
+<year>2006</year>
+<crossref>conf/fpl/2006</crossref>
+<booktitle>FPL</booktitle>
+<url>db/conf/fpl/fpl2006.html#MesquitaBTSRBM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/BadrignansMBTSR06" mdate="2006-11-13">
+<author>Benoît Badrignans</author>
+<author>Daniel Mesquita</author>
+<author>Jean-Claude Bajard</author>
+<author>Lionel Torres</author>
+<author>Gilles Sassatelli</author>
+<author>Michel Robert</author>
+<title>A Parallel and Secure Architecture for Asymmetric Cryptography.</title>
+<pages>220-224</pages>
+<year>2006</year>
+<crossref>conf/recosoc/2006</crossref>
+<booktitle>ReCoSoC</booktitle>
+<url>db/conf/recosoc/ReCoSoC2006.html#BadrignansMBTSR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arith/BajardIJ05" mdate="2017-05-21">
+<author>Jean-Claude Bajard</author>
+<author>Laurent Imbert</author>
+<author>Graham A. Jullien</author>
+<title>Parallel Montgomery Multiplication in GF(2<sup>k</sup>) Using Trinomial Residue Arithmetic.</title>
+<pages>164-171</pages>
+<year>2005</year>
+<crossref>conf/arith/2005</crossref>
+<booktitle>IEEE Symposium on Computer Arithmetic</booktitle>
+<url>db/conf/arith/arith2005.html#BajardIJ05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arith/BajardIP05" mdate="2017-05-21">
+<author>Jean-Claude Bajard</author>
+<author>Laurent Imbert</author>
+<author>Thomas Plantard</author>
+<title>Arithmetic Operations in the Polynomial Modular Number System.</title>
+<pages>206-213</pages>
+<year>2005</year>
+<crossref>conf/arith/2005</crossref>
+<booktitle>IEEE Symposium on Computer Arithmetic</booktitle>
+<url>db/conf/arith/arith2005.html#BajardIP05</url>
+</inproceedings>
+</r>
+<r><article key="journals/tc/BajardI04" mdate="2017-05-20">
+<author>Jean-Claude Bajard</author>
+<author>Laurent Imbert</author>
+<title>A Full RNS Implementation of RSA.</title>
+<pages>769-774</pages>
+<year>2004</year>
+<volume>53</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>6</number>
+<url>db/journals/tc/tc53.html#BajardI04</url>
+</article>
+</r>
+<r><inproceedings key="conf/ches/BajardILT04" mdate="2017-05-21">
+<author>Jean-Claude Bajard</author>
+<author>Laurent Imbert</author>
+<author>Pierre-Yvan Liardet</author>
+<author>Yannick Teglia</author>
+<title>Leak Resistant Arithmetic.</title>
+<pages>62-75</pages>
+<year>2004</year>
+<crossref>conf/ches/2004</crossref>
+<booktitle>CHES</booktitle>
+<url>db/conf/ches/ches2004.html#BajardILT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/BajardIP04" mdate="2018-06-26">
+<author>Jean-Claude Bajard</author>
+<author>Laurent Imbert</author>
+<author>Thomas Plantard</author>
+<title>Modular Number Systems: Beyond the Mersenne Family.</title>
+<pages>159-169</pages>
+<ee type="oa">https://doi.org/10.1007/978-3-540-30564-4_11</ee>
+<year>2004</year>
+<crossref>conf/sacrypt/2004</crossref>
+<booktitle>Selected Areas in Cryptography</booktitle>
+<url>db/conf/sacrypt/sacrypt2004.html#BajardIP04</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BajardIJ04" mdate="2018-08-14">
+<author>Jean-Claude Bajard</author>
+<author>Laurent Imbert</author>
+<author>Graham A. Jullien</author>
+<title>Parallel Montgomery Multiplication in GF(2<sup>k</sup>) using Trinomial Residue Arithmetic.</title>
+<pages>279</pages>
+<year>2004</year>
+<volume>2004</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2004/279</ee>
+<url>db/journals/iacr/iacr2004.html#BajardIJ04</url>
+</article>
+</r>
+<r><article key="journals/tcs/KornerupBFM03" mdate="2017-05-28">
+<author>Peter Kornerup</author>
+<author>Jean-Claude Bajard</author>
+<author>Christiane Frougny</author>
+<author>Jean-Michel Muller</author>
+<title>Preface.</title>
+<pages>133-134</pages>
+<year>2003</year>
+<volume>291</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>2</number>
+<url>db/journals/tcs/tcs291.html#KornerupBFM03</url>
+</article>
+</r>
+<r><inproceedings key="conf/arith/BajardINP03" mdate="2017-05-21">
+<author>Jean-Claude Bajard</author>
+<author>Laurent Imbert</author>
+<author>Christophe Nègre</author>
+<author>Thomas Plantard</author>
+<title>Efficient Multiplication in GF(pk) for Elliptic Curve Cryptography.</title>
+<pages>181-187</pages>
+<year>2003</year>
+<crossref>conf/arith/2003</crossref>
+<booktitle>IEEE Symposium on Computer Arithmetic</booktitle>
+<url>db/conf/arith/arith2003.html#BajardINP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indocrypt/BajardIN02" mdate="2017-05-19">
+<author>Jean-Claude Bajard</author>
+<author>Laurent Imbert</author>
+<author>Christophe Nègre</author>
+<title>Modular Multiplication in GF(p<sup>k</sup>) Using Lagrange Representation.</title>
+<pages>275-284</pages>
+<year>2002</year>
+<crossref>conf/indocrypt/2002</crossref>
+<booktitle>INDOCRYPT</booktitle>
+<url>db/conf/indocrypt/indocrypt2002.html#BajardIN02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arith/BajardDK01" mdate="2017-05-21">
+<author>Jean-Claude Bajard</author>
+<author>Laurent-Stéphane Didier</author>
+<author>Peter Kornerup</author>
+<title>Modular Multiplication and Base Extensions in Residue Number Systems.</title>
+<pages>59-65</pages>
+<year>2001</year>
+<crossref>conf/arith/2001</crossref>
+<booktitle>IEEE Symposium on Computer Arithmetic</booktitle>
+<url>db/conf/arith/arith2001.html#BajardDK01</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/BajardFM99" mdate="2017-05-28">
+<author>Jean-Claude Bajard</author>
+<author>Christiane Frougny</author>
+<author>Jean-Michel Muller</author>
+<title>Foreword: Real Numbers and Computers.</title>
+<pages>1-2</pages>
+<year>1999</year>
+<volume>210</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/tcs/tcs210.html#BajardFM99</url>
+</article>
+</r>
+<r><article key="journals/tc/BajardDK98" mdate="2017-05-20">
+<author>Jean-Claude Bajard</author>
+<author>Laurent-Stéphane Didier</author>
+<author>Peter Kornerup</author>
+<title>An RNS Montgomery Modular Multiplication Algorithm.</title>
+<pages>766-776</pages>
+<year>1998</year>
+<volume>47</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>7</number>
+<url>db/journals/tc/tc47.html#BajardDK98</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/BajardDM98" mdate="2017-05-20">
+<author>Jean-Claude Bajard</author>
+<author>Laurent-Stéphane Didier</author>
+<author>Jean-Michel Muller</author>
+<title>A New Euclidean Division Algorithm for Residue Number Systems.</title>
+<pages>167-178</pages>
+<year>1998</year>
+<volume>19</volume>
+<journal>VLSI Signal Processing</journal>
+<number>2</number>
+<url>db/journals/vlsisp/vlsisp19.html#BajardDM98</url>
+</article>
+</r>
+<r><inproceedings key="conf/arith/BajardDK97" mdate="2017-05-21">
+<author>Jean-Claude Bajard</author>
+<author>Laurent-Stéphane Didier</author>
+<author>Peter Kornerup</author>
+<title>An IWS Montgomery Modular Multiplication Algorithm.</title>
+<pages>234-239</pages>
+<year>1997</year>
+<crossref>conf/arith/1997</crossref>
+<booktitle>IEEE Symposium on Computer Arithmetic</booktitle>
+<url>db/conf/arith/arith1997.html#BajardDK97</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/BajardFMV96" mdate="2003-11-19">
+<author>Jean-Claude Bajard</author>
+<author>Christiane Frougny</author>
+<author>Jean-Michel Muller</author>
+<author>Gilles Villard</author>
+<title>Forword to the Special Issue on Real Numbers and Computers.</title>
+<pages>1-3</pages>
+<year>1996</year>
+<volume>162</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/tcs/tcs162.html#BajardFMV96</url>
+</article>
+</r>
+<r><inproceedings key="conf/asap/BajardDM96" mdate="2017-05-26">
+<author>Jean-Claude Bajard</author>
+<author>Laurent-Stéphane Didier</author>
+<author>Jean-Michel Muller</author>
+<title>A New Euclidean Division Algorithm For Residue Number Systems.</title>
+<pages>45-54</pages>
+<year>1996</year>
+<crossref>conf/asap/1996</crossref>
+<booktitle>ASAP</booktitle>
+<url>db/conf/asap/asap1996.html#BajardDM96</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/BajardMMM95" mdate="2003-12-01">
+<author>Jean-Claude Bajard</author>
+<author>Dominique Michelucci</author>
+<author>Jean-Michel Moreau</author>
+<author>Jean-Michel Muller</author>
+<title>Introduction to the Special Issue: "Real Numbers and Computers".</title>
+<pages>436-438</pages>
+<year>1995</year>
+<volume>1</volume>
+<journal>J. UCS</journal>
+<number>7</number>
+<url>db/journals/jucs/jucs1.html#BajardMMM95</url>
+</article>
+</r>
+<r><article key="journals/jpdc/BajardDKM94" mdate="2017-05-26">
+<author>Jean-Claude Bajard</author>
+<author>Jean Duprat</author>
+<author>Sylvanus Kla</author>
+<author>Jean-Michel Muller</author>
+<title>Some Operators for On-Line Radix-2 Computations.</title>
+<pages>336-345</pages>
+<year>1994</year>
+<volume>22</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<number>2</number>
+<url>db/journals/jpdc/jpdc22.html#BajardDKM94</url>
+</article>
+</r>
+<r><article key="journals/tc/BajardKM94" mdate="2019-07-29">
+<author>Jean-Claude Bajard</author>
+<author>Sylvanus Kla</author>
+<author>Jean-Michel Muller</author>
+<title>BKM: A New Hardware Algorithm for Complex Elementary Functions.</title>
+<pages>955-963</pages>
+<year>1994</year>
+<volume>43</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>8</number>
+<url>db/journals/tc/tc43.html#BajardKM94</url>
+</article>
+</r>
+<r><inproceedings key="conf/arith/BajardKM93" mdate="2017-05-21">
+<author>Jean-Claude Bajard</author>
+<author>Sylvanus Kla</author>
+<author>Jean-Michel Muller</author>
+<title>BKM: A new hardware algorithm for complex elementary functions.</title>
+<pages>146-153</pages>
+<year>1993</year>
+<booktitle>IEEE Symposium on Computer Arithmetic</booktitle>
+<crossref>conf/arith/1993</crossref>
+<url>db/conf/arith/arith1993.html#BajardKM93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/BajardGMS93" mdate="2019-05-14">
+<author>Jean-Claude Bajard</author>
+<author>Alain Guyot</author>
+<author>Jean-Michel Muller</author>
+<author>Ali Skaf</author>
+<title>Design of a VLSI circuit for on-line evaluation of several elementary functions using their Taylor expansions.</title>
+<pages>526-535</pages>
+<year>1993</year>
+<booktitle>ASAP</booktitle>
+<crossref>conf/asap/1993</crossref>
+<url>db/conf/asap/asap1993.html#BajardGMS93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/SkafBGM93" mdate="2002-01-03">
+<author>Ali Skaf</author>
+<author>Jean-Claude Bajard</author>
+<author>Alain Guyot</author>
+<author>Jean-Michel Muller</author>
+<title>A VLSI circuit for on-line polynominal computing: Application to exponential, trigonometric and hyperbolic functions.</title>
+<pages>93-100</pages>
+<year>1993</year>
+<crossref>conf/vlsi/1993</crossref>
+<booktitle>VLSI</booktitle>
+<url>db/conf/vlsi/vlsi1993.html#SkafBGM93</url>
+</inproceedings>
+</r>
+<coauthors n="42" nc="3">
+<co c="1"><na f="a/Abbas=Turki:Lokman_A=">Lokman A. Abbas-Turki</na></co>
+<co c="0" n="2"><na f="a/Ant=atilde=o:Samuel">Samuel Antão</na><na>Samuel Antao</na></co>
+<co c="0"><na f="b/Badrignans:Beno=icirc=t">Benoît Badrignans</na></co>
+<co c="1"><na f="c/Courtois:J=eacute=r=ocirc=me">Jérôme Courtois</na></co>
+<co c="0"><na f="d/Didier:Laurent=St=eacute=phane">Laurent-Stéphane Didier</na></co>
+<co c="0"><na f="d/Duprat:Jean">Jean Duprat</na></co>
+<co c="0"><na f="d/Duquesne:Sylvain">Sylvain Duquesne</na></co>
+<co c="2"><na f="e/Elbaz=Vincent:Philippe">Philippe Elbaz-Vincent</na></co>
+<co c="0"><na f="e/Ercegovac:Milos_D=">Milos D. Ercegovac</na></co>
+<co c="0"><na f="e/Eynard:Julien">Julien Eynard</na></co>
+<co c="0"><na f="f/Frougny:Christiane">Christiane Frougny</na></co>
+<co c="0"><na f="g/Gandino:Filippo">Filippo Gandino</na></co>
+<co c="0"><na f="g/Guyot:Alain">Alain Guyot</na></co>
+<co c="0"><na f="h/Hasan:M=_Anwar">M. Anwar Hasan</na></co>
+<co c="0"><na f="i/Imbert:Laurent">Laurent Imbert</na></co>
+<co c="0"><na f="j/Jullien:Graham_A=">Graham A. Jullien</na></co>
+<co c="0"><na f="k/Kaihara:Marcelo_E=">Marcelo E. Kaihara</na></co>
+<co c="0"><na f="k/Kla:Sylvanus">Sylvanus Kla</na></co>
+<co c="0"><na f="k/Kornerup:Peter">Peter Kornerup</na></co>
+<co c="0"><na f="l/Lamberti:Fabrizio">Fabrizio Lamberti</na></co>
+<co c="0"><na f="l/Liardet:Pierre=Yvan">Pierre-Yvan Liardet</na></co>
+<co c="0"><na f="m/Marrez:J=eacute=r=eacute=my">Jérémy Marrez</na></co>
+<co c="0"><na f="m/Martins_0002:Paulo">Paulo Martins 0002</na></co>
+<co c="0"><na f="m/Merkiche:Nabil">Nabil Merkiche</na></co>
+<co c="0"><na f="m/Mesquita:Daniel">Daniel Mesquita</na></co>
+<co c="0"><na f="m/Michelucci:Dominique">Dominique Michelucci</na></co>
+<co c="0"><na f="m/Montuschi:Paolo">Paolo Montuschi</na></co>
+<co c="0"><na f="m/Moraes:Fernando_Gehm">Fernando Gehm Moraes</na></co>
+<co c="0"><na f="m/Moreau:Jean=Michel">Jean-Michel Moreau</na></co>
+<co c="0"><na f="m/Muller:Jean=Michel">Jean-Michel Muller</na></co>
+<co c="0"><na f="n/N=egrave=gre:Christophe">Christophe Nègre</na></co>
+<co c="0"><na f="p/Paravati:Gianluca">Gianluca Paravati</na></co>
+<co c="0"><na f="p/Plantard:Thomas">Thomas Plantard</na></co>
+<co c="0"><na f="r/Robert:Michel">Michel Robert</na></co>
+<co c="2"><na f="s/Sarr:Augustin_P=">Augustin P. Sarr</na></co>
+<co c="0"><na f="s/Sassatelli:Gilles">Gilles Sassatelli</na></co>
+<co c="0"><na f="s/Skaf:Ali">Ali Skaf</na></co>
+<co c="0"><na f="s/Sousa:Leonel">Leonel Sousa</na></co>
+<co c="0"><na f="t/Teglia:Yannick">Yannick Teglia</na></co>
+<co c="0"><na f="t/Torres:Lionel">Lionel Torres</na></co>
+<co c="0"><na f="v/Villard:Gilles">Gilles Villard</na></co>
+<co c="0"><na f="z/Zucca:Vincent">Vincent Zucca</na></co>
+</coauthors>
+</dblpperson>
+

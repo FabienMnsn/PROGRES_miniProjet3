@@ -1,0 +1,496 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Anne Fladenmuller" n="34">
+<person key="homepages/85/4606" mdate="2019-01-23">
+<author>Anne Fladenmuller</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www-rp.lip6.fr/~fladenmu/</url>
+<url>https://orcid.org/0000-0001-9763-0778</url>
+</person>
+<r><article key="journals/sensors/CaminhaCCFA18" mdate="2018-11-14">
+<author orcid="0000-0002-2019-133X">Pedro Henrique Cruz Caminha</author>
+<author orcid="0000-0002-6921-7756">Rodrigo De Souza Couto</author>
+<author orcid="0000-0002-7789-3359">Luís Henrique Maciel Kosmalski Costa</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Marcelo Dias de Amorim</author>
+<title>On the Coverage of Bus-Based Mobile Sensing.</title>
+<pages>1976</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Sensors</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.3390/s18061976</ee>
+<url>db/journals/sensors/sensors18.html#CaminhaCCFA18</url>
+</article>
+</r>
+<r><inproceedings key="conf/pimrc/AbuteirFF18" mdate="2019-01-03">
+<author>Rabee Mustapha Abuteir</author>
+<author>Anne Fladenmuller</author>
+<author>Olivier Fourmaux</author>
+<title>Towards Centralized Management for Video Streaming Over Enterprise Wireless LANs.</title>
+<pages>1-7</pages>
+<year>2018</year>
+<booktitle>PIMRC</booktitle>
+<crossref>conf/pimrc/2018</crossref>
+<url>db/conf/pimrc/pimrc2018.html#AbuteirFF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/AbuteirFFA17" mdate="2017-07-24">
+<author>Rabee Mustapha Abuteir</author>
+<author>Anne Fladenmuller</author>
+<author>Olivier Fourmaux</author>
+<author>Mostafa Ammar</author>
+<title>Variable-threshold buffer based adaptation for DASH mobile Video Streaming.</title>
+<pages>1-7</pages>
+<year>2017</year>
+<booktitle>IWCMC</booktitle>
+<crossref>conf/iwcmc/2017</crossref>
+<url>db/conf/iwcmc/iwcmc2017.html#AbuteirFFA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mownet/LabraouiBF17" mdate="2017-12-15">
+<author>Mohamed Labraoui</author>
+<author>Michael Mathias Boc</author>
+<author>Anne Fladenmuller</author>
+<title>Opportunistic SDN-controlled wireless mesh network for mobile traffic offloading.</title>
+<pages>1-7</pages>
+<year>2017</year>
+<booktitle>MoWNet</booktitle>
+<crossref>conf/mownet/2017</crossref>
+<url>db/conf/mownet/mownet2017.html#LabraouiBF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wowmom/LabraouiBF17" mdate="2017-07-17">
+<author>Mohamed Labraoui</author>
+<author>Michael Mathias Boc</author>
+<author>Anne Fladenmuller</author>
+<title>Self-configuration mechanisms for SDN deployment in Wireless Mesh Networks.</title>
+<pages>1-4</pages>
+<year>2017</year>
+<booktitle>WoWMoM</booktitle>
+<crossref>conf/wowmom/2017</crossref>
+<url>db/conf/wowmom/wowmom2017.html#LabraouiBF17</url>
+</inproceedings>
+</r>
+<r><article key="journals/wicomm/RagaleuxBF16" mdate="2018-11-30">
+<author>Alexandre Ragaleux</author>
+<author>Sébastien Baey</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<title>An efficient and generic downlink resource allocation procedure for pre-5G networks.</title>
+<pages>3089-3103</pages>
+<year>2016</year>
+<volume>16</volume>
+<journal>Wireless Communications and Mobile Computing</journal>
+<number>17</number>
+<url>db/journals/wicomm/wicomm16.html#RagaleuxBF16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/AbuteirFF16" mdate="2018-11-30">
+<author>Rabee Mustapha Abuteir</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Olivier Fourmaux</author>
+<title>SDN Based Architecture to Improve Video Streaming in Home Networks.</title>
+<pages>220-226</pages>
+<year>2016</year>
+<booktitle>AINA</booktitle>
+<crossref>conf/aina/2016</crossref>
+<url>db/conf/aina/aina2016.html#AbuteirFF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icufn/LabraouiCBF16" mdate="2019-05-29">
+<author>Mohamed Labraoui</author>
+<author>Charalampos Chatzinakis</author>
+<author>Michael Mathias Boc</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<title>On addressing mobility issues in Wireless Mesh Networks using Software-Defined Networking.</title>
+<pages>903-908</pages>
+<year>2016</year>
+<booktitle>ICUFN</booktitle>
+<crossref>conf/icufn/2016</crossref>
+<url>db/conf/icufn/icufn2016.html#LabraouiCBF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/AbuteirFF16" mdate="2018-11-30">
+<author>Rabee Mustapha Abuteir</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Olivier Fourmaux</author>
+<title>An SDN approach to adaptive Video Streaming in Wireless home networks.</title>
+<pages>321-326</pages>
+<year>2016</year>
+<booktitle>IWCMC</booktitle>
+<crossref>conf/iwcmc/2016</crossref>
+<url>db/conf/iwcmc/iwcmc2016.html#AbuteirFF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/LabraouiBF16" mdate="2018-11-30">
+<author>Mohamed Labraoui</author>
+<author>Michael Mathias Boc</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<title>Software Defined Networking-assisted routing in wireless mesh networks.</title>
+<pages>377-382</pages>
+<year>2016</year>
+<booktitle>IWCMC</booktitle>
+<crossref>conf/iwcmc/2016</crossref>
+<url>db/conf/iwcmc/iwcmc2016.html#LabraouiBF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/CoriatFAM16" mdate="2018-11-02">
+<author>Florent Coriat</author>
+<author>Anne Fladenmuller</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<title>Crowdsourcing-based architecture for post-disaster geolocation: A comparative performance evaluation.</title>
+<pages>1-9</pages>
+<year>2016</year>
+<booktitle>NCA</booktitle>
+<crossref>conf/nca/2016</crossref>
+<url>db/conf/nca/nca2016.html#CoriatFAM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/CoriatAMFHR14" mdate="2018-11-30">
+<author>Florent Coriat</author>
+<author>Luciana Arantes</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author orcid="0000-0003-0831-9350">Nicolas Hidalgo</author>
+<author>Erika Rosas</author>
+<title>Towards Distributed Geolocation for Large Scale Disaster Management.</title>
+<pages>70-75</pages>
+<year>2014</year>
+<booktitle>SCCC</booktitle>
+<crossref>conf/sccc/2014</crossref>
+<url>db/conf/sccc/sccc2014.html#CoriatAMFHR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wd/AkreZBKFZF14" mdate="2018-11-30">
+<author>Jean-Michel N. Akré</author>
+<author>Xiaofei Zhang</author>
+<author>Sébastien Baey</author>
+<author>Brigitte Kervella</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Mario Antonio Zancanaro</author>
+<author orcid="0000-0003-1604-0915">Mauro Fonseca</author>
+<title>Accurate 2-D localization of RFID tags using antenna transmission power control.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>Wireless Days</booktitle>
+<crossref>conf/wd/2014</crossref>
+<url>db/conf/wd/wd2014.html#AkreZBKFZF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wd/ZhangABFKZF14" mdate="2018-11-30">
+<author>Xiaofei Zhang</author>
+<author>Jean-Michel N. Akré</author>
+<author>Sébastien Baey</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Brigitte Kervella</author>
+<author>Mario Antonio Zancanaro</author>
+<author orcid="0000-0003-1604-0915">Mauro Fonseca</author>
+<title>Towards localization of RFID tags based on experimental analysis of RSSI.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>Wireless Days</booktitle>
+<crossref>conf/wd/2014</crossref>
+<url>db/conf/wd/wd2014.html#ZhangABFKZF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isspa/ToONFP12" mdate="2018-11-30">
+<author>Ba-Lam To</author>
+<author>Mohamed El Otmani</author>
+<author>Thi Mai Trang Nguyen</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Guy Pujolle</author>
+<title>Decentralized cooperative spectrum sensing for Cognitive Radio Ad-Hoc Network: Hidden terminal awareness approach.</title>
+<pages>146-151</pages>
+<year>2012</year>
+<booktitle>ISSPA</booktitle>
+<crossref>conf/isspa/2012</crossref>
+<url>db/conf/isspa/isspa2012.html#ToONFP12</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/BocFAGP11" mdate="2017-06-05">
+<author>Mathias Boc</author>
+<author>Anne Fladenmuller</author>
+<author>Marcelo Dias de Amorim</author>
+<author orcid="0000-0001-6644-0787">Laura Galluccio</author>
+<author>Sergio Palazzo</author>
+<title>Price: Hybrid geographic and co-based forwarding in delay-tolerant networks.</title>
+<pages>2352-2360</pages>
+<year>2011</year>
+<volume>55</volume>
+<journal>Computer Networks</journal>
+<number>9</number>
+<url>db/journals/cn/cn55.html#BocFAGP11</url>
+</article>
+</r>
+<r><article key="journals/winet/BocAF11" mdate="2017-05-27">
+<author>Mathias Boc</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Anne Fladenmuller</author>
+<title>Near-zero triangular location through time-slotted mobility prediction.</title>
+<pages>465-478</pages>
+<year>2011</year>
+<volume>17</volume>
+<journal>Wireless Networks</journal>
+<number>2</number>
+<url>db/journals/winet/winet17.html#BocAF11</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/BocFA08" mdate="2018-11-30">
+<author>Mathias Boc</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Marcelo Dias de Amorim</author>
+<title>Design and Evaluation of an Agenda-Based Location Service.</title>
+<pages>5399-5403</pages>
+<year>2008</year>
+<booktitle>GLOBECOM</booktitle>
+<crossref>conf/globecom/2008</crossref>
+<url>db/conf/globecom/globecom2008.html#BocFA08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wowmom/KarbaschiFW08" mdate="2017-05-26">
+<author>Golnaz Karbaschi</author>
+<author>Anne Fladenmuller</author>
+<author>Bernd E. Wolfinger</author>
+<title>Link-quality measurement enhancement for routing in wireless mesh networks.</title>
+<pages>1-9</pages>
+<year>2008</year>
+<booktitle>WOWMOM</booktitle>
+<crossref>conf/wowmom/2008</crossref>
+<url>db/conf/wowmom/wowmom2008.html#KarbaschiFW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/BocFA07" mdate="2018-11-06">
+<author>Mathias Boc</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Marcelo Dias de Amorim</author>
+<title>Otiy: locators tracking nodes.</title>
+<pages>14</pages>
+<year>2007</year>
+<booktitle>CoNEXT</booktitle>
+<crossref>conf/conext/2007</crossref>
+<url>db/conf/conext/conext2007.html#BocFA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/KarbaschiFB07" mdate="2018-11-30">
+<author>Golnaz Karbaschi</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Sébastien Baey</author>
+<title>On the Link-Quality Aware Routing in Wireless Multi-Hop Networks: A Throughput-Stability Trade-Off Study.</title>
+<pages>1-5</pages>
+<year>2007</year>
+<booktitle>PIMRC</booktitle>
+<crossref>conf/pimrc/2007</crossref>
+<url>db/conf/pimrc/pimrc2007.html#KarbaschiFB07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0709-2252" mdate="2018-08-13">
+<author>Mathias Boc</author>
+<author>Anne Fladenmuller</author>
+<author>Marcelo Dias de Amorim</author>
+<title>Otiy: Loactors tracking nodes</title>
+<ee type="oa">http://arxiv.org/abs/0709.2252</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0709.2252</volume>
+<url>db/journals/corr/corr0709.html#abs-0709-2252</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwcmc/RidouxKBFV06" mdate="2018-11-06">
+<author>Julien Ridoux</author>
+<author>Meriem Kassar</author>
+<author>Mathias Boc</author>
+<author>Anne Fladenmuller</author>
+<author>Yannis Viniotis</author>
+<title>Performance of Taroko: a cluster-based addressing and routing scheme for self-organized networks.</title>
+<pages>109-114</pages>
+<year>2006</year>
+<crossref>conf/iwcmc/2006</crossref>
+<booktitle>IWCMC</booktitle>
+<url>db/conf/iwcmc/iwcmc2006.html#RidouxKBFV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mwcn/ErmelFP06" mdate="2019-08-20">
+<author>Erwan Ermel</author>
+<author>Anne Fladenmuller</author>
+<author>Guy Pujolle</author>
+<title>Performances of geographical routing protocols combined with a position estimation process in wireless heterogenous networks.</title>
+<pages>77-88</pages>
+<year>2006</year>
+<booktitle>MWCN</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-34736-3_5</ee>
+<crossref>conf/mwcn/2006</crossref>
+<url>db/conf/mwcn/mwcn2006.html#ErmelFP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mass/KarbaschiF05" mdate="2018-11-30">
+<author>Golnaz Karbaschi</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<title>A link-quality and congestion-aware cross layer metric for multi-hop wireless routing.</title>
+<year>2005</year>
+<booktitle>MASS</booktitle>
+<crossref>conf/mass/2005</crossref>
+<url>db/conf/mass/mass2005.html#KarbaschiF05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mass/RidouxFV05" mdate="2018-11-30">
+<author>Julien Ridoux</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Yannis Viniotis</author>
+<title>Definition and evaluation of a trellis structure for self-organized networks.</title>
+<year>2005</year>
+<booktitle>MASS</booktitle>
+<crossref>conf/mass/2005</crossref>
+<url>db/conf/mass/mass2005.html#RidouxFV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/medhocnet/RidouxFV05" mdate="2018-11-02">
+<author>Julien Ridoux</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Yannis Viniotis</author>
+<title>Virtual Trellis Routing - How Regular Structures can ease Network Operations.</title>
+<pages>149-158</pages>
+<year>2005</year>
+<booktitle>Med-Hoc-Net</booktitle>
+<ee type="oa">https://doi.org/10.1007/0-387-31173-4_17</ee>
+<crossref>conf/medhocnet/2005</crossref>
+<url>db/conf/medhocnet/medhocnet2005.html#RidouxFV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/RidouxFVS05" mdate="2018-11-02">
+<author>Julien Ridoux</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Yannis Viniotis</author>
+<author>Kavé Salamatian</author>
+<title>Trellis-Based Virtual Regular Addressing Structures in Self-organized Networks.</title>
+<pages>511-522</pages>
+<year>2005</year>
+<crossref>conf/networking/2005</crossref>
+<booktitle>NETWORKING</booktitle>
+<ee type="oa">https://doi.org/10.1007/11422778_41</ee>
+<url>db/conf/networking/networking2005.html#RidouxFVS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mwcn/ErmelFPC04" mdate="2018-06-26">
+<author>Erwan Ermel</author>
+<author>Anne Fladenmuller</author>
+<author>Guy Pujolle</author>
+<author>André Cotton</author>
+<title>On Selecting Nodes to Improve Estimated Positions.</title>
+<pages>449-460</pages>
+<year>2004</year>
+<crossref>conf/mwcn/2004</crossref>
+<booktitle>MWCN</booktitle>
+<ee type="oa">https://doi.org/10.1007/0-387-23150-1_38</ee>
+<url>db/conf/mwcn/mwcn2004.html#ErmelFPC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/ErmelFPC04" mdate="2018-11-02">
+<author>Erwan Ermel</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Guy Pujolle</author>
+<author>André Cotton</author>
+<title>Improved Position Estimation in Wireless Heterogeneous Networks.</title>
+<pages>1306-1311</pages>
+<year>2004</year>
+<crossref>conf/networking/2004</crossref>
+<booktitle>NETWORKING</booktitle>
+<url>db/conf/networking/networking2004.html#ErmelFPC04</url>
+</inproceedings>
+</r>
+<r><article key="journals/monet/FladenmullerS99" mdate="2017-05-20">
+<author>Anne Fladenmuller</author>
+<author>Ranil De Silva</author>
+<title>The Effect of Mobile IP Handoffs on the Performance of TCP.</title>
+<pages>131-135</pages>
+<year>1999</year>
+<volume>4</volume>
+<journal>MONET</journal>
+<number>2</number>
+<url>db/journals/monet/monet4.html#FladenmullerS99</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifip6-3/FladenmullerS98" mdate="2002-11-21">
+<author>Anne Fladenmuller</author>
+<author>Ranil De Silva</author>
+<title>Effects of suer mobility on a TCP transmission.</title>
+<pages>275-282</pages>
+<year>1998</year>
+<crossref>conf/ifip6-3/1998</crossref>
+<booktitle>PICS</booktitle>
+<url>db/conf/ifip6-3/ifip6-3-1998.html#FladenmullerS98</url>
+</inproceedings>
+</r>
+<r><article key="journals/jhsn/RichardsSSFF96" mdate="2017-05-28">
+<author>Antony Richards</author>
+<author>Ranil De Silva</author>
+<author>Aruna Seneviratne</author>
+<author>Michael Fry</author>
+<author>Anne Fladenmuller</author>
+<title>The performance of configurable protocols.</title>
+<pages>159-172</pages>
+<year>1996</year>
+<volume>5</volume>
+<journal>J. High Speed Networks</journal>
+<number>2</number>
+<url>db/journals/jhsn/jhsn5.html#RichardsSSFF96</url>
+</article>
+</r>
+<r><inproceedings key="conf/dagstuhl/TawbiFH93" mdate="2002-08-21">
+<author>Wassim Tawbi</author>
+<author>Anne Fladenmuller</author>
+<author>Eric Horlait</author>
+<title>End-system QoS management of multimedia applications.</title>
+<pages>203-213</pages>
+<year>1993</year>
+<crossref>conf/dagstuhl/1993net</crossref>
+<booktitle>Architecture and Protocols for High-Speed Networks</booktitle>
+<url>db/conf/dagstuhl/net1993.html#TawbiFH93</url>
+</inproceedings>
+</r>
+<coauthors n="43" nc="3">
+<co c="0"><na f="a/Abuteir:Rabee_Mustapha">Rabee Mustapha Abuteir</na></co>
+<co c="0"><na f="a/Akr=eacute=:Jean=Michel_N=">Jean-Michel N. Akré</na></co>
+<co c="0"><na f="a/Ammar:Mostafa">Mostafa Ammar</na></co>
+<co c="0"><na f="a/Amorim:Marcelo_Dias_de">Marcelo Dias de Amorim</na></co>
+<co c="1"><na f="a/Arantes:Luciana">Luciana Arantes</na></co>
+<co c="0"><na f="b/Baey:S=eacute=bastien">Sébastien Baey</na></co>
+<co c="0"><na f="b/Boc:Mathias">Mathias Boc</na></co>
+<co c="2"><na f="b/Boc:Michael_Mathias">Michael Mathias Boc</na></co>
+<co c="0"><na f="c/Caminha:Pedro_Henrique_Cruz">Pedro Henrique Cruz Caminha</na></co>
+<co c="2"><na f="c/Chatzinakis:Charalampos">Charalampos Chatzinakis</na></co>
+<co c="1"><na f="c/Coriat:Florent">Florent Coriat</na></co>
+<co c="0"><na f="c/Costa:Lu=iacute=s_Henrique_Maciel_Kosmalski">Luís Henrique Maciel Kosmalski Costa</na></co>
+<co c="0"><na f="c/Cotton:Andr=eacute=">André Cotton</na></co>
+<co c="0"><na f="c/Couto:Rodrigo_De_Souza">Rodrigo De Souza Couto</na></co>
+<co c="0"><na f="e/Ermel:Erwan">Erwan Ermel</na></co>
+<co c="0"><na f="f/Fonseca:Mauro">Mauro Fonseca</na></co>
+<co c="0"><na f="f/Fourmaux:Olivier">Olivier Fourmaux</na></co>
+<co c="0"><na f="f/Fry:Michael">Michael Fry</na></co>
+<co c="0"><na f="g/Galluccio:Laura">Laura Galluccio</na></co>
+<co c="1"><na f="h/Hidalgo:Nicolas">Nicolas Hidalgo</na></co>
+<co c="0"><na f="h/Horlait:Eric">Eric Horlait</na></co>
+<co c="0"><na f="k/Karbaschi:Golnaz">Golnaz Karbaschi</na></co>
+<co c="0"><na f="k/Kassar:Meriem">Meriem Kassar</na></co>
+<co c="0"><na f="k/Kervella:Brigitte">Brigitte Kervella</na></co>
+<co c="2"><na f="l/Labraoui:Mohamed">Mohamed Labraoui</na></co>
+<co c="1"><na f="m/Marin:Olivier">Olivier Marin</na></co>
+<co c="0"><na f="n/Nguyen:Thi_Mai_Trang">Thi Mai Trang Nguyen</na></co>
+<co c="0"><na f="o/Otmani:Mohamed_El">Mohamed El Otmani</na></co>
+<co c="0"><na f="p/Palazzo:Sergio">Sergio Palazzo</na></co>
+<co c="0"><na f="p/Pujolle:Guy">Guy Pujolle</na></co>
+<co c="0"><na f="r/Ragaleux:Alexandre">Alexandre Ragaleux</na></co>
+<co c="0"><na f="r/Richards:Antony">Antony Richards</na></co>
+<co c="0"><na f="r/Ridoux:Julien">Julien Ridoux</na></co>
+<co c="1"><na f="r/Rosas:Erika">Erika Rosas</na></co>
+<co c="0"><na f="s/Salamatian:Kav=eacute=">Kavé Salamatian</na></co>
+<co c="0"><na f="s/Seneviratne:Aruna">Aruna Seneviratne</na></co>
+<co c="0"><na f="s/Silva:Ranil_De">Ranil De Silva</na></co>
+<co c="0"><na f="t/Tawbi:Wassim">Wassim Tawbi</na></co>
+<co c="0"><na f="t/To:Ba=Lam">Ba-Lam To</na></co>
+<co c="0"><na f="v/Viniotis:Yannis">Yannis Viniotis</na></co>
+<co c="0"><na f="w/Wolfinger:Bernd_E=">Bernd E. Wolfinger</na></co>
+<co c="0"><na f="z/Zancanaro:Mario_Antonio">Mario Antonio Zancanaro</na></co>
+<co c="0"><na f="z/Zhang:Xiaofei">Xiaofei Zhang</na></co>
+</coauthors>
+</dblpperson>
+

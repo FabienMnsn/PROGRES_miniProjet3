@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Mathieu Jaume" n="21">
+<person key="homepages/77/1457" mdate="2009-06-09">
+<author>Mathieu Jaume</author>
+</person>
+<r><inproceedings key="conf/icse/GeorgetJTPT17" mdate="2019-02-12">
+<author>Laurent Georget</author>
+<author>Mathieu Jaume</author>
+<author>Frederic Tronel</author>
+<author>Guillaume Piolle</author>
+<author>Valérie Viet Triem Tong</author>
+<title>Verifying the Reliability of Operating System-Level Information Flow Control Systems in Linux.</title>
+<pages>10-16</pages>
+<year>2017</year>
+<booktitle>FormaliSE@ICSE</booktitle>
+<crossref>conf/icse/2017formalise</crossref>
+<url>db/conf/icse/formalise2017.html#GeorgetJTPT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sefm/GeorgetJPTT17" mdate="2017-08-24">
+<author>Laurent Georget</author>
+<author>Mathieu Jaume</author>
+<author>Guillaume Piolle</author>
+<author>Frédéric Tronel</author>
+<author>Valérie Viet Triem Tong</author>
+<title>Information Flow Tracking for Linux Handling Concurrent System Calls and Shared Memory.</title>
+<pages>1-16</pages>
+<year>2017</year>
+<booktitle>SEFM</booktitle>
+<crossref>conf/sefm/2017</crossref>
+<url>db/conf/sefm/sefm2017.html#GeorgetJPTT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/JaumeL14" mdate="2018-09-12">
+<author>Mathieu Jaume</author>
+<author>Théo Laurent</author>
+<title>Teaching Formal Methods and Discrete Mathematics.</title>
+<booktitle>F-IDE</booktitle>
+<year>2014</year>
+<pages>30-43</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.149.4</ee>
+<ee type="oa">http://arxiv.org/abs/1404.6604</ee>
+<crossref>journals/corr/DuboisGM14</crossref>
+<url>db/series/eptcs/eptcs149.html#JaumeL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iciss/JaumeATM13" mdate="2017-05-24">
+<author>Mathieu Jaume</author>
+<author>Radoniaina Andriatsimandefitra</author>
+<author>Valérie Viet Triem Tong</author>
+<author>Ludovic Mé</author>
+<title>Secure States versus Secure Executions - From Access Control to Flow Control.</title>
+<pages>148-162</pages>
+<year>2013</year>
+<booktitle>ICISS</booktitle>
+<crossref>conf/iciss/2013</crossref>
+<url>db/conf/iciss/iciss2013.html#JaumeATM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/JaumeTH12" mdate="2017-05-20">
+<author>Mathieu Jaume</author>
+<author>Valérie Viet Triem Tong</author>
+<author>Guillaume Hiet</author>
+<title>Spécification et mécanisme de détection de flots d'information illégaux.</title>
+<pages>713-742</pages>
+<year>2012</year>
+<volume>31</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>6</number>
+<url>db/journals/tsi/tsi31.html#JaumeTH12</url>
+</article>
+</r>
+<r><inproceedings key="conf/pldi/DoligezJR12" mdate="2018-11-06">
+<author>Damien Doligez</author>
+<author>Mathieu Jaume</author>
+<author>Renaud Rioboo</author>
+<title>Development of secured systems by mixing programs, specifications and proofs in an object-oriented programming environment: a case study within the FoCaLiZe environment.</title>
+<pages>9</pages>
+<year>2012</year>
+<booktitle>PLAS</booktitle>
+<crossref>conf/pldi/2012plas</crossref>
+<url>db/conf/pldi/plas2012.html#DoligezJR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/Jaume12" mdate="2017-05-26">
+<author>Mathieu Jaume</author>
+<title>Semantic Comparison of Security Policies: From Access Control Policies to Flow Properties.</title>
+<pages>60-67</pages>
+<year>2012</year>
+<booktitle>IEEE Symposium on Security and Privacy Workshops</booktitle>
+<crossref>conf/sp/2012w</crossref>
+<url>db/conf/sp/spw2012.html#Jaume12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fps/BourdierCJK11" mdate="2017-05-24">
+<author>Tony Bourdier</author>
+<author>Horatiu Cirstea</author>
+<author>Mathieu Jaume</author>
+<author>Hélène Kirchner</author>
+<title>Formal Specification and Validation of Security Policies.</title>
+<pages>148-163</pages>
+<year>2011</year>
+<booktitle>FPS</booktitle>
+<crossref>conf/fps/2011</crossref>
+<url>db/conf/fps/fps2011.html#BourdierCJK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iciss/JaumeTM11" mdate="2017-05-24">
+<author>Mathieu Jaume</author>
+<author>Valérie Viet Triem Tong</author>
+<author>Ludovic Mé</author>
+<title>Flow Based Interpretation of Access Control: Detection of Illegal Information Flows.</title>
+<pages>72-86</pages>
+<year>2011</year>
+<booktitle>ICISS</booktitle>
+<crossref>conf/iciss/2011</crossref>
+<url>db/conf/iciss/iciss2011.html#JaumeTM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iciss/Jaume10" mdate="2017-05-24">
+<author>Mathieu Jaume</author>
+<title>Security Rules <i>versus</i> Security Properties.</title>
+<pages>231-245</pages>
+<year>2010</year>
+<booktitle>ICISS</booktitle>
+<crossref>conf/iciss/2010</crossref>
+<url>db/conf/iciss/iciss2010.html#Jaume10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/JaumeM08" mdate="2017-05-20">
+<author>Mathieu Jaume</author>
+<author>Charles Morisset</author>
+<title>Un cadre sémantique pour le contrôle d'accès.</title>
+<pages>951-976</pages>
+<year>2008</year>
+<volume>27</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>8</number>
+<url>db/journals/tsi/tsi27.html#JaumeM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEias/HabibJM08" mdate="2017-05-17">
+<author>Lionel Habib</author>
+<author>Mathieu Jaume</author>
+<author>Charles Morisset</author>
+<title>A Formal Comparison of the Bell and LaPadula and RBAC Models.</title>
+<pages>3-8</pages>
+<year>2008</year>
+<booktitle>IAS</booktitle>
+<crossref>conf/IEEEias/2008</crossref>
+<url>db/conf/IEEEias/IEEEias2008.html#HabibJM08</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/DelahayeJP05" mdate="2017-05-20">
+<author>David Delahaye</author>
+<author>Mathieu Jaume</author>
+<author>Virgile Prevosto</author>
+<title>Coq, un outil pour l'enseignement. Une expérience avec les étudiants du DESS Développement de logiciels srs.</title>
+<pages>1139-1160</pages>
+<year>2005</year>
+<volume>24</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>9</number>
+<url>db/journals/tsi/tsi24.html#DelahayeJP05</url>
+</article>
+</r>
+<r><inproceedings key="conf/itcc/JaumeM05" mdate="2017-05-26">
+<author>Mathieu Jaume</author>
+<author>Charles Morisset</author>
+<title>Formalisation and implementation of Access control models.</title>
+<pages>703-708</pages>
+<year>2005</year>
+<crossref>conf/itcc/2005-1</crossref>
+<booktitle>ITCC (1)</booktitle>
+<url>db/conf/itcc/itcc2005-1.html#JaumeM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfla/DuboisGJ03" mdate="2009-03-24">
+<author>Catherine Dubois</author>
+<author>J. Grandguillot</author>
+<author>Mathieu Jaume</author>
+<title>Réutilisation de preuves formelles : une étude pour le système FoC.</title>
+<pages>63-75</pages>
+<year>2003</year>
+<crossref>conf/jfla/2003</crossref>
+<booktitle>JFLA</booktitle>
+<url>db/conf/jfla/jfla2003.html#DuboisGJ03</url>
+</inproceedings>
+</r>
+<r><article key="journals/logcom/Jaume02" mdate="2017-05-17">
+<author>Mathieu Jaume</author>
+<title>On Greatest Fixpoint Semantics of Logic Programming.</title>
+<pages>321-342</pages>
+<year>2002</year>
+<volume>12</volume>
+<journal>J. Log. Comput.</journal>
+<number>2</number>
+<url>db/journals/logcom/logcom12.html#Jaume02</url>
+</article>
+</r>
+<r><inproceedings key="conf/csl/Jaume00" mdate="2017-05-24">
+<author>Mathieu Jaume</author>
+<title>Logic Programming and Co-inductive Definitions.</title>
+<pages>343-355</pages>
+<year>2000</year>
+<crossref>conf/csl/2000</crossref>
+<booktitle>CSL</booktitle>
+<url>db/conf/csl/csl2000.html#Jaume00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfplc/Jaume00" mdate="2004-05-24">
+<author>Mathieu Jaume</author>
+<title>Preuves infinies en Programmation logique.</title>
+<pages>33-48</pages>
+<year>2000</year>
+<crossref>conf/jfplc/2000</crossref>
+<booktitle>JFPLC</booktitle>
+<url>db/conf/jfplc/jfplc2000.html#Jaume00</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Jaume99" mdate="2016-07-14">
+<author>Mathieu Jaume</author>
+<title>Contributions à la sémantique de la programmation logique.</title>
+<year>1999</year>
+<school>École des ponts ParisTech, Champs-sur-Marne, France</school>
+</phdthesis>
+</r>
+<r><article key="journals/jar/Jaume99" mdate="2017-05-20">
+<author>Mathieu Jaume</author>
+<title>A Full Formalization of SLD-Resolution in the Calculus of Inductive Constructions.</title>
+<pages>347-371</pages>
+<year>1999</year>
+<volume>23</volume>
+<journal>J. Autom. Reasoning</journal>
+<number>3-4</number>
+<url>db/journals/jar/jar23.html#Jaume99</url>
+</article>
+</r>
+<r><inproceedings key="conf/jfplc/Jaume97" mdate="2004-05-27">
+<author>Mathieu Jaume</author>
+<title>Formalisation de la SLD-résolution dans le calcul des constructions inductives.</title>
+<pages>277-</pages>
+<year>1997</year>
+<crossref>conf/jfplc/1997</crossref>
+<booktitle>JFPLC</booktitle>
+<url>db/conf/jfplc/jfplc1997.html#Jaume97</url>
+</inproceedings>
+</r>
+<coauthors n="19" nc="4">
+<co c="0"><na f="a/Andriatsimandefitra:Radoniaina">Radoniaina Andriatsimandefitra</na></co>
+<co c="2"><na f="b/Bourdier:Tony">Tony Bourdier</na></co>
+<co c="2"><na f="c/Cirstea:Horatiu">Horatiu Cirstea</na></co>
+<co c="1"><na f="d/Delahaye:David">David Delahaye</na></co>
+<co c="1"><na f="d/Doligez:Damien">Damien Doligez</na></co>
+<co c="1"><na f="d/Dubois:Catherine">Catherine Dubois</na></co>
+<co c="0"><na f="g/Georget:Laurent">Laurent Georget</na></co>
+<co c="1"><na f="g/Grandguillot:J=">J. Grandguillot</na></co>
+<co c="3"><na f="h/Habib:Lionel">Lionel Habib</na></co>
+<co c="0"><na f="h/Hiet:Guillaume">Guillaume Hiet</na></co>
+<co c="2"><na f="k/Kirchner:H=eacute=l=egrave=ne">Hélène Kirchner</na></co>
+<co c="-1"><na f="l/Laurent:Th=eacute=o">Théo Laurent</na></co>
+<co c="0"><na f="m/M=eacute=:Ludovic">Ludovic Mé</na></co>
+<co c="3"><na f="m/Morisset:Charles">Charles Morisset</na></co>
+<co c="0"><na f="p/Piolle:Guillaume">Guillaume Piolle</na></co>
+<co c="1"><na f="p/Prevosto:Virgile">Virgile Prevosto</na></co>
+<co c="1"><na f="r/Rioboo:Renaud">Renaud Rioboo</na></co>
+<co c="0"><na f="t/Tong:Val=eacute=rie_Viet_Triem">Valérie Viet Triem Tong</na></co>
+<co c="0" n="2"><na f="t/Tronel:Fr=eacute=d=eacute=ric">Frédéric Tronel</na><na>Frederic Tronel</na></co>
+</coauthors>
+</dblpperson>
+

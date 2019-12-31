@@ -1,0 +1,854 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Dimitri Galayko" n="57">
+<person key="homepages/48/6839" mdate="2018-03-12">
+<author>Dimitri Galayko</author>
+<url>https://orcid.org/0000-0002-7056-7489</url>
+</person>
+<r><article key="journals/tcas/GalaykoSZJKABCB19" mdate="2019-11-07">
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>Chuan Shan</author>
+<author>Eldar Zianbetov</author>
+<author>Mohammad Javidan</author>
+<author orcid="0000-0002-4732-4470">Anton Korniienko</author>
+<author>François Anceau</author>
+<author>Olivier Billoint</author>
+<author>Éric Colinet</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author>Jérôme Juillard</author>
+<title>Synchronized Interconnected ADPLLs for Distributed Clock Generation in 65 nm CMOS Technology.</title>
+<pages>1673-1677</pages>
+<year>2019</year>
+<volume>66-II</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>10</number>
+<url>db/journals/tcas/tcasII66.html#GalaykoSZJKABCB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/smacd/DooleyBMG19" mdate="2019-08-23">
+<author>C. Dooley</author>
+<author>Elena Blokhina</author>
+<author>B. Mulkeen</author>
+<author>Dimitri Galayko</author>
+<title>FPGA Based Modelling of an ADPLL Network.</title>
+<pages>289-292</pages>
+<year>2019</year>
+<booktitle>SMACD</booktitle>
+<crossref>conf/smacd/2019</crossref>
+<url>db/conf/smacd/smacd2019.html#DooleyBMG19</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/KoskinGB18" mdate="2018-11-02">
+<author orcid="0000-0002-4253-0312">Eugene Koskin</author>
+<author>Dimitri Galayko</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<title>A Concept of Synchronous ADPLL Networks in Application to Small-Scale Antenna Arrays.</title>
+<pages>18723-18730</pages>
+<year>2018</year>
+<volume>6</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2018.2804324</ee>
+<url>db/journals/access/access6.html#KoskinGB18</url>
+</article>
+</r>
+<r><article key="journals/tcas/KoskinGFB18" mdate="2018-07-10">
+<author orcid="0000-0002-4253-0312">Eugene Koskin</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author orcid="0000-0003-3426-6854">Orla Feely</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<title>Generation of a Clocking Signal in Synchronized All-Digital PLL Networks.</title>
+<pages>809-813</pages>
+<year>2018</year>
+<volume>65-II</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>6</number>
+<url>db/journals/tcas/tcasII65.html#KoskinGFB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icecsys/GalaykoKBB18" mdate="2019-01-24">
+<author>Dimitri Galayko</author>
+<author>Armine Karami</author>
+<author>Philippe Basset</author>
+<author>Elena Blokhina</author>
+<title>Kinetic Energy Harvesting for the IoT: Perspectives and Challenges for the Next Decade.</title>
+<pages>593-596</pages>
+<year>2018</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2018</crossref>
+<url>db/conf/icecsys/icecsys2018.html#GalaykoKBB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/KoskinGB18" mdate="2018-10-24">
+<author>Eugene Koskin</author>
+<author>Dimitri Galayko</author>
+<author>Elena Blokhina</author>
+<title>Averaging Techniques for the Analysis of Event Driven Models of All Digital PLLs.</title>
+<pages>1-5</pages>
+<year>2018</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2018</crossref>
+<url>db/conf/iscas/iscas2018.html#KoskinGB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ShimizuALSCG18" mdate="2018-10-24">
+<author>Naohiko Shimizu</author>
+<author>Junichi Akita</author>
+<author>Marie-Minerve Louërat</author>
+<author>Haralampos-G. D. Stratigopoulos</author>
+<author>Jean-Paul Chaput</author>
+<author>Dimitri Galayko</author>
+<title>Open Source Hardware and EDA Tools for Analog/Mixed-Signal Design and Prototyping.</title>
+<pages>1-5</pages>
+<year>2018</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2018</crossref>
+<url>db/conf/iscas/iscas2018.html#ShimizuALSCG18</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcas/KaramiGB17" mdate="2017-06-14">
+<author orcid="0000-0003-0015-9284">Armine Karami</author>
+<author>Dimitri Galayko</author>
+<author>Philippe Basset</author>
+<title>Series-Parallel Charge Pump Conditioning Circuits for Electrostatic Kinetic Energy Harvesting.</title>
+<pages>227-240</pages>
+<year>2017</year>
+<volume>64-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>1</number>
+<url>db/journals/tcas/tcasI64.html#KaramiGB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/KaramiGBB17" mdate="2018-11-02">
+<author>Armine Karami</author>
+<author>Dimitri Galayko</author>
+<author orcid="0000-0003-2160-8982">Mohammed Bedier</author>
+<author>Philippe Basset</author>
+<pages>1-4</pages>
+<year>2017</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2017</crossref>
+<url>db/conf/iscas/iscas2017.html#KaramiGBB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/KoskinGFB17" mdate="2018-11-02">
+<author>Eugene Koskin</author>
+<author>Dimitri Galayko</author>
+<author>Orla Feely</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<title>Semianalytical model for high speed analysis of all-digital PLL clock-generating networks.</title>
+<pages>1-4</pages>
+<year>2017</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2017</crossref>
+<url>db/conf/iscas/iscas2017.html#KoskinGFB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/BedierKGB17" mdate="2018-11-02">
+<author orcid="0000-0003-2160-8982">Mohammed Bedier</author>
+<author>Armine Karami</author>
+<author>Dimitri Galayko</author>
+<author>Philippe Basset</author>
+<title>Autonomous energy management interface for electrostatic series-parallel charge pump vibrational energy harvester.</title>
+<pages>385-388</pages>
+<year>2017</year>
+<booktitle>NEWCAS</booktitle>
+<crossref>conf/newcas/2017</crossref>
+<url>db/conf/newcas/newcas2017.html#BedierKGB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/BedierG16" mdate="2018-11-02">
+<author orcid="0000-0003-2160-8982">Mohammed Bedier</author>
+<author>Dimitri Galayko</author>
+<title>A smart energy extraction interface for electrostatic vibrational energy harvester.</title>
+<pages>425-426</pages>
+<year>2016</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2016</crossref>
+<url>db/conf/icecsys/icecsys2016.html#BedierG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/ORiordanBG16" mdate="2018-11-02">
+<author>Eoghan O'Riordan</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author>Dimitri Galayko</author>
+<title>Electromechanical coupling in electrostatic kinetic energy harvesters.</title>
+<pages>436-437</pages>
+<year>2016</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2016</crossref>
+<url>db/conf/icecsys/icecsys2016.html#ORiordanBG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/BlokhinaG16" mdate="2018-11-02">
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author>Dimitri Galayko</author>
+<title>Towards autonomous microscale systems: Progress in electrostatic kinetic energy harvesting.</title>
+<pages>744-747</pages>
+<year>2016</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2016</crossref>
+<url>db/conf/icecsys/icecsys2016.html#BlokhinaG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/BedierG16" mdate="2018-11-02">
+<author orcid="0000-0003-2160-8982">Mohammed Bedier</author>
+<author>Dimitri Galayko</author>
+<title>Multiple energy-shot load interface for electrostatic vibrational energy harvesters.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>NEWCAS</booktitle>
+<crossref>conf/newcas/2016</crossref>
+<url>db/conf/newcas/newcas2016.html#BedierG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/KoskinBSZFG16" mdate="2017-06-15">
+<author>Eugene Koskin</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author>Chuan Shan</author>
+<author>Eldar Zianbetov</author>
+<author orcid="0000-0003-3426-6854">Orla Feely</author>
+<author>Dimitri Galayko</author>
+<title>Discrete-time modelling and experimental validation of an All-Digital PLL for clock-generating networks.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>NEWCAS</booktitle>
+<crossref>conf/newcas/2016</crossref>
+<url>db/conf/newcas/newcas2016.html#KoskinBSZFG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcas/GalaykoDKOBFB15" mdate="2017-06-14">
+<author>Dimitri Galayko</author>
+<author>Andrii Dudka</author>
+<author>Armine Karami</author>
+<author>Eoghan O'Riordan</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author orcid="0000-0003-3426-6854">Orla Feely</author>
+<author>Philippe Basset</author>
+<pages>2652-2663</pages>
+<year>2015</year>
+<volume>62-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>11</number>
+<url>db/journals/tcas/tcasI62.html#GalaykoDKOBFB15</url>
+</article>
+</r>
+<r><article key="journals/tcas/ORiordanDGBFB15" mdate="2017-06-14">
+<author>Eoghan O'Riordan</author>
+<author>Andrii Dudka</author>
+<author>Dimitri Galayko</author>
+<author>Philippe Basset</author>
+<author orcid="0000-0003-3426-6854">Orla Feely</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<pages>2664-2673</pages>
+<year>2015</year>
+<volume>62-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>11</number>
+<url>db/journals/tcas/tcasI62.html#ORiordanDGBFB15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnn/KoskinGFB15" mdate="2017-06-15">
+<author>Eugene Koskin</author>
+<author>Dimitri Galayko</author>
+<author orcid="0000-0003-3426-6854">Orla Feely</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<title>Mode-locking in a network of kuramoto-like oscillators.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>IJCNN</booktitle>
+<crossref>conf/ijcnn/2015</crossref>
+<url>db/conf/ijcnn/ijcnn2015.html#KoskinGFB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/BlokhinaOAGPPFG15" mdate="2017-06-15">
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author>Diarmuid O'Connell</author>
+<author>Dennis Andrade-Miceli</author>
+<author>Sergi Gorreta-Marine</author>
+<author>Joan Pons-Nin</author>
+<author>Manuel Domínguez Pumar</author>
+<author orcid="0000-0003-3426-6854">Orla Feely</author>
+<author>Dimitri Galayko</author>
+<title>Understanding complexity in multiphysics systems-on-a-chip: Modern approaches for design.</title>
+<pages>1546-1549</pages>
+<year>2015</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2015</crossref>
+<url>db/conf/iscas/iscas2015.html#BlokhinaOAGPPFG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/HarteOBFG15" mdate="2017-06-15">
+<author>Peter Harte</author>
+<author>Eoghan O'Riordan</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author orcid="0000-0003-3426-6854">Orla Feely</author>
+<author>Dimitri Galayko</author>
+<title>Universal nonlinear phenomena in a class of electronic oscillators.</title>
+<pages>1706-1709</pages>
+<year>2015</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2015</crossref>
+<url>db/conf/iscas/iscas2015.html#HarteOBFG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/ShanZABG15" mdate="2017-05-24">
+<author>Chuan Shan</author>
+<author>Eldar Zianbetov</author>
+<author>François Anceau</author>
+<author>Olivier Billoint</author>
+<author>Dimitri Galayko</author>
+<title>A distributed synchronization of all-digital PLLs network for clock generation in synchronous SOCs.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>NEWCAS</booktitle>
+<crossref>conf/newcas/2015</crossref>
+<url>db/conf/newcas/newcas2015.html#ShanZABG15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijbc/HarteBFFG14" mdate="2017-06-15">
+<author>Peter Harte</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author orcid="0000-0003-3426-6854">Orla Feely</author>
+<author>Daniele Fournier-Prunaret</author>
+<author>Dimitri Galayko</author>
+<title>Electrostatic Vibration Energy Harvesters with Linear and Nonlinear Resonators.</title>
+<year>2014</year>
+<volume>24</volume>
+<journal>I. J. Bifurcation and Chaos</journal>
+<number>11</number>
+<url>db/journals/ijbc/ijbc24.html#HarteBFFG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icecsys/GalaykoDB14" mdate="2017-05-23">
+<author>Dimitri Galayko</author>
+<author>Andrii Dudka</author>
+<author>Philippe Basset</author>
+<title>Capacitive kinetic energy harvesting: System-level engineering challenges.</title>
+<pages>882-885</pages>
+<year>2014</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2014</crossref>
+<url>db/conf/icecsys/icecsys2014.html#GalaykoDB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ORiordanBFG14" mdate="2017-06-15">
+<author>Eoghan O'Riordan</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author orcid="0000-0003-3426-6854">Orla Feely</author>
+<author>Dimitri Galayko</author>
+<title>Modelling and analysis of vibration energy harvesters with charge pump conditioning circuits.</title>
+<pages>1247-1250</pages>
+<year>2014</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2014</crossref>
+<url>db/conf/iscas/iscas2014.html#ORiordanBFG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/GalaykoBZDACKJB14" mdate="2017-06-15">
+<author>Dimitri Galayko</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author>Eldar Zianbetov</author>
+<author>Andrii Dudka</author>
+<author>François Anceau</author>
+<author>Éric Colinet</author>
+<author orcid="0000-0002-4732-4470">Anton Korniienko</author>
+<author>Jérôme Juillard</author>
+<author>Philippe Basset</author>
+<title>Complexity in heterogeneous systems on chips: Dsign and analysis challenges.</title>
+<pages>1997-2000</pages>
+<year>2014</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2014</crossref>
+<url>db/conf/iscas/iscas2014.html#GalaykoBZDACKJB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/DudkaGBB14" mdate="2017-06-15">
+<author>Andrii Dudka</author>
+<author>Dimitri Galayko</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author>Philippe Basset</author>
+<title>Smart integrated conditioning electronics for electrostatic vibration energy harvesters.</title>
+<pages>2600-2603</pages>
+<year>2014</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2014</crossref>
+<url>db/conf/iscas/iscas2014.html#DudkaGBB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/BlokhinaOFG14" mdate="2017-06-15">
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author>Eoghan O'Riordan</author>
+<author orcid="0000-0003-3426-6854">Orla Feely</author>
+<author>Dimitri Galayko</author>
+<title>Nonlinearities in electrostatic vibration energy harvesters: A review using the example of a charge pump conditioning circuit.</title>
+<pages>2604-2607</pages>
+<year>2014</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2014</crossref>
+<url>db/conf/iscas/iscas2014.html#BlokhinaOFG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ShanAGZ14" mdate="2017-05-26">
+<author>Chuan Shan</author>
+<author>François Anceau</author>
+<author>Dimitri Galayko</author>
+<author>Eldar Zianbetov</author>
+<title>"Swimming pool"-like distributed architecture for clock generation in large many-core SoC.</title>
+<pages>2768-2771</pages>
+<year>2014</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2014</crossref>
+<url>db/conf/iscas/iscas2014.html#ShanAGZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/ShanGAZ14" mdate="2017-05-25">
+<author>Chuan Shan</author>
+<author>Dimitri Galayko</author>
+<author>François Anceau</author>
+<author>Eldar Zianbetov</author>
+<title>A reconfigurable distributed architecture for clock generation in large many-core SoC.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>ReCoSoC</booktitle>
+<crossref>conf/recosoc/2014</crossref>
+<url>db/conf/recosoc/ReCoSoC2014.html#ShanGAZ14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcas/BlokhinaGBF13" mdate="2017-06-14">
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>Philippe Basset</author>
+<author orcid="0000-0003-3426-6854">Orla Feely</author>
+<title>Steady-State Oscillations in Resonant Electrostatic Vibration Energy Harvesters.</title>
+<pages>875-884</pages>
+<year>2013</year>
+<volume>60-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>4</number>
+<url>db/journals/tcas/tcasI60.html#BlokhinaGBF13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cicc/ZianbetovGAJSBKCSAJ13" mdate="2017-06-02">
+<author>Eldar Zianbetov</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>François Anceau</author>
+<author>Mohammad Javidan</author>
+<author>Chuan Shan</author>
+<author>Olivier Billoint</author>
+<author orcid="0000-0002-4732-4470">Anton Korniienko</author>
+<author>Éric Colinet</author>
+<author>Gérard Scorletti</author>
+<author>J. M. Akrea</author>
+<author>Jérôme Juillard</author>
+<title>Distributed clock generator for synchronous SoC using ADPLL network.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>CICC</booktitle>
+<crossref>conf/cicc/2013</crossref>
+<url>db/conf/cicc/cicc2013.html#ZianbetovGAJSBKCSAJ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/GalaykoB13" mdate="2017-06-15">
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<title>Nonlinear effects in electrostatic vibration energy harvesters: Current progress and perspectives.</title>
+<pages>2719-2722</pages>
+<year>2013</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2013</crossref>
+<url>db/conf/iscas/iscas2013.html#GalaykoB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/BlokhinaFHGF13" mdate="2017-06-15">
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author>Daniele Fournier-Prunaret</author>
+<author>Peter Harte</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author orcid="0000-0003-3426-6854">Orla Feely</author>
+<title>Combined mechanical and circuit nonlinearities in electrostatic vibration energy harvesters.</title>
+<pages>2739-2742</pages>
+<year>2013</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2013</crossref>
+<url>db/conf/iscas/iscas2013.html#BlokhinaFHGF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/ShanGA13" mdate="2017-05-21">
+<author>Chuan Shan</author>
+<author>Dimitri Galayko</author>
+<author>François Anceau</author>
+<title>On-chip clock error characterization for clock distribution system.</title>
+<pages>102-108</pages>
+<year>2013</year>
+<booktitle>ISVLSI</booktitle>
+<crossref>conf/isvlsi/2013</crossref>
+<url>db/conf/isvlsi/isvlsi2013.html#ShanGA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/ShanZYABG13" mdate="2017-05-21">
+<author>Chuan Shan</author>
+<author>Eldar Zianbetov</author>
+<author>Weiqiang Yu</author>
+<author>François Anceau</author>
+<author>Olivier Billoint</author>
+<author>Dimitri Galayko</author>
+<title>FPGA prototyping of large reconfigurable ADPLL network for distributed clock generation.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2013</crossref>
+<url>db/conf/reconfig/reconfig2013.html#ShanZYABG13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcas/AkreJGC12" mdate="2017-06-08">
+<author>Jean-Michel Akre</author>
+<author>Jérôme Juillard</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>Éric Colinet</author>
+<title>Synchronization Analysis of Networks of Self-Sampled All-Digital Phase-Locked Loops.</title>
+<pages>708-720</pages>
+<year>2012</year>
+<volume>59-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>4</number>
+<url>db/journals/tcas/tcasI59.html#AkreJGC12</url>
+</article>
+</r>
+<r><inproceedings key="conf/greencom/DudkaGB12" mdate="2017-06-02">
+<author>Andrii Dudka</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>Philippe Basset</author>
+<title>Design of Controller IC for Asynchronous Conditioning Circuit of an Electrostatic Vibration Energy Harvester.</title>
+<pages>660-663</pages>
+<year>2012</year>
+<booktitle>GreenCom</booktitle>
+<crossref>conf/greencom/2012</crossref>
+<url>db/conf/greencom/greencom2012.html#DudkaGB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/BlokhinaGWBF12" mdate="2017-06-15">
+<author orcid="0000-0002-4164-4350">Elena Blokhina</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>Rhona Wade</author>
+<author>Philippe Basset</author>
+<author orcid="0000-0003-3426-6854">Orla Feely</author>
+<title>Bifurcations and chaos in electrostatic vibration energy harvesters.</title>
+<pages>397-400</pages>
+<year>2012</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2012</crossref>
+<url>db/conf/iscas/iscas2012.html#BlokhinaGWBF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/ShanGA12" mdate="2018-11-02">
+<author>Chuan Shan</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>François Anceau</author>
+<title>Design and Modeling of ADPLL with sliding-window for wide range frequency tracking.</title>
+<pages>269-272</pages>
+<year>2012</year>
+<booktitle>NEWCAS</booktitle>
+<crossref>conf/newcas/2012</crossref>
+<url>db/conf/newcas/newcas2012.html#ShanGA12</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcas/GalaykoB11" mdate="2017-06-08">
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>Philippe Basset</author>
+<title>A General Analytical Tool for the Design of Vibration Energy Harvesters (VEHs) Based on the Mechanical Impedance Concept.</title>
+<pages>299-311</pages>
+<year>2011</year>
+<volume>58-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>2</number>
+<url>db/journals/tcas/tcasI58.html#GalaykoB11</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecctd/AkreJJZGKC11" mdate="2017-06-02">
+<author>Jean-Michel Akre</author>
+<author>Jérôme Juillard</author>
+<author>Mohammad Javidan</author>
+<author>Eldar Zianbetov</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author orcid="0000-0002-4732-4470">Anton Korniienko</author>
+<author>Éric Colinet</author>
+<title>A design approach for networks of Self-Sampled All-Digital Phase-Locked Loops.</title>
+<pages>725-728</pages>
+<year>2011</year>
+<crossref>conf/ecctd/2011</crossref>
+<booktitle>ECCTD</booktitle>
+<url>db/conf/ecctd/ecctd2011.html#AkreJJZGKC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/ShanZJATFGRCJ11" mdate="2018-11-02">
+<author>Chuan Shan</author>
+<author>Eldar Zianbetov</author>
+<author>Mohammad Javidan</author>
+<author>François Anceau</author>
+<author>Mehdi Terosiet</author>
+<author>Sylvain Feruglio</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Éric Colinet</author>
+<author>Jérôme Juillard</author>
+<title>FPGA implementation of reconfigurable ADPLL network for distributed clock generation.</title>
+<pages>1-4</pages>
+<year>2011</year>
+<booktitle>FPT</booktitle>
+<crossref>conf/fpt/2011</crossref>
+<url>db/conf/fpt/fpt2011.html#ShanZJATFGRCJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/FlorentinoFSFG11" mdate="2017-06-04">
+<author>Helder R. Florentino</author>
+<author orcid="0000-0002-5395-7143">Raimundo C. S. Freire</author>
+<author>Alan V. S. Sà</author>
+<author>Caio Florentino</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<title>Electrostatic vibration energy harvester with piezoelectric start-up generator.</title>
+<pages>1343-1346</pages>
+<year>2011</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2011</crossref>
+<url>db/conf/iscas/iscas2011.html#FlorentinoFSFG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/JavidanZAGCJ11" mdate="2017-06-04">
+<author>Mohammad Javidan</author>
+<author>Eldar Zianbetov</author>
+<author>François Anceau</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>Éric Colinet</author>
+<author>Jérôme Juillard</author>
+<title>A novel technique to reduce the metastability of Bang-Bang Phase Frequency Detectors.</title>
+<pages>2577-2580</pages>
+<year>2011</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2011</crossref>
+<url>db/conf/iscas/iscas2011.html#JavidanZAGCJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/JavidanZAGKCSAJ11" mdate="2017-06-04">
+<author>Mohammad Javidan</author>
+<author>Eldar Zianbetov</author>
+<author>François Anceau</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author orcid="0000-0002-4732-4470">Anton Korniienko</author>
+<author>Éric Colinet</author>
+<author>Gérard Scorletti</author>
+<author>Jean-Michel Akre</author>
+<author>Jérôme Juillard</author>
+<title>All-digital PLL array provides reliable distributed clock for SOCs.</title>
+<pages>2589-2592</pages>
+<year>2011</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2011</crossref>
+<url>db/conf/iscas/iscas2011.html#JavidanZAGKCSAJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ZianbetovAJGCJ11" mdate="2017-06-04">
+<author>Eldar Zianbetov</author>
+<author>François Anceau</author>
+<author>Mohammad Javidan</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>Éric Colinet</author>
+<author>Jérôme Juillard</author>
+<title>A Digitally Controlled Oscillator in a 65-nm CMOS process for SoC clock generation.</title>
+<pages>2845-2848</pages>
+<year>2011</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2011</crossref>
+<url>db/conf/iscas/iscas2011.html#ZianbetovAJGCJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmas/KhalilDGIB10" mdate="2017-06-01">
+<author>Raouf Khalil</author>
+<author>Andrii Dudka</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>Ramy Iskander</author>
+<author>Philippe Basset</author>
+<title>Design and modeling of a successive approximation ADC for the electrostatic harvester of vibration energy.</title>
+<pages>57-62</pages>
+<year>2010</year>
+<booktitle>BMAS</booktitle>
+<crossref>conf/bmas/2010</crossref>
+<url>db/conf/bmas/bmas2010.html#KhalilDGIB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/KorniienkoCSBGJ10" mdate="2017-06-04">
+<author orcid="0000-0002-4732-4470">Anton Korniienko</author>
+<author>Éric Colinet</author>
+<author>Gérard Scorletti</author>
+<author>Eric Blanco</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>Jérôme Juillard</author>
+<title>A clock network of distributed ADPLLs using an asymmetric comparison strategy.</title>
+<pages>3212-3215</pages>
+<year>2010</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2010</crossref>
+<url>db/conf/iscas/iscas2010.html#KorniienkoCSBGJ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmas/DudkaGB09" mdate="2017-06-01">
+<author>Andrii Dudka</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>Philippe Basset</author>
+<title>VHDL-AMS modeling of adaptive electrostatic harvester of vibration energy with dual-output DC-DC converter.</title>
+<pages>13-18</pages>
+<year>2009</year>
+<booktitle>BMAS</booktitle>
+<crossref>conf/bmas/2009</crossref>
+<url>db/conf/bmas/bmas2009.html#DudkaGB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmas/CaluwaertsGB08" mdate="2017-06-01">
+<author>Ken Caluwaerts</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>Philippe Basset</author>
+<title>SystemC-AMS Heterogeneous Modeling of a Capacitive Harvester of Vibration Energy.</title>
+<pages>142-147</pages>
+<year>2008</year>
+<booktitle>BMAS</booktitle>
+<crossref>conf/bmas/2008</crossref>
+<url>db/conf/bmas/bmas2008.html#CaluwaertsGB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/CaluwaertsG08" mdate="2017-06-02">
+<author>Ken Caluwaerts</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<title>SystemC-AMS Modeling of an Electromechanical Harvester of Vibration Energy.</title>
+<pages>99-104</pages>
+<year>2008</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2008</crossref>
+<url>db/conf/fdl/fdl2008.html#CaluwaertsG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/CaluwaertsG08a" mdate="2019-05-29">
+<author>Ken Caluwaerts</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<title>Heterogeneous and Non-linear Modeling in SystemC-AMS.</title>
+<pages>113-128</pages>
+<year>2008</year>
+<booktitle>FDL (Selected Papers)</booktitle>
+<crossref>conf/fdl/2008s</crossref>
+<url>db/conf/fdl/fdl2008s.html#CaluwaertsG08a</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0805-0877" mdate="2018-08-13">
+<author>Dimitri Galayko</author>
+<author>Philippe Basset</author>
+<author>Ayyaz Mahmood Paracha</author>
+<title>Optimization and AMS Modeling for Design of an Electrostatic Vibration Energy Harvester's Conditioning Circuit with an Auto-Adaptive Process to the External Vibration Changes</title>
+<ee type="oa">http://arxiv.org/abs/0805.0877</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0805.0877</volume>
+<url>db/journals/corr/corr0805.html#abs-0805-0877</url>
+</article>
+</r>
+<r><inproceedings key="conf/icmens/ColinetGJ05" mdate="2017-06-04">
+<author>Éric Colinet</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author>Jérôme Juillard</author>
+<title>Pulse-actuated micromechanical resonator using digital Kalman observer.</title>
+<pages>449-453</pages>
+<year>2005</year>
+<crossref>conf/icmens/2005</crossref>
+<booktitle>ICMENS</booktitle>
+<url>db/conf/icmens/icmens2005.html#ColinetGJ05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/GalaykoKBCC03" mdate="2017-05-26">
+<author>Dimitri Galayko</author>
+<author>Andreas Kaiser</author>
+<author>Lionel Buchaillot</author>
+<author>Dominique Collard</author>
+<author>Chantal Combi</author>
+<title>Electrostatical coupling-spring for micro-mechanical filtering applications.</title>
+<pages>530-533</pages>
+<year>2003</year>
+<crossref>conf/iscas/2003</crossref>
+<booktitle>ISCAS (3)</booktitle>
+<url>db/conf/iscas/iscas2003-3.html#GalaykoKBCC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/QuevyGLRCFBCVK01" mdate="2017-09-16">
+<author>E. Quevy</author>
+<author>Dimitri Galayko</author>
+<author>Bernard Legrand</author>
+<author>Christian Renaux</author>
+<author>Chantal Combi</author>
+<author>Denis Flandre</author>
+<author>Lionel Buchaillot</author>
+<author>Dominique Collard</author>
+<author>B. Vigna</author>
+<author orcid="0000-0003-0377-7408">Andreas Kaiser</author>
+<title>IF MEMS filters for mobile communication.</title>
+<pages>733-736</pages>
+<year>2001</year>
+<booktitle>ETFA (2)</booktitle>
+<crossref>conf/etfa/2001-2</crossref>
+<url>db/conf/etfa/etfa2001-2.html#QuevyGLRCFBCVK01</url>
+</inproceedings>
+</r>
+<coauthors n="56" nc="2">
+<co c="0"><na f="a/Akita:Junichi">Junichi Akita</na></co>
+<co c="0"><na f="a/Akre:Jean=Michel">Jean-Michel Akre</na></co>
+<co c="0"><na f="a/Akrea:J=_M=">J. M. Akrea</na></co>
+<co c="0"><na f="a/Anceau:Fran=ccedil=ois">François Anceau</na></co>
+<co c="0"><na f="a/Andrade=Miceli:Dennis">Dennis Andrade-Miceli</na></co>
+<co c="0"><na f="b/Basset:Philippe">Philippe Basset</na></co>
+<co c="0"><na f="b/Bedier:Mohammed">Mohammed Bedier</na></co>
+<co c="0"><na f="b/Billoint:Olivier">Olivier Billoint</na></co>
+<co c="0"><na f="b/Blanco:Eric">Eric Blanco</na></co>
+<co c="0"><na f="b/Blokhina:Elena">Elena Blokhina</na></co>
+<co c="0"><na f="b/Buchaillot:Lionel">Lionel Buchaillot</na></co>
+<co c="0"><na f="c/Caluwaerts:Ken">Ken Caluwaerts</na></co>
+<co c="0"><na f="c/Chaput:Jean=Paul">Jean-Paul Chaput</na></co>
+<co c="0"><na f="c/Colinet:=Eacute=ric">Éric Colinet</na></co>
+<co c="0"><na f="c/Collard:Dominique">Dominique Collard</na></co>
+<co c="0"><na f="c/Combi:Chantal">Chantal Combi</na></co>
+<co c="0"><na f="d/Dooley:C=">C. Dooley</na></co>
+<co c="0"><na f="d/Dudka:Andrii">Andrii Dudka</na></co>
+<co c="0"><na f="f/Feely:Orla">Orla Feely</na></co>
+<co c="0"><na f="f/Feruglio:Sylvain">Sylvain Feruglio</na></co>
+<co c="0"><na f="f/Flandre:Denis">Denis Flandre</na></co>
+<co c="1"><na f="f/Florentino:Caio">Caio Florentino</na></co>
+<co c="1"><na f="f/Florentino:Helder_R=">Helder R. Florentino</na></co>
+<co c="0"><na f="f/Fournier=Prunaret:Daniele">Daniele Fournier-Prunaret</na></co>
+<co c="1" n="2"><na f="f/Freire:Raimundo_Carlos_Silv=eacute=rio">Raimundo Carlos Silvério Freire</na><na>Raimundo C. S. Freire</na></co>
+<co c="0" n="2"><na f="g/Gorreta:Sergi">Sergi Gorreta</na><na>Sergi Gorreta-Marine</na></co>
+<co c="0"><na f="h/Harte:Peter">Peter Harte</na></co>
+<co c="0"><na f="i/Iskander:Ramy">Ramy Iskander</na></co>
+<co c="0"><na f="j/Javidan:Mohammad">Mohammad Javidan</na></co>
+<co c="0"><na f="j/Juillard:J=eacute=r=ocirc=me">Jérôme Juillard</na></co>
+<co c="0"><na f="k/Kaiser:Andreas">Andreas Kaiser</na></co>
+<co c="0"><na f="k/Karami:Armine">Armine Karami</na></co>
+<co c="0"><na f="k/Khalil:Raouf">Raouf Khalil</na></co>
+<co c="0"><na f="k/Korniienko:Anton">Anton Korniienko</na></co>
+<co c="0"><na f="k/Koskin:Eugene">Eugene Koskin</na></co>
+<co c="0"><na f="l/Legrand:Bernard">Bernard Legrand</na></co>
+<co c="0"><na f="l/Lou=euml=rat:Marie=Minerve">Marie-Minerve Louërat</na></co>
+<co c="0"><na f="m/Mulkeen:B=">B. Mulkeen</na></co>
+<co c="0"><na f="o/O=Connell:Diarmuid">Diarmuid O'Connell</na></co>
+<co c="0"><na f="o/O=Riordan:Eoghan">Eoghan O'Riordan</na></co>
+<co c="0"><na f="p/Paracha:Ayyaz_Mahmood">Ayyaz Mahmood Paracha</na></co>
+<co c="0"><na f="p/Pons=Nin:Joan">Joan Pons-Nin</na></co>
+<co c="0"><na f="p/Pumar:Manuel_Dom=iacute=nguez">Manuel Domínguez Pumar</na></co>
+<co c="0"><na f="q/Quevy:E=">E. Quevy</na></co>
+<co c="0"><na f="r/Renaux:Christian">Christian Renaux</na></co>
+<co c="0"><na f="r/Romain:Olivier">Olivier Romain</na></co>
+<co c="1"><na f="s/S=agrave=:Alan_V=_S=">Alan V. S. Sà</na></co>
+<co c="0"><na f="s/Scorletti:G=eacute=rard">Gérard Scorletti</na></co>
+<co c="0"><na f="s/Shan:Chuan">Chuan Shan</na></co>
+<co c="0"><na f="s/Shimizu:Naohiko">Naohiko Shimizu</na></co>
+<co c="0"><na f="s/Stratigopoulos:Haralampos=G=_D=">Haralampos-G. D. Stratigopoulos</na></co>
+<co c="0"><na f="t/Terosiet:Mehdi">Mehdi Terosiet</na></co>
+<co c="0"><na f="v/Vigna:B=">B. Vigna</na></co>
+<co c="0"><na f="w/Wade:Rhona">Rhona Wade</na></co>
+<co c="0"><na f="y/Yu:Weiqiang">Weiqiang Yu</na></co>
+<co c="0"><na f="z/Zianbetov:Eldar">Eldar Zianbetov</na></co>
+</coauthors>
+</dblpperson>
+

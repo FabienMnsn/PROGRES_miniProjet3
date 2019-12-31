@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Mesaac Makpangou" n="19">
+<person key="homepages/m/MesaacMakpangou" mdate="2016-03-03">
+<author>Mesaac Makpangou</author>
+<note type="affiliation">INRIA, France</note>
+<url>http://www-sor.inria.fr/~makpango/</url>
+</person>
+<r><inproceedings key="conf/nca/NgomM17" mdate="2018-01-11">
+<author>Bassirou Ngom</author>
+<author>Mesaac Makpangou</author>
+<title>Summary prefix tree: An over DHT indexing data structure for efficient superset search.</title>
+<pages>323-327</pages>
+<year>2017</year>
+<booktitle>NCA</booktitle>
+<crossref>conf/nca/2017</crossref>
+<url>db/conf/nca/nca2017.html#NgomM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbtw/Makpangou09" mdate="2018-11-06">
+<author>Mesaac Makpangou</author>
+<title>P2P based hosting system for scalable replicated databases.</title>
+<pages>47-54</pages>
+<year>2009</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<crossref>conf/edbtw/2009</crossref>
+<url>db/conf/edbtw/edbtw2009.html#Makpangou09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saint/FerdeanM06" mdate="2017-05-24">
+<author>Corina Ferdean</author>
+<author>Mesaac Makpangou</author>
+<title>A Response Time-Driven Server Selection Substrate for Application Replica Hosting Systems.</title>
+<pages>259-265</pages>
+<year>2006</year>
+<crossref>conf/saint/2006</crossref>
+<booktitle>SAINT</booktitle>
+<url>db/conf/saint/saint2006.html#FerdeanM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bertinoro/PatarinM05" mdate="2017-05-21">
+<author>Simon Patarin</author>
+<author>Mesaac Makpangou</author>
+<title>Pandora: An Efficient Platform for the Construction of Autonomic Applications.</title>
+<pages>291-306</pages>
+<year>2005</year>
+<crossref>conf/bertinoro/2005</crossref>
+<booktitle>Self-star Properties in Complex Information Systems</booktitle>
+<url>db/conf/bertinoro/selfstar2005.html#PatarinM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoc/GibelinM05" mdate="2019-02-13">
+<author>Nicolas Gibelin</author>
+<author>Mesaac Makpangou</author>
+<title>Efficient and Transparent Web-Services Selection.</title>
+<pages>527-532</pages>
+<year>2005</year>
+<crossref>conf/icsoc/2005</crossref>
+<booktitle>ICSOC</booktitle>
+<ee type="oa">https://doi.org/10.1007/11596141_44</ee>
+<url>db/conf/icsoc/icsoc2005.html#GibelinM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/ChabbouhM05" mdate="2007-05-26">
+<author>Ikram Chabbouh</author>
+<author>Mesaac Makpangou</author>
+<title>Caching Dynamic Content with Automatic Fragmentation.</title>
+<pages>975-986</pages>
+<year>2005</year>
+<crossref>conf/iiwas/2005</crossref>
+<booktitle>iiWAS</booktitle>
+<url>db/conf/iiwas/iiwas2005.html#ChabbouhM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/FerdeanM05" mdate="2017-05-25">
+<author>Corina Ferdean</author>
+<author>Mesaac Makpangou</author>
+<title>Exploiting Application Workload Characteristics to Accurately Estimate Replica Server Response Time.</title>
+<pages>796-812</pages>
+<year>2005</year>
+<crossref>conf/otm/2005-3</crossref>
+<booktitle>OTM Conferences (1)</booktitle>
+<url>db/conf/otm/otm2005-1c.html#FerdeanM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcit/FerdeanM04" mdate="2017-05-25">
+<author>Corina Ferdean</author>
+<author>Mesaac Makpangou</author>
+<title>A Generic and Flexible Model for Replica Consistency Management.</title>
+<pages>204-209</pages>
+<year>2004</year>
+<crossref>conf/icdcit/2004</crossref>
+<booktitle>ICDCIT</booktitle>
+<url>db/conf/icdcit/icdcit2004.html#FerdeanM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcw/ChabbouhM04" mdate="2017-05-25">
+<author>Ikram Chabbouh</author>
+<author>Mesaac Makpangou</author>
+<title>A Configuration Tool for Caching Dynamic Pages.</title>
+<pages>219-231</pages>
+<year>2004</year>
+<crossref>conf/wcw/2004</crossref>
+<booktitle>WCW</booktitle>
+<url>db/conf/wcw/wcw2004.html#ChabbouhM04</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-NI-0411087" mdate="2018-08-13">
+<author>Simon Patarin</author>
+<author>Mesaac Makpangou</author>
+<title>Pandora : une plate-forme efficace pour la construction d'applications autonomes</title>
+<ee type="oa">http://arxiv.org/abs/cs.NI/0411087</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.NI/0411087</volume>
+<url>db/journals/corr/corr0411.html#cs-NI-0411087</url>
+</article>
+</r>
+<r><inproceedings key="conf/www/PatarinM03" mdate="2013-07-17">
+<author>Simon Patarin</author>
+<author>Mesaac Makpangou</author>
+<title>Continuous Measurement of Web Proxy Cache Efficiency.</title>
+<year>2003</year>
+<crossref>conf/www/2003p</crossref>
+<booktitle>WWW (Posters)</booktitle>
+<url>db/conf/www/www2003p.html#PatarinM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdpta/JebaliM02" mdate="2002-07-31">
+<author>Ahmed Jebali</author>
+<author>Mesaac Makpangou</author>
+<title>Replica Divergence Control Protocol Based on Predicted Profile.</title>
+<pages>1678-1684</pages>
+<year>2002</year>
+<crossref>conf/pdpta/2002-4</crossref>
+<booktitle>PDPTA</booktitle>
+<url>db/conf/pdpta/pdpta2002-4.html#JebaliM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/JebaliM01" mdate="2017-05-23">
+<author>Ahmed Jebali</author>
+<author>Mesaac Makpangou</author>
+<title>Replica Divergence Control Protocol in Weakly Connected Environment.</title>
+<pages>230-233</pages>
+<year>2001</year>
+<crossref>conf/nca/2001</crossref>
+<booktitle>NCA</booktitle>
+<url>db/conf/nca/nca2001.html#JebaliM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/PatarinM00" mdate="2004-12-09">
+<author>Simon Patarin</author>
+<author>Mesaac Makpangou</author>
+<title>Pandora: A Flexible Network Monitoring Platform.</title>
+<pages>27-40</pages>
+<year>2000</year>
+<crossref>conf/usenix/2000g</crossref>
+<booktitle>USENIX Annual Technical Conference, General Track</booktitle>
+<url>db/conf/usenix/usenix2000g.html#PatarinM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/MakpangouPKD99" mdate="2017-05-21">
+<author>Mesaac Makpangou</author>
+<author>Guillaume Pierre</author>
+<author>Christian Khoury</author>
+<author>Neilze Dorta</author>
+<title>Replicated Directory Service for Weakly Consistent Distributed Caches.</title>
+<pages>92-100</pages>
+<year>1999</year>
+<crossref>conf/icdcs/1999</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs99.html#MakpangouPKD99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mkern/ShapiroM92" mdate="2017-11-03">
+<author>Marc Shapiro 0001</author>
+<author>Mesaac Makpangou</author>
+<title>Distributed Abstractions, Lightweight References.</title>
+<pages>263-268</pages>
+<year>1992</year>
+<crossref>conf/mkern/1992</crossref>
+<booktitle>USENIX Workshop on Microkernels and Other Kernel Architectures</booktitle>
+<url>db/conf/mkern/mkern1992.html#ShapiroM92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigopsE/DickmanMS92" mdate="2018-11-06">
+<author>Peter Dickman</author>
+<author>Mesaac Makpangou</author>
+<author>Marc Shapiro 0001</author>
+<title>Contrasting fragmented objects with uniform transparent object references for distributed programming.</title>
+<year>1992</year>
+<crossref>conf/sigopsE/1992</crossref>
+<booktitle>ACM SIGOPS European Workshop</booktitle>
+<url>db/conf/sigopsE/sigopsE1992.html#DickmanMS92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigopsE/MakpangouB90" mdate="2018-11-06">
+<author>Mesaac Makpangou</author>
+<author>Kenneth P. Birman</author>
+<title>Designing application software in wide area network settings.</title>
+<year>1990</year>
+<crossref>conf/sigopsE/1990</crossref>
+<booktitle>ACM SIGOPS European Workshop</booktitle>
+<url>db/conf/sigopsE/sigopsE1990.html#MakpangouB90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccc/MakpangouS88" mdate="2017-11-03">
+<author>Mesaac Makpangou</author>
+<author>Marc Shapiro 0001</author>
+<title>The SOS object-oriented communication service.</title>
+<pages>207-212</pages>
+<year>1988</year>
+<crossref>conf/iccc/1988</crossref>
+<booktitle>ICCC</booktitle>
+<url>db/conf/iccc/iccc1988.html#MakpangouS88</url>
+</inproceedings>
+</r>
+<coauthors n="12" nc="2">
+<co c="-1"><na f="b/Birman:Kenneth_P=">Kenneth P. Birman</na></co>
+<co c="1"><na f="c/Chabbouh:Ikram">Ikram Chabbouh</na></co>
+<co c="1"><na f="d/Dickman:Peter">Peter Dickman</na></co>
+<co c="0"><na f="d/Dorta:Neilze">Neilze Dorta</na></co>
+<co c="-1"><na f="f/Ferdean:Corina">Corina Ferdean</na></co>
+<co c="-1"><na f="g/Gibelin:Nicolas">Nicolas Gibelin</na></co>
+<co c="-1"><na f="j/Jebali:Ahmed">Ahmed Jebali</na></co>
+<co c="0"><na f="k/Khoury:Christian">Christian Khoury</na></co>
+<co c="-1"><na f="n/Ngom:Bassirou">Bassirou Ngom</na></co>
+<co c="-1"><na f="p/Patarin:Simon">Simon Patarin</na></co>
+<co c="0"><na f="p/Pierre:Guillaume">Guillaume Pierre</na></co>
+<co c="1"><na f="s/Shapiro_0001:Marc">Marc Shapiro 0001</na></co>
+</coauthors>
+</dblpperson>
+

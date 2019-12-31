@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Nawal Benabbou" n="18">
+<person key="homepages/150/5993" mdate="2014-09-11">
+<author>Nawal Benabbou</author>
+</person>
+<r><article key="journals/debu/BenabbouCZ19" mdate="2019-12-09">
+<author>Nawal Benabbou</author>
+<author>Mithun Chakraborty</author>
+<author>Yair Zick</author>
+<title>Fairness and Diversity in Public Resource Allocation Problems.</title>
+<pages>64-75</pages>
+<year>2019</year>
+<volume>42</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<url>db/journals/debu/debu42.html#BenabbouCZ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aldt/BenabbouLLP19" mdate="2019-10-10">
+<author>Nawal Benabbou</author>
+<author>Cassandre Leroy</author>
+<author>Thibaut Lust</author>
+<author>Patrice Perny</author>
+<title>Combining Local Search and Elicitation for Multi-Objective Combinatorial Optimization.</title>
+<pages>1-16</pages>
+<year>2019</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2019</crossref>
+<url>db/conf/aldt/adt2019.html#BenabbouLLP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BenabbouCEZ19" mdate="2019-08-20">
+<author>Nawal Benabbou</author>
+<author>Mithun Chakraborty</author>
+<author>Edith Elkind</author>
+<author>Yair Zick</author>
+<title>Fairness Towards Groups of Agents in the Allocation of Indivisible Items.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/14</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#BenabbouCEZ19</url>
+<pages>95-101</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socs/BenabbouL19" mdate="2019-07-17">
+<author>Nawal Benabbou</author>
+<author>Thibaut Lust</author>
+<title>A General Interactive Approach for Solving Multi-Objective Combinatorial Optimization Problems with Imprecise Preferences.</title>
+<pages>164-165</pages>
+<year>2019</year>
+<booktitle>SOCS</booktitle>
+<crossref>conf/socs/2019</crossref>
+<url>db/conf/socs/socs2019.html#BenabbouL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/BenabbouL19" mdate="2019-12-02">
+<author>Nawal Benabbou</author>
+<author>Thibaut Lust</author>
+<title>An Interactive Polyhedral Approach for Multi-objective Combinatorial Optimization with Incomplete Preference Information.</title>
+<pages>221-235</pages>
+<year>2019</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2019</crossref>
+<url>db/conf/sum/sum2019.html#BenabbouL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BenabbouCHSZ18" mdate="2018-07-16">
+<author>Nawal Benabbou</author>
+<author>Mithun Chakraborty</author>
+<author>Xuan-Vinh Ho</author>
+<author>Jakub Sliwinski</author>
+<author>Yair Zick</author>
+<title>Diversity Constraints in Public Housing Allocation.</title>
+<pages>973-981</pages>
+<year>2018</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2018</crossref>
+<url>db/conf/atal/aamas2018.html#BenabbouCHSZ18</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Benabbou17" mdate="2018-05-16">
+<author>Nawal Benabbou</author>
+<title>Procédures de décision par élicitation incrémentale de préférences en optimisation multicritère, multi-agents et dans l'incertain. (Decision processes based on incremental preference elicitation for multicriteria optimization, collective decision making and decision making under uncertainty).</title>
+<year>2017</year>
+<school>Pierre and Marie Curie University, Paris, France</school>
+</phdthesis>
+</r>
+<r><article key="journals/ai/BenabbouPV17" mdate="2017-06-14">
+<author orcid="0000-0002-4589-4162">Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<author>Paolo Viappiani</author>
+<title>Incremental elicitation of Choquet capacities for multicriteria choice, ranking and sorting problems.</title>
+<pages>152-180</pages>
+<year>2017</year>
+<volume>246</volume>
+<journal>Artif. Intell.</journal>
+<url>db/journals/ai/ai246.html#BenabbouPV17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/BenabbouP17" mdate="2019-08-20">
+<author>Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<title>Adaptive Elicitation of Preferences under Uncertainty in Sequential Decision Making Problems.</title>
+<pages>4566-4572</pages>
+<year>2017</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2017/637</ee>
+<crossref>conf/ijcai/2017</crossref>
+<url>db/conf/ijcai/ijcai2017.html#BenabbouP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/GilbertBPSV17" mdate="2019-08-20">
+<author>Hugo Gilbert</author>
+<author>Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<author>Paolo Viappiani</author>
+<title>Incremental Decision Making Under Risk with the Weighted Expected Utility Model.</title>
+<pages>4588-4594</pages>
+<year>2017</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2017/640</ee>
+<crossref>conf/ijcai/2017</crossref>
+<url>db/conf/ijcai/ijcai2017.html#GilbertBPSV17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-10241" mdate="2018-08-13">
+<author>Nawal Benabbou</author>
+<author>Mithun Chakraborty</author>
+<author>Vinh Ho Xuan</author>
+<author>Jakub Sliwinski</author>
+<author>Yair Zick</author>
+<title>Diversity Constraints in Public Housing Allocation.</title>
+<year>2017</year>
+<volume>abs/1711.10241</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.10241</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-10241</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/BenabbouP16" mdate="2017-05-24">
+<author>Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<title>Solving Multi-Agent Knapsack Problems Using Incremental Approval Voting.</title>
+<pages>1318-1326</pages>
+<year>2016</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2016</crossref>
+<url>db/conf/ecai/ecai2016.html#BenabbouP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/BenabbouDPV16" mdate="2017-05-24">
+<author>Nawal Benabbou</author>
+<author>Serena Di Sabatino Di Diodoro</author>
+<author>Patrice Perny</author>
+<author>Paolo Viappiani</author>
+<title>Incremental Preference Elicitation in Multi-attribute Domains for Choice and Ranking with the Borda Count.</title>
+<pages>81-95</pages>
+<year>2016</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2016</crossref>
+<url>db/conf/sum/sum2016.html#BenabbouDPV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/BenabbouP15" mdate="2015-04-12">
+<author>Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<title>Incremental Weight Elicitation for Multiobjective State Space Search.</title>
+<pages>1093-1099</pages>
+<year>2015</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2015</crossref>
+<url>db/conf/aaai/aaai2015.html#BenabbouP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aldt/BenabbouP15" mdate="2017-06-01">
+<author orcid="0000-0002-4589-4162">Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<title>On Possibly Optimal Tradeoffs in Multicriteria Spanning Tree Problems.</title>
+<pages>322-337</pages>
+<year>2015</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2015</crossref>
+<url>db/conf/aldt/adt2015.html#BenabbouP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aldt/Benabbou15" mdate="2017-06-01">
+<author orcid="0000-0002-4589-4162">Nawal Benabbou</author>
+<title>Possible Optimality and Preference Elicitation for Decision Making.</title>
+<pages>561-566</pages>
+<year>2015</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2015</crossref>
+<url>db/conf/aldt/adt2015.html#Benabbou15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BenabbouP15" mdate="2019-08-20">
+<author>Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<title>Combining Preference Elicitation and Search in Multiobjective State-Space Graphs.</title>
+<pages>297-303</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/048</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#BenabbouP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BenabbouPV14" mdate="2017-06-02">
+<author orcid="0000-0002-4589-4162">Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<author>Paolo Viappiani</author>
+<title>Incremental Elicitation of Choquet Capacities for Multicriteria Decision Making.</title>
+<pages>87-92</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BenabbouPV14</url>
+</inproceedings>
+</r>
+<coauthors n="12" nc="2">
+<co c="1"><na f="c/Chakraborty:Mithun">Mithun Chakraborty</na></co>
+<co c="0"><na f="d/Diodoro:Serena_Di_Sabatino_Di">Serena Di Sabatino Di Diodoro</na></co>
+<co c="1"><na f="e/Elkind:Edith">Edith Elkind</na></co>
+<co c="0"><na f="g/Gilbert:Hugo">Hugo Gilbert</na></co>
+<co c="1" n="2"><na f="h/Ho:Xuan=Vinh">Xuan-Vinh Ho</na><na>Vinh Ho Xuan</na></co>
+<co c="0"><na f="l/Leroy:Cassandre">Cassandre Leroy</na></co>
+<co c="0"><na f="l/Lust:Thibaut">Thibaut Lust</na></co>
+<co c="0"><na f="p/Perny:Patrice">Patrice Perny</na></co>
+<co c="1"><na f="s/Sliwinski:Jakub">Jakub Sliwinski</na></co>
+<co c="0"><na f="s/Spanjaard:Olivier">Olivier Spanjaard</na></co>
+<co c="0"><na f="v/Viappiani:Paolo">Paolo Viappiani</na></co>
+<co c="1"><na f="z/Zick:Yair">Yair Zick</na></co>
+</coauthors>
+</dblpperson>
+

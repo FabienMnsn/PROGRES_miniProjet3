@@ -1,0 +1,943 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Béatrice Bérard" n="68">
+<person key="homepages/b/BeatriceBerard" mdate="2016-03-03">
+<author>Béatrice Bérard</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://pagesperso-systeme.lip6.fr/Beatrice.Berard/</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-1910-14294" mdate="2019-11-04">
+<author>Béatrice Bérard</author>
+<author>Benedikt Bollig</author>
+<author>Mathieu Lehaut</author>
+<author>Nathalie Sznajder</author>
+<title>Parameterized Synthesis for Fragments of First-Order Logic over Data Words.</title>
+<year>2019</year>
+<volume>abs/1910.14294</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.14294</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-14294</url>
+</article>
+</r>
+<r><article key="journals/deds/BerardKMS18" mdate="2018-03-17">
+<author>Béatrice Bérard</author>
+<author>Olga Kouchnarenko</author>
+<author orcid="0000-0001-7963-4433">John Mullins</author>
+<author>Mathieu Sassolas</author>
+<title>Opacity for linear constraint Markov chains.</title>
+<pages>83-108</pages>
+<year>2018</year>
+<volume>28</volume>
+<journal>Discrete Event Dynamic Systems</journal>
+<number>1</number>
+<url>db/journals/deds/deds28.html#BerardKMS18</url>
+</article>
+</r>
+<r><article key="journals/fuin/BerardHSS18" mdate="2019-09-25">
+<author>Béatrice Bérard</author>
+<author>Stefan Haar</author>
+<author orcid="0000-0002-4101-4308">Sylvain Schmitz</author>
+<author>Stefan Schwoon</author>
+<title>The Complexity of Diagnosability and Opacity Verification for Petri Nets.</title>
+<pages>317-349</pages>
+<year>2018</year>
+<volume>161</volume>
+<journal>Fundam. Inform.</journal>
+<number>4</number>
+<url>db/journals/fuin/fuin161.html#BerardHSS18</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/BarbotBDH18" mdate="2018-11-02">
+<author orcid="0000-0003-2417-3064">Benoît Barbot</author>
+<author>Béatrice Bérard</author>
+<author>Yann Duplouy</author>
+<author>Serge Haddad</author>
+<title>Integrating Simulink Models into the Model Checker Cosmos.</title>
+<pages>363-373</pages>
+<year>2018</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2018</crossref>
+<url>db/conf/apn/pn2018.html#BarbotBDH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csl/BerardBJ18" mdate="2019-05-02">
+<author>Béatrice Bérard</author>
+<author>Patricia Bouyer</author>
+<author>Vincent Jugé</author>
+<title>Finite Bisimulations for Dynamical Systems with Overlapping Trajectories.</title>
+<pages>26:1-26:17</pages>
+<year>2018</year>
+<booktitle>CSL</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CSL.2018.26</ee>
+<crossref>conf/csl/2018</crossref>
+<url>db/conf/csl/csl2018.html#BerardBJ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fsttcs/BerardHH18" mdate="2019-05-02">
+<author>Béatrice Bérard</author>
+<author>Stefan Haar</author>
+<author>Loïc Hélouët</author>
+<title>Hyper Partial Order Logic.</title>
+<pages>20:1-20:21</pages>
+<year>2018</year>
+<booktitle>FSTTCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSTTCS.2018.20</ee>
+<crossref>conf/fsttcs/2018</crossref>
+<url>db/conf/fsttcs/fsttcs2018.html#BerardHH18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijccbs/BenabdelhafidBB17" mdate="2017-12-13">
+<author>Maya Souilah Benabdelhafid</author>
+<author>Béatrice Bérard</author>
+<author>Mahmoud Boufaïda</author>
+<title>Analysing timed compatibility of web service choreography.</title>
+<pages>253-278</pages>
+<year>2017</year>
+<volume>7</volume>
+<journal>IJCCBS</journal>
+<number>3</number>
+<url>db/journals/ijccbs/ijccbs7.html#BenabdelhafidBB17</url>
+</article>
+</r>
+<r><article key="journals/tecs/BerardHM17" mdate="2018-11-06">
+<author>Béatrice Bérard</author>
+<author>Loïc Hélouët</author>
+<author>John Mullins</author>
+<title>Non-interference in Partial Order Models.</title>
+<pages>44:1-44:34</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>ACM Trans. Embedded Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/tecs/tecs16.html#BerardHM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/BerardHSS17" mdate="2019-09-25">
+<author>Béatrice Bérard</author>
+<author>Stefan Haar</author>
+<author orcid="0000-0002-4101-4308">Sylvain Schmitz</author>
+<author>Stefan Schwoon</author>
+<title>The Complexity of Diagnosability and Opacity Verification for Petri Nets.</title>
+<pages>200-220</pages>
+<year>2017</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2017</crossref>
+<url>db/conf/apn/pn2017.html#BerardHSS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fsttcs/BerardHL17" mdate="2018-08-23">
+<author>Béatrice Bérard</author>
+<author>Serge Haddad</author>
+<author>Engel Lefaucheux</author>
+<title>Probabilistic Disclosure: Maximisation vs. Minimisation.</title>
+<pages>13:1-13:14</pages>
+<year>2017</year>
+<booktitle>FSTTCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSTTCS.2017.13</ee>
+<crossref>conf/fsttcs/2017</crossref>
+<url>db/conf/fsttcs/fsttcs2017.html#BerardHL17</url>
+</inproceedings>
+</r>
+<r><article key="journals/dc/BerardLMPTT16" mdate="2019-09-16">
+<author>Béatrice Bérard</author>
+<author orcid="0000-0002-4459-511X">Pascal Lafourcade 0001</author>
+<author>Laure Millet</author>
+<author>Maria Potop-Butucaru</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Sébastien Tixeuil</author>
+<title>Formal verification of mobile robot protocols.</title>
+<pages>459-487</pages>
+<year>2016</year>
+<volume>29</volume>
+<journal>Distributed Computing</journal>
+<number>6</number>
+<url>db/journals/dc/dc29.html#BerardLMPTT16</url>
+</article>
+</r>
+<r><article key="journals/fuin/BerardHJL16" mdate="2018-11-02">
+<author>Béatrice Bérard</author>
+<author>Serge Haddad</author>
+<author>Aleksandra Jovanovic</author>
+<author orcid="0000-0001-9429-7586">Didier Lime</author>
+<title>Interrupt Timed Automata with Auxiliary Clocks and Parameters.</title>
+<pages>235-259</pages>
+<year>2016</year>
+<volume>143</volume>
+<journal>Fundam. Inform.</journal>
+<number>3-4</number>
+<url>db/journals/fuin/fuin143.html#BerardHJL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/wodes/BerardKMS16" mdate="2017-05-21">
+<author>Béatrice Bérard</author>
+<author>Olga Kouchnarenko</author>
+<author>John Mullins</author>
+<author>Mathieu Sassolas</author>
+<title>Preserving opacity on Interval Markov Chains under simulation.</title>
+<pages>319-324</pages>
+<year>2016</year>
+<booktitle>WODES</booktitle>
+<crossref>conf/wodes/2016</crossref>
+<url>db/conf/wodes/wodes2016.html#BerardKMS16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ipl/BerardCS15" mdate="2018-11-30">
+<author>Béatrice Bérard</author>
+<author orcid="0000-0002-4561-241X">Krishnendu Chatterjee</author>
+<author>Nathalie Sznajder</author>
+<title>Probabilistic opacity for Markov decision processes.</title>
+<pages>52-59</pages>
+<year>2015</year>
+<volume>115</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl115.html#BerardCS15</url>
+</article>
+</r>
+<r><article key="journals/mscs/BerardMS15" mdate="2017-05-28">
+<author>Béatrice Bérard</author>
+<author>John Mullins</author>
+<author>Mathieu Sassolas</author>
+<title>Quantifying opacity.</title>
+<pages>361-403</pages>
+<year>2015</year>
+<volume>25</volume>
+<journal>Mathematical Structures in Computer Science</journal>
+<number>2</number>
+<url>db/journals/mscs/mscs25.html#BerardMS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/acsd/BerardHM15" mdate="2017-05-25">
+<author>Béatrice Bérard</author>
+<author>Loïc Hélouët</author>
+<author>John Mullins</author>
+<title>Non-interference in Partial Order Models.</title>
+<pages>80-89</pages>
+<year>2015</year>
+<booktitle>ACSD</booktitle>
+<crossref>conf/acsd/2015</crossref>
+<url>db/conf/acsd/acsd2015.html#BerardHM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rp/BerardHPDS15" mdate="2017-05-26">
+<author>Béatrice Bérard</author>
+<author>Serge Haddad</author>
+<author>Claudine Picaronny</author>
+<author>Mohab Safey El Din</author>
+<author>Mathieu Sassolas</author>
+<title>Polynomial Interrupt Timed Automata.</title>
+<pages>20-32</pages>
+<year>2015</year>
+<booktitle>RP</booktitle>
+<crossref>conf/rp/2015</crossref>
+<url>db/conf/rp/rp2015.html#BerardHPDS15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BerardHPDS15" mdate="2018-08-13">
+<author>Béatrice Bérard</author>
+<author>Serge Haddad</author>
+<author>Claudine Picaronny</author>
+<author>Mohab Safey El Din</author>
+<author>Mathieu Sassolas</author>
+<title>Polynomial Interrupt Timed Automata.</title>
+<year>2015</year>
+<volume>abs/1504.04541</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.04541</ee>
+<url>db/journals/corr/corr1504.html#BerardHPDS15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BerardKMS15" mdate="2018-08-13">
+<author>Béatrice Bérard</author>
+<author>Olga Kouchnarenko</author>
+<author>John Mullins</author>
+<author>Mathieu Sassolas</author>
+<title>Probabilistic Opacity in Refinement-Based Modeling.</title>
+<year>2015</year>
+<volume>abs/1510.04316</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1510.04316</ee>
+<url>db/journals/corr/corr1510.html#BerardKMS15</url>
+</article>
+</r>
+<r><article key="journals/eceasst/BerardM14" mdate="2019-05-22">
+<author>Béatrice Bérard</author>
+<author>John Mullins</author>
+<title>Verification of Information Flow Properties under Rational Observation.</title>
+<year>2014</year>
+<volume>70</volume>
+<journal>ECEASST</journal>
+<ee type="oa">https://doi.org/10.14279/tuj.eceasst.70.979</ee>
+<url>db/journals/eceasst/eceasst70.html#BerardM14</url>
+</article>
+</r>
+<r><article key="journals/ijccbs/ZhangBHKT14" mdate="2018-11-30">
+<author>Yan Zhang 0017</author>
+<author>Béatrice Bérard</author>
+<author>Lom-Messan Hillah</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<title>Controllability for discrete event systems modelled in VeriJ.</title>
+<pages>218-240</pages>
+<year>2014</year>
+<volume>5</volume>
+<journal>IJCCBS</journal>
+<number>3/4</number>
+<url>db/journals/ijccbs/ijccbs5.html#ZhangBHKT14</url>
+</article>
+</r>
+<r><inproceedings key="conf/lata/BerardC14" mdate="2019-10-19">
+<author>Béatrice Bérard</author>
+<author orcid="0000-0002-2728-6534">Olivier Carton</author>
+<title>Channel Synthesis Revisited.</title>
+<pages>149-160</pages>
+<year>2014</year>
+<booktitle>LATA</booktitle>
+<crossref>conf/lata/2014</crossref>
+<url>db/conf/lata/lata2014.html#BerardC14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BerardCS14" mdate="2018-08-13">
+<author>Béatrice Bérard</author>
+<author>Krishnendu Chatterjee</author>
+<author>Nathalie Sznajder</author>
+<title>Probabilistic Opacity for Markov Decision Processes.</title>
+<year>2014</year>
+<volume>abs/1407.4225</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.4225</ee>
+<url>db/journals/corr/corr1407.html#BerardCS14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BerardM14" mdate="2018-08-13">
+<author>Béatrice Bérard</author>
+<author>John Mullins</author>
+<title>Verification of Information Flow Properties under Rational Observation.</title>
+<year>2014</year>
+<volume>abs/1409.0871</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1409.0871</ee>
+<url>db/journals/corr/corr1409.html#BerardM14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BerardHJL14" mdate="2018-08-13">
+<author>Béatrice Bérard</author>
+<author>Serge Haddad</author>
+<author>Aleksandra Jovanovic</author>
+<author>Didier Lime</author>
+<title>Interrupt Timed Automata with Auxiliary Clocks and Parameters.</title>
+<year>2014</year>
+<volume>abs/1409.2408</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1409.2408</ee>
+<url>db/journals/corr/corr1409.html#BerardHJL14</url>
+</article>
+</r>
+<r><article key="journals/tcs/BerardCHLR13" mdate="2018-11-30">
+<author>Béatrice Bérard</author>
+<author orcid="0000-0002-4317-5025">Franck Cassez</author>
+<author>Serge Haddad</author>
+<author orcid="0000-0001-9429-7586">Didier Lime</author>
+<author>Olivier H. Roux</author>
+<title>The expressive power of time Petri nets.</title>
+<pages>1-20</pages>
+<year>2013</year>
+<volume>474</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs474.html#BerardCHLR13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecoop/ZhangBHT13" mdate="2018-11-06">
+<author>Yan Zhang 0017</author>
+<author>Béatrice Bérard</author>
+<author>Lom-Messan Hillah</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<title>Semi-automatic controller design of Java-like models.</title>
+<pages>3:1-3:7</pages>
+<year>2013</year>
+<booktitle>FTfJP@ECOOP</booktitle>
+<crossref>conf/ecoop/2013ftfjp</crossref>
+<url>db/conf/ecoop/ftfjp2013.html#ZhangBHT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rp/BerardHJL13" mdate="2018-11-02">
+<author>Béatrice Bérard</author>
+<author>Serge Haddad</author>
+<author>Aleksandra Jovanovic</author>
+<author orcid="0000-0001-9429-7586">Didier Lime</author>
+<title>Parametric Interrupt Timed Automata.</title>
+<pages>59-69</pages>
+<year>2013</year>
+<booktitle>RP</booktitle>
+<crossref>conf/rp/2013</crossref>
+<url>db/conf/rp/rp2013.html#BerardHJL13</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/13/Berard13" mdate="2019-07-01">
+<author>Béatrice Bérard</author>
+<title>An Introduction to Timed Automata.</title>
+<pages>169-187</pages>
+<year>2013</year>
+<booktitle>Control of Discrete-Event Systems</booktitle>
+<crossref>books/sp/13/SSS2013</crossref>
+<url>db/books/collections/SSS2013.html#Berard13</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/13/BerardCFGS13" mdate="2019-07-01">
+<author>Béatrice Bérard</author>
+<author>Maria Paola Cabasino</author>
+<author>Angela Di Febbraro</author>
+<author>Alessandro Giua</author>
+<author>Carla Seatzu</author>
+<title>Petri Nets with Time.</title>
+<pages>319-341</pages>
+<year>2013</year>
+<booktitle>Control of Discrete-Event Systems</booktitle>
+<crossref>books/sp/13/SSS2013</crossref>
+<url>db/books/collections/SSS2013.html#BerardCFGS13</url>
+</incollection>
+</r>
+<r><incollection key="books/wi/13/Berard13" mdate="2019-07-02">
+<author>Béatrice Bérard</author>
+<title>Timed Model-Checking.</title>
+<pages>39-66</pages>
+<year>2013</year>
+<booktitle>Communicating Embedded Systems</booktitle>
+<crossref>books/wi/13/JR2013</crossref>
+<url>db/books/collections/JR2013.html#Berard13</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-6799" mdate="2018-08-13">
+<author>Béatrice Bérard</author>
+<author>John Mullins</author>
+<author>Mathieu Sassolas</author>
+<title>Quantifying Opacity</title>
+<ee type="oa">http://arxiv.org/abs/1301.6799</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.6799</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-6799</url>
+</article>
+</r>
+<r><article key="journals/fmsd/BerardHS12" mdate="2017-05-27">
+<author>Béatrice Bérard</author>
+<author>Serge Haddad</author>
+<author>Mathieu Sassolas</author>
+<title>Interrupt Timed Automata: verification and expressiveness.</title>
+<pages>41-87</pages>
+<year>2012</year>
+<volume>40</volume>
+<journal>Formal Methods in System Design</journal>
+<number>1</number>
+<url>db/journals/fmsd/fmsd40.html#BerardHS12</url>
+</article>
+</r>
+<r><article key="journals/ijfcs/BenattarBLMRS12" mdate="2018-11-02">
+<author>Gilles Benattar</author>
+<author>Béatrice Bérard</author>
+<author orcid="0000-0001-9429-7586">Didier Lime</author>
+<author>John Mullins</author>
+<author>Olivier H. Roux</author>
+<author>Mathieu Sassolas</author>
+<title>Channel Synthesis for Finite Transducers.</title>
+<pages>1241-1260</pages>
+<year>2012</year>
+<volume>23</volume>
+<journal>Int. J. Found. Comput. Sci.</journal>
+<number>6</number>
+<url>db/journals/ijfcs/ijfcs23.html#BenattarBLMRS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/concur/BerardHSS12" mdate="2017-05-23">
+<author>Béatrice Bérard</author>
+<author>Serge Haddad</author>
+<author>Mathieu Sassolas</author>
+<author>Nathalie Sznajder</author>
+<title>Concurrent Games on VASS with Inhibition.</title>
+<pages>39-52</pages>
+<year>2012</year>
+<booktitle>CONCUR</booktitle>
+<crossref>conf/concur/2012</crossref>
+<url>db/conf/concur/concur2012.html#BerardHSS12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-6453" mdate="2018-08-13">
+<author>Béatrice Bérard</author>
+<author>Serge Haddad</author>
+<author>Mathieu Sassolas</author>
+<title>Interrupt Timed Automata: verification and expressiveness</title>
+<ee type="oa">http://arxiv.org/abs/1203.6453</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.6453</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-6453</url>
+</article>
+</r>
+<r><inproceedings key="conf/afl/BenattarBLMRS11" mdate="2011-11-18">
+<author>Gilles Benattar</author>
+<author>Béatrice Bérard</author>
+<author>Didier Lime</author>
+<author>John Mullins</author>
+<author>Olivier H. Roux</author>
+<author>Mathieu Sassolas</author>
+<title>Channel Synthesis for Finite Transducers.</title>
+<pages>79-92</pages>
+<year>2011</year>
+<booktitle>AFL</booktitle>
+<crossref>conf/afl/2011</crossref>
+<url>db/conf/afl/afl2011.html#BenattarBLMRS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tase/MokademBGSR10" mdate="2017-05-27">
+<author>Houda Bel Mokadem</author>
+<author>Béatrice Bérard</author>
+<author>V. Gourcuff</author>
+<author>O. De Smet</author>
+<author>J. Roussel</author>
+<title>Verification of a Timed Multitask System With Uppaal.</title>
+<pages>921-932</pages>
+<year>2010</year>
+<volume>7</volume>
+<journal>IEEE Trans. Automation Science and Engineering</journal>
+<number>4</number>
+<url>db/journals/tase/tase7.html#MokademBGSR10</url>
+</article>
+</r>
+<r><inproceedings key="conf/qest/BerardMS10" mdate="2017-05-26">
+<author>Béatrice Bérard</author>
+<author>John Mullins</author>
+<author>Mathieu Sassolas</author>
+<title>Quantifying Opacity.</title>
+<pages>263-272</pages>
+<year>2010</year>
+<booktitle>QEST</booktitle>
+<crossref>conf/qest/2010</crossref>
+<url>db/conf/qest/qest2010.html#BerardMS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/BerardHS10" mdate="2017-05-25">
+<author>Béatrice Bérard</author>
+<author>Serge Haddad</author>
+<author>Mathieu Sassolas</author>
+<title>Real Time Properties for Interrupt Timed Automata.</title>
+<pages>69-76</pages>
+<year>2010</year>
+<booktitle>TIME</booktitle>
+<crossref>conf/time/2010</crossref>
+<url>db/conf/time/time2010.html#BerardHS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wodes/ZhangBKT10" mdate="2017-05-21">
+<author>Yan Zhang 0017</author>
+<author>Béatrice Bérard</author>
+<author>Fabrice Kordon</author>
+<author>Yann Thierry-Mieg</author>
+<title>Automated controllability and synthesis with hierarchical set decision diagrams.</title>
+<pages>281-286</pages>
+<year>2010</year>
+<booktitle>WODES</booktitle>
+<crossref>conf/wodes/2010</crossref>
+<url>db/conf/wodes/wodes2010.html#ZhangBKT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fossacs/BerardH09" mdate="2019-02-07">
+<author>Béatrice Bérard</author>
+<author>Serge Haddad</author>
+<title>Interrupt Timed Automata.</title>
+<pages>197-211</pages>
+<year>2009</year>
+<booktitle>FoSSaCS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-00596-1_15</ee>
+<crossref>conf/fossacs/2009</crossref>
+<url>db/conf/fossacs/fossacs2009.html#BerardH09</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/BerardCHLR08" mdate="2018-11-30">
+<author>Béatrice Bérard</author>
+<author orcid="0000-0002-4317-5025">Franck Cassez</author>
+<author>Serge Haddad</author>
+<author orcid="0000-0001-9429-7586">Didier Lime</author>
+<author>Olivier H. Roux</author>
+<title>When are Timed Automata weakly timed bisimilar to Time Petri Nets?</title>
+<pages>202-220</pages>
+<year>2008</year>
+<volume>403</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>2-3</number>
+<url>db/journals/tcs/tcs403.html#BerardCHLR08</url>
+</article>
+</r>
+<r><article key="journals/fmsd/BerardGP07" mdate="2017-12-14">
+<author>Béatrice Bérard</author>
+<author>Paul Gastin</author>
+<author>Antoine Petit 0001</author>
+<title>Timed substitutions for regular signal-event languages.</title>
+<pages>101-134</pages>
+<year>2007</year>
+<volume>31</volume>
+<journal>Formal Methods in System Design</journal>
+<number>2</number>
+<url>db/journals/fmsd/fmsd31.html#BerardGP07</url>
+</article>
+</r>
+<r><inproceedings key="conf/atva/MokademBBL06" mdate="2017-05-21">
+<author>Houda Bel Mokadem</author>
+<author>Béatrice Bérard</author>
+<author>Patricia Bouyer</author>
+<author>François Laroussinie</author>
+<title>Timed Temporal Logics for Abstracting Transient States.</title>
+<pages>337-351</pages>
+<year>2006</year>
+<crossref>conf/atva/2006</crossref>
+<booktitle>ATVA</booktitle>
+<url>db/conf/atva/atva2006.html#MokademBBL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/formats/BerardGP06" mdate="2017-12-14">
+<author>Béatrice Bérard</author>
+<author>Paul Gastin</author>
+<author>Antoine Petit 0001</author>
+<title>Intersection of Regular Signal-Event (Timed) Languages.</title>
+<pages>52-66</pages>
+<year>2006</year>
+<crossref>conf/formats/2006</crossref>
+<booktitle>FORMATS</booktitle>
+<url>db/conf/formats/formats2006.html#BerardGP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/formats/BerardGP06a" mdate="2017-12-14">
+<author>Béatrice Bérard</author>
+<author>Paul Gastin</author>
+<author>Antoine Petit 0001</author>
+<title>Refinements and Abstractions of Signal-Event (Timed) Languages.</title>
+<pages>67-81</pages>
+<year>2006</year>
+<crossref>conf/formats/2006</crossref>
+<booktitle>FORMATS</booktitle>
+<url>db/conf/formats/formats2006.html#BerardGP06a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atva/BerardCHLR05" mdate="2017-05-21">
+<author>Béatrice Bérard</author>
+<author>Franck Cassez</author>
+<author>Serge Haddad</author>
+<author>Didier Lime</author>
+<author>Olivier H. Roux</author>
+<title>Comparison of Different Semantics for Time Petri Nets.</title>
+<pages>293-307</pages>
+<year>2005</year>
+<crossref>conf/atva/2005</crossref>
+<booktitle>ATVA</booktitle>
+<url>db/conf/atva/atva2005.html#BerardCHLR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/concur/MokademBBL05" mdate="2017-05-23">
+<author>Houda Bel Mokadem</author>
+<author>Béatrice Bérard</author>
+<author>Patricia Bouyer</author>
+<author>François Laroussinie</author>
+<title>A New Modality for Almost Everywhere Properties in Timed Automata.</title>
+<pages>110-124</pages>
+<year>2005</year>
+<crossref>conf/concur/2005</crossref>
+<booktitle>CONCUR</booktitle>
+<url>db/conf/concur/concur2005.html#MokademBBL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/formats/BerardCHLR05" mdate="2017-05-26">
+<author>Béatrice Bérard</author>
+<author>Franck Cassez</author>
+<author>Serge Haddad</author>
+<author>Didier Lime</author>
+<author>Olivier H. Roux</author>
+<title>Comparison of the Expressiveness of Timed Automata and Time Petri Nets.</title>
+<pages>211-225</pages>
+<year>2005</year>
+<crossref>conf/formats/2005</crossref>
+<booktitle>FORMATS</booktitle>
+<url>db/conf/formats/formats2005.html#BerardCHLR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fsttcs/BerardCHLR05" mdate="2017-05-24">
+<author>Béatrice Bérard</author>
+<author>Franck Cassez</author>
+<author>Serge Haddad</author>
+<author>Didier Lime</author>
+<author>Olivier H. Roux</author>
+<title>When Are Timed Automata Weakly Timed Bisimilar to Time Petri Nets?</title>
+<pages>273-284</pages>
+<year>2005</year>
+<crossref>conf/fsttcs/2005</crossref>
+<booktitle>FSTTCS</booktitle>
+<url>db/conf/fsttcs/fsttcs2005.html#BerardCHLR05</url>
+</inproceedings>
+</r>
+<r><article key="journals/fmsd/BerardFKM03" mdate="2017-05-27">
+<author>Béatrice Bérard</author>
+<author>Laurent Fribourg</author>
+<author>Francis Klay</author>
+<author>Jean-François Monin</author>
+<title>Compared Study of Two Correctness Proofs for the Standardized.</title>
+<pages>59-86</pages>
+<year>2003</year>
+<volume>22</volume>
+<journal>Formal Methods in System Design</journal>
+<number>1</number>
+<url>db/journals/fmsd/fmsd22.html#BerardFKM03</url>
+</article>
+</r>
+<r><book key="books/lib/Berard01" mdate="2019-08-01">
+<author>Béatrice Bérard</author>
+<author>Michel Bidoit</author>
+<author>Alain Finkel</author>
+<author>François Laroussinie</author>
+<author>Antoine Petit 0001</author>
+<author>Laure Petrucci</author>
+<author>Philippe Schnoebelen</author>
+<author>Pierre McKenzie</author>
+<title>Systems and Software Verification, Model-Checking Techniques and Tools.</title>
+<publisher>Springer</publisher>
+<year>2001</year>
+<isbn>978-3-642-07478-3</isbn>
+<isbn>978-3-662-04558-9</isbn>
+<isbn>9783540415237</isbn>
+<pages>I-XII, 1-190</pages>
+</book>
+</r>
+<r><article key="journals/dc/BeauquierBFM01" mdate="2018-11-02">
+<author>Joffroy Beauquier</author>
+<author>Béatrice Bérard</author>
+<author>Laurent Fribourg</author>
+<author orcid="0000-0002-8330-5197">Frédéric Magniette</author>
+<title>Proving convergence of self-stabilizing systems using first-order rewriting and regular languages.</title>
+<pages>83-95</pages>
+<year>2001</year>
+<volume>14</volume>
+<journal>Distributed Computing</journal>
+<number>2</number>
+<url>db/journals/dc/dc14.html#BeauquierBFM01</url>
+</article>
+</r>
+<r><article key="journals/acta/BerardP00" mdate="2017-06-02">
+<author>Béatrice Bérard</author>
+<author>Claudine Picaronny</author>
+<title>Accepting Zeno words: a way toward timed refinements.</title>
+<pages>45-81</pages>
+<year>2000</year>
+<volume>37</volume>
+<journal>Acta Inf.</journal>
+<number>1</number>
+<url>db/journals/acta/acta37.html#BerardP00</url>
+</article>
+</r>
+<r><article key="journals/ipl/BerardD00" mdate="2017-05-26">
+<author>Béatrice Bérard</author>
+<author>Catherine Dufourd</author>
+<title>Timed automata and additive clock constraints.</title>
+<pages>1-7</pages>
+<year>2000</year>
+<volume>75</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1-2</number>
+<url>db/journals/ipl/ipl75.html#BerardD00</url>
+</article>
+</r>
+<r><inproceedings key="conf/fossacs/BerardLS00" mdate="2017-05-23">
+<author>Béatrice Bérard</author>
+<author>Anne Labroue</author>
+<author>Philippe Schnoebelen</author>
+<title>Verifying Performance Equivalence for Timed Basic Parallel Processes.</title>
+<pages>35-47</pages>
+<year>2000</year>
+<crossref>conf/fossacs/2000</crossref>
+<booktitle>FoSSaCS</booktitle>
+<url>db/conf/fossacs/fossacs2000.html#BerardLS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/BerardF99" mdate="2017-05-24">
+<author>Béatrice Bérard</author>
+<author>Laurent Fribourg</author>
+<title>Automated Verification of a Parametric Real-Time Program: The ABR Conformance Protocol.</title>
+<pages>96-107</pages>
+<year>1999</year>
+<crossref>conf/cav/1999</crossref>
+<booktitle>CAV</booktitle>
+<url>db/conf/cav/cav99.html#BerardF99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/concur/BerardF99" mdate="2017-05-23">
+<author>Béatrice Bérard</author>
+<author>Laurent Fribourg</author>
+<title>Reachability Analysis of (Timed) Petri Nets Using Real Arithmetic.</title>
+<pages>178-193</pages>
+<year>1999</year>
+<crossref>conf/concur/1999</crossref>
+<booktitle>CONCUR</booktitle>
+<url>db/conf/concur/concur1999.html#BerardF99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BeauquierBF99" mdate="2017-05-19">
+<author>Joffroy Beauquier</author>
+<author>Béatrice Bérard</author>
+<author>Laurent Fribourg</author>
+<title>A New Rewrite Method for Convergence of Self-Stabilizing Systems.</title>
+<pages>240-253</pages>
+<year>1999</year>
+<crossref>conf/wdag/1999</crossref>
+<booktitle>DISC</booktitle>
+<url>db/conf/wdag/disc99.html#BeauquierBF99</url>
+</inproceedings>
+</r>
+<r><article key="journals/fuin/BerardPDG98" mdate="2017-12-14">
+<author>Béatrice Bérard</author>
+<author>Antoine Petit 0001</author>
+<author>Volker Diekert</author>
+<author>Paul Gastin</author>
+<title>Characterization of the Expressive Power of Silent Transitions in Timed Automata.</title>
+<pages>145-182</pages>
+<year>1998</year>
+<volume>36</volume>
+<journal>Fundam. Inform.</journal>
+<number>2-3</number>
+<url>db/journals/fuin/fuin36.html#BerardPDG98</url>
+</article>
+</r>
+<r><inproceedings key="conf/mfcs/BerardP97" mdate="2017-05-22">
+<author>Béatrice Bérard</author>
+<author>Claudine Picaronny</author>
+<title>Accepting Zeno Words Without Making Time Stand Still.</title>
+<pages>149-158</pages>
+<year>1997</year>
+<crossref>conf/mfcs/1997</crossref>
+<booktitle>MFCS</booktitle>
+<url>db/conf/mfcs/mfcs97.html#BerardP97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stacs/BerardGP96" mdate="2017-12-14">
+<author>Béatrice Bérard</author>
+<author>Paul Gastin</author>
+<author>Antoine Petit 0001</author>
+<title>On the Power of Non-Observable Actions in Timed Automata.</title>
+<pages>257-268</pages>
+<year>1996</year>
+<crossref>conf/stacs/1996</crossref>
+<booktitle>STACS</booktitle>
+<url>db/conf/stacs/stacs96.html#BerardGP96</url>
+</inproceedings>
+</r>
+<r><article key="journals/ipl/Berard95" mdate="2017-05-26">
+<author>Béatrice Bérard</author>
+<title>Untiming Timed Languages.</title>
+<pages>129-135</pages>
+<year>1995</year>
+<volume>55</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl55.html#Berard95</url>
+</article>
+</r>
+<r><article key="journals/tcs/Berard94" mdate="2017-05-28">
+<author>Béatrice Bérard</author>
+<title>Global Serializability of Concurrent Programs.</title>
+<pages>41-70</pages>
+<year>1994</year>
+<volume>124</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/tcs/tcs124.html#Berard94</url>
+</article>
+</r>
+<r><article key="journals/actaC/Berard87" mdate="2013-07-09">
+<author>Béatrice Bérard</author>
+<title>Formal properties of literal shuffle.</title>
+<pages>27-39</pages>
+<year>1987</year>
+<volume>8</volume>
+<journal>Acta Cybern.</journal>
+<number>1</number>
+<url>db/journals/actaC/actaC8.html#Berard87</url>
+</article>
+</r>
+<r><article key="journals/tcs/Berard87" mdate="2017-05-28">
+<author>Béatrice Bérard</author>
+<title>Literal Shuffle.</title>
+<pages>281-299</pages>
+<year>1987</year>
+<volume>51</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs51.html#Berard87</url>
+</article>
+</r>
+<r><inproceedings key="conf/caap/BeauquierB86" mdate="2017-05-19">
+<author>Joffroy Beauquier</author>
+<author>Béatrice Bérard</author>
+<title>On the Equivalence of Synchronization Sets.</title>
+<pages>17-29</pages>
+<year>1986</year>
+<crossref>conf/caap/1986</crossref>
+<booktitle>CAAP</booktitle>
+<url>db/conf/caap/caap86.html#BeauquierB86</url>
+</inproceedings>
+</r>
+<coauthors n="59" nc="1">
+<co c="0"><na f="b/Barbot:Beno=icirc=t">Benoît Barbot</na></co>
+<co c="0"><na f="b/Beauquier:Joffroy">Joffroy Beauquier</na></co>
+<co c="0"><na f="b/Benabdelhafid:Maya_Souilah">Maya Souilah Benabdelhafid</na></co>
+<co c="0"><na f="b/Benattar:Gilles">Gilles Benattar</na></co>
+<co c="0"><na f="b/Bidoit:Michel">Michel Bidoit</na></co>
+<co c="0"><na f="b/Bollig:Benedikt">Benedikt Bollig</na></co>
+<co c="0"><na f="b/Boufa=iuml=da:Mahmoud">Mahmoud Boufaïda</na></co>
+<co c="0"><na f="b/Bouyer:Patricia">Patricia Bouyer</na></co>
+<co c="0"><na f="c/Cabasino:Maria_Paola">Maria Paola Cabasino</na></co>
+<co c="-1"><na f="c/Carton:Olivier">Olivier Carton</na></co>
+<co c="0"><na f="c/Cassez:Franck">Franck Cassez</na></co>
+<co c="0"><na f="c/Chatterjee:Krishnendu">Krishnendu Chatterjee</na></co>
+<co c="0"><na f="d/Diekert:Volker">Volker Diekert</na></co>
+<co c="0"><na f="d/Din:Mohab_Safey_El">Mohab Safey El Din</na></co>
+<co c="0"><na f="d/Dufourd:Catherine">Catherine Dufourd</na></co>
+<co c="0"><na f="d/Duplouy:Yann">Yann Duplouy</na></co>
+<co c="0"><na f="f/Febbraro:Angela_Di">Angela Di Febbraro</na></co>
+<co c="0"><na f="f/Finkel:Alain">Alain Finkel</na></co>
+<co c="0"><na f="f/Fribourg:Laurent">Laurent Fribourg</na></co>
+<co c="0"><na f="g/Gastin:Paul">Paul Gastin</na></co>
+<co c="0"><na f="g/Giua:Alessandro">Alessandro Giua</na></co>
+<co c="0"><na f="g/Gourcuff:V=">V. Gourcuff</na></co>
+<co c="0"><na f="h/Haar:Stefan">Stefan Haar</na></co>
+<co c="0"><na f="h/Haddad:Serge">Serge Haddad</na></co>
+<co c="0"><na f="h/H=eacute=lou=euml=t:Lo=iuml=c">Loïc Hélouët</na></co>
+<co c="0"><na f="h/Hillah:Lom=Messan">Lom-Messan Hillah</na></co>
+<co c="0"><na f="j/Jovanovic:Aleksandra">Aleksandra Jovanovic</na></co>
+<co c="0"><na f="j/Jug=eacute=:Vincent">Vincent Jugé</na></co>
+<co c="0"><na f="k/Klay:Francis">Francis Klay</na></co>
+<co c="0"><na f="k/Kordon:Fabrice">Fabrice Kordon</na></co>
+<co c="0"><na f="k/Kouchnarenko:Olga">Olga Kouchnarenko</na></co>
+<co c="0"><na f="l/Labroue:Anne">Anne Labroue</na></co>
+<co c="0"><na f="l/Lafourcade_0001:Pascal">Pascal Lafourcade 0001</na></co>
+<co c="0"><na f="l/Laroussinie:Fran=ccedil=ois">François Laroussinie</na></co>
+<co c="0"><na f="l/Lefaucheux:Engel">Engel Lefaucheux</na></co>
+<co c="0"><na f="l/Lehaut:Mathieu">Mathieu Lehaut</na></co>
+<co c="0"><na f="l/Lime:Didier">Didier Lime</na></co>
+<co c="0"><na f="m/Magniette:Fr=eacute=d=eacute=ric">Frédéric Magniette</na></co>
+<co c="0"><na f="m/McKenzie:Pierre">Pierre McKenzie</na></co>
+<co c="0"><na f="m/Millet:Laure">Laure Millet</na></co>
+<co c="0"><na f="m/Mokadem:Houda_Bel">Houda Bel Mokadem</na></co>
+<co c="0"><na f="m/Monin:Jean=Fran=ccedil=ois">Jean-François Monin</na></co>
+<co c="0"><na f="m/Mullins:John">John Mullins</na></co>
+<co c="0"><na f="p/Petit_0001:Antoine">Antoine Petit 0001</na></co>
+<co c="0"><na f="p/Petrucci:Laure">Laure Petrucci</na></co>
+<co c="0"><na f="p/Picaronny:Claudine">Claudine Picaronny</na></co>
+<co c="0"><na f="p/Potop=Butucaru:Maria">Maria Potop-Butucaru</na></co>
+<co c="0"><na f="r/Roussel:J=">J. Roussel</na></co>
+<co c="0"><na f="r/Roux:Olivier_H=">Olivier H. Roux</na></co>
+<co c="0"><na f="s/Sassolas:Mathieu">Mathieu Sassolas</na></co>
+<co c="0"><na f="s/Schmitz:Sylvain">Sylvain Schmitz</na></co>
+<co c="0"><na f="s/Schnoebelen:Philippe">Philippe Schnoebelen</na></co>
+<co c="0"><na f="s/Schwoon:Stefan">Stefan Schwoon</na></co>
+<co c="0"><na f="s/Seatzu:Carla">Carla Seatzu</na></co>
+<co c="0"><na f="s/Smet:O=_De">O. De Smet</na></co>
+<co c="0"><na f="s/Sznajder:Nathalie">Nathalie Sznajder</na></co>
+<co c="0"><na f="t/Thierry=Mieg:Yann">Yann Thierry-Mieg</na></co>
+<co c="0"><na f="t/Tixeuil:S=eacute=bastien">Sébastien Tixeuil</na></co>
+<co c="0"><na f="z/Zhang_0017:Yan">Yan Zhang 0017</na></co>
+</coauthors>
+</dblpperson>
+

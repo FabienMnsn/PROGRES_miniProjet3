@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Binh-Minh Bui-Xuan" n="27">
+<person key="homepages/b/BinhMinhBuiXuan" mdate="2016-02-03">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Bùi Xuân Bình Minh</author>
+<note type="affiliation">LIRMM Montpellier, France</note>
+<url>http://www.lirmm.fr/~buixuan/</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-1904-02076" mdate="2019-04-24">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Pierre Meyer</author>
+<author>Antoine Roux</author>
+<title>Lightweight FEC: Rectangular Codes with Minimum Feedback Information.</title>
+<year>2019</year>
+<volume>abs/1904.02076</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.02076</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-02076</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-08615" mdate="2019-01-02">
+<author>Julien Baste</author>
+<author>Binh-Minh Bui-Xuan</author>
+<author>Antoine Roux</author>
+<title>Temporal Matching.</title>
+<year>2018</year>
+<volume>abs/1812.08615</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.08615</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-08615</url>
+</article>
+</r>
+<r><article key="journals/ejc/Bui-XuanSTV13" mdate="2019-09-16">
+<author>Binh-Minh Bui-Xuan</author>
+<author orcid="0000-0002-7236-8336">Ondrej Suchý</author>
+<author>Jan Arne Telle</author>
+<author>Martin Vatshelle</author>
+<title>Feedback vertex set on graphs of low clique-width.</title>
+<pages>666-679</pages>
+<year>2013</year>
+<volume>34</volume>
+<journal>Eur. J. Comb.</journal>
+<number>3</number>
+<url>db/journals/ejc/ejc34.html#Bui-XuanSTV13</url>
+</article>
+</r>
+<r><article key="journals/tcs/Bui-XuanTV13" mdate="2017-05-28">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Jan Arne Telle</author>
+<author>Martin Vatshelle</author>
+<title>Fast dynamic programming for locally checkable vertex subset and vertex partitioning problems.</title>
+<pages>66-76</pages>
+<year>2013</year>
+<volume>511</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs511.html#Bui-XuanTV13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1305-4760" mdate="2018-08-13">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Nick S. Jones</author>
+<title>How modular structure can simplify tasks on networks</title>
+<ee type="oa">http://arxiv.org/abs/1305.4760</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1305.4760</volume>
+<url>db/journals/corr/corr1305.html#abs-1305-4760</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Bui-XuanKL13" mdate="2018-08-13">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Mamadou Moustapha Kanté</author>
+<author>Vincent Limouzy</author>
+<title>A Note on Graphs of Linear Rank-Width 1.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1306.1345</ee>
+<volume>abs/1306.1345</volume>
+<url>db/journals/corr/corr1306.html#Bui-XuanKL13</url>
+</article>
+</r>
+<r><article key="journals/ejc/Bui-XuanHR12" mdate="2017-05-26">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Michel Habib</author>
+<author>Michaël Rao</author>
+<title>Tree-representation of set families and applications to combinatorial decompositions.</title>
+<pages>688-711</pages>
+<year>2012</year>
+<volume>33</volume>
+<journal>Eur. J. Comb.</journal>
+<number>5</number>
+<url>db/journals/ejc/ejc33.html#Bui-XuanHR12</url>
+</article>
+</r>
+<r><article key="journals/tcs/Bui-XuanTV11" mdate="2017-05-28">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Jan Arne Telle</author>
+<author>Martin Vatshelle</author>
+<title>Boolean-width of graphs.</title>
+<pages>5187-5204</pages>
+<year>2011</year>
+<volume>412</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>39</number>
+<url>db/journals/tcs/tcs412.html#Bui-XuanTV11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cocoon/Bui-XuanHMP11" mdate="2017-06-02">
+<author>Binh-Minh Bui-Xuan</author>
+<author orcid="0000-0001-9460-4355">Pinar Heggernes</author>
+<author>Daniel Meister 0001</author>
+<author>Andrzej Proskurowski</author>
+<title>A Generic Approach to Decomposition Algorithms, with an Application to Digraph Decomposition.</title>
+<pages>331-342</pages>
+<year>2011</year>
+<booktitle>COCOON</booktitle>
+<crossref>conf/cocoon/2011</crossref>
+<url>db/conf/cocoon/cocoon2011.html#Bui-XuanHMP11</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/Bui-XuanTV10" mdate="2017-05-28">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Jan Arne Telle</author>
+<author>Martin Vatshelle</author>
+<title>H-join decomposable graphs and algorithms with runtime single exponential in rankwidth.</title>
+<pages>809-819</pages>
+<year>2010</year>
+<volume>158</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>7</number>
+<url>db/journals/dam/dam158.html#Bui-XuanTV10</url>
+</article>
+</r>
+<r><inproceedings key="conf/wg/AdlerBRRTV10" mdate="2017-05-26">
+<author>Isolde Adler</author>
+<author>Binh-Minh Bui-Xuan</author>
+<author>Yuri Rabinovich</author>
+<author>Gabriel Renault</author>
+<author>Jan Arne Telle</author>
+<author>Martin Vatshelle</author>
+<title>On the Boolean-Width of a Graph: Structure and Applications.</title>
+<pages>159-170</pages>
+<year>2010</year>
+<booktitle>WG</booktitle>
+<crossref>conf/wg/2010</crossref>
+<url>db/conf/wg/wg2010.html#AdlerBRRTV10</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/Bui-XuanHLM09" mdate="2017-05-28">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Michel Habib</author>
+<author>Vincent Limouzy</author>
+<author>Fabien de Montgolfier</author>
+<title>Algorithmic aspects of a general modular decomposition theory.</title>
+<pages>1993-2009</pages>
+<year>2009</year>
+<volume>157</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>9</number>
+<url>db/journals/dam/dam157.html#Bui-XuanHLM09</url>
+</article>
+</r>
+<r><article key="journals/endm/Bui-XuanH09" mdate="2017-05-27">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Michel Habib</author>
+<title>Unifying the representation of symmetric crossing families and weakly partitive families.</title>
+<pages>329-333</pages>
+<year>2009</year>
+<volume>34</volume>
+<journal>Electronic Notes in Discrete Mathematics</journal>
+<url>db/journals/endm/endm34.html#Bui-XuanH09</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwoca/Bui-XuanTV09" mdate="2017-05-17">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Jan Arne Telle</author>
+<author>Martin Vatshelle</author>
+<title>Feedback Vertex Set on Graphs of Low Cliquewidth.</title>
+<pages>113-124</pages>
+<year>2009</year>
+<booktitle>IWOCA</booktitle>
+<crossref>conf/iwoca/2009</crossref>
+<url>db/conf/iwoca/iwoca2009.html#Bui-XuanTV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpec/Bui-XuanTV09" mdate="2017-05-26">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Jan Arne Telle</author>
+<author>Martin Vatshelle</author>
+<title>Boolean-Width of Graphs.</title>
+<pages>61-74</pages>
+<year>2009</year>
+<booktitle>IWPEC</booktitle>
+<crossref>conf/iwpec/2009</crossref>
+<url>db/conf/iwpec/iwpec2009.html#Bui-XuanTV09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0903-4796" mdate="2018-08-13">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Jan Arne Telle</author>
+<author>Martin Vatshelle</author>
+<title>Fast FPT algorithms for vertex subset and vertex partitioning problems using neighborhood unions</title>
+<ee type="oa">http://arxiv.org/abs/0903.4796</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0903.4796</volume>
+<url>db/journals/corr/corr0903.html#abs-0903-4796</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/BuiXuan08" mdate="2016-07-14">
+<author>Binh-Minh Bui-Xuan</author>
+<title>Tree-Representation of Set Families in Graph Decompositions and Efficient Algorithms.</title>
+<year>2008</year>
+<school>Montpellier 2 University, France</school>
+</phdthesis>
+</r>
+<r><article key="journals/tcs/Bui-XuanHP08" mdate="2017-11-06">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Michel Habib</author>
+<author orcid="0000-0001-6519-975X">Christophe Paul</author>
+<title>Competitive graph searches.</title>
+<pages>72-80</pages>
+<year>2008</year>
+<volume>393</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<url>db/journals/tcs/tcs393.html#Bui-XuanHP08</url>
+</article>
+</r>
+<r><inproceedings key="conf/latin/Bui-XuanH08" mdate="2017-05-23">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Michel Habib</author>
+<title>A Representation Theorem for Union-Difference Families and Application.</title>
+<pages>492-503</pages>
+<year>2008</year>
+<booktitle>LATIN</booktitle>
+<crossref>conf/latin/2008</crossref>
+<url>db/conf/latin/latin2008.html#Bui-XuanH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isaac/Bui-XuanHLM07" mdate="2017-05-19">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Michel Habib</author>
+<author>Vincent Limouzy</author>
+<author>Fabien de Montgolfier</author>
+<title>Unifying Two Graph Decompositions with Modular Decomposition.</title>
+<pages>52-64</pages>
+<year>2007</year>
+<crossref>conf/isaac/2007</crossref>
+<booktitle>ISAAC</booktitle>
+<url>db/conf/isaac/isaac2007.html#Bui-XuanHLM07</url>
+</inproceedings>
+</r>
+<r><article key="journals/endm/Bui-XuanHLM06" mdate="2017-05-27">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Michel Habib</author>
+<author>Vincent Limouzy</author>
+<author>Fabien de Montgolfier</author>
+<title>On Modular Decomposition Concepts: the case for Homogeneous Relations.</title>
+<pages>13-14</pages>
+<year>2006</year>
+<volume>27</volume>
+<journal>Electronic Notes in Discrete Mathematics</journal>
+<url>db/journals/endm/endm27.html#Bui-XuanHLM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/wg/XuanHLM06" mdate="2017-05-26">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Michel Habib</author>
+<author>Vincent Limouzy</author>
+<author>Fabien de Montgolfier</author>
+<title>Homogeneity vs. Adjacency: Generalising Some Graph Decomposition Algorithms.</title>
+<pages>278-288</pages>
+<year>2006</year>
+<crossref>conf/wg/2006</crossref>
+<booktitle>WG</booktitle>
+<url>db/conf/wg/wg2006.html#XuanHLM06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0603048" mdate="2018-08-13">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Michel Habib</author>
+<author>Vincent Limouzy</author>
+<author>Fabien de Montgolfier</author>
+<title>Homogeneity vs. Adjacency: generalising some graph decomposition algorithms</title>
+<ee type="oa">http://arxiv.org/abs/cs/0603048</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0603048</volume>
+<url>db/journals/corr/corr0603.html#abs-cs-0603048</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0604065" mdate="2018-08-13">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Michel Habib</author>
+<author>Vincent Limouzy</author>
+<author>Fabien de Montgolfier</author>
+<title>Unifying two Graph Decompositions with Modular Decomposition</title>
+<ee type="oa">http://arxiv.org/abs/cs/0604065</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0604065</volume>
+<url>db/journals/corr/corr0604.html#abs-cs-0604065</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0611019" mdate="2018-08-13">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Michel Habib</author>
+<author>Vincent Limouzy</author>
+<author>Fabien de Montgolfier</author>
+<title>Algorithmic Aspects of a Novel Modular Decomposition Theory</title>
+<ee type="oa">http://arxiv.org/abs/cs/0611019</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0611019</volume>
+<url>db/journals/corr/corr0611.html#abs-cs-0611019</url>
+</article>
+</r>
+<r><inproceedings key="conf/isaac/XuanHP05" mdate="2017-11-06">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Michel Habib</author>
+<author orcid="0000-0001-6519-975X">Christophe Paul</author>
+<title>Revisiting T. Uno and M. Yagiura's Algorithm .</title>
+<pages>146-155</pages>
+<year>2005</year>
+<crossref>conf/isaac/2005</crossref>
+<booktitle>ISAAC</booktitle>
+<url>db/conf/isaac/isaac2005.html#XuanHP05</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijfcs/XuanFJ03" mdate="2017-05-27">
+<author>Binh-Minh Bui-Xuan</author>
+<author>Afonso Ferreira</author>
+<author>Aubin Jarry</author>
+<title>Computing Shortest, Fastest, and Foremost Journeys in Dynamic Networks.</title>
+<pages>267-285</pages>
+<year>2003</year>
+<volume>14</volume>
+<journal>Int. J. Found. Comput. Sci.</journal>
+<number>2</number>
+<url>db/journals/ijfcs/ijfcs14.html#XuanFJ03</url>
+</article>
+</r>
+<coauthors n="21" nc="2">
+<co c="0"><na f="a/Adler:Isolde">Isolde Adler</na></co>
+<co c="0"><na f="b/Baste:Julien">Julien Baste</na></co>
+<co c="1"><na f="f/Ferreira:Afonso">Afonso Ferreira</na></co>
+<co c="0"><na f="h/Habib:Michel">Michel Habib</na></co>
+<co c="0"><na f="h/Heggernes:Pinar">Pinar Heggernes</na></co>
+<co c="1"><na f="j/Jarry:Aubin">Aubin Jarry</na></co>
+<co c="-1"><na f="j/Jones:Nick_S=">Nick S. Jones</na></co>
+<co c="0"><na f="k/Kant=eacute=:Mamadou_Moustapha">Mamadou Moustapha Kanté</na></co>
+<co c="0"><na f="l/Limouzy:Vincent">Vincent Limouzy</na></co>
+<co c="0"><na f="m/Meister_0001:Daniel">Daniel Meister 0001</na></co>
+<co c="0"><na f="m/Meyer:Pierre">Pierre Meyer</na></co>
+<co c="0"><na f="m/Montgolfier:Fabien_de">Fabien de Montgolfier</na></co>
+<co c="0"><na f="p/Paul:Christophe">Christophe Paul</na></co>
+<co c="0"><na f="p/Proskurowski:Andrzej">Andrzej Proskurowski</na></co>
+<co c="0"><na f="r/Rabinovich:Yuri">Yuri Rabinovich</na></co>
+<co c="0"><na f="r/Rao:Micha=euml=l">Michaël Rao</na></co>
+<co c="0"><na f="r/Renault:Gabriel">Gabriel Renault</na></co>
+<co c="0"><na f="r/Roux:Antoine">Antoine Roux</na></co>
+<co c="0"><na f="s/Such=yacute=:Ondrej">Ondrej Suchý</na></co>
+<co c="0"><na f="t/Telle:Jan_Arne">Jan Arne Telle</na></co>
+<co c="0"><na f="v/Vatshelle:Martin">Martin Vatshelle</na></co>
+</coauthors>
+</dblpperson>
+

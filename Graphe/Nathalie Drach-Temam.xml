@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Nathalie Drach-Temam" n="28">
+<person key="homepages/n/NathalieDrach" mdate="2016-03-03">
+<author>Nathalie Drach-Temam</author>
+<author>Nathalie Drach</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www-asim.lip6.fr/~drach/</url>
+</person>
+<r><inproceedings key="conf/IEEEpact/DrebesPH0D16" mdate="2018-11-06">
+<author>Andi Drebes</author>
+<author orcid="0000-0002-7715-4281">Antoniu Pop</author>
+<author>Karine Heydemann</author>
+<author>Albert Cohen 0001</author>
+<author>Nathalie Drach</author>
+<title>Scalable Task Parallelism for NUMA: A Uniform Abstraction for Coordinated Scheduling and Memory Management.</title>
+<pages>125-137</pages>
+<year>2016</year>
+<booktitle>PACT</booktitle>
+<crossref>conf/IEEEpact/2016</crossref>
+<url>db/conf/IEEEpact/pact2016.html#DrebesPH0D16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/DrebesPHD016" mdate="2018-11-06">
+<author>Andi Drebes</author>
+<author orcid="0000-0002-7715-4281">Antoniu Pop</author>
+<author>Karine Heydemann</author>
+<author>Nathalie Drach</author>
+<author>Albert Cohen 0001</author>
+<title>NUMA-aware scheduling and memory allocation for data-flow task-parallel applications.</title>
+<pages>44:1-44:2</pages>
+<year>2016</year>
+<booktitle>PPOPP</booktitle>
+<crossref>conf/ppopp/2016</crossref>
+<url>db/conf/ppopp/ppopp2016.html#DrebesPHD016</url>
+</inproceedings>
+</r>
+<r><article key="journals/taco/DrebesHDPC14" mdate="2018-11-06">
+<author>Andi Drebes</author>
+<author>Karine Heydemann</author>
+<author>Nathalie Drach</author>
+<author>Antoniu Pop</author>
+<author>Albert Cohen 0001</author>
+<title>Topology-Aware and Dependence-Aware Scheduling and Memory Allocation for Task-Parallel Languages.</title>
+<pages>30:1-30:25</pages>
+<year>2014</year>
+<volume>11</volume>
+<journal>TACO</journal>
+<number>3</number>
+<url>db/journals/taco/taco11.html#DrebesHDPC14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DrebesHPCD14" mdate="2018-08-13">
+<author>Andi Drebes</author>
+<author>Karine Heydemann</author>
+<author>Antoniu Pop</author>
+<author>Albert Cohen 0001</author>
+<author>Nathalie Drach</author>
+<title>Automatic Detection of Performance Anomalies in Task-Parallel Programs.</title>
+<year>2014</year>
+<volume>abs/1405.2916</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1405.2916</ee>
+<url>db/journals/corr/corr1405.html#DrebesHPCD14</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/RosiereDDW12" mdate="2017-05-23">
+<author>Mathieu Rosiere</author>
+<author>Jean Lou Desbarbieux</author>
+<author>Nathalie Drach</author>
+<author>Franck Wajsbürt</author>
+<title>An out-of-order superscalar processor on FPGA: The ReOrder Buffer design.</title>
+<pages>1549-1554</pages>
+<year>2012</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2012</crossref>
+<url>db/conf/date/date2012.html#RosiereDDW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/RosiereDDW11" mdate="2017-05-21">
+<author>Mathieu Rosiere</author>
+<author>Jean Lou Desbarbieux</author>
+<author>Nathalie Drach</author>
+<author>Franck Wajsbürt</author>
+<title>Morpheo: A high-performance processor generator for a FPGA implementation.</title>
+<pages>27-34</pages>
+<year>2011</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2011</crossref>
+<url>db/conf/dasip/dasip2011.html#RosiereDDW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/GamoudiDH11" mdate="2017-05-24">
+<author>Oussama Gamoudi</author>
+<author>Nathalie Drach</author>
+<author>Karine Heydemann</author>
+<title>Using Runtime Activity to Dynamically Filter Out Inefficient Data Prefetches.</title>
+<pages>338-350</pages>
+<year>2011</year>
+<booktitle>Euro-Par (1)</booktitle>
+<crossref>conf/europar/2011-1</crossref>
+<url>db/conf/europar/europar2011-1.html#GamoudiDH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/HuuRAD11" mdate="2019-02-07">
+<author>Nguyen Minh Huu</author>
+<author>Bruno Robisson</author>
+<author>Michel Agoyan</author>
+<author>Nathalie Drach</author>
+<title>Low-cost recovery for the code integrity protection in secure embedded processors.</title>
+<pages>99-104</pages>
+<year>2011</year>
+<booktitle>HOST</booktitle>
+<crossref>conf/host/2011</crossref>
+<url>db/conf/host/host2011.html#HuuRAD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ddecs/HuuRAD10" mdate="2017-05-17">
+<author>Nguyen Minh Huu</author>
+<author>Bruno Robisson</author>
+<author>Michel Agoyan</author>
+<author>Nathalie Drach</author>
+<title>Low-cost fault tolerance on the ALU in simple pipelined processors.</title>
+<pages>28-31</pages>
+<year>2010</year>
+<booktitle>DDECS</booktitle>
+<crossref>conf/ddecs/2010</crossref>
+<url>db/conf/ddecs/ddecs2010.html#HuuRAD10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/CoveliersHD08" mdate="2017-05-20">
+<author>Alexandre Coveliers</author>
+<author>Karine Heydemann</author>
+<author>Nathalie Drach</author>
+<title>Étude de la sensibilité aux jeux de données de la compilation itérative.</title>
+<pages>757-777</pages>
+<year>2008</year>
+<volume>27</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>6</number>
+<url>db/journals/tsi/tsi27.html#CoveliersHD08</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/CertnerLPTAD08" mdate="2018-11-06">
+<author>Olivier Certner</author>
+<author>Zheng Li</author>
+<author>Pierre Palatin</author>
+<author>Olivier Temam</author>
+<author>Frederic Arzel</author>
+<author>Nathalie Drach</author>
+<title>A Practical Approach for Reconciling High and Predictable Performance in Non-Regular Parallel Programs.</title>
+<pages>740-745</pages>
+<year>2008</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2008</crossref>
+<url>db/conf/date/date2008.html#CertnerLPTAD08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/LimousinSVD05" mdate="2017-05-20">
+<author>Claude Limousin</author>
+<author>Julien Sébot</author>
+<author>Alexis Vartanian</author>
+<author>Nathalie Drach</author>
+<title>Architecture optimization for multimedia application exploiting data and thread-level parallelism.</title>
+<pages>15-27</pages>
+<year>2005</year>
+<volume>51</volume>
+<journal>Journal of Systems Architecture</journal>
+<number>1</number>
+<url>db/journals/jsa/jsa51.html#LimousinSVD05</url>
+</article>
+</r>
+<r><inproceedings key="conf/cgo/DupreDT04" mdate="2017-05-25">
+<author>Michael Dupré</author>
+<author>Nathalie Drach</author>
+<author>Olivier Temam</author>
+<title>VHC: Quickly Building an Optimizer for Complex Embedded Architectures.</title>
+<pages>53-64</pages>
+<year>2004</year>
+<crossref>conf/cgo/2004</crossref>
+<booktitle>CGO</booktitle>
+<url>db/conf/cgo/cgo2004.html#DupreDT04</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/DupreD03" mdate="2017-05-20">
+<author>Michael Dupré</author>
+<author>Nathalie Drach</author>
+<title>Algorithme d'ordonnancement dynamique pour exécution statique.</title>
+<pages>713-735</pages>
+<year>2003</year>
+<volume>22</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>6</number>
+<url>db/journals/tsi/tsi22.html#DupreD03</url>
+</article>
+</r>
+<r><article key="journals/jsa/DrachBT02" mdate="2017-05-20">
+<author>Nathalie Drach</author>
+<author>Jean-Luc Béchennec</author>
+<author>Olivier Temam</author>
+<title>Increasing hardware data prefetching performance using the second-level cache.</title>
+<pages>137-149</pages>
+<year>2002</year>
+<volume>48</volume>
+<journal>Journal of Systems Architecture</journal>
+<number>4-5</number>
+<url>db/journals/jsa/jsa48.html#DrachBT02</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/SebotD01" mdate="2017-05-24">
+<author>Julien Sébot</author>
+<author>Nathalie Drach-Temam</author>
+<title>Memory Bandwidth: The True Bottleneck of SIMD Multimedia Performance on a Superscalar Processor.</title>
+<pages>439-447</pages>
+<year>2001</year>
+<crossref>conf/europar/2001</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2001.html#SebotD01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/LimousinSVD01" mdate="2018-11-06">
+<author>Claude Limousin</author>
+<author>Julien Sébot</author>
+<author>Alexis Vartanian</author>
+<author>Nathalie Drach-Temam</author>
+<title>Improving 3D geometry transformations on a simultaneous multithreaded SIMD processor.</title>
+<pages>236-245</pages>
+<year>2001</year>
+<crossref>conf/ics/2001</crossref>
+<booktitle>ICS</booktitle>
+<url>db/conf/ics/ics2001.html#LimousinSVD01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpca/VartanianBD00" mdate="2017-05-19">
+<author>Alexis Vartanian</author>
+<author>Jean-Luc Béchennec</author>
+<author>Nathalie Drach-Temam</author>
+<title>The Best Distribution for a Parallel OpenGL 3D Engine with Texture Caches.</title>
+<pages>399-408</pages>
+<year>2000</year>
+<crossref>conf/hpca/2000</crossref>
+<booktitle>HPCA</booktitle>
+<url>db/conf/hpca/hpca2000.html#VartanianBD00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/JulienVBD99" mdate="2017-05-24">
+<author>Julien Sébot</author>
+<author>Alexis Vartanian</author>
+<author>Jean-Luc Béchennec</author>
+<author>Nathalie Drach-Temam</author>
+<title>A Parallel Algorithm for 3D Geometry Transformations in OpenGL.</title>
+<pages>659-662</pages>
+<year>1999</year>
+<crossref>conf/europar/1999</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar99.html#JulienVBD99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/VartanianBD99" mdate="2017-05-24">
+<author>Alexis Vartanian</author>
+<author>Jean-Luc Béchennec</author>
+<author>Nathalie Drach-Temam</author>
+<title>Two Schemes to Improve the Performance of a <i>Sort-Last</i> 3D Parallel Rendering Machine with Texture Caches.</title>
+<pages>757-760</pages>
+<year>1999</year>
+<crossref>conf/europar/1999</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar99.html#VartanianBD99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/VartanianBD98" mdate="2018-11-06">
+<author>Alexis Vartanian</author>
+<author>Jean-Luc Béchennec</author>
+<author>Nathalie Drach-Temam</author>
+<title>Evaluation of High Performance Multicache Parallel Texture Mapping.</title>
+<pages>289-296</pages>
+<year>1998</year>
+<crossref>conf/ics/1998</crossref>
+<booktitle>International Conference on Supercomputing</booktitle>
+<url>db/conf/ics/ics1998.html#VartanianBD98</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/TemamD95" mdate="2017-05-27">
+<author>Olivier Temam</author>
+<author>Nathalie Drach</author>
+<title>Software assistance for data caches.</title>
+<pages>519-536</pages>
+<year>1995</year>
+<volume>11</volume>
+<journal>Future Generation Comp. Syst.</journal>
+<number>6</number>
+<url>db/journals/fgcs/fgcs11.html#TemamD95</url>
+</article>
+</r>
+<r><article key="journals/ppl/DrachGJS95" mdate="2017-05-17">
+<author>Nathalie Drach</author>
+<author>Alain Gefflaut</author>
+<author>Philippe Joubert</author>
+<author>André Seznec</author>
+<title>About Cache Associativity in Low-Cost Shared Memory Multi-Microprocessors.</title>
+<pages>475-487</pages>
+<year>1995</year>
+<volume>5</volume>
+<journal>Parallel Processing Letters</journal>
+<url>db/journals/ppl/ppl5.html#DrachGJS95</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEpact/DrachSW95" mdate="2016-04-07">
+<author>Nathalie Drach</author>
+<author>André Seznec</author>
+<author>Daniel Windheiser</author>
+<title>Direct-mapped versus set-associative pipelined caches.</title>
+<pages>79-88</pages>
+<year>1995</year>
+<booktitle>PACT</booktitle>
+<crossref>conf/IEEEpact/1995</crossref>
+<url>db/conf/IEEEpact/pact1995.html#DrachSW95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpca/TemamD95" mdate="2017-05-19">
+<author>Olivier Temam</author>
+<author>Nathalie Drach</author>
+<title>Software Assistance for Data Caches.</title>
+<pages>154-163</pages>
+<year>1995</year>
+<crossref>conf/hpca/1995</crossref>
+<booktitle>HPCA</booktitle>
+<url>db/conf/hpca/hpca1995.html#TemamD95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/Drach95" mdate="2018-11-06">
+<author>Nathalie Drach</author>
+<title>Hardware Implementation Issues of Data Prefetching.</title>
+<pages>245-254</pages>
+<year>1995</year>
+<crossref>conf/ics/1995</crossref>
+<booktitle>International Conference on Supercomputing</booktitle>
+<url>db/conf/ics/ics1995.html#Drach95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/DrachS93" mdate="2017-05-19">
+<author>Nathalie Drach</author>
+<author>André Seznec</author>
+<title>Semi-Unified Caches.</title>
+<pages>25-28</pages>
+<year>1993</year>
+<crossref>conf/icpp/1993-1</crossref>
+<booktitle>ICPP (1)</booktitle>
+<url>db/conf/icpp/icpp1993-1.html#DrachS93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/DrachS93" mdate="2019-02-13">
+<author>Nathalie Drach</author>
+<author>André Seznec</author>
+<title>MIDEE: smoothing branch and instruction cache miss penalties on deep pipelines.</title>
+<pages>193-201</pages>
+<year>1993</year>
+<crossref>conf/micro/1993</crossref>
+<booktitle>MICRO</booktitle>
+<url>db/conf/micro/micro1993.html#DrachS93</url>
+</inproceedings>
+</r>
+<coauthors n="26" nc="1">
+<co c="0"><na f="a/Agoyan:Michel">Michel Agoyan</na></co>
+<co c="0"><na f="a/Arzel:Frederic">Frederic Arzel</na></co>
+<co c="0"><na f="b/B=eacute=chennec:Jean=Luc">Jean-Luc Béchennec</na></co>
+<co c="0"><na f="c/Certner:Olivier">Olivier Certner</na></co>
+<co c="0"><na f="c/Cohen_0001:Albert">Albert Cohen 0001</na></co>
+<co c="0"><na f="c/Coveliers:Alexandre">Alexandre Coveliers</na></co>
+<co c="0"><na f="d/Desbarbieux:Jean_Lou">Jean Lou Desbarbieux</na></co>
+<co c="0"><na f="d/Drebes:Andi">Andi Drebes</na></co>
+<co c="0"><na f="d/Dupr=eacute=:Michael">Michael Dupré</na></co>
+<co c="0"><na f="g/Gamoudi:Oussama">Oussama Gamoudi</na></co>
+<co c="0"><na f="g/Gefflaut:Alain">Alain Gefflaut</na></co>
+<co c="0"><na f="h/Heydemann:Karine">Karine Heydemann</na></co>
+<co c="0"><na f="h/Huu:Nguyen_Minh">Nguyen Minh Huu</na></co>
+<co c="0"><na f="j/Joubert:Philippe">Philippe Joubert</na></co>
+<co c="0"><na f="l/Li:Zheng">Zheng Li</na></co>
+<co c="0"><na f="l/Limousin:Claude">Claude Limousin</na></co>
+<co c="0"><na f="p/Palatin:Pierre">Pierre Palatin</na></co>
+<co c="0"><na f="p/Pop:Antoniu">Antoniu Pop</na></co>
+<co c="0"><na f="r/Robisson:Bruno">Bruno Robisson</na></co>
+<co c="0"><na f="r/Rosiere:Mathieu">Mathieu Rosiere</na></co>
+<co c="0"><na f="s/S=eacute=bot:Julien">Julien Sébot</na></co>
+<co c="0"><na f="s/Seznec:Andr=eacute=">André Seznec</na></co>
+<co c="0"><na f="t/Temam:Olivier">Olivier Temam</na></co>
+<co c="0"><na f="v/Vartanian:Alexis">Alexis Vartanian</na></co>
+<co c="0"><na f="w/Wajsb=uuml=rt:Franck">Franck Wajsbürt</na></co>
+<co c="0"><na f="w/Windheiser:Daniel">Daniel Windheiser</na></co>
+</coauthors>
+</dblpperson>
+

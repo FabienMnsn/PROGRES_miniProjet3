@@ -1,0 +1,1975 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Carola Doerr" n="143">
+<person key="homepages/62/8086" mdate="2018-10-17">
+<author>Carola Doerr</author>
+<author>Carola Winzen</author>
+<note type="affiliation">Max Planck Institute for Informatics, Saarbrücken, Germany</note>
+<url>http://www-desir.lip6.fr/~doerr/</url>
+<url>http://www.mpi-inf.mpg.de/~winzen/</url>
+<url>https://scholar.google.com/citations?user=CU-V1sEAAAAJ</url>
+<url>https://dl.acm.org/author_page.cfm?id=81466642620</url>
+</person>
+<r><article key="journals/tcs/DoerrDY20" mdate="2019-12-02">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<author>Jing Yang 0016</author>
+<title>Optimal parameter choices via precise black-box analysis.</title>
+<pages>1-34</pages>
+<year>2020</year>
+<volume>801</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs801.html#DoerrDY20</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/DoerrS19" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Dirk Sudholt</author>
+<title>Preface to the Special Issue on Theory of Genetic and Evolutionary Computation.</title>
+<pages>589-592</pages>
+<year>2019</year>
+<volume>81</volume>
+<journal>Algorithmica</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s00453-018-00543-8</ee>
+<url>db/journals/algorithmica/algorithmica81.html#DoerrS19</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/DoerrDK19" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Timo Kötzing</author>
+<title>Solving Problems with Unknown Solution Length at Almost No Extra Cost.</title>
+<pages>703-748</pages>
+<year>2019</year>
+<volume>81</volume>
+<journal>Algorithmica</journal>
+<number>2</number>
+<url>db/journals/algorithmica/algorithmica81.html#DoerrDK19</url>
+</article>
+</r>
+<r><article key="journals/dam/AfshaniADDLM19" mdate="2019-05-31">
+<author>Peyman Afshani</author>
+<author>Manindra Agrawal</author>
+<author orcid="0000-0002-9786-220X">Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Kasper Green Larsen</author>
+<author>Kurt Mehlhorn</author>
+<title>The query complexity of a permutation-based variant of Mastermind.</title>
+<pages>28-50</pages>
+<year>2019</year>
+<volume>260</volume>
+<journal>Discrete Applied Mathematics</journal>
+<url>db/journals/dam/dam260.html#AfshaniADDLM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/YeDB19" mdate="2019-12-27">
+<author>Furong Ye</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Thomas Bäck</author>
+<title>Interpolating Local and Global Search by Controlling the Variance of Standard Bit Mutation.</title>
+<pages>2292-2299</pages>
+<year>2019</year>
+<booktitle>CEC</booktitle>
+<crossref>conf/cec/2019</crossref>
+<url>db/conf/cec/cec2019.html#YeDB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrD019" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author orcid="0000-0002-2721-3618">Frank Neumann 0001</author>
+<title>Fast re-optimization via structural diversity.</title>
+<pages>233-241</pages>
+<year>2019</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2019</crossref>
+<url>db/conf/gecco/gecco2019.html#DoerrD019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/BuskulicD19" mdate="2019-12-27">
+<author>Nathan Buskulic</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Maximizing drift is not optimal for solving OneMax.</title>
+<pages>425-426</pages>
+<year>2019</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2019c</crossref>
+<url>db/conf/gecco/gecco2019c.html#BuskulicD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/RodionovaABD19" mdate="2019-12-27">
+<author>Anna Rodionova</author>
+<author>Kirill Antonov</author>
+<author>Arina Buzdalova</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Offspring population size matters when comparing evolutionary algorithms with self-adjusting mutation rates.</title>
+<pages>855-863</pages>
+<year>2019</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2019</crossref>
+<url>db/conf/gecco/gecco2019.html#RodionovaABD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DangD19" mdate="2019-12-27">
+<author orcid="0000-0002-2693-6953">Nguyen Dang</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Hyper-parameter tuning for the (1 + (<i>λ, λ</i>)) GA.</title>
+<pages>889-897</pages>
+<year>2019</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2019</crossref>
+<url>db/conf/gecco/gecco2019.html#DangD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/Doerr19b" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Dynamic parameter choices in evolutionary computation.</title>
+<pages>890-922</pages>
+<year>2019</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2019c</crossref>
+<url>db/conf/gecco/gecco2019c.html#Doerr19b</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/VermettenRBD19" mdate="2019-12-27">
+<author>Diederick Vermetten</author>
+<author>Sander van Rijn</author>
+<author>Thomas Bäck</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Online selection of CMA-ES variants.</title>
+<pages>951-959</pages>
+<year>2019</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2019</crossref>
+<url>db/conf/gecco/gecco2019.html#VermettenRBD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DreoDS19" mdate="2019-12-27">
+<author>Johann Dréo</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Yann Semet</author>
+<title>Coupling the design of benchmark with algorithm in landscape-aware solver design.</title>
+<pages>1419-1420</pages>
+<year>2019</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2019c</crossref>
+<url>db/conf/gecco/gecco2019c.html#DreoDS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrDL19" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Johannes Lengler</author>
+<title>Self-adjusting mutation rates with provably optimal success rules.</title>
+<pages>1479-1487</pages>
+<year>2019</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2019</crossref>
+<url>db/conf/gecco/gecco2019.html#DoerrDL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrDK19" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Johann Dréo</author>
+<author>Pascal Kerschke</author>
+<title>Making a case for (Hyper-)parameter tuning as benchmark problems.</title>
+<pages>1755-1764</pages>
+<year>2019</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2019c</crossref>
+<url>db/conf/gecco/gecco2019c.html#DoerrDK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/CalvoSCD0BL19" mdate="2019-12-27">
+<author>Borja Calvo</author>
+<author>Ofer M. Shir</author>
+<author>Josu Ceberio</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Hao Wang 0025</author>
+<author>Thomas Bäck</author>
+<author>Jose A. Lozano</author>
+<title>Bayesian performance analysis for black-box optimization benchmarking.</title>
+<pages>1789-1797</pages>
+<year>2019</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2019c</crossref>
+<url>db/conf/gecco/gecco2019c.html#CalvoSCD0BL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrYH0SB19" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Furong Ye</author>
+<author>Naama Horesh</author>
+<author>Hao Wang 0025</author>
+<author>Ofer M. Shir</author>
+<author>Thomas Bäck</author>
+<title>Benchmarking discrete optimization heuristics with IOHprofiler.</title>
+<pages>1798-1806</pages>
+<year>2019</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2019c</crossref>
+<url>db/conf/gecco/gecco2019c.html#DoerrYH0SB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/IgnashovBBD19" mdate="2019-12-27">
+<author>Ivan Ignashov</author>
+<author>Arina Buzdalova</author>
+<author>Maxim Buzdalov</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Illustrating the trade-off between time, quality, and success probability in heuristic search: a discussion paper.</title>
+<pages>1807-1812</pages>
+<year>2019</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2019c</crossref>
+<url>db/conf/gecco/gecco2019c.html#IgnashovBBD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/JankovicD19" mdate="2019-12-27">
+<author>Anja Jankovic</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Adaptive landscape analysis.</title>
+<pages>2032-2035</pages>
+<year>2019</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2019c</crossref>
+<url>db/conf/gecco/gecco2019c.html#JankovicD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/RenauDDD19" mdate="2019-12-27">
+<author>Quentin Renau</author>
+<author>Johann Dréo</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Benjamin Doerr</author>
+<title>Expressiveness and robustness of landscape features.</title>
+<pages>2048-2051</pages>
+<year>2019</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2019c</crossref>
+<url>db/conf/gecco/gecco2019c.html#RenauDDD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/VinokurovBBDD19" mdate="2019-12-27">
+<author>Dmitry Vinokurov</author>
+<author>Maxim Buzdalov</author>
+<author>Arina Buzdalova</author>
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Fixed-target runtime analysis of the (1 + 1) EA with resampling.</title>
+<pages>2068-2071</pages>
+<year>2019</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2019c</crossref>
+<url>db/conf/gecco/gecco2019c.html#VinokurovBBDD19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/foga/2019" mdate="2019-12-27">
+<editor>Tobias Friedrich 0001</editor>
+<editor orcid="0000-0002-4981-3227">Carola Doerr</editor>
+<editor>Dirk V. Arnold</editor>
+<title>Proceedings of the 15th ACM/SIGEVO Conference on Foundations of Genetic Algorithms, FOGA 2019, Potsdam, Germany, August 27-29, 2019.</title>
+<publisher>ACM</publisher>
+<booktitle>FOGA</booktitle>
+<year>2019</year>
+<isbn>978-1-4503-6254-2</isbn>
+<url>db/conf/foga/foga2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-05573" mdate="2019-02-01">
+<author>Furong Ye</author>
+<author>Carola Doerr</author>
+<author>Thomas Bäck</author>
+<title>Interpolating Local and Global Search by Controlling the Variance of Standard Bit Mutation.</title>
+<year>2019</year>
+<volume>abs/1901.05573</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.05573</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-05573</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-00304" mdate="2019-05-21">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<author>Frank Neumann 0001</author>
+<title>Fast Re-Optimization via Structural Diversity.</title>
+<year>2019</year>
+<volume>abs/1902.00304</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.00304</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-00304</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-02588" mdate="2019-05-21">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<author>Johannes Lengler</author>
+<title>Self-Adjusting Mutation Rates with Provably Optimal Success Rules.</title>
+<year>2019</year>
+<volume>abs/1902.02588</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.02588</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-02588</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-04608" mdate="2019-04-25">
+<author>Nguyen Dang</author>
+<author>Carola Doerr</author>
+<title>Hyper-Parameter Tuning for the (1+(λ, λ)) GA.</title>
+<year>2019</year>
+<volume>abs/1904.04608</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.04608</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-04608</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-07801" mdate="2019-04-26">
+<author>Diederick Vermetten</author>
+<author>Sander van Rijn</author>
+<author>Thomas Bäck</author>
+<author>Carola Doerr</author>
+<title>Online Selection of CMA-ES Variants.</title>
+<year>2019</year>
+<volume>abs/1904.07801</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.07801</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-07801</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-07818" mdate="2019-04-26">
+<author>Nathan Buskulic</author>
+<author>Carola Doerr</author>
+<title>Maximizing Drift is Not Optimal for Solving OneMax.</title>
+<year>2019</year>
+<volume>abs/1904.07818</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.07818</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-07818</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-08032" mdate="2019-04-26">
+<author>Anna Rodionova</author>
+<author>Kirill Antonov</author>
+<author>Arina Buzdalova</author>
+<author>Carola Doerr</author>
+<title>Offspring Population Size Matters when Comparing Evolutionary Algorithms with Self-Adjusting Mutation Rates.</title>
+<year>2019</year>
+<volume>abs/1904.08032</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.08032</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-08032</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-11451" mdate="2019-12-04">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<author>Aneta Neumann</author>
+<author>Frank Neumann 0001</author>
+<author>Andrew M. Sutton</author>
+<title>Optimization of Chance-Constrained Submodular Functions.</title>
+<year>2019</year>
+<volume>abs/1911.11451</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.11451</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-11451</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/DoerrL18" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author orcid="0000-0003-0004-7629">Johannes Lengler</author>
+<title>The (1+1) Elitist Black-Box Complexity of LeadingOnes.</title>
+<pages>1579-1603</pages>
+<year>2018</year>
+<volume>80</volume>
+<journal>Algorithmica</journal>
+<number>5</number>
+<url>db/journals/algorithmica/algorithmica80.html#DoerrL18</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/DoerrD18" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Optimal Static and Self-Adjusting Parameter Choices for the (1+(λ, λ)) Genetic Algorithm.</title>
+<pages>1658-1709</pages>
+<year>2018</year>
+<volume>80</volume>
+<journal>Algorithmica</journal>
+<number>5</number>
+<url>db/journals/algorithmica/algorithmica80.html#DoerrD18</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/DoerrDK18" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Timo Kötzing</author>
+<title>Static and Self-Adjusting Mutation Strengths for Multi-valued Decision Variables.</title>
+<pages>1732-1768</pages>
+<year>2018</year>
+<volume>80</volume>
+<journal>Algorithmica</journal>
+<number>5</number>
+<url>db/journals/algorithmica/algorithmica80.html#DoerrDK18</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/Doerr18b" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Dynamic parameter choices in evolutionary computation.</title>
+<pages>800-830</pages>
+<year>2018</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2018c</crossref>
+<url>db/conf/gecco/gecco2018c.html#Doerr18b</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/Doerr018" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Markus Wagner 0007</author>
+<title>Simple on-the-fly parameter selection mechanisms for two classical discrete black-box optimization benchmark problems.</title>
+<pages>943-950</pages>
+<year>2018</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2018</crossref>
+<url>db/conf/gecco/gecco2018.html#Doerr018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrYR0B18" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Furong Ye</author>
+<author orcid="0000-0001-6159-041X">Sander van Rijn</author>
+<author>Hao Wang 0025</author>
+<author>Thomas Bäck</author>
+<title>Towards a theory-guided benchmarking suite for discrete black-box optimization heuristics: profiling (1 + λ) EA variants on onemax and leadingones.</title>
+<pages>951-958</pages>
+<year>2018</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2018</crossref>
+<url>db/conf/gecco/gecco2018.html#DoerrYR0B18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/NeumannGDN018" mdate="2019-12-27">
+<author orcid="0000-0002-0036-4782">Aneta Neumann</author>
+<author>Wanru Gao</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author orcid="0000-0002-2721-3618">Frank Neumann 0001</author>
+<author>Markus Wagner 0007</author>
+<title>Discrepancy-based evolutionary diversity optimization.</title>
+<pages>991-998</pages>
+<year>2018</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2018</crossref>
+<url>db/conf/gecco/gecco2018.html#NeumannGDN018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/ShirDB18" mdate="2019-12-27">
+<author>Ofer M. Shir</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author orcid="0000-0001-6768-1478">Thomas Bäck</author>
+<title>Compiling a benchmarking test-suite for combinatorial black-box optimization: a position paper.</title>
+<pages>1753-1760</pages>
+<year>2018</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2018c</crossref>
+<url>db/conf/gecco/gecco2018c.html#ShirDB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppsn/PintoD18" mdate="2018-08-30">
+<author>Eduardo Carvalho Pinto</author>
+<author>Carola Doerr</author>
+<title>A Simple Proof for the Usefulness of Crossover in Black-Box Optimization.</title>
+<pages>29-41</pages>
+<year>2018</year>
+<booktitle>PPSN (2)</booktitle>
+<crossref>conf/ppsn/2018-2</crossref>
+<url>db/conf/ppsn/ppsn2018-2.html#PintoD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppsn/RijnDB18" mdate="2018-09-13">
+<author orcid="0000-0001-6159-041X">Sander van Rijn</author>
+<author>Carola Doerr</author>
+<author>Thomas Bäck</author>
+<title>Towards an Adaptive CMA-ES Configurator.</title>
+<pages>54-65</pages>
+<year>2018</year>
+<booktitle>PPSN (1)</booktitle>
+<crossref>conf/ppsn/2018-1</crossref>
+<url>db/conf/ppsn/ppsn2018-1.html#RijnDB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppsn/Doerr018" mdate="2018-08-30">
+<author>Carola Doerr</author>
+<author>Markus Wagner 0007</author>
+<title>Sensitivity of Parameter Control Mechanisms with Respect to Their Initialization.</title>
+<pages>360-372</pages>
+<year>2018</year>
+<booktitle>PPSN (2)</booktitle>
+<crossref>conf/ppsn/2018-2</crossref>
+<url>db/conf/ppsn/ppsn2018-2.html#Doerr018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppsn/PappaEBBDDDEHJK18" mdate="2019-12-05">
+<author>Gisele Lobo Pappa</author>
+<author>Michael T. M. Emmerich</author>
+<author>Ana L. C. Bazzan</author>
+<author>Will N. Browne</author>
+<author>Kalyanmoy Deb</author>
+<author>Carola Doerr</author>
+<author>Marko Durasevic</author>
+<author>Michael G. Epitropakis</author>
+<author>Saemundur O. Haraldsson</author>
+<author>Domagoj Jakobovic</author>
+<author>Pascal Kerschke</author>
+<author>Krzysztof Krawiec</author>
+<author>Per Kristian Lehre</author>
+<author>Xiaodong Li 0001</author>
+<author>Andrei Lissovoi</author>
+<author>Pekka Malo</author>
+<author>Luis Martí</author>
+<author>Yi Mei 0001</author>
+<author>Juan Julián Merelo Guervós</author>
+<author>Julian F. Miller</author>
+<author>Alberto Moraglio</author>
+<author>Antonio J. Nebro</author>
+<author>Su Nguyen</author>
+<author>Gabriela Ochoa</author>
+<author>Pietro Simone Oliveto</author>
+<author>Stjepan Picek</author>
+<author>Nelishia Pillay</author>
+<author orcid="0000-0003-4681-1346">Mike Preuss</author>
+<author>Marc Schoenauer</author>
+<author>Roman Senkerik</author>
+<author>Ankur Sinha 0001</author>
+<author>Ofer M. Shir</author>
+<author>Dirk Sudholt</author>
+<author>Darrell Whitley</author>
+<author>Mark Wineberg</author>
+<author>John R. Woodward</author>
+<author>Mengjie Zhang</author>
+<title>Tutorials at PPSN 2018.</title>
+<pages>477-489</pages>
+<year>2018</year>
+<booktitle>PPSN (2)</booktitle>
+<crossref>conf/ppsn/2018-2</crossref>
+<url>db/conf/ppsn/ppsn2018-2.html#PappaEBBDDDEHJK18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-02037" mdate="2018-08-13">
+<author>Carola Doerr</author>
+<title>Complexity Theory for Discrete Black-Box Optimization Heuristics.</title>
+<year>2018</year>
+<volume>abs/1801.02037</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.02037</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-02037</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-05448" mdate="2018-08-13">
+<author>Aneta Neumann</author>
+<author>Wanru Gao</author>
+<author>Carola Doerr</author>
+<author>Frank Neumann 0001</author>
+<author>Markus Wagner 0007</author>
+<title>Discrepancy-based Evolutionary Diversity Optimization.</title>
+<year>2018</year>
+<volume>abs/1802.05448</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.05448</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-05448</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-01425" mdate="2018-08-13">
+<author>Carola Doerr</author>
+<author>Markus Wagner 0007</author>
+<title>On the Effectiveness of Simple Success-Based Parameter Selection Mechanisms for Two Classical Discrete Black-Box Optimization Benchmark Problems.</title>
+<year>2018</year>
+<volume>abs/1803.01425</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.01425</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-01425</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-05650" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<title>Theory of Parameter Control for Discrete Black-Box Optimization: Provable Performance Gains Through Dynamic Parameter Choices.</title>
+<year>2018</year>
+<volume>abs/1804.05650</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.05650</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-05650</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-03403" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<author>Jing Yang 0016</author>
+<title>Optimal Parameter Choices via Precise Black-Box Analysis.</title>
+<year>2018</year>
+<volume>abs/1807.03403</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.03403</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-03403</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-05850" mdate="2018-09-02">
+<author>Carola Doerr</author>
+<author>Furong Ye</author>
+<author>Sander van Rijn</author>
+<author>Hao Wang 0025</author>
+<author>Thomas Bäck</author>
+<title>Towards a Theory-Guided Benchmarking Suite for Discrete Black-Box Optimization Heuristics: Profiling (1+λ) EA Variants on OneMax and LeadingOnes.</title>
+<year>2018</year>
+<volume>abs/1808.05850</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.05850</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-05850</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-05281" mdate="2018-10-30">
+<author>Carola Doerr</author>
+<author>Hao Wang 0025</author>
+<author>Furong Ye</author>
+<author>Sander van Rijn</author>
+<author>Thomas Bäck</author>
+<title>IOHprofiler: A Benchmarking and Profiling Tool for Iterative Optimization Heuristics.</title>
+<year>2018</year>
+<volume>abs/1810.05281</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.05281</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-05281</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-00493" mdate="2019-01-01">
+<author>Eduardo Carvalho Pinto</author>
+<author>Carola Doerr</author>
+<title>Towards a More Practice-Aware Runtime Analysis of Evolutionary Algorithms.</title>
+<year>2018</year>
+<volume>abs/1812.00493</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.00493</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-00493</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-08480" mdate="2019-01-02">
+<author>Peyman Afshani</author>
+<author>Manindra Agrawal</author>
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<author>Kasper Green Larsen</author>
+<author>Kurt Mehlhorn</author>
+<title>The Query Complexity of a Permutation-Based Variant of Mastermind.</title>
+<year>2018</year>
+<volume>abs/1812.08480</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.08480</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-08480</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/DoerrC17" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author orcid="0000-0003-1259-2990">Francisco Chicano</author>
+<title>Preface to the Special Issue on Theory of Genetic and Evolutionary Computation.</title>
+<pages>558-560</pages>
+<year>2017</year>
+<volume>78</volume>
+<journal>Algorithmica</journal>
+<number>2</number>
+<url>db/journals/algorithmica/algorithmica78.html#DoerrC17</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/DoerrL17" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Johannes Lengler</author>
+<title>OneMax in Black-Box Models with Several Restrictions.</title>
+<pages>610-640</pages>
+<year>2017</year>
+<volume>78</volume>
+<journal>Algorithmica</journal>
+<number>2</number>
+<url>db/journals/algorithmica/algorithmica78.html#DoerrL17</url>
+</article>
+</r>
+<r><article key="journals/ec/DoerrL17" mdate="2018-11-14">
+<author>Carola Doerr</author>
+<author>Johannes Lengler</author>
+<title>Introducing Elitist Black-Box Models: When Does Elitist Behavior Weaken the Performance of Evolutionary Algorithms?</title>
+<year>2017</year>
+<volume>25</volume>
+<journal>Evolutionary Computation</journal>
+<number>4</number>
+<url>db/journals/ec/ec25.html#DoerrL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/Doerr17a" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Non-static parameter choices in evolutionary computation.</title>
+<pages>736-761</pages>
+<year>2017</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2017c</crossref>
+<url>db/conf/gecco/gecco2017c.html#Doerr17a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrDK17" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Timo Kötzing</author>
+<title>Unknown solution length problems with no asymptotically optimal run time.</title>
+<pages>1367-1374</pages>
+<year>2017</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2017</crossref>
+<url>db/conf/gecco/gecco2017.html#DoerrDK17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/DoerrIT017" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Christian Igel</author>
+<author>Lothar Thiele</author>
+<author>Xin Yao 0001</author>
+<title>Theory of Randomized Optimization Heuristics (Dagstuhl Seminar 17191).</title>
+<pages>22-55</pages>
+<year>2017</year>
+<volume>7</volume>
+<journal>Dagstuhl Reports</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.7.5.22</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports7.html#DoerrIT017</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/DoerrD16" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>The Impact of Random Initialization on the Runtime of Randomized Search Heuristics.</title>
+<pages>529-553</pages>
+<year>2016</year>
+<volume>75</volume>
+<journal>Algorithmica</journal>
+<number>3</number>
+<url>db/journals/algorithmica/algorithmica75.html#DoerrD16</url>
+</article>
+</r>
+<r><article key="journals/dc/DoerrDMM16" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Shay Moran</author>
+<author>Shlomo Moran</author>
+<title>Simple and optimal randomized fault-tolerant rumor spreading.</title>
+<pages>89-104</pages>
+<year>2016</year>
+<volume>29</volume>
+<journal>Distributed Computing</journal>
+<number>2</number>
+<url>db/journals/dc/dc29.html#DoerrDMM16</url>
+</article>
+</r>
+<r><article key="journals/jacm/DoerrDST16" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Reto Spöhel</author>
+<author>Henning Thomas</author>
+<title>Playing Mastermind With Many Colors.</title>
+<pages>42:1-42:23</pages>
+<year>2016</year>
+<volume>63</volume>
+<journal>J. ACM</journal>
+<number>5</number>
+<url>db/journals/jacm/jacm63.html#DoerrDST16</url>
+</article>
+</r>
+<r><article key="journals/rsa/ClementiCDFPS16" mdate="2019-12-27">
+<author>Andrea E. F. Clementi</author>
+<author>Pierluigi Crescenzi</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Pierre Fraigniaud</author>
+<author orcid="0000-0003-1595-5291">Francesco Pasquale</author>
+<author>Riccardo Silvestri</author>
+<title>Rumor spreading in random evolving graphs.</title>
+<pages>290-312</pages>
+<year>2016</year>
+<volume>48</volume>
+<journal>Random Struct. Algorithms</journal>
+<number>2</number>
+<url>db/journals/rsa/rsa48.html#ClementiCDFPS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/DoerrD16" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Theory for Non-Theoreticians.</title>
+<pages>463-482</pages>
+<year>2016</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2016c</crossref>
+<url>db/conf/gecco/gecco2016c.html#DoerrD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrDK16" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Timo Kötzing</author>
+<title>The Right Mutation Strength for Multi-Valued Decision Variables.</title>
+<pages>1115-1122</pages>
+<year>2016</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2016</crossref>
+<url>db/conf/gecco/gecco2016.html#DoerrDK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrDY16" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Jing Yang 0016</author>
+<title>Optimal Parameter Choices via Precise Black-Box Analysis.</title>
+<pages>1123-1130</pages>
+<year>2016</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2016</crossref>
+<url>db/conf/gecco/gecco2016.html#DoerrDY16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrL16" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Johannes Lengler</author>
+<title>The (1+1) Elitist Black-Box Complexity of LeadingOnes.</title>
+<pages>1131-1138</pages>
+<year>2016</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2016</crossref>
+<url>db/conf/gecco/gecco2016.html#DoerrL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrHHOSTVZZ16" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Julia Handl</author>
+<author>Emma Hart</author>
+<author orcid="0000-0001-7649-5669">Gabriela Ochoa</author>
+<author>Amarda Shehu</author>
+<author>Tea Tusar</author>
+<author>Anya E. Vostinar</author>
+<author>Christine Zarges</author>
+<author>A. Nur Zincir-Heywood</author>
+<title>Women@GECCO 2016 Chairs' Welcome.</title>
+<pages>1447-1449</pages>
+<year>2016</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2016c</crossref>
+<url>db/conf/gecco/gecco2016c.html#DoerrHHOSTVZZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppsn/DoerrDK16" mdate="2017-05-17">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<author>Timo Kötzing</author>
+<title>Provably Optimal Self-adjusting Step Sizes for Multi-valued Decision Variables.</title>
+<pages>782-791</pages>
+<year>2016</year>
+<booktitle>PPSN</booktitle>
+<crossref>conf/ppsn/2016</crossref>
+<url>db/conf/ppsn/ppsn2016.html#DoerrDK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppsn/DoerrDY16" mdate="2018-06-20">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<author>Jing Yang 0016</author>
+<title>k-Bit Mutation with Self-Adjusting k Outperforms Standard Bit Mutation.</title>
+<pages>824-834</pages>
+<year>2016</year>
+<booktitle>PPSN</booktitle>
+<crossref>conf/ppsn/2016</crossref>
+<url>db/conf/ppsn/ppsn2016.html#DoerrDY16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppsn/DoerrBABBDEEFGH16" mdate="2018-11-02">
+<author>Carola Doerr</author>
+<author>Nicolas Bredèche</author>
+<author>Enrique Alba</author>
+<author orcid="0000-0002-5938-5158">Thomas Bartz-Beielstein</author>
+<author>Dimo Brockhoff</author>
+<author>Benjamin Doerr</author>
+<author>Gusz Eiben</author>
+<author orcid="0000-0002-9741-5901">Michael G. Epitropakis</author>
+<author orcid="0000-0001-5162-2457">Carlos M. Fonseca</author>
+<author orcid="0000-0003-0757-2709">Andreia P. Guerreiro</author>
+<author>Evert Haasdijk</author>
+<author>Jacqueline Heinerman</author>
+<author>Julien Hubert</author>
+<author>Per Kristian Lehre</author>
+<author>Luigi Malagò</author>
+<author orcid="0000-0001-8956-5304">Juan Julián Merelo Guervós</author>
+<author>Julian Francis Miller</author>
+<author>Boris Naujoks</author>
+<author>Pietro Simone Oliveto</author>
+<author>Stjepan Picek</author>
+<author>Nelishia Pillay</author>
+<author>Mike Preuss</author>
+<author>Patricia Ryser-Welch</author>
+<author>Giovanni Squillero</author>
+<author>Jörg Stork</author>
+<author>Dirk Sudholt</author>
+<author>Alberto Paolo Tonda</author>
+<author>Darrell Whitley</author>
+<author>Martin Zaefferer</author>
+<title>Tutorials at PPSN 2016.</title>
+<pages>1012-1022</pages>
+<year>2016</year>
+<booktitle>PPSN</booktitle>
+<crossref>conf/ppsn/2016</crossref>
+<url>db/conf/ppsn/ppsn2016.html#DoerrBABBDEEFGH16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DoerrL16" mdate="2018-08-13">
+<author>Carola Doerr</author>
+<author>Johannes Lengler</author>
+<title>The (1+1) Elitist Black-Box Complexity of LeadingOnes.</title>
+<year>2016</year>
+<volume>abs/1604.02355</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.02355</ee>
+<url>db/journals/corr/corr1604.html#DoerrL16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DoerrDK16" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<author>Timo Kötzing</author>
+<title>The Right Mutation Strength for Multi-Valued Decision Variables.</title>
+<year>2016</year>
+<volume>abs/1604.03277</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.03277</ee>
+<url>db/journals/corr/corr1604.html#DoerrDK16</url>
+</article>
+</r>
+<r><article key="journals/ec/DoerrDK15" mdate="2018-11-14">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<author>Timo Kötzing</author>
+<title>Unbiased Black-Box Complexities of Jump Functions.</title>
+<pages>641-670</pages>
+<year>2015</year>
+<volume>23</volume>
+<journal>Evolutionary Computation</journal>
+<number>4</number>
+<url>db/journals/ec/ec23.html#DoerrDK15</url>
+</article>
+</r>
+<r><article key="journals/tcs/DoerrDE15" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Franziska Ebel</author>
+<title>From black-box complexity to designing new genetic algorithms.</title>
+<pages>87-104</pages>
+<year>2015</year>
+<volume>567</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs567.html#DoerrDE15</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/LaillevaultDD15" mdate="2019-12-27">
+<author>Axel de Perthuis de Laillevault</author>
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Money for Nothing: Speeding Up Evolutionary Algorithms Through Better Initialization.</title>
+<pages>815-822</pages>
+<year>2015</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2015</crossref>
+<url>db/conf/gecco/gecco2015.html#LaillevaultDD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrDK15" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Timo Kötzing</author>
+<title>Solving Problems with Unknown Solution Length at (Almost) No Extra Cost.</title>
+<pages>831-838</pages>
+<year>2015</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2015</crossref>
+<url>db/conf/gecco/gecco2015.html#DoerrDK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrL15" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Johannes Lengler</author>
+<title>Elitist Black-Box Models: Analyzing the Impact of Elitist Selection on the Performance of Evolutionary Algorithms.</title>
+<pages>839-846</pages>
+<year>2015</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2015</crossref>
+<url>db/conf/gecco/gecco2015.html#DoerrL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrD15" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Optimal Parameter Choices Through Self-Adjustment: Applying the 1/5-th Rule in Discrete Settings.</title>
+<pages>1335-1342</pages>
+<year>2015</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2015</crossref>
+<url>db/conf/gecco/gecco2015.html#DoerrD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrD15a" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>A Tight Runtime Analysis of the (1+(λ, λ)) Genetic Algorithm on OneMax.</title>
+<pages>1423-1430</pages>
+<year>2015</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2015</crossref>
+<url>db/conf/gecco/gecco2015.html#DoerrD15a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrL15a" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Johannes Lengler</author>
+<title>OneMax in Black-Box Models with Several Restrictions.</title>
+<pages>1431-1438</pages>
+<year>2015</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2015</crossref>
+<url>db/conf/gecco/gecco2015.html#DoerrL15a</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DoerrL15" mdate="2018-08-13">
+<author>Carola Doerr</author>
+<author>Johannes Lengler</author>
+<title>OneMax in Black-Box Models with Several Restrictions.</title>
+<year>2015</year>
+<volume>abs/1504.02644</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.02644</ee>
+<url>db/journals/corr/corr1504.html#DoerrL15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DoerrD15" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<title>Optimal Parameter Choices Through Self-Adjustment: Applying the 1/5-th Rule in Discrete Settings.</title>
+<year>2015</year>
+<volume>abs/1504.03212</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.03212</ee>
+<url>db/journals/corr/corr1504.html#DoerrD15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DoerrDK15" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<author>Timo Kötzing</author>
+<title>Solving Problems with Unknown Solution Length at (Almost) No Extra Cost.</title>
+<year>2015</year>
+<volume>abs/1506.05913</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.05913</ee>
+<url>db/journals/corr/corr1506.html#DoerrDK15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DoerrD15a" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<title>A Tight Runtime Analysis of the $(1+(λ, λ))$ Genetic Algorithm on OneMax.</title>
+<year>2015</year>
+<volume>abs/1506.05937</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.05937</ee>
+<url>db/journals/corr/corr1506.html#DoerrD15a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DoerrL15a" mdate="2018-08-13">
+<author>Carola Doerr</author>
+<author>Johannes Lengler</author>
+<title>Introducing Elitist Black-Box Models: When Does Elitist Selection Weaken the Performance of Evolutionary Algorithms?</title>
+<year>2015</year>
+<volume>abs/1508.06802</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1508.06802</ee>
+<url>db/journals/corr/corr1508.html#DoerrL15a</url>
+</article>
+</r>
+<r><article key="journals/ai/DoerrDK14" mdate="2019-12-27">
+<author orcid="0000-0002-9786-220X">Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Timo Kötzing</author>
+<title>The unbiased black-box complexity of partition is polynomial.</title>
+<pages>275-286</pages>
+<year>2014</year>
+<volume>216</volume>
+<journal>Artif. Intell.</journal>
+<url>db/journals/ai/ai216.html#DoerrDK14</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/DoerrW14" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Ranking-Based Black-Box Complexity.</title>
+<pages>571-609</pages>
+<year>2014</year>
+<volume>68</volume>
+<journal>Algorithmica</journal>
+<number>3</number>
+<url>db/journals/algorithmica/algorithmica68.html#DoerrW14</url>
+</article>
+</r>
+<r><article key="journals/jgaa/DoerrRS14" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>G. Ramakrishna</author>
+<author orcid="0000-0003-3032-4834">Jens M. Schmidt</author>
+<title>Computing Minimum Cycle Bases in Weighted Partial 2-Trees in Linear Time.</title>
+<pages>325-346</pages>
+<year>2014</year>
+<volume>18</volume>
+<journal>J. Graph Algorithms Appl.</journal>
+<number>3</number>
+<url>db/journals/jgaa/jgaa18.html#DoerrRS14</url>
+</article>
+</r>
+<r><article key="journals/mst/DoerrW14" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Playing Mastermind with Constant-Size Memory.</title>
+<pages>658-684</pages>
+<year>2014</year>
+<volume>55</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>4</number>
+<url>db/journals/mst/mst55.html#DoerrW14</url>
+</article>
+</r>
+<r><article key="journals/tcs/DoerrW14" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Reducing the arity in unbiased black-box complexity.</title>
+<pages>108-121</pages>
+<year>2014</year>
+<volume>545</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs545.html#DoerrW14</url>
+</article>
+</r>
+<r><article key="journals/teco/ChenDDHMS14" mdate="2019-12-27">
+<author>Xujin Chen</author>
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Xiaodong Hu 0001</author>
+<author>Weidong Ma</author>
+<author>Rob van Stee</author>
+<title>The Price of Anarchy for Selfish Ring Routing is Two.</title>
+<pages>8:1-8:24</pages>
+<year>2014</year>
+<volume>2</volume>
+<journal>ACM Trans. Economics and Comput.</journal>
+<number>2</number>
+<url>db/journals/teco/teco2.html#ChenDDHMS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/DoerrD14a" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Black-box complexity: from complexity theory to playing mastermind.</title>
+<pages>623-646</pages>
+<year>2014</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2014c</crossref>
+<url>db/conf/gecco/gecco2014c.html#DoerrD14a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrDK14" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Timo Kötzing</author>
+<title>Unbiased black-box complexities of jump functions: how to cross large plateaus.</title>
+<pages>769-776</pages>
+<year>2014</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2014</crossref>
+<url>db/conf/gecco/gecco2014.html#DoerrDK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrD14" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>The impact of random initialization on the runtime of randomized search heuristics.</title>
+<pages>1375-1382</pages>
+<year>2014</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2014</crossref>
+<url>db/conf/gecco/gecco2014.html#DoerrD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/OReillyEADEO14" mdate="2019-12-27">
+<author>Una-May O'Reilly</author>
+<author>Anna Esparcia-Alcázar</author>
+<author>Anne Auger</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author orcid="0000-0001-6967-5397">Anikó Ekárt</author>
+<author orcid="0000-0001-7649-5669">Gabriela Ochoa</author>
+<title>Women@GECCO 2014.</title>
+<pages>1487-1488</pages>
+<year>2014</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2014c</crossref>
+<url>db/conf/gecco/gecco2014c.html#OReillyEADEO14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DoerrDK14" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<author>Timo Kötzing</author>
+<title>Unbiased Black-Box Complexities of Jump Functions - How to Cross Large Plateaus.</title>
+<year>2014</year>
+<volume>abs/1403.7806</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1403.7806</ee>
+<url>db/journals/corr/corr1403.html#DoerrDK14</url>
+</article>
+</r>
+<r><article key="journals/ec/DoerrJSWZ13" mdate="2018-11-14">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-1596-086X">Thomas Jansen 0001</author>
+<author>Dirk Sudholt</author>
+<author>Carola Winzen</author>
+<author orcid="0000-0002-2829-4296">Christine Zarges</author>
+<title>Mutation Rate Matters Even When Optimizing Monotonic Functions.</title>
+<pages>1-27</pages>
+<year>2013</year>
+<volume>21</volume>
+<journal>Evolutionary Computation</journal>
+<number>1</number>
+<url>db/journals/ec/ec21.html#DoerrJSWZ13</url>
+</article>
+</r>
+<r><article key="journals/ipl/Winzen13" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Direction-reversing quasi-random rumor spreading with restarts.</title>
+<pages>921-926</pages>
+<year>2013</year>
+<volume>113</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>22-24</number>
+<url>db/journals/ipl/ipl113.html#Winzen13</url>
+</article>
+</r>
+<r><article key="journals/tcs/DoerrKLW13" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author>Timo Kötzing</author>
+<author>Johannes Lengler</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Black-box complexities of combinatorial problems.</title>
+<pages>84-106</pages>
+<year>2013</year>
+<volume>471</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs471.html#DoerrKLW13</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/AfshaniADDLM13" mdate="2017-05-23">
+<author>Peyman Afshani</author>
+<author>Manindra Agrawal</author>
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<author>Kasper Green Larsen</author>
+<author>Kurt Mehlhorn</author>
+<title>The Query Complexity of Finding a Hidden Permutation.</title>
+<pages>1-11</pages>
+<year>2013</year>
+<booktitle>Space-Efficient Data Structures, Streams, and Algorithms</booktitle>
+<crossref>conf/birthday/2013munro</crossref>
+<url>db/conf/birthday/munro2013.html#AfshaniADDLM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/ClementiCDFIPPS13" mdate="2018-11-14">
+<author>Andrea E. F. Clementi</author>
+<author>Pierluigi Crescenzi</author>
+<author>Carola Doerr</author>
+<author>Pierre Fraigniaud</author>
+<author>Marco Isopi</author>
+<author>Alessandro Panconesi</author>
+<author orcid="0000-0003-1595-5291">Francesco Pasquale</author>
+<author>Riccardo Silvestri</author>
+<title>Rumor Spreading in Random Evolving Graphs.</title>
+<pages>325-336</pages>
+<year>2013</year>
+<booktitle>ESA</booktitle>
+<crossref>conf/esa/2013</crossref>
+<url>db/conf/esa/esa2013.html#ClementiCDFIPPS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrD13" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<title>Black-box complexity: from complexity theory to playing mastermind.</title>
+<pages>617-640</pages>
+<year>2013</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2013c</crossref>
+<url>db/conf/gecco/gecco2013c.html#DoerrD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrDE13" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>Franziska Ebel</author>
+<title>Lessons from the black-box: fast crossover-based genetic algorithms.</title>
+<pages>781-788</pages>
+<year>2013</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2013</crossref>
+<url>db/conf/gecco/gecco2013.html#DoerrDE13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrR13" mdate="2019-12-27">
+<author orcid="0000-0002-4981-3227">Carola Doerr</author>
+<author>François-Michel De Rainville</author>
+<title>Constructing low star discrepancy point sets with genetic algorithms.</title>
+<pages>789-796</pages>
+<year>2013</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2013</crossref>
+<url>db/conf/gecco/gecco2013.html#DoerrR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/DoerrSTW13" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author>Reto Spöhel</author>
+<author>Henning Thomas</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Playing Mastermind with Many Colors.</title>
+<pages>695-704</pages>
+<year>2013</year>
+<booktitle>SODA</booktitle>
+<crossref>conf/soda/2013</crossref>
+<url>db/conf/soda/soda2013.html#DoerrSTW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wg/DoerrRS13" mdate="2018-11-02">
+<author>Carola Doerr</author>
+<author>G. Ramakrishna</author>
+<author orcid="0000-0003-3032-4834">Jens M. Schmidt</author>
+<title>Computing Minimum Cycle Bases in Weighted Partial 2-Trees in Linear Time.</title>
+<pages>225-236</pages>
+<year>2013</year>
+<booktitle>WG</booktitle>
+<crossref>conf/wg/2013</crossref>
+<url>db/conf/wg/wg2013.html#DoerrRS13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1302-3828" mdate="2018-08-13">
+<author>Andrea E. F. Clementi</author>
+<author>Pierluigi Crescenzi</author>
+<author>Carola Doerr</author>
+<author>Pierre Fraigniaud</author>
+<author>Marco Isopi</author>
+<author>Alessandro Panconesi</author>
+<author>Francesco Pasquale</author>
+<author>Riccardo Silvestri</author>
+<title>Rumor Spreading in Random Evolving Graphs</title>
+<ee type="oa">http://arxiv.org/abs/1302.3828</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1302.3828</volume>
+<url>db/journals/corr/corr1302.html#abs-1302-3828</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1303-0728" mdate="2018-08-13">
+<author>Carola Doerr</author>
+<author>G. Ramakrishna</author>
+<author>Jens M. Schmidt</author>
+<title>Computing Minimum Cycle Bases in Weighted Partial 2-Trees in Linear Time</title>
+<ee type="oa">http://arxiv.org/abs/1303.0728</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1303.0728</volume>
+<url>db/journals/corr/corr1303.html#abs-1303-0728</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-1978" mdate="2018-08-13">
+<author>Carola Doerr</author>
+<author>François-Michel De Rainville</author>
+<title>Constructing Low Star Discrepancy Point Sets with Genetic Algorithms</title>
+<ee type="oa">http://arxiv.org/abs/1304.1978</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.1978</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-1978</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DoerrD13" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Carola Doerr</author>
+<title>Collecting Coupons with Random Initial Stake.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1308.6384</ee>
+<volume>abs/1308.6384</volume>
+<url>db/journals/corr/corr1308.html#DoerrD13</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/DoerrJW12" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author>Daniel Johannsen</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Multiplicative Drift Analysis.</title>
+<pages>673-697</pages>
+<year>2012</year>
+<volume>64</volume>
+<journal>Algorithmica</journal>
+<number>4</number>
+<url>db/journals/algorithmica/algorithmica64.html#DoerrJW12</url>
+</article>
+</r>
+<r><article key="journals/ipl/DoerrW12" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Memory-restricted black-box complexity of OneMax.</title>
+<pages>32-34</pages>
+<year>2012</year>
+<volume>112</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1-2</number>
+<url>db/journals/ipl/ipl112.html#DoerrW12</url>
+</article>
+</r>
+<r><article key="journals/siamnum/GnewuchWW12" mdate="2019-12-27">
+<author>Michael Gnewuch</author>
+<author orcid="0000-0002-0933-4504">Magnus Wahlström</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>A New Randomized Algorithm to Approximate the Star Discrepancy Based on Threshold Accepting.</title>
+<pages>781-807</pages>
+<year>2012</year>
+<volume>50</volume>
+<journal>SIAM J. Numerical Analysis</journal>
+<number>2</number>
+<url>db/journals/siamnum/siamnum50.html#GnewuchWW12</url>
+</article>
+</r>
+<r><article key="journals/tcs/DoerrJW12" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author>Daniel Johannsen</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Non-existence of linear universal drift functions.</title>
+<pages>71-86</pages>
+<year>2012</year>
+<volume>436</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs436.html#DoerrJW12</url>
+</article>
+</r>
+<r><inproceedings key="conf/colognetwente/DoerrSTW12" mdate="2013-05-16">
+<author>Benjamin Doerr</author>
+<author>Reto Spöhel</author>
+<author>Henning Thomas</author>
+<author>Carola Winzen</author>
+<title>Playing Mastermind with Many Colors.</title>
+<pages>108-111</pages>
+<year>2012</year>
+<booktitle>CTW</booktitle>
+<crossref>conf/colognetwente/2012</crossref>
+<url>db/conf/colognetwente/colognetwente2012.html#DoerrSTW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrW12" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Reducing the arity in unbiased black-box complexity.</title>
+<pages>1309-1316</pages>
+<year>2012</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2012</crossref>
+<url>db/conf/gecco/gecco2012.html#DoerrW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stacs/DoerrW12" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Playing Mastermind With Constant-Size Memory.</title>
+<pages>441-452</pages>
+<year>2012</year>
+<booktitle>STACS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.STACS.2012.441</ee>
+<crossref>conf/stacs/2012</crossref>
+<url>db/conf/stacs/stacs2012.html#DoerrW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wine/ChenDHMSW12" mdate="2019-12-10">
+<author>Xujin Chen</author>
+<author>Benjamin Doerr</author>
+<author>Xiaodong Hu 0001</author>
+<author>Weidong Ma</author>
+<author>Rob van Stee</author>
+<author>Carola Winzen</author>
+<title>The Price of Anarchy for Selfish Ring Routing Is Two.</title>
+<pages>420-433</pages>
+<year>2012</year>
+<booktitle>WINE</booktitle>
+<crossref>conf/wine/2012</crossref>
+<url>db/conf/wine/wine2012.html#ChenDHMSW12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-4111" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Carola Winzen</author>
+<title>Reducing the Arity in Unbiased Black-Box Complexity</title>
+<ee type="oa">http://arxiv.org/abs/1203.4111</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.4111</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-4111</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-0773" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Reto Spöhel</author>
+<author>Henning Thomas</author>
+<author>Carola Winzen</author>
+<title>Playing Mastermind with Many Colors</title>
+<ee type="oa">http://arxiv.org/abs/1207.0773</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.0773</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-0773</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1209-6158" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Shay Moran</author>
+<author>Shlomo Moran</author>
+<author>Carola Winzen</author>
+<title>Fast Fault Tolerant Rumor Spreading with Minimum Message Complexity</title>
+<ee type="oa">http://arxiv.org/abs/1209.6158</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1209.6158</volume>
+<url>db/journals/corr/corr1209.html#abs-1209-6158</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1210-0230" mdate="2019-12-10">
+<author>Xujin Chen</author>
+<author>Benjamin Doerr</author>
+<author>Xiaodong Hu 0001</author>
+<author>Weidong Ma</author>
+<author>Rob van Stee</author>
+<author>Carola Winzen</author>
+<title>The Price of Anarchy for Selfish Ring Routing is Two</title>
+<ee type="oa">http://arxiv.org/abs/1210.0230</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1210.0230</volume>
+<url>db/journals/corr/corr1210.html#abs-1210-0230</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1210-6465" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Carola Winzen</author>
+<title>Black-Box Complexity: Breaking the $O(n \log n)$ Barrier of LeadingOnes</title>
+<ee type="oa">http://arxiv.org/abs/1210.6465</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1210.6465</volume>
+<url>db/journals/corr/corr1210.html#abs-1210-6465</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/AfshaniADCLM12" mdate="2018-08-14">
+<author>Peyman Afshani</author>
+<author>Manindra Agrawal</author>
+<author>Benjamin Doerr</author>
+<author>Carola Winzen</author>
+<author>Kasper Green Larsen</author>
+<author>Kurt Mehlhorn</author>
+<title>The Deterministic and Randomized Query Complexity of a Simple Guessing Game.</title>
+<pages>87</pages>
+<year>2012</year>
+<volume>19</volume>
+<journal>Electronic Colloquium on Computational Complexity (ECCC)</journal>
+<ee type="oa">http://eccc.hpi-web.de/report/2012/087</ee>
+<url>db/journals/eccc/eccc19.html#AfshaniADCLM12</url>
+</article>
+</r>
+<r><phdthesis key="books/daglib/0029120" mdate="2016-04-13">
+<author>Carola Winzen</author>
+<title>Toward a complexity theory for randomized search heuristics.</title>
+<pages>1-171</pages>
+<school>Universität Saarbrücken</school>
+<year>2011</year>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/ae/DoerrW11" mdate="2017-05-21">
+<author>Benjamin Doerr</author>
+<author>Carola Winzen</author>
+<title>Black-Box Complexity: Breaking the O(n logn) Barrier of LeadingOnes.</title>
+<pages>205-216</pages>
+<year>2011</year>
+<booktitle>Artificial Evolution</booktitle>
+<crossref>conf/ae/2011</crossref>
+<url>db/conf/ae/ae2011.html#DoerrW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csr/DoerrW11" mdate="2017-05-17">
+<author>Benjamin Doerr</author>
+<author>Carola Winzen</author>
+<title>Towards a Complexity Theory of Randomized Search Heuristics: Ranking-Based Black-Box Complexity.</title>
+<pages>15-28</pages>
+<year>2011</year>
+<booktitle>CSR</booktitle>
+<crossref>conf/csr/2011</crossref>
+<url>db/conf/csr/csr2011.html#DoerrW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/foga/DoerrJKLWW11" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author>Daniel Johannsen</author>
+<author>Timo Kötzing</author>
+<author orcid="0000-0002-9521-1251">Per Kristian Lehre</author>
+<author>Markus Wagner 0007</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Faster black-box algorithms through higher arity operators.</title>
+<pages>163-172</pages>
+<year>2011</year>
+<booktitle>FOGA</booktitle>
+<crossref>conf/foga/2011</crossref>
+<url>db/conf/foga/foga2011.html#DoerrJKLWW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrLKW11" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author>Johannes Lengler</author>
+<author>Timo Kötzing</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Black-box complexities of combinatorial problems.</title>
+<pages>981-988</pages>
+<year>2011</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2011</crossref>
+<url>db/conf/gecco/gecco2011.html#DoerrLKW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrKW11" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author>Timo Kötzing</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Too fast unbiased black-box algorithms.</title>
+<pages>2043-2050</pages>
+<year>2011</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2011</crossref>
+<url>db/conf/gecco/gecco2011.html#DoerrKW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gi/Winzen11" mdate="2014-12-10">
+<author>Carola Winzen</author>
+<title>Entwicklung einer Komplexitätstheorie für randomisierte Suchheuristiken: Black-Box-Modelle.</title>
+<pages>281-290</pages>
+<year>2011</year>
+<booktitle>Ausgezeichnete Informatikdissertationen</booktitle>
+<crossref>conf/gi/2011diss</crossref>
+<url>db/conf/gi/diss2011.html#Winzen11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1101-0776" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Daniel Johannsen</author>
+<author>Carola Winzen</author>
+<title>Multiplicative Drift Analysis</title>
+<ee type="oa">http://arxiv.org/abs/1101.0776</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1101.0776</volume>
+<url>db/journals/corr/corr1101.html#abs-1101-0776</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1102-1140" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Carola Winzen</author>
+<title>Towards a Complexity Theory of Randomized Search Heuristics: Ranking-Based Black-Box Complexity</title>
+<ee type="oa">http://arxiv.org/abs/1102.1140</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1102.1140</volume>
+<url>db/journals/corr/corr1102.html#abs-1102-1140</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1103-2102" mdate="2018-08-13">
+<author>Michael Gnewuch</author>
+<author>Magnus Wahlström</author>
+<author>Carola Winzen</author>
+<title>A Randomized Algorithm Based on Threshold Accepting to Approximate the Star Discrepancy</title>
+<ee type="oa">http://arxiv.org/abs/1103.2102</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1103.2102</volume>
+<url>db/journals/corr/corr1103.html#abs-1103-2102</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1103-2429" mdate="2018-08-13">
+<author>Carola Winzen</author>
+<title>Direction-Reversing Quasi-Random Rumor Spreading with Restarts</title>
+<ee type="oa">http://arxiv.org/abs/1103.2429</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1103.2429</volume>
+<url>db/journals/corr/corr1103.html#abs-1103-2429</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1108-0342" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Timo Kötzing</author>
+<author>Johannes Lengler</author>
+<author>Carola Winzen</author>
+<title>Black-Box Complexities of Combinatorial Problems</title>
+<ee type="oa">http://arxiv.org/abs/1108.0342</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1108.0342</volume>
+<url>db/journals/corr/corr1108.html#abs-1108-0342</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1110-3619" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Carola Winzen</author>
+<title>Playing Mastermind With Constant-Size Memory</title>
+<ee type="oa">http://arxiv.org/abs/1110.3619</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1110.3619</volume>
+<url>db/journals/corr/corr1110.html#abs-1110-3619</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/BenjaminC11" mdate="2018-08-14">
+<author>Benjamin Doerr</author>
+<author>Carola Winzen</author>
+<title>Memory-Restricted Black-Box Complexity.</title>
+<pages>92</pages>
+<year>2011</year>
+<volume>18</volume>
+<journal>Electronic Colloquium on Computational Complexity (ECCC)</journal>
+<ee type="oa">http://eccc.hpi-web.de/report/2011/092</ee>
+<url>db/journals/eccc/eccc18.html#BenjaminC11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/DoerrJW10" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author>Daniel Johannsen</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Drift analysis and linear functions revisited.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<crossref>conf/cec/2010</crossref>
+<url>db/conf/cec/cec2010.html#DoerrJW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/DoerrJW10" mdate="2019-12-27">
+<author>Benjamin Doerr</author>
+<author>Daniel Johannsen</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Multiplicative drift analysis.</title>
+<pages>1449-1456</pages>
+<year>2010</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2010</crossref>
+<url>db/conf/gecco/gecco2010.html#DoerrJW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppsn/DoerrJSWZ10" mdate="2017-06-05">
+<author>Benjamin Doerr</author>
+<author orcid="0000-0002-1596-086X">Thomas Jansen 0001</author>
+<author>Dirk Sudholt</author>
+<author>Carola Winzen</author>
+<author orcid="0000-0002-2829-4296">Christine Zarges</author>
+<title>Optimizing Monotone Functions Can Be Difficult.</title>
+<pages>42-51</pages>
+<year>2010</year>
+<booktitle>PPSN (1)</booktitle>
+<crossref>conf/ppsn/2010-1</crossref>
+<url>db/conf/ppsn/ppsn2010-1.html#DoerrJSWZ10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1010-1429" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Thomas Jansen 0001</author>
+<author>Dirk Sudholt</author>
+<author>Carola Winzen</author>
+<author>Christine Zarges</author>
+<title>Optimizing Monotone Functions Can Be Difficult</title>
+<ee type="oa">http://arxiv.org/abs/1010.1429</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1010.1429</volume>
+<url>db/journals/corr/corr1010.html#abs-1010-1429</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1011-3466" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Daniel Johannsen</author>
+<author>Carola Winzen</author>
+<title>Non-Existence of Linear Universal Drift Functions</title>
+<ee type="oa">http://arxiv.org/abs/1011.3466</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1011.3466</volume>
+<url>db/journals/corr/corr1011.html#abs-1011-3466</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1012-0952" mdate="2018-08-13">
+<author>Benjamin Doerr</author>
+<author>Daniel Johannsen</author>
+<author>Timo Kötzing</author>
+<author>Per Kristian Lehre</author>
+<author>Markus Wagner 0007</author>
+<author>Carola Winzen</author>
+<title>Faster Black-Box Algorithms Through Higher Arity Operators</title>
+<ee type="oa">http://arxiv.org/abs/1012.0952</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1012.0952</volume>
+<url>db/journals/corr/corr1012.html#abs-1012-0952</url>
+</article>
+</r>
+<r><article key="journals/jc/GnewuchSW09" mdate="2019-12-27">
+<author>Michael Gnewuch</author>
+<author>Anand Srivastav</author>
+<author orcid="0000-0002-4981-3227">Carola Winzen</author>
+<title>Finding optimal volume subintervals with k points and calculating the star discrepancy are NP-hard problems.</title>
+<pages>115-127</pages>
+<year>2009</year>
+<volume>25</volume>
+<journal>J. Complexity</journal>
+<number>2</number>
+<url>db/journals/jc/jc25.html#GnewuchSW09</url>
+</article>
+</r>
+<coauthors n="130" nc="1">
+<co c="0"><na f="a/Afshani:Peyman">Peyman Afshani</na></co>
+<co c="0"><na f="a/Agrawal:Manindra">Manindra Agrawal</na></co>
+<co c="0"><na f="a/Alba:Enrique">Enrique Alba</na></co>
+<co c="0"><na f="a/Antonov:Kirill">Kirill Antonov</na></co>
+<co c="0"><na f="a/Arnold:Dirk_V=">Dirk V. Arnold</na></co>
+<co c="0"><na f="a/Auger:Anne">Anne Auger</na></co>
+<co c="0"><na f="b/B=auml=ck:Thomas">Thomas Bäck</na></co>
+<co c="0"><na f="b/Bartz=Beielstein:Thomas">Thomas Bartz-Beielstein</na></co>
+<co c="0"><na f="b/Bazzan:Ana_L=_C=">Ana L. C. Bazzan</na></co>
+<co c="0"><na f="b/Bred=egrave=che:Nicolas">Nicolas Bredèche</na></co>
+<co c="0"><na f="b/Brockhoff:Dimo">Dimo Brockhoff</na></co>
+<co c="0"><na f="b/Browne:Will_N=">Will N. Browne</na></co>
+<co c="-1"><na f="b/Buskulic:Nathan">Nathan Buskulic</na></co>
+<co c="0"><na f="b/Buzdalov:Maxim">Maxim Buzdalov</na></co>
+<co c="0"><na f="b/Buzdalova:Arina">Arina Buzdalova</na></co>
+<co c="0"><na f="c/Calvo:Borja">Borja Calvo</na></co>
+<co c="0"><na f="c/Ceberio:Josu">Josu Ceberio</na></co>
+<co c="0"><na f="c/Chen:Xujin">Xujin Chen</na></co>
+<co c="0"><na f="c/Chicano:Francisco">Francisco Chicano</na></co>
+<co c="0"><na f="c/Clementi:Andrea_E=_F=">Andrea E. F. Clementi</na></co>
+<co c="0"><na f="c/Crescenzi:Pierluigi">Pierluigi Crescenzi</na></co>
+<co c="-1"><na f="d/Dang:Nguyen">Nguyen Dang</na></co>
+<co c="0"><na f="d/Deb:Kalyanmoy">Kalyanmoy Deb</na></co>
+<co c="0"><na f="d/Doerr:Benjamin">Benjamin Doerr</na></co>
+<co c="0"><na f="d/Dr=eacute=o:Johann">Johann Dréo</na></co>
+<co c="0"><na f="d/Durasevic:Marko">Marko Durasevic</na></co>
+<co c="0" n="2"><na f="e/Eiben:A=_E=">A. E. Eiben</na><na>Gusz Eiben</na></co>
+<co c="0"><na f="e/Ek=aacute=rt:Anik=oacute=">Anikó Ekárt</na></co>
+<co c="0"><na f="e/Emmerich:Michael_T=_M=">Michael T. M. Emmerich</na></co>
+<co c="0"><na f="e/Epitropakis:Michael_G=">Michael G. Epitropakis</na></co>
+<co c="0"><na f="e/Esparcia=Alc=aacute=zar:Anna">Anna Esparcia-Alcázar</na></co>
+<co c="0"><na f="f/Fonseca:Carlos_M=">Carlos M. Fonseca</na></co>
+<co c="0"><na f="f/Fraigniaud:Pierre">Pierre Fraigniaud</na></co>
+<co c="0"><na f="f/Friedrich_0001:Tobias">Tobias Friedrich 0001</na></co>
+<co c="0"><na f="g/Gao:Wanru">Wanru Gao</na></co>
+<co c="0"><na f="g/Gnewuch:Michael">Michael Gnewuch</na></co>
+<co c="0"><na f="g/Guerreiro:Andreia_P=">Andreia P. Guerreiro</na></co>
+<co c="0"><na f="g/Guerv=oacute=s:Juan_Juli=aacute=n_Merelo" bibtex="Juan Juli{'{a}}n {Merelo Guerv{'{o}}s}">Juan Julián Merelo Guervós</na></co>
+<co c="0"><na f="h/Haasdijk:Evert">Evert Haasdijk</na></co>
+<co c="0"><na f="h/Handl:Julia">Julia Handl</na></co>
+<co c="0"><na f="h/Haraldsson:Saemundur_O=">Saemundur O. Haraldsson</na></co>
+<co c="0"><na f="h/Hart:Emma">Emma Hart</na></co>
+<co c="0"><na f="h/Heinerman:Jacqueline">Jacqueline Heinerman</na></co>
+<co c="0"><na f="h/Horesh:Naama">Naama Horesh</na></co>
+<co c="0" n="2"><na f="h/Hu_0001:Xiao=Dong">Xiao-Dong Hu 0001</na><na>Xiaodong Hu 0001</na></co>
+<co c="0"><na f="h/Hubert:Julien">Julien Hubert</na></co>
+<co c="0" n="2"><na f="h/Huth:Franziska">Franziska Huth</na><na>Franziska Ebel</na></co>
+<co c="0"><na f="i/Igel:Christian">Christian Igel</na></co>
+<co c="0"><na f="i/Ignashov:Ivan">Ivan Ignashov</na></co>
+<co c="0"><na f="i/Isopi:Marco">Marco Isopi</na></co>
+<co c="0"><na f="j/Jakobovic:Domagoj">Domagoj Jakobovic</na></co>
+<co c="-1"><na f="j/Jankovic:Anja">Anja Jankovic</na></co>
+<co c="0"><na f="j/Jansen_0001:Thomas">Thomas Jansen 0001</na></co>
+<co c="0"><na f="j/Johannsen:Daniel">Daniel Johannsen</na></co>
+<co c="0"><na f="k/Kerschke:Pascal">Pascal Kerschke</na></co>
+<co c="0"><na f="k/K=ouml=tzing:Timo">Timo Kötzing</na></co>
+<co c="0"><na f="k/Krawiec:Krzysztof">Krzysztof Krawiec</na></co>
+<co c="0"><na f="l/Laillevault:Axel_de_Perthuis_de">Axel de Perthuis de Laillevault</na></co>
+<co c="0"><na f="l/Larsen:Kasper_Green">Kasper Green Larsen</na></co>
+<co c="0"><na f="l/Lehre:Per_Kristian">Per Kristian Lehre</na></co>
+<co c="0"><na f="l/Lengler:Johannes">Johannes Lengler</na></co>
+<co c="0"><na f="l/Li_0001:Xiaodong">Xiaodong Li 0001</na></co>
+<co c="0"><na f="l/Lissovoi:Andrei">Andrei Lissovoi</na></co>
+<co c="0"><na f="l/Lozano:Jose_A=">Jose A. Lozano</na></co>
+<co c="0"><na f="m/Ma:Weidong">Weidong Ma</na></co>
+<co c="0"><na f="m/Malag=ograve=:Luigi">Luigi Malagò</na></co>
+<co c="0"><na f="m/Malo:Pekka">Pekka Malo</na></co>
+<co c="0"><na f="m/Mart=iacute=:Luis">Luis Martí</na></co>
+<co c="0"><na f="m/Mehlhorn:Kurt">Kurt Mehlhorn</na></co>
+<co c="0"><na f="m/Mei_0001:Yi">Yi Mei 0001</na></co>
+<co c="0" n="2"><na f="m/Miller:Julian_Francis">Julian Francis Miller</na><na>Julian F. Miller</na></co>
+<co c="0"><na f="m/Moraglio:Alberto">Alberto Moraglio</na></co>
+<co c="0"><na f="m/Moran:Shay">Shay Moran</na></co>
+<co c="0"><na f="m/Moran:Shlomo">Shlomo Moran</na></co>
+<co c="0"><na f="n/Naujoks:Boris">Boris Naujoks</na></co>
+<co c="0"><na f="n/Nebro:Antonio_J=">Antonio J. Nebro</na></co>
+<co c="0"><na f="n/Neumann:Aneta">Aneta Neumann</na></co>
+<co c="0"><na f="n/Neumann_0001:Frank">Frank Neumann 0001</na></co>
+<co c="0"><na f="n/Nguyen:Su">Su Nguyen</na></co>
+<co c="0"><na f="o/Ochoa:Gabriela">Gabriela Ochoa</na></co>
+<co c="0"><na f="o/Oliveto:Pietro_Simone">Pietro Simone Oliveto</na></co>
+<co c="0"><na f="o/O=Reilly:Una=May">Una-May O'Reilly</na></co>
+<co c="0"><na f="p/Panconesi:Alessandro">Alessandro Panconesi</na></co>
+<co c="0" n="2"><na f="p/Pappa:Gisele_L=">Gisele L. Pappa</na><na>Gisele Lobo Pappa</na></co>
+<co c="0"><na f="p/Pasquale:Francesco">Francesco Pasquale</na></co>
+<co c="0"><na f="p/Picek:Stjepan">Stjepan Picek</na></co>
+<co c="0"><na f="p/Pillay:Nelishia">Nelishia Pillay</na></co>
+<co c="-1"><na f="p/Pinto:Eduardo_Carvalho">Eduardo Carvalho Pinto</na></co>
+<co c="0"><na f="p/Preuss:Mike">Mike Preuss</na></co>
+<co c="0"><na f="r/Rainville:Fran=ccedil=ois=Michel_De">François-Michel De Rainville</na></co>
+<co c="0"><na f="r/Ramakrishna:G=">G. Ramakrishna</na></co>
+<co c="0"><na f="r/Renau:Quentin">Quentin Renau</na></co>
+<co c="0"><na f="r/Rijn:Sander_van">Sander van Rijn</na></co>
+<co c="0"><na f="r/Rodionova:Anna">Anna Rodionova</na></co>
+<co c="0"><na f="r/Ryser=Welch:Patricia">Patricia Ryser-Welch</na></co>
+<co c="0"><na f="s/Schmidt:Jens_M=">Jens M. Schmidt</na></co>
+<co c="0"><na f="s/Schoenauer:Marc">Marc Schoenauer</na></co>
+<co c="0"><na f="s/Semet:Yann">Yann Semet</na></co>
+<co c="0"><na f="s/Senkerik:Roman">Roman Senkerik</na></co>
+<co c="0"><na f="s/Shehu:Amarda">Amarda Shehu</na></co>
+<co c="0"><na f="s/Shir:Ofer_M=">Ofer M. Shir</na></co>
+<co c="0"><na f="s/Silvestri:Riccardo">Riccardo Silvestri</na></co>
+<co c="0"><na f="s/Sinha_0001:Ankur">Ankur Sinha 0001</na></co>
+<co c="0"><na f="s/Sp=ouml=hel:Reto">Reto Spöhel</na></co>
+<co c="0"><na f="s/Squillero:Giovanni">Giovanni Squillero</na></co>
+<co c="0"><na f="s/Srivastav:Anand">Anand Srivastav</na></co>
+<co c="0"><na f="s/Stee:Rob_van">Rob van Stee</na></co>
+<co c="0"><na f="s/Stork:J=ouml=rg">Jörg Stork</na></co>
+<co c="0"><na f="s/Sudholt:Dirk">Dirk Sudholt</na></co>
+<co c="0"><na f="s/Sutton:Andrew_M=">Andrew M. Sutton</na></co>
+<co c="0"><na f="t/Thiele:Lothar">Lothar Thiele</na></co>
+<co c="0"><na f="t/Thomas:Henning">Henning Thomas</na></co>
+<co c="0"><na f="t/Tonda:Alberto_Paolo">Alberto Paolo Tonda</na></co>
+<co c="0"><na f="t/Tusar:Tea">Tea Tusar</na></co>
+<co c="0"><na f="v/Vermetten:Diederick">Diederick Vermetten</na></co>
+<co c="0"><na f="v/Vinokurov:Dmitry">Dmitry Vinokurov</na></co>
+<co c="0"><na f="v/Vostinar:Anya_E=">Anya E. Vostinar</na></co>
+<co c="0"><na f="w/Wagner_0007:Markus">Markus Wagner 0007</na></co>
+<co c="0"><na f="w/Wahlstr=ouml=m:Magnus">Magnus Wahlström</na></co>
+<co c="0"><na f="w/Wang_0025:Hao">Hao Wang 0025</na></co>
+<co c="0" n="2"><na f="w/Whitley:L=_Darrell">L. Darrell Whitley</na><na>Darrell Whitley</na></co>
+<co c="0"><na f="w/Wineberg:Mark">Mark Wineberg</na></co>
+<co c="0"><na f="w/Woodward:John_R=">John R. Woodward</na></co>
+<co c="0"><na f="y/Yang_0016:Jing">Jing Yang 0016</na></co>
+<co c="0"><na f="y/Yao_0001:Xin">Xin Yao 0001</na></co>
+<co c="0"><na f="y/Ye:Furong">Furong Ye</na></co>
+<co c="0"><na f="z/Zaefferer:Martin">Martin Zaefferer</na></co>
+<co c="0"><na f="z/Zarges:Christine">Christine Zarges</na></co>
+<co c="0"><na f="z/Zhang:Mengjie">Mengjie Zhang</na></co>
+<co c="0"><na f="z/Zincir=Heywood:A=_Nur">A. Nur Zincir-Heywood</na></co>
+</coauthors>
+</dblpperson>
+

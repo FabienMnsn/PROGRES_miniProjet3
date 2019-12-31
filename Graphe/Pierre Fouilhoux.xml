@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Pierre Fouilhoux" n="21">
+<person key="homepages/65/3857" mdate="2009-06-10">
+<author>Pierre Fouilhoux</author>
+</person>
+<r><article key="journals/anor/BendottiFR19" mdate="2019-02-27">
+<author>Pascale Bendotti</author>
+<author orcid="0000-0002-4746-5783">Pierre Fouilhoux</author>
+<author>Cécile Rottner</author>
+<title>On the complexity of the Unit Commitment Problem.</title>
+<pages>119-130</pages>
+<year>2019</year>
+<volume>274</volume>
+<journal>Annals OR</journal>
+<number>1-2</number>
+<url>db/journals/anor/anor274.html#BendottiFR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipco/BendottiFR19" mdate="2019-05-02">
+<author>Pascale Bendotti</author>
+<author>Pierre Fouilhoux</author>
+<author>Cécile Rottner</author>
+<title>Sub-Symmetry-Breaking Inequalities for ILP with Structured Symmetry.</title>
+<pages>57-71</pages>
+<year>2019</year>
+<booktitle>IPCO</booktitle>
+<crossref>conf/ipco/2019</crossref>
+<url>db/conf/ipco/ipco2019.html#BendottiFR19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-06880" mdate="2019-02-01">
+<author>Anne-Elisabeth Falq</author>
+<author>Pierre Fouilhoux</author>
+<author>Safia Kedad-Sidhoum</author>
+<title>Mixed integer formulations using natural variables for single machine scheduling around a common due date.</title>
+<year>2019</year>
+<volume>abs/1901.06880</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.06880</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-06880</url>
+</article>
+</r>
+<r><article key="journals/eor/BendottiFK18" mdate="2018-05-03">
+<author>Pascale Bendotti</author>
+<author>Pierre Fouilhoux</author>
+<author>Safia Kedad-Sidhoum</author>
+<title>The Unit-capacity Constrained Permutation Problem.</title>
+<pages>463-472</pages>
+<year>2018</year>
+<volume>268</volume>
+<journal>European Journal of Operational Research</journal>
+<number>2</number>
+<url>db/journals/eor/eor268.html#BendottiFK18</url>
+</article>
+</r>
+<r><article key="journals/jco/BendottiFR18" mdate="2018-09-13">
+<author>Pascale Bendotti</author>
+<author orcid="0000-0002-4746-5783">Pierre Fouilhoux</author>
+<author>Cécile Rottner</author>
+<title>The min-up/min-down unit commitment polytope.</title>
+<pages>1024-1058</pages>
+<year>2018</year>
+<volume>36</volume>
+<journal>J. Comb. Optim.</journal>
+<number>3</number>
+<url>db/journals/jco/jco36.html#BendottiFR18</url>
+</article>
+</r>
+<r><article key="journals/rairo/FouilhouxMQT18" mdate="2018-08-15">
+<author>Pierre Fouilhoux</author>
+<author>Ali Ridha Mahjoub</author>
+<author>Alain Quilliot</author>
+<author>Hélène Toussaint</author>
+<title>Branch-and-Cut-and-Price algorithms for the preemptive RCPSP.</title>
+<pages>513</pages>
+<year>2018</year>
+<volume>52</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>2</number>
+<url>db/journals/rairo/rairo52.html#FouilhouxMQT18</url>
+</article>
+</r>
+<r><article key="journals/eor/BendottiCFQ17" mdate="2017-12-28">
+<author orcid="0000-0001-6350-3316">Pascale Bendotti</author>
+<author orcid="0000-0002-4507-5757">Philippe Chrétienne</author>
+<author>Pierre Fouilhoux</author>
+<author>Alain Quilliot</author>
+<title>Anchored reactive and proactive solutions to the CPM-scheduling problem.</title>
+<pages>67-74</pages>
+<year>2017</year>
+<volume>261</volume>
+<journal>European Journal of Operational Research</journal>
+<number>1</number>
+<url>db/journals/eor/eor261.html#BendottiCFQ17</url>
+</article>
+</r>
+<r><inproceedings key="conf/networking/CasazzaFBS17" mdate="2018-11-30">
+<author orcid="0000-0002-3701-4241">Marco Casazza</author>
+<author>Pierre Fouilhoux</author>
+<author>Mathieu Bouet</author>
+<author>Stefano Secci</author>
+<title>Securing virtual network function placement with high availability guarantees.</title>
+<pages>1-9</pages>
+<year>2017</year>
+<booktitle>Networking</booktitle>
+<crossref>conf/networking/2017</crossref>
+<url>db/conf/networking/networking2017.html#CasazzaFBS17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CasazzaFBS17" mdate="2018-08-13">
+<author>Marco Casazza</author>
+<author>Pierre Fouilhoux</author>
+<author>Mathieu Bouet</author>
+<author>Stefano Secci</author>
+<title>Securing Virtual Network Function Placement with High Availability Guarantees.</title>
+<year>2017</year>
+<volume>abs/1701.07993</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1701.07993</ee>
+<url>db/journals/corr/corr1701.html#CasazzaFBS17</url>
+</article>
+</r>
+<r><article key="journals/disopt/BendottiF16" mdate="2017-05-28">
+<author>Pascale Bendotti</author>
+<author>Pierre Fouilhoux</author>
+<title>Feasibility recovery for the Unit-capacity Constrained Permutation Problem.</title>
+<pages>66-86</pages>
+<year>2016</year>
+<volume>22</volume>
+<journal>Discrete Optimization</journal>
+<url>db/journals/disopt/disopt22.html#BendottiF16</url>
+</article>
+</r>
+<r><article key="journals/eor/FouilhouxIKR16" mdate="2019-09-09">
+<author>Pierre Fouilhoux</author>
+<author>Omar Jorge Ibarra-Rojas</author>
+<author>Safia Kedad-Sidhoum</author>
+<author orcid="0000-0003-3785-4440">Yasmin A. Rios-Solis</author>
+<title>Valid inequalities for the synchronization bus timetabling problem.</title>
+<pages>442-450</pages>
+<year>2016</year>
+<volume>251</volume>
+<journal>European Journal of Operational Research</journal>
+<number>2</number>
+<url>db/journals/eor/eor251.html#FouilhouxIKR16</url>
+</article>
+</r>
+<r><article key="journals/disopt/BorneFGLP15" mdate="2017-06-14">
+<author>Sylvie Borne</author>
+<author>Pierre Fouilhoux</author>
+<author>Roland Grappe</author>
+<author orcid="0000-0001-8385-3890">Mathieu Lacroix</author>
+<author>Pierre Pesneau</author>
+<title>Circuit and bond polytopes on series-parallel graphs.</title>
+<pages>55-68</pages>
+<year>2015</year>
+<volume>17</volume>
+<journal>Discrete Optimization</journal>
+<url>db/journals/disopt/disopt17.html#BorneFGLP15</url>
+</article>
+</r>
+<r><article key="journals/dam/ChretienneFGS14" mdate="2017-05-28">
+<author>Philippe Chrétienne</author>
+<author>Pierre Fouilhoux</author>
+<author>Éric Gourdin</author>
+<author>Jean-Mathieu Segura</author>
+<title>The location-dispatching problem: Polyhedral results and content delivery network design.</title>
+<pages>68-85</pages>
+<year>2014</year>
+<volume>164</volume>
+<journal>Discrete Applied Mathematics</journal>
+<url>db/journals/dam/dam164.html#ChretienneFGS14</url>
+</article>
+</r>
+<r><article key="journals/rairo/FouilhouxQ14" mdate="2017-05-26">
+<author>Pierre Fouilhoux</author>
+<author>Aurélien Questel</author>
+<title>A branch-and-cut for the Non-Disjoint <i>m</i>-Ring-Star Problem.</title>
+<pages>167-188</pages>
+<year>2014</year>
+<volume>48</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>2</number>
+<url>db/journals/rairo/rairo48.html#FouilhouxQ14</url>
+</article>
+</r>
+<r><proceedings key="conf/iscopt/2014" mdate="2019-05-14">
+<editor>Pierre Fouilhoux</editor>
+<editor>Luis Eduardo Neves Gouveia</editor>
+<editor>Ali Ridha Mahjoub</editor>
+<editor>Vangelis Th. Paschos</editor>
+<title>Combinatorial Optimization - Third International Symposium, ISCO 2014, Lisbon, Portugal, March 5-7, 2014, Revised Selected Papers</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8596</volume>
+<isbn>978-3-319-09173-0</isbn>
+<booktitle>ISCO</booktitle>
+<url>db/conf/iscopt/isco2014.html</url>
+</proceedings>
+</r>
+<r><article key="journals/coap/FouilhouxM12" mdate="2017-05-17">
+<author>Pierre Fouilhoux</author>
+<author>Ali Ridha Mahjoub</author>
+<title>Solving VLSI design and DNA sequencing problems using bipartization of graphs.</title>
+<pages>749-781</pages>
+<year>2012</year>
+<volume>51</volume>
+<journal>Comp. Opt. and Appl.</journal>
+<number>2</number>
+<url>db/journals/coap/coap51.html#FouilhouxM12</url>
+</article>
+</r>
+<r><article key="journals/networks/FouilhouxKMOY12" mdate="2017-05-28">
+<author>Pierre Fouilhoux</author>
+<author>Oya Ekin Karasan</author>
+<author>Ali Ridha Mahjoub</author>
+<author>Onur Özkök</author>
+<author>Hande Yaman</author>
+<title>Survivability in hierarchical telecommunications networks.</title>
+<pages>37-58</pages>
+<year>2012</year>
+<volume>59</volume>
+<journal>Networks</journal>
+<number>1</number>
+<url>db/journals/networks/networks59.html#FouilhouxKMOY12</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscopt/FouilhouxQ12" mdate="2017-05-23">
+<author>Pierre Fouilhoux</author>
+<author>Aurélien Questel</author>
+<title>The Non-Disjoint m-Ring-Star Problem: Polyhedral Results and SDH/SONET Network Design.</title>
+<pages>93-104</pages>
+<year>2012</year>
+<booktitle>ISCO</booktitle>
+<crossref>conf/iscopt/2012</crossref>
+<url>db/conf/iscopt/isco2012.html#FouilhouxQ12</url>
+</inproceedings>
+</r>
+<r><article key="journals/endm/ChretienneFGS10" mdate="2017-05-27">
+<author>Philippe Chrétienne</author>
+<author>Pierre Fouilhoux</author>
+<author>Éric Gourdin</author>
+<author>Jean-Mathieu Segura</author>
+<title>The Location-Dispatching Problem: polyhedral results and Content Delivery Network Design.</title>
+<pages>867-874</pages>
+<year>2010</year>
+<volume>36</volume>
+<journal>Electronic Notes in Discrete Mathematics</journal>
+<url>db/journals/endm/endm36.html#ChretienneFGS10</url>
+</article>
+</r>
+<r><article key="journals/siamdm/FouilhouxLMY09" mdate="2019-10-19">
+<author>Pierre Fouilhoux</author>
+<author orcid="0000-0001-7471-2308">Martine Labbé</author>
+<author>Ali Ridha Mahjoub</author>
+<author>Hande Yaman</author>
+<title>Generating Facets for the Independence System Polytope.</title>
+<pages>1484-1506</pages>
+<year>2009</year>
+<volume>23</volume>
+<journal>SIAM J. Discrete Math.</journal>
+<number>3</number>
+<url>db/journals/siamdm/siamdm23.html#FouilhouxLMY09</url>
+</article>
+</r>
+<r><article key="journals/dam/FouilhouxM06" mdate="2017-05-28">
+<author>Pierre Fouilhoux</author>
+<author>Ali Ridha Mahjoub</author>
+<title>Polyhedral results for the bipartite induced subgraph problem.</title>
+<pages>2128-2149</pages>
+<year>2006</year>
+<volume>154</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>15</number>
+<url>db/journals/dam/dam154.html#FouilhouxM06</url>
+</article>
+</r>
+<coauthors n="26" nc="1">
+<co c="0"><na f="b/Bendotti:Pascale">Pascale Bendotti</na></co>
+<co c="0"><na f="b/Borne:Sylvie">Sylvie Borne</na></co>
+<co c="0"><na f="b/Bouet:Mathieu">Mathieu Bouet</na></co>
+<co c="0"><na f="c/Casazza:Marco">Marco Casazza</na></co>
+<co c="0"><na f="c/Chr=eacute=tienne:Philippe">Philippe Chrétienne</na></co>
+<co c="0"><na f="f/Falq:Anne=Elisabeth">Anne-Elisabeth Falq</na></co>
+<co c="0"><na f="g/Gourdin:=Eacute=ric">Éric Gourdin</na></co>
+<co c="0" n="2"><na f="g/Gouveia:Lu=iacute=s">Luís Gouveia</na><na>Luis Eduardo Neves Gouveia</na></co>
+<co c="0"><na f="g/Grappe:Roland">Roland Grappe</na></co>
+<co c="0"><na f="i/Ibarra=Rojas:Omar_Jorge">Omar Jorge Ibarra-Rojas</na></co>
+<co c="0"><na f="k/Karasan:Oya_Ekin">Oya Ekin Karasan</na></co>
+<co c="0"><na f="k/Kedad=Sidhoum:Safia">Safia Kedad-Sidhoum</na></co>
+<co c="0"><na f="l/Labb=eacute=:Martine">Martine Labbé</na></co>
+<co c="0"><na f="l/Lacroix:Mathieu">Mathieu Lacroix</na></co>
+<co c="0"><na f="m/Mahjoub:Ali_Ridha">Ali Ridha Mahjoub</na></co>
+<co c="0"><na f="=/=Ouml=zk=ouml=k:Onur">Onur Özkök</na></co>
+<co c="0"><na f="p/Paschos:Vangelis_Th=">Vangelis Th. Paschos</na></co>
+<co c="0"><na f="p/Pesneau:Pierre">Pierre Pesneau</na></co>
+<co c="-1"><na f="q/Questel:Aur=eacute=lien">Aurélien Questel</na></co>
+<co c="0"><na f="q/Quilliot:Alain">Alain Quilliot</na></co>
+<co c="0"><na f="r/Rios=Solis:Yasmin_A=">Yasmin A. Rios-Solis</na></co>
+<co c="0"><na f="r/Rottner:C=eacute=cile">Cécile Rottner</na></co>
+<co c="0"><na f="s/Secci:Stefano">Stefano Secci</na></co>
+<co c="0"><na f="s/Segura:Jean=Mathieu">Jean-Mathieu Segura</na></co>
+<co c="0"><na f="t/Toussaint:H=eacute=l=egrave=ne">Hélène Toussaint</na></co>
+<co c="0"><na f="y/Yaman:Hande">Hande Yaman</na></co>
+</coauthors>
+</dblpperson>
+

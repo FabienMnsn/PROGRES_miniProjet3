@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Cédric Besse" n="3">
+<person key="homepages/98/994" mdate="2009-06-09">
+<author>Cédric Besse</author>
+</person>
+<r><inproceedings key="conf/pts/BesseCKZ02" mdate="2002-07-18">
+<author>Cédric Besse</author>
+<author>Ana R. Cavalli</author>
+<author>Myungchul Kim</author>
+<author>Fatiha Zaïdi</author>
+<title>Automated Generation of Interoperability Tests.</title>
+<pages>169-</pages>
+<year>2002</year>
+<crossref>conf/pts/2002</crossref>
+<booktitle>TestCom</booktitle>
+<url>db/conf/pts/testcom2002.html#BesseCKZ02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apaqs/BesseCK01" mdate="2018-11-02">
+<author>Cédric Besse</author>
+<author>Ana R. Cavalli</author>
+<author orcid="0000-0002-3337-9841">Ferhat Khendek</author>
+<title>Partial Validation of a Design Specification with Respect to Requirements.</title>
+<pages>131-140</pages>
+<year>2001</year>
+<crossref>conf/apaqs/2001</crossref>
+<booktitle>APAQS</booktitle>
+<url>db/conf/apaqs/apaqs2001.html#BesseCK01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/BesseCL99" mdate="2017-05-23">
+<author>Cédric Besse</author>
+<author>Ana R. Cavalli</author>
+<author>David Lee</author>
+<title>An Automatic and Optimized Test Generation Technique Applying to TCP/IP Protocol.</title>
+<pages>73-80</pages>
+<year>1999</year>
+<crossref>conf/kbse/1999</crossref>
+<booktitle>ASE</booktitle>
+<url>db/conf/kbse/ase1999.html#BesseCL99</url>
+</inproceedings>
+</r>
+<coauthors n="5" nc="1">
+<co c="0"><na f="c/Cavalli:Ana_R=">Ana R. Cavalli</na></co>
+<co c="0"><na f="k/Khendek:Ferhat">Ferhat Khendek</na></co>
+<co c="0"><na f="k/Kim:Myungchul">Myungchul Kim</na></co>
+<co c="0"><na f="l/Lee:David">David Lee</na></co>
+<co c="0"><na f="z/Za=iuml=di:Fatiha">Fatiha Zaïdi</na></co>
+</coauthors>
+</dblpperson>
+

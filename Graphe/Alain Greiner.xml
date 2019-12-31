@@ -1,0 +1,817 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Alain Greiner" n="55">
+<person key="homepages/66/4349" mdate="2009-06-10">
+<author>Alain Greiner</author>
+</person>
+<r><inproceedings key="conf/esscirc/GuthmullerTVBPD18" mdate="2018-10-23">
+<author>Eric Guthmuller</author>
+<author>César Fuguet Tortolero</author>
+<author>Pascal Vivet</author>
+<author>C. Bernard</author>
+<author>Ivan Miro Panades</author>
+<author>Jean Durupt</author>
+<author>E. Beignc</author>
+<author>Didier Lattard</author>
+<author>Séverine Cheramy</author>
+<author>Alain Greiner</author>
+<author>Quentin L. Meunier</author>
+<author>Pirouz Bazargan-Sabet</author>
+<title>A 29 Gops/Watt 3D-Ready 16-Core Computing Fabric with Scalable Cache Coherent Architecture Using Distributed L2 and Adaptive L3 Caches.</title>
+<pages>318-321</pages>
+<year>2018</year>
+<booktitle>ESSCIRC</booktitle>
+<crossref>conf/esscirc/2018</crossref>
+<url>db/conf/esscirc/esscirc2018.html#GuthmullerTVBPD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/LiuMG17" mdate="2018-04-11">
+<author>Hao Liu</author>
+<author>Quentin L. Meunier</author>
+<author>Alain Greiner</author>
+<title>Decoupling Translation Lookaside Buffer Coherence from Cache Coherence.</title>
+<pages>92-97</pages>
+<year>2017</year>
+<booktitle>ISVLSI</booktitle>
+<crossref>conf/isvlsi/2017</crossref>
+<url>db/conf/isvlsi/isvlsi2017.html#LiuMG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mcsoc/KaraouiPMWG16" mdate="2019-10-19">
+<author>Mohamed Lamine Karaoui</author>
+<author orcid="0000-0002-0187-2009">Pierre-Yves Peneau</author>
+<author>Quentin L. Meunier</author>
+<author>Franck Wajsbürt</author>
+<author>Alain Greiner</author>
+<title>Exploiting Large Memory Using 32-Bit Energy-Efficient Manycore Architectures.</title>
+<pages>61-68</pages>
+<year>2016</year>
+<booktitle>MCSoC</booktitle>
+<crossref>conf/mcsoc/2016</crossref>
+<url>db/conf/mcsoc/mcsoc2016.html#KaraouiPMWG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/KaraouiMWG15" mdate="2017-05-20">
+<author>Mohamed Lamine Karaoui</author>
+<author>Quentin L. Meunier</author>
+<author>Franck Wajsbürt</author>
+<author>Alain Greiner</author>
+<title>GECOS : Mécanisme de synchronisation passant à l'échelle à plusieurs lecteurs et un écrivain pour structures chaînées.</title>
+<pages>53-78</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>1-2</number>
+<url>db/journals/tsi/tsi34.html#KaraouiMWG15</url>
+</article>
+</r>
+<r><inproceedings key="conf/isvlsi/LiuDGMWG15" mdate="2017-05-21">
+<author>Hao Liu</author>
+<author>Clement Devigne</author>
+<author>Lucas Garcia</author>
+<author>Quentin L. Meunier</author>
+<author>Franck Wajsbürt</author>
+<author>Alain Greiner</author>
+<title>RWT: Suppressing Write-Through Cost When Coherence is Not Needed.</title>
+<pages>434-439</pages>
+<year>2015</year>
+<booktitle>ISVLSI</booktitle>
+<crossref>conf/isvlsi/2015</crossref>
+<url>db/conf/isvlsi/isvlsi2015.html#LiuDGMWG15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/ZhangRGBP14" mdate="2017-05-18">
+<author>Zhen Zhang</author>
+<author>Dimitri Refauvelet</author>
+<author>Alain Greiner</author>
+<author>Mounir Benabdenbi</author>
+<author>François Pêcheux</author>
+<title>On-the-Field Test and Configuration Infrastructure for 2-D-Mesh NoCs in Shared-Memory Many-Core Architectures.</title>
+<pages>1364-1376</pages>
+<year>2014</year>
+<volume>22</volume>
+<journal>IEEE Trans. VLSI Syst.</journal>
+<number>6</number>
+<url>db/journals/tvlsi/tvlsi22.html#ZhangRGBP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/vlsi/GuthmullerPG13" mdate="2017-05-24">
+<author>Eric Guthmuller</author>
+<author>Ivan Miro Panades</author>
+<author>Alain Greiner</author>
+<title>Architectural exploration of a fine-grained 3D cache for high performance in a manycore context.</title>
+<pages>302-307</pages>
+<year>2013</year>
+<booktitle>VLSI-SoC</booktitle>
+<crossref>conf/vlsi/2013soc</crossref>
+<url>db/conf/vlsi/vlsisoc2013.html#GuthmullerPG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/GuthmullerPG12" mdate="2017-05-21">
+<author>Eric Guthmuller</author>
+<author>Ivan Miro Panades</author>
+<author>Alain Greiner</author>
+<title>Adaptive Stackable 3D Cache Architecture for Manycores.</title>
+<pages>39-44</pages>
+<year>2012</year>
+<booktitle>ISVLSI</booktitle>
+<crossref>conf/isvlsi/2012</crossref>
+<url>db/conf/isvlsi/isvlsi2012.html#GuthmullerPG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/PorquetGS11" mdate="2017-05-23">
+<author>Joel Porquet</author>
+<author>Alain Greiner</author>
+<author>Christian Schwarz</author>
+<title>NoC-MPU: A secure architecture for flexible co-hosting on shared memory MPSoCs.</title>
+<pages>591-594</pages>
+<year>2011</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2011</crossref>
+<url>db/conf/date/date2011.html#PorquetGS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vts/ZhangRGBP11" mdate="2017-05-25">
+<author>Zhen Zhang</author>
+<author>Dimitri Refauvelet</author>
+<author>Alain Greiner</author>
+<author>Mounir Benabdenbi</author>
+<author>François Pêcheux</author>
+<title>Localization of damaged resources in NoC based shared-memory MP2SOC, using a Distributed Cooperative Configuration Infrastructure.</title>
+<pages>229-234</pages>
+<year>2011</year>
+<booktitle>VTS</booktitle>
+<crossref>conf/vts/2011</crossref>
+<url>db/conf/vts/vts2011.html#ZhangRGBP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/MelloMGP10" mdate="2017-05-23">
+<author>Aline Mello</author>
+<author>Isaac Maia</author>
+<author>Alain Greiner</author>
+<author>François Pêcheux</author>
+<title>Parallel simulation of systemC TLM 2.0 compliant MPSoC on SMP workstations.</title>
+<pages>606-609</pages>
+<year>2010</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2010</crossref>
+<url>db/conf/date/date2010.html#MelloMGP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iolts/ZhangGB10" mdate="2017-05-22">
+<author>Zhen Zhang</author>
+<author>Alain Greiner</author>
+<author>Mounir Benabdenbi</author>
+<title>Fully distributed initialization procedure for a 2D-Mesh NoC, including off-line BIST and partial deactivation of faulty components.</title>
+<pages>194-196</pages>
+<year>2010</year>
+<booktitle>IOLTS</booktitle>
+<crossref>conf/iolts/2010</crossref>
+<url>db/conf/iolts/iolts2010.html#ZhangGB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/patmos/PecheuxAG10" mdate="2018-06-26">
+<author>François Pêcheux</author>
+<author>Khouloud Zine el Abidine</author>
+<author>Alain Greiner</author>
+<title>Early Power Estimation in Heterogeneous Designs Using SoCLib and SystemC-AMS.</title>
+<pages>252</pages>
+<year>2010</year>
+<booktitle>PATMOS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-17752-1_27</ee>
+<crossref>conf/patmos/2010</crossref>
+<url>db/conf/patmos/patmos2010.html#PecheuxAG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/GreinerFPG09" mdate="2017-04-30">
+<author>Alain Greiner</author>
+<author>Etienne Faure</author>
+<author>Nicolas Pouillon</author>
+<author>Daniela Genius</author>
+<title>A generic hardware / software communication middleware for streaming applications on shared memory multi processor systems-on-chip.</title>
+<pages>1-4</pages>
+<year>2009</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2009</crossref>
+<url>db/conf/fdl/fdl2009.html#GreinerFPG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/PouillonBMPG09" mdate="2017-05-25">
+<author>Nicolas Pouillon</author>
+<author>Alexandre Bécoulet</author>
+<author>Aline Vieira de Mello</author>
+<author>François Pêcheux</author>
+<author>Alain Greiner</author>
+<title>A Generic Instruction Set Simulator API for Timed and Untimed Simulation and Debug of MP2-SoCs.</title>
+<pages>116-122</pages>
+<year>2009</year>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<crossref>conf/rsp/2009</crossref>
+<url>db/conf/rsp/rsp2009.html#PouillonBMPG09</url>
+</inproceedings>
+</r>
+<r><article key="journals/dt/SheibanyradGP08" mdate="2017-05-18">
+<author>Abbas Sheibanyrad</author>
+<author>Alain Greiner</author>
+<author>Ivan Miro Panades</author>
+<title>Multisynchronous and Fully Asynchronous NoCs for GALS Architectures.</title>
+<pages>572-580</pages>
+<year>2008</year>
+<volume>25</volume>
+<journal>IEEE Design and Test of Computers</journal>
+<number>6</number>
+<url>db/journals/dt/dt25.html#SheibanyradGP08</url>
+</article>
+</r>
+<r><article key="journals/integration/SheibanyradG08" mdate="2017-05-20">
+<author>Abbas Sheibanyrad</author>
+<author>Alain Greiner</author>
+<title>Two efficient synchronous -- asynchronous converters well-suited for networks-on-chip in GALS architectures.</title>
+<pages>17-26</pages>
+<year>2008</year>
+<volume>41</volume>
+<journal>Integration</journal>
+<number>1</number>
+<url>db/journals/integration/integration41.html#SheibanyradG08</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/ZhangGT08" mdate="2018-11-06">
+<author>Zhen Zhang</author>
+<author>Alain Greiner</author>
+<author>Sami Taktak</author>
+<title>A reconfigurable routing algorithm for a fault-tolerant 2D-Mesh Network-on-Chip.</title>
+<pages>441-446</pages>
+<year>2008</year>
+<booktitle>DAC</booktitle>
+<crossref>conf/dac/2008</crossref>
+<url>db/conf/dac/dac2008.html#ZhangGT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nocs/PanadesCVG08" mdate="2008-05-23">
+<author>Ivan Miro Panades</author>
+<author>Fabien Clermidy</author>
+<author>Pascal Vivet</author>
+<author>Alain Greiner</author>
+<title>Physical Implementation of the DSPIN Network-on-Chip in the FAUST Architecture.</title>
+<pages>139-148</pages>
+<year>2008</year>
+<booktitle>NOCS</booktitle>
+<crossref>conf/nocs/2008</crossref>
+<url>db/conf/nocs/nocs2008.html#PanadesCVG08</url>
+</inproceedings>
+</r>
+<r><article key="journals/cee/CharleryAG07" mdate="2017-05-27">
+<author>Hervé Charlery</author>
+<author>Adrijean Andriahantenaina</author>
+<author>Alain Greiner</author>
+<title>Physical design of the VCI wrappers for the on-chip packet-switched network named SPIN.</title>
+<pages>299-309</pages>
+<year>2007</year>
+<volume>33</volume>
+<journal>Computers and Electrical Engineering</journal>
+<number>4</number>
+<url>db/journals/cee/cee33.html#CharleryAG07</url>
+</article>
+</r>
+<r><inproceedings key="conf/csreaESA/SheibanyradG07" mdate="2007-12-12">
+<author>Abbas Sheibanyrad</author>
+<author>Alain Greiner</author>
+<title>Hybrid-Timing FIFOs to Use on Networks-on-Chip in GALS Architectures.</title>
+<pages>27-33</pages>
+<year>2007</year>
+<crossref>conf/csreaESA/2007</crossref>
+<booktitle>ESA</booktitle>
+<url>db/conf/csreaESA/csreaESA2007.html#SheibanyradG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SheibanyradPG07" mdate="2018-11-28">
+<author>Abbas Sheibanyrad</author>
+<author>Ivan Miro Panades</author>
+<author>Alain Greiner</author>
+<title>Systematic comparison between the asynchronous and the multi-synchronous implementations of a network on chip architecture.</title>
+<pages>1090-1095</pages>
+<year>2007</year>
+<crossref>conf/date/2007</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2007.html#SheibanyradPG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nocs/PanadesG07" mdate="2017-05-23">
+<author>Ivan Miro Panades</author>
+<author>Alain Greiner</author>
+<title>Bi-Synchronous FIFO for Synchronous Circuit Communication Well Suited for Network-on-Chip in GALS Architectures.</title>
+<pages>83-94</pages>
+<year>2007</year>
+<crossref>conf/nocs/2007</crossref>
+<booktitle>NOCS</booktitle>
+<url>db/conf/nocs/nocs2007.html#PanadesG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vts/TunaBG07" mdate="2017-05-25">
+<author>Matthieu Tuna</author>
+<author>Mounir Benabdenbi</author>
+<author>Alain Greiner</author>
+<title>At-Speed Testing of Core-Based System-on-Chip Using an Embedded Micro-Tester.</title>
+<pages>447-454</pages>
+<year>2007</year>
+<crossref>conf/vts/2007</crossref>
+<booktitle>VTS</booktitle>
+<url>db/conf/vts/vts2007.html#TunaBG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arcs/AtitallahNGMD06" mdate="2017-05-24">
+<author>Rabie Ben Atitallah</author>
+<author>Smaïl Niar</author>
+<author>Alain Greiner</author>
+<author>Samy Meftali</author>
+<author>Jean-Luc Dekeyser</author>
+<title>Estimating Energy Consumption for an MPSoC Architectural Exploration.</title>
+<pages>298-310</pages>
+<year>2006</year>
+<crossref>conf/arcs/2006</crossref>
+<booktitle>ARCS</booktitle>
+<url>db/conf/arcs/arcs2006.html#AtitallahNGMD06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ViaudPG06" mdate="2017-05-23">
+<author>Emmanuel Viaud</author>
+<author>François Pêcheux</author>
+<author>Alain Greiner</author>
+<title>An efficient TLM/T modeling and simulation environment based on conservative parallel discrete event principles.</title>
+<pages>94-99</pages>
+<year>2006</year>
+<crossref>conf/date/2006p</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2006p.html#ViaudPG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/PetrotGG06" mdate="2017-05-19">
+<author>Frédéric Pétrot</author>
+<author>Alain Greiner</author>
+<author>Pascal Gomez</author>
+<title>On Cache Coherency and Memory Consistency Issues in NoC Based Shared Memory Multiprocessor SoC Architectures.</title>
+<pages>53-60</pages>
+<year>2006</year>
+<crossref>conf/dsd/2006</crossref>
+<booktitle>DSD</booktitle>
+<url>db/conf/dsd/dsd2006.html#PetrotGG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nanonet/PanadesGS06" mdate="2017-05-26">
+<author>Ivan Miro Panades</author>
+<author>Alain Greiner</author>
+<author>Abbas Sheibanyrad</author>
+<title>A Low Cost Network-on-Chip with Guaranteed Service Well Suited to the GALS Approach.</title>
+<pages>1-5</pages>
+<year>2006</year>
+<booktitle>Nano-Net</booktitle>
+<crossref>conf/nanonet/2006</crossref>
+<url>db/conf/nanonet/nanonet2006.html#PanadesGS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/patmos/SheibanyradG06" mdate="2017-05-26">
+<author>Abbas Sheibanyrad</author>
+<author>Alain Greiner</author>
+<title>Two Efficient Synchronous Û Asynchronous Converters Well-Suited for Network on Chip in GALS Architectures.</title>
+<pages>191-202</pages>
+<year>2006</year>
+<crossref>conf/patmos/2006</crossref>
+<booktitle>PATMOS</booktitle>
+<url>db/conf/patmos/patmos2006.html#SheibanyradG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/GreinerPCBCL06" mdate="2008-12-09">
+<author>Alain Greiner</author>
+<author>Frédéric Pétrot</author>
+<author>M. Carrier</author>
+<author>Mounir Benabdenbi</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Raphaël Labayrade</author>
+<title>MP-SoC Architecture for an Obstacle Detection Application in Pre-Crash Situation.</title>
+<pages>24-30</pages>
+<year>2006</year>
+<crossref>conf/recosoc/2006</crossref>
+<booktitle>ReCoSoC</booktitle>
+<url>db/conf/recosoc/ReCoSoC2006.html#GreinerPCBCL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/FaureGG06" mdate="2006-11-13">
+<author>Etienne Faure</author>
+<author>Alain Greiner</author>
+<author>Daniela Genius</author>
+<title>A generic hardware/software communication mechanism for Multi-Processor System on Chip, Targeting Telecommunication Applications.</title>
+<pages>237-242</pages>
+<year>2006</year>
+<crossref>conf/recosoc/2006</crossref>
+<booktitle>ReCoSoC</booktitle>
+<url>db/conf/recosoc/ReCoSoC2006.html#FaureGG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/BenabdenbiGPVT04" mdate="2017-05-23">
+<author>Mounir Benabdenbi</author>
+<author>Alain Greiner</author>
+<author>François Pêcheux</author>
+<author>Emmanuel Viaud</author>
+<author>Matthieu Tuna</author>
+<title>STEPS: Experimenting a New Software-Based Strategy for Testing SoCs Containing P1500-Compliant IP Cores.</title>
+<pages>712-713</pages>
+<year>2004</year>
+<crossref>conf/date/2004</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2004-1.html#BenabdenbiGPVT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/LoueratNBLG04" mdate="2014-04-28">
+<author>Marie-Minerve Louërat</author>
+<author>Tuong P. Nguyen</author>
+<author>Vincent Bourguet</author>
+<author>Laurent de Lamarre</author>
+<author>Alain Greiner</author>
+<title>A language to desing generators of analog functions (poster).</title>
+<pages>30-32</pages>
+<year>2004</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2004</crossref>
+<url>db/conf/fdl/fdl2004.html#LoueratNBLG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/AndriahantenainaG03" mdate="2015-06-30">
+<author>Adrijean Andriahantenaina</author>
+<author>Alain Greiner</author>
+<title>Micro-Network for SoC: Implementation of a 32-Port SPIN network.</title>
+<pages>11128-11129</pages>
+<year>2003</year>
+<crossref>conf/date/2003</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2003.html#AndriahantenainaG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/AdriahantenainaCGMZ03" mdate="2015-06-30">
+<author>Adrijean Andriahantenaina</author>
+<author>Hervé Charlery</author>
+<author>Alain Greiner</author>
+<author>Laurent Mortiez</author>
+<author>Cesar Albenes Zeferino</author>
+<title>SPIN: A Scalable, Packet Switched, On-Chip Micro-Network.</title>
+<pages>20070-20073</pages>
+<year>2003</year>
+<crossref>conf/date/2003</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2003.html#AdriahantenainaCGMZ03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/DessoukyKLG01" mdate="2017-09-16">
+<author>Mohamed Dessouky</author>
+<author orcid="0000-0003-0377-7408">Andreas Kaiser</author>
+<author>Marie-Minerve Louërat</author>
+<author>Alain Greiner</author>
+<title>Analog design for reuse - case study: very low-voltage sigma-delta modulator.</title>
+<pages>353-360</pages>
+<year>2001</year>
+<crossref>conf/date/2001</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2001.html#DessoukyKLG01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/DesbarbieuxGZFGWSSD01" mdate="2017-05-24">
+<author>Jean Lou Desbarbieux</author>
+<author>Olivier Glück</author>
+<author>Amal Zerrouki</author>
+<author>Alexandre Fenyo</author>
+<author>Alain Greiner</author>
+<author>Franck Wajsbürt</author>
+<author>Cyril Spasevski</author>
+<author>Fabrício Silva</author>
+<author>E. Dreyfus</author>
+<title>Protocol and Performance Analysis of the MPC Parallel Computer.</title>
+<pages>52</pages>
+<year>2001</year>
+<crossref>conf/ipps/2001</crossref>
+<booktitle>IPDPS</booktitle>
+<url>db/conf/ipps/ipdps2001.html#DesbarbieuxGZFGWSSD01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/GuerrierG00" mdate="2018-11-06">
+<author>Pierre Guerrier</author>
+<author>Alain Greiner</author>
+<title>A Generic Architecture for On-Chip Packet-Switched Interconnections.</title>
+<pages>250-256</pages>
+<year>2000</year>
+<crossref>conf/date/2000</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2000.html#GuerrierG00</url>
+</inproceedings>
+</r>
+<r><article key="journals/vlsi/GreinerVRVKG98" mdate="2018-08-16">
+<author>Alain Greiner</author>
+<author>L. Varani</author>
+<author>Luca Reggiani</author>
+<author>Maria Cristina Vecchi</author>
+<author>T. Kuhn</author>
+<author>P. Golinelli</author>
+<title>Carrier Thermal Conductivity: Analysis and Application to Submicron-Device Simulation.</title>
+<pages>59-64</pages>
+<year>1998</year>
+<volume>1998</volume>
+<journal>VLSI Design</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1155/1998/27140</ee>
+<url>db/journals/vlsi/vlsi1998.html#GreinerVRVKG98</url>
+</article>
+</r>
+<r><inproceedings key="conf/anss/PetrotHG97" mdate="2017-05-21">
+<author>Frédéric Pétrot</author>
+<author>Denis Hommais</author>
+<author>Alain Greiner</author>
+<title>A Simulation Environment for Core Based Embedded Systems.</title>
+<pages>86-91</pages>
+<year>1997</year>
+<crossref>conf/anss/1997</crossref>
+<booktitle>Annual Simulation Symposium</booktitle>
+<url>db/conf/anss/anss1997.html#PetrotHG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/PetrotHG97" mdate="2017-05-21">
+<author>Frédéric Pétrot</author>
+<author>Denis Hommais</author>
+<author>Alain Greiner</author>
+<title>Cycle precise core based hardware/software system simulation with predictable event propagation.</title>
+<pages>182-187</pages>
+<year>1997</year>
+<crossref>conf/euromicro/1997</crossref>
+<booktitle>EUROMICRO</booktitle>
+<url>db/conf/euromicro/euromicro1997.html#PetrotHG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/DuhaldeGP95" mdate="2017-05-26">
+<author>Marcello Duhalde</author>
+<author>Alain Greiner</author>
+<author>Frédéric Pétrot</author>
+<title>A High Performance Modular Embedded ROM Architecture.</title>
+<pages>1057-1060</pages>
+<year>1995</year>
+<crossref>conf/iscas/1995</crossref>
+<booktitle>ISCAS</booktitle>
+<url>db/conf/iscas/iscas1995-2.html#DuhaldeGP95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/anss/HirechFGR94" mdate="2019-02-05">
+<author>Mokhtar Hirech</author>
+<author>Olivier Florent</author>
+<author>Alain Greiner</author>
+<author>El Housseine Rejouan</author>
+<title>Application of a redefinable symbolic simulation technique in VLSI testability design rules checking.</title>
+<pages>255-261</pages>
+<year>1994</year>
+<booktitle>Annual Simulation Symposium</booktitle>
+<crossref>conf/anss/1994</crossref>
+<url>db/conf/anss/anss1994.html#HirechFGR94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurodac/GreinerLWW94" mdate="2017-05-24">
+<author>Alain Greiner</author>
+<author>L. Lucas</author>
+<author>Franck Wajsbürt</author>
+<author>Laurent Winckel</author>
+<title>Design of a High Complexity Superscalar Microprocessor with the Portable IDPS ASIC Library.</title>
+<pages>9-13</pages>
+<year>1994</year>
+<crossref>conf/eurodac/1994edac</crossref>
+<booktitle>EDAC-ETC-EUROASIC</booktitle>
+<url>db/conf/eurodac/eurodac1994.html#GreinerLWW94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurodac/BurgunDGLS94" mdate="2015-11-11">
+<author>Luc Burgun</author>
+<author>N. Dictus</author>
+<author>Alain Greiner</author>
+<author>E. Prado Lopes</author>
+<author>C. Sarwary</author>
+<title>Multilevel logic optimization of very high complexity circuits.</title>
+<pages>14-19</pages>
+<year>1994</year>
+<booktitle>EURO-DAC</booktitle>
+<crossref>conf/eurodac/1994</crossref>
+<url>db/conf/eurodac/euro-dac1994.html#BurgunDGLS94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurodac/HirechFGR94" mdate="2017-05-24">
+<author>Mokhtar Hirech</author>
+<author>Olivier Florent</author>
+<author>Alain Greiner</author>
+<author>El Housseine Rejouan</author>
+<title>A Redefinable Symbolic Simulation Technique to Testability Design Rules Checking.</title>
+<pages>668</pages>
+<year>1994</year>
+<crossref>conf/eurodac/1994edac</crossref>
+<booktitle>EDAC-ETC-EUROASIC</booktitle>
+<url>db/conf/eurodac/eurodac1994.html#HirechFGR94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurodac/BurgunDGPS94" mdate="2017-05-24">
+<author>Luc Burgun</author>
+<author>N. Dictus</author>
+<author>Alain Greiner</author>
+<author>E. Pradho</author>
+<author>C. Sarwary</author>
+<title>Multilevel Logic Synthesis of Very High Complexity Circuits.</title>
+<pages>669</pages>
+<year>1994</year>
+<crossref>conf/eurodac/1994edac</crossref>
+<booktitle>EDAC-ETC-EUROASIC</booktitle>
+<url>db/conf/eurodac/eurodac1994.html#BurgunDGPS94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurodac/GreinerP94" mdate="2015-11-11">
+<author>Alain Greiner</author>
+<author>Frédéric Pétrot</author>
+<title>Using C to write portable CMOS VLSI module generators.</title>
+<pages>676-681</pages>
+<year>1994</year>
+<booktitle>EURO-DAC</booktitle>
+<crossref>conf/eurodac/1994</crossref>
+<url>db/conf/eurodac/euro-dac1994.html#GreinerP94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hicss/ArchambaudFG94" mdate="2014-07-15">
+<author>Denis Archambaud</author>
+<author>Pascal Faudemay</author>
+<author>Alain Greiner</author>
+<title>RAPID-2, An Object-Oriented Associative Memory Applicable to Genome Data Processing.</title>
+<pages>150-159</pages>
+<year>1994</year>
+<crossref>conf/hicss/1994</crossref>
+<booktitle>HICSS (5)</booktitle>
+<url>db/conf/hicss/hicss1994-5.html#ArchambaudFG94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/HirechFGR94" mdate="2017-05-26">
+<author>Mokhtar Hirech</author>
+<author>Olivier Florent</author>
+<author>Alain Greiner</author>
+<author>El Housseine Rejouan</author>
+<title>A Redefinable Symbolic Simulation Technique to Testability Design Rules Checking.</title>
+<pages>89-92</pages>
+<year>1994</year>
+<crossref>conf/iscas/1994</crossref>
+<booktitle>ISCAS</booktitle>
+<url>db/conf/iscas/iscas1994-1.html#HirechFGR94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurodac/LaurentinGM92" mdate="2017-05-24">
+<author>M. Laurentin</author>
+<author>Alain Greiner</author>
+<author>Roland Marbot</author>
+<title>DESB, a functional abstractor for CMOS VLSI circuits.</title>
+<pages>22-27</pages>
+<year>1992</year>
+<booktitle>EURO-DAC</booktitle>
+<crossref>conf/eurodac/1992</crossref>
+<url>db/conf/eurodac/euro-dac1992.html#LaurentinGM92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip10-2/AmmarG92" mdate="2002-02-07">
+<author>Lotfi Ben Ammar</author>
+<author>Alain Greiner</author>
+<title>FITPATH: A Process-Independent Datapath Compiler Providing High Density Layout.</title>
+<pages>133-151</pages>
+<year>1992</year>
+<crossref>conf/ifip10-2/1992</crossref>
+<booktitle>Synthesis for Control Dominated Circuits</booktitle>
+<url>db/conf/ifip10-2/ifip10-2-1992.html#AmmarG92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurodac/HajjarGMK91" mdate="2015-11-17">
+<author>Amjad Hajjar</author>
+<author>Alain Greiner</author>
+<author>Roland Marbot</author>
+<author>Payam Kiani</author>
+<title>TAS: an accurate timing analyser for CMOS VLSI.</title>
+<pages>261-265</pages>
+<year>1991</year>
+<booktitle>EURO-DAC</booktitle>
+<crossref>conf/eurodac/1991</crossref>
+<url>db/conf/eurodac/euro-dac1991.html#HajjarGMK91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurodac/CompanGPP91" mdate="2015-11-17">
+<author>A. Compan</author>
+<author>Alain Greiner</author>
+<author>François Pêcheux</author>
+<author>Frédéric Pétrot</author>
+<title>GENVIEW: a portable source-level debugger for macrocell generators.</title>
+<pages>408-412</pages>
+<year>1991</year>
+<booktitle>EURO-DAC</booktitle>
+<crossref>conf/eurodac/1991</crossref>
+<url>db/conf/eurodac/euro-dac1991.html#CompanGPP91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/GourdyGGMM88" mdate="2019-02-11">
+<author>F. Gourdy</author>
+<author>Alain Greiner</author>
+<author>M. Guillemet</author>
+<author>Roland Marbot</author>
+<author>J. Murzin</author>
+<title>NOISY: an electrical noise checker for ULSI.</title>
+<pages>226-229</pages>
+<year>1988</year>
+<booktitle>ICCAD</booktitle>
+<crossref>conf/iccad/1988</crossref>
+<url>db/conf/iccad/iccad1988.html#GourdyGGMM88</url>
+</inproceedings>
+</r>
+<coauthors n="91" nc="8">
+<co c="0"><na f="a/Abidine:Khouloud_Zine_el">Khouloud Zine el Abidine</na></co>
+<co c="-1"><na f="a/Ammar:Lotfi_Ben">Lotfi Ben Ammar</na></co>
+<co c="5"><na f="a/Andriahantenaina:Adrijean">Adrijean Andriahantenaina</na></co>
+<co c="0"><na f="a/Archambaud:Denis">Denis Archambaud</na></co>
+<co c="4"><na f="a/Atitallah:Rabie_Ben">Rabie Ben Atitallah</na></co>
+<co c="0"><na f="b/Bazargan=Sabet:Pirouz">Pirouz Bazargan-Sabet</na></co>
+<co c="0"><na f="b/B=eacute=coulet:Alexandre">Alexandre Bécoulet</na></co>
+<co c="0"><na f="b/Beignc:E=">E. Beignc</na></co>
+<co c="0"><na f="b/Benabdenbi:Mounir">Mounir Benabdenbi</na></co>
+<co c="0"><na f="b/Bernard:C=">C. Bernard</na></co>
+<co c="0"><na f="b/Bourguet:Vincent">Vincent Bourguet</na></co>
+<co c="2"><na f="b/Burgun:Luc">Luc Burgun</na></co>
+<co c="0"><na f="c/Carrier:M=">M. Carrier</na></co>
+<co c="5"><na f="c/Charlery:Herv=eacute=">Hervé Charlery</na></co>
+<co c="0"><na f="c/Cheramy:S=eacute=verine">Séverine Cheramy</na></co>
+<co c="0"><na f="c/Chotin=Avot:Roselyne">Roselyne Chotin-Avot</na></co>
+<co c="0"><na f="c/Clermidy:Fabien">Fabien Clermidy</na></co>
+<co c="0"><na f="c/Compan:A=">A. Compan</na></co>
+<co c="4"><na f="d/Dekeyser:Jean=Luc">Jean-Luc Dekeyser</na></co>
+<co c="0"><na f="d/Desbarbieux:Jean_Lou">Jean Lou Desbarbieux</na></co>
+<co c="0"><na f="d/Dessouky:Mohamed">Mohamed Dessouky</na></co>
+<co c="0"><na f="d/Devigne:Clement">Clement Devigne</na></co>
+<co c="2"><na f="d/Dictus:N=">N. Dictus</na></co>
+<co c="0"><na f="d/Dreyfus:E=">E. Dreyfus</na></co>
+<co c="0"><na f="d/Duhalde:Marcello">Marcello Duhalde</na></co>
+<co c="0"><na f="d/Durupt:Jean">Jean Durupt</na></co>
+<co c="0"><na f="f/Faudemay:Pascal">Pascal Faudemay</na></co>
+<co c="0"><na f="f/Faure:Etienne">Etienne Faure</na></co>
+<co c="0"><na f="f/Fenyo:Alexandre">Alexandre Fenyo</na></co>
+<co c="6"><na f="f/Florent:Olivier">Olivier Florent</na></co>
+<co c="0"><na f="g/Garcia:Lucas">Lucas Garcia</na></co>
+<co c="0"><na f="g/Genius:Daniela">Daniela Genius</na></co>
+<co c="0"><na f="g/Gl=uuml=ck:Olivier">Olivier Glück</na></co>
+<co c="3"><na f="g/Golinelli:P=">P. Golinelli</na></co>
+<co c="0"><na f="g/Gomez:Pascal">Pascal Gomez</na></co>
+<co c="1"><na f="g/Gourdy:F=">F. Gourdy</na></co>
+<co c="-1"><na f="g/Guerrier:Pierre">Pierre Guerrier</na></co>
+<co c="1"><na f="g/Guillemet:M=">M. Guillemet</na></co>
+<co c="0"><na f="g/Guthmuller:Eric">Eric Guthmuller</na></co>
+<co c="1"><na f="h/Hajjar:Amjad">Amjad Hajjar</na></co>
+<co c="6"><na f="h/Hirech:Mokhtar">Mokhtar Hirech</na></co>
+<co c="0"><na f="h/Hommais:Denis">Denis Hommais</na></co>
+<co c="0"><na f="k/Kaiser:Andreas">Andreas Kaiser</na></co>
+<co c="0"><na f="k/Karaoui:Mohamed_Lamine">Mohamed Lamine Karaoui</na></co>
+<co c="1"><na f="k/Kiani:Payam">Payam Kiani</na></co>
+<co c="3"><na f="k/Kuhn:T=">T. Kuhn</na></co>
+<co c="0"><na f="l/Labayrade:Rapha=euml=l">Raphaël Labayrade</na></co>
+<co c="0"><na f="l/Lamarre:Laurent_de">Laurent de Lamarre</na></co>
+<co c="0"><na f="l/Lattard:Didier">Didier Lattard</na></co>
+<co c="1"><na f="l/Laurentin:M=">M. Laurentin</na></co>
+<co c="0"><na f="l/Liu:Hao">Hao Liu</na></co>
+<co c="2"><na f="l/Lopes:E=_Prado">E. Prado Lopes</na></co>
+<co c="0"><na f="l/Lou=euml=rat:Marie=Minerve">Marie-Minerve Louërat</na></co>
+<co c="0"><na f="l/Lucas:L=">L. Lucas</na></co>
+<co c="0"><na f="m/Maia:Isaac">Isaac Maia</na></co>
+<co c="1"><na f="m/Marbot:Roland">Roland Marbot</na></co>
+<co c="4"><na f="m/Meftali:Samy">Samy Meftali</na></co>
+<co c="0"><na f="m/Mello:Aline">Aline Mello</na></co>
+<co c="0"><na f="m/Mello:Aline_Vieira_de">Aline Vieira de Mello</na></co>
+<co c="0"><na f="m/Meunier:Quentin_L=">Quentin L. Meunier</na></co>
+<co c="5"><na f="m/Mortiez:Laurent">Laurent Mortiez</na></co>
+<co c="1"><na f="m/Murzin:J=">J. Murzin</na></co>
+<co c="0"><na f="n/Nguyen:Tuong_P=">Tuong P. Nguyen</na></co>
+<co c="4"><na f="n/Niar:Sma=iuml=l">Smaïl Niar</na></co>
+<co c="0"><na f="p/Panades:Ivan_Miro">Ivan Miro Panades</na></co>
+<co c="0"><na f="p/P=ecirc=cheux:Fran=ccedil=ois">François Pêcheux</na></co>
+<co c="0"><na f="p/Peneau:Pierre=Yves">Pierre-Yves Peneau</na></co>
+<co c="0"><na f="p/P=eacute=trot:Fr=eacute=d=eacute=ric">Frédéric Pétrot</na></co>
+<co c="7"><na f="p/Porquet:Joel">Joel Porquet</na></co>
+<co c="0"><na f="p/Pouillon:Nicolas">Nicolas Pouillon</na></co>
+<co c="2"><na f="p/Pradho:E=">E. Pradho</na></co>
+<co c="0"><na f="r/Refauvelet:Dimitri">Dimitri Refauvelet</na></co>
+<co c="3"><na f="r/Reggiani:Luca">Luca Reggiani</na></co>
+<co c="6"><na f="r/Rejouan:El_Housseine">El Housseine Rejouan</na></co>
+<co c="2"><na f="s/Sarwary:C=">C. Sarwary</na></co>
+<co c="7"><na f="s/Schwarz:Christian">Christian Schwarz</na></co>
+<co c="0"><na f="s/Sheibanyrad:Abbas">Abbas Sheibanyrad</na></co>
+<co c="0"><na f="s/Silva:Fabr=iacute=cio">Fabrício Silva</na></co>
+<co c="0"><na f="s/Spasevski:Cyril">Cyril Spasevski</na></co>
+<co c="0"><na f="t/Taktak:Sami">Sami Taktak</na></co>
+<co c="0"><na f="t/Tortolero:C=eacute=sar_Fuguet">César Fuguet Tortolero</na></co>
+<co c="0"><na f="t/Tuna:Matthieu">Matthieu Tuna</na></co>
+<co c="3"><na f="v/Varani:L=">L. Varani</na></co>
+<co c="3"><na f="v/Vecchi:Maria_Cristina">Maria Cristina Vecchi</na></co>
+<co c="0"><na f="v/Viaud:Emmanuel">Emmanuel Viaud</na></co>
+<co c="0"><na f="v/Vivet:Pascal">Pascal Vivet</na></co>
+<co c="0"><na f="w/Wajsb=uuml=rt:Franck">Franck Wajsbürt</na></co>
+<co c="0"><na f="w/Winckel:Laurent">Laurent Winckel</na></co>
+<co c="5"><na f="z/Zeferino:Cesar_Albenes">Cesar Albenes Zeferino</na></co>
+<co c="0"><na f="z/Zerrouki:Amal">Amal Zerrouki</na></co>
+<co c="0"><na f="z/Zhang:Zhen">Zhen Zhang</na></co>
+</coauthors>
+</dblpperson>
+

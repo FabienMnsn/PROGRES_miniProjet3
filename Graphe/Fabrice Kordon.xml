@@ -1,0 +1,1897 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Fabrice Kordon" n="127">
+<person key="homepages/07/2336" mdate="2018-06-02">
+<author>Fabrice Kordon</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://pagesperso-systeme.lip6.fr/Fabrice.Kordon/</url>
+<url>https://github.com/fkordon</url>
+</person>
+<r><inproceedings key="conf/nfm/MetinBK19" mdate="2019-05-28">
+<author>Hakan Metin</author>
+<author>Souheib Baarir</author>
+<author>Fabrice Kordon</author>
+<title>Composing Symmetry Propagation and Effective Symmetry Breaking for SAT Solving.</title>
+<pages>316-332</pages>
+<year>2019</year>
+<booktitle>NFM</booktitle>
+<crossref>conf/nfm/2019</crossref>
+<url>db/conf/nfm/nfm2019.html#MetinBK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/BartocciBBFGHHK19" mdate="2019-09-25">
+<author orcid="0000-0002-8004-6601">Ezio Bartocci</author>
+<author orcid="0000-0003-4832-7662">Dirk Beyer 0001</author>
+<author>Paul E. Black</author>
+<author>Grigory Fedyukovich</author>
+<author>Hubert Garavel</author>
+<author>Arnd Hartmanns</author>
+<author>Marieke Huisman</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0002-4727-4637">Julian Nagele</author>
+<author>Mihaela Sighireanu</author>
+<author>Bernhard Steffen</author>
+<author>Martin Suda 0001</author>
+<author>Geoff Sutcliffe</author>
+<author>Tjark Weber</author>
+<author>Akihisa Yamada 0002</author>
+<title>TOOLympics 2019: An Overview of Competitions in Formal Methods.</title>
+<pages>3-24</pages>
+<year>2019</year>
+<booktitle>TACAS (3)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-17502-3_1</ee>
+<crossref>conf/tacas/2019-3</crossref>
+<url>db/conf/tacas/tacas2019-3.html#BartocciBBFGHHK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/AmparoreBCDGHHJ19" mdate="2019-10-19">
+<author>Elvio Gilberto Amparore</author>
+<author>Bernard Berthomieu</author>
+<author>Gianfranco Ciardo</author>
+<author orcid="0000-0002-6002-2696">Silvano Dal-Zilio</author>
+<author>Francesco Gallà</author>
+<author>Lom-Messan Hillah</author>
+<author>Francis Hulin-Hubard</author>
+<author orcid="0000-0002-9320-9991">Peter Gjøl Jensen</author>
+<author>Loïg Jezequel</author>
+<author>Fabrice Kordon</author>
+<author>Didier Le Botlan</author>
+<author>Torsten Liebke</author>
+<author>Jeroen Meijer</author>
+<author>Andrew S. Miner</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Jirí Srba</author>
+<author>Yann Thierry-Mieg</author>
+<author>Tom van Dijk</author>
+<author>Karsten Wolf</author>
+<title>Presentation of the 9th Edition of the Model Checking Contest.</title>
+<pages>50-68</pages>
+<year>2019</year>
+<booktitle>TACAS (3)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-17502-3_4</ee>
+<crossref>conf/tacas/2019-3</crossref>
+<url>db/conf/tacas/tacas2019-3.html#AmparoreBCDGHHJ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/FriouxBSK19" mdate="2019-08-20">
+<author>Ludovic Le Frioux</author>
+<author>Souheib Baarir</author>
+<author>Julien Sopena</author>
+<author>Fabrice Kordon</author>
+<title>Modular and Efficient Divide-and-Conquer SAT Solver on Top of the Painless Framework.</title>
+<pages>135-151</pages>
+<year>2019</year>
+<booktitle>TACAS (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-17462-0_8</ee>
+<crossref>conf/tacas/2019-1</crossref>
+<url>db/conf/tacas/tacas2019-1.html#FriouxBSK19</url>
+</inproceedings>
+</r>
+<r><incollection key="series/lncs/KordonLPT19" mdate="2019-10-31">
+<author>Fabrice Kordon</author>
+<author>Michael Leuschel</author>
+<author>Jaco van de Pol</author>
+<author>Yann Thierry-Mieg</author>
+<title>Software Architecture of Modern Model Checkers.</title>
+<pages>393-419</pages>
+<year>2019</year>
+<booktitle>Computing and Software Science</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-91908-9_20</ee>
+<crossref>series/lncs/10000</crossref>
+<url>db/series/lncs/lncs10000.html#KordonLPT19</url>
+</incollection>
+</r>
+<r><proceedings key="conf/tacas/2019-3" mdate="2019-05-14">
+<editor>Dirk Beyer 0001</editor>
+<editor>Marieke Huisman</editor>
+<editor>Fabrice Kordon</editor>
+<editor>Bernhard Steffen</editor>
+<title>Tools and Algorithms for the Construction and Analysis of Systems - 25 Years of TACAS: TOOLympics, Held as Part of ETAPS 2019, Prague, Czech Republic, April 6-11, 2019, Proceedings, Part III</title>
+<booktitle>TACAS (3)</booktitle>
+<publisher>Springer</publisher>
+<year>2019</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11429</volume>
+<isbn>978-3-030-17501-6</isbn>
+<isbn>978-3-030-17502-3</isbn>
+<url>db/conf/tacas/tacas2019-3.html</url>
+</proceedings>
+</r>
+<r><article key="journals/scp/KordonM18" mdate="2018-04-18">
+<author>Fabrice Kordon</author>
+<author>Daniel Moldt</author>
+<title>Introduction to the special issue from Petri Nets 2016.</title>
+<pages>1-2</pages>
+<year>2018</year>
+<volume>157</volume>
+<journal>Sci. Comput. Program.</journal>
+<url>db/journals/scp/scp157.html#KordonM18</url>
+</article>
+</r>
+<r><article key="journals/topnoc/KordonGHPJHABBEJBLMSTPW18" mdate="2019-10-19">
+<author>Fabrice Kordon</author>
+<author>Hubert Garavel</author>
+<author>Lom-Messan Hillah</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Loïg Jezequel</author>
+<author>Francis Hulin-Hubard</author>
+<author>Elvio Gilberto Amparore</author>
+<author orcid="0000-0001-6125-9460">Marco Beccuti</author>
+<author>Bernard Berthomieu</author>
+<author>Hugues Evrard</author>
+<author orcid="0000-0002-9320-9991">Peter Gjøl Jensen</author>
+<author>Didier Le Botlan</author>
+<author>Torsten Liebke</author>
+<author>Jeroen Meijer</author>
+<author>Jirí Srba</author>
+<author>Yann Thierry-Mieg</author>
+<author>Jaco van de Pol</author>
+<author>Karsten Wolf</author>
+<title>MCC'2017 - The Seventh Model Checking Contest.</title>
+<pages>181-209</pages>
+<year>2018</year>
+<volume>13</volume>
+<journal>T. Petri Nets and Other Models of Concurrency</journal>
+<crossref>journals/topnoc/2018-13</crossref>
+<url>db/journals/topnoc/topnoc13.html#KordonGHPJHABBEJBLMSTPW18</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/KordonT18" mdate="2018-05-29">
+<author>Fabrice Kordon</author>
+<author>Yann Thierry-Mieg</author>
+<title>Self-adaptive Model Checking, the Next Step?</title>
+<pages>3-15</pages>
+<year>2018</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2018</crossref>
+<url>db/conf/apn/pn2018.html#KordonT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/MetinBCK18" mdate="2018-06-26">
+<author>Hakan Metin</author>
+<author>Souheib Baarir</author>
+<author>Maximilien Colange</author>
+<author>Fabrice Kordon</author>
+<title>CDCLSym: Introducing Effective Symmetry Breaking in SAT Solving.</title>
+<pages>99-114</pages>
+<year>2018</year>
+<booktitle>TACAS (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-89960-2_6</ee>
+<crossref>conf/tacas/2018-1</crossref>
+<url>db/conf/tacas/tacas2018-1.html#MetinBCK18</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/BonnaireCKM17" mdate="2019-04-16">
+<author>Xavier Bonnaire</author>
+<author orcid="0000-0002-4400-6856">Rudyar Cortés</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<title>ASCENT: A Provably Terminating Decentralized Logging Service.</title>
+<pages>1889-1911</pages>
+<year>2017</year>
+<volume>60</volume>
+<journal>Comput. J.</journal>
+<number>12</number>
+<url>db/journals/cj/cj60.html#BonnaireCKM17</url>
+</article>
+</r>
+<r><article key="journals/sttt/HillahMRKWFBGM17" mdate="2017-05-18">
+<author>Lom-Messan Hillah</author>
+<author>Ariele-Paolo Maesano</author>
+<author>Fabio De Rosa</author>
+<author>Fabrice Kordon</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Riccardo Fontanelli</author>
+<author>Sergio Di Bona</author>
+<author>Davide Guerri</author>
+<author>Libero Maesano</author>
+<title>Automation and intelligent scheduling of distributed system functional testing - Model-based functional testing in practice.</title>
+<pages>281-308</pages>
+<year>2017</year>
+<volume>19</volume>
+<journal>STTT</journal>
+<number>3</number>
+<url>db/journals/sttt/sttt19.html#HillahMRKWFBGM17</url>
+</article>
+</r>
+<r><article key="journals/sttt/RenaultDKP17" mdate="2017-11-06">
+<author>Etienne Renault</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Fabrice Kordon</author>
+<author>Denis Poitrenaud</author>
+<title>Variations on parallel explicit emptiness checks for generalized Büchi automata.</title>
+<pages>653-673</pages>
+<year>2017</year>
+<volume>19</volume>
+<journal>STTT</journal>
+<number>6</number>
+<url>db/journals/sttt/sttt19.html#RenaultDKP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/HillahK17" mdate="2017-06-13">
+<author>Lom-Messan Hillah</author>
+<author>Fabrice Kordon</author>
+<title>Petri Nets Repository: A Tool to Benchmark and Debug Petri Net Tools.</title>
+<pages>125-135</pages>
+<year>2017</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2017</crossref>
+<url>db/conf/apn/pn2017.html#HillahK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sat/FriouxBSK17" mdate="2017-08-15">
+<author>Ludovic Le Frioux</author>
+<author>Souheib Baarir</author>
+<author>Julien Sopena</author>
+<author>Fabrice Kordon</author>
+<title>PaInleSS: A Framework for Parallel SAT Solving.</title>
+<pages>233-250</pages>
+<year>2017</year>
+<booktitle>SAT</booktitle>
+<crossref>conf/sat/2017</crossref>
+<url>db/conf/sat/sat2017.html#FriouxBSK17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/monterey/2016" mdate="2019-05-14">
+<editor>Lin Zhang 0009</editor>
+<editor>Lei Ren 0001</editor>
+<editor>Fabrice Kordon</editor>
+<title>Challenges and Opportunity with Big Data - 19th Monterey Workshop 2016, Beijing, China, October 8-11, 2016, Revised Selected Papers</title>
+<booktitle>Monterey Workshop</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10228</volume>
+<isbn>978-3-319-61993-4</isbn>
+<isbn>978-3-319-61994-1</isbn>
+<url>db/conf/monterey/monterey2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/topnoc/KordonGHPJRH16" mdate="2017-05-18">
+<author>Fabrice Kordon</author>
+<author>Hubert Garavel</author>
+<author>Lom-Messan Hillah</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Loïg Jezequel</author>
+<author>César Rodríguez</author>
+<author>Francis Hulin-Hubard</author>
+<title>MCC'2015 - The Fifth Model Checking Contest.</title>
+<pages>262-273</pages>
+<year>2016</year>
+<volume>11</volume>
+<journal>T. Petri Nets and Other Models of Concurrency</journal>
+<crossref>journals/topnoc/2016-11</crossref>
+<url>db/journals/topnoc/topnoc11.html#KordonGHPJRH16</url>
+</article>
+</r>
+<r><inproceedings key="conf/atva/Duret-LutzKPR16" mdate="2017-09-16">
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Fabrice Kordon</author>
+<author>Denis Poitrenaud</author>
+<author>Etienne Renault</author>
+<title>Heuristics for Checking Liveness Properties with Partial Order Reductions.</title>
+<pages>340-356</pages>
+<year>2016</year>
+<booktitle>ATVA</booktitle>
+<crossref>conf/atva/2016</crossref>
+<url>db/conf/atva/atva2016.html#Duret-LutzKPR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/HillahMMRKW16" mdate="2018-11-06">
+<author>Lom-Messan Hillah</author>
+<author>Ariele-Paolo Maesano</author>
+<author>Libero Maesano</author>
+<author>Fabio De Rosa</author>
+<author>Fabrice Kordon</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Service functional testing automation with intelligent scheduling and planning.</title>
+<pages>1605-1610</pages>
+<year>2016</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2016</crossref>
+<url>db/conf/sac/sac2016.html#HillahMMRKW16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/apn/2016" mdate="2019-05-14">
+<editor>Fabrice Kordon</editor>
+<editor>Daniel Moldt</editor>
+<title>Application and Theory of Petri Nets and Concurrency - 37th International Conference, PETRI NETS 2016, Toru, Poland, June 19-24, 2016. Proceedings</title>
+<booktitle>Petri Nets</booktitle>
+<publisher>Springer</publisher>
+<year>2016</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9698</volume>
+<isbn>978-3-319-39085-7</isbn>
+<url>db/conf/apn/pn2016.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/icst/HerboldFGHHKMMN15" mdate="2019-12-27">
+<author orcid="0000-0001-9765-2803">Steffen Herbold</author>
+<author>Alberto De Francesco</author>
+<author>Jens Grabowski</author>
+<author>Patrick Harms</author>
+<author>Lom-Messan Hillah</author>
+<author>Fabrice Kordon</author>
+<author>Ariele-Paolo Maesano</author>
+<author>Libero Maesano</author>
+<author orcid="0000-0002-8626-5805">Claudia Di Napoli</author>
+<author>Fabio De Rosa</author>
+<author>Martin A. Schneider</author>
+<author orcid="0000-0002-7427-1001">Nicola Tonellotto</author>
+<author>Marc-Florian Wendland</author>
+<author orcid="0000-0003-3691-4886">Pierre-Henri Wuillemin</author>
+<title>The MIDAS Cloud Platform for Testing SOA Applications.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>ICST</booktitle>
+<crossref>conf/icst/2015</crossref>
+<url>db/conf/icst/icst2015.html#HerboldFGHHKMMN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/RenaultDKP15" mdate="2019-08-20">
+<author>Etienne Renault</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Fabrice Kordon</author>
+<author>Denis Poitrenaud</author>
+<title>Parallel Explicit Model Checking for Generalized Büchi Automata.</title>
+<pages>613-627</pages>
+<year>2015</year>
+<booktitle>TACAS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-46681-0_56</ee>
+<crossref>conf/tacas/2015</crossref>
+<url>db/conf/tacas/tacas2015.html#RenaultDKP15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijccbs/ZhangBHKT14" mdate="2018-11-30">
+<author>Yan Zhang 0017</author>
+<author>Béatrice Bérard</author>
+<author>Lom-Messan Hillah</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<title>Controllability for discrete event systems modelled in VeriJ.</title>
+<pages>218-240</pages>
+<year>2014</year>
+<volume>5</volume>
+<journal>IJCCBS</journal>
+<number>3/4</number>
+<url>db/journals/ijccbs/ijccbs5.html#ZhangBHKT14</url>
+</article>
+</r>
+<r><article key="journals/ijssc/ThabetBK14" mdate="2017-05-18">
+<author>Meriem Thabet</author>
+<author>Mahmoud Boufaïda</author>
+<author>Fabrice Kordon</author>
+<title>An approach for developing an interoperability mechanism between cloud providers.</title>
+<pages>88-99</pages>
+<year>2014</year>
+<volume>4</volume>
+<journal>IJSSC</journal>
+<number>2</number>
+<url>db/journals/ijssc/ijssc4.html#ThabetBK14</url>
+</article>
+</r>
+<r><article key="journals/sg/MounierYCKL14" mdate="2019-05-22">
+<author>Isabelle Mounier</author>
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<author>Fabrice Kordon</author>
+<author>Jean-Marc Labat</author>
+<title>Formal Framework to improve the reliability of concurrent and collaborative learning games.</title>
+<pages>e4</pages>
+<year>2014</year>
+<volume>1</volume>
+<number>2</number>
+<journal>EAI Endorsed Trans. Serious Games</journal>
+<ee type="oa">https://doi.org/10.4108/sg.1.2.e4</ee>
+<url>db/journals/sg/sg2.html#MounierYCKL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/acsd/KordonH14" mdate="2017-05-25">
+<author>Fabrice Kordon</author>
+<author>Francis Hulin-Hubard</author>
+<title>BenchKit, a Tool for Massive Concurrent Benchmarking.</title>
+<pages>159-165</pages>
+<year>2014</year>
+<booktitle>ACSD</booktitle>
+<crossref>conf/acsd/2014</crossref>
+<url>db/conf/acsd/acsd2014.html#KordonH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/YessadMLKC14" mdate="2017-05-24">
+<author>Amel Yessad</author>
+<author>Isabelle Mounier</author>
+<author>Jean-Marc Labat</author>
+<author>Fabrice Kordon</author>
+<author>Thibault Carron</author>
+<title>Have You Found the Error? A Formal Framework for Learning Game Verification.</title>
+<pages>476-481</pages>
+<year>2014</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2014</crossref>
+<url>db/conf/ectel/ectel2014.html#YessadMLKC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/SalemDKT14" mdate="2018-11-02">
+<author>Ala-Eddine Ben Salem</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<title>Symbolic Model Checking of Stutter-Invariant Properties Using Generalized Testing Automata.</title>
+<pages>440-454</pages>
+<year>2014</year>
+<booktitle>TACAS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-54862-8_38</ee>
+<crossref>conf/tacas/2014</crossref>
+<url>db/conf/tacas/tacas2014.html#SalemDKT14</url>
+</inproceedings>
+</r>
+<r><article key="journals/topnoc/MaissaKMT13" mdate="2017-06-09">
+<author>Yann Ben Maissa</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0003-0417-8968">Salma Mouline</author>
+<author>Yann Thierry-Mieg</author>
+<title>Modeling and Analyzing Wireless Sensor Networks with VeriSensor: An Integrated Workflow.</title>
+<pages>24-47</pages>
+<year>2013</year>
+<volume>8</volume>
+<journal>Trans. Petri Nets and Other Models of Concurrency</journal>
+<crossref>journals/topnoc/2013-8</crossref>
+<url>db/journals/topnoc/topnoc8.html#MaissaKMT13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/ColangeBKT13" mdate="2018-11-02">
+<author>Maximilien Colange</author>
+<author>Souheib Baarir</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<title>Towards Distributed Software Model-Checking Using Decision Diagrams.</title>
+<pages>830-845</pages>
+<year>2013</year>
+<booktitle>CAV</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-39799-8_58</ee>
+<crossref>conf/cav/2013</crossref>
+<url>db/conf/cav/cav2013.html#ColangeBKT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/AndreLPHLHK13" mdate="2017-09-16">
+<author orcid="0000-0001-8473-9555">Étienne André</author>
+<author>Yousra Lembachar</author>
+<author orcid="0000-0003-3154-5268">Laure Petrucci</author>
+<author>Francis Hulin-Hubard</author>
+<author>Alban Linard</author>
+<author>Lom Hillah</author>
+<author>Fabrice Kordon</author>
+<title>CosyVerif: An Open Source Extensible Verification Environment.</title>
+<pages>33-36</pages>
+<year>2013</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2013</crossref>
+<url>db/conf/iceccs/iceccs2013.html#AndreLPHLHK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfem/AndreBDHHKLP13" mdate="2018-11-02">
+<author orcid="0000-0001-8473-9555">Étienne André</author>
+<author orcid="0000-0003-2417-3064">Benoît Barbot</author>
+<author>Clement Demoulins</author>
+<author>Lom-Messan Hillah</author>
+<author>Francis Hulin-Hubard</author>
+<author>Fabrice Kordon</author>
+<author>Alban Linard</author>
+<author orcid="0000-0003-3154-5268">Laure Petrucci</author>
+<title>A Modular Approach for Reusing Formalisms in Verification Tools of Concurrent Systems.</title>
+<pages>199-214</pages>
+<year>2013</year>
+<booktitle>ICFEM</booktitle>
+<crossref>conf/icfem/2013</crossref>
+<url>db/conf/icfem/icfem2013.html#AndreBDHHKLP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lpar/RenaultDKP13" mdate="2017-09-16">
+<author>Etienne Renault</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Fabrice Kordon</author>
+<author>Denis Poitrenaud</author>
+<title>Three SCC-Based Emptiness Checks for Generalized Büchi Automata.</title>
+<pages>668-682</pages>
+<year>2013</year>
+<booktitle>LPAR</booktitle>
+<crossref>conf/lpar/2013</crossref>
+<url>db/conf/lpar/lpar2013.html#RenaultDKP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/RenaultDKP13" mdate="2017-09-16">
+<author>Etienne Renault</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Fabrice Kordon</author>
+<author>Denis Poitrenaud</author>
+<title>Strength-Based Decomposition of the Property Büchi Automaton for Faster Model Checking.</title>
+<pages>580-593</pages>
+<year>2013</year>
+<booktitle>TACAS</booktitle>
+<crossref>conf/tacas/2013</crossref>
+<url>db/conf/tacas/tacas2013.html#RenaultDKP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/BonnaireCKM13" mdate="2019-04-16">
+<author>Xavier Bonnaire</author>
+<author>Rudyar Cortés</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<title>A Scalable Architecture for Highly Reliable Certification.</title>
+<pages>328-335</pages>
+<year>2013</year>
+<booktitle>TrustCom/ISPA/IUCC</booktitle>
+<crossref>conf/trustcom/2013</crossref>
+<url>db/conf/trustcom/trustcom2013.html#BonnaireCKM13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KordonLBBFHHLLMPPRRTWW13" mdate="2018-08-13">
+<author>Fabrice Kordon</author>
+<author>Alban Linard</author>
+<author>Marco Beccuti</author>
+<author>Didier Buchs</author>
+<author>Lukasz Fronc</author>
+<author>Lom-Messan Hillah</author>
+<author>Francis Hulin-Hubard</author>
+<author>Fabrice Legond-Aubry</author>
+<author>Niels Lohmann</author>
+<author>Alexis Marechal</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Franck Pommereau</author>
+<author>César Rodríguez</author>
+<author>Christian Rohr</author>
+<author>Yann Thierry-Mieg</author>
+<author>Harro Wimmel</author>
+<author>Karsten Wolf</author>
+<title>Model Checking Contest @ Petri Nets, Report on the 2013 edition.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.2485</ee>
+<volume>abs/1309.2485</volume>
+<url>db/journals/corr/corr1309.html#KordonLBBFHHLLMPPRRTWW13</url>
+</article>
+</r>
+<r><article key="journals/spe/DelangePK12" mdate="2017-06-08">
+<author orcid="0000-0001-8802-7811">Julien Delange</author>
+<author>Laurent Pautet</author>
+<author>Fabrice Kordon</author>
+<title>Design, implementation and verification of MILS systems.</title>
+<pages>799-816</pages>
+<year>2012</year>
+<volume>42</volume>
+<journal>Softw., Pract. Exper.</journal>
+<number>7</number>
+<url>db/journals/spe/spe42.html#DelangePK12</url>
+</article>
+</r>
+<r><article key="journals/spe/JanJKKLLNPPRS12" mdate="2019-10-19">
+<author orcid="0000-0002-3016-8109">Mathieu Jan</author>
+<author>Christophe Jouvray</author>
+<author>Fabrice Kordon</author>
+<author>Antonio Kung</author>
+<author>Jimmy Lalande</author>
+<author>Frédéric Loiret</author>
+<author>Juan F. Navas</author>
+<author>Laurent Pautet</author>
+<author>Jacques Pulou</author>
+<author>Ansgar Radermacher</author>
+<author>Lionel Seinturier</author>
+<title>Flex-eWare: a flexible model driven solution for designing and implementing embedded distributed systems.</title>
+<pages>1467-1494</pages>
+<year>2012</year>
+<volume>42</volume>
+<journal>Softw., Pract. Exper.</journal>
+<number>12</number>
+<url>db/journals/spe/spe42.html#JanJKKLLNPPRS12</url>
+</article>
+</r>
+<r><article key="journals/topnoc/HongKPE12" mdate="2017-05-18">
+<author>Silien Hong</author>
+<author>Fabrice Kordon</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Sami Evangelista</author>
+<title>Computing a Hierarchical Static Order for Decision Diagram-Based Representation from P/T Nets.</title>
+<pages>121-140</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Trans. Petri Nets and Other Models of Concurrency</journal>
+<crossref>journals/topnoc/2012-5</crossref>
+<url>db/journals/topnoc/topnoc5.html#HongKPE12</url>
+</article>
+</r>
+<r><article key="journals/topnoc/HillahKLP12" mdate="2017-09-16">
+<author>Lom-Messan Hillah</author>
+<author>Fabrice Kordon</author>
+<author>Charles Lakos</author>
+<author orcid="0000-0003-3154-5268">Laure Petrucci</author>
+<title>Extending pnml Scope: A Framework to Combine Petri Nets Types.</title>
+<pages>46-70</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Trans. Petri Nets and Other Models of Concurrency</journal>
+<crossref>journals/topnoc/2012-6</crossref>
+<url>db/journals/topnoc/topnoc6.html#HillahKLP12</url>
+</article>
+</r>
+<r><article key="journals/topnoc/SalemDK12" mdate="2017-09-16">
+<author>Ala-Eddine Ben Salem</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Fabrice Kordon</author>
+<title>Model Checking Using Generalized Testing Automata.</title>
+<pages>94-122</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Trans. Petri Nets and Other Models of Concurrency</journal>
+<crossref>journals/topnoc/2012-6</crossref>
+<url>db/journals/topnoc/topnoc6.html#SalemDK12</url>
+</article>
+</r>
+<r><article key="journals/topnoc/KordonLBCELLPTW12" mdate="2018-11-02">
+<author>Fabrice Kordon</author>
+<author>Alban Linard</author>
+<author>Didier Buchs</author>
+<author>Maximilien Colange</author>
+<author>Sami Evangelista</author>
+<author>Kai Lampka</author>
+<author>Niels Lohmann</author>
+<author>Emmanuel Paviot-Adet</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Harro Wimmel</author>
+<title>Report on the Model Checking Contest at Petri Nets 2011.</title>
+<pages>169-196</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Trans. Petri Nets and Other Models of Concurrency</journal>
+<crossref>journals/topnoc/2012-6</crossref>
+<url>db/journals/topnoc/topnoc6.html#KordonLBCELLPTW12</url>
+</article>
+</r>
+<r><inproceedings key="conf/acsd/ColangeKTB12" mdate="2018-11-30">
+<author>Maximilien Colange</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Souheib Baarir</author>
+<title>State Space Analysis Using Symmetries on Decision Diagrams.</title>
+<pages>164-172</pages>
+<year>2012</year>
+<booktitle>ACSD</booktitle>
+<crossref>conf/acsd/2012</crossref>
+<url>db/conf/acsd/acsd2012.html#ColangeKTB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/MaissaKMT12" mdate="2019-05-28">
+<author>Yann Ben Maissa</author>
+<author>Fabrice Kordon</author>
+<author>Salma Mouline</author>
+<author>Yann Thierry-Mieg</author>
+<title>Modeling and Analyzing Wireless Sensor Networks with VeriSensor.</title>
+<pages>60-76</pages>
+<year>2012</year>
+<booktitle>PNSE</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-851/paper5.pdf</ee>
+<crossref>conf/apn/2012pnse</crossref>
+<url>db/conf/apn/pnse2012.html#MaissaKMT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/monterey/ColangeHKP12" mdate="2017-05-25">
+<author>Maximilien Colange</author>
+<author>Lom-Messan Hillah</author>
+<author>Fabrice Kordon</author>
+<author>Pierre Parutto</author>
+<title>Extreme Symmetries in Complex Distributed Systems: The Bag-Oriented Approach.</title>
+<pages>330-352</pages>
+<year>2012</year>
+<booktitle>Monterey Workshop</booktitle>
+<crossref>conf/monterey/2012</crossref>
+<url>db/conf/monterey/monterey2012.html#ColangeHKP12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1209-2382" mdate="2018-08-13">
+<author>Fabrice Kordon</author>
+<author>Alban Linard</author>
+<author>Didier Buchs</author>
+<author>Maximilien Colange</author>
+<author>Sami Evangelista</author>
+<author>Lukasz Fronc</author>
+<author>Lom-Messan Hillah</author>
+<author>Niels Lohmann</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Franck Pommereau</author>
+<author>Christian Rohr</author>
+<author>Yann Thierry-Mieg</author>
+<author>Harro Wimmel</author>
+<author>Karsten Wolf</author>
+<title>Raw Report on the Model Checking Contest at Petri Nets 2012</title>
+<ee type="oa">http://arxiv.org/abs/1209.2382</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1209.2382</volume>
+<url>db/journals/corr/corr1209.html#abs-1209-2382</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/HillahKLP11" mdate="2019-05-28">
+<author>Lom-Messan Hillah</author>
+<author>Fabrice Kordon</author>
+<author>Charles Lakos</author>
+<author>Laure Petrucci</author>
+<title>Extending PNML Scope: the Prioritised Petri Nets Experience.</title>
+<pages>92-106</pages>
+<year>2011</year>
+<booktitle>PNSE</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-723/paper7.pdf</ee>
+<crossref>conf/apn/2011pnse</crossref>
+<url>db/conf/apn/pnse2011.html#HillahKLP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/ColangeBKT11" mdate="2018-11-02">
+<author>Maximilien Colange</author>
+<author>Souheib Baarir</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<title>Crocodile: A Symbolic/Symbolic Tool for the Analysis of Symmetric Nets with Bag.</title>
+<pages>338-347</pages>
+<year>2011</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2011</crossref>
+<url>db/conf/apn/pn2011.html#ColangeBKT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acsd/VoronDK10" mdate="2017-05-25">
+<author>Jean-Baptiste Voron</author>
+<author>Clement Demoulins</author>
+<author>Fabrice Kordon</author>
+<title>Adaptable Intrusion Detection Systems Dedicated to Concurrent Programs: A Petri Net-Based Approach.</title>
+<pages>57-66</pages>
+<year>2010</year>
+<booktitle>ACSD</booktitle>
+<crossref>conf/acsd/2010</crossref>
+<url>db/conf/acsd/acsd2010.html#VoronDK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acsd/LinardPKBC10" mdate="2017-05-25">
+<author>Alban Linard</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Fabrice Kordon</author>
+<author>Didier Buchs</author>
+<author>Samuel Charron</author>
+<title>polyDD: Towards a Framework Generalizing Decision Diagrams.</title>
+<pages>124-133</pages>
+<year>2010</year>
+<booktitle>ACSD</booktitle>
+<crossref>conf/acsd/2010</crossref>
+<url>db/conf/acsd/acsd2010.html#LinardPKBC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acsd/BuchsKSSST10" mdate="2019-05-28">
+<author>Didier Buchs</author>
+<author>Fabrice Kordon</author>
+<author>Alexander Serebrenik</author>
+<author>Natalia Sidorova</author>
+<author>Jeremy Spronston</author>
+<author>Yann Thierry-Mieg</author>
+<title>Introduction.</title>
+<pages>371</pages>
+<year>2010</year>
+<booktitle>ACSD/Petri Nets Workshops</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-827/28_DidierBuchs_introduction.pdf</ee>
+<crossref>conf/acsd/2010w</crossref>
+<url>db/conf/acsd/acsd2010w.html#BuchsKSSST10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/HillahKPT10" mdate="2017-09-16">
+<author>Lom-Messan Hillah</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0003-3154-5268">Laure Petrucci</author>
+<author>Nicolas Trèves</author>
+<title>PNML Framework: An Extendable Reference Implementation of the Petri Net Markup Language.</title>
+<pages>318-327</pages>
+<year>2010</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2010</crossref>
+<url>db/conf/apn/pn2010.html#HillahKPT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/LasnierRPK10" mdate="2019-12-11">
+<author>Gilles Lasnier</author>
+<author>Thomas Robert 0003</author>
+<author>Laurent Pautet</author>
+<author>Fabrice Kordon</author>
+<title>Architectural and Behavioral Modeling with AADL for Fault Tolerant Embedded Systems.</title>
+<pages>87-91</pages>
+<year>2010</year>
+<booktitle>ISORC</booktitle>
+<crossref>conf/isorc/2010</crossref>
+<url>db/conf/isorc/isorc2010.html#LasnierRPK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/monterey/BaarirHKR10" mdate="2017-05-25">
+<author>Souheib Baarir</author>
+<author>Lom-Messan Hillah</author>
+<author>Fabrice Kordon</author>
+<author>Etienne Renault</author>
+<title>Self-reconfigurable Modular Robots and Their Symbolic Configuration Space.</title>
+<pages>103-121</pages>
+<year>2010</year>
+<booktitle>Monterey Workshop</booktitle>
+<crossref>conf/monterey/2010</crossref>
+<url>db/conf/monterey/monterey2010.html#BaarirHKR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/notere/LasnierRPK10" mdate="2019-12-11">
+<author>Gilles Lasnier</author>
+<author>Thomas Robert 0003</author>
+<author>Laurent Pautet</author>
+<author>Fabrice Kordon</author>
+<title>Behavioral Modular Description of Fault Tolerant Distributed Systems with AADL Behavioral Annex.</title>
+<pages>17-24</pages>
+<year>2010</year>
+<booktitle>NOTERE</booktitle>
+<crossref>conf/notere/2010</crossref>
+<url>db/conf/notere/notere2010.html#LasnierRPK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wodes/ZhangBKT10" mdate="2017-05-21">
+<author>Yan Zhang 0017</author>
+<author>Béatrice Bérard</author>
+<author>Fabrice Kordon</author>
+<author>Yann Thierry-Mieg</author>
+<title>Automated controllability and synthesis with hierarchical set decision diagrams.</title>
+<pages>281-286</pages>
+<year>2010</year>
+<booktitle>WODES</booktitle>
+<crossref>conf/wodes/2010</crossref>
+<url>db/conf/wodes/wodes2010.html#ZhangBKT10</url>
+</inproceedings>
+</r>
+<r><article key="journals/acta/BashirovKL09" mdate="2019-10-19">
+<author orcid="0000-0002-9037-6225">Rza Bashirov</author>
+<author>Fabrice Kordon</author>
+<author>Hüseyin Lort</author>
+<title>Exploiting colored Petri nets to decide on permutation admissibility.</title>
+<pages>43-55</pages>
+<year>2009</year>
+<volume>46</volume>
+<journal>Acta Inf.</journal>
+<number>1</number>
+<url>db/journals/acta/acta46.html#BashirovKL09</url>
+</article>
+</r>
+<r><article key="journals/fuin/HamezTK09" mdate="2017-05-20">
+<author>Alexandre Hamez</author>
+<author>Yann Thierry-Mieg</author>
+<author>Fabrice Kordon</author>
+<title>Building Efficient Model Checkers using Hierarchical Set Decision Diagrams and Automatic Saturation.</title>
+<pages>413-437</pages>
+<year>2009</year>
+<volume>94</volume>
+<journal>Fundam. Inform.</journal>
+<number>3-4</number>
+<url>db/journals/fuin/fuin94.html#HamezTK09</url>
+</article>
+</r>
+<r><article key="journals/topnoc/BonnefoiCK09" mdate="2017-05-18">
+<author>Fabien Bonnefoi</author>
+<author>Christine Choppy</author>
+<author>Fabrice Kordon</author>
+<title>A Discretization Method from Coloured to Symmetric Nets: Application to an Industrial Example.</title>
+<pages>159-188</pages>
+<year>2009</year>
+<volume>3</volume>
+<journal>Trans. Petri Nets and Other Models of Concurrency</journal>
+<crossref>journals/topnoc/2009-3</crossref>
+<url>db/journals/topnoc/topnoc3.html#BonnefoiCK09</url>
+</article>
+</r>
+<r><inproceedings key="conf/isorc/Kordon09" mdate="2017-05-23">
+<author>Fabrice Kordon</author>
+<title>Model Driven Engineering versus Organic Computing, Two Complementary Approaches.</title>
+<pages>99-100</pages>
+<year>2009</year>
+<booktitle>ISORC</booktitle>
+<crossref>conf/isorc/2009</crossref>
+<url>db/conf/isorc/isorc2009.html#Kordon09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/RenaultKH09" mdate="2017-05-23">
+<author>Xavier Renault</author>
+<author>Fabrice Kordon</author>
+<author>Jérôme Hugues</author>
+<title>From AADL Architectural Models to Petri Nets: Checking Model Viability.</title>
+<pages>313-320</pages>
+<year>2009</year>
+<booktitle>ISORC</booktitle>
+<crossref>conf/isorc/2009</crossref>
+<url>db/conf/isorc/isorc2009.html#RenaultKH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/RenaultKH09" mdate="2017-05-25">
+<author>Xavier Renault</author>
+<author>Fabrice Kordon</author>
+<author>Jérôme Hugues</author>
+<title>Adapting Models to Model Checkers, A Case Study : Analysing AADL Using Time or Colored Petri Nets.</title>
+<pages>26-33</pages>
+<year>2009</year>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<crossref>conf/rsp/2009</crossref>
+<url>db/conf/rsp/rsp2009.html#RenaultKH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigada/DelangePPKSK09" mdate="2018-11-06">
+<author orcid="0000-0001-8802-7811">Julien Delange</author>
+<author>Laurent Pautet</author>
+<author>Alain Plantec</author>
+<author>Mickaël Kerboeuf</author>
+<author>Frank Singhoff</author>
+<author>Fabrice Kordon</author>
+<title>Validate, simulate, and implement ARINC653 systems using the AADL.</title>
+<pages>31-44</pages>
+<year>2009</year>
+<booktitle>SIGAda</booktitle>
+<crossref>conf/sigada/2009</crossref>
+<url>db/conf/sigada/sigada2009.html#DelangePPKSK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/Thierry-MiegPHK09" mdate="2018-11-02">
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Denis Poitrenaud</author>
+<author>Alexandre Hamez</author>
+<author>Fabrice Kordon</author>
+<title>Hierarchical Set Decision Diagrams and Regular Models.</title>
+<pages>1-15</pages>
+<year>2009</year>
+<booktitle>TACAS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-00768-2_1</ee>
+<crossref>conf/tacas/2009</crossref>
+<url>db/conf/tacas/tacas2009.html#Thierry-MiegPHK09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/adaEurope/2009" mdate="2019-05-14">
+<editor>Fabrice Kordon</editor>
+<editor>Yvon Kermarrec</editor>
+<title>Reliable Software Technologies - Ada-Europe 2009, 14th Ada-Europe International Conference, Brest, France, June 8-12, 2009. Proceedings</title>
+<volume>5570</volume>
+<year>2009</year>
+<isbn>978-3-642-01923-4</isbn>
+<booktitle>Ada-Europe</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/adaEurope/adaEurope2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijspm/BenmerzougKB08" mdate="2019-09-16">
+<author orcid="0000-0002-6682-2862">Djamel Benmerzoug</author>
+<author>Fabrice Kordon</author>
+<author>Mahmoud Boufaïda</author>
+<title>Formalisation and verification of interaction protocols for business process integration: a Petri net approach.</title>
+<pages>195-204</pages>
+<year>2008</year>
+<volume>4</volume>
+<journal>IJSPM</journal>
+<number>3/4</number>
+<url>db/journals/ijspm/ijspm4.html#BenmerzougKB08</url>
+</article>
+</r>
+<r><article key="journals/tecs/HuguesZPK08" mdate="2018-11-06">
+<author>Jérôme Hugues</author>
+<author>Bechir Zalila</author>
+<author>Laurent Pautet</author>
+<author>Fabrice Kordon</author>
+<title>From the prototype to the final embedded system using the Ocarina AADL tool suite.</title>
+<year>2008</year>
+<volume>7</volume>
+<journal>ACM Trans. Embedded Comput. Syst.</journal>
+<number>4</number>
+<url>db/journals/tecs/tecs7.html#HuguesZPK08</url>
+<pages>42:1-42:25</pages>
+</article>
+</r>
+<r><inproceedings key="conf/apn/HamezTK08" mdate="2018-11-02">
+<author>Alexandre Hamez</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Fabrice Kordon</author>
+<title>Hierarchical Set Decision Diagrams and Automatic Saturation.</title>
+<pages>211-230</pages>
+<year>2008</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2008</crossref>
+<url>db/conf/apn/pn2008.html#HamezTK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/BenmerzougKB08" mdate="2019-09-25">
+<author orcid="0000-0002-6682-2862">Djamel Benmerzoug</author>
+<author>Fabrice Kordon</author>
+<author>Mahmoud Boufaïda</author>
+<title>A Petri-Net Based Formalisation of Interaction Protocols Applied to Business Process Integration.</title>
+<pages>78-92</pages>
+<year>2008</year>
+<booktitle>CIAO! / EOMAS</booktitle>
+<crossref>conf/caise/2008ciao</crossref>
+<url>db/conf/caise/ciao2008.html#BenmerzougKB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmoods/RenaultHK08" mdate="2018-06-26">
+<author>Xavier Renault</author>
+<author>Jérôme Hugues</author>
+<author>Fabrice Kordon</author>
+<title>Formal Modeling of a Generic Middleware to Ensure Invariant Properties.</title>
+<pages>185-200</pages>
+<year>2008</year>
+<booktitle>FMOODS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-68863-1_12</ee>
+<crossref>conf/fmoods/2008</crossref>
+<url>db/conf/fmoods/fmoods2008.html#RenaultHK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/Kordon08" mdate="2017-05-23">
+<author>Fabrice Kordon</author>
+<title>Design Methodologies for Embedded Systems: Where is the Super-Glue?</title>
+<pages>358-359</pages>
+<year>2008</year>
+<booktitle>ISORC</booktitle>
+<crossref>conf/isorc/2008</crossref>
+<url>db/conf/isorc/isorc2008.html#Kordon08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/monterey/KordonT08" mdate="2018-11-02">
+<author>Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<title>Experiences in Model Driven Verification of Behavior with UML.</title>
+<pages>181-200</pages>
+<year>2008</year>
+<booktitle>Monterey Workshop</booktitle>
+<crossref>conf/monterey/2008</crossref>
+<url>db/conf/monterey/monterey2008.html#KordonT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seus/KordonHR08" mdate="2018-06-26">
+<author>Fabrice Kordon</author>
+<author>Jérôme Hugues</author>
+<author>Xavier Renault</author>
+<title>From Model Driven Engineering to Verification Driven Engineering.</title>
+<pages>381-393</pages>
+<year>2008</year>
+<booktitle>SEUS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-87785-1_34</ee>
+<crossref>conf/seus/2008</crossref>
+<url>db/conf/seus/seus2008.html#KordonHR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simutools/VoronK08" mdate="2018-11-27">
+<author>Jean-Baptiste Voron</author>
+<author>Fabrice Kordon</author>
+<title>Transforming sources to petri nets: a way to analyze execution of parallel programs.</title>
+<pages>13</pages>
+<year>2008</year>
+<booktitle>SimuTools</booktitle>
+<crossref>conf/simutools/2008</crossref>
+<url>db/conf/simutools/simutools2008.html#VoronK08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/adaEurope/2008" mdate="2019-05-14">
+<editor>Fabrice Kordon</editor>
+<editor orcid="0000-0002-0089-0889">Tullio Vardanega</editor>
+<title>Reliable Software Technologies - Ada-Europe 2008, 13th Ada-Europe International Conference on Reliable Software Technologies, Venice, Italy, June 16-20, 2008. Proceedings</title>
+<volume>5026</volume>
+<year>2008</year>
+<isbn>978-3-540-68621-7</isbn>
+<booktitle>Ada-Europe</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/adaEurope/adaEurope2008.html</url>
+</proceedings>
+</r>
+<r><article key="journals/dsonline/Kordon07" mdate="2017-05-27">
+<author>Fabrice Kordon</author>
+<title>Guest Editor's Introduction: Rapid System Prototyping.</title>
+<year>2007</year>
+<volume>8</volume>
+<journal>IEEE Distributed Systems Online</journal>
+<number>3</number>
+<url>db/journals/dsonline/dsonline8.html#Kordon07</url>
+</article>
+</r>
+<r><article key="journals/dsonline/Kordon07a" mdate="2017-05-27">
+<author>Fabrice Kordon</author>
+<title>Guest Editor's Introduction: Rapid System Prototyping.</title>
+<year>2007</year>
+<volume>8</volume>
+<journal>IEEE Distributed Systems Online</journal>
+<number>4</number>
+<url>db/journals/dsonline/dsonline8.html#Kordon07a</url>
+</article>
+</r>
+<r><article key="journals/dsonline/Kordon07b" mdate="2017-05-27">
+<author>Fabrice Kordon</author>
+<title>Guest Editor's Introduction: Rapid System Prototyping.</title>
+<year>2007</year>
+<volume>8</volume>
+<journal>IEEE Distributed Systems Online</journal>
+<number>5</number>
+<url>db/journals/dsonline/dsonline8.html#Kordon07b</url>
+</article>
+</r>
+<r><article key="journals/ibis/DrioucheBK07" mdate="2012-12-19">
+<author>Razika Driouche</author>
+<author>Zizette Boufaïda</author>
+<author>Fabrice Kordon</author>
+<title>An Enterprise Application Integration Architecture Supporting Ontology Based Approach for B2B Collaboration.</title>
+<pages>39-64</pages>
+<year>2007</year>
+<volume>5</volume>
+<journal>IBIS</journal>
+<url>db/journals/ibis/ibis5.html#DrioucheBK07</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/HamezKTL07" mdate="2018-11-02">
+<author>Alexandre Hamez</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Fabrice Legond-Aubry</author>
+<title>dmcG : A Distributed Symbolic Model Checker Based on GreatSPN.</title>
+<pages>495-504</pages>
+<year>2007</year>
+<crossref>conf/apn/2007</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn2007.html#HamezKTL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/HamezKT07" mdate="2018-11-30">
+<author>Alexandre Hamez</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<title>IibDMC: a Library to Operate Efficient Distributed Model Checking.</title>
+<pages>1-8</pages>
+<year>2007</year>
+<crossref>conf/ipps/2007</crossref>
+<booktitle>IPDPS</booktitle>
+<url>db/conf/ipps/ipdps2007.html#HamezKT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/Kordon07" mdate="2017-05-23">
+<author>Fabrice Kordon</author>
+<title>Mastering Complexity in Formal Analysis of Complex Systems: Some Issues and Strategies Applied to Intelligent Transport Systems.</title>
+<pages>420-427</pages>
+<year>2007</year>
+<booktitle>ISORC</booktitle>
+<crossref>conf/isorc/2007</crossref>
+<url>db/conf/isorc/isorc2007.html#Kordon07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/BonnefoiHKR07" mdate="2018-10-16">
+<author>Fabien Bonnefoi</author>
+<author>Lom-Messan Hillah</author>
+<author>Fabrice Kordon</author>
+<author>Xavier Renault</author>
+<title>Design, modeling and analysis of ITS using UML and Petri Nets.</title>
+<pages>314-319</pages>
+<year>2007</year>
+<booktitle>ITSC</booktitle>
+<crossref>conf/itsc/2007</crossref>
+<url>db/conf/itsc/itsc2007.html#BonnefoiHKR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/monterey/LuqiK07" mdate="2017-05-25">
+<author>Luqi</author>
+<author>Fabrice Kordon</author>
+<title>Advances in Requirements Engineering: Bridging the Gap between Stakeholders' Needs and Formal Designs.</title>
+<pages>15-24</pages>
+<year>2007</year>
+<booktitle>Monterey Workshop</booktitle>
+<crossref>conf/monterey/2007</crossref>
+<url>db/conf/monterey/monterey2007.html#LuqiK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/KordonV07" mdate="2017-05-25">
+<author>Fabrice Kordon</author>
+<author>Jean-Baptiste Voron</author>
+<title>Rapid Prototyping of Intrusion Detection Systems.</title>
+<pages>89-98</pages>
+<year>2007</year>
+<crossref>conf/rsp/2007</crossref>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<url>db/conf/rsp/rsp2007.html#KordonV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/KordonVI07" mdate="2017-05-25">
+<author>Jérôme Hugues</author>
+<author>Bechir Zalila</author>
+<author>Laurent Pautet</author>
+<author>Fabrice Kordon</author>
+<title>Rapid Prototyping of Distributed Real-Time Embedded Systems Using the AADL and Ocarina.</title>
+<pages>106-112</pages>
+<year>2007</year>
+<crossref>conf/rsp/2007</crossref>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<url>db/conf/rsp/rsp2007.html#KordonVI07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vveis/BenmerzougBK07" mdate="2008-01-24">
+<author>Djamel Benmerzoug</author>
+<author>Mahmoud Boufaïda</author>
+<author>Fabrice Kordon</author>
+<title>A Specification and Validation Approach for Business Process Integration based on Web Services and Agents.</title>
+<pages>163-168</pages>
+<year>2007</year>
+<crossref>conf/vveis/2007</crossref>
+<booktitle>MSVVEIS</booktitle>
+<url>db/conf/vveis/msvveis2007.html#BenmerzougBK07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/adaEurope/2007" mdate="2019-05-14">
+<editor>Nabil Abdennadher</editor>
+<editor>Fabrice Kordon</editor>
+<title>Reliable Software Technologies - Ada Europe 2007, 12th Ada-Europe International Conference on Reliable Software Technologies, Geneva, Switzerland, June 25-29, 2007, Proceedings</title>
+<booktitle>Ada-Europe</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4498</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-73229-7</isbn>
+<url>db/conf/adaEurope/adaEurope2007.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/monterey/2005" mdate="2019-05-14">
+<editor>Fabrice Kordon</editor>
+<editor>Janos Sztipanovits</editor>
+<title>Reliable Systems on Unreliable Networked Platforms - 12th Monterey Workshop 2005, Laguna Beach, CA, USA, September 22-24, 2005. Revised Selected Papers</title>
+<volume>4322</volume>
+<year>2007</year>
+<isbn>978-3-540-71155-1</isbn>
+<booktitle>Monterey Workshop</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/monterey/monterey2005.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/monterey/2006" mdate="2019-05-14">
+<editor>Fabrice Kordon</editor>
+<editor orcid="0000-0001-5282-0658">Oleg Sokolsky</editor>
+<title>Composition of Embedded Systems. Scientific and Industrial Issues, 13th Monterey Workshop 2006, Paris, France, October 16-18, 2006, Revised Selected Papers</title>
+<booktitle>Monterey Workshop</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4888</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-77418-1</isbn>
+<url>db/conf/monterey/monterey2006.html</url>
+</proceedings>
+</r>
+<r><article key="journals/dsonline/KordonP06" mdate="2017-09-16">
+<author>Fabrice Kordon</author>
+<author orcid="0000-0003-3154-5268">Laure Petrucci</author>
+<title>Toward Formal-Methods Oecumenism?</title>
+<year>2006</year>
+<volume>7</volume>
+<journal>IEEE Distributed Systems Online</journal>
+<number>7</number>
+<url>db/journals/dsonline/dsonline7.html#KordonP06</url>
+</article>
+</r>
+<r><inproceedings key="conf/acsd/HamezHKLPRT06" mdate="2017-05-25">
+<author>Alexandre Hamez</author>
+<author>Lom Hillah</author>
+<author>Fabrice Kordon</author>
+<author>Alban Linard</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Xavier Renault</author>
+<author>Yann Thierry-Mieg</author>
+<title>New features in CPN-AMI 3: focusing on the analysis of complex distributed systems.</title>
+<pages>273-275</pages>
+<year>2006</year>
+<crossref>conf/acsd/2006</crossref>
+<booktitle>ACSD</booktitle>
+<url>db/conf/acsd/acsd2006.html#HamezHKLPRT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/DrioucheBK06" mdate="2017-05-24">
+<author>Razika Driouche</author>
+<author>Zizette Boufaïda</author>
+<author>Fabrice Kordon</author>
+<title>Towards Integrating Collaborative Business Process Based on a Process Ontology and EbXML Collaboration Scenario.</title>
+<pages>299-303</pages>
+<year>2006</year>
+<crossref>conf/dexaw/2006</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<url>db/conf/dexaw/dexaw2006.html#DrioucheBK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/HillahKPT06" mdate="2018-06-26">
+<author>Lom Hillah</author>
+<author>Fabrice Kordon</author>
+<author>Laure Petrucci-Dauchy</author>
+<author>Nicolas Trèves</author>
+<title>PN Standardisation: A Survey.</title>
+<pages>307-322</pages>
+<year>2006</year>
+<crossref>conf/forte/2006</crossref>
+<booktitle>FORTE</booktitle>
+<ee type="oa">https://doi.org/10.1007/11888116_23</ee>
+<url>db/conf/forte/forte2006.html#HillahKPT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/KordonLP06" mdate="2018-06-26">
+<author>Fabrice Kordon</author>
+<author>Alban Linard</author>
+<author>Emmanuel Paviot-Adet</author>
+<title>Optimized Colored Nets Unfolding.</title>
+<pages>339-355</pages>
+<year>2006</year>
+<crossref>conf/forte/2006</crossref>
+<booktitle>FORTE</booktitle>
+<ee type="oa">https://doi.org/10.1007/11888116_25</ee>
+<url>db/conf/forte/forte2006.html#KordonLP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictac/ChoppyHKKPT06" mdate="2018-11-02">
+<author>Christine Choppy</author>
+<author>Serge Haddad</author>
+<author>Hanna Klaudel</author>
+<author>Fabrice Kordon</author>
+<author>Laure Petrucci</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<title>Tutorial on Formal Methods for Distributed and Cooperative Systems.</title>
+<pages>362-365</pages>
+<year>2006</year>
+<crossref>conf/ictac/2006</crossref>
+<booktitle>ICTAC</booktitle>
+<url>db/conf/ictac/ictac2006.html#ChoppyHKKPT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/HughesPK06" mdate="2017-05-23">
+<author>Jérôme Hugues</author>
+<author>Laurent Pautet</author>
+<author>Fabrice Kordon</author>
+<title>A Framework for DRE middleware, an Application to DDS.</title>
+<pages>224-231</pages>
+<year>2006</year>
+<crossref>conf/isorc/2006</crossref>
+<booktitle>ISORC</booktitle>
+<url>db/conf/isorc/isorc2006.html#HughesPK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vveis/DrioucheBK06" mdate="2006-09-06">
+<author>Razika Driouche</author>
+<author>Zizette Boufaïda</author>
+<author>Fabrice Kordon</author>
+<title>An Ontology Based Architecture for Integrating Enterprise Applications.</title>
+<pages>26-37</pages>
+<year>2006</year>
+<crossref>conf/vveis/2006</crossref>
+<booktitle>MSVVEIS</booktitle>
+<url>db/conf/vveis/msvveis2006.html#DrioucheBK06</url>
+</inproceedings>
+</r>
+<r><article key="journals/dsonline/KordonP05" mdate="2017-05-27">
+<author>Fabrice Kordon</author>
+<author>Laurent Pautet</author>
+<title>Toward Nex-Generation Middleware?</title>
+<year>2005</year>
+<volume>6</volume>
+<journal>IEEE Distributed Systems Online</journal>
+<number>3</number>
+<url>db/journals/dsonline/dsonline6.html#KordonP05</url>
+</article>
+</r>
+<r><article key="journals/entcs/HuguesVPTBK05" mdate="2018-11-30">
+<author>Jérôme Hugues</author>
+<author>Thomas Vergnaud</author>
+<author>Laurent Pautet</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Souheib Baarir</author>
+<author>Fabrice Kordon</author>
+<title>On the Formal Verification of Middleware Behavioral Properties.</title>
+<pages>139-157</pages>
+<year>2005</year>
+<volume>133</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs133.html#HuguesVPTBK05</url>
+</article>
+</r>
+<r><inproceedings key="conf/adaEurope/VergnaudPK05" mdate="2017-05-26">
+<author>Thomas Vergnaud</author>
+<author>Laurent Pautet</author>
+<author>Fabrice Kordon</author>
+<title>Using the AADL to Describe Distributed Applications from Middleware to Software Components.</title>
+<pages>67-78</pages>
+<year>2005</year>
+<crossref>conf/adaEurope/2005</crossref>
+<booktitle>Ada-Europe</booktitle>
+<url>db/conf/adaEurope/adaEurope2005.html#VergnaudPK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/HuguesPK05" mdate="2017-05-23">
+<author>Jérôme Hugues</author>
+<author>Laurent Pautet</author>
+<author>Fabrice Kordon</author>
+<title>Revisiting COTS middleware for DRE systems.</title>
+<pages>72-79</pages>
+<year>2005</year>
+<crossref>conf/isorc/2005</crossref>
+<booktitle>ISORC</booktitle>
+<url>db/conf/isorc/isorc2005.html#HuguesPK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/monterey/HuguesKPV05" mdate="2017-05-25">
+<author>Jérôme Hugues</author>
+<author>Fabrice Kordon</author>
+<author>Laurent Pautet</author>
+<author>Thomas Vergnaud</author>
+<title>A Factory to Design and Build Tailorable and Verifiable Middleware.</title>
+<pages>121-142</pages>
+<year>2005</year>
+<booktitle>Monterey Workshop</booktitle>
+<crossref>conf/monterey/2005</crossref>
+<url>db/conf/monterey/monterey2005.html#HuguesKPV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/VergmaudHPK05" mdate="2017-05-25">
+<author>Thomas Vergnaud</author>
+<author>Jérôme Hugues</author>
+<author>Laurent Pautet</author>
+<author>Fabrice Kordon</author>
+<title>Rapid Development Methodology for Customized Middleware.</title>
+<pages>111-117</pages>
+<year>2005</year>
+<crossref>conf/rsp/2005</crossref>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<url>db/conf/rsp/rsp2005.html#VergmaudHPK05</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/WillsKL04" mdate="2017-05-28">
+<author>Linda M. Wills</author>
+<author>Fabrice Kordon</author>
+<author>Luqi</author>
+<title>Rapid system prototyping.</title>
+<pages>225-227</pages>
+<year>2004</year>
+<volume>70</volume>
+<journal>Journal of Systems and Software</journal>
+<number>3</number>
+<url>db/journals/jss/jss70.html#WillsKL04</url>
+</article>
+</r>
+<r><article key="journals/tsi/PautetK04" mdate="2017-05-20">
+<author>Laurent Pautet</author>
+<author>Fabrice Kordon</author>
+<title>Des vertus de la schizophrénie pour le prototypage d'applications à composants interopérables.</title>
+<pages>1301-1328</pages>
+<year>2004</year>
+<volume>23</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>10</number>
+<url>db/journals/tsi/tsi23.html#PautetK04</url>
+</article>
+</r>
+<r><inproceedings key="conf/adaEurope/VergnaudHPK04" mdate="2017-05-26">
+<author>Thomas Vergnaud</author>
+<author>Jérôme Hugues</author>
+<author>Laurent Pautet</author>
+<author>Fabrice Kordon</author>
+<title>PolyORB: A Schizophrenic Middleware to Build Versatile Reliable Distributed Applications.</title>
+<pages>106-119</pages>
+<year>2004</year>
+<crossref>conf/adaEurope/2004</crossref>
+<booktitle>Ada-Europe</booktitle>
+<url>db/conf/adaEurope/adaEurope2004.html#VergnaudHPK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/GilliersVK04" mdate="2004-08-25">
+<author>Frédéric Gilliers</author>
+<author>Jean-Pierre Velu</author>
+<author>Fabrice Kordon</author>
+<title>Generation of Distributed Programs in Their Target Execution Environment.</title>
+<pages>127-134</pages>
+<year>2004</year>
+<crossref>conf/rsp/2004</crossref>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<url>db/conf/rsp/rsp2004.html#GilliersVK04</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/KordonH03" mdate="2017-05-27">
+<author>Fabrice Kordon</author>
+<author>Jörg Henkel</author>
+<title>An Overview of Rapid System Prototyping Today.</title>
+<pages>275-282</pages>
+<year>2003</year>
+<volume>8</volume>
+<journal>Design Autom. for Emb. Sys.</journal>
+<number>4</number>
+<url>db/journals/dafes/dafes8.html#KordonH03</url>
+</article>
+</r>
+<r><inproceedings key="conf/rsp/HuguesPK03" mdate="2017-05-25">
+<author>Jérôme Hugues</author>
+<author>Laurent Pautet</author>
+<author>Fabrice Kordon</author>
+<title>Contributions to middleware architectures to prototype distribution infrastructures.</title>
+<pages>124-</pages>
+<year>2003</year>
+<crossref>conf/rsp/2003</crossref>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<url>db/conf/rsp/rsp2003.html#HuguesPK03</url>
+</inproceedings>
+</r>
+<r><article key="journals/tse/KordonL02" mdate="2017-05-17">
+<author>Fabrice Kordon</author>
+<author>Luqi</author>
+<title>An Introduction to Rapid System Prototyping.</title>
+<pages>817-821</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>9</number>
+<url>db/journals/tse/tse28.html#KordonL02</url>
+</article>
+</r>
+<r><inproceedings key="conf/rissef/GilliersKR02" mdate="2017-05-25">
+<author>Frédéric Gilliers</author>
+<author>Fabrice Kordon</author>
+<author>Dan Marius Regep</author>
+<title>A Model Based Development Approach for Distributed Embedded Systems.</title>
+<pages>137-151</pages>
+<year>2002</year>
+<crossref>conf/rissef/2002</crossref>
+<booktitle>RISSEF</booktitle>
+<url>db/conf/rissef/rissef2002.html#GilliersKR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doa/QuinotPK01" mdate="2017-05-26">
+<author>Thomas Quinot</author>
+<author>Laurent Pautet</author>
+<author>Fabrice Kordon</author>
+<title>From Functional to Architectural Analysis of a Middleware Supporting Interoperability across Heterogeneous Distribution Models.</title>
+<pages>165-175</pages>
+<year>2001</year>
+<crossref>conf/doa/2001</crossref>
+<booktitle>DOA</booktitle>
+<url>db/conf/doa/doa2001.html#QuinotPK01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/DocheVK01" mdate="2017-05-22">
+<author>Marielle Doche</author>
+<author>Isabelle Vernier-Mounier</author>
+<author>Fabrice Kordon</author>
+<title>A Modular Approach to the Specification and Validation of an Electrical Flight Control System.</title>
+<pages>590-610</pages>
+<year>2001</year>
+<crossref>conf/fm/2001</crossref>
+<booktitle>FME</booktitle>
+<url>db/conf/fm/fme2001.html#DocheVK01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hase/GrootHKPVLGWK01" mdate="2017-05-25">
+<author>Adriaan de Groot</author>
+<author>Jozef Hooman</author>
+<author>Fabrice Kordon</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Isabelle Vernier-Mounier</author>
+<author>Michel Lemoine</author>
+<author>Gervais Gaudiére</author>
+<author>Victor L. Winter</author>
+<author>Deepak Kapur</author>
+<title>A Survey: Applying Formal Methods to a Software Intensive System.</title>
+<pages>55-64</pages>
+<year>2001</year>
+<crossref>conf/hase/2001</crossref>
+<booktitle>HASE</booktitle>
+<url>db/conf/hase/hase2001.html#GrootHKPVLGWK01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/RegepK01" mdate="2017-05-25">
+<author>Dan Marius Regep</author>
+<author>Fabrice Kordon</author>
+<title>LfP : A Specification Language for Rapid Prototyping of Concurrent Systems.</title>
+<pages>90-96</pages>
+<year>2001</year>
+<crossref>conf/rsp/2001</crossref>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<url>db/conf/rsp/rsp2001.html#RegepK01</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/Muller-GlaserKB00" mdate="2017-05-27">
+<author>Klaus D. Müller-Glaser</author>
+<author>Fabrice Kordon</author>
+<author>Alexander Burst</author>
+<title>Guest Editorial.</title>
+<pages>213</pages>
+<year>2000</year>
+<volume>5</volume>
+<journal>Design Autom. for Emb. Sys.</journal>
+<number>3-4</number>
+<url>db/journals/dafes/dafes5.html#Muller-GlaserKB00</url>
+</article>
+</r>
+<r><inproceedings key="conf/faabs/BakamKPB00" mdate="2017-05-24">
+<author>Innocent Bakam</author>
+<author>Fabrice Kordon</author>
+<author>Christophe Le Page</author>
+<author>François Bousquet</author>
+<title>Formalization of a Spatialized Multiagent Model Using Coloured Petri Nets for the Study of an Hunting Management System.</title>
+<pages>123-132</pages>
+<year>2000</year>
+<crossref>conf/faabs/2000</crossref>
+<booktitle>FAABS</booktitle>
+<url>db/conf/faabs/faabs2000.html#BakamKPB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/RegepK00" mdate="2017-05-25">
+<author>Dan Marius Regep</author>
+<author>Fabrice Kordon</author>
+<title>Using MetaScribe to Prototype an UML to C++/Ada95 Code Generator.</title>
+<pages>128-133</pages>
+<year>2000</year>
+<crossref>conf/rsp/2000</crossref>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<url>db/conf/rsp/rsp2000.html#RegepK00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adaEurope/Kordon99" mdate="2017-05-24">
+<author>Fabrice Kordon</author>
+<title>MetaScribe, an Ada-based Tool for the Construction of Transformation Engines.</title>
+<pages>308-319</pages>
+<year>1999</year>
+<crossref>conf/adaEurope/1999</crossref>
+<booktitle>Ada-Europe</booktitle>
+<url>db/conf/adaEurope/adaEurope1999.html#Kordon99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/BuchsDK98" mdate="2017-05-25">
+<author>Didier Buchs</author>
+<author>Alioune Diagne</author>
+<author>Fabrice Kordon</author>
+<title>Testing Prototypes Validity to Enhance Code Reuse.</title>
+<pages>6-12</pages>
+<year>1998</year>
+<crossref>conf/rsp/1998</crossref>
+<booktitle>International Workshop on Rapid System Prototyping</booktitle>
+<url>db/conf/rsp/rsp1998.html#BuchsDK98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/KordonM97" mdate="2017-05-25">
+<author>Fabrice Kordon</author>
+<author>Jean-Luc Mounier</author>
+<title>FrameKit and the prototyping of CASE environments.</title>
+<pages>91-97</pages>
+<year>1997</year>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<crossref>conf/rsp/1997</crossref>
+<url>db/conf/rsp/rsp1997.html#KordonM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/DiagneK96" mdate="2017-05-25">
+<author>Alioune Diagne</author>
+<author>Fabrice Kordon</author>
+<title>A multi formalisms prototyping approach from formal description to implementation of distributed systems.</title>
+<pages>102-107</pages>
+<year>1996</year>
+<booktitle>RSP</booktitle>
+<crossref>conf/rsp/1996</crossref>
+<url>db/conf/rsp/rsp1996.html#DiagneK96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/KordonK95" mdate="2017-05-25">
+<author>Fabrice Kordon</author>
+<author>William El Kaim</author>
+<title>H-COSTAM: a hierarchical communicating state-machine model for generic prototyping.</title>
+<pages>131-139</pages>
+<year>1995</year>
+<booktitle>RSP</booktitle>
+<crossref>conf/rsp/1995</crossref>
+<url>db/conf/rsp/rsp1995.html#KordonK95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/KaimK94" mdate="2019-02-14">
+<author>William El Kaim</author>
+<author>Fabrice Kordon</author>
+<title>An integrated framework for rapid system prototyping and automatic code distribution.</title>
+<pages>52-61</pages>
+<year>1994</year>
+<booktitle>RSP</booktitle>
+<crossref>conf/rsp/1994</crossref>
+<url>db/conf/rsp/rsp1994.html#KaimK94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/Kordon93" mdate="2019-02-14">
+<author>Fabrice Kordon</author>
+<title>A generic prototype model for distributed systems based on high level object oriented specification.</title>
+<pages>194-204</pages>
+<year>1993</year>
+<booktitle>RSP</booktitle>
+<crossref>conf/rsp/1993</crossref>
+<url>db/conf/rsp/rsp1993.html#Kordon93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/KordonE91" mdate="2019-02-14">
+<author>Fabrice Kordon</author>
+<author>Pascal Estraillier</author>
+<title>Complex system prototyping using environment abstraction.</title>
+<pages>34-46</pages>
+<year>1991</year>
+<booktitle>RSP</booktitle>
+<crossref>conf/rsp/1991</crossref>
+<url>db/conf/rsp/rsp1991.html#KordonE91</url>
+</inproceedings>
+</r>
+<coauthors n="160" nc="8">
+<co c="-1"><na f="a/Abdennadher:Nabil">Nabil Abdennadher</na></co>
+<co c="0"><na f="a/Amparore:Elvio_Gilberto">Elvio Gilberto Amparore</na></co>
+<co c="0"><na f="a/Andr=eacute=:=Eacute=tienne">Étienne André</na></co>
+<co c="0"><na f="b/Baarir:Souheib">Souheib Baarir</na></co>
+<co c="1"><na f="b/Bakam:Innocent">Innocent Bakam</na></co>
+<co c="0"><na f="b/Barbot:Beno=icirc=t">Benoît Barbot</na></co>
+<co c="0"><na f="b/Bartocci:Ezio">Ezio Bartocci</na></co>
+<co c="7"><na f="b/Bashirov:Rza">Rza Bashirov</na></co>
+<co c="0"><na f="b/Beccuti:Marco">Marco Beccuti</na></co>
+<co c="0"><na f="b/Benmerzoug:Djamel">Djamel Benmerzoug</na></co>
+<co c="0"><na f="b/B=eacute=rard:B=eacute=atrice">Béatrice Bérard</na></co>
+<co c="0"><na f="b/Berthomieu:Bernard">Bernard Berthomieu</na></co>
+<co c="0"><na f="b/Beyer_0001:Dirk">Dirk Beyer 0001</na></co>
+<co c="0"><na f="b/Black:Paul_E=">Paul E. Black</na></co>
+<co c="0"><na f="b/Bona:Sergio_Di">Sergio Di Bona</na></co>
+<co c="0"><na f="b/Bonnaire:Xavier">Xavier Bonnaire</na></co>
+<co c="0"><na f="b/Bonnefoi:Fabien">Fabien Bonnefoi</na></co>
+<co c="0"><na f="b/Botlan:Didier_Le">Didier Le Botlan</na></co>
+<co c="0"><na f="b/Boufa=iuml=da:Mahmoud">Mahmoud Boufaïda</na></co>
+<co c="3"><na f="b/Boufa=iuml=da:Zizette">Zizette Boufaïda</na></co>
+<co c="1"><na f="b/Bousquet:Fran=ccedil=ois">François Bousquet</na></co>
+<co c="0"><na f="b/Buchs:Didier">Didier Buchs</na></co>
+<co c="4"><na f="b/Burst:Alexander">Alexander Burst</na></co>
+<co c="0"><na f="c/Carron:Thibault">Thibault Carron</na></co>
+<co c="0"><na f="c/Charron:Samuel">Samuel Charron</na></co>
+<co c="0"><na f="c/Choppy:Christine">Christine Choppy</na></co>
+<co c="0"><na f="c/Ciardo:Gianfranco">Gianfranco Ciardo</na></co>
+<co c="0"><na f="c/Colange:Maximilien">Maximilien Colange</na></co>
+<co c="0"><na f="c/Cort=eacute=s:Rudyar">Rudyar Cortés</na></co>
+<co c="0"><na f="d/Dal=Zilio:Silvano">Silvano Dal-Zilio</na></co>
+<co c="0"><na f="d/Delange:Julien">Julien Delange</na></co>
+<co c="0"><na f="d/Demoulins:Clement">Clement Demoulins</na></co>
+<co c="0"><na f="d/Diagne:Alioune">Alioune Diagne</na></co>
+<co c="0"><na f="d/Dijk:Tom_van">Tom van Dijk</na></co>
+<co c="0"><na f="d/Doche:Marielle">Marielle Doche</na></co>
+<co c="3"><na f="d/Driouche:Razika">Razika Driouche</na></co>
+<co c="0"><na f="d/Duret=Lutz:Alexandre">Alexandre Duret-Lutz</na></co>
+<co c="0"><na f="e/Estraillier:Pascal">Pascal Estraillier</na></co>
+<co c="0"><na f="e/Evangelista:Sami">Sami Evangelista</na></co>
+<co c="0"><na f="e/Evrard:Hugues">Hugues Evrard</na></co>
+<co c="0"><na f="f/Fedyukovich:Grigory">Grigory Fedyukovich</na></co>
+<co c="0"><na f="f/Fontanelli:Riccardo">Riccardo Fontanelli</na></co>
+<co c="0"><na f="f/Francesco:Alberto_De">Alberto De Francesco</na></co>
+<co c="0"><na f="f/Frioux:Ludovic_Le">Ludovic Le Frioux</na></co>
+<co c="0"><na f="f/Fronc:Lukasz">Lukasz Fronc</na></co>
+<co c="0"><na f="g/Gall=agrave=:Francesco">Francesco Gallà</na></co>
+<co c="0"><na f="g/Garavel:Hubert">Hubert Garavel</na></co>
+<co c="0"><na f="g/Gaudi=eacute=re:Gervais">Gervais Gaudiére</na></co>
+<co c="2"><na f="g/Gilliers:Fr=eacute=d=eacute=ric">Frédéric Gilliers</na></co>
+<co c="0"><na f="g/Grabowski:Jens">Jens Grabowski</na></co>
+<co c="0"><na f="g/Groot:Adriaan_de">Adriaan de Groot</na></co>
+<co c="0"><na f="g/Guerri:Davide">Davide Guerri</na></co>
+<co c="0"><na f="h/Haddad:Serge">Serge Haddad</na></co>
+<co c="0"><na f="h/Hamez:Alexandre">Alexandre Hamez</na></co>
+<co c="0"><na f="h/Harms:Patrick">Patrick Harms</na></co>
+<co c="0"><na f="h/Hartmanns:Arnd">Arnd Hartmanns</na></co>
+<co c="-1"><na f="h/Henkel:J=ouml=rg">Jörg Henkel</na></co>
+<co c="0"><na f="h/Herbold:Steffen">Steffen Herbold</na></co>
+<co c="0" n="2"><na f="h/Hillah:Lom=Messan">Lom-Messan Hillah</na><na>Lom Hillah</na></co>
+<co c="0"><na f="h/Hong:Silien">Silien Hong</na></co>
+<co c="0"><na f="h/Hooman:Jozef">Jozef Hooman</na></co>
+<co c="0"><na f="h/Hugues:J=eacute=r=ocirc=me">Jérôme Hugues</na></co>
+<co c="0"><na f="h/Huisman:Marieke">Marieke Huisman</na></co>
+<co c="0"><na f="h/Hulin=Hubard:Francis">Francis Hulin-Hubard</na></co>
+<co c="0"><na f="j/Jan:Mathieu">Mathieu Jan</na></co>
+<co c="0"><na f="j/Jensen:Peter_Gj=oslash=l">Peter Gjøl Jensen</na></co>
+<co c="0"><na f="j/Jezequel:Lo=iuml=g">Loïg Jezequel</na></co>
+<co c="0"><na f="j/Jouvray:Christophe">Christophe Jouvray</na></co>
+<co c="-1"><na f="k/Kaim:William_El">William El Kaim</na></co>
+<co c="0"><na f="k/Kapur:Deepak">Deepak Kapur</na></co>
+<co c="0"><na f="k/Kerboeuf:Micka=euml=l">Mickaël Kerboeuf</na></co>
+<co c="0"><na f="k/Kermarrec:Yvon">Yvon Kermarrec</na></co>
+<co c="0"><na f="k/Klaudel:Hanna">Hanna Klaudel</na></co>
+<co c="0"><na f="k/Kung:Antonio">Antonio Kung</na></co>
+<co c="0"><na f="l/Labat:Jean=Marc">Jean-Marc Labat</na></co>
+<co c="0"><na f="l/Lakos:Charles">Charles Lakos</na></co>
+<co c="0"><na f="l/Lalande:Jimmy">Jimmy Lalande</na></co>
+<co c="0"><na f="l/Lampka:Kai">Kai Lampka</na></co>
+<co c="0"><na f="l/Lasnier:Gilles">Gilles Lasnier</na></co>
+<co c="0"><na f="l/Legond=Aubry:Fabrice">Fabrice Legond-Aubry</na></co>
+<co c="0"><na f="l/Lembachar:Yousra">Yousra Lembachar</na></co>
+<co c="0"><na f="l/Lemoine:Michel">Michel Lemoine</na></co>
+<co c="0"><na f="l/Leuschel:Michael">Michael Leuschel</na></co>
+<co c="0"><na f="l/Liebke:Torsten">Torsten Liebke</na></co>
+<co c="0"><na f="l/Linard:Alban">Alban Linard</na></co>
+<co c="0"><na f="l/Lohmann:Niels">Niels Lohmann</na></co>
+<co c="0"><na f="l/Loiret:Fr=eacute=d=eacute=ric">Frédéric Loiret</na></co>
+<co c="7"><na f="l/Lort:H=uuml=seyin">Hüseyin Lort</na></co>
+<co c="5"><na f="l/Luqi:">Luqi</na></co>
+<co c="0"><na f="m/Maesano:Ariele=Paolo">Ariele-Paolo Maesano</na></co>
+<co c="0"><na f="m/Maesano:Libero">Libero Maesano</na></co>
+<co c="0"><na f="m/Maissa:Yann_Ben">Yann Ben Maissa</na></co>
+<co c="0"><na f="m/Marechal:Alexis">Alexis Marechal</na></co>
+<co c="0"><na f="m/Marin:Olivier">Olivier Marin</na></co>
+<co c="0"><na f="m/Meijer:Jeroen">Jeroen Meijer</na></co>
+<co c="0"><na f="m/Metin:Hakan">Hakan Metin</na></co>
+<co c="0"><na f="m/Miner:Andrew_S=">Andrew S. Miner</na></co>
+<co c="-1"><na f="m/Moldt:Daniel">Daniel Moldt</na></co>
+<co c="0"><na f="m/Mouline:Salma">Salma Mouline</na></co>
+<co c="0" n="2"><na f="m/Mounier:Isabelle">Isabelle Mounier</na><na>Isabelle Vernier-Mounier</na></co>
+<co c="-1"><na f="m/Mounier:Jean=Luc">Jean-Luc Mounier</na></co>
+<co c="4"><na f="m/M=uuml=ller=Glaser:Klaus_D=">Klaus D. Müller-Glaser</na></co>
+<co c="0"><na f="n/Nagele:Julian">Julian Nagele</na></co>
+<co c="0"><na f="n/Napoli:Claudia_Di">Claudia Di Napoli</na></co>
+<co c="0"><na f="n/Navas:Juan_F=">Juan F. Navas</na></co>
+<co c="1"><na f="p/Page:Christophe_Le">Christophe Le Page</na></co>
+<co c="0"><na f="p/Parutto:Pierre">Pierre Parutto</na></co>
+<co c="0"><na f="p/Pautet:Laurent">Laurent Pautet</na></co>
+<co c="0"><na f="p/Paviot=Adet:Emmanuel">Emmanuel Paviot-Adet</na></co>
+<co c="0" n="2"><na f="p/Petrucci:Laure">Laure Petrucci</na><na>Laure Petrucci-Dauchy</na></co>
+<co c="0"><na f="p/Plantec:Alain">Alain Plantec</na></co>
+<co c="0"><na f="p/Poitrenaud:Denis">Denis Poitrenaud</na></co>
+<co c="0"><na f="p/Pol:Jaco_van_de">Jaco van de Pol</na></co>
+<co c="0"><na f="p/Pommereau:Franck">Franck Pommereau</na></co>
+<co c="0"><na f="p/Pulou:Jacques">Jacques Pulou</na></co>
+<co c="0"><na f="q/Quinot:Thomas">Thomas Quinot</na></co>
+<co c="0"><na f="r/Radermacher:Ansgar">Ansgar Radermacher</na></co>
+<co c="2"><na f="r/Regep:Dan_Marius">Dan Marius Regep</na></co>
+<co c="6"><na f="r/Ren_0001:Lei">Lei Ren 0001</na></co>
+<co c="0"><na f="r/Renault:Etienne">Etienne Renault</na></co>
+<co c="0"><na f="r/Renault:Xavier">Xavier Renault</na></co>
+<co c="0"><na f="r/Robert_0003:Thomas">Thomas Robert 0003</na></co>
+<co c="0"><na f="r/Rodr=iacute=guez:C=eacute=sar">César Rodríguez</na></co>
+<co c="0"><na f="r/Rohr:Christian">Christian Rohr</na></co>
+<co c="0"><na f="r/Rosa:Fabio_De">Fabio De Rosa</na></co>
+<co c="0"><na f="s/Salem:Ala=Eddine_Ben">Ala-Eddine Ben Salem</na></co>
+<co c="0"><na f="s/Schneider:Martin_A=">Martin A. Schneider</na></co>
+<co c="0"><na f="s/Seinturier:Lionel">Lionel Seinturier</na></co>
+<co c="0"><na f="s/Serebrenik:Alexander">Alexander Serebrenik</na></co>
+<co c="0"><na f="s/Sidorova:Natalia">Natalia Sidorova</na></co>
+<co c="0"><na f="s/Sighireanu:Mihaela">Mihaela Sighireanu</na></co>
+<co c="0"><na f="s/Singhoff:Frank">Frank Singhoff</na></co>
+<co c="0"><na f="s/Sokolsky:Oleg">Oleg Sokolsky</na></co>
+<co c="0"><na f="s/Sopena:Julien">Julien Sopena</na></co>
+<co c="0"><na f="s/Spronston:Jeremy">Jeremy Spronston</na></co>
+<co c="0"><na f="s/Srba:Jir=iacute=">Jirí Srba</na></co>
+<co c="0"><na f="s/Steffen:Bernhard">Bernhard Steffen</na></co>
+<co c="0"><na f="s/Suda_0001:Martin">Martin Suda 0001</na></co>
+<co c="0"><na f="s/Sutcliffe:Geoff">Geoff Sutcliffe</na></co>
+<co c="-1"><na f="s/Sztipanovits:Janos">Janos Sztipanovits</na></co>
+<co c="0"><na f="t/Thabet:Meriem">Meriem Thabet</na></co>
+<co c="0"><na f="t/Thierry=Mieg:Yann">Yann Thierry-Mieg</na></co>
+<co c="0"><na f="t/Tonellotto:Nicola">Nicola Tonellotto</na></co>
+<co c="0"><na f="t/Tr=egrave=ves:Nicolas">Nicolas Trèves</na></co>
+<co c="-1"><na f="v/Vardanega:Tullio">Tullio Vardanega</na></co>
+<co c="2"><na f="v/Velu:Jean=Pierre">Jean-Pierre Velu</na></co>
+<co c="0"><na f="v/Vergnaud:Thomas">Thomas Vergnaud</na></co>
+<co c="0"><na f="v/Voron:Jean=Baptiste">Jean-Baptiste Voron</na></co>
+<co c="0"><na f="w/Weber:Tjark">Tjark Weber</na></co>
+<co c="0"><na f="w/Wendland:Marc=Florian">Marc-Florian Wendland</na></co>
+<co c="5"><na f="w/Wills:Linda_M=">Linda M. Wills</na></co>
+<co c="0"><na f="w/Wimmel:Harro">Harro Wimmel</na></co>
+<co c="0"><na f="w/Winter:Victor_L=">Victor L. Winter</na></co>
+<co c="0"><na f="w/Wolf:Karsten">Karsten Wolf</na></co>
+<co c="0"><na f="w/Wuillemin:Pierre=Henri">Pierre-Henri Wuillemin</na></co>
+<co c="0"><na f="y/Yamada_0002:Akihisa">Akihisa Yamada 0002</na></co>
+<co c="0"><na f="y/Yessad:Amel">Amel Yessad</na></co>
+<co c="0"><na f="z/Zalila:Bechir">Bechir Zalila</na></co>
+<co c="6"><na f="z/Zhang_0009:Lin">Lin Zhang 0009</na></co>
+<co c="0"><na f="z/Zhang_0017:Yan">Yan Zhang 0017</na></co>
+</coauthors>
+</dblpperson>
+

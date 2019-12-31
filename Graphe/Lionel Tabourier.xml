@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Lionel Tabourier" n="25">
+<person key="homepages/78/8910" mdate="2011-01-02">
+<author>Lionel Tabourier</author>
+</person>
+<r><article key="journals/ml/TabourierBLL19" mdate="2019-08-26">
+<author>Lionel Tabourier</author>
+<author>Daniel Faria Bernardes</author>
+<author>Anne-Sophie Libert</author>
+<author>Renaud Lambiotte</author>
+<title>RankMerging: a supervised learning-to-rank framework to predict links in large social networks.</title>
+<pages>1729-1756</pages>
+<year>2019</year>
+<volume>108</volume>
+<journal>Machine Learning</journal>
+<number>10</number>
+<url>db/journals/ml/ml108.html#TabourierBLL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ht/MoralesTUP19" mdate="2019-09-17">
+<author>Pedro Ramaciotti Morales</author>
+<author>Lionel Tabourier</author>
+<author>Sylvain Ung</author>
+<author>Christophe Prieur</author>
+<title>Role of the Website Structure in the Diversity of Browsing Behaviors.</title>
+<pages>133-142</pages>
+<year>2019</year>
+<booktitle>HT</booktitle>
+<crossref>conf/ht/2019</crossref>
+<url>db/conf/ht/ht2019.html#MoralesTUP19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/tma/2019" mdate="2019-10-16">
+<editor>Stefano Secci</editor>
+<editor>Isabelle Chrisment</editor>
+<editor>Marco Fiore</editor>
+<editor>Lionel Tabourier</editor>
+<editor>Keun-Woo Lim</editor>
+<title>Network Traffic Measurement and Analysis Conference, TMA 2019, Paris, France, June 19-21, 2019</title>
+<booktitle>TMA</booktitle>
+<publisher>IEEE</publisher>
+<year>2019</year>
+<isbn>978-3-903176-17-1</isbn>
+<url>db/conf/tma/tma2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-01465" mdate="2018-08-13">
+<author>Thibaud Arnoux</author>
+<author>Lionel Tabourier</author>
+<author>Matthieu Latapy</author>
+<title>Predicting interactions between individuals with structural and dynamical information.</title>
+<year>2018</year>
+<volume>abs/1804.01465</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.01465</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-01465</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/GhanemCT17" mdate="2018-12-20">
+<author>Marwan Ghanem 0001</author>
+<author>Florent Coriat</author>
+<author>Lionel Tabourier</author>
+<title>Ego-betweenness centrality in link streams.</title>
+<pages>667-674</pages>
+<year>2017</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2017</crossref>
+<url>db/conf/asunam/asonam2017.html#GhanemCT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asunam/ArnouxTL17" mdate="2018-11-06">
+<author>Thibaud Arnoux</author>
+<author>Lionel Tabourier</author>
+<author>Matthieu Latapy</author>
+<title>Combining structural and dynamic information to predict activity in link streams.</title>
+<pages>935-942</pages>
+<year>2017</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2017</crossref>
+<url>db/conf/asunam/asonam2017.html#ArnouxTL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/PayenTL17" mdate="2017-07-06">
+<author>Aurore Payen</author>
+<author>Lionel Tabourier</author>
+<author>Matthieu Latapy</author>
+<title>Impact of Temporal Features of Cattle Exchanges on the Size and Speed of Epidemic Outbreaks.</title>
+<pages>84-97</pages>
+<year>2017</year>
+<booktitle>ICCSA (2)</booktitle>
+<crossref>conf/iccsa/2017-2</crossref>
+<url>db/conf/iccsa/iccsa2017-2.html#PayenTL17</url>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/LimSTT16" mdate="2017-12-28">
+<author orcid="0000-0002-5301-7987">Keun Woo Lim</author>
+<author orcid="0000-0002-6129-0676">Stefano Secci</author>
+<author>Lionel Tabourier</author>
+<author>Badis Tebbani</author>
+<title>Characterizing and predicting mobile application usage.</title>
+<pages>82-94</pages>
+<year>2016</year>
+<volume>95</volume>
+<journal>Computer Communications</journal>
+<url>db/journals/comcom/comcom95.html#LimSTT16</url>
+</article>
+</r>
+<r><article key="journals/epjds/TabourierLL16" mdate="2019-06-02">
+<author>Lionel Tabourier</author>
+<author>Anne-Sophie Libert</author>
+<author>Renaud Lambiotte</author>
+<title>Predicting links in ego-networks using temporal information.</title>
+<pages>1</pages>
+<year>2016</year>
+<volume>5</volume>
+<journal>EPJ Data Sci.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1140/epjds/s13688-015-0062-0</ee>
+<url>db/journals/epjds/epjds5.html#TabourierLL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/f-egc/TabourierLL15" mdate="2015-05-11">
+<author>Lionel Tabourier</author>
+<author>Anne-Sophie Libert</author>
+<author>Renaud Lambiotte</author>
+<title>RankMerging: Apprentissage supervisé de classements pour la prédiction de liens dans les grands réseaux sociaux.</title>
+<pages>395-400</pages>
+<year>2015</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2015</crossref>
+<url>db/conf/f-egc/egc2015.html#TabourierLL15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/TabourierLL15" mdate="2018-08-13">
+<author>Lionel Tabourier</author>
+<author>Anne-Sophie Libert</author>
+<author>Renaud Lambiotte</author>
+<title>Predicting links in ego-networks using temporal information.</title>
+<year>2015</year>
+<volume>abs/1512.04776</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1512.04776</ee>
+<url>db/journals/corr/corr1512.html#TabourierLL15</url>
+</article>
+</r>
+<r><inproceedings key="conf/pkdd/TabourierLL14" mdate="2019-05-28">
+<author>Lionel Tabourier</author>
+<author>Anne-Sophie Libert</author>
+<author>Renaud Lambiotte</author>
+<title>RankMerging: Learning to Rank in Large-scale Social Networks.</title>
+<year>2014</year>
+<booktitle>DyNaK</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1229/dynak2014_paper3.pdf</ee>
+<crossref>conf/pkdd/2014dynak</crossref>
+<url>db/conf/pkdd/dynak2014.html#TabourierLL14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/TabourierLL14" mdate="2018-08-13">
+<author>Lionel Tabourier</author>
+<author>Anne-Sophie Libert</author>
+<author>Renaud Lambiotte</author>
+<year>2014</year>
+<volume>abs/1407.2515</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.2515</ee>
+<url>db/journals/corr/corr1407.html#TabourierLL14</url>
+</article>
+</r>
+<r><article key="journals/snam/AllaliTML13" mdate="2017-05-27">
+<author>Oussama Allali</author>
+<author>Lionel Tabourier</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<title>Internal links and pairs as a new tool for the analysis of bipartite complex networks.</title>
+<pages>85-91</pages>
+<year>2013</year>
+<volume>3</volume>
+<journal>Social Netw. Analys. Mining</journal>
+<number>1</number>
+<url>db/journals/snam/snam3.html#AllaliTML13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icwsm/BrahimTG13" mdate="2013-08-20">
+<author>Abdelhamid Salah Brahim</author>
+<author>Lionel Tabourier</author>
+<author>Bénédicte Le Grand</author>
+<title>A Data-Driven Analysis to Question Epidemic Models for Citation Cascades on the Blogosphere.</title>
+<year>2013</year>
+<booktitle>ICWSM</booktitle>
+<crossref>conf/icwsm/2013</crossref>
+<url>db/conf/icwsm/icwsm2013.html#BrahimTG13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1302-0274" mdate="2018-08-13">
+<author>Fernando Peruani</author>
+<author>Lionel Tabourier</author>
+<title>Directedness of information flow in mobile phone communication networks</title>
+<ee type="oa">http://arxiv.org/abs/1302.0274</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1302.0274</volume>
+<url>db/journals/corr/corr1302.html#abs-1302-0274</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1305-0543" mdate="2018-08-13">
+<author>Renaud Lambiotte</author>
+<author>Lionel Tabourier</author>
+<author>Jean-Charles Delvenne</author>
+<title>Burstiness and spreading on temporal networks</title>
+<ee type="oa">http://arxiv.org/abs/1305.0543</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1305.0543</volume>
+<url>db/journals/corr/corr1305.html#abs-1305-0543</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BrahimTG13" mdate="2018-08-13">
+<author>Abdelhamid Salah Brahim</author>
+<author>Lionel Tabourier</author>
+<author>Bénédicte Le Grand</author>
+<title>A data-driven analysis to question epidemic models for citation cascades on the blogosphere.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1306.0424</ee>
+<volume>abs/1306.0424</volume>
+<url>db/journals/corr/corr1306.html#BrahimTG13</url>
+</article>
+</r>
+<r><article key="journals/cn/MitraTR12" mdate="2017-05-18">
+<author>Bivas Mitra</author>
+<author>Lionel Tabourier</author>
+<author>Camille Roth</author>
+<title>Intrinsically dynamic network communities.</title>
+<pages>1041-1053</pages>
+<year>2012</year>
+<volume>56</volume>
+<journal>Computer Networks</journal>
+<number>3</number>
+<url>db/journals/cn/cn56.html#MitraTR12</url>
+</article>
+</r>
+<r><inproceedings key="conf/comsnets/TabourierSP12" mdate="2017-05-21">
+<author>Lionel Tabourier</author>
+<author>Alina Stoica</author>
+<author>Fernando Peruani</author>
+<title>How to detect causality effects on large dynamical communication networks: A case study.</title>
+<pages>1-7</pages>
+<year>2012</year>
+<booktitle>COMSNETS</booktitle>
+<crossref>conf/comsnets/2012</crossref>
+<url>db/conf/comsnets/comsnets2012.html#TabourierSP12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jea/TabourierRC11" mdate="2018-11-06">
+<author>Lionel Tabourier</author>
+<author>Camille Roth</author>
+<author>Jean-Philippe Cointet</author>
+<title>Generating constrained random graphs using multiple edge switches.</title>
+<year>2011</year>
+<volume>16</volume>
+<journal>ACM Journal of Experimental Algorithmics</journal>
+<url>db/journals/jea/jea16.html#TabourierRC11</url>
+</article>
+</r>
+<r><article key="journals/jocs/BrahimGTL11" mdate="2017-05-20">
+<author>Abdelhamid Salah Brahim</author>
+<author>Bénédicte Le Grand</author>
+<author>Lionel Tabourier</author>
+<author>Matthieu Latapy</author>
+<title>Citations among blogs in a hierarchy of communities: Method and case study.</title>
+<pages>247-252</pages>
+<year>2011</year>
+<volume>2</volume>
+<journal>J. Comput. Science</journal>
+<number>3</number>
+<url>db/journals/jocs/jocs2.html#BrahimGTL11</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1104-4418" mdate="2018-08-13">
+<author>Oussama Allali</author>
+<author>Lionel Tabourier</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<title>Internal links and pairs as a new tool for the analysis of bipartite complex networks</title>
+<ee type="oa">http://arxiv.org/abs/1104.4418</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1104.4418</volume>
+<url>db/journals/corr/corr1104.html#abs-1104-4418</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1111-2018" mdate="2018-08-13">
+<author>Bivas Mitra</author>
+<author>Lionel Tabourier</author>
+<author>Camille Roth</author>
+<title>Intrinsically Dynamic Network Communities</title>
+<ee type="oa">http://arxiv.org/abs/1111.2018</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1111.2018</volume>
+<url>db/journals/corr/corr1111.html#abs-1111-2018</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1012-3023" mdate="2018-08-13">
+<author>Lionel Tabourier</author>
+<author>Camille Roth</author>
+<author>Jean-Philippe Cointet</author>
+<title>Generating constrained random graphs using multiple edge switches</title>
+<ee type="oa">http://arxiv.org/abs/1012.3023</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1012.3023</volume>
+<url>db/journals/corr/corr1012.html#abs-1012-3023</url>
+</article>
+</r>
+<coauthors n="27" nc="2">
+<co c="0"><na f="a/Allali:Oussama">Oussama Allali</na></co>
+<co c="0"><na f="a/Arnoux:Thibaud">Thibaud Arnoux</na></co>
+<co c="0"><na f="b/Bernardes:Daniel_Faria">Daniel Faria Bernardes</na></co>
+<co c="0"><na f="b/Brahim:Abdelhamid_Salah">Abdelhamid Salah Brahim</na></co>
+<co c="0"><na f="c/Chrisment:Isabelle">Isabelle Chrisment</na></co>
+<co c="0"><na f="c/Cointet:Jean=Philippe">Jean-Philippe Cointet</na></co>
+<co c="0"><na f="c/Coriat:Florent">Florent Coriat</na></co>
+<co c="0"><na f="d/Delvenne:Jean=Charles">Jean-Charles Delvenne</na></co>
+<co c="0"><na f="f/Fiore:Marco">Marco Fiore</na></co>
+<co c="0"><na f="g/Ghanem_0001:Marwan">Marwan Ghanem 0001</na></co>
+<co c="0"><na f="g/Grand:B=eacute=n=eacute=dicte_Le">Bénédicte Le Grand</na></co>
+<co c="0"><na f="l/Lambiotte:Renaud">Renaud Lambiotte</na></co>
+<co c="0"><na f="l/Latapy:Matthieu">Matthieu Latapy</na></co>
+<co c="0"><na f="l/Libert:Anne=Sophie">Anne-Sophie Libert</na></co>
+<co c="0"><na f="l/Lim:Keun_Woo">Keun Woo Lim</na></co>
+<co c="0"><na f="l/Lim:Keun=Woo">Keun-Woo Lim</na></co>
+<co c="0"><na f="m/Magnien:Cl=eacute=mence">Clémence Magnien</na></co>
+<co c="0"><na f="m/Mitra:Bivas">Bivas Mitra</na></co>
+<co c="1"><na f="m/Morales:Pedro_Ramaciotti">Pedro Ramaciotti Morales</na></co>
+<co c="0"><na f="p/Payen:Aurore">Aurore Payen</na></co>
+<co c="0"><na f="p/Peruani:Fernando">Fernando Peruani</na></co>
+<co c="1"><na f="p/Prieur:Christophe">Christophe Prieur</na></co>
+<co c="0"><na f="r/Roth:Camille">Camille Roth</na></co>
+<co c="0"><na f="s/Secci:Stefano">Stefano Secci</na></co>
+<co c="0"><na f="s/Stoica:Alina">Alina Stoica</na></co>
+<co c="0"><na f="t/Tebbani:Badis">Badis Tebbani</na></co>
+<co c="1"><na f="u/Ung:Sylvain">Sylvain Ung</na></co>
+</coauthors>
+</dblpperson>
+

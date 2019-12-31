@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Jean-François Pradat-Peyre" n="22">
+<person key="homepages/65/4396" mdate="2009-06-10">
+<author>Jean-François Pradat-Peyre</author>
+</person>
+<r><inproceedings key="conf/codit/ZairiZRP18" mdate="2018-06-28">
+<author>Sajeh Zairi</author>
+<author>Belhassen Zouari</author>
+<author>Hamdi Rahal</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>A generic generalized stochastic Petri nets model for the performance analysis of FMS considering the resources failures.</title>
+<pages>737-742</pages>
+<year>2018</year>
+<booktitle>CoDIT</booktitle>
+<crossref>conf/codit/2018</crossref>
+<url>db/conf/codit/codit2018.html#ZairiZRP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/or/BouquetCDCP18" mdate="2019-09-16">
+<author>Valentin Bouquet</author>
+<author>Kymble Christophe</author>
+<author>François Delbot</author>
+<author>Gaétan Le Chat</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Minimum Dominating Set and Maximum Independent Set for Evaluation of EU Funding Polices in Collaboration Networks.</title>
+<pages>243-249</pages>
+<year>2018</year>
+<booktitle>OR</booktitle>
+<crossref>conf/or/2018</crossref>
+<url>db/conf/or/or2018.html#BouquetCDCP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adaEurope/KaiserP09" mdate="2017-05-26">
+<author>Claude Kaiser</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Weak Fairness Semantic Drawbacks in Java Multithreading.</title>
+<pages>90-104</pages>
+<year>2009</year>
+<booktitle>Ada-Europe</booktitle>
+<crossref>conf/adaEurope/2009</crossref>
+<url>db/conf/adaEurope/adaEurope2009.html#KaiserP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adaEurope/KaiserPP08" mdate="2017-05-26">
+<author>Claude Kaiser</author>
+<author>Christophe Pajault</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Concurrent Program Metrics Drawn by Quasar.</title>
+<pages>101-114</pages>
+<year>2008</year>
+<booktitle>Ada-Europe</booktitle>
+<crossref>conf/adaEurope/2008</crossref>
+<url>db/conf/adaEurope/adaEurope2008.html#KaiserPP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/PajaultPR08" mdate="2018-06-26">
+<author>Christophe Pajault</author>
+<author>Jean-François Pradat-Peyre</author>
+<author>Pierre Rousseau</author>
+<title>Adapting Petri Nets Reductions to Promela Specifications.</title>
+<pages>84-98</pages>
+<year>2008</year>
+<booktitle>FORTE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-68855-6_6</ee>
+<crossref>conf/forte/2008</crossref>
+<url>db/conf/forte/forte2008.html#PajaultPR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adaEurope/KaiserPP07" mdate="2017-05-26">
+<author>Claude Kaiser</author>
+<author>Christophe Pajault</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Modelling Remote Concurrency with Ada.</title>
+<pages>192-207</pages>
+<year>2007</year>
+<crossref>conf/adaEurope/2007</crossref>
+<booktitle>Ada-Europe</booktitle>
+<url>db/conf/adaEurope/adaEurope2007.html#KaiserPP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/EvangelistaPP07" mdate="2018-06-26">
+<author>Sami Evangelista</author>
+<author>Christophe Pajault</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>A Simple Positive Flows Computation Algorithm for a Large Subclass of Colored Nets.</title>
+<pages>177-195</pages>
+<year>2007</year>
+<crossref>conf/forte/2007</crossref>
+<booktitle>FORTE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-73196-2_12</ee>
+<url>db/conf/forte/forte2007.html#EvangelistaPP07</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppl/HaddadP06" mdate="2017-05-17">
+<author>Serge Haddad</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>New Efficient Petri Nets Reductions for Parallel Programs Verification.</title>
+<pages>101-116</pages>
+<year>2006</year>
+<volume>16</volume>
+<journal>Parallel Processing Letters</journal>
+<number>1</number>
+<url>db/journals/ppl/ppl16.html#HaddadP06</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/EvangelistaP06" mdate="2017-05-26">
+<author>Sami Evangelista</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>On the Computation of Stubborn Sets of Colored Petri Nets.</title>
+<pages>146-165</pages>
+<year>2006</year>
+<crossref>conf/apn/2006</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn2006.html#EvangelistaP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmics/PajaultP06" mdate="2017-05-21">
+<author>Christophe Pajault</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Distributed Colored Petri Net Model-Checking with Cyclades.</title>
+<pages>347-361</pages>
+<year>2006</year>
+<crossref>conf/fmics/2006</crossref>
+<booktitle>FMICS/PDMC</booktitle>
+<url>db/conf/fmics/fmics2006.html#PajaultP06</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/forte/2006" mdate="2019-05-14">
+<editor>Elie Najm</editor>
+<editor>Jean-François Pradat-Peyre</editor>
+<editor>Véronique Donzeau-Gouge</editor>
+<title>Formal Techniques for Networked and Distributed Systems - FORTE 2006, 26th IFIP WG 6.1 International Conference, Paris, France, September 26-29, 2006.</title>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4229</volume>
+<publisher>Springer</publisher>
+<year>2006</year>
+<isbn>3-540-46219-8</isbn>
+<booktitle>FORTE</booktitle>
+<url>db/conf/forte/forte2006.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/adaEurope/EvangelistaKPPR05" mdate="2017-05-26">
+<author>Sami Evangelista</author>
+<author>Claude Kaiser</author>
+<author>Christophe Pajault</author>
+<author>Jean-François Pradat-Peyre</author>
+<author>Pierre Rousseau</author>
+<title>Dynamic Tasks Verification with Quasar.</title>
+<pages>91-104</pages>
+<year>2005</year>
+<crossref>conf/adaEurope/2005</crossref>
+<booktitle>Ada-Europe</booktitle>
+<url>db/conf/adaEurope/adaEurope2005.html#EvangelistaKPPR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atva/EvangelistaHP05" mdate="2017-05-21">
+<author>Sami Evangelista</author>
+<author>Serge Haddad</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Syntactical Colored Petri Nets Reductions.</title>
+<pages>202-216</pages>
+<year>2005</year>
+<crossref>conf/atva/2005</crossref>
+<booktitle>ATVA</booktitle>
+<url>db/conf/atva/atva2005.html#EvangelistaHP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/EvangelistaP05" mdate="2017-05-17">
+<author>Sami Evangelista</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Memory Efficient State Space Storage in Explicit Software Model Checking.</title>
+<pages>43-57</pages>
+<year>2005</year>
+<crossref>conf/spin/2005</crossref>
+<booktitle>SPIN</booktitle>
+<url>db/conf/spin/spin2005.html#EvangelistaP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adaEurope/EvangelistaKPR03" mdate="2017-05-26">
+<author>Sami Evangelista</author>
+<author>Claude Kaiser</author>
+<author>Jean-François Pradat-Peyre</author>
+<author>Pierre Rousseau</author>
+<title>Quasar: A New Tool for Concurrent Ada Programs Analysis.</title>
+<pages>168-181</pages>
+<year>2003</year>
+<crossref>conf/adaEurope/2003</crossref>
+<booktitle>Ada-Europe</booktitle>
+<url>db/conf/adaEurope/adaEurope2003.html#EvangelistaKPR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigada/EvangelistaKPR03" mdate="2018-11-06">
+<author>Sami Evangelista</author>
+<author>Claude Kaiser</author>
+<author>Jean-François Pradat-Peyre</author>
+<author>Pierre Rousseau</author>
+<title>Verifying linear time temporal logic properties of concurrent Ada programs with quasar.</title>
+<pages>17-24</pages>
+<year>2003</year>
+<crossref>conf/sigada/2003</crossref>
+<booktitle>SIGAda</booktitle>
+<url>db/conf/sigada/sigada2003.html#EvangelistaKPR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/PoitrenaudP00" mdate="2019-08-06">
+<author>Denis Poitrenaud</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Pre- and Post-agglomerations for LTL Model Checking.</title>
+<pages>387-408</pages>
+<year>2000</year>
+<crossref>conf/apn/2000</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn2000.html#PoitrenaudP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adaEurope/BrunetonP99" mdate="2017-05-24">
+<author>Eric Bruneton</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Automatic Verification of Concurrent Ada Programs.</title>
+<pages>146-157</pages>
+<year>1999</year>
+<crossref>conf/adaEurope/1999</crossref>
+<booktitle>Ada-Europe</booktitle>
+<url>db/conf/adaEurope/adaEurope1999.html#BrunetonP99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hase/BarkaouiP98" mdate="2017-05-25">
+<author>Kamel Barkaoui</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Verification in Concurrent Programming with Petri Nets Structural Techniques.</title>
+<pages>124-133</pages>
+<year>1998</year>
+<crossref>conf/hase/1998</crossref>
+<booktitle>HASE</booktitle>
+<url>db/conf/hase/hase1998.html#BarkaouiP98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apsec/BarkaouiKP97" mdate="2017-05-17">
+<author>Kamel Barkaoui</author>
+<author>Claude Kaiser</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Petri nets based proofs of Ada 95 solution for preference control.</title>
+<pages>238-248</pages>
+<year>1997</year>
+<crossref>conf/apsec/1997</crossref>
+<booktitle>APSEC</booktitle>
+<url>db/conf/apsec/apsec1997.html#BarkaouiKP97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigada/KaiserP97" mdate="2019-08-04">
+<author>Claude Kaiser</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Comparing the Reliability Provided by Tasks or Protected Objects for Implementing a Resource Allocation Service: a Case Study.</title>
+<pages>51-65</pages>
+<year>1997</year>
+<crossref>conf/sigada/1997</crossref>
+<booktitle>TRI-Ada</booktitle>
+<url>db/conf/sigada/triada97.html#KaiserP97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/BarkaouiP96" mdate="2017-05-22">
+<author>Kamel Barkaoui</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>On Liveness and Controlled Siphons in Petri Nets.</title>
+<pages>57-72</pages>
+<year>1996</year>
+<crossref>conf/apn/1996</crossref>
+<booktitle>Application and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn96.html#BarkaouiP96</url>
+</inproceedings>
+</r>
+<coauthors n="17" nc="3">
+<co c="0"><na f="b/Barkaoui:Kamel">Kamel Barkaoui</na></co>
+<co c="1"><na f="b/Bouquet:Valentin">Valentin Bouquet</na></co>
+<co c="-1"><na f="b/Bruneton:Eric">Eric Bruneton</na></co>
+<co c="1"><na f="c/Chat:Ga=eacute=tan_Le">Gaétan Le Chat</na></co>
+<co c="1"><na f="c/Christophe:Kymble">Kymble Christophe</na></co>
+<co c="1"><na f="d/Delbot:Fran=ccedil=ois">François Delbot</na></co>
+<co c="2"><na f="d/Donzeau=Gouge:V=eacute=ronique">Véronique Donzeau-Gouge</na></co>
+<co c="0"><na f="e/Evangelista:Sami">Sami Evangelista</na></co>
+<co c="0"><na f="h/Haddad:Serge">Serge Haddad</na></co>
+<co c="0"><na f="k/Kaiser:Claude">Claude Kaiser</na></co>
+<co c="2"><na f="n/Najm:Elie">Elie Najm</na></co>
+<co c="0"><na f="p/Pajault:Christophe">Christophe Pajault</na></co>
+<co c="0"><na f="p/Poitrenaud:Denis">Denis Poitrenaud</na></co>
+<co c="0"><na f="r/Rahal:Hamdi">Hamdi Rahal</na></co>
+<co c="0"><na f="r/Rousseau:Pierre">Pierre Rousseau</na></co>
+<co c="0"><na f="z/Zairi:Sajeh">Sajeh Zairi</na></co>
+<co c="0"><na f="z/Zouari:Belhassen">Belhassen Zouari</na></co>
+</coauthors>
+</dblpperson>
+

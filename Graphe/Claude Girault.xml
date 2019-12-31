@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Claude Girault" n="16">
+<person key="homepages/18/952" mdate="2009-06-09">
+<author>Claude Girault</author>
+</person>
+<r><book key="books/daglib/0007558" mdate="2011-02-03">
+<author>Claude Girault</author>
+<author>Rüdiger Valk</author>
+<title>Petri nets for systems engineering - a guide to modeling, verification, and applications.</title>
+<pages>I-XVI, 1-607</pages>
+<publisher>Springer</publisher>
+<year>2003</year>
+<isbn>978-3-540-41217-5</isbn>
+</book>
+</r>
+<r><inproceedings key="conf/apn/FislerG98" mdate="2017-05-23">
+<author>Kathi Fisler</author>
+<author>Claude Girault</author>
+<title>Modelling and Model Checking a Distributed Shared Memory Consistency Protocol.</title>
+<pages>84-103</pages>
+<year>1998</year>
+<crossref>conf/apn/1998</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn98.html#FislerG98</url>
+</inproceedings>
+</r>
+<r><article key="journals/isci/JayaramMPG96" mdate="2017-05-27">
+<author>Rajeev Jayaram</author>
+<author>Rajib Mall</author>
+<author>Lalit M. Patnaik</author>
+<author>Claude Girault</author>
+<title>A Formalism to Model Task Execution in Distributed Systems.</title>
+<pages>113-129</pages>
+<year>1996</year>
+<volume>88</volume>
+<journal>Inf. Sci.</journal>
+<number>1-4</number>
+<url>db/journals/isci/isci88.html#JayaramMPG96</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/BenalycherifG96" mdate="2017-05-22">
+<author>Mohamed-Lyes Benalycherif</author>
+<author>Claude Girault</author>
+<title>Behavioural and Structural Composition Rules Preserving Liveness by Synchronization for Colored FIFO Nets.</title>
+<pages>73-92</pages>
+<year>1996</year>
+<crossref>conf/apn/1996</crossref>
+<booktitle>Application and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn96.html#BenalycherifG96</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/apdc/1994" mdate="2002-01-03">
+<editor>Claude Girault</editor>
+<title>Applications in Parallel and Distributed Computing, Proceedings of the IFIP WG10.3 Working Conference on Applications in Parallel and Distributed Computing, Caracas, Venezuela, 18-22 April, 1994</title>
+<booktitle>Applications in Parallel and Distributed Computing</booktitle>
+<series href="db/series/ifip/transactions.html">IFIP Transactions</series>
+<volume>A-44</volume>
+<publisher>North-Holland</publisher>
+<year>1994</year>
+<isbn>0-444-81870-7</isbn>
+<url>db/conf/apdc/apdc1994.html</url>
+</proceedings>
+</r>
+<r><article key="journals/tnn/PetrowskiDG93" mdate="2018-11-14">
+<author>Alain Pétrowski</author>
+<author>Gérard Dreyfus</author>
+<author>Claude Girault</author>
+<title>Performance analysis of a pipelined backpropagation parallel algorithm.</title>
+<pages>970-981</pages>
+<year>1993</year>
+<volume>4</volume>
+<journal>IEEE Trans. Neural Networks</journal>
+<number>6</number>
+<url>db/journals/tnn/tnn4.html#PetrowskiDG93</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/GiraultCH86" mdate="2017-05-19">
+<author>Claude Girault</author>
+<author>C. Chatelain</author>
+<author>Serge Haddad</author>
+<title>Specification and properties of a cache coherence protocol model.</title>
+<pages>1-20</pages>
+<year>1986</year>
+<crossref>conf/apn/1986</crossref>
+<booktitle>European Workshop on Applications and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn1986.html#GiraultCH86</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/HaddadG86" mdate="2017-05-19">
+<author>Serge Haddad</author>
+<author>Claude Girault</author>
+<title>Algebraic structure of flows of a regular coloured net.</title>
+<pages>73-88</pages>
+<year>1986</year>
+<crossref>conf/apn/1986</crossref>
+<booktitle>European Workshop on Applications and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn1986.html#HaddadG86</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pnpm/EstraillierGI85" mdate="2015-09-18">
+<author>Pascal Estraillier</author>
+<author>Claude Girault</author>
+<author>Jean-Michel Ilié</author>
+<title>Satellite Protocol Modeling by Synchronous Predicate Transition Nets.</title>
+<pages>280-287</pages>
+<year>1985</year>
+<crossref>conf/pnpm/1985</crossref>
+<booktitle>PNPM</booktitle>
+<url>db/conf/pnpm/pnpm1985.html#EstraillierGI85</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/CarlierCG84" mdate="2017-05-19">
+<author>J. Carlier</author>
+<author>Philippe Chrétienne</author>
+<author>Claude Girault</author>
+<title>Modelling scheduling problems with timed Petri nets.</title>
+<pages>62-82</pages>
+<year>1984</year>
+<crossref>conf/apn/1984</crossref>
+<booktitle>European Workshop on Applications and Theory in Petri Nets</booktitle>
+<url>db/conf/apn/apn1984.html#CarlierCG84</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/EstraillierG82" mdate="2017-05-26">
+<author>Pascal Estraillier</author>
+<author>Claude Girault</author>
+<title>Petri Nets Specification of Virtual Ring Protocols.</title>
+<pages>74-85</pages>
+<year>1982</year>
+<crossref>conf/apn/1982</crossref>
+<booktitle>European Workshop on Applications and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn1982.html#EstraillierG82</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/EstraillierG82" mdate="2013-07-25">
+<author>Pascal Estraillier</author>
+<author>Claude Girault</author>
+<title>Petri Net Specification of a New Protocol for Controlling a Distributed System Organization.</title>
+<pages>654-659</pages>
+<year>1982</year>
+<crossref>conf/icdcs/1982</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs82.html#EstraillierG82</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/apn/1981" mdate="2018-06-19">
+<editor>Claude Girault</editor>
+<editor>Wolfgang Reisig</editor>
+<title>Application and Theory of Petri Nets, Selected Papers from the First and the Second European Workshop on Application and Theory of Petri Nets, Strasbourg, France 23.-26. September 1980, Bad Honnef, Germany, 28.-30. September 1981</title>
+<booktitle>Selected Papers from the First and the Second European Workshop on Application and Theory of Petri Nets</booktitle>
+<series href="db/series/ifb/index.html">Informatik-Fachberichte</series>
+<volume>52</volume>
+<publisher>Springer</publisher>
+<year>1982</year>
+<isbn>3-540-11189-1</isbn>
+<url>db/conf/apn/apn1981.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/apn/BerthelotGR81" mdate="2017-05-26">
+<author>Gérard Berthelot</author>
+<author>Claude Girault</author>
+<author>Gérard Roucairol</author>
+<title>Petri Net Modelling and Reliability of Distributed Algorithms.</title>
+<pages>3-10</pages>
+<year>1981</year>
+<crossref>conf/apn/1981</crossref>
+<booktitle>Selected Papers from the First and the Second European Workshop on Application and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn1981.html#BerthelotGR81</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/BaerGGR81" mdate="2012-05-14">
+<author>Jean-Loup Baer</author>
+<author>Georges Gardarin</author>
+<author>Claude Girault</author>
+<author>Gérard Roucairol</author>
+<title>The Two-Step Commitment Protocol: Modeling, Specification and Proof Methodology.</title>
+<pages>363-373</pages>
+<year>1981</year>
+<crossref>conf/icse/1981</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse81.html#BaerGGR81</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ac/AndreDGS75" mdate="2017-05-19">
+<author>Charles André</author>
+<author>M. Diaz</author>
+<author>Claude Girault</author>
+<author>Joseph Sifakis</author>
+<title>Survey of French Research and Applications Based on Petri Nets.</title>
+<pages>321-345</pages>
+<year>1979</year>
+<crossref>conf/ac/1975nt</crossref>
+<booktitle>Advanced Course: Net Theory and Applications</booktitle>
+<url>db/conf/ac/nt.html#AndreDGS75</url>
+</inproceedings>
+</r>
+<coauthors n="22" nc="6">
+<co c="3"><na f="a/Andr=eacute=:Charles">Charles André</na></co>
+<co c="0"><na f="b/Baer:Jean=Loup">Jean-Loup Baer</na></co>
+<co c="-1"><na f="b/Benalycherif:Mohamed=Lyes">Mohamed-Lyes Benalycherif</na></co>
+<co c="0"><na f="b/Berthelot:G=eacute=rard">Gérard Berthelot</na></co>
+<co c="4"><na f="c/Carlier:J=">J. Carlier</na></co>
+<co c="1"><na f="c/Chatelain:C=">C. Chatelain</na></co>
+<co c="4"><na f="c/Chr=eacute=tienne:Philippe">Philippe Chrétienne</na></co>
+<co c="3"><na f="d/Diaz:M=">M. Diaz</na></co>
+<co c="5"><na f="d/Dreyfus:G=eacute=rard">Gérard Dreyfus</na></co>
+<co c="1"><na f="e/Estraillier:Pascal">Pascal Estraillier</na></co>
+<co c="-1"><na f="f/Fisler:Kathi">Kathi Fisler</na></co>
+<co c="0"><na f="g/Gardarin:Georges">Georges Gardarin</na></co>
+<co c="1"><na f="h/Haddad:Serge">Serge Haddad</na></co>
+<co c="1"><na f="i/Ili=eacute=:Jean=Michel">Jean-Michel Ilié</na></co>
+<co c="2"><na f="j/Jayaram:Rajeev">Rajeev Jayaram</na></co>
+<co c="2"><na f="m/Mall:Rajib">Rajib Mall</na></co>
+<co c="2"><na f="p/Patnaik:Lalit_M=">Lalit M. Patnaik</na></co>
+<co c="5"><na f="p/P=eacute=trowski:Alain">Alain Pétrowski</na></co>
+<co c="0"><na f="r/Reisig:Wolfgang">Wolfgang Reisig</na></co>
+<co c="0"><na f="r/Roucairol:G=eacute=rard">Gérard Roucairol</na></co>
+<co c="3"><na f="s/Sifakis:Joseph">Joseph Sifakis</na></co>
+<co c="0"><na f="v/Valk:R=uuml=diger">Rüdiger Valk</na></co>
+</coauthors>
+</dblpperson>
+

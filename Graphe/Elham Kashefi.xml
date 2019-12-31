@@ -1,0 +1,778 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Elham Kashefi" n="55">
+<person key="homepages/70/563" mdate="2016-10-29">
+<author>Elham Kashefi</author>
+<note type="affiliation">University of Edinburgh, UK</note>
+<note type="affiliation">Imperial College London, UK</note>
+<url>https://ekashefi.wordpress.com/</url>
+<url>https://www.inf.ed.ac.uk/people/staff/Elham_Kashefi.html</url>
+<url>https://scholar.google.com/citations?user=oXpgxTIAAAAJ</url>
+<url>https://www.researchgate.net/profile/Elham_Kashefi</url>
+<url>http://andrej.com/mathematicians/K/Kashefi_Elham.html</url>
+</person>
+<r><article key="journals/cacm/WalldenK19" mdate="2019-12-27">
+<author orcid="0000-0002-0255-6542">Petros Wallden</author>
+<author>Elham Kashefi</author>
+<title>Cyber security in the quantum era.</title>
+<pages>120</pages>
+<year>2019</year>
+<volume>62</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm62.html#WalldenK19</url>
+</article>
+</r>
+<r><article key="journals/mst/GheorghiuKK19" mdate="2019-10-19">
+<author orcid="0000-0001-6225-7168">Alexandru Gheorghiu</author>
+<author orcid="0000-0002-6885-5916">Theodoros Kapourniotis</author>
+<author>Elham Kashefi</author>
+<title>Verification of Quantum Computation: An Overview of Existing Approaches.</title>
+<pages>715-808</pages>
+<year>2019</year>
+<volume>63</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s00224-018-9872-3</ee>
+<url>db/journals/mst/mst63.html#GheorghiuKK19</url>
+</article>
+</r>
+<r><inproceedings key="conf/asiacrypt/CojocaruCKW19" mdate="2019-11-26">
+<author>Alexandru Cojocaru</author>
+<author>Léo Colisson</author>
+<author>Elham Kashefi</author>
+<author>Petros Wallden</author>
+<title>QFactory: Classically-Instructed Remote Secret Qubits Preparation.</title>
+<pages>615-645</pages>
+<year>2019</year>
+<booktitle>ASIACRYPT (1)</booktitle>
+<crossref>conf/asiacrypt/2019-1</crossref>
+<url>db/conf/asiacrypt/asiacrypt2019-1.html#CojocaruCKW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/AaronsonCGK19" mdate="2019-08-08">
+<author>Scott Aaronson</author>
+<author>Alexandru Cojocaru</author>
+<author orcid="0000-0001-6225-7168">Alexandru Gheorghiu</author>
+<author>Elham Kashefi</author>
+<title>Complexity-Theoretic Limitations on Blind Delegated Quantum Computation.</title>
+<pages>6:1-6:13</pages>
+<year>2019</year>
+<booktitle>ICALP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICALP.2019.6</ee>
+<crossref>conf/icalp/2019</crossref>
+<url>db/conf/icalp/icalp2019.html#AaronsonCGK19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-02214" mdate="2019-04-26">
+<author>Brian Coyle</author>
+<author>Daniel Mills</author>
+<author>Vincent Danos</author>
+<author>Elham Kashefi</author>
+<title>The Born Supremacy: Quantum Advantage and Training of an Ising Born Machine.</title>
+<year>2019</year>
+<volume>abs/1904.02214</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.02214</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-02214</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-06303" mdate="2019-04-27">
+<author>Alexandru Cojocaru</author>
+<author>Léo Colisson</author>
+<author>Elham Kashefi</author>
+<author>Petros Wallden</author>
+<title>QFactory: classically-instructed remote secret qubits preparation.</title>
+<year>2019</year>
+<volume>abs/1904.06303</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.06303</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-06303</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-02126" mdate="2019-10-09">
+<author>Myrto Arapinis</author>
+<author>Mahshid Delavar</author>
+<author>Mina Doosti</author>
+<author>Elham Kashefi</author>
+<title>Quantum Physical Unclonable Functions: Possibilities and Impossibilities.</title>
+<year>2019</year>
+<volume>abs/1910.02126</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.02126</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-02126</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/ArapinisDDK19" mdate="2019-10-21">
+<author>Myrto Arapinis</author>
+<author>Mahshid Delavar</author>
+<author>Mina Doosti</author>
+<author>Elham Kashefi</author>
+<title>Quantum Physical Unclonable Functions: Possibilities and Impossibilities.</title>
+<pages>1181</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">https://eprint.iacr.org/2019/1181</ee>
+<url>db/journals/iacr/iacr2019.html#ArapinisDDK19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/CojocaruCKW19" mdate="2019-11-20">
+<author>Alexandru Cojocaru</author>
+<author>Léo Colisson</author>
+<author>Elham Kashefi</author>
+<author>Petros Wallden</author>
+<title>QFactory: classically-instructed remote secret qubits preparation.</title>
+<pages>1237</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">https://eprint.iacr.org/2019/1237</ee>
+<url>db/journals/iacr/iacr2019.html#CojocaruCKW19</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/NavehKWB18" mdate="2018-04-24">
+<author>Yehuda Naveh</author>
+<author>Elham Kashefi</author>
+<author>James R. Wootton</author>
+<author>Koen Bertels</author>
+<title>Theoretical and practical aspects of verification of quantum computers.</title>
+<pages>721-730</pages>
+<year>2018</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2018</crossref>
+<url>db/conf/date/date2018.html#NavehKWB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1806-10565" mdate="2018-09-10">
+<author>Brian Coyle</author>
+<author>Matty J. Hoban</author>
+<author>Elham Kashefi</author>
+<title>One-Sided Device-Independent Certification of Unbounded Random Numbers.</title>
+<booktitle>PC@UCNC</booktitle>
+<year>2018</year>
+<pages>14-26</pages>
+<crossref>journals/corr/abs-1807-10563</crossref>
+<ee type="oa">https://doi.org/10.4204/EPTCS.273.2</ee>
+<ee type="oa">http://arxiv.org/abs/1806.10565</ee>
+<url>db/series/eptcs/eptcs273.html#abs-1806-10565</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-08759" mdate="2018-08-13">
+<author>Alexandru Cojocaru</author>
+<author>Léo Colisson</author>
+<author>Elham Kashefi</author>
+<author>Petros Wallden</author>
+<title>Delegated Pseudo-Secret Random Qubit Generator.</title>
+<year>2018</year>
+<volume>abs/1802.08759</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.08759</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-08759</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-05083" mdate="2018-11-01">
+<author>Myrto Arapinis</author>
+<author>Elham Kashefi</author>
+<author>Nikolaos Lamprou</author>
+<author>Anna Pappa</author>
+<title>A Comprehensive Analysis of Quantum E-voting Protocols.</title>
+<year>2018</year>
+<volume>abs/1810.05083</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.05083</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-05083</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/ercim/GheorghiuK18" mdate="2019-05-22">
+<author>Alexandru Gheorghiu</author>
+<author>Elham Kashefi</author>
+<title>Keeping Quantum Computers Honest (or Verification of Quantum Computing).</title>
+<year>2018</year>
+<volume>2018</volume>
+<journal>ERCIM News</journal>
+<number>112</number>
+<ee type="oa">https://ercim-news.ercim.eu/en112/special/keeping-quantum-computers-honest-or-verification-of-quantum-computing</ee>
+<url>db/journals/ercim/ercim2018.html#GheorghiuK18</url>
+</article>
+</r>
+<r><article key="journals/cryptography/KashefiW17" mdate="2019-06-02">
+<author>Elham Kashefi</author>
+<author orcid="0000-0002-0255-6542">Petros Wallden</author>
+<title>Garbled Quantum Computation.</title>
+<pages>6</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Cryptography</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.3390/cryptography1010006</ee>
+<url>db/journals/cryptography/cryptography1.html#KashefiW17</url>
+</article>
+</r>
+<r><article key="journals/cryptography/KashefiP17" mdate="2018-08-14">
+<author>Elham Kashefi</author>
+<author>Anna Pappa</author>
+<title>Multiparty Delegated Quantum Computing.</title>
+<pages>12</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Cryptography</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/cryptography1020012</ee>
+<url>db/journals/cryptography/cryptography1.html#KashefiP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/csr/GheorghiuKK17" mdate="2017-05-22">
+<author>Alexandru Gheorghiu</author>
+<author>Theodoros Kapourniotis</author>
+<author>Elham Kashefi</author>
+<title>Verification of Quantum Computation and the Price of Trust.</title>
+<pages>15-19</pages>
+<year>2017</year>
+<booktitle>CSR</booktitle>
+<crossref>conf/csr/2017</crossref>
+<url>db/conf/csr/csr2017.html#GheorghiuKK17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KashefiMW17" mdate="2018-08-13">
+<author>Elham Kashefi</author>
+<author>Luka Music</author>
+<author>Petros Wallden</author>
+<title>The Quantum Cut-and-Choose Technique and Quantum Two-Party Computation.</title>
+<year>2017</year>
+<volume>abs/1703.03754</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.03754</ee>
+<url>db/journals/corr/corr1703.html#KashefiMW17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AaronsonCGK17" mdate="2018-08-13">
+<author>Scott Aaronson</author>
+<author>Alexandru Cojocaru</author>
+<author>Alexandru Gheorghiu</author>
+<author>Elham Kashefi</author>
+<title>On the implausibility of classical client blind quantum computing.</title>
+<year>2017</year>
+<volume>abs/1704.08482</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.08482</ee>
+<url>db/journals/corr/corr1704.html#AaronsonCGK17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-06984" mdate="2018-08-13">
+<author>Alexandru Gheorghiu</author>
+<author>Theodoros Kapourniotis</author>
+<author>Elham Kashefi</author>
+<title>Verification of quantum computation: An overview of existing approaches.</title>
+<year>2017</year>
+<volume>abs/1709.06984</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.06984</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-06984</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-07211" mdate="2018-08-13">
+<author>Jean-Charles Faugère</author>
+<author>Kelsey Horan</author>
+<author>Delaram Kahrobaei</author>
+<author>Marc Kaplan</author>
+<author>Elham Kashefi</author>
+<author>Ludovic Perret</author>
+<title>Fast Quantum Algorithm for Solving Multivariate Quadratic Equations.</title>
+<year>2017</year>
+<volume>abs/1712.07211</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.07211</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-07211</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FaugereHKKKP17" mdate="2018-08-14">
+<author>Jean-Charles Faugère</author>
+<author>Kelsey Horan</author>
+<author>Delaram Kahrobaei</author>
+<author>Marc Kaplan</author>
+<author>Elham Kashefi</author>
+<author>Ludovic Perret</author>
+<title>Fast Quantum Algorithm for Solving Multivariate Quadratic Equations.</title>
+<pages>1236</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2017/1236</ee>
+<url>db/journals/iacr/iacr2017.html#FaugereHKKKP17</url>
+</article>
+</r>
+<r><article key="journals/qic/DunjkoKK16" mdate="2015-12-28">
+<author>Vedran Dunjko</author>
+<author>Theodoros Kapourniotis</author>
+<author>Elham Kashefi</author>
+<title>Quantum-enhanced secure delegated classical computing.</title>
+<pages>61-86</pages>
+<year>2016</year>
+<volume>16</volume>
+<journal>Quantum Information and Computation</journal>
+<number>1and2</number>
+<url>db/journals/qic/qic16.html#DunjkoKK16</url>
+</article>
+</r>
+<r><inproceedings key="conf/recosoc/KashefiZG16" mdate="2017-05-25">
+<author>Elham Kashefi</author>
+<author>Hamid R. Zarandi</author>
+<author>Ann Gordon-Ross</author>
+<title>Postponing wearout failures in chip multiprocessors using thermal management and thread migration.</title>
+<pages>1-7</pages>
+<year>2016</year>
+<booktitle>ReCoSoC</booktitle>
+<crossref>conf/recosoc/2016</crossref>
+<url>db/conf/recosoc/recosoc2016.html#KashefiZG16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DunjkoK16" mdate="2018-08-13">
+<author>Vedran Dunjko</author>
+<author>Elham Kashefi</author>
+<title>Blind quantum computing with two almost identical states.</title>
+<year>2016</year>
+<volume>abs/1604.01586</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.01586</ee>
+<url>db/journals/corr/corr1604.html#DunjkoK16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KashefiW16" mdate="2018-08-13">
+<author>Elham Kashefi</author>
+<author>Petros Wallden</author>
+<title>Garbled Quantum Computation.</title>
+<year>2016</year>
+<volume>abs/1606.06931</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.06931</ee>
+<url>db/journals/corr/corr1606.html#KashefiW16</url>
+</article>
+</r>
+<r><article key="journals/qic/MorimaeDK15" mdate="2015-01-23">
+<author>Tomoyuki Morimae</author>
+<author>Vedran Dunjko</author>
+<author>Elham Kashefi</author>
+<title>Ground state blind quantum computation on AKLT state.</title>
+<pages>200-234</pages>
+<year>2015</year>
+<volume>15</volume>
+<journal>Quantum Information and Computation</journal>
+<number>3and4</number>
+<url>db/journals/qic/qic15.html#MorimaeDK15</url>
+</article>
+</r>
+<r><article key="journals/qic/PiusSK15" mdate="2015-05-12">
+<author>Einar Pius</author>
+<author>Raphael Dias da Silva</author>
+<author>Elham Kashefi</author>
+<title>Optimising the information flow of one-way quantum computations.</title>
+<pages>853-884</pages>
+<year>2015</year>
+<volume>15</volume>
+<journal>Quantum Information and Computation</journal>
+<number>9and10</number>
+<url>db/journals/qic/qic15.html#PiusSK15</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/MarkhamK14" mdate="2017-05-23">
+<author>Damian Markham</author>
+<author>Elham Kashefi</author>
+<title>Entanglement, Flow and Classical Simulatability in Measurement Based Quantum Computation.</title>
+<pages>427-453</pages>
+<year>2014</year>
+<booktitle>Horizons of the Mind</booktitle>
+<crossref>conf/birthday/2014panangaden</crossref>
+<url>db/conf/birthday/panangaden2014.html#MarkhamK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tqc/KapourniotisKD14" mdate="2019-10-19">
+<author orcid="0000-0002-6885-5916">Theodoros Kapourniotis</author>
+<author>Elham Kashefi</author>
+<author>Animesh Datta</author>
+<title>Blindness and Verification of Quantum Computation with One Pure Qubit.</title>
+<pages>176-204</pages>
+<year>2014</year>
+<booktitle>TQC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.TQC.2014.176</ee>
+<crossref>conf/tqc/2014</crossref>
+<url>db/conf/tqc/tqc2014.html#KapourniotisKD14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/birthday/2014panangaden" mdate="2019-05-14">
+<editor>Franck van Breugel</editor>
+<editor>Elham Kashefi</editor>
+<editor>Catuscia Palamidessi</editor>
+<editor>Jan Rutten</editor>
+<title>Horizons of the Mind. A Tribute to Prakash Panangaden - Essays Dedicated to Prakash Panangaden on the Occasion of His 60th Birthday</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8464</volume>
+<isbn>978-3-319-06879-4</isbn>
+<booktitle>Horizons of the Mind</booktitle>
+<url>db/conf/birthday/panangaden2014.html</url>
+</proceedings>
+</r>
+<r><article key="journals/mscs/CooperKP13" mdate="2017-05-28">
+<author>S. Barry Cooper</author>
+<author>Elham Kashefi</author>
+<author>Prakash Panangaden</author>
+<title>Preface to special issue: Developments In Computational Models 2010.</title>
+<pages>201-203</pages>
+<year>2013</year>
+<volume>23</volume>
+<journal>Mathematical Structures in Computer Science</journal>
+<number>2</number>
+<url>db/journals/mscs/mscs23.html#CooperKP13</url>
+</article>
+</r>
+<r><article key="journals/mscs/DunjkoK13" mdate="2019-06-02">
+<author orcid="0000-0002-2632-7955">Vedran Dunjko</author>
+<author>Elham Kashefi</author>
+<title>Extended phase map decompositions for unitaries.</title>
+<pages>360-385</pages>
+<year>2013</year>
+<volume>23</volume>
+<journal>Mathematical Structures in Computer Science</journal>
+<number>2</number>
+<url>db/journals/mscs/mscs23.html#DunjkoK13</url>
+</article>
+</r>
+<r><inproceedings key="conf/naacl/BlacoeKL13" mdate="2019-09-11">
+<author>William Blacoe</author>
+<author>Elham Kashefi</author>
+<author>Mirella Lapata</author>
+<title>A Quantum-Theoretic Approach to Distributional Semantics.</title>
+<pages>847-857</pages>
+<year>2013</year>
+<booktitle>HLT-NAACL</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/N13-1105/</ee>
+<crossref>conf/naacl/2013</crossref>
+<url>db/conf/naacl/naacl2013.html#BlacoeKL13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/AndersABKO12" mdate="2018-11-14">
+<author>Janet Anders</author>
+<author orcid="0000-0001-5856-6806">Erika Andersson</author>
+<author orcid="0000-0003-3001-158X">Dan Browne</author>
+<author>Elham Kashefi</author>
+<author>D. K. L. Oi</author>
+<title>Ancilla-driven quantum computation with twisted graph states.</title>
+<pages>51-72</pages>
+<year>2012</year>
+<volume>430</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs430.html#AndersABKO12</url>
+</article>
+</r>
+<r><article key="journals/entcs/SalekSK11" mdate="2017-05-28">
+<author>S. Salek</author>
+<author>F. Seifan</author>
+<author>Elham Kashefi</author>
+<title>Programmable Hamiltonian for One-way Patterns.</title>
+<pages>155-161</pages>
+<year>2011</year>
+<volume>270</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<number>2</number>
+<url>db/journals/entcs/entcs270.html#SalekSK11</url>
+</article>
+</r>
+<r><proceedings key="journals/corr/abs-1207-6821" mdate="2018-09-12">
+<editor>Elham Kashefi</editor>
+<editor>Jean Krivine</editor>
+<editor>Femke van Raamsdonk</editor>
+<title>Proceedings 7th International Workshop on Developments of Computational Methods, DCM 2011, Zurich, Switzerland, 3rd July 2011.</title>
+<booktitle>DCM</booktitle>
+<ee type="oa">https://doi.org/10.4204/EPTCS.88</ee>
+<ee type="oa">http://arxiv.org/abs/1207.6821</ee>
+<year>2011</year>
+<series href="db/series/eptcs/index.html">EPTCS</series>
+<volume>88</volume>
+<url>db/series/eptcs/eptcs88.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/sfm/BroadbentFK10" mdate="2017-11-13">
+<author>Anne Broadbent</author>
+<author>Joseph F. Fitzsimons</author>
+<author>Elham Kashefi</author>
+<title>Measurement-Based and Universal Blind Quantum Computation.</title>
+<pages>43-86</pages>
+<year>2010</year>
+<booktitle>SFM</booktitle>
+<crossref>conf/sfm/2010</crossref>
+<url>db/conf/sfm/sfm2010.html#BroadbentFK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tqc/BrowneKP10" mdate="2019-06-02">
+<author orcid="0000-0003-3001-158X">Dan Browne</author>
+<author>Elham Kashefi</author>
+<author>Simon Perdrix</author>
+<title>Computational Depth Complexity of Measurement-Based Quantum Computation.</title>
+<pages>35-46</pages>
+<year>2010</year>
+<booktitle>TQC</booktitle>
+<crossref>conf/tqc/2010</crossref>
+<url>db/conf/tqc/tqc2010.html#BrowneKP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1006-1431" mdate="2019-06-02">
+<author orcid="0000-0002-2632-7955">Vedran Dunjko</author>
+<author>Elham Kashefi</author>
+<title>Algebraic characterisation of one-way patterns</title>
+<booktitle>DCM</booktitle>
+<year>2010</year>
+<pages>85-100</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.26.8</ee>
+<ee type="oa">http://arxiv.org/abs/1006.1431</ee>
+<crossref>journals/corr/abs-1006-1937</crossref>
+<url>db/series/eptcs/eptcs26.html#abs-1006-1431</url>
+</inproceedings>
+</r>
+<r><proceedings key="journals/corr/abs-1006-1937" mdate="2018-09-12">
+<editor>S. Barry Cooper</editor>
+<editor>Prakash Panangaden</editor>
+<editor>Elham Kashefi</editor>
+<title>Proceedings Sixth Workshop on Developments in Computational Models: Causality, Computation, and Physics, DCM 2010, Edinburgh, Scotland, 9-10th July 2010.</title>
+<booktitle>DCM</booktitle>
+<ee type="oa">https://doi.org/10.4204/EPTCS.26</ee>
+<ee type="oa">http://arxiv.org/abs/1006.1937</ee>
+<year>2010</year>
+<series href="db/series/eptcs/index.html">EPTCS</series>
+<volume>26</volume>
+<url>db/series/eptcs/eptcs26.html</url>
+</proceedings>
+</r>
+<r><article key="journals/entcs/KashefiOBAA09" mdate="2018-11-14">
+<author>Elham Kashefi</author>
+<author>D. K. L. Oi</author>
+<author orcid="0000-0003-3001-158X">Dan Browne</author>
+<author>Janet Anders</author>
+<author>Erika Andersson</author>
+<title>Twisted Graph States for Ancilla-driven Universal Quantum Computation.</title>
+<pages>307-331</pages>
+<year>2009</year>
+<volume>249</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs249.html#KashefiOBAA09</url>
+</article>
+</r>
+<r><article key="journals/tcs/BroadbentK09" mdate="2017-05-28">
+<author>Anne Broadbent</author>
+<author>Elham Kashefi</author>
+<title>Parallelizing quantum circuits.</title>
+<pages>2489-2510</pages>
+<year>2009</year>
+<volume>410</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>26</number>
+<url>db/journals/tcs/tcs410.html#BroadbentK09</url>
+</article>
+</r>
+<r><inproceedings key="conf/focs/BroadbentFK09" mdate="2017-11-13">
+<author>Anne Broadbent</author>
+<author>Joseph F. Fitzsimons</author>
+<author>Elham Kashefi</author>
+<title>Universal Blind Quantum Computation.</title>
+<pages>517-526</pages>
+<year>2009</year>
+<booktitle>FOCS</booktitle>
+<crossref>conf/focs/2009</crossref>
+<url>db/conf/focs/focs2009.html#BroadbentFK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-0909-4479" mdate="2018-09-12">
+<author>Elham Kashefi</author>
+<author>Damian Markham</author>
+<author>Mehdi Mhalla</author>
+<author>Simon Perdrix</author>
+<title>Information Flow in Secret Sharing Protocols.</title>
+<booktitle>DCM</booktitle>
+<year>2009</year>
+<pages>87-97</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.9.10</ee>
+<ee type="oa">http://arxiv.org/abs/0909.4479</ee>
+<crossref>journals/corr/abs-0911-2829</crossref>
+<url>db/series/eptcs/eptcs9.html#abs-0909-4479</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tqc/BeaudrapDKR08" mdate="2017-05-19">
+<author>J. Niel de Beaudrap</author>
+<author>Vincent Danos</author>
+<author>Elham Kashefi</author>
+<author>Martin Rötteler</author>
+<title>Quadratic Form Expansions for Unitaries.</title>
+<pages>29-46</pages>
+<year>2008</year>
+<booktitle>TQC</booktitle>
+<crossref>conf/tqc/2008</crossref>
+<url>db/conf/tqc/tqc2008.html#BeaudrapDKR08</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/DanosDKP07" mdate="2017-05-28">
+<author>Vincent Danos</author>
+<author>Ellie D'Hondt</author>
+<author>Elham Kashefi</author>
+<author>Prakash Panangaden</author>
+<title>Distributed Measurement-based Quantum Computation.</title>
+<pages>73-94</pages>
+<year>2007</year>
+<volume>170</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs170.html#DanosDKP07</url>
+</article>
+</r>
+<r><article key="journals/entcs/DanosK07" mdate="2017-05-28">
+<author>Vincent Danos</author>
+<author>Elham Kashefi</author>
+<title>Pauli Measurements are Universal.</title>
+<pages>95-100</pages>
+<year>2007</year>
+<volume>170</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs170.html#DanosK07</url>
+</article>
+</r>
+<r><article key="journals/jacm/DanosKP07" mdate="2018-11-06">
+<author>Vincent Danos</author>
+<author>Elham Kashefi</author>
+<author>Prakash Panangaden</author>
+<title>The measurement calculus.</title>
+<year>2007</year>
+<volume>54</volume>
+<journal>J. ACM</journal>
+<number>2</number>
+<url>db/journals/jacm/jacm54.html#DanosKP07</url>
+<pages>8</pages>
+</article>
+</r>
+<r><article key="journals/tcs/KashefiK07" mdate="2017-05-28">
+<author>Elham Kashefi</author>
+<author>Iordanis Kerenidis</author>
+<title>Statistical Zero Knowledge and quantum one-way functions.</title>
+<pages>101-116</pages>
+<year>2007</year>
+<volume>378</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/tcs/tcs378.html#KashefiK07</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalp/DanosKP06" mdate="2017-05-23">
+<author>Vincent Danos</author>
+<author>Elham Kashefi</author>
+<author>Prakash Panangaden</author>
+<title>The One Way to Quantum Computation.</title>
+<pages>13-21</pages>
+<year>2006</year>
+<crossref>conf/icalp/2006-2</crossref>
+<booktitle>ICALP (2)</booktitle>
+<url>db/conf/icalp/icalp2006-2.html#DanosKP06</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Kashefi03" mdate="2016-09-16">
+<author>Elham Kashefi</author>
+<title>Complexity analysis and semantics for quantum computation.</title>
+<year>2003</year>
+<school>Imperial College London, UK</school>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><article publtype="informal" key="journals/corr/quant-ph-0306077" mdate="2018-08-13">
+<author>Elham Kashefi</author>
+<title>Quantum Domain Theory - Definitions and Applications</title>
+<ee type="oa">http://arxiv.org/abs/quant-ph/0306077</ee>
+<year>2003</year>
+<journal>CoRR</journal>
+<volume>quant-ph/0306077</volume>
+<url>db/journals/corr/corr0306.html#quant-ph-0306077</url>
+</article>
+</r>
+<r><article key="journals/qic/KashefiNV02" mdate="2011-09-22">
+<author>Elham Kashefi</author>
+<author>Harumichi Nishimura</author>
+<author>Vlatko Vedral</author>
+<title>On quantum one-way permutations.</title>
+<pages>379-398</pages>
+<year>2002</year>
+<volume>2</volume>
+<journal>Quantum Information and Computation</journal>
+<number>5</number>
+<url>db/journals/qic/qic2.html#KashefiNV02</url>
+</article>
+</r>
+<r><inproceedings key="conf/cccg/EdalatLK01" mdate="2013-11-14">
+<author>Abbas Edalat</author>
+<author>André Lieutier</author>
+<author>Elham Kashefi</author>
+<title>The convex hull in a new model of computation.</title>
+<pages>93-96</pages>
+<year>2001</year>
+<crossref>conf/cccg/2001</crossref>
+<booktitle>CCCG</booktitle>
+<url>db/conf/cccg/cccg2001.html#EdalatLK01</url>
+</inproceedings>
+</r>
+<coauthors n="59" nc="8">
+<co c="0"><na f="a/Aaronson:Scott">Scott Aaronson</na></co>
+<co c="0"><na f="a/Anders:Janet">Janet Anders</na></co>
+<co c="0"><na f="a/Andersson:Erika">Erika Andersson</na></co>
+<co c="2"><na f="a/Arapinis:Myrto">Myrto Arapinis</na></co>
+<co c="0"><na f="b/Beaudrap:J=_Niel_de">J. Niel de Beaudrap</na></co>
+<co c="3"><na f="b/Bertels:Koen">Koen Bertels</na></co>
+<co c="4"><na f="b/Blacoe:William">William Blacoe</na></co>
+<co c="0"><na f="b/Breugel:Franck_van">Franck van Breugel</na></co>
+<co c="0"><na f="b/Broadbent:Anne">Anne Broadbent</na></co>
+<co c="0"><na f="b/Browne:Dan">Dan Browne</na></co>
+<co c="0"><na f="c/Cojocaru:Alexandru">Alexandru Cojocaru</na></co>
+<co c="0"><na f="c/Colisson:L=eacute=o">Léo Colisson</na></co>
+<co c="0"><na f="c/Cooper:S=_Barry">S. Barry Cooper</na></co>
+<co c="0"><na f="c/Coyle:Brian">Brian Coyle</na></co>
+<co c="0"><na f="d/Danos:Vincent">Vincent Danos</na></co>
+<co c="0"><na f="d/Datta:Animesh">Animesh Datta</na></co>
+<co c="2"><na f="d/Delavar:Mahshid">Mahshid Delavar</na></co>
+<co c="0"><na f="d/D=Hondt:Ellie">Ellie D'Hondt</na></co>
+<co c="2"><na f="d/Doosti:Mina">Mina Doosti</na></co>
+<co c="0"><na f="d/Dunjko:Vedran">Vedran Dunjko</na></co>
+<co c="0"><na f="e/Edalat:Abbas">Abbas Edalat</na></co>
+<co c="1"><na f="f/Faug=egrave=re:Jean=Charles">Jean-Charles Faugère</na></co>
+<co c="0"><na f="f/Fitzsimons:Joseph_F=">Joseph F. Fitzsimons</na></co>
+<co c="0"><na f="g/Gheorghiu:Alexandru">Alexandru Gheorghiu</na></co>
+<co c="7"><na f="g/Gordon=Ross:Ann">Ann Gordon-Ross</na></co>
+<co c="0"><na f="h/Hoban:Matty_J=">Matty J. Hoban</na></co>
+<co c="1"><na f="h/Horan:Kelsey">Kelsey Horan</na></co>
+<co c="1"><na f="k/Kahrobaei:Delaram">Delaram Kahrobaei</na></co>
+<co c="1"><na f="k/Kaplan:Marc">Marc Kaplan</na></co>
+<co c="0"><na f="k/Kapourniotis:Theodoros">Theodoros Kapourniotis</na></co>
+<co c="1"><na f="k/Kerenidis:Iordanis">Iordanis Kerenidis</na></co>
+<co c="0"><na f="k/Krivine:Jean">Jean Krivine</na></co>
+<co c="2"><na f="l/Lamprou:Nikolaos">Nikolaos Lamprou</na></co>
+<co c="4"><na f="l/Lapata:Mirella">Mirella Lapata</na></co>
+<co c="0"><na f="l/Lieutier:Andr=eacute=">André Lieutier</na></co>
+<co c="0"><na f="m/Markham:Damian">Damian Markham</na></co>
+<co c="0"><na f="m/Mhalla:Mehdi">Mehdi Mhalla</na></co>
+<co c="0"><na f="m/Mills:Daniel">Daniel Mills</na></co>
+<co c="0"><na f="m/Morimae:Tomoyuki">Tomoyuki Morimae</na></co>
+<co c="0"><na f="m/Music:Luka">Luka Music</na></co>
+<co c="3"><na f="n/Naveh:Yehuda">Yehuda Naveh</na></co>
+<co c="0"><na f="n/Nishimura:Harumichi">Harumichi Nishimura</na></co>
+<co c="0"><na f="o/Oi:D=_K=_L=">D. K. L. Oi</na></co>
+<co c="0"><na f="p/Palamidessi:Catuscia">Catuscia Palamidessi</na></co>
+<co c="0"><na f="p/Panangaden:Prakash">Prakash Panangaden</na></co>
+<co c="2"><na f="p/Pappa:Anna">Anna Pappa</na></co>
+<co c="0"><na f="p/Perdrix:Simon">Simon Perdrix</na></co>
+<co c="1"><na f="p/Perret:Ludovic">Ludovic Perret</na></co>
+<co c="6"><na f="p/Pius:Einar">Einar Pius</na></co>
+<co c="0"><na f="r/Raamsdonk:Femke_van">Femke van Raamsdonk</na></co>
+<co c="0"><na f="r/R=ouml=tteler:Martin">Martin Rötteler</na></co>
+<co c="0"><na f="r/Rutten:Jan">Jan Rutten</na></co>
+<co c="5"><na f="s/Salek:S=">S. Salek</na></co>
+<co c="5"><na f="s/Seifan:F=">F. Seifan</na></co>
+<co c="6"><na f="s/Silva:Raphael_Dias_da">Raphael Dias da Silva</na></co>
+<co c="0"><na f="v/Vedral:Vlatko">Vlatko Vedral</na></co>
+<co c="0"><na f="w/Wallden:Petros">Petros Wallden</na></co>
+<co c="3"><na f="w/Wootton:James_R=">James R. Wootton</na></co>
+<co c="7"><na f="z/Zarandi:Hamid_R=">Hamid R. Zarandi</na></co>
+</coauthors>
+</dblpperson>
+

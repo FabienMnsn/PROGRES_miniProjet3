@@ -1,0 +1,818 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Pascal Poizat" n="61">
+<person key="homepages/p/PascalPoizat" mdate="2019-01-10">
+<author>Pascal Poizat</author>
+<url>https://pages.lip6.fr/Pascal.Poizat/</url>
+<url>http://www.lami.univ-evry.fr/~poizat/</url>
+<url>https://scholar.google.com/citations?user=D31qw90AAAAJ</url>
+<url>https://twitter.com/pascalpoizat</url>
+<url>https://github.com/pascalpoizat</url>
+<url>https://orcid.org/0000-0001-7979-9510</url>
+<note type="affiliation">Paris West University Nanterre La Défense, LIP6</note>
+</person>
+<r><article key="journals/scp/KrishnaPS19" mdate="2018-12-26">
+<author>Ajay Krishna 0001</author>
+<author orcid="0000-0001-7979-9510">Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<title>Checking business process evolution.</title>
+<pages>1-26</pages>
+<year>2019</year>
+<volume>170</volume>
+<journal>Sci. Comput. Program.</journal>
+<url>db/journals/scp/scp170.html#KrishnaPS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/bpm/HouhouBPQ19" mdate="2019-08-23">
+<author>Sara Houhou</author>
+<author>Souheib Baarir</author>
+<author>Pascal Poizat</author>
+<author>Philippe Quéinnec</author>
+<title>A First-Order Logic Semantics for Communication-Parametric BPMN Collaborations.</title>
+<pages>52-68</pages>
+<year>2019</year>
+<booktitle>BPM</booktitle>
+<crossref>conf/bpm/2019</crossref>
+<url>db/conf/bpm/bpm2019.html#HouhouBPQ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifm/KrishnaPS17" mdate="2018-12-17">
+<author>Ajay Krishna 0001</author>
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<title>VBPMN: Automated Verification of BPMN Processes (Tool Paper).</title>
+<pages>323-331</pages>
+<year>2017</year>
+<booktitle>IFM</booktitle>
+<crossref>conf/ifm/2017</crossref>
+<url>db/conf/ifm/ifm2017.html#KrishnaPS17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsc/GudemannPSY16" mdate="2017-05-28">
+<author>Matthias Güdemann</author>
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<author>Lina Ye</author>
+<title>VerChor: A Framework for the Design and Verification of Choreographies.</title>
+<pages>647-660</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<url>db/journals/tsc/tsc9.html#GudemannPSY16</url>
+</article>
+</r>
+<r><inproceedings key="conf/facs2/PoizatSK16" mdate="2018-12-17">
+<author orcid="0000-0001-7979-9510">Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<author>Ajay Krishna 0001</author>
+<title>Checking Business Process Evolution.</title>
+<pages>36-53</pages>
+<year>2016</year>
+<booktitle>FACS</booktitle>
+<crossref>conf/facs2/2016</crossref>
+<url>db/conf/facs2/facs2016.html#PoizatSK16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/PlouzeauP15" mdate="2016-04-06">
+<author>Noël Plouzeau</author>
+<author>Pascal Poizat</author>
+<title>Introduction.</title>
+<pages>635-636</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>6</number>
+<url>db/journals/tsi/tsi34.html#PlouzeauP15</url>
+</article>
+</r>
+<r><incollection key="books/sp/wsf14/ChenPY14" mdate="2017-05-16">
+<author>Min Chen</author>
+<author>Pascal Poizat</author>
+<author>Yuhong Yan</author>
+<title>Adaptive Composition and QoS Optimization of Conversational Services Through Graph Planning Encoding.</title>
+<pages>423-449</pages>
+<year>2014</year>
+<booktitle>Web Services Foundations</booktitle>
+<crossref>books/sp/wsf2014</crossref>
+<url>db/books/collections/wsf2014.html#ChenPY14</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/fase/GudemannPSD13" mdate="2018-06-26">
+<author>Matthias Güdemann</author>
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<author>Alexandre Dumont</author>
+<title>VerChor: A Framework for Verifying Choreographies.</title>
+<pages>226-230</pages>
+<year>2013</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-37057-1_16</ee>
+<crossref>conf/fase/2013</crossref>
+<url>db/conf/fase/fase2013.html#GudemannPSD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoc/KhefifiPS13" mdate="2019-02-13">
+<author>Rania Khéfifi</author>
+<author>Pascal Poizat</author>
+<author>Fatiha Saïs</author>
+<title>Automatic Composition of Form-Based Services in a Context-Aware Personal Information Space.</title>
+<pages>575-583</pages>
+<year>2013</year>
+<booktitle>ICSOC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-45005-1_48</ee>
+<crossref>conf/icsoc/2013</crossref>
+<url>db/conf/icsoc/icsoc2013.html#KhefifiPS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issre/NguyenPZ13" mdate="2017-05-25">
+<author>Huu Nghia Nguyen</author>
+<author>Pascal Poizat</author>
+<author>Fatiha Zaïdi</author>
+<title>Automatic skeleton generation for data-aware service choreographies.</title>
+<pages>320-329</pages>
+<year>2013</year>
+<booktitle>ISSRE</booktitle>
+<crossref>conf/issre/2013</crossref>
+<url>db/conf/issre/issre2013.html#NguyenPZ13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tse/MateescuPS12" mdate="2017-06-29">
+<author>Radu Mateescu 0001</author>
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<title>Adaptation of Service Protocols Using Process Algebra and On-the-Fly Reduction Techniques.</title>
+<pages>755-777</pages>
+<year>2012</year>
+<volume>38</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>4</number>
+<url>db/journals/tse/tse38.html#MateescuPS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/KhefifiPS12" mdate="2017-05-26">
+<author>Rania Khéfifi</author>
+<author>Pascal Poizat</author>
+<author>Fatiha Saïs</author>
+<title>Modeling and Querying Context-Aware Personal Information Spaces.</title>
+<pages>103-110</pages>
+<year>2012</year>
+<booktitle>DEXA (2)</booktitle>
+<crossref>conf/dexa/2012-2</crossref>
+<url>db/conf/dexa/dexa2012-2.html#KhefifiPS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/KhefifiPS12" mdate="2016-06-30">
+<author>Rania Khéfifi</author>
+<author>Pascal Poizat</author>
+<author>Fatiha Saïs</author>
+<title>Modélisation et interrogation d'espaces d'informations personnelles sensibles au contexte.</title>
+<pages>573-574</pages>
+<year>2012</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2012</crossref>
+<url>db/conf/f-egc/egc2012.html#KhefifiPS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hase/NguyenPZ12" mdate="2017-05-25">
+<author>Huu Nghia Nguyen</author>
+<author>Pascal Poizat</author>
+<author>Fatiha Zaïdi</author>
+<title>Online Verification of Value-Passing Choreographies through Property-Oriented Passive Testing.</title>
+<pages>106-113</pages>
+<year>2012</year>
+<booktitle>HASE</booktitle>
+<crossref>conf/hase/2012</crossref>
+<url>db/conf/hase/hase2012.html#NguyenPZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoc/NguyenPZ12" mdate="2019-02-13">
+<author>Huu Nghia Nguyen</author>
+<author>Pascal Poizat</author>
+<author>Fatiha Zaïdi</author>
+<title>A Symbolic Framework for the Conformance Checking of Value-Passing Choreographies.</title>
+<pages>525-532</pages>
+<year>2012</year>
+<booktitle>ICSOC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-34321-6_36</ee>
+<crossref>conf/icsoc/2012</crossref>
+<url>db/conf/icsoc/icsoc2012.html#NguyenPZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/NguyenPZ12" mdate="2018-11-06">
+<author>Huu Nghia Nguyen</author>
+<author>Pascal Poizat</author>
+<author>Fatiha Zaïdi</author>
+<title>Passive conformance testing of service choreographies.</title>
+<pages>1528-1535</pages>
+<year>2012</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2012</crossref>
+<url>db/conf/sac/sac2012.html#NguyenPZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/PoizatS12" mdate="2018-11-06">
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<title>Checking the realizability of BPMN 2.0 choreographies.</title>
+<pages>1927-1934</pages>
+<year>2012</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2012</crossref>
+<url>db/conf/sac/sac2012.html#PoizatS12</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/CanalPV11" mdate="2018-11-14">
+<author orcid="0000-0002-8002-0372">Carlos Canal</author>
+<author>Pascal Poizat</author>
+<author orcid="0000-0003-2702-5702">Mirko Viroli</author>
+<title>Preface.</title>
+<pages>1-2</pages>
+<year>2011</year>
+<volume>76</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>1</number>
+<url>db/journals/scp/scp76.html#CanalPV11</url>
+</article>
+</r>
+<r><article key="journals/scp/CanalPS11" mdate="2017-06-08">
+<author orcid="0000-0002-8002-0372">Carlos Canal</author>
+<author>Pascal Poizat</author>
+<author>Marjan Sirjani</author>
+<title>Preface.</title>
+<pages>631-632</pages>
+<year>2011</year>
+<volume>76</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>8</number>
+<url>db/journals/scp/scp76.html#CanalPS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/tap/BentakoukPZ11" mdate="2017-05-19">
+<author>Lina Bentakouk</author>
+<author>Pascal Poizat</author>
+<author>Fatiha Zaïdi</author>
+<title>Checking the Behavioral Conformance of Web Services with Symbolic Testing and an SMT Solver.</title>
+<pages>33-50</pages>
+<year>2011</year>
+<booktitle>TAP</booktitle>
+<crossref>conf/tap/2011</crossref>
+<url>db/conf/tap/tap2011.html#BentakoukPZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoc/YanPZ10" mdate="2019-02-13">
+<author>Yuhong Yan</author>
+<author>Pascal Poizat</author>
+<author>Ludeng Zhao</author>
+<title>Repair vs. Recomposition for Broken Service Compositions.</title>
+<pages>152-166</pages>
+<year>2010</year>
+<booktitle>ICSOC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-17358-5_11</ee>
+<crossref>conf/icsoc/2010</crossref>
+<url>db/conf/icsoc/icsoc2010.html#YanPZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/YanPZ10" mdate="2017-05-19">
+<author>Yuhong Yan</author>
+<author>Pascal Poizat</author>
+<author>Ludeng Zhao</author>
+<title>Self-Adaptive Service Composition Through Graphplan Repair.</title>
+<pages>624-627</pages>
+<year>2010</year>
+<booktitle>ICWS</booktitle>
+<crossref>conf/icws/2010</crossref>
+<url>db/conf/icws/icws2010.html#YanPZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isola/PoizatY10" mdate="2017-05-23">
+<author>Pascal Poizat</author>
+<author>Yuhong Yan</author>
+<title>Adaptive Composition of Conversational Services through Graph Planning Encoding.</title>
+<pages>35-50</pages>
+<year>2010</year>
+<booktitle>ISoLA (2)</booktitle>
+<crossref>conf/isola/2010-2</crossref>
+<url>db/conf/isola/isola2010-2.html#PoizatY10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sera/YanPZ10" mdate="2017-05-19">
+<author>Yuhong Yan</author>
+<author>Pascal Poizat</author>
+<author>Ludeng Zhao</author>
+<title>Repairing Service Compositions in a Changing World.</title>
+<pages>17-36</pages>
+<year>2010</year>
+<booktitle>SERA (selected papers)</booktitle>
+<crossref>conf/sera/2010s</crossref>
+<url>db/conf/sera/sera2010s.html#YanPZ10</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/CanalPS09" mdate="2017-06-05">
+<author orcid="0000-0002-8002-0372">Carlos Canal</author>
+<author>Pascal Poizat</author>
+<author>Marjan Sirjani</author>
+<title>Preface.</title>
+<pages>1-2</pages>
+<year>2009</year>
+<volume>229</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<number>2</number>
+<url>db/journals/entcs/entcs229.html#CanalPS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/pts/BentakoukPZ09" mdate="2018-06-26">
+<author>Lina Bentakouk</author>
+<author>Pascal Poizat</author>
+<author>Fatiha Zaïdi</author>
+<title>A Formal Framework for Service Orchestration Testing Based on Symbolic Transition Systems.</title>
+<pages>16-32</pages>
+<year>2009</year>
+<booktitle>TestCom/FATES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-05031-2_2</ee>
+<crossref>conf/pts/2009</crossref>
+<url>db/conf/pts/testcom2009.html#BentakoukPZ09</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/CanalPV08" mdate="2018-11-14">
+<author orcid="0000-0002-8002-0372">Carlos Canal</author>
+<author>Pascal Poizat</author>
+<author orcid="0000-0003-2702-5702">Mirko Viroli</author>
+<title>Preface.</title>
+<pages>1-3</pages>
+<year>2008</year>
+<volume>194</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<number>4</number>
+<url>db/journals/entcs/entcs194.html#CanalPV08</url>
+</article>
+</r>
+<r><article key="journals/entcs/CuboSCPP08" mdate="2017-06-05">
+<author orcid="0000-0001-9178-7643">Javier Cubo</author>
+<author>Gwen Salaün</author>
+<author orcid="0000-0002-8002-0372">Carlos Canal</author>
+<author orcid="0000-0002-7125-8434">Ernesto Pimentel</author>
+<author>Pascal Poizat</author>
+<title>A Model-Based Approach to the Verification and Adaptation of WF/.NET Components.</title>
+<pages>39-55</pages>
+<year>2008</year>
+<volume>215</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs215.html#CuboSCPP08</url>
+</article>
+</r>
+<r><article key="journals/jucs/CanalMP08" mdate="2015-04-24">
+<author>Carlos Canal</author>
+<author>Juan Manuel Murillo</author>
+<author>Pascal Poizat</author>
+<title>Software Adaptation.</title>
+<pages>2107-2109</pages>
+<year>2008</year>
+<volume>14</volume>
+<journal>J. UCS</journal>
+<number>13</number>
+<url>db/journals/jucs/jucs14.html#CanalMP08</url>
+</article>
+</r>
+<r><article key="journals/tse/CanalPS08" mdate="2017-06-09">
+<author orcid="0000-0002-8002-0372">Carlos Canal</author>
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<title>Model-Based Adaptation of Behavioral Mismatching Components.</title>
+<pages>546-563</pages>
+<year>2008</year>
+<volume>34</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>4</number>
+<url>db/journals/tse/tse34.html#CanalPS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/fase/MellitiPM08" mdate="2018-06-26">
+<author>Tarek Melliti</author>
+<author>Pascal Poizat</author>
+<author orcid="0000-0003-2821-7714">Sonia Ben Mokhtar</author>
+<title>Distributed Behavioural Adaptation for the Automatic Composition of Semantic Services.</title>
+<pages>146-162</pages>
+<year>2008</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-78743-3_12</ee>
+<crossref>conf/fase/2008</crossref>
+<url>db/conf/fase/fase2008.html#MellitiPM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoc/MateescuPS08" mdate="2019-02-13">
+<author>Radu Mateescu 0001</author>
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<title>Adaptation of Service Protocols Using Process Algebra and On-the-Fly Reduction Techniques.</title>
+<pages>84-99</pages>
+<year>2008</year>
+<booktitle>ICSOC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-89652-4_10</ee>
+<crossref>conf/icsoc/2008</crossref>
+<url>db/conf/icsoc/icsoc2008.html#MateescuPS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoc/BeaucheP08" mdate="2019-02-13">
+<author>Sandrine Beauche</author>
+<author>Pascal Poizat</author>
+<title>Automated Service Composition with Adaptive Planning.</title>
+<pages>530-537</pages>
+<year>2008</year>
+<booktitle>ICSOC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-89652-4_42</ee>
+<crossref>conf/icsoc/2008</crossref>
+<url>db/conf/icsoc/icsoc2008.html#BeaucheP08</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/PoizatST07" mdate="2017-05-28">
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<author>Massimo Tivoli</author>
+<title>An Adaptation-based Approach to Incrementally Build Component Systems.</title>
+<pages>155-170</pages>
+<year>2007</year>
+<volume>182</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs182.html#PoizatST07</url>
+</article>
+</r>
+<r><article key="journals/entcs/BeckerCDMPT07" mdate="2019-03-22">
+<author>Steffen Becker 0001</author>
+<author orcid="0000-0002-8002-0372">Carlos Canal</author>
+<author>Nikolay Diakov</author>
+<author orcid="0000-0003-4961-4030">Juan Manuel Murillo</author>
+<author>Pascal Poizat</author>
+<author>Massimo Tivoli</author>
+<title>Preface.</title>
+<pages>1-3</pages>
+<year>2007</year>
+<volume>189</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs189.html#BeckerCDMPT07</url>
+</article>
+</r>
+<r><article key="journals/tse/AttiogbePS07" mdate="2019-05-31">
+<author>J. Christian Attiogbé</author>
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<title>A Formal and Tool-Equipped Approach for the Integration of State Diagrams and Formal Datatypes.</title>
+<pages>157-170</pages>
+<year>2007</year>
+<volume>33</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>3</number>
+<url>db/journals/tse/tse33.html#AttiogbePS07</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecoopw/CanalMP07" mdate="2017-06-15">
+<author orcid="0000-0002-8002-0372">Carlos Canal</author>
+<author orcid="0000-0003-4961-4030">Juan Manuel Murillo</author>
+<author>Pascal Poizat</author>
+<title>Practical Approaches for Software Adaptation.</title>
+<pages>154-165</pages>
+<year>2007</year>
+<booktitle>ECOOP Workshops</booktitle>
+<crossref>conf/ecoopw/2007</crossref>
+<url>db/conf/ecoopw/ecoopw2007.html#CanalMP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmoods/PoizatS07" mdate="2018-06-26">
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<title>Adaptation of Open Component-Based Systems.</title>
+<pages>141-156</pages>
+<year>2007</year>
+<crossref>conf/fmoods/2007</crossref>
+<booktitle>FMOODS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-72952-5_9</ee>
+<url>db/conf/fmoods/fmoods2007.html#PoizatS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/HaddadP07" mdate="2018-06-26">
+<author>Serge Haddad</author>
+<author>Pascal Poizat</author>
+<title>Transactional Reduction of Component Compositions.</title>
+<pages>341-357</pages>
+<year>2007</year>
+<crossref>conf/forte/2007</crossref>
+<booktitle>FORTE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-73196-2_22</ee>
+<url>db/conf/forte/forte2007.html#HaddadP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/MateescuPS07" mdate="2018-11-06">
+<author>Radu Mateescu 0001</author>
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<title>Behavioral adaptation of component compositions based on process algebra encodings.</title>
+<pages>385-388</pages>
+<year>2007</year>
+<crossref>conf/kbse/2007</crossref>
+<booktitle>ASE</booktitle>
+<url>db/conf/kbse/ase2007.html#MateescuPS07</url>
+</inproceedings>
+</r>
+<r><article key="journals/Lobjet/CanalMP06" mdate="2017-05-27">
+<author>Carlos Canal</author>
+<author>Juan Manuel Murillo</author>
+<author>Pascal Poizat</author>
+<title>Software Adaptation.</title>
+<pages>9-31</pages>
+<year>2006</year>
+<volume>12</volume>
+<journal>L'OBJET</journal>
+<number>1</number>
+<url>db/journals/Lobjet/Lobjet12.html#CanalMP06</url>
+</article>
+</r>
+<r><article key="journals/jucs/PoizatR06" mdate="2017-05-17">
+<author>Pascal Poizat</author>
+<author>Jean-Claude Royer</author>
+<title>A Formal Architectural Description Language based on Symbolic Transition Systems and Temporal Logic</title>
+<pages>1741-1782</pages>
+<year>2006</year>
+<volume>12</volume>
+<journal>J. UCS</journal>
+<number>12</number>
+<url>db/journals/jucs/jucs12.html#PoizatR06</url>
+</article>
+</r>
+<r><inproceedings key="conf/cal/CanalPS06" mdate="2006-09-11">
+<author>Carlos Canal</author>
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<title>Adaptation de composants logiciels Une approche automatisée basée sur des expressions régulières de vecteurs de synchronisation.</title>
+<pages>31-39</pages>
+<year>2006</year>
+<crossref>conf/cal/2006</crossref>
+<booktitle>CAL</booktitle>
+<url>db/conf/cal/cal2006.html#CanalPS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoopw/BeckerCDMPT06" mdate="2019-03-22">
+<author>Steffen Becker 0001</author>
+<author>Carlos Canal</author>
+<author>Nikolay Diakov</author>
+<author>Juan Manuel Murillo</author>
+<author>Pascal Poizat</author>
+<author>Massimo Tivoli</author>
+<title>Coordination and Adaptation Techniques: Bridging the Gap Between Design and Implementation.</title>
+<pages>72-86</pages>
+<year>2006</year>
+<crossref>conf/ecoopw/2006</crossref>
+<booktitle>ECOOP Workshops</booktitle>
+<url>db/conf/ecoopw/ecoopw2006.html#BeckerCDMPT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmoods/PoizatRS06" mdate="2018-06-26">
+<author>Pascal Poizat</author>
+<author>Jean-Claude Royer</author>
+<author>Gwen Salaün</author>
+<title>Bounded Analysis and Decomposition for Behavioural Descriptions of Components.</title>
+<pages>33-47</pages>
+<year>2006</year>
+<crossref>conf/fmoods/2006</crossref>
+<booktitle>FMOODS</booktitle>
+<ee type="oa">https://doi.org/10.1007/11768869_5</ee>
+<url>db/conf/fmoods/fmoods2006.html#PoizatRS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmoods/CanalPS06" mdate="2018-06-26">
+<author orcid="0000-0002-8002-0372">Carlos Canal</author>
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<title>Synchronizing Behavioural Mismatch in Software Composition.</title>
+<pages>63-77</pages>
+<year>2006</year>
+<crossref>conf/fmoods/2006</crossref>
+<booktitle>FMOODS</booktitle>
+<ee type="oa">https://doi.org/10.1007/11768869_7</ee>
+<url>db/conf/fmoods/fmoods2006.html#CanalPS06</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/SalaunP05" mdate="2017-05-28">
+<author>Gwen Salaün</author>
+<author>Pascal Poizat</author>
+<title>Interacting Extended State Diagrams.</title>
+<pages>49-57</pages>
+<year>2005</year>
+<volume>115</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs115.html#SalaunP05</url>
+</article>
+</r>
+<r><inproceedings key="conf/soco/PavelNPR05" mdate="2017-05-23">
+<author>Sebastian Pavel</author>
+<author>Jacques Noyé</author>
+<author>Pascal Poizat</author>
+<author>Jean-Claude Royer</author>
+<title>A Java Implementation of a Component Model with Explicit Symbolic Protocols.</title>
+<pages>115-124</pages>
+<year>2005</year>
+<crossref>conf/soco/2005</crossref>
+<booktitle>Software Composition</booktitle>
+<url>db/conf/soco/sc2005.html#PavelNPR05</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/AiguieBP04" mdate="2017-05-28">
+<author>Marc Aiguier</author>
+<author>Fabrice Barbier</author>
+<author>Pascal Poizat</author>
+<title>A Logic with Temporal Glue for Mixed Specifications.</title>
+<pages>155-174</pages>
+<year>2004</year>
+<volume>97</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs97.html#AiguieBP04</url>
+</article>
+</r>
+<r><inproceedings key="conf/coopis/MarechalPR04" mdate="2017-05-25">
+<author>Olivier Maréchal</author>
+<author>Pascal Poizat</author>
+<author>Jean-Claude Royer</author>
+<title>Checking Asynchronously Communicating Components Using Symbolic Transition Systems.</title>
+<pages>1502-1519</pages>
+<year>2004</year>
+<crossref>conf/coopis/2004-2</crossref>
+<booktitle>CoopIS/DOA/ODBASE (2)</booktitle>
+<url>db/conf/coopis/coopis2004-2.html#MarechalPR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoopw/CanalMP04" mdate="2017-05-24">
+<author>Carlos Canal</author>
+<author>Juan Manuel Murillo</author>
+<author>Pascal Poizat</author>
+<title>Coordination and Adaptation Techniques for Software Entities.</title>
+<pages>133-147</pages>
+<year>2004</year>
+<crossref>conf/ecoopw/2004</crossref>
+<booktitle>ECOOP Workshops</booktitle>
+<url>db/conf/ecoopw/ecoopw2004.html#CanalMP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/AttiogbePS03" mdate="2019-05-31">
+<author>J. Christian Attiogbé</author>
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<title>Integration of Formal Datatypes within State Diagrams.</title>
+<pages>341-355</pages>
+<year>2003</year>
+<crossref>conf/fase/2003</crossref>
+<booktitle>FASE</booktitle>
+<url>db/conf/fase/fase2003.html#AttiogbePS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/AttiogbePS03" mdate="2019-05-31">
+<author>J. Christian Attiogbé</author>
+<author>Pascal Poizat</author>
+<author>Gwen Salaün</author>
+<title>Specification of a Gas Station Using a Formalism Integrating Formal Datatypes within State Diagrams.</title>
+<pages>240</pages>
+<year>2003</year>
+<crossref>conf/ipps/2003</crossref>
+<booktitle>IPDPS</booktitle>
+<url>db/conf/ipps/ipdps2003.html#AttiogbePS03</url>
+</inproceedings>
+</r>
+<r><article key="journals/Lobjet/PoizatR02" mdate="2017-05-27">
+<author>Pascal Poizat</author>
+<author>Jean-Claude Royer</author>
+<title>Une proposition de composants formels.</title>
+<pages>231-245</pages>
+<year>2002</year>
+<volume>8</volume>
+<journal>L'OBJET</journal>
+<number>1-2</number>
+<url>db/journals/Lobjet/Lobjet8.html#PoizatR02</url>
+</article>
+</r>
+<r><article key="journals/jucs/ChoppyPR01" mdate="2017-05-17">
+<author>Christine Choppy</author>
+<author>Pascal Poizat</author>
+<author>Jean-Claude Royer</author>
+<title>The Korrigan Environment.</title>
+<pages>19-36</pages>
+<year>2001</year>
+<volume>7</volume>
+<journal>J. UCS</journal>
+<number>1</number>
+<url>db/journals/jucs/jucs7.html#ChoppyPR01</url>
+</article>
+</r>
+<r><inproceedings key="conf/apsec/ChoppyPR01" mdate="2017-05-17">
+<author>Christine Choppy</author>
+<author>Pascal Poizat</author>
+<author>Jean-Claude Royer</author>
+<title>Formal Specification of Mixed Components with Korrigan.</title>
+<pages>169-176</pages>
+<year>2001</year>
+<crossref>conf/apsec/2001</crossref>
+<booktitle>APSEC</booktitle>
+<url>db/conf/apsec/apsec2001.html#ChoppyPR01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/ChoppyPR01" mdate="2017-05-25">
+<author>Christine Choppy</author>
+<author>Pascal Poizat</author>
+<author>Jean-Claude Royer</author>
+<title>Specification of Mixed Systems in KORRIGAN with the Support of a UML-Inspired Graphical Notation.</title>
+<pages>124-139</pages>
+<year>2001</year>
+<crossref>conf/fase/2001</crossref>
+<booktitle>FASE</booktitle>
+<url>db/conf/fase/fase2001.html#ChoppyPR01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/amast/ChoppyPR00" mdate="2017-05-24">
+<author>Christine Choppy</author>
+<author>Pascal Poizat</author>
+<author>Jean-Claude Royer</author>
+<title>A Global Semantics for Views.</title>
+<pages>165-180</pages>
+<year>2000</year>
+<crossref>conf/amast/2000</crossref>
+<booktitle>AMAST</booktitle>
+<url>db/conf/amast/amast2000.html#ChoppyPR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/PoizatCR99" mdate="2017-05-22">
+<author>Pascal Poizat</author>
+<author>Christine Choppy</author>
+<author>Jean-Claude Royer</author>
+<title>From Informal Requirements to COOP: A Concurrent Automata Approach.</title>
+<pages>939-962</pages>
+<year>1999</year>
+<crossref>conf/fm/1999-2</crossref>
+<booktitle>World Congress on Formal Methods</booktitle>
+<url>db/conf/fm/fm1999-2.html#PoizatCR99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/HabriasPL99" mdate="2017-05-22">
+<author>Henri Habrias</author>
+<author>Pascal Poizat</author>
+<author>Jean-Yves Lafaye</author>
+<title>A Study of Collaborative Work: Answers to a Test on Formal Specification in B.</title>
+<pages>1856-1857</pages>
+<year>1999</year>
+<crossref>conf/fm/1999-2</crossref>
+<booktitle>World Congress on Formal Methods</booktitle>
+<url>db/conf/fm/fm1999-2.html#HabriasPL99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wadt/PoizatCR98" mdate="2017-05-21">
+<author>Pascal Poizat</author>
+<author>Christine Choppy</author>
+<author>Jean-Claude Royer</author>
+<title>Concurrency and Data Types: A Specification Method: An Example with LOTOS.</title>
+<pages>277-292</pages>
+<year>1998</year>
+<crossref>conf/wadt/1998</crossref>
+<booktitle>WADT</booktitle>
+<url>db/conf/wadt/wadt98.html#PoizatCR98</url>
+</inproceedings>
+</r>
+<coauthors n="41" nc="5">
+<co c="2"><na f="a/Aiguier:Marc">Marc Aiguier</na></co>
+<co c="0"><na f="a/Attiogb=eacute=:J=_Christian">J. Christian Attiogbé</na></co>
+<co c="0"><na f="b/Baarir:Souheib">Souheib Baarir</na></co>
+<co c="2"><na f="b/Barbier:Fabrice">Fabrice Barbier</na></co>
+<co c="-1"><na f="b/Beauche:Sandrine">Sandrine Beauche</na></co>
+<co c="0"><na f="b/Becker_0001:Steffen">Steffen Becker 0001</na></co>
+<co c="1"><na f="b/Bentakouk:Lina">Lina Bentakouk</na></co>
+<co c="0"><na f="c/Canal:Carlos">Carlos Canal</na></co>
+<co c="0"><na f="c/Chen:Min">Min Chen</na></co>
+<co c="0"><na f="c/Choppy:Christine">Christine Choppy</na></co>
+<co c="0"><na f="c/Cubo:Javier">Javier Cubo</na></co>
+<co c="0"><na f="d/Diakov:Nikolay">Nikolay Diakov</na></co>
+<co c="0"><na f="d/Dumont:Alexandre">Alexandre Dumont</na></co>
+<co c="0"><na f="g/G=uuml=demann:Matthias">Matthias Güdemann</na></co>
+<co c="4"><na f="h/Habrias:Henri">Henri Habrias</na></co>
+<co c="0"><na f="h/Haddad:Serge">Serge Haddad</na></co>
+<co c="0"><na f="h/Houhou:Sara">Sara Houhou</na></co>
+<co c="3"><na f="k/Kh=eacute=fifi:Rania">Rania Khéfifi</na></co>
+<co c="0"><na f="k/Krishna_0001:Ajay">Ajay Krishna 0001</na></co>
+<co c="4"><na f="l/Lafaye:Jean=Yves">Jean-Yves Lafaye</na></co>
+<co c="0"><na f="m/Mar=eacute=chal:Olivier">Olivier Maréchal</na></co>
+<co c="0"><na f="m/Mateescu_0001:Radu">Radu Mateescu 0001</na></co>
+<co c="0"><na f="m/Melliti:Tarek">Tarek Melliti</na></co>
+<co c="0"><na f="m/Mokhtar:Sonia_Ben">Sonia Ben Mokhtar</na></co>
+<co c="0"><na f="m/Murillo:Juan_Manuel">Juan Manuel Murillo</na></co>
+<co c="1"><na f="n/Nguyen:Huu_Nghia">Huu Nghia Nguyen</na></co>
+<co c="0"><na f="n/Noy=eacute=:Jacques">Jacques Noyé</na></co>
+<co c="0"><na f="p/Pavel:Sebastian">Sebastian Pavel</na></co>
+<co c="0"><na f="p/Pimentel:Ernesto">Ernesto Pimentel</na></co>
+<co c="-1"><na f="p/Plouzeau:No=euml=l">Noël Plouzeau</na></co>
+<co c="0"><na f="q/Qu=eacute=innec:Philippe">Philippe Quéinnec</na></co>
+<co c="0"><na f="r/Royer:Jean=Claude">Jean-Claude Royer</na></co>
+<co c="3"><na f="s/Sa=iuml=s:Fatiha">Fatiha Saïs</na></co>
+<co c="0"><na f="s/Sala=uuml=n:Gwen">Gwen Salaün</na></co>
+<co c="0"><na f="s/Sirjani:Marjan">Marjan Sirjani</na></co>
+<co c="0"><na f="t/Tivoli:Massimo">Massimo Tivoli</na></co>
+<co c="0"><na f="v/Viroli:Mirko">Mirko Viroli</na></co>
+<co c="0"><na f="y/Yan:Yuhong">Yuhong Yan</na></co>
+<co c="0"><na f="y/Ye:Lina">Lina Ye</na></co>
+<co c="1"><na f="z/Za=iuml=di:Fatiha">Fatiha Zaïdi</na></co>
+<co c="0"><na f="z/Zhao:Ludeng">Ludeng Zhao</na></co>
+</coauthors>
+</dblpperson>
+

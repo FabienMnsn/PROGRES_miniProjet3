@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Jacky Porte" n="1">
+<person key="homepages/59/707" mdate="2009-06-09">
+<author>Jacky Porte</author>
+</person>
+<r><inproceedings key="conf/date/DessoukyLP00" mdate="2018-11-06">
+<author>Mohamed Dessouky</author>
+<author>Marie-Minerve Louërat</author>
+<author>Jacky Porte</author>
+<title>Layout-Oriented Synthesis of High Performance Analog Circuits.</title>
+<pages>53-57</pages>
+<year>2000</year>
+<crossref>conf/date/2000</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2000.html#DessoukyLP00</url>
+</inproceedings>
+</r>
+<coauthors n="2" nc="1">
+<co c="0"><na f="d/Dessouky:Mohamed">Mohamed Dessouky</na></co>
+<co c="0"><na f="l/Lou=euml=rat:Marie=Minerve">Marie-Minerve Louërat</na></co>
+</coauthors>
+</dblpperson>
+

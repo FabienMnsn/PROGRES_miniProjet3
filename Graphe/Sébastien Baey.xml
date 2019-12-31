@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Sébastien Baey" n="16">
+<person key="homepages/46/5757" mdate="2009-06-10">
+<author>Sébastien Baey</author>
+</person>
+<r><article key="journals/phycomm/EzzaouiaGABLB17" mdate="2017-11-29">
+<author>Mahdi Ezzaouia</author>
+<author>Cédric Gueguen</author>
+<author>Mahmoud Ammar</author>
+<author>Sébastien Baey</author>
+<author>Xavier Lagrange</author>
+<author>Ammar Bouallègue</author>
+<title>A Dynamic Inter-cellular Bandwidth Fair Sharing scheduler for future wireless networks.</title>
+<pages>85-99</pages>
+<year>2017</year>
+<volume>25</volume>
+<journal>Physical Communication</journal>
+<url>db/journals/phycomm/phycomm25.html#EzzaouiaGABLB17</url>
+</article>
+</r>
+<r><article key="journals/tvt/RagaleuxBK17" mdate="2018-06-27">
+<author>Alexandre Ragaleux</author>
+<author>Sébastien Baey</author>
+<author>Mehmet Karaca 0001</author>
+<title>Standard-Compliant LTE-A Uplink Scheduling Scheme With Quality of Service.</title>
+<pages>7207-7222</pages>
+<year>2017</year>
+<volume>66</volume>
+<journal>IEEE Trans. Vehicular Technology</journal>
+<number>8</number>
+<url>db/journals/tvt/tvt66.html#RagaleuxBK17</url>
+</article>
+</r>
+<r><article key="journals/wicomm/RagaleuxBF16" mdate="2018-11-30">
+<author>Alexandre Ragaleux</author>
+<author>Sébastien Baey</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<title>An efficient and generic downlink resource allocation procedure for pre-5G networks.</title>
+<pages>3089-3103</pages>
+<year>2016</year>
+<volume>16</volume>
+<journal>Wireless Communications and Mobile Computing</journal>
+<number>17</number>
+<url>db/journals/wicomm/wicomm16.html#RagaleuxBF16</url>
+</article>
+</r>
+<r><article key="journals/winet/RagaleuxBG16" mdate="2017-05-27">
+<author>Alexandre Ragaleux</author>
+<author>Sébastien Baey</author>
+<author>Cédric Gueguen</author>
+<title>Adaptive and Generic Scheduling Scheme for LTE/LTE-A Mobile Networks.</title>
+<pages>2753-2771</pages>
+<year>2016</year>
+<volume>22</volume>
+<journal>Wireless Networks</journal>
+<number>8</number>
+<url>db/journals/winet/winet22.html#RagaleuxBG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/wd/AkreZBKFZF14" mdate="2018-11-30">
+<author>Jean-Michel N. Akré</author>
+<author>Xiaofei Zhang</author>
+<author>Sébastien Baey</author>
+<author>Brigitte Kervella</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Mario Antonio Zancanaro</author>
+<author orcid="0000-0003-1604-0915">Mauro Fonseca</author>
+<title>Accurate 2-D localization of RFID tags using antenna transmission power control.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>Wireless Days</booktitle>
+<crossref>conf/wd/2014</crossref>
+<url>db/conf/wd/wd2014.html#AkreZBKFZF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wd/ZhangABFKZF14" mdate="2018-11-30">
+<author>Xiaofei Zhang</author>
+<author>Jean-Michel N. Akré</author>
+<author>Sébastien Baey</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Brigitte Kervella</author>
+<author>Mario Antonio Zancanaro</author>
+<author orcid="0000-0003-1604-0915">Mauro Fonseca</author>
+<title>Towards localization of RFID tags based on experimental analysis of RSSI.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>Wireless Days</booktitle>
+<crossref>conf/wd/2014</crossref>
+<url>db/conf/wd/wd2014.html#ZhangABFKZF14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jece/GueguenB12" mdate="2019-06-02">
+<author orcid="0000-0002-9437-4913">Cédric Gueguen</author>
+<author>Sébastien Baey</author>
+<title>Comparison Study of Resource Allocation Strategies for OFDM Multimedia Networks.</title>
+<year>2012</year>
+<volume>2012</volume>
+<journal>J. Electrical and Computer Engineering</journal>
+<ee type="oa">https://doi.org/10.1155/2012/781520</ee>
+<url>db/journals/jece/jece2012.html#GueguenB12</url>
+<pages>781520:1-781520:11</pages>
+</article>
+</r>
+<r><article key="journals/ejwcn/GueguenB09" mdate="2019-06-02">
+<author>Cédric Gueguen</author>
+<author>Sébastien Baey</author>
+<title>A Fair Opportunistic Access Scheme for Multiuser OFDM Wireless Networks.</title>
+<year>2009</year>
+<volume>2009</volume>
+<journal>EURASIP J. Wireless Comm. and Networking</journal>
+<ee type="oa">https://doi.org/10.1155/2009/726495</ee>
+<url>db/journals/ejwcn/ejwcn2009.html#GueguenB09</url>
+</article>
+</r>
+<r><inproceedings key="conf/pimrc/GueguenB09" mdate="2017-05-25">
+<author>Cédric Gueguen</author>
+<author>Sébastien Baey</author>
+<title>A fair MaxSNR scheduling scheme for multiuser OFDM wireless systems.</title>
+<pages>2935-2939</pages>
+<year>2009</year>
+<booktitle>PIMRC</booktitle>
+<crossref>conf/pimrc/2009</crossref>
+<url>db/conf/pimrc/pimrc2009.html#GueguenB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/GueguenB08" mdate="2017-05-25">
+<author>Cédric Gueguen</author>
+<author>Sébastien Baey</author>
+<title>Weighted fair opportunistic scheduling for multimedia QoS support in multiuser OFDM wireless networks.</title>
+<pages>1-6</pages>
+<year>2008</year>
+<booktitle>PIMRC</booktitle>
+<crossref>conf/pimrc/2008</crossref>
+<url>db/conf/pimrc/pimrc2008.html#GueguenB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/GueguenB08" mdate="2017-05-21">
+<author>Cédric Gueguen</author>
+<author>Sébastien Baey</author>
+<title>Scheduling in OFDM Wireless Networks without Tradeoff between Fairness and Throughput.</title>
+<pages>1-5</pages>
+<year>2008</year>
+<booktitle>VTC Fall</booktitle>
+<crossref>conf/vtc/2008f</crossref>
+<url>db/conf/vtc/vtc2008f.html#GueguenB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/GueguenB08" mdate="2017-05-24">
+<author>Cédric Gueguen</author>
+<author>Sébastien Baey</author>
+<title>An Efficient and Fair Scheduling Scheme for Multiuser OFDM Wireless Networks.</title>
+<pages>1610-1615</pages>
+<year>2008</year>
+<booktitle>WCNC</booktitle>
+<crossref>conf/wcnc/2008</crossref>
+<url>db/conf/wcnc/wcnc2008.html#GueguenB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wimob/GueguenB08" mdate="2017-05-21">
+<author>Cédric Gueguen</author>
+<author>Sébastien Baey</author>
+<title>Compensated Proportional Fair Scheduling in Multiuser OFDM Wireless Networks.</title>
+<pages>119-125</pages>
+<year>2008</year>
+<booktitle>WiMob</booktitle>
+<crossref>conf/wimob/2008</crossref>
+<url>db/conf/wimob/wimob2008.html#GueguenB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/KarbaschiFB07" mdate="2018-11-30">
+<author>Golnaz Karbaschi</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Sébastien Baey</author>
+<title>On the Link-Quality Aware Routing in Wireless Multi-Hop Networks: A Throughput-Stability Trade-Off Study.</title>
+<pages>1-5</pages>
+<year>2007</year>
+<booktitle>PIMRC</booktitle>
+<crossref>conf/pimrc/2007</crossref>
+<url>db/conf/pimrc/pimrc2007.html#KarbaschiFB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/BaeyDD04" mdate="2017-05-24">
+<author>Sébastien Baey</author>
+<author>Marcel Dumas</author>
+<author>Marie-Claude Dumas</author>
+<title>Cooperative strategy for efficient multiplexing of multimedia traffic in the uplink of the UMTS WCDMA.</title>
+<pages>2207-2213</pages>
+<year>2004</year>
+<booktitle>WCNC</booktitle>
+<crossref>conf/wcnc/2004</crossref>
+<url>db/conf/wcnc/wcnc2004.html#BaeyDD04</url>
+</inproceedings>
+</r>
+<r><article key="journals/tmc/BaeyDD02" mdate="2017-05-28">
+<author>Sébastien Baey</author>
+<author>Marcel Dumas</author>
+<author>Marie-Claude Dumas</author>
+<title>QoS Tuning and Resource Sharing for UMTS WCDMA Multiservice Mobile.</title>
+<pages>221-235</pages>
+<year>2002</year>
+<volume>1</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>3</number>
+<url>db/journals/tmc/tmc1.html#BaeyDD02</url>
+</article>
+</r>
+<coauthors n="16" nc="2">
+<co c="0"><na f="a/Akr=eacute=:Jean=Michel_N=">Jean-Michel N. Akré</na></co>
+<co c="0"><na f="a/Ammar:Mahmoud">Mahmoud Ammar</na></co>
+<co c="0"><na f="b/Bouall=egrave=gue:Ammar">Ammar Bouallègue</na></co>
+<co c="1"><na f="d/Dumas:Marcel">Marcel Dumas</na></co>
+<co c="1"><na f="d/Dumas:Marie=Claude">Marie-Claude Dumas</na></co>
+<co c="0"><na f="e/Ezzaouia:Mahdi">Mahdi Ezzaouia</na></co>
+<co c="0"><na f="f/Fladenmuller:Anne">Anne Fladenmuller</na></co>
+<co c="0"><na f="f/Fonseca:Mauro">Mauro Fonseca</na></co>
+<co c="0"><na f="g/Gueguen:C=eacute=dric">Cédric Gueguen</na></co>
+<co c="0"><na f="k/Karaca_0001:Mehmet">Mehmet Karaca 0001</na></co>
+<co c="0"><na f="k/Karbaschi:Golnaz">Golnaz Karbaschi</na></co>
+<co c="0"><na f="k/Kervella:Brigitte">Brigitte Kervella</na></co>
+<co c="0"><na f="l/Lagrange:Xavier">Xavier Lagrange</na></co>
+<co c="0"><na f="r/Ragaleux:Alexandre">Alexandre Ragaleux</na></co>
+<co c="0"><na f="z/Zancanaro:Mario_Antonio">Mario Antonio Zancanaro</na></co>
+<co c="0"><na f="z/Zhang:Xiaofei">Xiaofei Zhang</na></co>
+</coauthors>
+</dblpperson>
+

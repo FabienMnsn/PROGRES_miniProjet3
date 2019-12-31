@@ -68,31 +68,43 @@ def get_links(lip6_members_path):
 	@param
 	lip6_members_path : string, chemin d'acces du fihcer xml des membres permanents du lip6
 	"""
+	echec = 0
 	links = {}
 	lip6 = utils_xml.liste_lip6(lip6_members_path)
 	if(len(lip6) == 0):
 		return -1
-	list_file = os.listdir("Auteurs/")
+	list_file = os.listdir("Graphe/")
 	for member in lip6:
 		if(member+".xml" not in list_file):
-			print("telechargement du fichier de :", member)
-			ret = utils_xml.download_file(member, "Auteurs/", "table_html.txt")
+			#print("telechargement du fichier de :", member)
+			ret = utils_xml.download_file(member, "Graphe/", "table_html.txt")
 			if(ret == 404):
+				echec += 1
 				continue
-		else:
-			print("Fichier de "+member+ " déjà dans le répertoire")
-		coauteurs = utils_xml.get_coauteurs("Auteurs/"+member+".xml")
+		coauteurs = utils_xml.get_coauteurs("Graphe/"+member+".xml")
 		ltmp = []
 		for aut in coauteurs:
 			if(aut in lip6):
 				ltmp.append(aut)
 		links[member] = ltmp
-	print(links)
+	#i = 0
+	#for elem in links:
+		#i += 1
+		#print(i, elem, links[elem])
+	print("Impossible de récupérer", echec, "/", len(lip6), "fichiers (dead links in dblp)")
+
+
+def draw_graph(links_dico):
+	"""
+	Retourne un graphe reseau des publications entre membres permanents du lip6
+
+	@param
+	links_dico : dictionnaire des lien entre chaque membre permanent du lip6
+	"""
 
 
 if __name__ == '__main__':
 
-	#list_all_publication("Sébastien Baey", "Olivier Fourmaux")
 	get_links("Auteurs/lip6.xml")
 	#print(liste_lip6("Auteurs/lip6.xml"))
 	#http://doc.sagemath.org/html/en/reference/graphs/sage/graphs/graph.html#graph-format

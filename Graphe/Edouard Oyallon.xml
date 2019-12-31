@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Edouard Oyallon" n="23">
+<person key="homepages/139/0730" mdate="2014-01-06">
+<author>Edouard Oyallon</author>
+</person>
+<r><article key="journals/pami/OyallonZHKLBB19" mdate="2019-08-21">
+<author orcid="0000-0002-4826-7527">Edouard Oyallon</author>
+<author>Sergey Zagoruyko</author>
+<author orcid="0000-0002-1418-6569">Gabriel Huang</author>
+<author>Nikos Komodakis</author>
+<author orcid="0000-0001-6485-6180">Simon Lacoste-Julien</author>
+<author orcid="0000-0002-2640-181X">Matthew B. Blaschko</author>
+<author>Eugene Belilovsky</author>
+<title>Scattering Networks for Hybrid Representation Learning.</title>
+<pages>2208-2221</pages>
+<year>2019</year>
+<volume>41</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>9</number>
+<url>db/journals/pami/pami41.html#OyallonZHKLBB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/BelilovskyEO19" mdate="2019-06-11">
+<author>Eugene Belilovsky</author>
+<author>Michael Eickenberg</author>
+<author>Edouard Oyallon</author>
+<title>Greedy Layerwise Learning Can Scale To ImageNet.</title>
+<pages>583-593</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/belilovsky19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BelilovskyEO19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-08164" mdate="2019-02-02">
+<author>Eugene Belilovsky</author>
+<author>Michael Eickenberg</author>
+<author>Edouard Oyallon</author>
+<title>Decoupled Greedy Learning of CNNs.</title>
+<year>2019</year>
+<volume>abs/1901.08164</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.08164</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-08164</url>
+</article>
+</r>
+<r><inproceedings key="conf/eccv/OyallonBZV18" mdate="2018-10-08">
+<author>Edouard Oyallon</author>
+<author>Eugene Belilovsky</author>
+<author>Sergey Zagoruyko</author>
+<author>Michal Valko</author>
+<title>Compressing the Input for CNNs with the First-Order Scattering Transform.</title>
+<pages>305-320</pages>
+<year>2018</year>
+<booktitle>ECCV (9)</booktitle>
+<crossref>conf/eccv/2018-9</crossref>
+<url>db/conf/eccv/eccv2018-9.html#OyallonBZV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/JacobsenSO18" mdate="2019-07-25">
+<author>Jörn-Henrik Jacobsen</author>
+<author>Arnold W. M. Smeulders</author>
+<author>Edouard Oyallon</author>
+<title>i-RevNet: Deep Invertible Networks.</title>
+<year>2018</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=HJsjkMb0Z</ee>
+<crossref>conf/iclr/2018</crossref>
+<url>db/conf/iclr/iclr2018.html#JacobsenSO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/ScieurOdB18" mdate="2019-04-04">
+<author>Damien Scieur</author>
+<author>Edouard Oyallon</author>
+<author>Alexandre d'Aspremont</author>
+<author>Francis Bach</author>
+<title>Nonlinear Acceleration of CNNs.</title>
+<year>2018</year>
+<booktitle>ICLR (Workshop)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=HkNpF_kDM</ee>
+<crossref>conf/iclr/2018w</crossref>
+<url>db/conf/iclr/iclr2018w.html#ScieurOdB18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-07088" mdate="2018-08-13">
+<author>Jörn-Henrik Jacobsen</author>
+<author>Arnold W. M. Smeulders</author>
+<author>Edouard Oyallon</author>
+<title>i-RevNet: Deep Invertible Networks.</title>
+<year>2018</year>
+<volume>abs/1802.07088</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.07088</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-07088</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-09639" mdate="2018-08-13">
+<author>Damien Scieur</author>
+<author>Edouard Oyallon</author>
+<author>Alexandre d'Aspremont</author>
+<author>Francis Bach</author>
+<title>Nonlinear Acceleration of Deep Neural Networks.</title>
+<year>2018</year>
+<volume>abs/1805.09639</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.09639</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-09639</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-00370" mdate="2018-08-13">
+<author>Damien Scieur</author>
+<author>Edouard Oyallon</author>
+<author>Alexandre d'Aspremont</author>
+<author>Francis Bach</author>
+<title>Nonlinear Acceleration of CNNs.</title>
+<year>2018</year>
+<volume>abs/1806.00370</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.00370</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-00370</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-06367" mdate="2018-10-05">
+<author>Edouard Oyallon</author>
+<author>Sergey Zagoruyko</author>
+<author>Gabriel Huang</author>
+<author>Nikos Komodakis</author>
+<author>Simon Lacoste-Julien</author>
+<author>Matthew B. Blaschko</author>
+<author>Eugene Belilovsky</author>
+<title>Scattering Networks for Hybrid Representation Learning.</title>
+<year>2018</year>
+<volume>abs/1809.06367</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.06367</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-06367</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-10200" mdate="2018-10-05">
+<author>Edouard Oyallon</author>
+<author>Eugene Belilovsky</author>
+<author>Sergey Zagoruyko</author>
+<author>Michal Valko</author>
+<title>Compressing the Input for CNNs with the First-Order Scattering Transform.</title>
+<year>2018</year>
+<volume>abs/1809.10200</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.10200</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-10200</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-11214" mdate="2019-01-02">
+<author>Mathieu Andreux</author>
+<author>Tomás Angles</author>
+<author>Georgios Exarchakis</author>
+<author>Roberto Leonarduzzi</author>
+<author>Gaspar Rochette</author>
+<author>Louis Thiry</author>
+<author>John Zarka</author>
+<author>Stéphane Mallat</author>
+<author>Joakim Andén</author>
+<author>Eugene Belilovsky</author>
+<author>Joan Bruna</author>
+<author>Vincent Lostanlen</author>
+<author>Matthew J. Hirn</author>
+<author>Edouard Oyallon</author>
+<author>Sixhin Zhang</author>
+<author>Carmine-Emanuele Cella</author>
+<author>Michael Eickenberg</author>
+<title>Kymatio: Scattering Transforms in Python.</title>
+<year>2018</year>
+<volume>abs/1812.11214</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.11214</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-11214</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-11446" mdate="2019-01-02">
+<author>Eugene Belilovsky</author>
+<author>Michael Eickenberg</author>
+<author>Edouard Oyallon</author>
+<title>Greedy Layerwise Learning Can Scale to ImageNet.</title>
+<year>2018</year>
+<volume>abs/1812.11446</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.11446</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-11446</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Oyallon17" mdate="2019-12-13">
+<author>Edouard Oyallon</author>
+<title>Analyzing and Introducing Structures in Deep Convolutional Neural Networks. (Analyse et structuration des réseaux de neurones convolutifs profonds).</title>
+<year>2017</year>
+<school>PSL Research University, Paris, France</school>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/cvpr/Oyallon17" mdate="2017-11-14">
+<author>Edouard Oyallon</author>
+<title>Building a Regular Decision Boundary with Deep Networks.</title>
+<pages>1886-1894</pages>
+<year>2017</year>
+<booktitle>CVPR</booktitle>
+<crossref>conf/cvpr/2017</crossref>
+<url>db/conf/cvpr/cvpr2017.html#Oyallon17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/OyallonBZ17" mdate="2018-01-11">
+<author>Edouard Oyallon</author>
+<author>Eugene Belilovsky</author>
+<author>Sergey Zagoruyko</author>
+<title>Scaling the Scattering Transform: Deep Hybrid Networks.</title>
+<pages>5619-5628</pages>
+<year>2017</year>
+<booktitle>ICCV</booktitle>
+<crossref>conf/iccv/2017</crossref>
+<url>db/conf/iccv/iccv2017.html#OyallonBZ17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Oyallon17" mdate="2018-08-13">
+<author>Edouard Oyallon</author>
+<title>Building a Regular Decision Boundary with Deep Networks.</title>
+<year>2017</year>
+<volume>abs/1703.01775</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.01775</ee>
+<url>db/journals/corr/corr1703.html#Oyallon17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/JacobsenOMS17" mdate="2018-08-13">
+<author>Jörn-Henrik Jacobsen</author>
+<author>Edouard Oyallon</author>
+<author>Stéphane Mallat</author>
+<author>Arnold W. M. Smeulders</author>
+<title>Multiscale Hierarchical Convolutional Networks.</title>
+<year>2017</year>
+<volume>abs/1703.04140</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.04140</ee>
+<url>db/journals/corr/corr1703.html#JacobsenOMS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/OyallonBZ17" mdate="2018-08-13">
+<author>Edouard Oyallon</author>
+<author>Eugene Belilovsky</author>
+<author>Sergey Zagoruyko</author>
+<title>Scaling the Scattering Transform: Deep Hybrid Networks.</title>
+<year>2017</year>
+<volume>abs/1703.08961</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.08961</ee>
+<url>db/journals/corr/corr1703.html#OyallonBZ17</url>
+</article>
+</r>
+<r><article key="journals/ipol/OyallonR15" mdate="2019-05-22">
+<author>Edouard Oyallon</author>
+<author>Julien Rabin</author>
+<title>An Analysis of the SURF Method.</title>
+<pages>176-218</pages>
+<year>2015</year>
+<volume>5</volume>
+<journal>IPOL Journal</journal>
+<ee type="oa">https://doi.org/10.5201/ipol.2015.69</ee>
+<url>db/journals/ipol/ipol5.html#OyallonR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/OyallonM15" mdate="2017-05-25">
+<author>Edouard Oyallon</author>
+<author>Stéphane Mallat</author>
+<title>Deep roto-translation scattering for object classification.</title>
+<pages>2865-2873</pages>
+<year>2015</year>
+<booktitle>CVPR</booktitle>
+<crossref>conf/cvpr/2015</crossref>
+<url>db/conf/cvpr/cvpr2015.html#OyallonM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/OyallonMS13" mdate="2019-07-26">
+<author>Edouard Oyallon</author>
+<author>Stéphane Mallat</author>
+<author>Laurent Sifre</author>
+<title>Generic Deep Networks with Wavelet Scattering.</title>
+<year>2014</year>
+<crossref>conf/iclr/2014w</crossref>
+<booktitle>ICLR (Workshop Poster)</booktitle>
+<ee type="oa">http://arxiv.org/abs/1312.5940</ee>
+<url>db/conf/iclr/iclr2014w.html#OyallonMS13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/OyallonM14" mdate="2018-08-13">
+<author>Edouard Oyallon</author>
+<author>Stéphane Mallat</author>
+<title>Deep Roto-Translation Scattering for Object Classification.</title>
+<year>2014</year>
+<volume>abs/1412.8659</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.8659</ee>
+<url>db/journals/corr/corr1412.html#OyallonM14</url>
+</article>
+</r>
+<coauthors n="29" nc="1">
+<co c="0"><na f="a/And=eacute=n:Joakim">Joakim Andén</na></co>
+<co c="0"><na f="a/Andreux:Mathieu">Mathieu Andreux</na></co>
+<co c="0"><na f="a/Angles:Tom=aacute=s">Tomás Angles</na></co>
+<co c="0" n="2"><na f="b/Bach:Francis_R=">Francis R. Bach</na><na>Francis Bach</na></co>
+<co c="0"><na f="b/Belilovsky:Eugene">Eugene Belilovsky</na></co>
+<co c="0"><na f="b/Blaschko:Matthew_B=">Matthew B. Blaschko</na></co>
+<co c="0"><na f="b/Bruna:Joan">Joan Bruna</na></co>
+<co c="0"><na f="c/Cella:Carmine=Emanuele">Carmine-Emanuele Cella</na></co>
+<co c="0"><na f="d/d=Aspremont:Alexandre">Alexandre d'Aspremont</na></co>
+<co c="0"><na f="e/Eickenberg:Michael">Michael Eickenberg</na></co>
+<co c="0"><na f="e/Exarchakis:Georgios">Georgios Exarchakis</na></co>
+<co c="0"><na f="h/Hirn:Matthew_J=">Matthew J. Hirn</na></co>
+<co c="0"><na f="h/Huang:Gabriel">Gabriel Huang</na></co>
+<co c="0"><na f="j/Jacobsen:J=ouml=rn=Henrik">Jörn-Henrik Jacobsen</na></co>
+<co c="0"><na f="k/Komodakis:Nikos">Nikos Komodakis</na></co>
+<co c="0"><na f="l/Lacoste=Julien:Simon">Simon Lacoste-Julien</na></co>
+<co c="0"><na f="l/Leonarduzzi:Roberto">Roberto Leonarduzzi</na></co>
+<co c="0"><na f="l/Lostanlen:Vincent">Vincent Lostanlen</na></co>
+<co c="0"><na f="m/Mallat:St=eacute=phane">Stéphane Mallat</na></co>
+<co c="-1"><na f="r/Rabin:Julien">Julien Rabin</na></co>
+<co c="0"><na f="r/Rochette:Gaspar">Gaspar Rochette</na></co>
+<co c="0"><na f="s/Scieur:Damien">Damien Scieur</na></co>
+<co c="0"><na f="s/Sifre:Laurent">Laurent Sifre</na></co>
+<co c="0"><na f="s/Smeulders:Arnold_W=_M=">Arnold W. M. Smeulders</na></co>
+<co c="0"><na f="t/Thiry:Louis">Louis Thiry</na></co>
+<co c="0"><na f="v/Valko:Michal">Michal Valko</na></co>
+<co c="0"><na f="z/Zagoruyko:Sergey">Sergey Zagoruyko</na></co>
+<co c="0"><na f="z/Zarka:John">John Zarka</na></co>
+<co c="0"><na f="z/Zhang:Sixhin">Sixhin Zhang</na></co>
+</coauthors>
+</dblpperson>
+

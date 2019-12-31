@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Farouk Vallette" n="4">
+<person key="homepages/74/10784" mdate="2012-01-21">
+<author>Farouk Vallette</author>
+</person>
+<r><inproceedings key="conf/embc/TsiakakaTRHBPVF15" mdate="2018-11-14">
+<author>Olivier Tsiakaka</author>
+<author>Mehdi Terosiet</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Aymeric Histace</author>
+<author>Habib Benali</author>
+<author>Pierre-Franois Pradat</author>
+<author>Farouk Vallette</author>
+<author>Michael Feher</author>
+<author>Sylvain Feruglio</author>
+<title>In vivo NIRS monitoring in pig Spinal Cord tissues.</title>
+<pages>4262-4265</pages>
+<year>2015</year>
+<booktitle>EMBC</booktitle>
+<crossref>conf/embc/2015</crossref>
+<url>db/conf/embc/embc2015.html#TsiakakaTRHBPVF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/WangDFVG13" mdate="2017-04-30">
+<author>Ruomin Wang</author>
+<author>Julien Denoulet</author>
+<author>Sylvain Feruglio</author>
+<author>Farouk Vallette</author>
+<author>Patrick Garda</author>
+<title>Modeling of signal integrity in bus communications with timed data flow SystemC-AMS.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2013</crossref>
+<url>db/conf/fdl/fdl2013.html#WangDFVG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/WangDFVG12" mdate="2017-05-23">
+<author>Ruomin Wang</author>
+<author>Julien Denoulet</author>
+<author>Sylvain Feruglio</author>
+<author>Farouk Vallette</author>
+<author>Patrick Garda</author>
+<title>High level modeling of signal integrity in field bus communication with SystemC-AMS.</title>
+<pages>889-892</pages>
+<year>2012</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2012</crossref>
+<url>db/conf/icecsys/icecsys2012.html#WangDFVG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/TerosietFVGRK11" mdate="2018-11-02">
+<author>Mehdi Terosiet</author>
+<author>Sylvain Feruglio</author>
+<author>Farouk Vallette</author>
+<author>Patrick Garda</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author orcid="0000-0003-2124-6803">Julien Le Kernec</author>
+<title>A self-sufficient digitally controlled ring oscillator compensated for supply voltage variation.</title>
+<pages>484-487</pages>
+<year>2011</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2011</crossref>
+<url>db/conf/icecsys/icecsys2011.html#TerosietFVGRK11</url>
+</inproceedings>
+</r>
+<coauthors n="12" nc="1">
+<co c="0"><na f="b/Benali:Habib">Habib Benali</na></co>
+<co c="0"><na f="d/Denoulet:Julien">Julien Denoulet</na></co>
+<co c="0"><na f="f/Feher:Michael">Michael Feher</na></co>
+<co c="0"><na f="f/Feruglio:Sylvain">Sylvain Feruglio</na></co>
+<co c="0"><na f="g/Garda:Patrick">Patrick Garda</na></co>
+<co c="0"><na f="h/Histace:Aymeric">Aymeric Histace</na></co>
+<co c="0"><na f="k/Kernec:Julien_Le">Julien Le Kernec</na></co>
+<co c="0"><na f="p/Pradat:Pierre=Franois">Pierre-Franois Pradat</na></co>
+<co c="0"><na f="r/Romain:Olivier">Olivier Romain</na></co>
+<co c="0"><na f="t/Terosiet:Mehdi">Mehdi Terosiet</na></co>
+<co c="0"><na f="t/Tsiakaka:Olivier">Olivier Tsiakaka</na></co>
+<co c="0"><na f="w/Wang:Ruomin">Ruomin Wang</na></co>
+</coauthors>
+</dblpperson>
+

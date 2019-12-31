@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Sabrina Tollari" n="28">
+<person key="homepages/23/3632" mdate="2009-06-10">
+<author>Sabrina Tollari</author>
+</person>
+<r><inproceedings key="conf/mediaeval/Tollari16" mdate="2019-05-28">
+<author>Sabrina Tollari</author>
+<title>UPMC at MediaEval 2016 Retrieving Diverse Social Images Task.</title>
+<year>2016</year>
+<booktitle>MediaEval</booktitle>
+<crossref>conf/mediaeval/2016</crossref>
+<url>db/conf/mediaeval/mediaeval2016.html#Tollari16</url>
+<ee type="oa">http://ceur-ws.org/Vol-1739/MediaEval_2016_paper_14.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbmi/KuomanTD13" mdate="2017-05-26">
+<author>Christian Kuoman</author>
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<title>Using tree of concepts and hierarchical reordering for diversity in image retrieval.</title>
+<pages>251-256</pages>
+<year>2013</year>
+<booktitle>CBMI</booktitle>
+<crossref>conf/cbmi/2013</crossref>
+<url>db/conf/cbmi/cbmi2013.html#KuomanTD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/KuomanTD13" mdate="2017-05-08">
+<author>Christian Kuoman</author>
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<title>Diversité hiérarchique et utilisation d'arbres de concepts pour la recherche d'images.</title>
+<pages>47-62</pages>
+<year>2013</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2013</crossref>
+<url>db/conf/coria/coria2013.html#KuomanTD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mediaeval/KuomanTD13" mdate="2019-05-28">
+<author>Christian Kuoman</author>
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<title>UPMC at MediaEval 2013: Relevance by Text and Diversity by Visual Clustering.</title>
+<year>2013</year>
+<booktitle>MediaEval</booktitle>
+<crossref>conf/mediaeval/2013</crossref>
+<url>db/conf/mediaeval/mediaeval2013.html#KuomanTD13</url>
+<ee type="oa">http://ceur-ws.org/Vol-1043/mediaeval2013_submission_19.pdf</ee>
+</inproceedings>
+</r>
+<r><article key="journals/mta/BuffoniTG12" mdate="2017-05-28">
+<author>David Buffoni</author>
+<author>Sabrina Tollari</author>
+<author>Patrick Gallinari</author>
+<title>A Learning to Rank framework applied to text-image retrieval.</title>
+<pages>161-180</pages>
+<year>2012</year>
+<volume>60</volume>
+<journal>Multimedia Tools Appl.</journal>
+<number>1</number>
+<url>db/journals/mta/mta60.html#BuffoniTG12</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecir/BuffoniTG11" mdate="2017-05-21">
+<author>David Buffoni</author>
+<author>Sabrina Tollari</author>
+<author>Patrick Gallinari</author>
+<title>The Importance of the Depth for Text-Image Selection Strategy in Learning-To-Rank.</title>
+<pages>743-746</pages>
+<year>2011</year>
+<booktitle>ECIR</booktitle>
+<crossref>conf/ecir/2011</crossref>
+<url>db/conf/ecir/ecir2011.html#BuffoniTG11</url>
+</inproceedings>
+</r>
+<r><article key="journals/dn/TollariDFMAG10" mdate="2017-05-27">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Christophe Marsala</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Exploitation du contenu visuel pour améliorer la recherche textuelle d'images en ligne.</title>
+<pages>187-209</pages>
+<year>2010</year>
+<volume>13</volume>
+<journal>Document Numérique</journal>
+<number>1</number>
+<url>db/journals/dn/dn13.html#TollariDFMAG10</url>
+</article>
+</r>
+<r><inproceedings key="conf/clef/Fakeri-TabriziTUAG10" mdate="2019-05-28">
+<author>Ali Fakeri-Tabrizi</author>
+<author>Sabrina Tollari</author>
+<author>Nicolas Usunier</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>UPMC/LIP6 at ImageCLEFannotation 2010.</title>
+<year>2010</year>
+<booktitle>CLEF (Notebook Papers/LABs/Workshops)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1176/CLEF2010wn-ImageCLEF-Fakeri-TabriziEt2010.pdf</ee>
+<crossref>conf/clef/2010w</crossref>
+<url>db/conf/clef/clef2010w.html#Fakeri-TabriziTUAG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/Fakeri-TabriziTDG09" mdate="2019-05-28">
+<author>Ali Fakeri-Tabrizi</author>
+<author>Sabrina Tollari</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>UPMC/LIP6 at ImageCLEFannotation2009: Large Scale Visual Concept Detection and Annotation.</title>
+<year>2009</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1175/CLEF2009wn-ImageCLEF-FakeriTabriziEt2009.pdf</ee>
+<crossref>conf/clef/2009w</crossref>
+<url>db/conf/clef/clef2009w.html#Fakeri-TabriziTDG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/Fakeri-TabriziTUG09" mdate="2017-05-24">
+<author>Ali Fakeri-Tabrizi</author>
+<author>Sabrina Tollari</author>
+<author>Nicolas Usunier</author>
+<author>Patrick Gallinari</author>
+<title>Improving Image Annotation in Imbalanced Classification Problems with Ranking SVM.</title>
+<pages>291-294</pages>
+<year>2009</year>
+<booktitle>CLEF (2)</booktitle>
+<crossref>conf/clef/2009-2</crossref>
+<url>db/conf/clef/clef2009-2.html#Fakeri-TabriziTUG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/GlotinFMFZTQSDG09" mdate="2019-05-28">
+<author>Hervé Glotin</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Philippe Mulhem</author>
+<author>Marin Ferecatu</author>
+<author>Z. Zhao</author>
+<author>Sabrina Tollari</author>
+<author>Georges Quénot</author>
+<author>Hichem Sahbi</author>
+<author>Emilie Dumont</author>
+<author>Patrick Gallinari</author>
+<title>Comparison of Various AVEIR Visual Concept Detectors with an Index of Carefulness.</title>
+<year>2009</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1175/CLEF2009wn-ImageCLEF-GlotinEt2009a.pdf</ee>
+<crossref>conf/clef/2009w</crossref>
+<url>db/conf/clef/clef2009w.html#GlotinFMFZTQSDG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/TollariDFMAG09" mdate="2017-05-08">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Christophe Marsala</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Utilisation de concepts visuels et de la diversité visuelle pour améliorer la recherche d'images.</title>
+<pages>83-98</pages>
+<year>2009</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2009</crossref>
+<url>db/conf/coria/coria2009.html#TollariDFMAG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/TollariDMFAG09" mdate="2017-05-21">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Christophe Marsala</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Exploiting Visual Concepts to Improve Text-Based Image Retrieval.</title>
+<pages>701-705</pages>
+<year>2009</year>
+<booktitle>ECIR</booktitle>
+<crossref>conf/ecir/2009</crossref>
+<url>db/conf/ecir/ecir2009.html#TollariDMFAG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icig/BuLBTM09" mdate="2017-05-21">
+<author>Jiang Bu</author>
+<author>Songyang Lao</author>
+<author>Liang Bai</author>
+<author>Sabrina Tollari</author>
+<author>Christophe Marsala</author>
+<title>Goalmouth Detection in Field-Ball Game Video Using Fuzzy Decision Tree.</title>
+<pages>917-921</pages>
+<year>2009</year>
+<booktitle>ICIG</booktitle>
+<crossref>conf/icig/2009</crossref>
+<url>db/conf/icig/icig2009.html#BuLBTM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/Fakeri-TabriziATG08" mdate="2019-05-28">
+<author>Ali Fakeri-Tabrizi</author>
+<author>Massih-Reza Amini</author>
+<author>Sabrina Tollari</author>
+<author>Patrick Gallinari</author>
+<title>UPMC/LIP6 at ImageCLEF's WikipediaMM: An Image-Annotation Model for an Image Search-Engine.</title>
+<year>2008</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1174/CLEF2008wn-ImageCLEF-FakeriTabriziEt2008.pdf</ee>
+<crossref>conf/clef/2008w</crossref>
+<url>db/conf/clef/clef2008w.html#Fakeri-TabriziATG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/TollariDFAG08" mdate="2019-05-28">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>UPMC/LIP6 at ImageCLEFphoto 2008: on the Exploitation of Visual Concepts (VCDT).</title>
+<year>2008</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1174/CLEF2008wn-ImageCLEF-TollariEt2008a.pdf</ee>
+<crossref>conf/clef/2008w</crossref>
+<url>db/conf/clef/clef2008w.html#TollariDFAG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/TollariDFGMAFGSZ08" mdate="2019-05-28">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Marin Ferecatu</author>
+<author>Hervé Glotin</author>
+<author>Philippe Mulhem</author>
+<author>Massih-Reza Amini</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Patrick Gallinari</author>
+<author>Hichem Sahbi</author>
+<author>Zhong-Qiu Zhao</author>
+<title>Consortium AVEIR at ImageCLEFphoto 2008: on the Fusion of Runs.</title>
+<year>2008</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1174/CLEF2008wn-ImageCLEF-TollariEt2008b.pdf</ee>
+<crossref>conf/clef/2008w</crossref>
+<url>db/conf/clef/clef2008w.html#TollariDFGMAFGSZ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/TollariDFMAG08" mdate="2017-05-24">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Christophe Marsala</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Using Visual Concepts and Fast Visual Diversity to Improve Image Retrieval.</title>
+<pages>577-584</pages>
+<year>2008</year>
+<booktitle>CLEF</booktitle>
+<crossref>conf/clef/2008</crossref>
+<url>db/conf/clef/clef2008.html#TollariDFMAG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/TollariMFGDGSZ08" mdate="2017-05-24">
+<author>Sabrina Tollari</author>
+<author>Philippe Mulhem</author>
+<author>Marin Ferecatu</author>
+<author>Hervé Glotin</author>
+<author>Marcin Detyniecki</author>
+<author>Patrick Gallinari</author>
+<author>Hichem Sahbi</author>
+<author>Zhong-Qiu Zhao</author>
+<title>A Comparative Study of Diversity Methods for Hybrid Text and Image Retrieval Approaches.</title>
+<pages>585-592</pages>
+<year>2008</year>
+<booktitle>CLEF</booktitle>
+<crossref>conf/clef/2008</crossref>
+<url>db/conf/clef/clef2008.html#TollariMFGDGSZ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/TollariG08" mdate="2017-05-08">
+<author>Sabrina Tollari</author>
+<author>Hervé Glotin</author>
+<title>Recherche visuo-textuelle d'images sur le Web améliorée par sélection de la dimension.</title>
+<pages>7-22</pages>
+<year>2008</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2008</crossref>
+<url>db/conf/coria/coria2008.html#TollariG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/TollariG08" mdate="2017-05-19">
+<author>Sabrina Tollari</author>
+<author>Hervé Glotin</author>
+<title>Learning optimal visual features from Web sampling in online image retrieval.</title>
+<pages>1229-1232</pages>
+<year>2008</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2008</crossref>
+<url>db/conf/icassp/icassp2008.html#TollariG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/civr/TollariG07" mdate="2018-11-06">
+<author>Sabrina Tollari</author>
+<author>Hervé Glotin</author>
+<title>Web image retrieval on ImagEVAL: evidences on visualness and textualness concept dependency in fusion model.</title>
+<pages>65-72</pages>
+<year>2007</year>
+<crossref>conf/civr/2007</crossref>
+<booktitle>CIVR</booktitle>
+<url>db/conf/civr/civr2007.html#TollariG07</url>
+</inproceedings>
+</r>
+<r><article key="journals/cg/GlotinTG06" mdate="2017-05-17">
+<author>Hervé Glotin</author>
+<author>Sabrina Tollari</author>
+<author>Pascale Giraudet</author>
+<title>Shape reasoning on mis-segmented and mis-labeled objects using approximated Fisher criterion.</title>
+<pages>177-184</pages>
+<year>2006</year>
+<volume>30</volume>
+<journal>Computers and Graphics</journal>
+<number>2</number>
+<url>db/journals/cg/cg30.html#GlotinTG06</url>
+</article>
+</r>
+<r><article key="journals/isi/TollariG06" mdate="2017-05-28">
+<author>Sabrina Tollari</author>
+<author>Hervé Glotin</author>
+<title>Sélection adaptative des dimensions de l'indexation visuelle d'images mal annotées en fonction du mot recherché.</title>
+<pages>55-80</pages>
+<year>2006</year>
+<volume>11</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>4</number>
+<url>db/journals/isi/isi11.html#TollariG06</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/TollariG06" mdate="2017-05-19">
+<author>Sabrina Tollari</author>
+<author>Hervé Glotin</author>
+<title>LDA Versus MMD Approximation on Mislabeled Images for Dependant Selection of Visual Features and Their Heterogeneity.</title>
+<pages>413-416</pages>
+<year>2006</year>
+<booktitle>ICASSP (2)</booktitle>
+<crossref>conf/icassp/2006</crossref>
+<url>db/conf/icassp/icassp2006-2.html#TollariG06</url>
+</inproceedings>
+</r>
+<r><article key="journals/mta/TollariGM05" mdate="2017-05-28">
+<author>Sabrina Tollari</author>
+<author>Hervé Glotin</author>
+<author>Jacques Le Maitre</author>
+<title>Enhancement of Textual Images Classification Using Segmented Visual Contents for Image Search Engine.</title>
+<pages>405-417</pages>
+<year>2005</year>
+<volume>25</volume>
+<journal>Multimedia Tools Appl.</journal>
+<number>3</number>
+<url>db/journals/mta/mta25.html#TollariGM05</url>
+</article>
+</r>
+<r><inproceedings key="conf/acivs/GlotinTG05" mdate="2017-05-23">
+<author>Hervé Glotin</author>
+<author>Sabrina Tollari</author>
+<author>Pascale Giraudet</author>
+<title>Approximation of Linear Discriminant Analysis for Word Dependent Visual Features Selection.</title>
+<pages>170-177</pages>
+<year>2005</year>
+<crossref>conf/acivs/2005</crossref>
+<booktitle>ACIVS</booktitle>
+<url>db/conf/acivs/acivs2005.html#GlotinTG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/Tollari05" mdate="2017-05-08">
+<author>Sabrina Tollari</author>
+<title>Filtrage de l'indexation textuelle d'une image au moyen du contenu visuel pour un moteur de recherche d'images sur le web.</title>
+<pages>261-278</pages>
+<year>2005</year>
+<crossref>conf/coria/2005</crossref>
+<booktitle>CORIA</booktitle>
+<url>db/conf/coria/coria2005.html#Tollari05</url>
+</inproceedings>
+</r>
+<coauthors n="22" nc="1">
+<co c="0"><na f="a/Amini:Massih=Reza">Massih-Reza Amini</na></co>
+<co c="0"><na f="b/Bai:Liang">Liang Bai</na></co>
+<co c="0"><na f="b/Bu:Jiang">Jiang Bu</na></co>
+<co c="0"><na f="b/Buffoni:David">David Buffoni</na></co>
+<co c="0"><na f="d/Denoyer:Ludovic">Ludovic Denoyer</na></co>
+<co c="0"><na f="d/Detyniecki:Marcin">Marcin Detyniecki</na></co>
+<co c="0"><na f="d/Dumont:Emilie">Emilie Dumont</na></co>
+<co c="0"><na f="f/Fakeri=Tabrizi:Ali">Ali Fakeri-Tabrizi</na></co>
+<co c="0"><na f="f/Ferecatu:Marin">Marin Ferecatu</na></co>
+<co c="0"><na f="g/Gallinari:Patrick">Patrick Gallinari</na></co>
+<co c="0"><na f="g/Giraudet:Pascale">Pascale Giraudet</na></co>
+<co c="0"><na f="g/Glotin:Herv=eacute=">Hervé Glotin</na></co>
+<co c="0"><na f="k/Kuoman:Christian">Christian Kuoman</na></co>
+<co c="0"><na f="l/Lao:Songyang">Songyang Lao</na></co>
+<co c="0"><na f="m/Maitre:Jacques_Le">Jacques Le Maitre</na></co>
+<co c="0"><na f="m/Marsala:Christophe">Christophe Marsala</na></co>
+<co c="0"><na f="m/Mulhem:Philippe">Philippe Mulhem</na></co>
+<co c="0"><na f="q/Qu=eacute=not:Georges">Georges Quénot</na></co>
+<co c="0"><na f="s/Sahbi:Hichem">Hichem Sahbi</na></co>
+<co c="0"><na f="u/Usunier:Nicolas">Nicolas Usunier</na></co>
+<co c="0"><na f="z/Zhao:Z=">Z. Zhao</na></co>
+<co c="0"><na f="z/Zhao:Zhong=Qiu">Zhong-Qiu Zhao</na></co>
+</coauthors>
+</dblpperson>
+

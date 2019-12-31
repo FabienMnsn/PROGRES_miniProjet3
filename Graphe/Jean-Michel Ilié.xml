@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Jean-Michel Ilié" n="41">
+<person key="homepages/i/JMIlie" mdate="2015-09-18">
+<author>Jean-Michel Ilié</author>
+<url>http://www.lip6.fr/actualite/personnes-fiche.php?ident=P155andLANG=en</url>
+<note type="affiliation">Paris 6 University, LIP6 Laboratory</note>
+</person>
+<r><article key="journals/cai/BounebSI18" mdate="2018-08-15">
+<author>Messaouda Bouneb</author>
+<author>Djamel-Eddine Saïdouni</author>
+<author>Jean-Michel Ilié</author>
+<title>Hierarchical System Design Using Refinable Recursive Petri Net.</title>
+<pages>635-655</pages>
+<year>2018</year>
+<volume>37</volume>
+<journal>Computing and Informatics</journal>
+<number>3</number>
+<url>db/journals/cai/cai37.html#BounebSI18</url>
+</article>
+</r>
+<r><article key="journals/ijaci/BoukharrouIS17" mdate="2017-09-26">
+<author>Radja Boukharrou</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>Time and Space Reasoning for Ambient Systems.</title>
+<pages>38-57</pages>
+<year>2017</year>
+<volume>8</volume>
+<journal>IJACI</journal>
+<number>3</number>
+<url>db/journals/ijaci/ijaci8.html#BoukharrouIS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/fnc/IlieC17" mdate="2017-09-20">
+<author>Jean-Michel Ilié</author>
+<author>Ahmed-Chawki Chaouche</author>
+<title>Toward an Efficient Ambient Guidance for Transport Applications.</title>
+<pages>190-198</pages>
+<year>2017</year>
+<booktitle>FNC/MobiSPC</booktitle>
+<crossref>conf/fnc/2017</crossref>
+<url>db/conf/fnc/fnc2017.html#IlieC17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijspm/ArfiIS16" mdate="2017-05-18">
+<author>Farid Arfi</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>Solving preemptive job-shop scheduling problems using a true concurrency model.</title>
+<pages>292-304</pages>
+<year>2016</year>
+<volume>11</volume>
+<journal>IJSPM</journal>
+<number>3/4</number>
+<url>db/journals/ijspm/ijspm11.html#ArfiIS16</url>
+</article>
+</r>
+<r><article key="journals/ijwmc/BoukharrouIS16" mdate="2017-05-27">
+<author>Radja Boukharrou</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>Contextual time reasoning for mobile ambient agents.</title>
+<pages>250-260</pages>
+<year>2016</year>
+<volume>10</volume>
+<journal>IJWMC</journal>
+<number>3</number>
+<url>db/journals/ijwmc/ijwmc10.html#BoukharrouIS16</url>
+</article>
+</r>
+<r><article key="journals/jaihc/ChaoucheFIS16" mdate="2017-05-28">
+<author>Ahmed-Chawki Chaouche</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>Learning from situated experiences for a contextual planning guidance.</title>
+<pages>555-566</pages>
+<year>2016</year>
+<volume>7</volume>
+<journal>J. Ambient Intelligence and Humanized Computing</journal>
+<number>4</number>
+<url>db/journals/jaihc/jaihc7.html#ChaoucheFIS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/idc/ChaoucheIS16" mdate="2017-05-26">
+<author>Ahmed-Chawki Chaouche</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>A Guidance of Ambient Agents Adapted to Opportunistic Situations.</title>
+<pages>47-56</pages>
+<year>2016</year>
+<booktitle>IDC</booktitle>
+<crossref>conf/idc/2016</crossref>
+<url>db/conf/idc/idc2016.html#ChaoucheIS16</url>
+</inproceedings>
+</r>
+<r><article key="journals/fac/BounebSI15" mdate="2017-05-17">
+<author>Messaouda Bouneb</author>
+<author>Djamel-Eddine Saïdouni</author>
+<author>Jean-Michel Ilié</author>
+<title>A reduced maximality labeled transition system generation for recursive Petri nets.</title>
+<pages>951-973</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>Formal Asp. Comput.</journal>
+<number>5-6</number>
+<url>db/journals/fac/fac27.html#BounebSI15</url>
+</article>
+</r>
+<r><article key="journals/ijssoe/ArousSI15" mdate="2017-05-28">
+<author>Mokdad Arous</author>
+<author>Djamel-Eddine Saïdouni</author>
+<author>Jean-Michel Ilié</author>
+<title>An Integrated Approach for Specification and Analysis of Functional and Performance Properties of Concurrent Systems.</title>
+<pages>1-15</pages>
+<year>2015</year>
+<volume>5</volume>
+<journal>IJSSOE</journal>
+<number>1</number>
+<url>db/journals/ijssoe/ijssoe5.html#ArousSI15</url>
+</article>
+</r>
+<r><article key="journals/jaihc/BoukharrouCFIS15" mdate="2017-05-28">
+<author>Radja Boukharrou</author>
+<author>Ahmed-Chawki Chaouche</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>Dealing with temporal failure in ambient systems: a dynamic revision of plans.</title>
+<pages>325-336</pages>
+<year>2015</year>
+<volume>6</volume>
+<journal>J. Ambient Intelligence and Humanized Computing</journal>
+<number>3</number>
+<url>db/journals/jaihc/jaihc6.html#BoukharrouCFIS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciia/LayadiIKS15" mdate="2019-08-20">
+<author>Said Layadi</author>
+<author>Jean-Michel Ilié</author>
+<author>Ilham Kitouni</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>Relative Timed Model for Coordinated Multi Agent Systems.</title>
+<pages>15-27</pages>
+<year>2015</year>
+<booktitle>CIIA</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-19578-0_2</ee>
+<crossref>conf/ciia/2015</crossref>
+<url>db/conf/ciia/ciia2015.html#LayadiIKS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscs/ChaoucheFIS15" mdate="2019-07-05">
+<author>Ahmed-Chawki Chaouche</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>Spatio-Temporal Guidance for Ambient Agents.</title>
+<pages>719-726</pages>
+<year>2015</year>
+<booktitle>CSCS</booktitle>
+<crossref>conf/cscs/2015</crossref>
+<url>db/conf/cscs/cscs2015.html#ChaoucheFIS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecms/LayadiIS15" mdate="2017-05-25">
+<author>Said Layadi</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>Time Satisfaction In Coordinated Multi-Agent Systems With Relative Time Rates.</title>
+<pages>549-555</pages>
+<year>2015</year>
+<booktitle>ECMS</booktitle>
+<crossref>conf/ecms/2015</crossref>
+<url>db/conf/ecms/ecms2015.html#LayadiIS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fnc/BoukharrouIS15" mdate="2017-05-23">
+<author>Radja Boukharrou</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>Spatio-Temporal Planning for Mobile Ambient Agents.</title>
+<pages>96-103</pages>
+<year>2015</year>
+<booktitle>FNC/MobiSPC</booktitle>
+<crossref>conf/fnc/2015</crossref>
+<url>db/conf/fnc/fnc2015.html#BoukharrouIS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip12/ChaoucheFIS15" mdate="2019-10-31">
+<author>Ahmed-Chawki Chaouche</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>Improving the Contextual Selection of BDI Plans by Incorporating Situated Experiments.</title>
+<pages>266-281</pages>
+<year>2015</year>
+<booktitle>AIAI</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-23868-5_19</ee>
+<crossref>conf/ifip12/2015aiai</crossref>
+<url>db/conf/ifip12/aiai2015.html#ChaoucheFIS15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcci/ChaoucheFIS14" mdate="2017-05-28">
+<author>Ahmed-Chawki Chaouche</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>A Higher-Order Agent Model with Contextual Planning Management for Ambient Systems.</title>
+<pages>146-169</pages>
+<year>2014</year>
+<volume>16</volume>
+<journal>Trans. Computational Collective Intelligence</journal>
+<crossref>journals/tcci/2014-16</crossref>
+<url>db/journals/tcci/tcci16.html#ChaoucheFIS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ant/ChaoucheFIS14" mdate="2017-05-24">
+<author>A.-C. Chaouche</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>A Dynamical Plan Revising for Ambient Systems.</title>
+<pages>37-44</pages>
+<year>2014</year>
+<booktitle>ANT/SEIT</booktitle>
+<crossref>conf/ant/2014</crossref>
+<url>db/conf/ant/ant2014.html#ChaoucheFIS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iberamia/ChaoucheFIS14" mdate="2017-05-21">
+<author>Ahmed-Chawki Chaouche</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>A Formal Approach for Contextual Planning Management: Application to Smart Campus Environment.</title>
+<pages>791-803</pages>
+<year>2014</year>
+<booktitle>IBERAMIA</booktitle>
+<crossref>conf/iberamia/2014</crossref>
+<url>db/conf/iberamia/iberamia2014.html#ChaoucheFIS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/BoukharrouCIS14" mdate="2017-05-26">
+<author>Radja Boukharrou</author>
+<author>Ahmed-Chawki Chaouche</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>Contextual-Timed Planning Management for Ambient Systems.</title>
+<pages>107-114</pages>
+<year>2014</year>
+<booktitle>ICTAI</booktitle>
+<crossref>conf/ictai/2014</crossref>
+<url>db/conf/ictai/ictai2014.html#BoukharrouCIS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idc/ChaoucheFIS14" mdate="2017-05-26">
+<author>Ahmed-Chawki Chaouche</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>From Intentions to Plans: A Contextual Planning Guidance.</title>
+<pages>403-413</pages>
+<year>2014</year>
+<booktitle>IDC</booktitle>
+<crossref>conf/idc/2014</crossref>
+<url>db/conf/idc/idc2014.html#ChaoucheFIS14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsw/KouahSI13" mdate="2018-01-17">
+<author>Sofia Kouah</author>
+<author>Djamel-Eddine Saïdouni</author>
+<author>Jean-Michel Ilié</author>
+<title>Synchronized Petri Net: A Formal Specification Model for Multi Agent Systems.</title>
+<pages>587-602</pages>
+<year>2013</year>
+<volume>8</volume>
+<journal>JSW</journal>
+<number>3</number>
+<url>db/journals/jsw/jsw8.html#KouahSI13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecms/SaidouniBI13" mdate="2017-05-25">
+<author>Djamel-Eddine Saïdouni</author>
+<author>Messaouda Bouneb</author>
+<author>Jean-Michel Ilié</author>
+<title>Maximality Semantic For Recursive Petri Nets.</title>
+<pages>544-550</pages>
+<year>2013</year>
+<booktitle>ECMS</booktitle>
+<crossref>conf/ecms/2013</crossref>
+<url>db/conf/ecms/ecms2013.html#SaidouniBI13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euspn/ChaoucheFIS13" mdate="2017-05-19">
+<author>A.-C. Chaouche</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>A Higher-order Agent Model for Ambient Systems.</title>
+<pages>156-163</pages>
+<year>2013</year>
+<booktitle>EUSPN/ICTH</booktitle>
+<crossref>conf/euspn/2013</crossref>
+<url>db/conf/euspn/euspn2013.html#ChaoucheFIS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qshine/ArfiIS13" mdate="2017-05-22">
+<author>Farid Arfi</author>
+<author>Jean-Michel Ilié</author>
+<author>Djamel-Eddine Saïdouni</author>
+<title>Pruning Search Spaces of RATA Model for the Job-Shop Scheduling.</title>
+<pages>387-401</pages>
+<year>2013</year>
+<booktitle>QSHINE</booktitle>
+<crossref>conf/qshine/2013</crossref>
+<url>db/conf/qshine/qshine2013.html#ArfiIS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/fmsd/BaarirBEIMPY11" mdate="2017-05-27">
+<author>Souheib Baarir</author>
+<author>Cécile Braunstein</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Jean-Michel Ilié</author>
+<author>Isabelle Mounier</author>
+<author>Denis Poitrenaud</author>
+<author>Sana Younès</author>
+<title>Feasibility analysis for robustness quantification by symbolic model checking.</title>
+<pages>165-184</pages>
+<year>2011</year>
+<volume>39</volume>
+<journal>Formal Methods in System Design</journal>
+<number>2</number>
+<url>db/journals/fmsd/fmsd39.html#BaarirBEIMPY11</url>
+</article>
+</r>
+<r><inproceedings key="conf/dft/BaarirBCEILMPP09" mdate="2017-05-17">
+<author>Souheib Baarir</author>
+<author>Cécile Braunstein</author>
+<author>Renaud Clavel</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Jean-Michel Ilié</author>
+<author>Régis Leveugle</author>
+<author>Isabelle Mounier</author>
+<author>Laurence Pierre</author>
+<author>Denis Poitrenaud</author>
+<title>Complementary Formal Approaches for Dependability Analysis.</title>
+<pages>331-339</pages>
+<year>2009</year>
+<booktitle>DFT</booktitle>
+<crossref>conf/dft/2009</crossref>
+<url>db/conf/dft/dft2009.html#BaarirBCEILMPP09</url>
+</inproceedings>
+</r>
+<r><article key="journals/topnoc/DahmaniIB08" mdate="2017-05-18">
+<author>Djaouida Dahmani</author>
+<author>Jean-Michel Ilié</author>
+<author>Malika Boukala</author>
+<title>Time Recursive Petri Nets.</title>
+<pages>104-118</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Trans. Petri Nets and Other Models of Concurrency</journal>
+<crossref>journals/topnoc/2008-1</crossref>
+<url>db/journals/topnoc/topnoc1.html#DahmaniIB08</url>
+</article>
+</r>
+<r><inproceedings key="conf/forte/KlaiHI05" mdate="2018-06-26">
+<author>Kais Klai</author>
+<author>Serge Haddad</author>
+<author>Jean-Michel Ilié</author>
+<title>Modular Verification of Petri Nets Properties: A Structure-Based Approach.</title>
+<pages>189-203</pages>
+<year>2005</year>
+<crossref>conf/forte/2005</crossref>
+<booktitle>FORTE</booktitle>
+<ee type="oa">https://doi.org/10.1007/11562436_15</ee>
+<url>db/conf/forte/forte2005.html#KlaiHI05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qest/BaarirDHI05" mdate="2017-05-26">
+<author>Souheib Baarir</author>
+<author>Claude Dutheillet</author>
+<author>Serge Haddad</author>
+<author>Jean-Michel Ilié</author>
+<title>On the use of exact lumpability in partially symmetricalWell-formed Nets.</title>
+<pages>23-32</pages>
+<year>2005</year>
+<crossref>conf/qest/2005</crossref>
+<booktitle>QEST</booktitle>
+<url>db/conf/qest/qest2005.html#BaarirDHI05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atva/HaddadIK04" mdate="2017-05-21">
+<author>Serge Haddad</author>
+<author>Jean-Michel Ilié</author>
+<author>Kais Klai</author>
+<title>Design and Evaluation of a Symbolic and Abstraction-Based Model Checker.</title>
+<pages>196-210</pages>
+<year>2004</year>
+<crossref>conf/atva/2004</crossref>
+<booktitle>ATVA</booktitle>
+<url>db/conf/atva/atva2004.html#HaddadIK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/Thierry-MiegIP04" mdate="2018-11-02">
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Jean-Michel Ilié</author>
+<author>Denis Poitrenaud</author>
+<title>A Symbolic Symbolic State Space Representation.</title>
+<pages>276-291</pages>
+<year>2004</year>
+<crossref>conf/forte/2004</crossref>
+<booktitle>FORTE</booktitle>
+<url>db/conf/forte/forte2004.html#Thierry-MiegIP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qest/IlieBBDDDFGM04" mdate="2017-05-26">
+<author>Jean-Michel Ilié</author>
+<author>Souheib Baarir</author>
+<author>Marco Beccuti</author>
+<author>Clément Delamare</author>
+<author>Susanna Donatelli</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<author>Rossano Gaeta</author>
+<author>Patrice Moreaux</author>
+<title>Extended SWN Solvers in GreatSPN.</title>
+<pages>324-325</pages>
+<year>2004</year>
+<crossref>conf/qest/2004</crossref>
+<booktitle>QEST</booktitle>
+<url>db/conf/qest/qest2004.html#IlieBBDDDFGM04</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmetrics/CapraDFI01" mdate="2018-11-06">
+<author>Lorenzo Capra</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<author>Jean-Michel Ilié</author>
+<title>On the use of partial symmetries for lumping Markov chains.</title>
+<pages>33-35</pages>
+<year>2001</year>
+<volume>28</volume>
+<journal>SIGMETRICS Performance Evaluation Review</journal>
+<number>4</number>
+<url>db/journals/sigmetrics/sigmetrics28.html#CapraDFI01</url>
+</article>
+</r>
+<r><article key="journals/entcs/CapraDFI02" mdate="2017-05-28">
+<author>Lorenzo Capra</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<author>Jean-Michel Ilié</author>
+<title>Exploiting Partial Symmetries for Markov Chain Aggregation.</title>
+<year>2000</year>
+<volume>39</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<number>3</number>
+<url>db/journals/entcs/entcs39.html#CapraDFI02</url>
+<pages>231-257</pages>
+</article>
+</r>
+<r><inproceedings key="conf/forte/HaddadIA00" mdate="2005-11-08">
+<author>Serge Haddad</author>
+<author>Jean-Michel Ilié</author>
+<author>Khalil Ajami</author>
+<title>A Model Checking Method for Partially Symmetric Systems.</title>
+<pages>121-136</pages>
+<year>2000</year>
+<crossref>conf/forte/2000</crossref>
+<booktitle>FORTE</booktitle>
+<url>db/conf/forte/forte2000.html#HaddadIA00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/CapraDFI99" mdate="2017-05-26">
+<author>Lorenzo Capra</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<author>Jean-Michel Ilié</author>
+<title>Towards Performance Analysis with Partially Symmetrical SWN.</title>
+<pages>148-155</pages>
+<year>1999</year>
+<crossref>conf/mascots/1999</crossref>
+<booktitle>MASCOTS</booktitle>
+<url>db/conf/mascots/mascots1999.html#CapraDFI99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/AjamiHI98" mdate="2017-05-23">
+<author>Khalil Ajami</author>
+<author>Serge Haddad</author>
+<author>Jean-Michel Ilié</author>
+<title>Exploiting Symmetry in Linear Time Temporal Logic Model Checking: One Step Beyond.</title>
+<pages>52-67</pages>
+<year>1998</year>
+<crossref>conf/tacas/1998</crossref>
+<booktitle>TACAS</booktitle>
+<url>db/conf/tacas/tacas98.html#AjamiHI98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapsoft/IlieA97" mdate="2017-05-21">
+<author>Jean-Michel Ilié</author>
+<author>Khalil Ajami</author>
+<title>Model Checking Through Symbolic Reachability Graph.</title>
+<pages>213-224</pages>
+<year>1997</year>
+<crossref>conf/tapsoft/1997</crossref>
+<booktitle>TAPSOFT</booktitle>
+<url>db/conf/tapsoft/tapsoft97.html#IlieA97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/HaddadITZ95" mdate="2017-05-20">
+<author>Serge Haddad</author>
+<author>Jean-Michel Ilié</author>
+<author>Mohamed Taghelit</author>
+<author>Belhassen Zouari</author>
+<title>Symbolic Reachability Graph and Partial Symmetries.</title>
+<pages>238-257</pages>
+<year>1995</year>
+<crossref>conf/apn/1995</crossref>
+<booktitle>Application and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn95.html#HaddadITZ95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/IlieR93" mdate="2017-05-20">
+<author>Jean-Michel Ilié</author>
+<author>Omar Rojas</author>
+<title>On Well-Formed Nets and Optimizations in Enabling Tests.</title>
+<pages>300-318</pages>
+<year>1993</year>
+<crossref>conf/apn/1993</crossref>
+<booktitle>Application and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn93.html#IlieR93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pnpm/EstraillierGI85" mdate="2015-09-18">
+<author>Pascal Estraillier</author>
+<author>Claude Girault</author>
+<author>Jean-Michel Ilié</author>
+<title>Satellite Protocol Modeling by Synchronous Predicate Transition Nets.</title>
+<pages>280-287</pages>
+<year>1985</year>
+<crossref>conf/pnpm/1985</crossref>
+<booktitle>PNPM</booktitle>
+<url>db/conf/pnpm/pnpm1985.html#EstraillierGI85</url>
+</inproceedings>
+</r>
+<coauthors n="38" nc="2">
+<co c="0"><na f="a/Ajami:Khalil">Khalil Ajami</na></co>
+<co c="0"><na f="a/Arfi:Farid">Farid Arfi</na></co>
+<co c="0"><na f="a/Arous:Mokdad">Mokdad Arous</na></co>
+<co c="0"><na f="b/Baarir:Souheib">Souheib Baarir</na></co>
+<co c="0"><na f="b/Beccuti:Marco">Marco Beccuti</na></co>
+<co c="1"><na f="b/Boukala:Malika">Malika Boukala</na></co>
+<co c="0"><na f="b/Boukharrou:Radja">Radja Boukharrou</na></co>
+<co c="0"><na f="b/Bouneb:Messaouda">Messaouda Bouneb</na></co>
+<co c="0"><na f="b/Braunstein:C=eacute=cile">Cécile Braunstein</na></co>
+<co c="0"><na f="c/Capra:Lorenzo">Lorenzo Capra</na></co>
+<co c="0" n="2"><na f="c/Chaouche:Ahmed=Chawki">Ahmed-Chawki Chaouche</na><na>A.-C. Chaouche</na></co>
+<co c="0"><na f="c/Clavel:Renaud">Renaud Clavel</na></co>
+<co c="1"><na f="d/Dahmani:Djaouida">Djaouida Dahmani</na></co>
+<co c="0"><na f="d/Delamare:Cl=eacute=ment">Clément Delamare</na></co>
+<co c="0"><na f="d/Donatelli:Susanna">Susanna Donatelli</na></co>
+<co c="0"><na f="d/Dutheillet:Claude">Claude Dutheillet</na></co>
+<co c="0" n="2"><na f="e/Encrenaz=Tiph=egrave=ne:Emmanuelle">Emmanuelle Encrenaz-Tiphène</na><na>Emmanuelle Encrenaz</na></co>
+<co c="0"><na f="e/Estraillier:Pascal">Pascal Estraillier</na></co>
+<co c="0"><na f="f/Fallah=Seghrouchni:Amal_El">Amal El Fallah-Seghrouchni</na></co>
+<co c="0"><na f="f/Franceschinis:Giuliana">Giuliana Franceschinis</na></co>
+<co c="0"><na f="g/Gaeta:Rossano">Rossano Gaeta</na></co>
+<co c="0"><na f="g/Girault:Claude">Claude Girault</na></co>
+<co c="0"><na f="h/Haddad:Serge">Serge Haddad</na></co>
+<co c="0"><na f="k/Kitouni:Ilham">Ilham Kitouni</na></co>
+<co c="0"><na f="k/Klai:Kais">Kais Klai</na></co>
+<co c="0"><na f="k/Kouah:Sofia">Sofia Kouah</na></co>
+<co c="0"><na f="l/Layadi:Said">Said Layadi</na></co>
+<co c="0"><na f="l/Leveugle:R=eacute=gis">Régis Leveugle</na></co>
+<co c="0"><na f="m/Moreaux:Patrice">Patrice Moreaux</na></co>
+<co c="0"><na f="m/Mounier:Isabelle">Isabelle Mounier</na></co>
+<co c="0"><na f="p/Pierre:Laurence">Laurence Pierre</na></co>
+<co c="0"><na f="p/Poitrenaud:Denis">Denis Poitrenaud</na></co>
+<co c="-1"><na f="r/Rojas:Omar">Omar Rojas</na></co>
+<co c="0"><na f="s/Sa=iuml=douni:Djamel=Eddine">Djamel-Eddine Saïdouni</na></co>
+<co c="0"><na f="t/Taghelit:Mohamed">Mohamed Taghelit</na></co>
+<co c="0"><na f="t/Thierry=Mieg:Yann">Yann Thierry-Mieg</na></co>
+<co c="0"><na f="y/Youn=egrave=s:Sana">Sana Younès</na></co>
+<co c="0"><na f="z/Zouari:Belhassen">Belhassen Zouari</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,683 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Hubert Naacke" n="46">
+<person key="homepages/08/247" mdate="2016-01-25">
+<author>Hubert Naacke</author>
+<url>http://www-bd.lip6.fr/wiki/doku.php?id=site:membres:hubert:start</url>
+<note type="affiliation">University Paris 6, France</note>
+</person>
+<r><inproceedings key="conf/esws/CureXNC19" mdate="2019-10-11">
+<author>Olivier Curé</author>
+<author>Weiqin Xu</author>
+<author>Hubert Naacke</author>
+<author>Philippe Calvez</author>
+<title>LiteMat, an Encoding Scheme with RDFS++ and Multiple Inheritance Support.</title>
+<pages>269-284</pages>
+<year>2019</year>
+<booktitle>ESWC (Satellite Events)</booktitle>
+<crossref>conf/esws/2019s</crossref>
+<url>db/conf/esws/eswc2019s.html#CureXNC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asunam/GriesnerAND18" mdate="2018-11-19">
+<author>Jean-Benoît Griesner</author>
+<author>Talel Abdessalem</author>
+<author>Hubert Naacke</author>
+<author>Pierre Dosne</author>
+<title>ALGeoSPF: A Hierarchical Factorization Model for POI Recommendation.</title>
+<pages>87-90</pages>
+<year>2018</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2018</crossref>
+<url>db/conf/asunam/asonam2018.html#GriesnerAND18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/RenCNX18" mdate="2019-12-27">
+<author>Xiangnan Ren</author>
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author orcid="0000-0002-5115-4769">Guohui Xiao 0001</author>
+<title>BigSR: real-time expressive RDF stream reasoning on modern Big Data platforms.</title>
+<pages>811-820</pages>
+<year>2018</year>
+<booktitle>BigData</booktitle>
+<crossref>conf/bigdataconf/2018</crossref>
+<url>db/conf/bigdataconf/bigdataconf2018.html#RenCNX18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/GriesnerAND18" mdate="2018-05-22">
+<author>Jean-Benoît Griesner</author>
+<author>Talel Abdessalem</author>
+<author>Hubert Naacke</author>
+<author>Pierre Dosne</author>
+<title>ALGeoSPF: Un modèle de factorisation basé sur du clustering géographique pour la recommandation de POI.</title>
+<pages>203-214</pages>
+<year>2018</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2018</crossref>
+<url>db/conf/f-egc/egc2018.html#GriesnerAND18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/RenCNX18" mdate="2019-07-20">
+<author>Xiangnan Ren</author>
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Guohui Xiao 0001</author>
+<title>RDF Stream Reasoning via Answer Set Programming on Modern Big Data Platform.</title>
+<year>2018</year>
+<booktitle>International Semantic Web Conference (PandD/Industry/BlueSky)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2180/paper-51.pdf</ee>
+<crossref>conf/semweb/2018p</crossref>
+<url>db/conf/semweb/iswc2018p.html#RenCNX18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-04367" mdate="2019-07-20">
+<author>Xiangnan Ren</author>
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Guohui Xiao 0001</author>
+<title>BigSR: an empirical study of real-time expressive RDF stream reasoning on modern Big Data platforms.</title>
+<year>2018</year>
+<volume>abs/1804.04367</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.04367</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-04367</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/RenCNLK17" mdate="2019-02-20">
+<author>Xiangnan Ren</author>
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Jérémy Lhez</author>
+<author>Li Ke</author>
+<title>Strider<sup>R</sup>: Massive and distributed RDF graph stream reasoning.</title>
+<pages>3358-3367</pages>
+<year>2017</year>
+<booktitle>BigData</booktitle>
+<crossref>conf/bigdataconf/2017</crossref>
+<url>db/conf/bigdataconf/bigdataconf2017.html#RenCNLK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/GriesnerAN17" mdate="2019-10-22">
+<author>Jean-Benoît Griesner</author>
+<author>Talel Abdessalem</author>
+<author>Hubert Naacke</author>
+<title>Un Modèle de Factorisation de Poisson pour la Recommandation de Points d'Intérêt.</title>
+<pages>411-416</pages>
+<year>2017</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2017</crossref>
+<url>db/conf/f-egc/egc2017.html#GriesnerAN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/grades/NaackeAC17" mdate="2018-11-06">
+<author>Hubert Naacke</author>
+<author>Bernd Amann</author>
+<author>Olivier Curé</author>
+<title>SPARQL Graph Pattern Processing with Apache Spark.</title>
+<pages>1:1-1:7</pages>
+<year>2017</year>
+<booktitle>GRADES@SIGMOD/PODS</booktitle>
+<crossref>conf/grades/2017</crossref>
+<url>db/conf/grades/grades2017.html#NaackeAC17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-06521" mdate="2018-08-13">
+<author>Xiangnan Ren</author>
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Li Ke</author>
+<title>Strider-lsa: Massive RDF Stream Reasoning in the Cloud.</title>
+<year>2017</year>
+<volume>abs/1708.06521</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.06521</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-06521</url>
+</article>
+</r>
+<r><inproceedings key="conf/f-egc/GriesnerAN16" mdate="2016-01-22">
+<author>Jean-Benoît Griesner</author>
+<author>Talel Abdessalem</author>
+<author>Hubert Naacke</author>
+<title>Intégration des Influences Géographique et Temporelle pour la Recommandation de Points d'Intérêt.</title>
+<pages>153-158</pages>
+<year>2016</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2016</crossref>
+<url>db/conf/f-egc/egc2016.html#GriesnerAN16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/NaackeCA16" mdate="2018-08-13">
+<author>Hubert Naacke</author>
+<author>Olivier Curé</author>
+<author>Bernd Amann</author>
+<title>SPARQL query processing with Apache Spark.</title>
+<year>2016</year>
+<volume>abs/1604.08903</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.08903</ee>
+<url>db/journals/corr/corr1604.html#NaackeCA16</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/CureNRA15" mdate="2019-02-20">
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Tendry Randriamalala</author>
+<author>Bernd Amann</author>
+<title>LiteMat: A scalable, cost-efficient inference encoding scheme for large RDF graphs.</title>
+<pages>1823-1830</pages>
+<year>2015</year>
+<booktitle>BigData</booktitle>
+<crossref>conf/bigdataconf/2015</crossref>
+<url>db/conf/bigdataconf/bigdataconf2015.html#CureNRA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/data/SarrNG15" mdate="2017-05-19">
+<author>Idrissa Sarr</author>
+<author>Hubert Naacke</author>
+<author>Ibrahima Gueye</author>
+<title>Blockchain-based Model for Social Transactions Processing.</title>
+<pages>309-315</pages>
+<year>2015</year>
+<booktitle>DATA</booktitle>
+<crossref>conf/data/2015</crossref>
+<url>db/conf/data/data2015.html#SarrNG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/GueyeSNN15" mdate="2019-10-19">
+<author>Ibrahima Gueye</author>
+<author orcid="0000-0001-8581-6081">Idrissa Sarr</author>
+<author>Hubert Naacke</author>
+<author>Joseph Ndong</author>
+<title>Supporting Fluctuating Transactional Workload.</title>
+<pages>295-303</pages>
+<year>2015</year>
+<booktitle>DEXA (2)</booktitle>
+<crossref>conf/dexa/2015-2</crossref>
+<url>db/conf/dexa/dexa2015-2.html#GueyeSNN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/GriesnerAN15" mdate="2018-11-26">
+<author>Jean-Benoît Griesner</author>
+<author>Talel Abdessalem</author>
+<author>Hubert Naacke</author>
+<title>POI Recommendation: Towards Fused Matrix Factorization with Geographical and Temporal Influences.</title>
+<pages>301-304</pages>
+<year>2015</year>
+<booktitle>RecSys</booktitle>
+<crossref>conf/recsys/2015</crossref>
+<url>db/conf/recsys/recsys2015.html#GriesnerAN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/CureNBA15" mdate="2019-05-28">
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Mohamed Amine Baazizi</author>
+<author>Bernd Amann</author>
+<title>On the Evaluation of RDF Distribution Algorithms Implemented over Apache Spark.</title>
+<pages>16-31</pages>
+<year>2015</year>
+<booktitle>SSWS@ISWC</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1457/SSWS2015_paper2.pdf</ee>
+<crossref>conf/semweb/2015ssws</crossref>
+<url>db/conf/semweb/ssws2015.html#CureNBA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/CureNBA15a" mdate="2019-05-28">
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Mohamed Amine Baazizi</author>
+<author>Bernd Amann</author>
+<title>HAQWA: a Hash-based and Query Workload Aware Distributed RDF Store.</title>
+<year>2015</year>
+<booktitle>International Semantic Web Conference (Posters and Demos)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1486/paper_100.pdf</ee>
+<crossref>conf/semweb/2015p</crossref>
+<url>db/conf/semweb/iswc2015p.html#CureNBA15a</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CureNBA15" mdate="2018-08-13">
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Mohamed Amine Baazizi</author>
+<author>Bernd Amann</author>
+<title>On the Evaluation of RDF Distribution Algorithms Implemented over Apache Spark.</title>
+<year>2015</year>
+<volume>abs/1507.02321</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.02321</ee>
+<url>db/journals/corr/corr1507.html#CureNBA15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CureNRA15" mdate="2018-08-13">
+<author>Olivier Curé</author>
+<author>Hubert Naacke</author>
+<author>Tendry Randriamalala</author>
+<author>Bernd Amann</author>
+<title>LiteMat: a scalable, cost-efficient inference encoding scheme for large RDF graphs.</title>
+<year>2015</year>
+<volume>abs/1510.03409</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1510.03409</ee>
+<url>db/journals/corr/corr1510.html#CureNRA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bdcloud/GueyeAN14" mdate="2017-05-21">
+<author>Modou Gueye</author>
+<author>Talel Abdessalem</author>
+<author>Hubert Naacke</author>
+<title>A Social and Popularity-Based Tag Recommender.</title>
+<pages>318-325</pages>
+<year>2014</year>
+<booktitle>BDCloud</booktitle>
+<crossref>conf/bdcloud/2014</crossref>
+<url>db/conf/bdcloud/bdcloud2014.html#GueyeAN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/GueyeAN14" mdate="2018-11-06">
+<author>Modou Gueye</author>
+<author>Talel Abdessalem</author>
+<author>Hubert Naacke</author>
+<title>A parameter-free algorithm for an optimized tag recommendation list size.</title>
+<pages>233-240</pages>
+<year>2014</year>
+<booktitle>RecSys</booktitle>
+<crossref>conf/recsys/2014</crossref>
+<url>db/conf/recsys/recsys2014.html#GueyeAN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/SarrNM13" mdate="2019-10-19">
+<author orcid="0000-0001-8581-6081">Idrissa Sarr</author>
+<author>Hubert Naacke</author>
+<author>Abderrahmane Ould Mohamed Moctar</author>
+<title>STRING: Social-Transaction Routing over a Ring.</title>
+<pages>319-333</pages>
+<year>2013</year>
+<booktitle>DEXA (2)</booktitle>
+<crossref>conf/dexa/2013-2</crossref>
+<url>db/conf/dexa/dexa2013-2.html#SarrNM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/GueyeAN13a" mdate="2019-11-26">
+<author>Modou Gueye</author>
+<author>Talel Abdessalem</author>
+<author>Hubert Naacke</author>
+<title>Dynamic Recommender System: Using Cluster-Based Biases to Improve the Accuracy of the Predictions.</title>
+<pages>79-104</pages>
+<year>2013</year>
+<booktitle>EGC (best of volume)</booktitle>
+<crossref>conf/f-egc/2013sci</crossref>
+<url>db/conf/f-egc/sci2013.html#GueyeAN13a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/GueyeAN13" mdate="2014-04-24">
+<author>Modou Gueye</author>
+<author>Talel Abdessalem</author>
+<author>Hubert Naacke</author>
+<title>Technique de factorisation multi-biais pour des recommandations dynamiques.</title>
+<pages>365-376</pages>
+<year>2013</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2013</crossref>
+<url>db/conf/f-egc/egc2013.html#GueyeAN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/GueyeAN13" mdate="2019-05-28">
+<author>Modou Gueye</author>
+<author>Talel Abdessalem</author>
+<author>Hubert Naacke</author>
+<title>STRec: An Improved Graph-based Tag Recommender.</title>
+<year>2013</year>
+<booktitle>RSWeb@RecSys</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1066/Paper10.pdf</ee>
+<crossref>conf/recsys/2013rsweb</crossref>
+<url>db/conf/recsys/rsweb2013.html#GueyeAN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/GueyeAN13a" mdate="2019-05-28">
+<author>Modou Gueye</author>
+<author>Talel Abdessalem</author>
+<author>Hubert Naacke</author>
+<title>FoldCons: A Simple Way To Improve Tag Recommendation.</title>
+<year>2013</year>
+<booktitle>RSWeb@RecSys</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1066/Paper11.pdf</ee>
+<crossref>conf/recsys/2013rsweb</crossref>
+<url>db/conf/recsys/rsweb2013.html#GueyeAN13a</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GueyeAN13" mdate="2018-08-13">
+<author>Modou Gueye</author>
+<author>Talel Abdessalem</author>
+<author>Hubert Naacke</author>
+<title>Improving tag recommendation by folding in more consistency.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.7517</ee>
+<volume>abs/1309.7517</volume>
+<url>db/journals/corr/corr1309.html#GueyeAN13</url>
+</article>
+</r>
+<r><inproceedings key="conf/globe/GueyeSN12" mdate="2019-10-19">
+<author>Ibrahima Gueye</author>
+<author orcid="0000-0001-8581-6081">Idrissa Sarr</author>
+<author>Hubert Naacke</author>
+<title>TransElas: Elastic Transaction Monitoring for Web2.0 Applications.</title>
+<pages>1-12</pages>
+<year>2012</year>
+<booktitle>Globe</booktitle>
+<crossref>conf/globe/2012</crossref>
+<url>db/conf/globe/globe2012.html#GueyeSN12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1212-0763" mdate="2018-08-13">
+<author>Modou Gueye</author>
+<author>Talel Abdessalem</author>
+<author>Hubert Naacke</author>
+<title>Dynamic recommender system : using cluster-based biases to improve the accuracy of the predictions</title>
+<ee type="oa">http://arxiv.org/abs/1212.0763</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1212.0763</volume>
+<url>db/journals/corr/corr1212.html#abs-1212-0763</url>
+</article>
+</r>
+<r><article key="journals/isi/SarrNG10" mdate="2019-10-19">
+<author orcid="0000-0001-8581-6081">Idrissa Sarr</author>
+<author>Hubert Naacke</author>
+<author>Stéphane Gançarski</author>
+<title>Routage décentralisé de transactions avec gestion des pannes dans un réseau à large échelle.</title>
+<pages>87-111</pages>
+<year>2010</year>
+<volume>15</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>1</number>
+<url>db/journals/isi/isi15.html#SarrNG10</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbkda/SarrNG10" mdate="2019-10-19">
+<author orcid="0000-0001-8581-6081">Idrissa Sarr</author>
+<author>Hubert Naacke</author>
+<author>Stéphane Gançarski</author>
+<title>Failure-Tolerant Transaction Routing at Large Scale.</title>
+<pages>165-172</pages>
+<year>2010</year>
+<booktitle>DBKDA</booktitle>
+<crossref>conf/dbkda/2010</crossref>
+<url>db/conf/dbkda/dbkda2010.html#SarrNG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/SarrNG10" mdate="2019-10-19">
+<author orcid="0000-0001-8581-6081">Idrissa Sarr</author>
+<author>Hubert Naacke</author>
+<author>Stéphane Gançarski</author>
+<title>TransPeer: adaptive distributed transaction monitoring for Web2.0 applications.</title>
+<pages>423-430</pages>
+<year>2010</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2010</crossref>
+<url>db/conf/sac/sac2010.html#SarrNG10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbtw/2009" mdate="2019-12-18">
+<editor>Marco Mesiti</editor>
+<editor>Traian Marius Truta</editor>
+<editor>Li Xiong 0001</editor>
+<editor>Sascha Müller 0004</editor>
+<editor>Hubert Naacke</editor>
+<editor>Boris Novikov 0001</editor>
+<editor>Guillaume Raschia</editor>
+<editor>Ismael Sanz</editor>
+<editor>Pierre Sens 0001</editor>
+<editor>Dmitry Shaporenkov</editor>
+<editor>Nicolas Travers</editor>
+<title>Proceedings of the 2009 EDBT/ICDT Workshops, Saint-Petersburg, Russia, March 22, 2009</title>
+<isbn>978-1-60558-650-2</isbn>
+<year>2009</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<series href="db/series/aicps/index.html">ACM International Conference Proceeding Series</series>
+<volume>360</volume>
+<publisher>ACM</publisher>
+<url>db/conf/edbtw/edbtw2009.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/vecpar/SarrNG08" mdate="2019-10-19">
+<author orcid="0000-0001-8581-6081">Idrissa Sarr</author>
+<author>Hubert Naacke</author>
+<author>Stéphane Gançarski</author>
+<title>DTR: Distributed Transaction Routing in a Large Scale Network.</title>
+<pages>521-531</pages>
+<year>2008</year>
+<booktitle>VECPAR</booktitle>
+<crossref>conf/vecpar/2008</crossref>
+<url>db/conf/vecpar/vecpar2008.html#SarrNG08</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/GancarskiNPV07" mdate="2017-05-20">
+<author>Stéphane Gançarski</author>
+<author>Hubert Naacke</author>
+<author>Esther Pacitti</author>
+<author>Patrick Valduriez</author>
+<title>The leganet system: Freshness-aware transaction routing in a database cluster.</title>
+<pages>320-343</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>Inf. Syst.</journal>
+<number>2</number>
+<url>db/journals/is/is32.html#GancarskiNPV07</url>
+</article>
+</r>
+<r><article key="journals/cleiej/GancarskiLNRS06" mdate="2019-05-21">
+<author>Stéphane Gançarski</author>
+<author>Claudia León</author>
+<author>Hubert Naacke</author>
+<author>Marta Rukoz</author>
+<author>Pablo Santini</author>
+<title>Integrity Constraint Checking in Distributed Nested Transactions over a Database Cluster.</title>
+<year>2006</year>
+<volume>9</volume>
+<journal>CLEI Electron. J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.9.2.2</ee>
+<url>db/journals/cleiej/cleiej9.html#GancarskiLNRS06</url>
+</article>
+</r>
+<r><article key="journals/isi/NaackeNV04" mdate="2017-05-28">
+<author>Hubert Naacke</author>
+<author>François Dang Ngoc</author>
+<author>Patrick Valduriez</author>
+<title>Routage de transactions dans un cluster de bases de données répliquées.</title>
+<pages>85-107</pages>
+<year>2004</year>
+<volume>9</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>1</number>
+<url>db/journals/isi/isi9.html#NaackeNV04</url>
+</article>
+</r>
+<r><inproceedings key="conf/bda/GancarskiPNSV04" mdate="2006-07-04">
+<author>Stéphane Gançarski</author>
+<author>Cécile Le Pape</author>
+<author>Hubert Naacke</author>
+<author>Imen Sebei</author>
+<author>Patrick Valduriez</author>
+<title>The Leganet prototype : Managing Autonomous Databases in a Cluster System.</title>
+<pages>347-350</pages>
+<year>2004</year>
+<crossref>conf/bda/2004</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2004.html#GancarskiPNSV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/NaackeNV03" mdate="2006-07-18">
+<author>Hubert Naacke</author>
+<author>François Dang Ngoc</author>
+<author>Patrick Valduriez</author>
+<title>Transaction Routing with Freshness Control in a Cluster of Replicated Databases.</title>
+<year>2003</year>
+<crossref>conf/bda/2003</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2003.html#NaackeNV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/GancarskiNPV02" mdate="2006-09-13">
+<author>Stéphane Gançarski</author>
+<author>Hubert Naacke</author>
+<author>Esther Pacitti</author>
+<author>Patrick Valduriez</author>
+<title>Parallel Processing with Autonomous Databases in a Cluster System.</title>
+<year>2002</year>
+<crossref>conf/bda/2002</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2002.html#GancarskiNPV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coopis/GancarskiNPV02" mdate="2017-05-25">
+<author>Stéphane Gançarski</author>
+<author>Hubert Naacke</author>
+<author>Esther Pacitti</author>
+<author>Patrick Valduriez</author>
+<title>Parallel Processing with Autonomous Databases in a Cluster System.</title>
+<pages>410-428</pages>
+<year>2002</year>
+<crossref>conf/coopis/2002</crossref>
+<booktitle>CoopIS/DOA/ODBASE</booktitle>
+<url>db/conf/coopis/coopis2002.html#GancarskiNPV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdas/GancarskiNV02" mdate="2004-01-05">
+<author>Stéphane Gançarski</author>
+<author>Hubert Naacke</author>
+<author>Patrick Valduriez</author>
+<title>Load Balancing of Autonomous Applications and Databases in a Cluster System.</title>
+<pages>159-170</pages>
+<year>2002</year>
+<crossref>conf/wdas/2002</crossref>
+<booktitle>WDAS</booktitle>
+<url>db/conf/wdas/wdas2002.html#GancarskiNV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/NaackeGT98" mdate="2017-05-17">
+<author>Hubert Naacke</author>
+<author>Georges Gardarin</author>
+<author>Anthony Tomasic</author>
+<title>Leveraging Mediator Cost Models with Heterogeneous Data Sources.</title>
+<pages>351-360</pages>
+<cdrom>ICDE98/P351.pdf</cdrom>
+<year>1998</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde98.html#NaackeGT98</url>
+<crossref>conf/icde/98</crossref>
+<cite>conf/sigmod/Wiederhold93</cite>
+<cite>conf/icdcs/TomasicRV96</cite>
+<cite>conf/ride/CareyHSACFFLNPTWW95</cite>
+<cite>conf/cikm/LiuP95</cite>
+<cite>...</cite>
+<cite>conf/cikm/GohMS94</cite>
+<cite>...</cite>
+<cite>journals/tods/BernsteinGWRR81</cite>
+<cite>journals/tse/ApersHY83</cite>
+<cite>journals/csur/YuC84</cite>
+<cite>conf/vldb/DuKS92</cite>
+<cite>conf/vldb/GardarinST96</cite>
+<cite>books/acm/kim95/ShanADDK95</cite>
+<cite>conf/vldb/GardarinGT95</cite>
+<cite>conf/sigmod/AdaliCPS96</cite>
+<cite>...</cite>
+<cite>books/mk/Cattell96</cite>
+<cite>conf/bda/KapitskaiaTV97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/IoannidisP95</cite>
+<cite>conf/sigmod/PoosalaIHS96</cite>
+<cite>conf/ddb/DanielsSHLMWW82</cite>
+<cite>conf/vldb/Chang82</cite>
+<cite>...</cite>
+<cite>conf/sigmod/BlottRS96</cite>
+<cite>conf/vldb/SeshadriLR97</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/NaackeGT97" mdate="2006-09-13">
+<author>Hubert Naacke</author>
+<author>Georges Gardarin</author>
+<author>Anthony Tomasic</author>
+<title>Leveraging Mediator Cost Models with Heterogeneous Data Sources.</title>
+<year>1997</year>
+<crossref>conf/bda/1997</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda97.html#NaackeGT97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TomasicABKNR97" mdate="2018-11-06">
+<author>Anthony Tomasic</author>
+<author>Rémy Amouroux</author>
+<author>Philippe Bonnet</author>
+<author>Olga Kapitskaia</author>
+<author>Hubert Naacke</author>
+<author>Louiqa Raschid</author>
+<title>The Distributed Information Search Component (Disco) and the World Wide Web.</title>
+<pages>546-548</pages>
+<year>1997</year>
+<crossref>conf/sigmod/97</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod97.html#TomasicABKNR97</url>
+<cdrom>SIGMOD97/P546.PDF</cdrom>
+<cite>...</cite>
+<cite>conf/icdcs/TomasicRV96</cite>
+<cite>conf/sigmod/Wiederhold93</cite>
+<cite>conf/sigmod/DogacHKOONDMAKE96</cite>
+<cite>conf/sigmod/RothAHCCFSTW96</cite>
+<cite>conf/sigmod/QuassWGHLMNRRAUW96</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pdis/AmsalegFTU96</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<coauthors n="43" nc="1">
+<co c="0"><na f="a/Abdessalem:Talel">Talel Abdessalem</na></co>
+<co c="0"><na f="a/Amann:Bernd">Bernd Amann</na></co>
+<co c="0"><na f="a/Amouroux:R=eacute=my">Rémy Amouroux</na></co>
+<co c="0"><na f="b/Baazizi:Mohamed_Amine">Mohamed Amine Baazizi</na></co>
+<co c="0"><na f="b/Bonnet:Philippe">Philippe Bonnet</na></co>
+<co c="0"><na f="c/Calvez:Philippe">Philippe Calvez</na></co>
+<co c="0"><na f="c/Cur=eacute=:Olivier">Olivier Curé</na></co>
+<co c="0"><na f="d/Dosne:Pierre">Pierre Dosne</na></co>
+<co c="0"><na f="g/Gan=ccedil=arski:St=eacute=phane">Stéphane Gançarski</na></co>
+<co c="0"><na f="g/Gardarin:Georges">Georges Gardarin</na></co>
+<co c="0"><na f="g/Griesner:Jean=Beno=icirc=t">Jean-Benoît Griesner</na></co>
+<co c="0"><na f="g/Gueye:Ibrahima">Ibrahima Gueye</na></co>
+<co c="0"><na f="g/Gueye:Modou">Modou Gueye</na></co>
+<co c="0"><na f="k/Kapitskaia:Olga">Olga Kapitskaia</na></co>
+<co c="0"><na f="k/Ke:Li">Li Ke</na></co>
+<co c="0"><na f="l/Le=oacute=n:Claudia">Claudia León</na></co>
+<co c="0"><na f="l/Lhez:J=eacute=r=eacute=my">Jérémy Lhez</na></co>
+<co c="0"><na f="m/Mesiti:Marco">Marco Mesiti</na></co>
+<co c="0"><na f="m/Moctar:Abderrahmane_Ould_Mohamed">Abderrahmane Ould Mohamed Moctar</na></co>
+<co c="0"><na f="m/M=uuml=ller_0004:Sascha">Sascha Müller 0004</na></co>
+<co c="0"><na f="n/Ndong:Joseph">Joseph Ndong</na></co>
+<co c="0"><na f="n/Ngoc:Fran=ccedil=ois_Dang">François Dang Ngoc</na></co>
+<co c="0"><na f="n/Novikov_0001:Boris">Boris Novikov 0001</na></co>
+<co c="0"><na f="p/Pacitti:Esther">Esther Pacitti</na></co>
+<co c="0"><na f="p/Pape:C=eacute=cile_Le">Cécile Le Pape</na></co>
+<co c="0"><na f="r/Randriamalala:Tendry">Tendry Randriamalala</na></co>
+<co c="0"><na f="r/Raschia:Guillaume">Guillaume Raschia</na></co>
+<co c="0"><na f="r/Raschid:Louiqa">Louiqa Raschid</na></co>
+<co c="0"><na f="r/Ren:Xiangnan">Xiangnan Ren</na></co>
+<co c="0"><na f="r/Rukoz:Marta">Marta Rukoz</na></co>
+<co c="0"><na f="s/Santini:Pablo">Pablo Santini</na></co>
+<co c="0"><na f="s/Sanz:Ismael">Ismael Sanz</na></co>
+<co c="0"><na f="s/Sarr:Idrissa">Idrissa Sarr</na></co>
+<co c="0"><na f="s/Sebei:Imen">Imen Sebei</na></co>
+<co c="0"><na f="s/Sens_0001:Pierre">Pierre Sens 0001</na></co>
+<co c="0"><na f="s/Shaporenkov:Dmitry">Dmitry Shaporenkov</na></co>
+<co c="0"><na f="t/Tomasic:Anthony">Anthony Tomasic</na></co>
+<co c="0"><na f="t/Travers:Nicolas">Nicolas Travers</na></co>
+<co c="0"><na f="t/Truta:Traian_Marius">Traian Marius Truta</na></co>
+<co c="0"><na f="v/Valduriez:Patrick">Patrick Valduriez</na></co>
+<co c="0"><na f="x/Xiao_0001:Guohui">Guohui Xiao 0001</na></co>
+<co c="0"><na f="x/Xiong_0001:Li">Li Xiong 0001</na></co>
+<co c="0"><na f="x/Xu:Weiqin">Weiqin Xu</na></co>
+</coauthors>
+</dblpperson>
+

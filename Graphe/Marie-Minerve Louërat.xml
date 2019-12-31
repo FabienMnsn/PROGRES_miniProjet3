@@ -1,0 +1,727 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Marie-Minerve Louërat" n="46">
+<person key="homepages/06/3604" mdate="2017-02-10">
+<author>Marie-Minerve Louërat</author>
+<url>http://www-soc.lip6.fr/~mariem/</url>
+<note type="affiliation">Université Pierre et Marie Curie, Paris, France</note>
+</person>
+<r><inproceedings key="conf/date/LeonhardYTNLCAS19" mdate="2019-05-20">
+<author>Julian Leonhard</author>
+<author>Muhammad Yasin</author>
+<author>Shadi Turk</author>
+<author>Mohammed Thari Nabeel</author>
+<author>Marie-Minerve Louërat</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Hassan Aboushady</author>
+<author>Ozgur Sinanoglu</author>
+<author>Haralampos-G. D. Stratigopoulos</author>
+<title>MixLock: Securing Mixed-Signal Circuits via Logic Locking.</title>
+<pages>84-89</pages>
+<year>2019</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2019</crossref>
+<url>db/conf/date/date2019.html#LeonhardYTNLCAS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/GebreyohannesLA19" mdate="2019-07-14">
+<author>Fikre Tsigabu Gebreyohannes</author>
+<author>Marie-Minerve Louërat</author>
+<author>Hassan Aboushady</author>
+<title>Design of a 4th-Order Feed-Forward-Compensated Operational Amplifier for Multi-GHz Sampling Frequency Continuous-Time Bandpass Sigma-Delta Modulators.</title>
+<pages>1-5</pages>
+<year>2019</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2019</crossref>
+<url>db/conf/iscas/iscas2019.html#GebreyohannesLA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smacd/LeonhardLASS19" mdate="2019-08-23">
+<author>Julian Leonhard</author>
+<author>Marie-Minerve Louërat</author>
+<author>Hassan Aboushady</author>
+<author>Ozgur Sinanoglu</author>
+<author>Haralampos-G. D. Stratigopoulos</author>
+<title>Mixed-Signal Hardware Security Using MixLock: Demonstration in an Audio Application.</title>
+<pages>185-188</pages>
+<year>2019</year>
+<booktitle>SMACD</booktitle>
+<crossref>conf/smacd/2019</crossref>
+<url>db/conf/smacd/smacd2019.html#LeonhardLASS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ShimizuALSCG18" mdate="2018-10-24">
+<author>Naohiko Shimizu</author>
+<author>Junichi Akita</author>
+<author>Marie-Minerve Louërat</author>
+<author>Haralampos-G. D. Stratigopoulos</author>
+<author>Jean-Paul Chaput</author>
+<author>Dimitri Galayko</author>
+<title>Open Source Hardware and EDA Tools for Analog/Mixed-Signal Design and Prototyping.</title>
+<pages>1-5</pages>
+<year>2018</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2018</crossref>
+<url>db/conf/iscas/iscas2018.html#ShimizuALSCG18</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcas/ZouMISGSCL16" mdate="2017-07-27">
+<author orcid="0000-0002-2724-3489">Hao Zou</author>
+<author>Yasser Moursy</author>
+<author>Ramy Iskander</author>
+<author>Alexander Steinmair</author>
+<author>Heimo Gensinger</author>
+<author>Ehrenfried Seebacher</author>
+<author>Jean-Paul Chaput</author>
+<author>Marie-Minerve Louërat</author>
+<title>Using CAD Tool for Substrate Parasitic Modeling in Smart Power Technology.</title>
+<pages>2323-2333</pages>
+<year>2016</year>
+<volume>63-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>12</number>
+<url>db/journals/tcas/tcasI63.html#ZouMISGSCL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icecsys/LaoLC16" mdate="2017-05-23">
+<author>Eric Lao</author>
+<author>Marie-Minerve Louërat</author>
+<author>Jean-Paul Chaput</author>
+<title>Semi-automated analog placement.</title>
+<pages>432-433</pages>
+<year>2016</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2016</crossref>
+<url>db/conf/icecsys/icecsys2016.html#LaoLC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/MoursyKLPIL16" mdate="2017-05-26">
+<author>Yasser Moursy</author>
+<author>Raouf Khalil</author>
+<author>Sergio Lecce</author>
+<author>Vanni Poletto</author>
+<author>Ramy Iskander</author>
+<author>Marie-Minerve Louërat</author>
+<title>Mixed-signal PI controller in current-mode DC-DC buck converter for automotive applications.</title>
+<pages>1610-1613</pages>
+<year>2016</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2016</crossref>
+<url>db/conf/iscas/iscas2016.html#MoursyKLPIL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ZouMICL16" mdate="2017-05-26">
+<author>Hao Zou</author>
+<author>Yasser Moursy</author>
+<author>Ramy Iskander</author>
+<author>Jean-Paul Chaput</author>
+<author>Marie-Minerve Louërat</author>
+<title>An adaptive mesh refinement strategy of substrate modeling for smart power ICs.</title>
+<pages>2358-2361</pages>
+<year>2016</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2016</crossref>
+<url>db/conf/iscas/iscas2016.html#ZouMICL16</url>
+</inproceedings>
+</r>
+<r><article key="journals/dt/BarnasconiDEVCL15" mdate="2017-07-22">
+<author>Martin Barnasconi</author>
+<author>Manfred Dietrich</author>
+<author>Karsten Einwich</author>
+<author>Thilo Vörtler</author>
+<author>Jean-Paul Chaput</author>
+<author>Marie-Minerve Louërat</author>
+<author>François Pêcheux</author>
+<author>Zhi Wang 0005</author>
+<author>Philippe Cuenot</author>
+<author>Ingmar Neumann</author>
+<author>Thang Nguyen</author>
+<author>Ronan Lucas</author>
+<author>Emmanuel Vaumorin</author>
+<title>UVM-SystemC-AMS Framework for System-Level Verification and Validation of Automotive Use Cases.</title>
+<pages>76-86</pages>
+<year>2015</year>
+<volume>32</volume>
+<journal>IEEE Design and Test</journal>
+<number>6</number>
+<url>db/journals/dt/dt32.html#BarnasconiDEVCL15</url>
+</article>
+</r>
+<r><article key="journals/integration/MalakLIDJGLT15" mdate="2017-12-28">
+<author>Akram Malak</author>
+<author>Yao Li</author>
+<author>Ramy Iskander</author>
+<author>François Durbin</author>
+<author orcid="0000-0002-2007-9380">Farakh Javid</author>
+<author>Jean-Marc Guebhard</author>
+<author>Marie-Minerve Louërat</author>
+<author>André Tissot</author>
+<title>Fast multidimensional optimization of analog circuits initiated by monodimensional global Peano explorations.</title>
+<pages>198-212</pages>
+<year>2015</year>
+<volume>48</volume>
+<journal>Integration</journal>
+<url>db/journals/integration/integration48.html#MalakLIDJGLT15</url>
+</article>
+</r>
+<r><article key="journals/mj/KhalilLP15" mdate="2017-12-28">
+<author>Raouf Khalil</author>
+<author>Marie-Minerve Louërat</author>
+<author orcid="0000-0002-7841-5332">Roger Petigny</author>
+<title>Background analog and mixed signal calibration system for time-interleaved ADC.</title>
+<pages>656-667</pages>
+<year>2015</year>
+<volume>46</volume>
+<journal>Microelectronics Journal</journal>
+<number>7</number>
+<url>db/journals/mj/mj46.html#KhalilLP15</url>
+</article>
+</r>
+<r><article key="journals/tcas/AdelSL15" mdate="2017-05-26">
+<author>Hussein Adel</author>
+<author>Marc Sabut</author>
+<author>Marie-Minerve Louërat</author>
+<title>Split ADC Based Fully Deterministic Multistage Calibration for High Speed Pipeline ADCs.</title>
+<pages>1481-1488</pages>
+<year>2015</year>
+<volume>62-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>6</number>
+<url>db/journals/tcas/tcasI62.html#AdelSL15</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/AndradeMVAPL15" mdate="2017-04-30">
+<author>Liliana Andrade</author>
+<author>Torsten Maehne</author>
+<author>Alain Vachoux</author>
+<author>Cédric Ben Aoun</author>
+<author>François Pêcheux</author>
+<author>Marie-Minerve Louërat</author>
+<title>Pre-simulation symbolic analysis of synchronization issues between discrete event and timed data flow models of computation.</title>
+<pages>1671-1676</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#AndradeMVAPL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/AdelSL15" mdate="2017-05-26">
+<author>Hussein Adel</author>
+<author>Marc Sabut</author>
+<author>Marie-Minerve Louërat</author>
+<title>1.1-V 200 MS/s 12-bit digitally calibrated pipeline ADC in 40 nm CMOS.</title>
+<pages>2281-2284</pages>
+<year>2015</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2015</crossref>
+<url>db/conf/iscas/iscas2015.html#AdelSL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/AounAMPLV15" mdate="2017-05-25">
+<author>Cédric Ben Aoun</author>
+<author>Liliana Andrade</author>
+<author>Torsten Mähne</author>
+<author>François Pêcheux</author>
+<author>Marie-Minerve Louërat</author>
+<author>Alain Vachoux</author>
+<title>Pre-simulation elaboration of heterogeneous systems: The SystemC multi-disciplinary virtual prototyping approach.</title>
+<pages>278-285</pages>
+<year>2015</year>
+<booktitle>SAMOS</booktitle>
+<crossref>conf/samos/2015</crossref>
+<url>db/conf/samos/samos2015.html#AounAMPLV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/MachneWVAACLPKS14" mdate="2017-07-22">
+<author>Torsten Maehne</author>
+<author>Zhi Wang 0005</author>
+<author orcid="0000-0001-7690-9665">Benoit Vernay</author>
+<author>Liliana Andrade</author>
+<author>Cédric Ben Aoun</author>
+<author>Jean-Paul Chaput</author>
+<author>Marie-Minerve Louërat</author>
+<author>François Pêcheux</author>
+<author>Arnaud Krust</author>
+<author>Gerold Schropfer</author>
+<author>Martin Barnasconi</author>
+<author>Karsten Einwich</author>
+<author>Fabio Cenni</author>
+<author>Olivier Guillaume</author>
+<title>UVM-SystemC-AMS based framework for the correct by construction design of MEMS in their real heterogeneous application context.</title>
+<pages>862-865</pages>
+<year>2014</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2014</crossref>
+<url>db/conf/icecsys/icecsys2014.html#MachneWVAACLPKS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/AdelSPL14" mdate="2017-05-26">
+<author>Hussein Adel</author>
+<author>Marc Sabut</author>
+<author>Roger Petigny</author>
+<author>Marie-Minerve Louërat</author>
+<title>Split ADC digital background calibration for high speed SHA-less pipeline ADCs.</title>
+<pages>1143-1146</pages>
+<year>2014</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2014</crossref>
+<url>db/conf/iscas/iscas2014.html#AdelSPL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/LiIL14" mdate="2017-05-25">
+<author>Yao Li</author>
+<author>Ramy Iskander</author>
+<author>Marie-Minerve Louërat</author>
+<title>Modeling, design and verification platform using SystemC AMS.</title>
+<pages>39-46</pages>
+<year>2014</year>
+<booktitle>ISQED</booktitle>
+<crossref>conf/isqed/2014</crossref>
+<url>db/conf/isqed/isqed2014.html#LiIL14</url>
+</inproceedings>
+</r>
+<r><article key="journals/integration/IskanderLK13" mdate="2017-09-16">
+<author>Ramy Iskander</author>
+<author>Marie-Minerve Louërat</author>
+<author orcid="0000-0003-0377-7408">Andreas Kaiser</author>
+<title>Hierarchical sizing and biasing of analog firm intellectual properties.</title>
+<pages>172-188</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>Integration</journal>
+<number>2</number>
+<url>db/journals/integration/integration46.html#IskanderLK13</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/JavidILD13" mdate="2017-05-26">
+<author>Farakh Javid</author>
+<author>Ramy Iskander</author>
+<author>Marie-Minerve Louërat</author>
+<author>François Durbin</author>
+<title>A structured DC analysis methodology for accurate verification of analog circuits.</title>
+<pages>2662-2665</pages>
+<year>2013</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2013</crossref>
+<url>db/conf/iscas/iscas2013.html#JavidILD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/AdelLS13" mdate="2017-05-24">
+<author>Hussein Adel</author>
+<author>Marie-Minerve Louërat</author>
+<author>Marc Sabut</author>
+<title>Design considerations for low gain amplifier in the MDAC of digitally calibrated pipelined ADCs.</title>
+<pages>23-26</pages>
+<year>2013</year>
+<booktitle>VLSI-SoC</booktitle>
+<crossref>conf/vlsi/2013soc</crossref>
+<url>db/conf/vlsi/vlsisoc2013.html#AdelLS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/LevequePLACSMC12" mdate="2017-09-16">
+<author>Antoine Lévêque</author>
+<author>François Pêcheux</author>
+<author>Marie-Minerve Louërat</author>
+<author>Hassan Aboushady</author>
+<author>Fabio Cenni</author>
+<author>Serge Scotti</author>
+<author>Abdelbasset Massouri</author>
+<author orcid="0000-0002-3279-930X">Laurent Clavier</author>
+<title>Holistic modeling of embedded systems with multi-discipline feedback: Application to a Precollision Mitigation Braking System.</title>
+<pages>739-744</pages>
+<year>2012</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2012</crossref>
+<url>db/conf/date/date2012.html#LevequePLACSMC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/LiIJL12" mdate="2017-04-30">
+<author>Yao Li</author>
+<author>Ramy Iskander</author>
+<author>Farakh Javid</author>
+<author>Marie-Minerve Louërat</author>
+<title>A unified platform for design and verification of mixed-signal systems based on SystemC AMS.</title>
+<pages>75-82</pages>
+<year>2012</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2012</crossref>
+<url>db/conf/fdl/fdl2012.html#LiIJL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/LiIJL12a" mdate="2019-03-06">
+<author>Yao Li</author>
+<author>Ramy Iskander</author>
+<author>Farakh Javid</author>
+<author>Marie-Minerve Louërat</author>
+<title>A Design and Verification Methodology for Mixed-Signal Systems Using SystemC-AMS.</title>
+<pages>89-108</pages>
+<year>2012</year>
+<booktitle>FDL (Selected Papers)</booktitle>
+<crossref>conf/fdl/2012s</crossref>
+<url>db/conf/fdl/fdl2012s.html#LiIJL12a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/KhalilLPG12" mdate="2018-08-13">
+<author>Raouf Khalil</author>
+<author>Marie-Minerve Louërat</author>
+<author>Roger Petigny</author>
+<author>Hugo Gicquel</author>
+<title>Background time skew calibration for time-interleaved ADC using phase detection method.</title>
+<pages>257-260</pages>
+<year>2012</year>
+<booktitle>NEWCAS</booktitle>
+<crossref>conf/newcas/2012</crossref>
+<url>db/conf/newcas/newcas2012.html#KhalilLPG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecctd/YoussefJDIL11" mdate="2017-05-26">
+<author>Stephanie Youssef</author>
+<author>Farakh Javid</author>
+<author>Damien Dupuis</author>
+<author>Ramy Iskander</author>
+<author>Marie-Minerve Louërat</author>
+<title>A seamless representation for coupling transistor sizing with nanometric CMOS layout generation.</title>
+<pages>341-344</pages>
+<year>2011</year>
+<crossref>conf/ecctd/2011</crossref>
+<booktitle>ECCTD</booktitle>
+<url>db/conf/ecctd/ecctd2011.html#YoussefJDIL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idt/YoussefJDIL11" mdate="2017-05-24">
+<author>Stephanie Youssef</author>
+<author>Farakh Javid</author>
+<author>Damien Dupuis</author>
+<author>Ramy Iskander</author>
+<author>Marie-Minerve Louërat</author>
+<title>A Python-based layout-aware analog design methodology for nanometric technologies.</title>
+<pages>62-67</pages>
+<year>2011</year>
+<booktitle>IDT</booktitle>
+<crossref>conf/idt/2011</crossref>
+<url>db/conf/idt/idt2011.html#YoussefJDIL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arcs/LevequePLAV10" mdate="2017-04-30">
+<author>Antoine Lévêque</author>
+<author>François Pêcheux</author>
+<author>Marie-Minerve Louërat</author>
+<author>Hassan Aboushady</author>
+<author>Michel Vasilevski</author>
+<title>SystemC-AMS Models for Low-Power Heterogeneous Designs: Application to a WSN for the Detection of Seismic Perturbations.</title>
+<pages>205-210</pages>
+<year>2010</year>
+<booktitle>ARCS Workshops</booktitle>
+<crossref>conf/arcs/2010w</crossref>
+<url>db/conf/arcs/arcs2010w.html#LevequePLAV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmas/YoussefDIL10" mdate="2017-05-21">
+<author>Stephanie Youssef</author>
+<author>Damien Dupuis</author>
+<author>Ramy Iskander</author>
+<author>Marie-Minerve Louërat</author>
+<title>Automatic stress effects computation based on a layout generation tool for analog IC.</title>
+<pages>7-12</pages>
+<year>2010</year>
+<booktitle>BMAS</booktitle>
+<crossref>conf/bmas/2010</crossref>
+<url>db/conf/bmas/bmas2010.html#YoussefDIL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmas/MassouriLCVKL10" mdate="2017-09-16">
+<author>Abdelbasset Massouri</author>
+<author>Antoine Lévêque</author>
+<author orcid="0000-0002-3279-930X">Laurent Clavier</author>
+<author>Michel Vasilevski</author>
+<author orcid="0000-0003-0377-7408">Andreas Kaiser</author>
+<author>Marie-Minerve Louërat</author>
+<title>Baseband fading channel simulator for Inter-Vehicle Communication using SystemC-AMS.</title>
+<pages>36-41</pages>
+<year>2010</year>
+<booktitle>BMAS</booktitle>
+<crossref>conf/bmas/2010</crossref>
+<url>db/conf/bmas/bmas2010.html#MassouriLCVKL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/GaberAALE10" mdate="2017-05-26">
+<author>Wagdy M. Gaber</author>
+<author>Mootaz Allam</author>
+<author>Hassan Aboushady</author>
+<author>Marie-Minerve Louërat</author>
+<author>El-Sayed Eid</author>
+<title>Systematic design of continuous-time ΣΔ modulator with VCO-based quantizer.</title>
+<pages>29-32</pages>
+<year>2010</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2010</crossref>
+<url>db/conf/iscas/iscas2010.html#GaberAALE10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/AdelDLGH10" mdate="2017-05-26">
+<author>Hussein Adel</author>
+<author>Mohamed Dessouky</author>
+<author>Marie-Minerve Louërat</author>
+<author>Hugo Gicquel</author>
+<author>Hisham Haddara</author>
+<title>Foreground digital calibration of non-linear errors in pipelined A/D converters.</title>
+<pages>569-572</pages>
+<year>2010</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2010</crossref>
+<url>db/conf/iscas/iscas2010.html#AdelDLGH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmas/JavidIL09" mdate="2017-05-21">
+<author>Farakh Javid</author>
+<author>Ramy Iskander</author>
+<author>Marie-Minerve Louërat</author>
+<title>Simulation-based hierarchical sizing and biasing of analog firm IPs.</title>
+<pages>43-48</pages>
+<year>2009</year>
+<booktitle>BMAS</booktitle>
+<crossref>conf/bmas/2009</crossref>
+<url>db/conf/bmas/bmas2009.html#JavidIL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/BelfortBALC09" mdate="2019-05-29">
+<author>Diomadson Belfort</author>
+<author>Nicolas Beilleau</author>
+<author>Hassan Aboushady</author>
+<author>Marie-Minerve Louërat</author>
+<author orcid="0000-0002-9599-9552">Sebastian Yuri Cavalcanti Catunda</author>
+<title>A Q-enhanced LC bandpass filter using CAIRO+.</title>
+<pages>860-863</pages>
+<year>2009</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2009</crossref>
+<url>db/conf/icecsys/icecsys2009.html#BelfortBALC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/VasilevskiAL09" mdate="2017-05-26">
+<author>Michel Vasilevski</author>
+<author>Hassan Aboushady</author>
+<author>Marie-Minerve Louërat</author>
+<title>Automatic Model Refinement of GmC Integrators for High-level Simulation of Continuous-time Sigma-Delta Modulators.</title>
+<pages>2769-2772</pages>
+<year>2009</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2009</crossref>
+<url>db/conf/iscas/iscas2009.html#VasilevskiAL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/IskanderLK07" mdate="2017-05-23">
+<author>Ramy Iskander</author>
+<author>Marie-Minerve Louërat</author>
+<author>Andreas Kaiser</author>
+<title>Systematic Offset Detection and Evaluation Using Hierarchical Graph-Based Sizing and Biasing.</title>
+<pages>170-173</pages>
+<year>2007</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2007</crossref>
+<url>db/conf/icecsys/icecsys2007.html#IskanderLK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/LamarreLK06" mdate="2017-09-16">
+<author>Laurent de Lamarre</author>
+<author>Marie-Minerve Louërat</author>
+<author orcid="0000-0003-0377-7408">Andreas Kaiser</author>
+<title>Optimizing Resistances and Capacitances of a Continuous-Time ΣΔ ADC.</title>
+<pages>419-422</pages>
+<year>2006</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2006</crossref>
+<url>db/conf/icecsys/icecsys2006.html#LamarreLK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/KhalilDBLCR05" mdate="2019-03-04">
+<author>DiaaEldin Khalil</author>
+<author>Mohamed Dessouky</author>
+<author>Vincent Bourguet</author>
+<author>Marie-Minerve Louërat</author>
+<author>Andreia Cathelin</author>
+<author>Hani F. Ragai</author>
+<title>Evaluation of Capacitor Ratios in Automated Accurate Common-Centroid Capacitor Arrays.</title>
+<pages>143-147</pages>
+<year>2005</year>
+<crossref>conf/isqed/2005</crossref>
+<booktitle>ISQED</booktitle>
+<url>db/conf/isqed/isqed2005.html#KhalilDBLCR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/AboushadyLBL04" mdate="2017-05-23">
+<author>Hassan Aboushady</author>
+<author>Laurent de Lamarre</author>
+<author>Nicolas Beilleau</author>
+<author>Marie-Minerve Louërat</author>
+<title>Automatic Synthesis and Simulation of Continuous-Time [Sigma-Delta] Modulators.</title>
+<pages>674-675</pages>
+<year>2004</year>
+<crossref>conf/date/2004</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2004-1.html#AboushadyLBL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/LoueratNBLG04" mdate="2014-04-28">
+<author>Marie-Minerve Louërat</author>
+<author>Tuong P. Nguyen</author>
+<author>Vincent Bourguet</author>
+<author>Laurent de Lamarre</author>
+<author>Alain Greiner</author>
+<title>A language to desing generators of analog functions (poster).</title>
+<pages>30-32</pages>
+<year>2004</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2004</crossref>
+<url>db/conf/fdl/fdl2004.html#LoueratNBLG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/AboushadyL04" mdate="2017-05-26">
+<author>Hassan Aboushady</author>
+<author>Marie-Minerve Louërat</author>
+<title>Loop delay compensation in bandpass continuous-time Sigma Delta modulators without additional feedback coefficients.</title>
+<pages>1124-1127</pages>
+<year>2004</year>
+<crossref>conf/iscas/2004</crossref>
+<booktitle>ISCAS (1)</booktitle>
+<url>db/conf/iscas/iscas2004-1.html#AboushadyL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/AboushadyL02" mdate="2017-05-26">
+<author>Hassan Aboushady</author>
+<author>Marie-Minerve Louërat</author>
+<title>Systematic approach for discrete-time to continuous-time transformation of Sigma-Delta modulators.</title>
+<pages>229-232</pages>
+<year>2002</year>
+<crossref>conf/iscas/2002</crossref>
+<booktitle>ISCAS (4)</booktitle>
+<url>db/conf/iscas/iscas2002-4.html#AboushadyL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/DessoukyKLG01" mdate="2017-09-16">
+<author>Mohamed Dessouky</author>
+<author orcid="0000-0003-0377-7408">Andreas Kaiser</author>
+<author>Marie-Minerve Louërat</author>
+<author>Alain Greiner</author>
+<title>Analog design for reuse - case study: very low-voltage sigma-delta modulator.</title>
+<pages>353-360</pages>
+<year>2001</year>
+<crossref>conf/date/2001</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2001.html#DessoukyKLG01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/AboushadyL01" mdate="2017-05-26">
+<author>Hassan Aboushady</author>
+<author>Marie-Minerve Louërat</author>
+<title>Low-power design of low-voltage current-mode integrators for continuous-time Sigma-Delta modulators.</title>
+<pages>276-279</pages>
+<year>2001</year>
+<crossref>conf/iscas/2001</crossref>
+<booktitle>ISCAS (1)</booktitle>
+<url>db/conf/iscas/iscas2001-1.html#AboushadyL01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/DessoukyLP00" mdate="2018-11-06">
+<author>Mohamed Dessouky</author>
+<author>Marie-Minerve Louërat</author>
+<author>Jacky Porte</author>
+<title>Layout-Oriented Synthesis of High Performance Analog Circuits.</title>
+<pages>53-57</pages>
+<year>2000</year>
+<crossref>conf/date/2000</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2000.html#DessoukyLP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/DessoukyL00" mdate="2017-05-25">
+<author>Mohamed Dessouky</author>
+<author>Marie-Minerve Louërat</author>
+<title>A Layout Approach for Electrical and Physical Design Integration of High-Performance Analog Circuits.</title>
+<pages>291-298</pages>
+<year>2000</year>
+<crossref>conf/isqed/2000</crossref>
+<booktitle>ISQED</booktitle>
+<url>db/conf/isqed/isqed2000.html#DessoukyL00</url>
+</inproceedings>
+</r>
+<coauthors n="77" nc="1">
+<co c="0"><na f="a/Aboushady:Hassan">Hassan Aboushady</na></co>
+<co c="0"><na f="a/Adel:Hussein">Hussein Adel</na></co>
+<co c="0"><na f="a/Akita:Junichi">Junichi Akita</na></co>
+<co c="0"><na f="a/Allam:Mootaz">Mootaz Allam</na></co>
+<co c="0"><na f="a/Andrade:Liliana">Liliana Andrade</na></co>
+<co c="0"><na f="a/Aoun:C=eacute=dric_Ben">Cédric Ben Aoun</na></co>
+<co c="0"><na f="b/Barnasconi:Martin">Martin Barnasconi</na></co>
+<co c="0"><na f="b/Beilleau:Nicolas">Nicolas Beilleau</na></co>
+<co c="0" n="2"><na f="b/Belfort:Diomadson_R=">Diomadson R. Belfort</na><na>Diomadson Belfort</na></co>
+<co c="0"><na f="b/Bourguet:Vincent">Vincent Bourguet</na></co>
+<co c="0"><na f="c/Cathelin:Andreia">Andreia Cathelin</na></co>
+<co c="0" n="2"><na f="c/Catunda:Sebastian_Y=_C=">Sebastian Y. C. Catunda</na><na>Sebastian Yuri Cavalcanti Catunda</na></co>
+<co c="0"><na f="c/Cenni:Fabio">Fabio Cenni</na></co>
+<co c="0"><na f="c/Chaput:Jean=Paul">Jean-Paul Chaput</na></co>
+<co c="0"><na f="c/Chotin=Avot:Roselyne">Roselyne Chotin-Avot</na></co>
+<co c="0"><na f="c/Clavier:Laurent">Laurent Clavier</na></co>
+<co c="0"><na f="c/Cuenot:Philippe">Philippe Cuenot</na></co>
+<co c="0"><na f="d/Dessouky:Mohamed">Mohamed Dessouky</na></co>
+<co c="0"><na f="d/Dietrich:Manfred">Manfred Dietrich</na></co>
+<co c="0"><na f="d/Dupuis:Damien">Damien Dupuis</na></co>
+<co c="0"><na f="d/Durbin:Fran=ccedil=ois">François Durbin</na></co>
+<co c="0"><na f="e/Eid:El=Sayed">El-Sayed Eid</na></co>
+<co c="0"><na f="e/Einwich:Karsten">Karsten Einwich</na></co>
+<co c="0"><na f="g/Gaber:Wagdy_M=">Wagdy M. Gaber</na></co>
+<co c="0"><na f="g/Galayko:Dimitri">Dimitri Galayko</na></co>
+<co c="0"><na f="g/Gebreyohannes:Fikre_Tsigabu">Fikre Tsigabu Gebreyohannes</na></co>
+<co c="0"><na f="g/Gensinger:Heimo">Heimo Gensinger</na></co>
+<co c="0"><na f="g/Gicquel:Hugo">Hugo Gicquel</na></co>
+<co c="0"><na f="g/Greiner:Alain">Alain Greiner</na></co>
+<co c="0"><na f="g/Guebhard:Jean=Marc">Jean-Marc Guebhard</na></co>
+<co c="0"><na f="g/Guillaume:Olivier">Olivier Guillaume</na></co>
+<co c="0"><na f="h/Haddara:Hisham">Hisham Haddara</na></co>
+<co c="0"><na f="i/Iskander:Ramy">Ramy Iskander</na></co>
+<co c="0"><na f="j/Javid:Farakh">Farakh Javid</na></co>
+<co c="0"><na f="k/Kaiser:Andreas">Andreas Kaiser</na></co>
+<co c="0"><na f="k/Khalil:DiaaEldin">DiaaEldin Khalil</na></co>
+<co c="0"><na f="k/Khalil:Raouf">Raouf Khalil</na></co>
+<co c="0"><na f="k/Krust:Arnaud">Arnaud Krust</na></co>
+<co c="0"><na f="l/Lamarre:Laurent_de">Laurent de Lamarre</na></co>
+<co c="0"><na f="l/Lao:Eric">Eric Lao</na></co>
+<co c="0"><na f="l/Lecce:Sergio">Sergio Lecce</na></co>
+<co c="0"><na f="l/Leonhard:Julian">Julian Leonhard</na></co>
+<co c="0"><na f="l/L=eacute=v=ecirc=que:Antoine">Antoine Lévêque</na></co>
+<co c="0"><na f="l/Li:Yao">Yao Li</na></co>
+<co c="0"><na f="l/Lucas:Ronan">Ronan Lucas</na></co>
+<co c="0" n="2"><na f="m/M=auml=hne:Torsten">Torsten Mähne</na><na>Torsten Maehne</na></co>
+<co c="0"><na f="m/Malak:Akram">Akram Malak</na></co>
+<co c="0"><na f="m/Massouri:Abdelbasset">Abdelbasset Massouri</na></co>
+<co c="0"><na f="m/Moursy:Yasser">Yasser Moursy</na></co>
+<co c="0"><na f="n/Nabeel:Mohammed_Thari">Mohammed Thari Nabeel</na></co>
+<co c="0"><na f="n/Neumann:Ingmar">Ingmar Neumann</na></co>
+<co c="0"><na f="n/Nguyen:Thang">Thang Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Tuong_P=">Tuong P. Nguyen</na></co>
+<co c="0"><na f="p/P=ecirc=cheux:Fran=ccedil=ois">François Pêcheux</na></co>
+<co c="0"><na f="p/Petigny:Roger">Roger Petigny</na></co>
+<co c="0"><na f="p/Poletto:Vanni">Vanni Poletto</na></co>
+<co c="0"><na f="p/Porte:Jacky">Jacky Porte</na></co>
+<co c="0"><na f="r/Ragai:Hani_F=">Hani F. Ragai</na></co>
+<co c="0"><na f="s/Sabut:Marc">Marc Sabut</na></co>
+<co c="0"><na f="s/Schropfer:Gerold">Gerold Schropfer</na></co>
+<co c="0"><na f="s/Scotti:Serge">Serge Scotti</na></co>
+<co c="0"><na f="s/Seebacher:Ehrenfried">Ehrenfried Seebacher</na></co>
+<co c="0"><na f="s/Shimizu:Naohiko">Naohiko Shimizu</na></co>
+<co c="0"><na f="s/Sinanoglu:Ozgur">Ozgur Sinanoglu</na></co>
+<co c="0"><na f="s/Steinmair:Alexander">Alexander Steinmair</na></co>
+<co c="0"><na f="s/Stratigopoulos:Haralampos=G=_D=">Haralampos-G. D. Stratigopoulos</na></co>
+<co c="0"><na f="t/Tissot:Andr=eacute=">André Tissot</na></co>
+<co c="0"><na f="t/Turk:Shadi">Shadi Turk</na></co>
+<co c="0"><na f="v/Vachoux:Alain">Alain Vachoux</na></co>
+<co c="0"><na f="v/Vasilevski:Michel">Michel Vasilevski</na></co>
+<co c="0"><na f="v/Vaumorin:Emmanuel">Emmanuel Vaumorin</na></co>
+<co c="0"><na f="v/Vernay:Benoit">Benoit Vernay</na></co>
+<co c="0"><na f="v/V=ouml=rtler:Thilo">Thilo Vörtler</na></co>
+<co c="0"><na f="w/Wang_0005:Zhi">Zhi Wang 0005</na></co>
+<co c="0"><na f="y/Yasin:Muhammad">Muhammad Yasin</na></co>
+<co c="0"><na f="y/Youssef:Stephanie">Stephanie Youssef</na></co>
+<co c="0"><na f="z/Zou:Hao">Hao Zou</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Maha Abdallah" n="29">
+<person key="homepages/a/MahaAbdallah" mdate="2016-03-03">
+<author>Maha Abdallah</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www-poleia.lip6.fr/~abdallah/</url>
+</person>
+<r><article key="journals/tomccap/Abdallah18" mdate="2019-12-19">
+<author>Maha Abdallah</author>
+<title>Table of Contents: Online Supplement Volume 14, Number 3s.</title>
+<year>2018</year>
+<volume>14</volume>
+<journal>TOMM</journal>
+<number>3</number>
+<url>db/journals/tomccap/tomccap14.html#Abdallah18</url>
+</article>
+</r>
+<r><article key="journals/tomccap/AbdallahCGH18" mdate="2019-12-19">
+<author>Maha Abdallah</author>
+<author>Kuan-Ta Chen</author>
+<author>Carsten Griwodz</author>
+<author>Cheng-Hsin Hsu</author>
+<title>Introduction to the Special Issue on Delay-Sensitive Video Computing in the Cloud.</title>
+<pages>53:1-53:3</pages>
+<year>2018</year>
+<volume>14</volume>
+<journal>TOMM</journal>
+<number>3s</number>
+<url>db/journals/tomccap/tomccap14.html#AbdallahCGH18</url>
+</article>
+</r>
+<r><article key="journals/tomccap/AbdallahGCSWH18" mdate="2019-12-19">
+<author>Maha Abdallah</author>
+<author>Carsten Griwodz</author>
+<author>Kuan-Ta Chen</author>
+<author>Gwendal Simon</author>
+<author>Pin-Chun Wang</author>
+<author>Cheng-Hsin Hsu</author>
+<title>Delay-Sensitive Video Computing in the Cloud: A Survey.</title>
+<pages>54:1-54:29</pages>
+<year>2018</year>
+<volume>14</volume>
+<journal>TOMM</journal>
+<number>3s</number>
+<url>db/journals/tomccap/tomccap14.html#AbdallahGCSWH18</url>
+</article>
+</r>
+<r><article key="journals/tomccap/AmiriOSA16" mdate="2019-12-19">
+<author>Maryam Amiri</author>
+<author>Hussein Al Osman</author>
+<author orcid="0000-0002-3973-4445">Shervin Shirmohammadi</author>
+<author>Maha Abdallah</author>
+<title>Toward Delay-Efficient Game-Aware Data Centers for Cloud Gaming.</title>
+<pages>71:1-71:19</pages>
+<year>2016</year>
+<volume>12</volume>
+<journal>TOMM</journal>
+<number>5s</number>
+<url>db/journals/tomccap/tomccap12.html#AmiriOSA16</url>
+</article>
+</r>
+<r><article key="journals/ppna/BuyukkayaAS15" mdate="2017-05-18">
+<author>Eliya Buyukkaya</author>
+<author>Maha Abdallah</author>
+<author>Gwendal Simon</author>
+<title>A survey of peer-to-peer overlay approaches for networked virtual environments.</title>
+<pages>276-300</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Peer-to-Peer Networking and Applications</journal>
+<number>2</number>
+<url>db/journals/ppna/ppna8.html#BuyukkayaAS15</url>
+</article>
+</r>
+<r><article key="journals/tcsv/ShirmohammadiAA15" mdate="2018-11-02">
+<author orcid="0000-0002-3973-4445">Shervin Shirmohammadi</author>
+<author>Maha Abdallah</author>
+<author>Dewan Tanvir Ahmed</author>
+<author>Kuan-Ta Chen</author>
+<author>Yan Lu</author>
+<author>Alex Snyatkov</author>
+<title>Introduction to the Special Section on Visual Computing in the Cloud: Cloud Gaming and Virtualization.</title>
+<pages>1955-1959</pages>
+<year>2015</year>
+<volume>25</volume>
+<journal>IEEE Trans. Circuits Syst. Video Techn.</journal>
+<number>12</number>
+<url>db/journals/tcsv/tcsv25.html#ShirmohammadiAA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccnc/AbdallahCL15" mdate="2017-05-24">
+<author>Maha Abdallah</author>
+<author>Romain Cavagna</author>
+<author>Damien Laval</author>
+<title>Incentive-based on-demand video streaming using a dual spatially-organized peer-to-peer network.</title>
+<pages>689-695</pages>
+<year>2015</year>
+<booktitle>CCNC</booktitle>
+<crossref>conf/ccnc/2015</crossref>
+<url>db/conf/ccnc/ccnc2015.html#AbdallahCL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/AmiriOSA15" mdate="2018-11-06">
+<author>Maryam Amiri</author>
+<author>Hussein Al Osman</author>
+<author orcid="0000-0002-3973-4445">Shervin Shirmohammadi</author>
+<author>Maha Abdallah</author>
+<title>An SDN Controller for Delay and Jitter Reduction in Cloud Gaming.</title>
+<pages>1043-1046</pages>
+<year>2015</year>
+<booktitle>ACM Multimedia</booktitle>
+<crossref>conf/mm/2015</crossref>
+<url>db/conf/mm/mm2015.html#AmiriOSA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netgames/AmiriOSA15" mdate="2018-11-30">
+<author>Maryam Amiri</author>
+<author>Hussein Al Osman</author>
+<author orcid="0000-0002-3973-4445">Shervin Shirmohammadi</author>
+<author>Maha Abdallah</author>
+<title>SDN-based game-aware network management for cloud gaming.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>NETGAMES</booktitle>
+<crossref>conf/netgames/2015</crossref>
+<url>db/conf/netgames/netgames2015.html#AmiriOSA15</url>
+</inproceedings>
+</r>
+<r><article key="journals/mms/AbdallahBO14" mdate="2018-06-26">
+<author>Maha Abdallah</author>
+<author>Khaled Boussetta</author>
+<author>Wei Tsang Ooi</author>
+<title>Guest editorial: special issue on network and systems support for games.</title>
+<pages>447-449</pages>
+<year>2014</year>
+<volume>20</volume>
+<journal>Multimedia Syst.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1007/s00530-014-0401-1</ee>
+<url>db/journals/mms/mms20.html#AbdallahBO14</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/BuyukkayaA13" mdate="2017-05-21">
+<author>Eliya Buyukkaya</author>
+<author>Maha Abdallah</author>
+<title>Routing over Relaxed Triangulation Structures for P2P-based Virtual Environments.</title>
+<pages>1167-1173</pages>
+<year>2013</year>
+<booktitle>AINA Workshops</booktitle>
+<crossref>conf/aina/2013w</crossref>
+<url>db/conf/aina/ainaw2013.html#BuyukkayaA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/BuyukkayaA13" mdate="2017-05-25">
+<author>Eliya Buyukkaya</author>
+<author>Maha Abdallah</author>
+<title>A twofold approach to object and avatar data management in P2P-based virtual environments.</title>
+<pages>1-7</pages>
+<year>2013</year>
+<booktitle>ICME Workshops</booktitle>
+<crossref>conf/icmcs/2013w</crossref>
+<url>db/conf/icmcs/icmew2013.html#BuyukkayaA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ACISicis/CavagnaA11" mdate="2017-05-25">
+<author>Romain Cavagna</author>
+<author>Maha Abdallah</author>
+<title>Finding the best tradeoff between multi resolution content reproduction quality and multi resolution content distribution efficiency.</title>
+<pages>1-2</pages>
+<year>2011</year>
+<booktitle>ACIS-ICIS</booktitle>
+<crossref>conf/ACISicis/2011</crossref>
+<url>db/conf/ACISicis/ACISicis2011.html#CavagnaA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/HuangLJOAB11" mdate="2017-05-26">
+<author>Yu-Tan Huang</author>
+<author>Chih-Ming Lin</author>
+<author>Jehn-Ruey Jiang</author>
+<author>Wei Tsang Ooi</author>
+<author>Maha Abdallah</author>
+<author>Khaled Boussetta</author>
+<title>SYMA: A Synchronous Multihop Architecture for Wireless Ad Hoc Multiplayer Games.</title>
+<pages>793-798</pages>
+<year>2011</year>
+<booktitle>ICPADS</booktitle>
+<crossref>conf/icpads/2011</crossref>
+<url>db/conf/icpads/icpads2011.html#HuangLJOAB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netgames/BuyukkayaA11" mdate="2017-05-21">
+<author>Eliya Buyukkaya</author>
+<author>Maha Abdallah</author>
+<title>A flexible connectivity architecture for avatar management in P2P virtual environments.</title>
+<pages>1-2</pages>
+<year>2011</year>
+<booktitle>NETGAMES</booktitle>
+<crossref>conf/netgames/2011</crossref>
+<url>db/conf/netgames/netgames2011.html#BuyukkayaA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netgames/CavagnaA11" mdate="2017-05-21">
+<author>Romain Cavagna</author>
+<author>Maha Abdallah</author>
+<title>A framework for experimenting distributed connectivity strategies in DVEs.</title>
+<pages>1-3</pages>
+<year>2011</year>
+<booktitle>NETGAMES</booktitle>
+<crossref>conf/netgames/2011</crossref>
+<url>db/conf/netgames/netgames2011.html#CavagnaA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/BuyukkayaAC10" mdate="2017-05-25">
+<author>Eliya Buyukkaya</author>
+<author>Maha Abdallah</author>
+<author>Romain Cavagna</author>
+<title>TriCast: Triangulation with multicast support for P2P virtual environments.</title>
+<pages>1393-1398</pages>
+<year>2010</year>
+<booktitle>ICME</booktitle>
+<crossref>conf/icmcs/2010</crossref>
+<url>db/conf/icmcs/icme2010.html#BuyukkayaAC10</url>
+</inproceedings>
+</r>
+<r><article key="journals/mta/BuyukkayaA09" mdate="2017-05-28">
+<author>Eliya Buyukkaya</author>
+<author>Maha Abdallah</author>
+<title>Efficient triangulation for P2P networked virtual environments.</title>
+<pages>291-312</pages>
+<year>2009</year>
+<volume>45</volume>
+<journal>Multimedia Tools Appl.</journal>
+<number>1-3</number>
+<url>db/journals/mta/mta45.html#BuyukkayaA09</url>
+</article>
+</r>
+<r><article key="journals/spic/CavagnaRGBAB09" mdate="2017-05-28">
+<author>Romain Cavagna</author>
+<author>Jérôme Royan</author>
+<author>Patrick Gioia</author>
+<author>Christian Bouville</author>
+<author>Maha Abdallah</author>
+<author>Eliya Buyukkaya</author>
+<title>Peer-to-peer visualization of very large 3D landscape and city models using MPEG-4.</title>
+<pages>115-121</pages>
+<year>2009</year>
+<volume>24</volume>
+<journal>Sig. Proc.: Image Comm.</journal>
+<number>1-2</number>
+<url>db/journals/spic/spic24.html#CavagnaRGBAB09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpads/BuyukkayaACH08" mdate="2017-05-26">
+<author>Eliya Buyukkaya</author>
+<author>Maha Abdallah</author>
+<author>Romain Cavagna</author>
+<author>Shun-Yun Hu</author>
+<title>GROUP: Dual-Overlay State Management for P2P NVE.</title>
+<pages>817-822</pages>
+<year>2008</year>
+<booktitle>ICPADS</booktitle>
+<crossref>conf/icpads/2008</crossref>
+<url>db/conf/icpads/icpads2008.html#BuyukkayaACH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/CavagnaABB08" mdate="2017-05-26">
+<author>Romain Cavagna</author>
+<author>Maha Abdallah</author>
+<author>Eliya Buyukkaya</author>
+<author>Christian Bouville</author>
+<title>A Framework for Scalable Virtual Worlds Using Spatially Organized P2P Networks.</title>
+<pages>853-858</pages>
+<year>2008</year>
+<booktitle>ICPADS</booktitle>
+<crossref>conf/icpads/2008</crossref>
+<url>db/conf/icpads/icpads2008.html#CavagnaABB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netgames/BuyukkayaA08" mdate="2018-11-06">
+<author>Eliya Buyukkaya</author>
+<author>Maha Abdallah</author>
+<title>Efficient triangulation for P2P networked virtual environments.</title>
+<pages>34-39</pages>
+<year>2008</year>
+<booktitle>NETGAMES</booktitle>
+<crossref>conf/netgames/2008</crossref>
+<url>db/conf/netgames/netgames2008.html#BuyukkayaA08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vrst/CavagnaAB08" mdate="2018-11-06">
+<author>Romain Cavagna</author>
+<author>Maha Abdallah</author>
+<author>Christian Bouville</author>
+<title>A framework for scalable virtual worlds using spatially organized P2P networks.</title>
+<pages>237-238</pages>
+<year>2008</year>
+<booktitle>VRST</booktitle>
+<crossref>conf/vrst/2008</crossref>
+<url>db/conf/vrst/vrst2008.html#CavagnaAB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdcs/AbdallahL05" mdate="2006-09-26">
+<author>Maha Abdallah</author>
+<author>Hung Cuong Le</author>
+<title>Scalable Range Query Processing for Large-Scale Distributed Database Applications.</title>
+<pages>433-439</pages>
+<year>2005</year>
+<crossref>conf/pdcs/2005</crossref>
+<booktitle>IASTED PDCS</booktitle>
+<url>db/conf/pdcs/pdcs2005.html#AbdallahL05</url>
+</inproceedings>
+</r>
+<r><article key="journals/dpd/AbdallahGP02" mdate="2017-05-27">
+<author>Maha Abdallah</author>
+<author>Rachid Guerraoui</author>
+<author>Philippe Pucheral</author>
+<title>Dictatorial Transaction Processing: Atomic Commitment Without Veto Right.</title>
+<pages>239-268</pages>
+<year>2002</year>
+<volume>11</volume>
+<journal>Distributed and Parallel Databases</journal>
+<number>3</number>
+<url>db/journals/dpd/dpd11.html#AbdallahGP02</url>
+</article>
+</r>
+<r><article key="journals/nis/AbdallahP98" mdate="2002-01-03">
+<author>Maha Abdallah</author>
+<author>Philippe Pucheral</author>
+<title>A Non-Blocking Single-Phase Commit Protocol For Rigorous Participants.</title>
+<pages>195-212</pages>
+<year>1998</year>
+<volume>1</volume>
+<journal>Networking and Information Systems</journal>
+<number>2-3</number>
+<url>db/journals/nis/nis1.html#AbdallahP98</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/AbdallahP98" mdate="2017-05-23">
+<author>Maha Abdallah</author>
+<author>Philippe Pucheral</author>
+<title>A Single-Phase Non-Blocking Atomic Commitment Protocol.</title>
+<pages>584-595</pages>
+<year>1998</year>
+<crossref>conf/dexa/1998</crossref>
+<booktitle>DEXA</booktitle>
+<url>db/conf/dexa/dexa98.html#AbdallahP98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/AbdallahGP98" mdate="2017-05-26">
+<author>Maha Abdallah</author>
+<author>Rachid Guerraoui</author>
+<author>Philippe Pucheral</author>
+<title>One-Phase Commit: Does it make Sense?</title>
+<pages>182-192</pages>
+<year>1998</year>
+<crossref>conf/icpads/1998</crossref>
+<booktitle>ICPADS</booktitle>
+<url>db/conf/icpads/icpads1998.html#AbdallahGP98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/AbdallahP97" mdate="2006-09-13">
+<author>Maha Abdallah</author>
+<author>Philippe Pucheral</author>
+<title>A Non-Blocking Single-Phase Commit Protocol for Rigorous Participants.</title>
+<year>1997</year>
+<crossref>conf/bda/1997</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda97.html#AbdallahP97</url>
+</inproceedings>
+</r>
+<coauthors n="26" nc="2">
+<co c="0"><na f="a/Ahmed:Dewan_Tanvir">Dewan Tanvir Ahmed</na></co>
+<co c="0"><na f="a/Amiri:Maryam">Maryam Amiri</na></co>
+<co c="0"><na f="b/Boussetta:Khaled">Khaled Boussetta</na></co>
+<co c="0"><na f="b/Bouville:Christian">Christian Bouville</na></co>
+<co c="0"><na f="b/Buyukkaya:Eliya">Eliya Buyukkaya</na></co>
+<co c="0"><na f="c/Cavagna:Romain">Romain Cavagna</na></co>
+<co c="0"><na f="c/Chen:Kuan=Ta">Kuan-Ta Chen</na></co>
+<co c="0"><na f="g/Gioia:Patrick">Patrick Gioia</na></co>
+<co c="0"><na f="g/Griwodz:Carsten">Carsten Griwodz</na></co>
+<co c="1"><na f="g/Guerraoui:Rachid">Rachid Guerraoui</na></co>
+<co c="0"><na f="h/Hsu:Cheng=Hsin">Cheng-Hsin Hsu</na></co>
+<co c="0"><na f="h/Hu:Shun=Yun">Shun-Yun Hu</na></co>
+<co c="0"><na f="h/Huang:Yu=Tan">Yu-Tan Huang</na></co>
+<co c="0"><na f="j/Jiang:Jehn=Ruey">Jehn-Ruey Jiang</na></co>
+<co c="0"><na f="l/Laval:Damien">Damien Laval</na></co>
+<co c="-1"><na f="l/Le:Hung_Cuong">Hung Cuong Le</na></co>
+<co c="0"><na f="l/Lin:Chih=Ming">Chih-Ming Lin</na></co>
+<co c="0"><na f="l/Lu:Yan">Yan Lu</na></co>
+<co c="0"><na f="o/Ooi:Wei_Tsang">Wei Tsang Ooi</na></co>
+<co c="0"><na f="o/Osman:Hussein_Al">Hussein Al Osman</na></co>
+<co c="1"><na f="p/Pucheral:Philippe">Philippe Pucheral</na></co>
+<co c="0"><na f="r/Royan:J=eacute=r=ocirc=me">Jérôme Royan</na></co>
+<co c="0"><na f="s/Shirmohammadi:Shervin">Shervin Shirmohammadi</na></co>
+<co c="0"><na f="s/Simon:Gwendal">Gwendal Simon</na></co>
+<co c="0"><na f="s/Snyatkov:Alex">Alex Snyatkov</na></co>
+<co c="0"><na f="w/Wang:Pin=Chun">Pin-Chun Wang</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,842 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Vincent Gauthier" n="57">
+<person key="homepages/10/5018" mdate="2018-12-10">
+<author>Vincent Gauthier</author>
+<url>https://orcid.org/0000-0003-2252-7332</url>
+<url>https://www.wikidata.org/entity/Q58409318</url>
+</person>
+<r><article key="journals/tmc/KhodabandelouGF19" mdate="2019-09-23">
+<author orcid="0000-0002-8078-8461">Ghazaleh Khodabandelou</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author orcid="0000-0002-0772-9967">Marco Fiore</author>
+<author orcid="0000-0002-7383-0588">Mounim A. El-Yacoubi</author>
+<title>Estimation of Static and Dynamic Urban Populations with Mobile Network Metadata.</title>
+<pages>2034-2047</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>9</number>
+<url>db/journals/tmc/tmc18.html#KhodabandelouGF19</url>
+</article>
+</r>
+<r><article key="journals/jaihc/WangGCM18" mdate="2018-12-23">
+<author>Leye Wang</author>
+<author>Vincent Gauthier</author>
+<author>Guanling Chen</author>
+<author>Luís Moreira-Matias</author>
+<title>Special issue on extracting crowd intelligence from pervasive and social big data.</title>
+<pages>2009-2010</pages>
+<year>2018</year>
+<volume>9</volume>
+<journal>J. Ambient Intelligence and Humanized Computing</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1007/s12652-018-0680-z</ee>
+<url>db/journals/jaihc/jaihc9.html#WangGCM18</url>
+</article>
+</r>
+<r><article key="journals/tsg/GensollenGBM18" mdate="2018-11-30">
+<author orcid="0000-0001-7199-9753">Nicolas Gensollen</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Monique Becker</author>
+<author>Michel Marot</author>
+<title>Stability and Performance of Coalitions of Prosumers Through Diversification in the Smart Grid.</title>
+<pages>963-970</pages>
+<year>2018</year>
+<volume>9</volume>
+<journal>IEEE Trans. Smart Grid</journal>
+<number>2</number>
+<url>db/journals/tsg/tsg9.html#GensollenGBM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cw/PrawirodidjojoQ18" mdate="2019-01-15">
+<author>Eric Valega Prawirodidjojo</author>
+<author>Rui Jie Quek</author>
+<author>Bu-Sung Lee</author>
+<author>Vincent Gauthier</author>
+<author>Markus Schläpfer</author>
+<title>Using Mobile Phone Data to Determine Human Mobility Patterns in Paris.</title>
+<pages>399-402</pages>
+<year>2018</year>
+<booktitle>CW</booktitle>
+<crossref>conf/cw/2018</crossref>
+<url>db/conf/cw/cw2018.html#PrawirodidjojoQ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/BachirKGYV18" mdate="2019-09-09">
+<author>Danya Bachir</author>
+<author>Ghazaleh Khodabandelou</author>
+<author>Vincent Gauthier</author>
+<author>Mounim A. El-Yacoubi</author>
+<author>Eric Vachon</author>
+<title>Combining Bayesian Inference and Clustering for Transport Mode Detection from Sparse and Noisy Geolocation Data.</title>
+<pages>569-584</pages>
+<year>2018</year>
+<booktitle>ECML/PKDD (3)</booktitle>
+<crossref>conf/pkdd/2018-3</crossref>
+<url>db/conf/pkdd/pkdd2018-3.html#BachirKGYV18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-12909" mdate="2018-11-08">
+<author>Ghazaleh Khodabandelou</author>
+<author>Vincent Gauthier</author>
+<author>Marco Fiore</author>
+<author>Mounim A. El-Yacoubi</author>
+<title>Estimation of Static and Dynamic Urban Populations with Mobile Network Metadata.</title>
+<year>2018</year>
+<volume>abs/1810.12909</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.12909</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-12909</url>
+</article>
+</r>
+<r><inproceedings key="conf/itsc/BachirGEK17" mdate="2018-03-26">
+<author>Danya Bachir</author>
+<author>Vincent Gauthier</author>
+<author>Mounim A. El-Yacoubi</author>
+<author>Ghazaleh Khodabandelou</author>
+<title>Using mobile phone data analysis for the estimation of daily urban dynamics.</title>
+<pages>626-632</pages>
+<year>2017</year>
+<booktitle>ITSC</booktitle>
+<crossref>conf/itsc/2017</crossref>
+<url>db/conf/itsc/itsc2017.html#BachirGEK17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GensollenGBM17" mdate="2018-08-13">
+<author>Nicolas Gensollen</author>
+<author>Vincent Gauthier</author>
+<author>Monique Becker</author>
+<author>Michel Marot</author>
+<title>Stability and Performance of Coalitions of Prosumers Through Diversification in the Smart Grid.</title>
+<year>2017</year>
+<volume>abs/1705.06130</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.06130</ee>
+<url>db/journals/corr/corr1705.html#GensollenGBM17</url>
+</article>
+</r>
+<r><article key="journals/comcom/AsgariSXGE16" mdate="2017-06-14">
+<author>Fereshteh Asgari</author>
+<author>Alexis Sultan</author>
+<author>Haoyi Xiong</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author orcid="0000-0002-7383-0588">Mounim A. El-Yacoubi</author>
+<title>CT-Mapper: Mapping sparse multimodal cellular trajectories using a multilayer transportation network.</title>
+<pages>69-81</pages>
+<year>2016</year>
+<volume>95</volume>
+<journal>Computer Communications</journal>
+<url>db/journals/comcom/comcom95.html#AsgariSXGE16</url>
+</article>
+</r>
+<r><article key="journals/tmc/XiongZCWGB16" mdate="2018-07-27">
+<author>Haoyi Xiong</author>
+<author>Daqing Zhang 0001</author>
+<author>Guanling Chen</author>
+<author>Leye Wang</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Laura E. Barnes</author>
+<title>iCrowd: Near-Optimal Task Allocation for Piggyback Crowdsensing.</title>
+<pages>2010-2022</pages>
+<year>2016</year>
+<volume>15</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>8</number>
+<url>db/journals/tmc/tmc15.html#XiongZCWGB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/smartgridcomm/GensollenGMB16" mdate="2018-11-30">
+<author orcid="0000-0001-7199-9753">Nicolas Gensollen</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Michel Marot</author>
+<author>Monique Becker</author>
+<title>Submodular optimization for control of prosumer networks.</title>
+<pages>180-185</pages>
+<year>2016</year>
+<booktitle>SmartGridComm</booktitle>
+<crossref>conf/smartgridcomm/2016</crossref>
+<url>db/conf/smartgridcomm/smartgridcomm2016.html#GensollenGMB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/HammamiAMG16" mdate="2017-06-15">
+<author>Seif Eddine Hammami</author>
+<author>Hossam Afifi</author>
+<author>Michel Marot</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<title>Network planning tool based on network classification and load prediction.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>WCNC</booktitle>
+<crossref>conf/wcnc/2016</crossref>
+<url>db/conf/wcnc/wcnc2016.html#HammamiAMG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wowmom/KhodabandelouGE16" mdate="2017-06-15">
+<author>Ghazaleh Khodabandelou</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author orcid="0000-0002-7383-0588">Mounim A. El-Yacoubi</author>
+<author>Marco Fiore</author>
+<title>Population estimation from mobile network traffic metadata.</title>
+<pages>1-9</pages>
+<year>2016</year>
+<booktitle>WoWMoM</booktitle>
+<crossref>conf/wowmom/2016</crossref>
+<url>db/conf/wowmom/wowmom2016.html#KhodabandelouGE16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/HammamiAMG16" mdate="2018-08-13">
+<author>Seif Eddine Hammami</author>
+<author>Hossam Afifi</author>
+<author>Michel Marot</author>
+<author>Vincent Gauthier</author>
+<title>Network planning tool based on network classification and load prediction.</title>
+<year>2016</year>
+<volume>abs/1602.00448</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.00448</ee>
+<url>db/journals/corr/corr1602.html#HammamiAMG16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AsgariSXGE16" mdate="2018-08-13">
+<author>Fereshteh Asgari</author>
+<author>Alexis Sultan</author>
+<author>Haoyi Xiong</author>
+<author>Vincent Gauthier</author>
+<author>Mounim A. El-Yacoubi</author>
+<title>CT-Mapper: Mapping Sparse Multimodal Cellular Trajectories using a Multilayer Transportation Network.</title>
+<year>2016</year>
+<volume>abs/1604.06577</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.06577</ee>
+<url>db/journals/corr/corr1604.html#AsgariSXGE16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KhodabandelouGE16" mdate="2018-08-13">
+<author>Ghazaleh Khodabandelou</author>
+<author>Vincent Gauthier</author>
+<author>Mounim A. El-Yacoubi</author>
+<author>Marco Fiore</author>
+<title>Population estimation from mobile network traffic metadata.</title>
+<year>2016</year>
+<volume>abs/1610.06947</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.06947</ee>
+<url>db/journals/corr/corr1610.html#KhodabandelouGE16</url>
+</article>
+</r>
+<r><article key="journals/comcom/0002GBGA15" mdate="2017-06-05">
+<author>Rachit Agarwal 0002</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Monique Becker</author>
+<author>Thouraya Toukabri Gunes</author>
+<author>Hossam Afifi</author>
+<title>Large scale model for information dissemination with device to device communication using call details records.</title>
+<pages>1-11</pages>
+<year>2015</year>
+<volume>59</volume>
+<journal>Computer Communications</journal>
+<url>db/journals/comcom/comcom59.html#0002GBGA15</url>
+</article>
+</r>
+<r><article key="journals/tc/ZhangZXYG15" mdate="2018-07-27">
+<author>Daqiang Zhang</author>
+<author>Daqing Zhang 0001</author>
+<author>Haoyi Xiong</author>
+<author>Laurence T. Yang</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<title>NextCell: Predicting Location Using Social Interplay from Cell Phone Traces.</title>
+<pages>452-463</pages>
+<year>2015</year>
+<volume>64</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>2</number>
+<url>db/journals/tc/tc64.html#ZhangZXYG15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/GensollenBGM15" mdate="2017-06-04">
+<author orcid="0000-0001-7199-9753">Nicolas Gensollen</author>
+<author>Monique Becker</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Michel Marot</author>
+<title>Coalition formation algorithm of prosumers in a smart grid environment.</title>
+<pages>5896-5902</pages>
+<year>2015</year>
+<booktitle>ICC</booktitle>
+<crossref>conf/icc/2015</crossref>
+<url>db/conf/icc/icc2015.html#GensollenBGM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/SultanEAGM15" mdate="2017-06-04">
+<author>Alexis Sultan</author>
+<author>Majed ElKouki</author>
+<author>Hossam Afifi</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Michel Marot</author>
+<title>A dynamic femto cell architecture using TV Whitespace improving user experience of urban Crowds.</title>
+<pages>886-891</pages>
+<year>2015</year>
+<booktitle>IWCMC</booktitle>
+<crossref>conf/iwcmc/2015</crossref>
+<url>db/conf/iwcmc/iwcmc2015.html#SultanEAGM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/SultanBGA15" mdate="2018-11-06">
+<author>Alexis Sultan</author>
+<author>Farid Benbadis</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Hossam Afifi</author>
+<title>Mobile Data Network Analysis Platform.</title>
+<pages>13-18</pages>
+<year>2015</year>
+<booktitle>HotPlanet@MobiCom</booktitle>
+<crossref>conf/mobicom/2015hotplanet</crossref>
+<url>db/conf/mobicom/hotplanet2015.html#SultanBGA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/percom/XiongZCWG15" mdate="2018-07-27">
+<author>Haoyi Xiong</author>
+<author>Daqing Zhang 0001</author>
+<author>Guanling Chen</author>
+<author>Leye Wang</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<title>CrowdTasker: Maximizing coverage quality in Piggyback Crowdsensing under budget constraint.</title>
+<pages>55-62</pages>
+<year>2015</year>
+<booktitle>PerCom</booktitle>
+<crossref>conf/percom/2015</crossref>
+<url>db/conf/percom/percom2015.html#XiongZCWG15</url>
+</inproceedings>
+</r>
+<r><article key="journals/isf/XiongZZGYB14" mdate="2018-07-27">
+<author>Haoyi Xiong</author>
+<author>Daqing Zhang 0001</author>
+<author>Daqiang Zhang</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Kun Yang</author>
+<author>Monique Becker</author>
+<title>MPaaS: Mobility prediction as a service in telecom cloud.</title>
+<pages>59-75</pages>
+<year>2014</year>
+<volume>16</volume>
+<journal>Information Systems Frontiers</journal>
+<number>1</number>
+<url>db/journals/isf/isf16.html#XiongZZGYB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/ZhangGLBA14" mdate="2017-11-13">
+<author>Jun Zhang 0019</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Houda Labiod</author>
+<author>Abhik Banerjee</author>
+<author>Hossam Afifi</author>
+<title>Information dissemination in vehicular networks via evolutionary game theory.</title>
+<pages>124-129</pages>
+<year>2014</year>
+<booktitle>ICC</booktitle>
+<crossref>conf/icc/2014</crossref>
+<url>db/conf/icc/icc2014.html#ZhangGLBA14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GensollenGMB14" mdate="2018-08-13">
+<author>Nicolas Gensollen</author>
+<author>Vincent Gauthier</author>
+<author>Michel Marot</author>
+<author>Monique Becker</author>
+<title>Coalition Formation Algorithm of Prosumers in a Smart Grid Environment.</title>
+<year>2014</year>
+<volume>abs/1410.8776</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1410.8776</ee>
+<url>db/journals/corr/corr1410.html#GensollenGMB14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-1268" mdate="2018-08-13">
+<author>Abhik Banerjee</author>
+<author>Vincent Gauthier</author>
+<author>Houda Labiod</author>
+<author>Hossam Afifi</author>
+<title>Cooperation Optimized Design for Information Dissemination in Vehicular Networks using Evolutionary Game Theory</title>
+<ee type="oa">http://arxiv.org/abs/1301.1268</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.1268</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-1268</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1305-4096" mdate="2018-08-13">
+<author>Nicolas Gensollen</author>
+<author>Vincent Gauthier</author>
+<author>Michel Marot</author>
+<author>Monique Becker</author>
+<title>Modeling and optimizing a distributed power network : A complex system approach of the prosumer management in the smart grid</title>
+<ee type="oa">http://arxiv.org/abs/1305.4096</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1305.4096</volume>
+<url>db/journals/corr/corr1305.html#abs-1305-4096</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1305-5675" mdate="2018-08-13">
+<author>Rachit Agarwal 0002</author>
+<author>Vincent Gauthier</author>
+<author>Monique Becker</author>
+<author>Thouraya Toukabri</author>
+<author>Hossam Afifi</author>
+<title>Enhancing Information Dissemination in Device to Device Metapopulation using Human Mobility Trace and Beamforming</title>
+<ee type="oa">http://arxiv.org/abs/1305.5675</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1305.5675</volume>
+<url>db/journals/corr/corr1305.html#abs-1305-5675</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AsgariGB13" mdate="2018-08-13">
+<author>Fereshteh Asgari</author>
+<author>Vincent Gauthier</author>
+<author>Monique Becker</author>
+<title>A survey on Human Mobility and its applications.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1307.0814</ee>
+<volume>abs/1307.0814</volume>
+<url>db/journals/corr/corr1307.html#AsgariGB13</url>
+</article>
+</r>
+<r><article key="journals/cj/0002BGBYL12" mdate="2018-11-14">
+<author>Rachit Agarwal 0002</author>
+<author>Abhik Banerjee</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Monique Becker</author>
+<author>Chai Kiat Yeo</author>
+<author orcid="0000-0001-7828-7900">Bu-Sung Lee</author>
+<title>Achieving Small-World Properties using Bio-Inspired Techniques in Wireless Networks.</title>
+<pages>909-931</pages>
+<year>2012</year>
+<volume>55</volume>
+<journal>Comput. J.</journal>
+<number>8</number>
+<url>db/journals/cj/cj55.html#0002BGBYL12</url>
+</article>
+</r>
+<r><article key="journals/jsac/SyueWAGA12" mdate="2017-06-06">
+<author>Syue-Ju Syue</author>
+<author>Chin-Liang Wang</author>
+<author>Teck Aguilar</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Hossam Afifi</author>
+<title>Cooperative Geographic Routing with Radio Coverage Extension for SER-Constrained Wireless Relay Networks.</title>
+<pages>271-279</pages>
+<year>2012</year>
+<volume>30</volume>
+<journal>IEEE Journal on Selected Areas in Communications</journal>
+<number>2</number>
+<url>db/journals/jsac/jsac30.html#SyueWAGA12</url>
+</article>
+</r>
+<r><article key="journals/tvt/Banerjee0GYAL12" mdate="2018-11-14">
+<author>Abhik Banerjee</author>
+<author>Rachit Agarwal 0002</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Chai Kiat Yeo</author>
+<author>Hossam Afifi</author>
+<author orcid="0000-0001-7828-7900">Francis Bu-Sung Lee</author>
+<title>A Self-Organization Framework for Wireless Ad Hoc Networks as Small Worlds.</title>
+<pages>2659-2673</pages>
+<year>2012</year>
+<volume>61</volume>
+<journal>IEEE Trans. Vehicular Technology</journal>
+<number>6</number>
+<url>db/journals/tvt/tvt61.html#Banerjee0GYAL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwcmc/ZayaniGSZ12" mdate="2017-06-04">
+<author>Mohamed-Haykel Zayani</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Ines Slama</author>
+<author>Djamal Zeghlache</author>
+<title>Tracking topology dynamicity for link prediction in intermittently connected wireless networks.</title>
+<pages>469-474</pages>
+<year>2012</year>
+<booktitle>IWCMC</booktitle>
+<crossref>conf/iwcmc/2012</crossref>
+<url>db/conf/iwcmc/iwcmc2012.html#ZayaniGSZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uic/XiongZZG12" mdate="2018-07-27">
+<author>Haoyi Xiong</author>
+<author>Daqing Zhang 0001</author>
+<author>Daqiang Zhang</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<title>Predicting Mobile Phone User Locations by Exploiting Collective Behavioral Patterns.</title>
+<pages>164-171</pages>
+<year>2012</year>
+<booktitle>UIC/ATC</booktitle>
+<crossref>conf/uic/2012</crossref>
+<url>db/conf/uic/uic2012.html#XiongZZG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/SyueWGT12" mdate="2017-06-05">
+<author>Syue-Ju Syue</author>
+<author>Chin-Liang Wang</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Pei-Shan Tsai</author>
+<title>Coverage-Extended Cooperative Geographic Routing with Optimal Power Allocation for Wireless Multihop Networks.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>VTC Spring</booktitle>
+<crossref>conf/vtc/2012s</crossref>
+<url>db/conf/vtc/vtc2012s.html#SyueWGT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wowmom/ZayaniGZ12" mdate="2017-06-05">
+<author>Mohamed-Haykel Zayani</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Djamal Zeghlache</author>
+<title>Improving link prediction in intermittently connected wireless networks by considering link and proximity stabilities.</title>
+<pages>1-10</pages>
+<year>2012</year>
+<booktitle>WOWMOM</booktitle>
+<crossref>conf/wowmom/2012</crossref>
+<url>db/conf/wowmom/wowmom2012.html#ZayaniGZ12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-1185" mdate="2018-08-13">
+<author>Abhik Banerjee</author>
+<author>Rachit Agarwal 0002</author>
+<author>Vincent Gauthier</author>
+<author>Chai Kiat Yeo</author>
+<author>Hossam Afifi</author>
+<author>Bu-Sung Lee</author>
+<title>A Self-Organization Framework for Wireless Ad Hoc Networks as Small Worlds</title>
+<ee type="oa">http://arxiv.org/abs/1203.1185</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.1185</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-1185</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1205-3305" mdate="2018-08-13">
+<author>Mohamed-Haykel Zayani</author>
+<author>Vincent Gauthier</author>
+<author>Djamal Zeghlache</author>
+<title>A Joint Model for IEEE 802.15.4 Physical and Medium Access Control Layers</title>
+<ee type="oa">http://arxiv.org/abs/1205.3305</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1205.3305</volume>
+<url>db/journals/corr/corr1205.html#abs-1205-3305</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1205-3322" mdate="2018-08-13">
+<author>Mohamed-Haykel Zayani</author>
+<author>Vincent Gauthier</author>
+<author>Djamal Zeghlache</author>
+<title>Improving Link Prediction in Intermittently Connected Wireless Networks by Considering Link and Proximity Stabilities</title>
+<ee type="oa">http://arxiv.org/abs/1205.3322</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1205.3322</volume>
+<url>db/journals/corr/corr1205.html#abs-1205-3322</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1205-3328" mdate="2018-08-13">
+<author>Mohamed-Haykel Zayani</author>
+<author>Vincent Gauthier</author>
+<author>Ines Slama</author>
+<author>Djamal Zeghlache</author>
+<title>Tracking Topology Dynamicity for Link Prediction in Intermittently Connected Wireless Networks</title>
+<ee type="oa">http://arxiv.org/abs/1205.3328</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1205.3328</volume>
+<url>db/journals/corr/corr1205.html#abs-1205-3328</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1205-4049" mdate="2018-08-13">
+<author>Teck Aguilar</author>
+<author>Syue-Ju Syue</author>
+<author>Vincent Gauthier</author>
+<author>Hossam Afifi</author>
+<author>Chin-Liang Wang</author>
+<title>CoopGeo: A Beaconless Geographic Cross-Layer Protocol for Cooperative Wireless Ad Hoc Networks</title>
+<ee type="oa">http://arxiv.org/abs/1205.4049</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1205.4049</volume>
+<url>db/journals/corr/corr1205.html#abs-1205-4049</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1206-0951" mdate="2018-08-13">
+<author>Teck Aguilar</author>
+<author>Mohamed Chedly Ghedira</author>
+<author>Syue-Ju Syue</author>
+<author>Vincent Gauthier</author>
+<author>Hossam Afifi</author>
+<author>Chin-Liang Wang</author>
+<title>A Cross-Layer Design Based on Geographic Information for Cooperative Wireless Networks</title>
+<ee type="oa">http://arxiv.org/abs/1206.0951</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1206.0951</volume>
+<url>db/journals/corr/corr1206.html#abs-1206-0951</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-2564" mdate="2018-08-13">
+<author>Mohamed-Haykel Zayani</author>
+<author>Vincent Gauthier</author>
+<author>Djamal Zeghlache</author>
+<title>Quantifying Spatiotemporal Stability by means of Entropy: Approach and Motivations</title>
+<ee type="oa">http://arxiv.org/abs/1207.2564</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.2564</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-2564</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1210-5393" mdate="2018-08-13">
+<author>Rachit Agarwal 0002</author>
+<author>Vincent Gauthier</author>
+<author>Monique Becker</author>
+<title>Enhancing Information Dissemination in Dynamic Wireless Network using Stability and Beamforming</title>
+<ee type="oa">http://arxiv.org/abs/1210.5393</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1210.5393</volume>
+<url>db/journals/corr/corr1210.html#abs-1210-5393</url>
+</article>
+</r>
+<r><article key="journals/twc/AguilarSGAW11" mdate="2017-06-09">
+<author>Teck Aguilar</author>
+<author>Syue-Ju Syue</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Hossam Afifi</author>
+<author>Chin-Liang Wang</author>
+<title>CoopGeo: A Beaconless Geographic Cross-Layer Protocol for Cooperative Wireless Ad Hoc Networks.</title>
+<pages>2554-2565</pages>
+<year>2011</year>
+<volume>10</volume>
+<journal>IEEE Trans. Wireless Communications</journal>
+<number>8</number>
+<url>db/journals/twc/twc10.html#AguilarSGAW11</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/AgarwalBGBYL11" mdate="2017-06-02">
+<author>Rachit Agarwal 0002</author>
+<author>Abhik Banerjee</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Monique Becker</author>
+<author>Chai Kiat Yeo</author>
+<author>Bu-Sung Lee</author>
+<title>Self-organization of nodes using bio-inspired techniques for achieving small world properties.</title>
+<pages>89-94</pages>
+<year>2011</year>
+<booktitle>GLOBECOM Workshops</booktitle>
+<crossref>conf/globecom/2011w</crossref>
+<url>db/conf/globecom/globecom2011w.html#AgarwalBGBYL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/BanerjeeAGYAL11" mdate="2017-06-02">
+<author>Abhik Banerjee</author>
+<author>Rachit Agarwal 0002</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Chai Kiat Yeo</author>
+<author>Hossam Afifi</author>
+<author>Bu-Sung Lee</author>
+<title>Self-organization of wireless ad hoc networks as small worlds using long range directional beams.</title>
+<pages>120-124</pages>
+<year>2011</year>
+<booktitle>GLOBECOM Workshops</booktitle>
+<crossref>conf/globecom/2011w</crossref>
+<url>db/conf/globecom/globecom2011w.html#BanerjeeAGYAL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/ZayaniGZ11" mdate="2017-06-04">
+<author>Mohamed-Haykel Zayani</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Djamal Zeghlache</author>
+<title>A joint model for IEEE 802.15.4 physical and medium access control layers.</title>
+<pages>814-819</pages>
+<year>2011</year>
+<booktitle>IWCMC</booktitle>
+<crossref>conf/iwcmc/2011</crossref>
+<url>db/conf/iwcmc/iwcmc2011.html#ZayaniGZ11</url>
+</inproceedings>
+</r>
+<r><incollection key="reference/npe/DhaouGTBB11" mdate="2017-05-16">
+<author>Riadh Dhaou</author>
+<author>Vincent Gauthier</author>
+<author>M. Issoufou Tiado</author>
+<author>Monique Becker</author>
+<author>André-Luc Beylot</author>
+<title>Cross Layer Simulation: Application to Performance Modelling of Networks Composed of MANETs and Satellites.</title>
+<pages>477-508</pages>
+<year>2011</year>
+<booktitle>Network Performance Engineering</booktitle>
+<crossref>reference/npe/2011</crossref>
+<url>db/reference/npe/npe2011.html#DhaouGTBB11</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1108-2606" mdate="2018-08-13">
+<author>Mohamed-Haykel Zayani</author>
+<author>Vincent Gauthier</author>
+<author>Ines Slama</author>
+<author>Djamal Zeghlache</author>
+<title>Tensor-Based Link Prediction in Intermittently Connected Wireless Networks</title>
+<ee type="oa">http://arxiv.org/abs/1108.2606</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1108.2606</volume>
+<url>db/journals/corr/corr1108.html#abs-1108-2606</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1109-5338" mdate="2018-08-13">
+<author>Abhik Banerjee</author>
+<author>Rachit Agarwal 0002</author>
+<author>Vincent Gauthier</author>
+<author>Chai Kiat Yeo</author>
+<author>Hossam Afifi</author>
+<author>Bu-Sung Lee</author>
+<title>Self-Organization of Wireless Ad Hoc Networks as Small Worlds Using Long Range Directional Beams</title>
+<ee type="oa">http://arxiv.org/abs/1109.5338</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1109.5338</volume>
+<url>db/journals/corr/corr1109.html#abs-1109-5338</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1109-5959" mdate="2018-08-13">
+<author>Rachit Agarwal 0002</author>
+<author>Abhik Banerjee</author>
+<author>Vincent Gauthier</author>
+<author>Monique Becker</author>
+<author>Chai Kiat Yeo</author>
+<author>Bu-Sung Lee</author>
+<title>Self-organization of Nodes using Bio-Inspired Techniques for Achieving Small World Properties</title>
+<ee type="oa">http://arxiv.org/abs/1109.5959</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1109.5959</volume>
+<url>db/journals/corr/corr1109.html#abs-1109-5959</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1111-4807" mdate="2018-08-13">
+<author>Rachit Agarwal 0002</author>
+<author>Abhik Banerjee</author>
+<author>Vincent Gauthier</author>
+<author>Monique Becker</author>
+<author>Chai Kiat Yeo</author>
+<author>Bu-Sung Lee</author>
+<title>Achieving Small World Properties using Bio-Inspired Techniques in Wireless Networks</title>
+<ee type="oa">http://arxiv.org/abs/1111.4807</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1111.4807</volume>
+<url>db/journals/corr/corr1111.html#abs-1111-4807</url>
+</article>
+</r>
+<r><article key="journals/sigmetrics/MarotG10" mdate="2018-11-06">
+<author>Michel Marot</author>
+<author>Vincent Gauthier</author>
+<title>Reducing collision probability on a shared medium using a variational method.</title>
+<pages>42-44</pages>
+<year>2010</year>
+<volume>38</volume>
+<journal>SIGMETRICS Performance Evaluation Review</journal>
+<number>2</number>
+<url>db/journals/sigmetrics/sigmetrics38.html#MarotG10</url>
+</article>
+</r>
+<r><inproceedings key="conf/momm/AhmadDGMM10" mdate="2018-11-06">
+<author>Abdel Mehsen Ahmad</author>
+<author>Mahmoud Doughan</author>
+<author orcid="0000-0003-2252-7332">Vincent Gauthier</author>
+<author>Imad Mougharbel</author>
+<author>Michel Marot</author>
+<title>Hybrid multi-channel multi-hop MAC in VANETs.</title>
+<pages>353-357</pages>
+<year>2010</year>
+<booktitle>MoMM</booktitle>
+<crossref>conf/momm/2010</crossref>
+<url>db/conf/momm/momm2010.html#AhmadDGMM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/AguilarGSGAW10" mdate="2017-05-21">
+<author>Teck Aguilar</author>
+<author>Mohamed Chedly Ghedira</author>
+<author>Syue-Ju Syue</author>
+<author>Vincent Gauthier</author>
+<author>Hossam Afifi</author>
+<author>Chin-Liang Wang</author>
+<title>A Cross-Layer Design Based on Geographic Information for Cooperative Wireless Networks.</title>
+<pages>1-5</pages>
+<year>2010</year>
+<booktitle>VTC Spring</booktitle>
+<crossref>conf/vtc/2010s</crossref>
+<url>db/conf/vtc/vtc2010s.html#AguilarGSGAW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mwcn/BeylotDGB04" mdate="2018-06-26">
+<author>André-Luc Beylot</author>
+<author>Riadh Dhaou</author>
+<author>Vincent Gauthier</author>
+<author>Monique Becker</author>
+<title>Cross-Layer Simulation and Optimization for Mobile Ad-Hoc Networks.</title>
+<pages>13-22</pages>
+<year>2004</year>
+<crossref>conf/mwcn/2004</crossref>
+<booktitle>MWCN</booktitle>
+<ee type="oa">https://doi.org/10.1007/0-387-23150-1_2</ee>
+<url>db/conf/mwcn/mwcn2004.html#BeylotDGB04</url>
+</inproceedings>
+</r>
+<coauthors n="47" nc="1">
+<co c="0"><na f="a/Afifi:Hossam">Hossam Afifi</na></co>
+<co c="0"><na f="a/Agarwal_0002:Rachit">Rachit Agarwal 0002</na></co>
+<co c="0"><na f="a/Aguilar:Teck">Teck Aguilar</na></co>
+<co c="0"><na f="a/Ahmad:Abdel_Mehsen">Abdel Mehsen Ahmad</na></co>
+<co c="0"><na f="a/Asgari:Fereshteh">Fereshteh Asgari</na></co>
+<co c="0"><na f="b/Bachir:Danya">Danya Bachir</na></co>
+<co c="0"><na f="b/Banerjee:Abhik">Abhik Banerjee</na></co>
+<co c="0"><na f="b/Barnes:Laura_E=">Laura E. Barnes</na></co>
+<co c="0"><na f="b/Becker:Monique">Monique Becker</na></co>
+<co c="0"><na f="b/Benbadis:Farid">Farid Benbadis</na></co>
+<co c="0"><na f="b/Beylot:Andr=eacute==Luc">André-Luc Beylot</na></co>
+<co c="0"><na f="c/Chen:Guanling">Guanling Chen</na></co>
+<co c="0"><na f="d/Dhaou:Riadh">Riadh Dhaou</na></co>
+<co c="0"><na f="d/Doughan:Mahmoud">Mahmoud Doughan</na></co>
+<co c="0"><na f="e/El=Yacoubi:Mounim_A=">Mounim A. El-Yacoubi</na></co>
+<co c="0"><na f="e/ElKouki:Majed">Majed ElKouki</na></co>
+<co c="0"><na f="f/Fiore:Marco">Marco Fiore</na></co>
+<co c="0"><na f="g/Gensollen:Nicolas">Nicolas Gensollen</na></co>
+<co c="0"><na f="g/Ghedira:Mohamed_Chedly">Mohamed Chedly Ghedira</na></co>
+<co c="0"><na f="h/Hammami:Seif_Eddine">Seif Eddine Hammami</na></co>
+<co c="0"><na f="k/Khodabandelou:Ghazaleh">Ghazaleh Khodabandelou</na></co>
+<co c="0"><na f="l/Labiod:Houda">Houda Labiod</na></co>
+<co c="0" n="2"><na f="l/Lee:Bu=Sung">Bu-Sung Lee</na><na>Francis Bu-Sung Lee</na></co>
+<co c="0"><na f="m/Marot:Michel">Michel Marot</na></co>
+<co c="0"><na f="m/Moreira=Matias:Lu=iacute=s">Luís Moreira-Matias</na></co>
+<co c="0"><na f="m/Mougharbel:Imad">Imad Mougharbel</na></co>
+<co c="0"><na f="p/Prawirodidjojo:Eric_Valega">Eric Valega Prawirodidjojo</na></co>
+<co c="0"><na f="q/Quek:Rui_Jie">Rui Jie Quek</na></co>
+<co c="0"><na f="s/Schl=auml=pfer:Markus">Markus Schläpfer</na></co>
+<co c="0"><na f="s/Slama:Ines">Ines Slama</na></co>
+<co c="0"><na f="s/Sultan:Alexis">Alexis Sultan</na></co>
+<co c="0"><na f="s/Syue:Syue=Ju">Syue-Ju Syue</na></co>
+<co c="0"><na f="t/Tiado:M=_Issoufou">M. Issoufou Tiado</na></co>
+<co c="0" n="2"><na f="t/Toukabri:Thouraya">Thouraya Toukabri</na><na>Thouraya Toukabri Gunes</na></co>
+<co c="0"><na f="t/Tsai:Pei=Shan">Pei-Shan Tsai</na></co>
+<co c="0"><na f="v/Vachon:Eric">Eric Vachon</na></co>
+<co c="0"><na f="w/Wang:Chin=Liang">Chin-Liang Wang</na></co>
+<co c="0"><na f="w/Wang:Leye">Leye Wang</na></co>
+<co c="0"><na f="x/Xiong:Haoyi">Haoyi Xiong</na></co>
+<co c="0"><na f="y/Yang:Kun">Kun Yang</na></co>
+<co c="0"><na f="y/Yang:Laurence_T=">Laurence T. Yang</na></co>
+<co c="0"><na f="y/Yeo:Chai_Kiat">Chai Kiat Yeo</na></co>
+<co c="0"><na f="z/Zayani:Mohamed=Haykel">Mohamed-Haykel Zayani</na></co>
+<co c="0"><na f="z/Zeghlache:Djamal">Djamal Zeghlache</na></co>
+<co c="0"><na f="z/Zhang:Daqiang">Daqiang Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Daqing">Daqing Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0019:Jun">Jun Zhang 0019</na></co>
+</coauthors>
+</dblpperson>
+

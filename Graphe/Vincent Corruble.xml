@@ -1,0 +1,775 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Vincent Corruble" n="56">
+<person key="homepages/15/6998" mdate="2009-06-10">
+<author>Vincent Corruble</author>
+</person>
+<r><proceedings key="conf/icccrea/2016" mdate="2017-03-06">
+<editor>François Pachet</editor>
+<editor>Amílcar Cardoso</editor>
+<editor>Vincent Corruble</editor>
+<editor>Fiammetta Ghedini</editor>
+<title>Proceedings of the Seventh International Conference on Computational Creativity, UPMC, Paris, France, June 27 - July 1, 2016.</title>
+<booktitle>ICCC</booktitle>
+<publisher>Sony CSL Paris, France</publisher>
+<year>2016</year>
+<isbn>978-2-7466-9155-1</isbn>
+<url>db/conf/icccrea/icccrea2016.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/safeprocess/HerpsonCF15" mdate="2019-05-28">
+<author>Cédric Herpson</author>
+<author>Vincent Corruble</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<title>ADS2 : Anytime Distributed Supervision of Distributed Systems that Face Unreliable or Costly Communication.</title>
+<pages>35-42</pages>
+<year>2015</year>
+<booktitle>DX@Safeprocess</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1507/dx15paper5.pdf</ee>
+<crossref>conf/safeprocess/2015dx</crossref>
+<url>db/conf/safeprocess/dx2015.html#HerpsonCF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/ReynaudDC14" mdate="2014-09-25">
+<author>Quentin Reynaud</author>
+<author>Jean-Yves Donnart</author>
+<author>Vincent Corruble</author>
+<title>Evaluating the believability of virtual agents with anticipatory abilities.</title>
+<pages>1533-1534</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#ReynaudDC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/HerpsonFC14" mdate="2017-05-24">
+<author>Cédric Herpson</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Vincent Corruble</author>
+<title>ADS2 : Anytime Distributed Supervision of Distributed Systems that Face Unreliable or Costly Communication.</title>
+<pages>1023-1024</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HerpsonFC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iva/ReynaudDC14" mdate="2017-05-21">
+<author>Quentin Reynaud</author>
+<author>Jean-Yves Donnart</author>
+<author>Vincent Corruble</author>
+<title>Evaluating the Impact of Anticipation on the Efficiency and Believability of Virtual Agents.</title>
+<pages>360-363</pages>
+<year>2014</year>
+<booktitle>IVA</booktitle>
+<crossref>conf/iva/2014</crossref>
+<url>db/conf/iva/iva2014.html#ReynaudDC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/AlbuquerqueRCSF14" mdate="2017-08-09">
+<author>Marco Tulio C. F. Albuquerque</author>
+<author>Geber L. Ramalho</author>
+<author>Vincent Corruble</author>
+<author>Andre Luís de Medeiros Santos</author>
+<author>Fred Freitas</author>
+<title>Helping Developers to Look Deeper inside Game Sessions.</title>
+<pages>31-40</pages>
+<year>2014</year>
+<booktitle>SBGames</booktitle>
+<crossref>conf/sbgames/2014</crossref>
+<url>db/conf/sbgames/sbgames2014.html#AlbuquerqueRCSF14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/CampanoSCS13" mdate="2017-05-20">
+<author>Sabrina Campano</author>
+<author>Etienne de Sevin</author>
+<author>Vincent Corruble</author>
+<author>Nicolas Sabouret</author>
+<title>Une approche pour la simulation de comportements émotionnels fondée sur la théorie de la conservation des ressources.</title>
+<pages>113-138</pages>
+<year>2013</year>
+<volume>32</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>1</number>
+<url>db/journals/tsi/tsi32.html#CampanoSCS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/NavarroCFZ13" mdate="2013-06-28">
+<author>Laurent Navarro</author>
+<author>Vincent Corruble</author>
+<author>Fabien Flacher</author>
+<author>Jean-Daniel Zucker</author>
+<title>A flexible approach to multi-level agent-based simulation with the mesoscopic representation.</title>
+<pages>159-166</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#NavarroCFZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/CampanoSSC13" mdate="2013-06-28">
+<author>Sabrina Campano</author>
+<author>Nicolas Sabouret</author>
+<author>Etienne de Sevin</author>
+<author>Vincent Corruble</author>
+<title>An evaluation of the COR-E computational model for affective behaviors.</title>
+<pages>745-752</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#CampanoSSC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/ReynaudC13" mdate="2013-09-11">
+<author>Quentin Reynaud</author>
+<author>Vincent Corruble</author>
+<title>Un mécanisme de composition de comportements pour agents virtuels (présentation courte).</title>
+<pages>125-134</pages>
+<year>2013</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2013</crossref>
+<url>db/conf/jfsma/jfsma2013.html#ReynaudC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aamas/CampanoSSC12" mdate="2015-03-19">
+<author>Sabrina Campano</author>
+<author>Nicolas Sabouret</author>
+<author>Etienne de Sevin</author>
+<author>Vincent Corruble</author>
+<title>The "resource" approach to emotion.</title>
+<pages>1191-1192</pages>
+<year>2012</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2012</crossref>
+<url>db/conf/atal/aamas2012.html#CampanoSSC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/ReynaudSDC12" mdate="2017-05-23">
+<author>Quentin Reynaud</author>
+<author>Etienne de Sevin</author>
+<author>Jean-Yves Donnart</author>
+<author>Vincent Corruble</author>
+<title>A Cognitive Module in a Decision-Making Architecture for Agents in Urban Simulations.</title>
+<pages>120-133</pages>
+<year>2012</year>
+<booktitle>CAVE</booktitle>
+<crossref>conf/atal/2012cave</crossref>
+<url>db/conf/atal/cave2012.html#ReynaudSDC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/PouletCF12" mdate="2019-02-12">
+<author>Cyril Poulet</author>
+<author>Vincent Corruble</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<title>Working as a Team: Using Social Criteria in the Timed Patrolling Problem.</title>
+<pages>933-938</pages>
+<year>2012</year>
+<crossref>conf/ictai/2012</crossref>
+<booktitle>ICTAI</booktitle>
+<url>db/conf/ictai/ictai2012.html#PouletCF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iva/CampanoSCS12" mdate="2017-05-21">
+<author>Sabrina Campano</author>
+<author>Etienne de Sevin</author>
+<author>Vincent Corruble</author>
+<author>Nicolas Sabouret</author>
+<title>Evaluation of an Affective Model: COR-E.</title>
+<pages>508-510</pages>
+<year>2012</year>
+<booktitle>IVA</booktitle>
+<crossref>conf/iva/2012</crossref>
+<url>db/conf/iva/iva2012.html#CampanoSCS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/PouletCF12" mdate="2013-04-18">
+<author>Cyril Poulet</author>
+<author>Vincent Corruble</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<title>Travailler en équipe: le choix social appliqué au problème de la patrouille multi-agents.</title>
+<pages>65-74</pages>
+<year>2012</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2012</crossref>
+<url>db/conf/jfsma/jfsma2012.html#PouletCF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/SevinCSC12" mdate="2013-04-18">
+<author>Etienne de Sevin</author>
+<author>Sabrina Campano</author>
+<author>Nicolas Sabouret</author>
+<author>Vincent Corruble</author>
+<title>Évaluation d'un modèle affectif pour la simulation multi-agents.</title>
+<pages>87-96</pages>
+<year>2012</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2012</crossref>
+<url>db/conf/jfsma/jfsma2012.html#SevinCSC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prima/PouletCF12" mdate="2017-05-19">
+<author>Cyril Poulet</author>
+<author>Vincent Corruble</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<title>Auction-Based Strategies for the Open-System Patrolling Task.</title>
+<pages>92-106</pages>
+<year>2012</year>
+<booktitle>PRIMA</booktitle>
+<crossref>conf/prima/2012</crossref>
+<url>db/conf/prima/prima2012.html#PouletCF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acii/CampanoSCS11" mdate="2017-05-21">
+<author>Sabrina Campano</author>
+<author>Etienne de Sevin</author>
+<author>Vincent Corruble</author>
+<author>Nicolas Sabouret</author>
+<title>Simulating Affective Behaviours : An Approach Based on the COR Theory.</title>
+<pages>457-466</pages>
+<year>2011</year>
+<booktitle>ACII (1)</booktitle>
+<crossref>conf/acii/2011-1</crossref>
+<url>db/conf/acii/acii2011-1.html#CampanoSCS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aegs/CampanoSCS11" mdate="2017-05-23">
+<author>Sabrina Campano</author>
+<author>Etienne de Sevin</author>
+<author>Vincent Corruble</author>
+<author>Nicolas Sabouret</author>
+<title>An Architecture for Affective Behaviour Based on the Conservation of Resources.</title>
+<pages>183-194</pages>
+<year>2011</year>
+<booktitle>AEGS</booktitle>
+<crossref>conf/aegs/2011</crossref>
+<url>db/conf/aegs/aegs2011.html#CampanoSCS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/NavarroFC11" mdate="2011-11-18">
+<author>Laurent Navarro</author>
+<author>Fabien Flacher</author>
+<author>Vincent Corruble</author>
+<title>Dynamic level of detail for large scale agent-based urban simulations.</title>
+<pages>701-708</pages>
+<year>2011</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2011</crossref>
+<url>db/conf/atal/aamas2011.html#NavarroFC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/PouletCSR11" mdate="2019-10-11">
+<author>Cyril Poulet</author>
+<author>Vincent Corruble</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Geber L. Ramalho</author>
+<title>The Open System Setting in Timed Multiagent Patrolling.</title>
+<pages>373-376</pages>
+<year>2011</year>
+<booktitle>IAT</booktitle>
+<crossref>conf/iat/2011</crossref>
+<url>db/conf/iat/iat2011.html#PouletCSR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idc/HerpsonCS11" mdate="2017-05-26">
+<author>Cédric Herpson</author>
+<author>Vincent Corruble</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<title>Towards an Adaptive Supervision of Distributed Systems.</title>
+<pages>129-139</pages>
+<year>2011</year>
+<booktitle>IDC</booktitle>
+<crossref>conf/idc/2011</crossref>
+<url>db/conf/idc/idc2011.html#HerpsonCS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/HerpsonCS11" mdate="2012-02-07">
+<author>Cédric Herpson</author>
+<author>Vincent Corruble</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<title>Un Modèle décisionnel d'agent pour une supervision adaptative des systèmes distribués.</title>
+<pages>31-40</pages>
+<year>2011</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2011</crossref>
+<url>db/conf/jfsma/jfsma2011.html#HerpsonCS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/MadeiraC11" mdate="2017-05-21">
+<author>Charles A. G. Madeira</author>
+<author>Vincent Corruble</author>
+<title>Combining Reinforcement Learning with a Multi-level Abstraction Method to Design a Powerful Game AI.</title>
+<pages>132-140</pages>
+<year>2011</year>
+<booktitle>SBGames</booktitle>
+<crossref>conf/sbgames/2011</crossref>
+<url>db/conf/sbgames/sbgames2011.html#MadeiraC11</url>
+</inproceedings>
+</r>
+<r><article key="journals/ria/MadeiraC09" mdate="2017-05-27">
+<author>Charles A. G. Madeira</author>
+<author>Vincent Corruble</author>
+<title>STRADA, une approche adaptative pour les jeux de stratégie modernes.</title>
+<pages>293-326</pages>
+<year>2009</year>
+<volume>23</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>2-3</number>
+<url>db/journals/ria/ria23.html#MadeiraC09</url>
+</article>
+</r>
+<r><article key="journals/ria/OchsSC09" mdate="2017-05-27">
+<author>Magalie Ochs</author>
+<author>Nicolas Sabouret</author>
+<author>Vincent Corruble</author>
+<title>Simulation de la dynamique des émotions et des relations sociales de personnages virtuels.</title>
+<pages>327-357</pages>
+<year>2009</year>
+<volume>23</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>2-3</number>
+<url>db/journals/ria/ria23.html#OchsSC09</url>
+</article>
+</r>
+<r><article key="journals/tciaig/OchsSC09" mdate="2019-02-05">
+<author>Magalie Ochs</author>
+<author>Nicolas Sabouret</author>
+<author>Vincent Corruble</author>
+<title>Simulation of the Dynamics of Nonplayer Characters' Emotions and Social Relations in Games.</title>
+<pages>281-297</pages>
+<year>2009</year>
+<volume>1</volume>
+<journal>IEEE Trans. Comput. Intellig. and AI in Games</journal>
+<number>4</number>
+<url>db/journals/tciaig/tciaig1.html#OchsSC09</url>
+</article>
+</r>
+<r><inproceedings key="conf/dis/HerpsonC09" mdate="2017-05-23">
+<author>Cédric Herpson</author>
+<author>Vincent Corruble</author>
+<title>Discovering Abstract Concepts to Aid Cross-Map Transfer for a Learning Agent.</title>
+<pages>409-416</pages>
+<year>2009</year>
+<booktitle>Discovery Science</booktitle>
+<crossref>conf/dis/2009</crossref>
+<url>db/conf/dis/dis2009.html#HerpsonC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwec/NavarroC09" mdate="2018-06-26">
+<author>Laurent Navarro</author>
+<author>Vincent Corruble</author>
+<title>Extending the Strada Framework to Design an AI for ORTS.</title>
+<pages>270-275</pages>
+<year>2009</year>
+<booktitle>ICEC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-04052-8_32</ee>
+<crossref>conf/iwec/2009</crossref>
+<url>db/conf/iwec/icec2009.html#NavarroC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiide/OchsSC08" mdate="2012-12-12">
+<author>Magalie Ochs</author>
+<author>Nicolas Sabouret</author>
+<author>Vincent Corruble</author>
+<title>Modeling the Dynamics of Non-Player Characters' Social Relations in Video Games.</title>
+<year>2008</year>
+<booktitle>AIIDE</booktitle>
+<crossref>conf/aiide/2008</crossref>
+<url>db/conf/aiide/aiide2008.html#OchsSC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dis/BourgneC08" mdate="2017-05-23">
+<author>Gauvain Bourgne</author>
+<author>Vincent Corruble</author>
+<title>A Framework for Knowledge Discovery in a Society of Agents.</title>
+<pages>172-184</pages>
+<year>2008</year>
+<booktitle>Discovery Science</booktitle>
+<crossref>conf/dis/2008</crossref>
+<url>db/conf/dis/dis2008.html#BourgneC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iva/OchsSC08" mdate="2017-05-21">
+<author>Magalie Ochs</author>
+<author>Nicolas Sabouret</author>
+<author>Vincent Corruble</author>
+<title>Modeling the Dynamics of Virtual Agent's Social Relations.</title>
+<pages>524-525</pages>
+<year>2008</year>
+<booktitle>IVA</booktitle>
+<crossref>conf/iva/2008</crossref>
+<url>db/conf/iva/iva2008.html#OchsSC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/OchsSC08" mdate="2012-02-07">
+<author>Magalie Ochs</author>
+<author>Nicolas Sabouret</author>
+<author>Vincent Corruble</author>
+<title>Un modèles de la dynamique des relations sociales pour des agents virtuels.</title>
+<pages>87-96</pages>
+<year>2008</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2008</crossref>
+<url>db/conf/jfsma/jfsma2008.html#OchsSC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acii/SehabaSC07" mdate="2017-05-21">
+<author>Karim Sehaba</author>
+<author>Nicolas Sabouret</author>
+<author>Vincent Corruble</author>
+<title>An Emotional Model for Synthetic Characters with Personality.</title>
+<pages>749-750</pages>
+<year>2007</year>
+<crossref>conf/acii/2007</crossref>
+<booktitle>ACII</booktitle>
+<url>db/conf/acii/acii2007.html#SehabaSC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dimea/BosserLSBCF07" mdate="2018-11-06">
+<author>Anne-Gwenn Bosser</author>
+<author>Guillaume Levieux</author>
+<author>Karim Sehaba</author>
+<author>Axel Buendia</author>
+<author>Vincent Corruble</author>
+<author>Guillaume de Fondaumière</author>
+<title>Dialogs taking into account experience, emotions and personality.</title>
+<pages>9-12</pages>
+<year>2007</year>
+<booktitle>DIMEA</booktitle>
+<crossref>conf/dimea/2007</crossref>
+<url>db/conf/dimea/dimea2007.html#BosserLSBCF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwec/BosserLSBCFGNS07" mdate="2018-06-26">
+<author>Anne-Gwenn Bosser</author>
+<author>Guillaume Levieux</author>
+<author>Karim Sehaba</author>
+<author>Axel Buendia</author>
+<author>Vincent Corruble</author>
+<author>Guillaume de Fondaumière</author>
+<author>Viviane Gal</author>
+<author>Stéphane Natkin</author>
+<author>Nicolas Sabouret</author>
+<title>Dialogs Taking into Account Experience, Emotions and Personality.</title>
+<pages>356-362</pages>
+<year>2007</year>
+<crossref>conf/iwec/2007</crossref>
+<booktitle>ICEC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-74873-1_42</ee>
+<url>db/conf/iwec/icec2007.html#BosserLSBCFGNS07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dis/2007" mdate="2019-05-14">
+<editor>Vincent Corruble</editor>
+<editor>Masayuki Takeda</editor>
+<editor>Einoshin Suzuki</editor>
+<title>Discovery Science, 10th International Conference, DS 2007, Sendai, Japan, October 1-4, 2007, Proceedings</title>
+<booktitle>Discovery Science</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4755</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-75487-9</isbn>
+<url>db/conf/dis/dis2007.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/aiide/AndradeRGC06" mdate="2019-10-11">
+<author>Gustavo Andrade</author>
+<author>Geber L. Ramalho</author>
+<author>Alex Sandro Gomes</author>
+<author>Vincent Corruble</author>
+<title>Dynamic Game Balancing: An Evaluation of User Satisfaction.</title>
+<pages>3-8</pages>
+<year>2006</year>
+<crossref>conf/aiide/2006</crossref>
+<booktitle>AIIDE</booktitle>
+<url>db/conf/aiide/aiide2006.html#AndradeRGC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiide/MadeiraCR06" mdate="2019-10-11">
+<author>Charles A. G. Madeira</author>
+<author>Vincent Corruble</author>
+<author>Geber L. Ramalho</author>
+<title>Designing a Reinforcement Learning-based Adaptive AI for Large-Scale Strategy Games.</title>
+<pages>121-123</pages>
+<year>2006</year>
+<crossref>conf/aiide/2006</crossref>
+<booktitle>AIIDE</booktitle>
+<url>db/conf/aiide/aiide2006.html#MadeiraCR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/AndradeRSC05" mdate="2019-10-11">
+<author>Gustavo Andrade</author>
+<author>Geber L. Ramalho</author>
+<author>Hugo Santana</author>
+<author>Vincent Corruble</author>
+<title>Automatic computer game balancing: a reinforcement learning approach.</title>
+<pages>1111-1112</pages>
+<year>2005</year>
+<crossref>conf/atal/2005</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2005.html#AndradeRSC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/AndradeRSC05" mdate="2019-10-11">
+<author>Gustavo Andrade</author>
+<author>Geber L. Ramalho</author>
+<author>Hugo Santana</author>
+<author>Vincent Corruble</author>
+<title>Challenge-Sensitive Action Selection: an Application to Game Balancing.</title>
+<pages>194-200</pages>
+<year>2005</year>
+<crossref>conf/iat/2005</crossref>
+<booktitle>IAT</booktitle>
+<url>db/conf/iat/iat2005.html#AndradeRSC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/BaudoinBC05" mdate="2017-05-23">
+<author>Frédéric Baudoin</author>
+<author>Philippe Bretier</author>
+<author>Vincent Corruble</author>
+<title>A Dialogue Agent with Adaptive and Proactive Capabilities.</title>
+<pages>293-296</pages>
+<year>2005</year>
+<crossref>conf/iat/2005</crossref>
+<booktitle>IAT</booktitle>
+<url>db/conf/iat/iat2005.html#BaudoinBC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/MadieraCR05" mdate="2019-10-11">
+<author>Charles A. G. Madeira</author>
+<author>Vincent Corruble</author>
+<author>Geber L. Ramalho</author>
+<title>Generating Adequate Representations for Learning from Interaction in Complex Multiagent Simulations.</title>
+<pages>512-515</pages>
+<year>2005</year>
+<crossref>conf/iat/2005</crossref>
+<booktitle>IAT</booktitle>
+<url>db/conf/iat/iat2005.html#MadieraCR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/SantanaRCR04" mdate="2019-10-11">
+<author>Hugo Santana</author>
+<author>Geber L. Ramalho</author>
+<author>Vincent Corruble</author>
+<author>Bohdana Ratitch</author>
+<title>Multi-Agent Patrolling with Reinforcement Learning.</title>
+<pages>1122-1129</pages>
+<year>2004</year>
+<crossref>conf/atal/2004</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2004.html#SantanaRCR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dis/WajnbergCGM04" mdate="2019-08-30">
+<author>Charles-David Wajnberg</author>
+<author>Vincent Corruble</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Carlos Ulises Moulines</author>
+<title>A Structuralist Approach Towards Computational Scientific Discovery.</title>
+<pages>412-419</pages>
+<year>2004</year>
+<crossref>conf/dis/2004</crossref>
+<booktitle>Discovery Science</booktitle>
+<url>db/conf/dis/dis2004.html#WajnbergCGM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/AlmeidaRSTMCC04" mdate="2019-10-11">
+<author>Alessandro Almeida</author>
+<author>Geber L. Ramalho</author>
+<author>Hugo Santana</author>
+<author>Patricia Azevedo Tedesco</author>
+<author>Talita Menezes</author>
+<author>Vincent Corruble</author>
+<author>Yann Chevaleyre</author>
+<title>Recent Advances on Multi-agent Patrolling.</title>
+<pages>474-483</pages>
+<year>2004</year>
+<crossref>conf/sbia/2004</crossref>
+<booktitle>SBIA</booktitle>
+<url>db/conf/sbia/sbia2004.html#AlmeidaRSTMCC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dis/ChevalierBC03" mdate="2017-05-23">
+<author>Karine Chevalier</author>
+<author>Cécile Bothorel</author>
+<author>Vincent Corruble</author>
+<title>Discovering Rich Navigation Patterns on a Web Site.</title>
+<pages>62-75</pages>
+<year>2003</year>
+<crossref>conf/dis/2003</crossref>
+<booktitle>Discovery Science</booktitle>
+<url>db/conf/dis/dis2003.html#ChevalierBC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gameon/CorrubleMR02" mdate="2019-10-11">
+<author>Vincent Corruble</author>
+<author>Charles A. G. Madeira</author>
+<author>Geber L. Ramalho</author>
+<title>Steps toward Building of a Good AI for Complex Wargame-Type Simulation Games.</title>
+<year>2002</year>
+<crossref>conf/gameon/2002</crossref>
+<booktitle>GAME-ON</booktitle>
+<url>db/conf/gameon/gameon2002.html#CorrubleMR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/TeixeiraCRC02" mdate="2019-10-11">
+<author>Ivan R. Teixeira</author>
+<author>Francisco de A. T. de Carvalho</author>
+<author>Geber L. Ramalho</author>
+<author>Vincent Corruble</author>
+<title>ActiveCP: A Method for Speeding up User Preferences Acquisition in Collaborative Filtering Systems.</title>
+<pages>237-247</pages>
+<year>2002</year>
+<crossref>conf/sbia/2002</crossref>
+<booktitle>SBIA</booktitle>
+<url>db/conf/sbia/sbia2002.html#TeixeiraCRC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/QueirozCRC02" mdate="2019-10-11">
+<author>Sérgio R. de M. Queiroz</author>
+<author>Francisco de A. T. de Carvalho</author>
+<author>Geber L. Ramalho</author>
+<author>Vincent Corruble</author>
+<title>Making Recommendations for Groups Using Collaborative Filtering and Fuzzy Majority.</title>
+<pages>248-258</pages>
+<year>2002</year>
+<crossref>conf/sbia/2002</crossref>
+<booktitle>SBIA</booktitle>
+<url>db/conf/sbia/sbia2002.html#QueirozCRC02</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmms/SleemanCV00" mdate="2017-05-20">
+<author>Derek H. Sleeman</author>
+<author>Vincent Corruble</author>
+<author>Raúl E. Valdés-Pérez</author>
+<title>Introduction/Editorial: Machine Discovery.</title>
+<pages>333-334</pages>
+<year>2000</year>
+<volume>53</volume>
+<journal>Int. J. Hum.-Comput. Stud.</journal>
+<number>3</number>
+<url>db/journals/ijmms/ijmms53.html#SleemanCV00</url>
+</article>
+</r>
+<r><inproceedings key="conf/aimdm/McQuattASCJ99" mdate="2017-05-24">
+<author>A. McQuatt</author>
+<author>P. J. D. Andrews</author>
+<author>Derek H. Sleeman</author>
+<author>Vincent Corruble</author>
+<author>P. A. Jones</author>
+<title>The Analysis of Head Injury Data Using Decision Tree Techniques.</title>
+<pages>336-345</pages>
+<year>1999</year>
+<crossref>conf/aimdm/1999</crossref>
+<booktitle>AIMDM</booktitle>
+<url>db/conf/aimdm/aimdm1999.html#McQuattASCJ99</url>
+</inproceedings>
+</r>
+<r><article key="journals/ai/CorrubleG97" mdate="2017-05-27">
+<author>Vincent Corruble</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Induction and the Discovery of the Causes of Scurvy: A Computational Reconstruction.</title>
+<pages>205-223</pages>
+<year>1997</year>
+<volume>91</volume>
+<journal>Artif. Intell.</journal>
+<number>2</number>
+<url>db/journals/ai/ai91.html#CorrubleG97</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/CorrubleG96" mdate="2012-12-11">
+<author>Vincent Corruble</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>The Discovery of the Causes of Leprosy: A Computational Analysis.</title>
+<pages>731-736</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#CorrubleG96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/ZuckerCTR94" mdate="2019-10-11">
+<author>Jean-Daniel Zucker</author>
+<author>Vincent Corruble</author>
+<author>J. Thomas</author>
+<author>Geber L. Ramalho</author>
+<title>DICE: A Discovery Environment Integrating Inductive Bias.</title>
+<pages>275-286</pages>
+<year>1994</year>
+<crossref>conf/kdd/1994</crossref>
+<booktitle>KDD Workshop</booktitle>
+<url>db/conf/kdd/kdd94.html#ZuckerCTR94</url>
+</inproceedings>
+</r>
+<r><article key="journals/pr/BrownCP93" mdate="2017-05-18">
+<author>Donald E. Brown</author>
+<author>Vincent Corruble</author>
+<author>Clarence Louis Pittard</author>
+<title>A comparison of decision tree classifiers with backpropagation neural networks for multimodal classification problems.</title>
+<pages>953-961</pages>
+<year>1993</year>
+<volume>26</volume>
+<journal>Pattern Recognition</journal>
+<number>6</number>
+<url>db/journals/pr/pr26.html#BrownCP93</url>
+</article>
+</r>
+<coauthors n="56" nc="7">
+<co c="0"><na f="a/Albuquerque:Marco_Tulio_C=_F=">Marco Tulio C. F. Albuquerque</na></co>
+<co c="0"><na f="a/Almeida:Alessandro">Alessandro Almeida</na></co>
+<co c="0"><na f="a/Andrade:Gustavo">Gustavo Andrade</na></co>
+<co c="1"><na f="a/Andrews:P=_J=_D=">P. J. D. Andrews</na></co>
+<co c="3"><na f="b/Baudoin:Fr=eacute=d=eacute=ric">Frédéric Baudoin</na></co>
+<co c="0"><na f="b/Bosser:Anne=Gwenn">Anne-Gwenn Bosser</na></co>
+<co c="6"><na f="b/Bothorel:C=eacute=cile">Cécile Bothorel</na></co>
+<co c="0"><na f="b/Bourgne:Gauvain">Gauvain Bourgne</na></co>
+<co c="3"><na f="b/Bretier:Philippe">Philippe Bretier</na></co>
+<co c="5"><na f="b/Brown:Donald_E=">Donald E. Brown</na></co>
+<co c="0"><na f="b/Buendia:Axel">Axel Buendia</na></co>
+<co c="0"><na f="c/Campano:Sabrina">Sabrina Campano</na></co>
+<co c="2"><na f="c/Cardoso:Am=iacute=lcar">Amílcar Cardoso</na></co>
+<co c="0"><na f="c/Carvalho:Francisco_de_A=_T=_de">Francisco de A. T. de Carvalho</na></co>
+<co c="0"><na f="c/Chevaleyre:Yann">Yann Chevaleyre</na></co>
+<co c="6"><na f="c/Chevalier:Karine">Karine Chevalier</na></co>
+<co c="0"><na f="d/Donnart:Jean=Yves">Jean-Yves Donnart</na></co>
+<co c="0"><na f="f/Fallah=Seghrouchni:Amal_El">Amal El Fallah-Seghrouchni</na></co>
+<co c="0"><na f="f/Flacher:Fabien">Fabien Flacher</na></co>
+<co c="0"><na f="f/Fondaumi=egrave=re:Guillaume_de">Guillaume de Fondaumière</na></co>
+<co c="0"><na f="f/Freitas:Fred">Fred Freitas</na></co>
+<co c="0"><na f="g/Gal:Viviane">Viviane Gal</na></co>
+<co c="0"><na f="g/Ganascia:Jean=Gabriel">Jean-Gabriel Ganascia</na></co>
+<co c="2"><na f="g/Ghedini:Fiammetta">Fiammetta Ghedini</na></co>
+<co c="0"><na f="g/Gomes:Alex_Sandro">Alex Sandro Gomes</na></co>
+<co c="0"><na f="h/Herpson:C=eacute=dric">Cédric Herpson</na></co>
+<co c="1"><na f="j/Jones:P=_A=">P. A. Jones</na></co>
+<co c="0"><na f="l/Levieux:Guillaume">Guillaume Levieux</na></co>
+<co c="0"><na f="m/Madeira:Charles_A=_G=">Charles A. G. Madeira</na></co>
+<co c="1"><na f="m/McQuatt:A=">A. McQuatt</na></co>
+<co c="0"><na f="m/Menezes:Talita">Talita Menezes</na></co>
+<co c="0"><na f="m/Moulines:Carlos_Ulises">Carlos Ulises Moulines</na></co>
+<co c="0"><na f="n/Natkin:St=eacute=phane">Stéphane Natkin</na></co>
+<co c="0"><na f="n/Navarro:Laurent">Laurent Navarro</na></co>
+<co c="0"><na f="o/Ochs:Magalie">Magalie Ochs</na></co>
+<co c="2"><na f="p/Pachet:Fran=ccedil=ois">François Pachet</na></co>
+<co c="5"><na f="p/Pittard:Clarence_Louis">Clarence Louis Pittard</na></co>
+<co c="0"><na f="p/Poulet:Cyril">Cyril Poulet</na></co>
+<co c="0"><na f="q/Queiroz:S=eacute=rgio_R=_de_M=">Sérgio R. de M. Queiroz</na></co>
+<co c="0"><na f="r/Ramalho:Geber_L=">Geber L. Ramalho</na></co>
+<co c="0"><na f="r/Ratitch:Bohdana">Bohdana Ratitch</na></co>
+<co c="0"><na f="r/Reynaud:Quentin">Quentin Reynaud</na></co>
+<co c="0"><na f="s/Sabouret:Nicolas">Nicolas Sabouret</na></co>
+<co c="0"><na f="s/Santana:Hugo">Hugo Santana</na></co>
+<co c="0" n="2"><na f="s/Santos:Andr=eacute=_L=_M=">André L. M. Santos</na><na>Andre Luís de Medeiros Santos</na></co>
+<co c="0"><na f="s/Sehaba:Karim">Karim Sehaba</na></co>
+<co c="0"><na f="s/Sevin:Etienne_de">Etienne de Sevin</na></co>
+<co c="1"><na f="s/Sleeman:Derek_H=">Derek H. Sleeman</na></co>
+<co c="4"><na f="s/Suzuki:Einoshin">Einoshin Suzuki</na></co>
+<co c="4"><na f="t/Takeda:Masayuki">Masayuki Takeda</na></co>
+<co c="0" n="2"><na f="t/Tedesco:Patr=iacute=cia_C=_A=_R=">Patrícia C. A. R. Tedesco</na><na>Patricia Azevedo Tedesco</na></co>
+<co c="0"><na f="t/Teixeira:Ivan_R=">Ivan R. Teixeira</na></co>
+<co c="0"><na f="t/Thomas:J=">J. Thomas</na></co>
+<co c="1"><na f="v/Vald=eacute=s=P=eacute=rez:Ra=uacute=l_E=">Raúl E. Valdés-Pérez</na></co>
+<co c="0"><na f="w/Wajnberg:Charles=David">Charles-David Wajnberg</na></co>
+<co c="0"><na f="z/Zucker:Jean=Daniel">Jean-Daniel Zucker</na></co>
+</coauthors>
+</dblpperson>
+

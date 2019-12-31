@@ -1,0 +1,1514 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Habib Mehrez" n="108">
+<person key="homepages/56/2953" mdate="2017-10-21">
+<author>Habib Mehrez</author>
+</person>
+<r><article key="journals/dafes/FarooqMB18" mdate="2019-09-16">
+<author orcid="0000-0002-5220-4908">Umer Farooq</author>
+<author>Habib Mehrez</author>
+<author orcid="0000-0002-1974-8268">Muhammad Khurram Bhatti</author>
+<title>Inter-FPGA interconnect topologies exploration for multi-FPGA systems.</title>
+<pages>117-140</pages>
+<year>2018</year>
+<volume>22</volume>
+<journal>Design Autom. for Emb. Sys.</journal>
+<number>1-2</number>
+<url>db/journals/dafes/dafes22.html#FarooqMB18</url>
+</article>
+</r>
+<r><article key="journals/mam/FarooqCARM18" mdate="2018-01-02">
+<author>Umer Farooq</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Muhammad Moazam Azeem</author>
+<author>Maminionja Ravoson</author>
+<author>Habib Mehrez</author>
+<title>Novel architectural space exploration environment for multi-FPGA based prototyping systems.</title>
+<pages>169-183</pages>
+<year>2018</year>
+<volume>56</volume>
+<journal>Microprocessors and Microsystems - Embedded Hardware Design</journal>
+<url>db/journals/mam/mam56.html#FarooqCARM18</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/AbdellatifCM17" mdate="2017-06-12">
+<author>Karim M. Abdellatif</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>AES-GCM and AEGIS: Efficient and High Speed Hardware Implementations.</title>
+<pages>1-12</pages>
+<year>2017</year>
+<volume>88</volume>
+<journal>Signal Processing Systems</journal>
+<number>1</number>
+<url>db/journals/vlsisp/vlsisp88.html#AbdellatifCM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ieeehpcs/ChtourouAMAM17" mdate="2017-09-19">
+<author>Sonda Chtourou</author>
+<author>Mohamed Abid</author>
+<author>Zied Marrakchi</author>
+<author>Emna Amouri</author>
+<author>Habib Mehrez</author>
+<title>On Exploiting Partitioning-Based Placement Approach for Performances Improvement of 3D FPGA.</title>
+<pages>572-579</pages>
+<year>2017</year>
+<booktitle>HPCS</booktitle>
+<crossref>conf/ieeehpcs/2017</crossref>
+<url>db/conf/ieeehpcs/ieeehpcs2017.html#ChtourouAMAM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/FarooqMB17" mdate="2019-09-16">
+<author>Umer Farooq</author>
+<author>Habib Mehrez</author>
+<author orcid="0000-0002-1974-8268">Muhammad Khurram Bhatti</author>
+<title>Comparison of direct and switch-based inter-FPGA routing interconnect for multi-FPGA systems.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2017</crossref>
+<url>db/conf/reconfig/reconfig2017.html#FarooqMB17</url>
+</inproceedings>
+</r>
+<r><article key="journals/mam/ChtourouMAPAM16" mdate="2018-11-30">
+<author orcid="0000-0001-5669-242X">Sonda Chtourou</author>
+<author>Zied Marrakchi</author>
+<author>Emna Amouri</author>
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Mohamed Abid</author>
+<author>Habib Mehrez</author>
+<title>Improvement of cluster-based Mesh FPGA architecture using novel hierarchical interconnect topology and long routing wires.</title>
+<pages>16-26</pages>
+<year>2016</year>
+<volume>40</volume>
+<journal>Microprocessors and Microsystems - Embedded Hardware Design</journal>
+<url>db/journals/mam/mam40.html#ChtourouMAPAM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsd/FarooqCACRKM16" mdate="2017-05-19">
+<author>Umer Farooq</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Muhammad Moazam Azeem</author>
+<author>Zouha Cherif</author>
+<author>Maminionja Ravoson</author>
+<author>Saqib Khan</author>
+<author>Habib Mehrez</author>
+<title>Using Timing-Driven Inter-FPGA Routing for Multi-FPGA Prototyping Exploration.</title>
+<pages>641-645</pages>
+<year>2016</year>
+<booktitle>DSD</booktitle>
+<crossref>conf/dsd/2016</crossref>
+<url>db/conf/dsd/dsd2016.html#FarooqCACRKM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipeac/AbdellatifCM16" mdate="2018-11-06">
+<author>Karim M. Abdellatif</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>AEGIS-Based Efficient Solution for Secure Reconfiguration of FPGAs.</title>
+<pages>37-40</pages>
+<year>2016</year>
+<booktitle>CS2@HiPEAC</booktitle>
+<crossref>conf/hipeac/2016cs</crossref>
+<url>db/conf/hipeac/cs2016.html#AbdellatifCM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idt/ChtourouAMAM16" mdate="2017-05-24">
+<author>Sonda Chtourou</author>
+<author>Mohamed Abid</author>
+<author>Zied Marrakchi</author>
+<author>Emna Amouri</author>
+<author>Habib Mehrez</author>
+<title>Design of advanced 2D and 3D FPGAs: Architecture-level exploration and algorithm-level optimization.</title>
+<pages>31-36</pages>
+<year>2016</year>
+<booktitle>IDT</booktitle>
+<crossref>conf/idt/2016</crossref>
+<url>db/conf/idt/idt2016.html#ChtourouAMAM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idt/AzeemCFRM16" mdate="2017-05-24">
+<author>Muhammad Moazam Azeem</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Umer Farooq</author>
+<author>Maminionja Ravoson</author>
+<author>Habib Mehrez</author>
+<title>Multiple FPGAs based prototyping and debugging with complete design flow.</title>
+<pages>171-176</pages>
+<year>2016</year>
+<booktitle>IDT</booktitle>
+<crossref>conf/idt/2016</crossref>
+<url>db/conf/idt/idt2016.html#AzeemCFRM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeehpcs/ChtourouAMAM16" mdate="2017-05-21">
+<author>Sonda Chtourou</author>
+<author>Mohamed Abid</author>
+<author>Zied Marrakchi</author>
+<author>Emna Amouri</author>
+<author>Habib Mehrez</author>
+<title>The effect of interconnect depopulation on FPGA performances in terms of power, area and delay.</title>
+<pages>104-111</pages>
+<year>2016</year>
+<booktitle>HPCS</booktitle>
+<crossref>conf/ieeehpcs/2016</crossref>
+<url>db/conf/ieeehpcs/ieeehpcs2016.html#ChtourouAMAM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/ChtourouMAPMA16" mdate="2018-11-02">
+<author>Sonda Chtourou</author>
+<author>Zied Marrakchi</author>
+<author>Emna Amouri</author>
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Habib Mehrez</author>
+<author>Mohamed Abid</author>
+<title>Exploration of Mesh-Based FPGA Architecture: Comparison of 2D and 3D Technologies in Terms of Power, Area and Performance.</title>
+<pages>635-642</pages>
+<year>2016</year>
+<booktitle>PDP</booktitle>
+<crossref>conf/pdp/2016</crossref>
+<url>db/conf/pdp/pdp2016.html#ChtourouMAPMA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/FarooqCARTM16" mdate="2017-05-03">
+<author>Umer Farooq</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Muhammad Moazam Azeem</author>
+<author>Maminionja Ravoson</author>
+<author>Mariem Turki</author>
+<author>Habib Mehrez</author>
+<title>Inter-FPGA routing environment for performance exploration of multi-FPGA systems.</title>
+<pages>107-113</pages>
+<year>2016</year>
+<booktitle>RSP</booktitle>
+<crossref>conf/rsp/2016</crossref>
+<url>db/conf/rsp/rsp2016.html#FarooqCARTM16</url>
+</inproceedings>
+</r>
+<r><book key="series/lnee/PangraciousMM15" mdate="2017-06-14">
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Three-Dimensional Design Methodologies for Tree-based FPGA Architecture</title>
+<publisher>Springer</publisher>
+<year>2015</year>
+<pages>1-209</pages>
+<series href="db/series/lnee/index.html">Lecture Notes in Electrical Engineering</series>
+<volume>350</volume>
+<isbn>978-3-319-19173-7</isbn>
+<isbn>978-3-319-19174-4</isbn>
+</book>
+</r>
+<r><article key="journals/dafes/TurkiMMA15" mdate="2017-05-27">
+<author>Mariem Turki</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<author>Mohamed Abid</author>
+<title>Signal multiplexing approach to improve inter-FPGA bandwidth of prototyping platform.</title>
+<pages>223-242</pages>
+<year>2015</year>
+<volume>19</volume>
+<journal>Design Autom. for Emb. Sys.</journal>
+<number>3</number>
+<url>db/journals/dafes/dafes19.html#TurkiMMA15</url>
+</article>
+</r>
+<r><article key="journals/iet-cdt/BelhadjBMAMM15" mdate="2019-10-19">
+<author>Nidhameddine Belhadj</author>
+<author orcid="0000-0003-1821-8430">Nejmeddine Bahri</author>
+<author>Zied Marrakchi</author>
+<author>Mohamed Ali Ben Ayed</author>
+<author>Nouri Masmoudi</author>
+<author>Habib Mehrez</author>
+<title>H.264/AVC high definition intra coding implementation on multiprocessor system on chip technology architecture.</title>
+<pages>259-267</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>IET Computers and Digital Techniques</journal>
+<number>5</number>
+<url>db/journals/iet-cdt/iet-cdt9.html#BelhadjBMAMM15</url>
+</article>
+</r>
+<r><article key="journals/micro/PangraciousMM15" mdate="2017-06-14">
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Design and Optimization of a Horizontally Partitioned, High-Speed, 3D Tree-Based FPGA.</title>
+<pages>48-59</pages>
+<year>2015</year>
+<volume>35</volume>
+<journal>IEEE Micro</journal>
+<number>6</number>
+<url>db/journals/micro/micro35.html#PangraciousMM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/arc/ChtourouMPAMA15" mdate="2017-06-15">
+<author>Sonda Chtourou</author>
+<author>Zied Marrakchi</author>
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Emna Amouri</author>
+<author>Habib Mehrez</author>
+<author>Mohamed Abid</author>
+<title>Mesh of Clusters FPGA Architectures: Exploration Methodology and Interconnect Optimization.</title>
+<pages>411-418</pages>
+<year>2015</year>
+<booktitle>ARC</booktitle>
+<crossref>conf/arc/2015</crossref>
+<url>db/conf/arc/arc2015.html#ChtourouMPAMA15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijertcs/BelhadjMAMM14" mdate="2017-05-26">
+<author>Nidhameddine Belhadj</author>
+<author>Zied Marrakchi</author>
+<author>Mohamed Ali Ben Ayed</author>
+<author>Nouri Masmoudi</author>
+<author>Habib Mehrez</author>
+<title>MPSoC Architecture for Macro Blocks Line Partitioning of H.264/AVC Encoder.</title>
+<pages>43-60</pages>
+<year>2014</year>
+<volume>5</volume>
+<journal>IJERTCS</journal>
+<number>2</number>
+<url>db/journals/ijertcs/ijertcs5.html#BelhadjMAMM14</url>
+</article>
+</r>
+<r><article key="journals/ijes/AbdellatifCM14" mdate="2017-05-06">
+<author>Karim M. Abdellatif</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>Low cost solutions for secure remote reconfiguration of FPGAs.</title>
+<pages>257-265</pages>
+<year>2014</year>
+<volume>6</volume>
+<journal>IJES</journal>
+<number>2/3</number>
+<url>db/journals/ijes/ijes6.html#AbdellatifCM14</url>
+</article>
+</r>
+<r><article key="journals/ijrc/KilicMM14" mdate="2019-06-02">
+<author orcid="0000-0002-9452-247X">Alp Kiliç</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>A Top-Down Optimization Methodology for Mutually Exclusive Applications.</title>
+<year>2014</year>
+<volume>2014</volume>
+<journal>Int. J. Reconfig. Comp.</journal>
+<ee type="oa">https://doi.org/10.1155/2014/827613</ee>
+<url>db/journals/ijrc/ijrc2014.html#KilicMM14</url>
+<pages>827613:1-827613:18</pages>
+</article>
+</r>
+<r><article key="journals/mam/AbdellatifCM14" mdate="2017-05-18">
+<author>Karim M. Abdellatif</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>Authenticated encryption on FPGAs from the static part to the reconfigurable part.</title>
+<pages>526-538</pages>
+<year>2014</year>
+<volume>38</volume>
+<journal>Microprocessors and Microsystems - Embedded Hardware Design</journal>
+<number>6</number>
+<url>db/journals/mam/mam38.html#AbdellatifCM14</url>
+</article>
+</r>
+<r><article key="journals/mj/PangraciousAMM14" mdate="2017-12-28">
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author orcid="0000-0003-2107-3658">Emna Amouri</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Architecture level optimization of 3-dimensional tree-based FPGA.</title>
+<pages>355-366</pages>
+<year>2014</year>
+<volume>45</volume>
+<journal>Microelectronics Journal</journal>
+<number>4</number>
+<url>db/journals/mj/mj45.html#PangraciousAMM14</url>
+</article>
+</r>
+<r><article key="journals/mr/OuattaraDNMB14" mdate="2017-05-28">
+<author>Boukary Ouattara</author>
+<author>Lise Doyen</author>
+<author>David Ney</author>
+<author>Habib Mehrez</author>
+<author>Pirouz Bazargan-Sabet</author>
+<title>Power grid redundant path contribution in system on chip (SoC) robustness against electromigration.</title>
+<pages>1702-1706</pages>
+<year>2014</year>
+<volume>54</volume>
+<journal>Microelectronics Reliability</journal>
+<number>9-10</number>
+<url>db/journals/mr/mr54.html#OuattaraDNMB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dic/ChtourouAPAMM14" mdate="2017-06-15">
+<author>Sonda Chtourou</author>
+<author>Mohamed Abid</author>
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Emna Amouri</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Three-dimensional Mesh of Clusters: An alternative unified high performance interconnect architecture for 3D-FPGA implementation.</title>
+<pages>1-7</pages>
+<year>2014</year>
+<booktitle>3DIC</booktitle>
+<crossref>conf/3dic/2014</crossref>
+<url>db/conf/3dic/3dic2014.html#ChtourouAPAMM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/AbdellatifCM14" mdate="2017-05-26">
+<author>Karim M. Abdellatif</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>FPGA-Based High Performance AES-GCM Using Efficient Karatsuba Ofman Algorithm.</title>
+<pages>13-24</pages>
+<year>2014</year>
+<booktitle>ARC</booktitle>
+<crossref>conf/arc/2014</crossref>
+<url>db/conf/arc/arc2014.html#AbdellatifCM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atsip/BelhadjAMMM14" mdate="2017-10-26">
+<author>Nidhameddine Belhadj</author>
+<author>Mohamed Ali Ben Ayed</author>
+<author>Nouri Masmoudi</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>MPSoC architecture for Component Level Parallelism of H.264/AVC intra prediction encoding chain on SoCLib platform.</title>
+<pages>153-157</pages>
+<year>2014</year>
+<booktitle>ATSIP</booktitle>
+<crossref>conf/atsip/2014</crossref>
+<url>db/conf/atsip/atsip2014.html#BelhadjAMMM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dtis/ChtourouAMM14" mdate="2017-05-22">
+<author>Sonda Chtourou</author>
+<author>Mohamed Abid</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Power consumption analysis for mesh based FPGA.</title>
+<pages>1-5</pages>
+<year>2014</year>
+<booktitle>DTIS</booktitle>
+<crossref>conf/dtis/2014</crossref>
+<url>db/conf/dtis/dtis2014.html#ChtourouAMM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dtis/PangraciousMBMF14" mdate="2017-06-15">
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Zied Marrakchi</author>
+<author>Nizar Beltaief</author>
+<author>Habib Mehrez</author>
+<author>Umer Farooq</author>
+<title>Exploration and optimization of heterogeneous interconnect fabric of 3D tree-based FPGA.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>DTIS</booktitle>
+<crossref>conf/dtis/2014</crossref>
+<url>db/conf/dtis/dtis2014.html#PangraciousMBMF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/TangTM14" mdate="2017-05-21">
+<author>Qingshan Tang</author>
+<author>Matthieu Tuna</author>
+<author>Habib Mehrez</author>
+<title>Performance Comparison between Multi-FPGA Prototyping Platforms: Hardwired Off-the-Shelf, Cabling, and Custom.</title>
+<pages>125-132</pages>
+<year>2014</year>
+<booktitle>FCCM</booktitle>
+<crossref>conf/fccm/2014</crossref>
+<url>db/conf/fccm/fccm2014.html#TangTM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/AbdellatifCMMT14" mdate="2018-11-06">
+<author>Karim M. Abdellatif</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<author>Qingshan Tang</author>
+<title>Towards high performance GHASH for pipelined AES-GCM using FPGAs (abstract only).</title>
+<pages>242</pages>
+<year>2014</year>
+<booktitle>FPGA</booktitle>
+<crossref>conf/fpga/2014</crossref>
+<url>db/conf/fpga/fpga2014.html#AbdellatifCMMT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/TangTM14" mdate="2018-11-06">
+<author>Qingshan Tang</author>
+<author>Matthieu Tuna</author>
+<author>Habib Mehrez</author>
+<title>Future inter-FPGA communication architecture for multi-FPGA based prototyping (abstract only).</title>
+<pages>251</pages>
+<year>2014</year>
+<booktitle>FPGA</booktitle>
+<crossref>conf/fpga/2014</crossref>
+<url>db/conf/fpga/fpga2014.html#TangTM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/AmouriBMGDM14" mdate="2017-05-21">
+<author>Emna Amouri</author>
+<author>Shivam Bhasin</author>
+<author>Yves Mathieu</author>
+<author>Tarik Graba</author>
+<author>Jean-Luc Danger</author>
+<author>Habib Mehrez</author>
+<title>Balancing WDDL dual-rail logic in a tree-based FPGA to enhance physical security.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>FPL</booktitle>
+<crossref>conf/fpl/2014</crossref>
+<url>db/conf/fpl/fpl2014.html#AmouriBMGDM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/BlanchardonCMA14" mdate="2017-05-21">
+<author>Adrien Blanchardon</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<author>Emna Amouri</author>
+<title>Improve defect tolerance in a cluster of a SRAM-based Mesh of Cluster FPGA using hardware redundancy.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>FPL</booktitle>
+<crossref>conf/fpl/2014</crossref>
+<url>db/conf/fpl/fpl2014.html#BlanchardonCMA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/KilicHMA14" mdate="2018-05-09">
+<author>Alp Kiliç</author>
+<author>Delaram Haghighitalab</author>
+<author>Habib Mehrez</author>
+<author>Hassan Aboushady</author>
+<title>Low-power comb decimation filter for RF Sigma-Delta ADCs.</title>
+<pages>1596-1599</pages>
+<year>2014</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2014</crossref>
+<url>db/conf/iscas/iscas2014.html#KilicHMA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/RehmanBDBCNAMAM14" mdate="2017-05-21">
+<author>Saif-Ur Rehman</author>
+<author>Adrien Blanchardon</author>
+<author>Arwa Ben Dhia</author>
+<author>Mounir Benabdenbi</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Lirida A. B. Naviner</author>
+<author>Lorena Anghel</author>
+<author>Habib Mehrez</author>
+<author>Emna Amouri</author>
+<author>Zied Marrakchi</author>
+<title>Impact of Cluster Size on Routability, Testability and Robustness of a Cluster in a Mesh FPGA.</title>
+<pages>553-558</pages>
+<year>2014</year>
+<booktitle>ISVLSI</booktitle>
+<crossref>conf/isvlsi/2014</crossref>
+<url>db/conf/isvlsi/isvlsi2014.html#RehmanBDBCNAMAM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/ChaeMFCM14" mdate="2017-05-24">
+<author>Jung Kyu Chae</author>
+<author>Paul Mougeat</author>
+<author>Jean-Arnaud Francois</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>A reference-based specification tool for creating reliable library development specifications.</title>
+<pages>133-136</pages>
+<year>2014</year>
+<booktitle>NEWCAS</booktitle>
+<crossref>conf/newcas/2014</crossref>
+<url>db/conf/newcas/newcas2014.html#ChaeMFCM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/BlanchardonCMA14" mdate="2017-05-21">
+<author>Adrien Blanchardon</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<author>Emna Amouri</author>
+<title>Impact of defect tolerance techniques on the criticality of a SRAM-based mesh of cluster FPGA.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2014</crossref>
+<url>db/conf/reconfig/reconfig2014.html#BlanchardonCMA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/TangMT14" mdate="2017-05-25">
+<author>Qingshan Tang</author>
+<author>Habib Mehrez</author>
+<author>Matthieu Tuna</author>
+<title>Multi-FPGA prototyping board issue: the FPGA I/O bottleneck.</title>
+<pages>207-214</pages>
+<year>2014</year>
+<booktitle>ICSAMOS</booktitle>
+<crossref>conf/samos/2014ic</crossref>
+<url>db/conf/samos/samos2014ic.html#TangMT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socc/PangraciousMMM14" mdate="2017-06-15">
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Mohamed Sahbi Marrakchi</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<title>On wiring delays reduction of tree-based FPGA using 3-D fabric.</title>
+<pages>64-69</pages>
+<year>2014</year>
+<booktitle>SoCC</booktitle>
+<crossref>conf/socc/2014</crossref>
+<url>db/conf/socc/socc2014.html#PangraciousMMM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socc/ObeidQBMMGA14" mdate="2017-05-23">
+<author>Abdulfattah Mohammad Obeid</author>
+<author>Syed Manzoor Qasim</author>
+<author>Mohammed S. BenSaleh</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<author>Heni Ghariani</author>
+<author>Mohamed Abid</author>
+<title>Flexible reconfigurable architecture for DSP applications.</title>
+<pages>204-209</pages>
+<year>2014</year>
+<booktitle>SoCC</booktitle>
+<crossref>conf/socc/2014</crossref>
+<url>db/conf/socc/socc2014.html#ObeidQBMMGA14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijrc/AmouriMM13" mdate="2019-06-02">
+<author orcid="0000-0003-2107-3658">Emna Amouri</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<title>Impact of Dual Placement and Routing on WDDL Netlist Security in FPGA.</title>
+<year>2013</year>
+<volume>2013</volume>
+<journal>Int. J. Reconfig. Comp.</journal>
+<ee type="oa">https://doi.org/10.1155/2013/802436</ee>
+<url>db/journals/ijrc/ijrc2013.html#AmouriMM13</url>
+<pages>802436:1-802436:24</pages>
+</article>
+</r>
+<r><article key="journals/ijrc/TurkiMMA13" mdate="2019-06-02">
+<author>Mariem Turki</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<author>Mohamed Abid</author>
+<title>Frequency Optimization Objective during System Prototyping on Multi-FPGA Platform.</title>
+<year>2013</year>
+<volume>2013</volume>
+<journal>Int. J. Reconfig. Comp.</journal>
+<ee type="oa">https://doi.org/10.1155/2013/853510</ee>
+<url>db/journals/ijrc/ijrc2013.html#TurkiMMA13</url>
+<pages>853510:1-853510:12</pages>
+</article>
+</r>
+<r><article key="journals/integration/Belloeil-DupuisCM13" mdate="2017-05-20">
+<author>Sophie Belloeil-Dupuis</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>Exploring redundant arithmetics in computer-aided design of arithmetic datapaths.</title>
+<pages>104-118</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>Integration</journal>
+<number>2</number>
+<url>db/journals/integration/integration46.html#Belloeil-DupuisCM13</url>
+</article>
+</r>
+<r><article key="journals/mj/FarooqPMM13" mdate="2017-05-28">
+<author>Umer Farooq</author>
+<author>Husain Parvez</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<title>Exploration and optimization of a homogeneous tree-based application specific inflexible FPGA.</title>
+<pages>1052-1062</pages>
+<year>2013</year>
+<volume>44</volume>
+<journal>Microelectronics Journal</journal>
+<number>12</number>
+<url>db/journals/mj/mj44.html#FarooqPMM13</url>
+</article>
+</r>
+<r><article key="journals/mr/DhiaPNMM13" mdate="2017-05-28">
+<author>Arwa Ben Dhia</author>
+<author>Samuel N. Pagliarini</author>
+<author>Lirida Alves de Barros Naviner</author>
+<author>Habib Mehrez</author>
+<author>Philippe Matherat</author>
+<title>A defect-tolerant area-efficient multiplexer for basic blocks in SRAM-based FPGAs.</title>
+<pages>1189-1193</pages>
+<year>2013</year>
+<volume>53</volume>
+<journal>Microelectronics Reliability</journal>
+<number>9-11</number>
+<url>db/journals/mr/mr53.html#DhiaPNMM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dic/PangraciousMM13" mdate="2017-06-15">
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<title>Designing a 3D tree-based FPGA: Optimization of butterfly programmable interconnect topology using 3D technology.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>3DIC</booktitle>
+<crossref>conf/3dic/2013</crossref>
+<url>db/conf/3dic/3dic2013.html#PangraciousMM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/PangraciousMAM13" mdate="2017-06-15">
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Zied Marrakchi</author>
+<author>Emna Amouri</author>
+<author>Habib Mehrez</author>
+<title>Performance Analysis and Optimization of High Density Tree-Based 3D Multilevel FPGA.</title>
+<pages>197-209</pages>
+<year>2013</year>
+<booktitle>ARC</booktitle>
+<crossref>conf/arc/2013</crossref>
+<url>db/conf/arc/arc2013.html#PangraciousMAM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/TurkiMMA13" mdate="2017-05-26">
+<author>Mariem Turki</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<author>Mohamed Abid</author>
+<title>Iterative Routing Algorithm of Inter-FPGA Signals for Multi-FPGA Prototyping Platform.</title>
+<pages>210-217</pages>
+<year>2013</year>
+<booktitle>ARC</booktitle>
+<crossref>conf/arc/2013</crossref>
+<url>db/conf/arc/arc2013.html#TurkiMMA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/TangTMM13" mdate="2017-05-26">
+<author>Qingshan Tang</author>
+<author>Matthieu Tuna</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Automatic Design Flow for Creating a Custom Multi-FPGA Board Netlist.</title>
+<pages>221</pages>
+<year>2013</year>
+<booktitle>ARC</booktitle>
+<crossref>conf/arc/2013</crossref>
+<url>db/conf/arc/arc2013.html#TangTMM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coolchips/PangraciousMM13" mdate="2019-02-21">
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<title>Architecture level TSV count minimization methodology for 3D tree-based FPGA.</title>
+<pages>1-3</pages>
+<year>2013</year>
+<booktitle>COOL Chips</booktitle>
+<crossref>conf/coolchips/2013</crossref>
+<url>db/conf/coolchips/coolchips2013.html#PangraciousMM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/PangraciousMM13" mdate="2017-06-15">
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Design and optimization of heterogeneous tree-based FPGA using 3D technology.</title>
+<pages>334-337</pages>
+<year>2013</year>
+<booktitle>FPT</booktitle>
+<crossref>conf/fpt/2013</crossref>
+<url>db/conf/fpt/fpt2013.html#PangraciousMM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/DhiaRBNBCAMM13" mdate="2017-05-24">
+<author>Arwa Ben Dhia</author>
+<author>Saif-Ur Rehman</author>
+<author>Adrien Blanchardon</author>
+<author>Lirida A. B. Naviner</author>
+<author>Mounir Benabdenbi</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Emna Amouri</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<title>A defect-tolerant cluster in a mesh SRAM-based FPGA.</title>
+<pages>434-437</pages>
+<year>2013</year>
+<booktitle>FPT</booktitle>
+<crossref>conf/fpt/2013</crossref>
+<url>db/conf/fpt/fpt2013.html#DhiaRBNBCAMM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/PangraciousAMM13" mdate="2018-11-06">
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Emna Amouri</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<title>Physical design exploration of 3D tree-based FPGA architecture.</title>
+<pages>335-336</pages>
+<year>2013</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<crossref>conf/glvlsi/2013</crossref>
+<url>db/conf/glvlsi/glvlsi2013.html#PangraciousAMM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icicdt/PangraciousMM13" mdate="2017-06-15">
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<title>TSV count minimization and thermal analysis for 3D Tree-based FPGA.</title>
+<pages>223-226</pages>
+<year>2013</year>
+<booktitle>ICICDT</booktitle>
+<crossref>conf/icicdt/2013</crossref>
+<url>db/conf/icicdt/icicdt2013.html#PangraciousMM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issoc/TurkiMMA13" mdate="2017-05-23">
+<author>Mariem Turki</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<author>Mohamed Abid</author>
+<title>Partitioning constraints and signal routing approach for multi-FPGA prototyping platform.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>ISSoC</booktitle>
+<crossref>conf/issoc/2013</crossref>
+<url>db/conf/issoc/issoc2013.html#TurkiMMA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/AbdellatifCM13" mdate="2017-05-24">
+<author>Karim M. Abdellatif</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>Protecting FPGA bitstreams using authenticated encryption.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>NEWCAS</booktitle>
+<crossref>conf/newcas/2013</crossref>
+<url>db/conf/newcas/newcas2013.html#AbdellatifCM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/PangraciousMM13" mdate="2017-06-15">
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<title>Designing 3D tree-based FPGA: Interconnect optimization and thermal analysis.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>NEWCAS</booktitle>
+<crossref>conf/newcas/2013</crossref>
+<url>db/conf/newcas/newcas2013.html#PangraciousMM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/AbdellatifCM13" mdate="2017-05-21">
+<author>Karim M. Abdellatif</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>Lightweight and compact solutions for secure reconfiguration of FPGAs.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2013</crossref>
+<url>db/conf/reconfig/reconfig2013.html#AbdellatifCM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/AbdellatifCM13a" mdate="2017-05-21">
+<author>Karim M. Abdellatif</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>Improved method for parallel AES-GCM cores using FPGAs.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2013</crossref>
+<url>db/conf/reconfig/reconfig2013.html#AbdellatifCM13a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/AmouriBCMM13" mdate="2017-05-21">
+<author>Emna Amouri</author>
+<author>Adrien Blanchardon</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<title>Efficient multilevel interconnect topology for cluster-based mesh FPGA architecture.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2013</crossref>
+<url>db/conf/reconfig/reconfig2013.html#AmouriBCMM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/PangraciousMBMF13" mdate="2017-06-15">
+<author orcid="0000-0002-4240-6610">Vinod Pangracious</author>
+<author>Habib Mehrez</author>
+<author>Nizar Beltaief</author>
+<author>Zied Marrakchi</author>
+<author>Umer Farooq</author>
+<title>Exploration environment for 3D heterogeneous tree-based FPGA architectures (3D HT-FPGA).</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2013</crossref>
+<url>db/conf/reconfig/reconfig2013.html#PangraciousMBMF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/TangTM13" mdate="2017-05-25">
+<author>Qingshan Tang</author>
+<author>Matthieu Tuna</author>
+<author>Habib Mehrez</author>
+<title>Routing algorithm for multi-FPGA based systems using multi-point physical tracks.</title>
+<pages>2-8</pages>
+<year>2013</year>
+<booktitle>RSP</booktitle>
+<crossref>conf/rsp/2013</crossref>
+<url>db/conf/rsp/rsp2013.html#TangTM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socc/ChaeMFCM13" mdate="2017-05-23">
+<author>Jung Kyu Chae</author>
+<author>Paul Mougeat</author>
+<author>Jean-Arnaud Francois</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>A formalism of the specifications for library development.</title>
+<pages>307-312</pages>
+<year>2013</year>
+<booktitle>SoCC</booktitle>
+<crossref>conf/socc/2013</crossref>
+<url>db/conf/socc/socc2013.html#ChaeMFCM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wd/AbdellatifCM13" mdate="2017-05-25">
+<author>Karim M. Abdellatif</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>High speed authenticated encryption for slow changing key applications using reconfigurable devices.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>Wireless Days</booktitle>
+<crossref>conf/wd/2013</crossref>
+<url>db/conf/wd/wd2013.html#AbdellatifCM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/mam/FarooqPMM12" mdate="2017-05-18">
+<author>Umer Farooq</author>
+<author>Husain Parvez</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<title>A new heterogeneous tree-based application specific FPGA and its comparison with mesh-based application specific FPGA.</title>
+<pages>588-605</pages>
+<year>2012</year>
+<volume>36</volume>
+<journal>Microprocessors and Microsystems - Embedded Hardware Design</journal>
+<number>8</number>
+<url>db/journals/mam/mam36.html#FarooqPMM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/reconfig/AbdellatifCM12" mdate="2017-06-15">
+<author orcid="0000-0003-1279-1869">Karim M. Abdellatif</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>Efficient parallel-pipelined GHASH for message authentication.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2012</crossref>
+<url>db/conf/reconfig/reconfig2012.html#AbdellatifCM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/TurkiMM12" mdate="2017-05-21">
+<author>Mariem Turki</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<title>Multi-FPGA prototyping environment: Large benchmark generation and signals routing.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2012</crossref>
+<url>db/conf/reconfig/reconfig2012.html#TurkiMM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/TangMT12" mdate="2017-05-25">
+<author>Qingshan Tang</author>
+<author>Habib Mehrez</author>
+<author>Matthieu Tuna</author>
+<title>Design for prototyping of a parameterizable cluster-based Multi-Core System-on-Chip on a multi-FPGA board.</title>
+<pages>71-77</pages>
+<year>2012</year>
+<booktitle>RSP</booktitle>
+<crossref>conf/rsp/2012</crossref>
+<url>db/conf/rsp/rsp2012.html#TangMT12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijrc/FarooqPMM11" mdate="2018-11-24">
+<author>Umer Farooq</author>
+<author>Husain Parvez</author>
+<author>Habib Mehrez</author>
+<author>Zied Marrakchi</author>
+<title>Exploration of Heterogeneous FPGA Architectures.</title>
+<year>2011</year>
+<volume>2011</volume>
+<journal>Int. J. Reconfig. Comp.</journal>
+<ee type="oa">https://doi.org/10.1155/2011/121404</ee>
+<url>db/journals/ijrc/ijrc2011.html#FarooqPMM11</url>
+<pages>121404:1-121404:18</pages>
+</article>
+</r>
+<r><article key="journals/trets/ParvezMKM11" mdate="2018-11-06">
+<author>Husain Parvez</author>
+<author>Zied Marrakchi</author>
+<author>Alp Kiliç</author>
+<author>Habib Mehrez</author>
+<title>Application-Specific FPGA using heterogeneous logic blocks.</title>
+<pages>24:1-24:14</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>TRETS</journal>
+<number>3</number>
+<url>db/journals/trets/trets4.html#ParvezMKM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/arc/FarooqPMM11" mdate="2017-05-26">
+<author>Umer Farooq</author>
+<author>Husain Parvez</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Comparison between Heterogeneous Mesh-Based and Tree-Based Application Specific FPGA.</title>
+<pages>218-229</pages>
+<year>2011</year>
+<booktitle>ARC</booktitle>
+<crossref>conf/arc/2011</crossref>
+<url>db/conf/arc/arc2011.html#FarooqPMM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/Belloeil-DupuisCM11" mdate="2017-05-25">
+<author>Sophie Belloeil-Dupuis</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>Stratus: Free design of highly parametrized VLSI modules interoperable with commercial tools.</title>
+<pages>502-507</pages>
+<year>2011</year>
+<booktitle>ISQED</booktitle>
+<crossref>conf/isqed/2011</crossref>
+<url>db/conf/isqed/isqed2011.html#Belloeil-DupuisCM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/AmouriMM11" mdate="2017-05-25">
+<author>Emna Amouri</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Differential pair routing to balance dual signals of WDDL designs in cluster-based Mesh FPGA.</title>
+<pages>1-4</pages>
+<year>2011</year>
+<booktitle>ReCoSoC</booktitle>
+<crossref>conf/recosoc/2011</crossref>
+<url>db/conf/recosoc/ReCoSoC2011.html#AmouriMM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apccas/AmouriMM10" mdate="2017-05-17">
+<author>Emna Amouri</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Controlled placement and routing techniques to improve timing balance of WDDL designs in Mesh-based FPGA.</title>
+<pages>296-299</pages>
+<year>2010</year>
+<booktitle>APCCAS</booktitle>
+<crossref>conf/apccas/2010</crossref>
+<url>db/conf/apccas/apccas2010.html#AmouriMM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apccas/MarrakchiPKMM10" mdate="2018-05-09">
+<author>Zied Marrakchi</author>
+<author>Husain Parvez</author>
+<author>Alp Kiliç</author>
+<author>Habib Mehrez</author>
+<author>Hmaied Marrakchi</author>
+<title>On the optimization of FPGA area depending on target applications.</title>
+<pages>308-311</pages>
+<year>2010</year>
+<booktitle>APCCAS</booktitle>
+<crossref>conf/apccas/2010</crossref>
+<url>db/conf/apccas/apccas2010.html#MarrakchiPKMM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/ParvezMM10" mdate="2017-05-26">
+<author>Husain Parvez</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Application Specific FPGA Using Heterogeneous Logic Blocks.</title>
+<pages>92-109</pages>
+<year>2010</year>
+<booktitle>ARC</booktitle>
+<crossref>conf/arc/2010</crossref>
+<url>db/conf/arc/arc2010.html#ParvezMM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/ParvezMM10" mdate="2018-11-06">
+<author>Husain Parvez</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Heterogeneous-ASIF: an application specific inflexible FPGA using heterogeneous logic blocks (abstract only).</title>
+<pages>290</pages>
+<year>2010</year>
+<booktitle>FPGA</booktitle>
+<crossref>conf/fpga/2010</crossref>
+<url>db/conf/fpga/fpga2010.html#ParvezMM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/NouryM10" mdate="2017-06-04">
+<author orcid="0000-0003-2202-5260">Ludovic Noury</author>
+<author>Habib Mehrez</author>
+<title>A flexible realtime system for broadband time-frequency analysis in 130 NM CMOS.</title>
+<pages>251-254</pages>
+<year>2010</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2010</crossref>
+<url>db/conf/icecsys/icecsys2010.html#NouryM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idt/TurkiAMM10" mdate="2017-05-24">
+<author>Mariem Turki</author>
+<author>Mohamed Abid</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Routability driven placement for mesh-based FPGA architecture.</title>
+<pages>85-90</pages>
+<year>2010</year>
+<booktitle>IDT</booktitle>
+<crossref>conf/idt/2010</crossref>
+<url>db/conf/idt/idt2010.html#TurkiAMM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijrc/MarrakchiMFM09" mdate="2018-11-24">
+<author>Zied Marrakchi</author>
+<author>Hayder Mrabet</author>
+<author>Umer Farooq</author>
+<author>Habib Mehrez</author>
+<title>FPGA Interconnect Topologies Exploration.</title>
+<year>2009</year>
+<volume>2009</volume>
+<journal>Int. J. Reconfig. Comp.</journal>
+<ee type="oa">https://doi.org/10.1155/2009/259837</ee>
+<url>db/journals/ijrc/ijrc2009.html#MarrakchiMFM09</url>
+<pages>259837:1-259837:13</pages>
+</article>
+</r>
+<r><inproceedings key="conf/fpt/ParvezMM09" mdate="2017-06-15">
+<author>Husain Parvez</author>
+<author>Zied Marrakchi</author>
+<author orcid="0000-0002-0692-1754">Habib Mehrez</author>
+<title>ASIF: Application Specific Inflexible FPGA.</title>
+<pages>112-119</pages>
+<year>2009</year>
+<booktitle>FPT</booktitle>
+<crossref>conf/fpt/2009</crossref>
+<url>db/conf/fpt/fpt2009.html#ParvezMM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/AmouriMMM09" mdate="2017-05-23">
+<author>Emna Amouri</author>
+<author>Hayder Mrabet</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Placement and routing techniques to improve delay balance of WDDL netlist in MFPGA.</title>
+<pages>791-794</pages>
+<year>2009</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2009</crossref>
+<url>db/conf/icecsys/icecsys2009.html#AmouriMMM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/AmouriMMM09" mdate="2017-05-21">
+<author>Emna Amouri</author>
+<author>Hayder Mrabet</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Improving the Security of Dual Rail Logic in FPGA Using Controlled Placement and Routing.</title>
+<pages>201-206</pages>
+<year>2009</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2009</crossref>
+<url>db/conf/reconfig/reconfig2009.html#AmouriMMM09</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/AbrilMPGM08" mdate="2017-05-20">
+<author>Ana Abril</author>
+<author>Habib Mehrez</author>
+<author>Frédéric Pétrot</author>
+<author>Jean Gobert</author>
+<author>Carolina Miro</author>
+<title>Estimation et optimisation de la consommation dans les SoC utilisant la simulation précise au cycle.</title>
+<pages>203-233</pages>
+<year>2008</year>
+<volume>27</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>1-2</number>
+<url>db/journals/tsi/tsi27.html#AbrilMPGM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/fpt/ParvezMFM08" mdate="2017-05-24">
+<author>Husain Parvez</author>
+<author>Zied Marrakchi</author>
+<author>Umer Farooq</author>
+<author>Habib Mehrez</author>
+<title>A new coarse-grained FPGA architecture exploration environment.</title>
+<pages>285-288</pages>
+<year>2008</year>
+<booktitle>FPT</booktitle>
+<crossref>conf/fpt/2008</crossref>
+<url>db/conf/fpt/fpt2008.html#ParvezMFM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/MarrakchiMAM08" mdate="2018-11-06">
+<author>Zied Marrakchi</author>
+<author>Hayder Mrabet</author>
+<author>Emna Amouri</author>
+<author>Habib Mehrez</author>
+<title>Efficient tree topology for FPGA interconnect network.</title>
+<pages>321-326</pages>
+<year>2008</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<crossref>conf/glvlsi/2008</crossref>
+<url>db/conf/glvlsi/glvlsi2008.html#MarrakchiMAM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/BelloeilCM08" mdate="2017-05-21">
+<author>Sophie Belloeil</author>
+<author>Roselyne Chotin-Avot</author>
+<author>Habib Mehrez</author>
+<title>Arithmetic Data Path Optimization Using Borrow-Save Representation.</title>
+<pages>4-9</pages>
+<year>2008</year>
+<booktitle>ISVLSI</booktitle>
+<crossref>conf/isvlsi/2008</crossref>
+<url>db/conf/isvlsi/isvlsi2008.html#BelloeilCM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/FarooqMMM08" mdate="2017-05-21">
+<author>Umer Farooq</author>
+<author>Zied Marrakchi</author>
+<author>Hayder Mrabet</author>
+<author>Habib Mehrez</author>
+<title>The Effect of LUT and Cluster Size on a Tree Based FPGA Architecture.</title>
+<pages>115-120</pages>
+<year>2008</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2008</crossref>
+<url>db/conf/reconfig/reconfig2008.html#FarooqMMM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/ParvezMM08" mdate="2017-05-21">
+<author>Husain Parvez</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<title>Enhanced Methodology and Tools for Exploring Domain-Specific Coarse-Grained FPGAs.</title>
+<pages>121-126</pages>
+<year>2008</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2008</crossref>
+<url>db/conf/reconfig/reconfig2008.html#ParvezMM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/MarrakchiMMM07" mdate="2017-05-24">
+<author>Zied Marrakchi</author>
+<author>Hayder Mrabet</author>
+<author>Christian Masson</author>
+<author>Habib Mehrez</author>
+<title>Efficient Mesh of Tree Interconnect for FPGA Architecture.</title>
+<pages>269-272</pages>
+<year>2007</year>
+<booktitle>FPT</booktitle>
+<crossref>conf/fpt/2007</crossref>
+<url>db/conf/fpt/fpt2007.html#MarrakchiMMM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nocs/MarrakchiMMM07" mdate="2017-05-23">
+<author>Zied Marrakchi</author>
+<author>Hayder Mrabet</author>
+<author>Christian Masson</author>
+<author>Habib Mehrez</author>
+<title>Mesh of Tree: Unifying Mesh and MFPGA for Better Device Performances.</title>
+<pages>243-252</pages>
+<year>2007</year>
+<crossref>conf/nocs/2007</crossref>
+<booktitle>NOCS</booktitle>
+<url>db/conf/nocs/nocs2007.html#MarrakchiMMM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/MrabetMSM06" mdate="2018-11-06">
+<author>Hayder Mrabet</author>
+<author>Zied Marrakchi</author>
+<author>Pierre Souillot</author>
+<author>Habib Mehrez</author>
+<title>A multilevel hierarchical interconnection structure for FPGA.</title>
+<pages>225</pages>
+<year>2006</year>
+<crossref>conf/fpga/2006</crossref>
+<booktitle>FPGA</booktitle>
+<url>db/conf/fpga/fpga2006.html#MrabetMSM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/ZiedHH06" mdate="2018-11-06">
+<author>Zied Marrakchi</author>
+<author>Hayder Mrabet</author>
+<author>Habib Mehrez</author>
+<title>Configuration tools for a new multilevel hierarchical FPGA.</title>
+<pages>229</pages>
+<year>2006</year>
+<crossref>conf/fpga/2006</crossref>
+<booktitle>FPGA</booktitle>
+<url>db/conf/fpga/fpga2006.html#ZiedHH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/MrabetMSM06" mdate="2019-02-11">
+<author>Hayder Mrabet</author>
+<author>Zied Marrakchi</author>
+<author>Pierre Souillot</author>
+<author>Habib Mehrez</author>
+<title>Performances improvement of FPGA using novel multilevel hierarchical interconnection structure.</title>
+<pages>675-679</pages>
+<year>2006</year>
+<crossref>conf/iccad/2006</crossref>
+<booktitle>ICCAD</booktitle>
+<url>db/conf/iccad/iccad2006.html#MrabetMSM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/MarrakchiMM06" mdate="2017-05-21">
+<author>Zied Marrakchi</author>
+<author>Hayder Mrabet</author>
+<author>Habib Mehrez</author>
+<title>A new Multilevel Hierarchical MFPGA and its suitable configuration tools.</title>
+<pages>263-268</pages>
+<year>2006</year>
+<crossref>conf/isvlsi/2006</crossref>
+<booktitle>ISVLSI</booktitle>
+<url>db/conf/isvlsi/isvlsi2006.html#MarrakchiMM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/MrabetMSMT06" mdate="2006-11-13">
+<author>Hayder Mrabet</author>
+<author>Zied Marrakchi</author>
+<author>Pierre Souillot</author>
+<author>Habib Mehrez</author>
+<author>André Tissot</author>
+<title>Performance Improvement of FPGA Using Novel Multilevel Hierarchical Interconnection Structure.</title>
+<pages>117-123</pages>
+<year>2006</year>
+<crossref>conf/recosoc/2006</crossref>
+<booktitle>ReCoSoC</booktitle>
+<url>db/conf/recosoc/ReCoSoC2006.html#MrabetMSMT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/MarrakchiMM05" mdate="2017-05-21">
+<author>Zied Marrakchi</author>
+<author>Hayder Mrabet</author>
+<author>Habib Mehrez</author>
+<title>Hierarchical FPGA clustering based on multilevel partitioning approach to improve routability and reduce power dissipation.</title>
+<year>2005</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2005</crossref>
+<url>db/conf/reconfig/reconfig2005.html#MarrakchiMM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/MrabetMMT05" mdate="2006-11-13">
+<author>Hayder Mrabet</author>
+<author>Zied Marrakchi</author>
+<author>Habib Mehrez</author>
+<author>André Tissot</author>
+<title>Implementation of Scalable Embedded FPGA for SOC.</title>
+<pages>59-62</pages>
+<year>2005</year>
+<crossref>conf/recosoc/2005</crossref>
+<booktitle>ReCoSoC</booktitle>
+<url>db/conf/recosoc/ReCoSoC2005.html#MrabetMMT05</url>
+</inproceedings>
+</r>
+<r><article key="journals/na/Avot-ChotinM04" mdate="2017-06-14">
+<author>Roselyne Avot-Chotin</author>
+<author orcid="0000-0002-0692-1754">Habib Mehrez</author>
+<title>Hardware Implementation of Discrete Stochastic Arithmetic.</title>
+<pages>21-33</pages>
+<year>2004</year>
+<volume>37</volume>
+<journal>Numerical Algorithms</journal>
+<number>1-4</number>
+<url>db/journals/na/na37.html#Avot-ChotinM04</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/BajotM01" mdate="2017-10-21">
+<author>Y. Bajot</author>
+<author>Habib Mehrez</author>
+<title>Customizable DSP architecture for ASIP core design.</title>
+<pages>302-305</pages>
+<year>2001</year>
+<crossref>conf/iscas/2001</crossref>
+<booktitle>ISCAS (4)</booktitle>
+<url>db/conf/iscas/iscas2001-4.html#BajotM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/DumonteixBM01" mdate="2017-10-21">
+<author>Yannick Dumonteix</author>
+<author>Y. Bajot</author>
+<author>Habib Mehrez</author>
+<title>A fast and low-power distance computation unit dedicated to neural networks, based on redundant arithmetic.</title>
+<pages>878-881</pages>
+<year>2001</year>
+<crossref>conf/iscas/2001</crossref>
+<booktitle>ISCAS (4)</booktitle>
+<url>db/conf/iscas/iscas2001-4.html#DumonteixBM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/camp/AberbourMDHLT00" mdate="2017-05-21">
+<author>Mourad Aberbour</author>
+<author>Habib Mehrez</author>
+<author>François Durbin</author>
+<author>Jacques Haussy</author>
+<author>P. Lalande</author>
+<author>André Tissot</author>
+<title>A System-On-A-Chip for Pattern Recognition Architecture and Design Methodology.</title>
+<pages>155-162</pages>
+<year>2000</year>
+<crossref>conf/camp/2000</crossref>
+<booktitle>CAMP</booktitle>
+<url>db/conf/camp/camp2000.html#AberbourMDHLT00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/DumonteixM00" mdate="2017-10-22">
+<author>Yannick Dumonteix</author>
+<author>Habib Mehrez</author>
+<title>A family of redundant multipliers dedicated to fast computation for signal processing.</title>
+<pages>325-328</pages>
+<year>2000</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2000</crossref>
+<url>db/conf/iscas/iscas2000.html#DumonteixM00</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/AberbourHMVG98" mdate="2017-05-18">
+<author>Mourad Aberbour</author>
+<author>A. Houelle</author>
+<author>Habib Mehrez</author>
+<author>Nicolas Vaucher</author>
+<author>Alain Guyot</author>
+<title>On portable macrocell FPU generators for division and square root operators complying to the full IEEE-754 standard.</title>
+<pages>114-121</pages>
+<year>1998</year>
+<volume>6</volume>
+<journal>IEEE Trans. VLSI Syst.</journal>
+<number>1</number>
+<url>db/journals/tvlsi/tvlsi6.html#AberbourHMVG98</url>
+</article>
+</r>
+<r><inproceedings key="conf/mse/AberbourDMV97" mdate="2017-05-21">
+<author>Mourad Aberbour</author>
+<author>Anne Derieux</author>
+<author>Habib Mehrez</author>
+<author>Nicolas Vaucher</author>
+<title>Teaching the design of a chip under the Cadence Opus environment using the Alliance cell libraries.</title>
+<pages>81-82</pages>
+<year>1997</year>
+<booktitle>MSE</booktitle>
+<crossref>conf/mse/1997</crossref>
+<url>db/conf/mse/mse1997.html#AberbourDMV97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arith/HouelleMVAG95" mdate="2017-05-21">
+<author>A. Houelle</author>
+<author>Habib Mehrez</author>
+<author>Nicolas Vaucher</author>
+<author>Luis A. Montalvo</author>
+<author>Alain Guyot</author>
+<title>Application of fast layout synthesis environment to dividers evaluation.</title>
+<pages>67-74</pages>
+<year>1995</year>
+<crossref>conf/arith/1995</crossref>
+<booktitle>IEEE Symposium on Computer Arithmetic</booktitle>
+<url>db/conf/arith/arith1995.html#HouelleMVAG95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/GuyotMHMV95" mdate="2017-05-23">
+<author>Alain Guyot</author>
+<author>Luis A. Montalvo</author>
+<author>A. Houelle</author>
+<author>Habib Mehrez</author>
+<author>Nicolas Vaucher</author>
+<title>Comparison of the layout synthesis of radix-2 and pseudo-radix-4 dividers.</title>
+<pages>386-391</pages>
+<year>1995</year>
+<crossref>conf/vlsid/1995</crossref>
+<booktitle>VLSI Design</booktitle>
+<url>db/conf/vlsid/vlsid1995.html#GuyotMHMV95</url>
+</inproceedings>
+</r>
+<coauthors n="71" nc="2">
+<co c="0"><na f="a/Abdellatif:Karim_M=">Karim M. Abdellatif</na></co>
+<co c="0"><na f="a/Aberbour:Mourad">Mourad Aberbour</na></co>
+<co c="0"><na f="a/Abid:Mohamed">Mohamed Abid</na></co>
+<co c="0"><na f="a/Aboushady:Hassan">Hassan Aboushady</na></co>
+<co c="0"><na f="a/Abril:Ana">Ana Abril</na></co>
+<co c="0"><na f="a/Amouri:Emna">Emna Amouri</na></co>
+<co c="0"><na f="a/Anghel:Lorena">Lorena Anghel</na></co>
+<co c="0"><na f="a/Ayed:Mohamed_Ali_Ben">Mohamed Ali Ben Ayed</na></co>
+<co c="0"><na f="a/Azeem:Muhammad_Moazam">Muhammad Moazam Azeem</na></co>
+<co c="0"><na f="b/Bahri:Nejmeddine">Nejmeddine Bahri</na></co>
+<co c="1"><na f="b/Bajot:Y=">Y. Bajot</na></co>
+<co c="0"><na f="b/Bazargan=Sabet:Pirouz">Pirouz Bazargan-Sabet</na></co>
+<co c="0"><na f="b/Belhadj:Nidhameddine">Nidhameddine Belhadj</na></co>
+<co c="0"><na f="b/Beltaief:Nizar">Nizar Beltaief</na></co>
+<co c="0"><na f="b/Benabdenbi:Mounir">Mounir Benabdenbi</na></co>
+<co c="0"><na f="b/BenSaleh:Mohammed_S=">Mohammed S. BenSaleh</na></co>
+<co c="0"><na f="b/Bhasin:Shivam">Shivam Bhasin</na></co>
+<co c="0"><na f="b/Bhatti:Muhammad_Khurram">Muhammad Khurram Bhatti</na></co>
+<co c="0"><na f="b/Blanchardon:Adrien">Adrien Blanchardon</na></co>
+<co c="0"><na f="c/Chae:Jung_Kyu">Jung Kyu Chae</na></co>
+<co c="0"><na f="c/Cherif:Zouha">Zouha Cherif</na></co>
+<co c="0" n="2"><na f="c/Chotin=Avot:Roselyne">Roselyne Chotin-Avot</na><na>Roselyne Avot-Chotin</na></co>
+<co c="0"><na f="c/Chtourou:Sonda">Sonda Chtourou</na></co>
+<co c="0"><na f="d/Danger:Jean=Luc">Jean-Luc Danger</na></co>
+<co c="0"><na f="d/Derieux:Anne">Anne Derieux</na></co>
+<co c="0"><na f="d/Dhia:Arwa_Ben">Arwa Ben Dhia</na></co>
+<co c="0"><na f="d/Doyen:Lise">Lise Doyen</na></co>
+<co c="1"><na f="d/Dumonteix:Yannick">Yannick Dumonteix</na></co>
+<co c="0" n="3"><na f="d/Dupuis:Sophie">Sophie Dupuis</na><na>Sophie Belloeil-Dupuis</na><na>Sophie Belloeil</na></co>
+<co c="0"><na f="d/Durbin:Fran=ccedil=ois">François Durbin</na></co>
+<co c="0"><na f="f/Farooq:Umer">Umer Farooq</na></co>
+<co c="0"><na f="f/Francois:Jean=Arnaud">Jean-Arnaud Francois</na></co>
+<co c="0"><na f="g/Ghariani:Heni">Heni Ghariani</na></co>
+<co c="0"><na f="g/Gobert:Jean">Jean Gobert</na></co>
+<co c="0"><na f="g/Graba:Tarik">Tarik Graba</na></co>
+<co c="0"><na f="g/Guyot:Alain">Alain Guyot</na></co>
+<co c="0"><na f="h/Haghighitalab:Delaram">Delaram Haghighitalab</na></co>
+<co c="0"><na f="h/Haussy:Jacques">Jacques Haussy</na></co>
+<co c="0"><na f="h/Houelle:A=">A. Houelle</na></co>
+<co c="0"><na f="k/Khan:Saqib">Saqib Khan</na></co>
+<co c="0"><na f="k/Kili=ccedil=:Alp">Alp Kiliç</na></co>
+<co c="0"><na f="l/Lalande:P=">P. Lalande</na></co>
+<co c="0"><na f="m/Marrakchi:Hmaied">Hmaied Marrakchi</na></co>
+<co c="0"><na f="m/Marrakchi:Mohamed_Sahbi">Mohamed Sahbi Marrakchi</na></co>
+<co c="0"><na f="m/Marrakchi:Zied">Zied Marrakchi</na></co>
+<co c="0"><na f="m/Masmoudi:Nouri">Nouri Masmoudi</na></co>
+<co c="0"><na f="m/Masson:Christian">Christian Masson</na></co>
+<co c="0"><na f="m/Matherat:Philippe">Philippe Matherat</na></co>
+<co c="0"><na f="m/Mathieu:Yves">Yves Mathieu</na></co>
+<co c="0"><na f="m/Miro:Carolina">Carolina Miro</na></co>
+<co c="0"><na f="m/Montalvo:Luis_A=">Luis A. Montalvo</na></co>
+<co c="0"><na f="m/Mougeat:Paul">Paul Mougeat</na></co>
+<co c="0"><na f="m/Mrabet:Hayder">Hayder Mrabet</na></co>
+<co c="0" n="2"><na f="n/Naviner:Lirida_A=_B=">Lirida A. B. Naviner</na><na>Lirida Alves de Barros Naviner</na></co>
+<co c="0"><na f="n/Ney:David">David Ney</na></co>
+<co c="0"><na f="n/Noury:Ludovic">Ludovic Noury</na></co>
+<co c="0"><na f="o/Obeid:Abdulfattah_Mohammad">Abdulfattah Mohammad Obeid</na></co>
+<co c="0"><na f="o/Ouattara:Boukary">Boukary Ouattara</na></co>
+<co c="0" n="2"><na f="p/Pagliarini:Samuel_Nascimento">Samuel Nascimento Pagliarini</na><na>Samuel N. Pagliarini</na></co>
+<co c="0"><na f="p/Pangracious:Vinod">Vinod Pangracious</na></co>
+<co c="0"><na f="p/Parvez:Husain">Husain Parvez</na></co>
+<co c="0"><na f="p/P=eacute=trot:Fr=eacute=d=eacute=ric">Frédéric Pétrot</na></co>
+<co c="0"><na f="q/Qasim:Syed_Manzoor">Syed Manzoor Qasim</na></co>
+<co c="0"><na f="r/Ravoson:Maminionja">Maminionja Ravoson</na></co>
+<co c="0"><na f="r/Rehman:Saif=Ur">Saif-Ur Rehman</na></co>
+<co c="0"><na f="s/Souillot:Pierre">Pierre Souillot</na></co>
+<co c="0"><na f="t/Tang:Qingshan">Qingshan Tang</na></co>
+<co c="0"><na f="t/Tissot:Andr=eacute=">André Tissot</na></co>
+<co c="0"><na f="t/Tuna:Matthieu">Matthieu Tuna</na></co>
+<co c="0"><na f="t/Turki:Mariem">Mariem Turki</na></co>
+<co c="0"><na f="v/Vaucher:Nicolas">Nicolas Vaucher</na></co>
+</coauthors>
+</dblpperson>
+

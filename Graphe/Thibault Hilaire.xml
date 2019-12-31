@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Thibault Hilaire" n="27">
+<person key="homepages/80/8759" mdate="2010-11-29">
+<author>Thibault Hilaire</author>
+</person>
+<r><article key="journals/tc/VolkovaIDH19" mdate="2019-04-12">
+<author orcid="0000-0002-0702-5652">Anastasia Volkova</author>
+<author>Matei Istoan</author>
+<author orcid="0000-0003-4927-3301">Florent de Dinechin</author>
+<author>Thibault Hilaire</author>
+<title>Towards Hardware IIR Filters Computing Just Right: Direct Form I Case Study.</title>
+<pages>597-608</pages>
+<year>2019</year>
+<volume>68</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>4</number>
+<url>db/journals/tc/tc68.html#VolkovaIDH19</url>
+</article>
+</r>
+<r><inproceedings key="conf/arith/HilaireOL19" mdate="2019-10-22">
+<author>Thibault Hilaire</author>
+<author>Hacene Ouzia</author>
+<author>Benoit Lopez</author>
+<title>Optimal Word-Length Allocation for the Fixed-Point Implementation of Linear Filters and Controllers.</title>
+<pages>175-182</pages>
+<year>2019</year>
+<booktitle>ARITH</booktitle>
+<crossref>conf/arith/2019</crossref>
+<url>db/conf/arith/arith2019.html#HilaireOL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mkm/Gallois-WongBH18" mdate="2018-08-02">
+<author>Diane Gallois-Wong</author>
+<author>Sylvie Boldo</author>
+<author>Thibault Hilaire</author>
+<title>A Coq Formalization of Digital Filters.</title>
+<pages>87-103</pages>
+<year>2018</year>
+<booktitle>CICM</booktitle>
+<crossref>conf/mkm/2018</crossref>
+<url>db/conf/mkm/cicm2018.html#Gallois-WongBH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arith/VolkovaLH17" mdate="2019-10-19">
+<author orcid="0000-0002-0702-5652">Anastasia Volkova</author>
+<author>Christoph Quirin Lauter</author>
+<author>Thibault Hilaire</author>
+<title>Reliable Verification of Digital Implemented Filters Against Frequency Specifications.</title>
+<pages>180-187</pages>
+<year>2017</year>
+<booktitle>ARITH</booktitle>
+<crossref>conf/arith/2017</crossref>
+<url>db/conf/arith/arith2017.html#VolkovaLH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusipco/QureshiTVH17" mdate="2019-10-19">
+<author orcid="0000-0003-3912-0483">Fahad Qureshi</author>
+<author orcid="0000-0003-0097-1010">Jarmo Takala</author>
+<author orcid="0000-0002-0702-5652">Anastasia Volkova</author>
+<author>Thibault Hilaire</author>
+<title>Multiplierless unified architecture for mixed radix-2/3/4 FFTs.</title>
+<pages>1334-1338</pages>
+<year>2017</year>
+<booktitle>EUSIPCO</booktitle>
+<crossref>conf/eusipco/2017</crossref>
+<url>db/conf/eusipco/eusipco2017.html#QureshiTVH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sips/HilaireV17" mdate="2019-10-19">
+<author>Thibault Hilaire</author>
+<author orcid="0000-0002-0702-5652">Anastasia Volkova</author>
+<title>Error analysis methods for the fixed-point implementation of linear systems.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>SiPS</booktitle>
+<crossref>conf/sips/2017</crossref>
+<url>db/conf/sips/sips2017.html#HilaireV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sips/HilaireVR16" mdate="2019-10-19">
+<author>Thibault Hilaire</author>
+<author orcid="0000-0002-0702-5652">Anastasia Volkova</author>
+<author>Maminionja Ravoson</author>
+<title>Reliable Fixed-Point Implementation of Linear Data-Flows.</title>
+<pages>92-97</pages>
+<year>2016</year>
+<booktitle>SiPS</booktitle>
+<crossref>conf/sips/2016</crossref>
+<url>db/conf/sips/sips2016.html#HilaireVR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acssc/VolkovaHL15" mdate="2019-10-19">
+<author orcid="0000-0002-0702-5652">Anastasia Volkova</author>
+<author>Thibault Hilaire</author>
+<author>Christoph Quirin Lauter</author>
+<title>Determining fixed-point formats for a digital filter implementation using the worst-case peak gain measure.</title>
+<pages>737-741</pages>
+<year>2015</year>
+<booktitle>ACSSC</booktitle>
+<crossref>conf/acssc/2015</crossref>
+<url>db/conf/acssc/acssc2015.html#VolkovaHL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arith/VolkovaHL15" mdate="2019-10-19">
+<author orcid="0000-0002-0702-5652">Anastasia Volkova</author>
+<author>Thibault Hilaire</author>
+<author>Christoph Quirin Lauter</author>
+<title>Reliable Evaluation of the Worst-Case Peak Gain Matrix in Multiple Precision.</title>
+<pages>96-103</pages>
+<year>2015</year>
+<booktitle>ARITH</booktitle>
+<crossref>conf/arith/2015</crossref>
+<url>db/conf/arith/arith2015.html#VolkovaHL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusipco/VolkovaH15" mdate="2019-10-19">
+<author orcid="0000-0002-0702-5652">Anastasia Volkova</author>
+<author>Thibault Hilaire</author>
+<title>Fixed-point implementation of Lattice Wave Digital Filter: Comparison and error analysis.</title>
+<pages>1118-1122</pages>
+<year>2015</year>
+<booktitle>EUSIPCO</booktitle>
+<crossref>conf/eusipco/2015</crossref>
+<url>db/conf/eusipco/eusipco2015.html#VolkovaH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/peccs/LopezHD14" mdate="2017-05-23">
+<author>Benoit Lopez</author>
+<author>Thibault Hilaire</author>
+<author>Laurent-Stéphane Didier</author>
+<title>Formatting Bits to Better Implement Signal Processing Algorithms.</title>
+<pages>104-111</pages>
+<year>2014</year>
+<booktitle>PECCS</booktitle>
+<crossref>conf/peccs/2014</crossref>
+<url>db/conf/peccs/peccs2014.html#LopezHD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sips/HilaireL13" mdate="2017-05-21">
+<author>Thibault Hilaire</author>
+<author>Benoit Lopez</author>
+<title>Reliable implementation of linear filters with fixed-point arithmetic.</title>
+<pages>401-406</pages>
+<year>2013</year>
+<booktitle>SiPS</booktitle>
+<crossref>conf/sips/2013</crossref>
+<url>db/conf/sips/sips2013.html#HilaireL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/LopezHD12" mdate="2017-04-30">
+<author>Benoit Lopez</author>
+<author>Thibault Hilaire</author>
+<author>Laurent-Stéphane Didier</author>
+<title>Sum-of-products evaluation schemes with fixed-point arithmetic, and their application to IIR filter implementation.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2012</crossref>
+<url>db/conf/dasip/dasip2012.html#LopezHD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/MenardRSSDHLGPVNRFSLC12" mdate="2017-04-30">
+<author>Daniel Ménard</author>
+<author>Romuald Rocher</author>
+<author>Olivier Sentieys</author>
+<author>Nicolas Simon</author>
+<author>Laurent-Stéphane Didier</author>
+<author>Thibault Hilaire</author>
+<author>Benoit Lopez</author>
+<author>Eric Goubault</author>
+<author>Sylvie Putot</author>
+<author>Franck Védrine</author>
+<author>Amine Najahi</author>
+<author>Guillaume Revy</author>
+<author>L. Fangain</author>
+<author>Christian Samoyeau</author>
+<author>Fabrice Lemonnier</author>
+<author>Christophe Clienti</author>
+<title>Design of fixed-point embedded systems (DEFIS) French ANR project.</title>
+<pages>1-2</pages>
+<year>2012</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2012</crossref>
+<url>db/conf/dasip/dasip2012.html#MenardRSSDHLGPVNRFSLC12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ejasp/HilaireC11" mdate="2019-06-02">
+<author>Thibault Hilaire</author>
+<author>Philippe Chevrel</author>
+<title>Sensitivity-Based Pole and Input-Output Errors of Linear Filters as Indicators of the Implementation Deterioration in Fixed-Point Context.</title>
+<year>2011</year>
+<volume>2011</volume>
+<journal>EURASIP J. Adv. Sig. Proc.</journal>
+<ee type="oa">https://doi.org/10.1155/2011/893760</ee>
+<url>db/journals/ejasp/ejasp2011.html#HilaireC11</url>
+</article>
+</r>
+<r><article key="journals/ijcon/FengCH11" mdate="2017-05-17">
+<author>Yu Feng</author>
+<author>Philippe Chevrel</author>
+<author>Thibault Hilaire</author>
+<title>Generalised modal realisation as a practical and efficient tool for FWL implementation.</title>
+<pages>66-77</pages>
+<year>2011</year>
+<volume>84</volume>
+<journal>Int. J. Control</journal>
+<number>1</number>
+<url>db/journals/ijcon/ijcon84.html#FengCH11</url>
+</article>
+</r>
+<r><article key="journals/ijcon/HilaireCW10" mdate="2017-06-06">
+<author>Thibault Hilaire</author>
+<author>Philippe Chevrel</author>
+<author orcid="0000-0002-6310-8946">James F. Whidborne</author>
+<title>Finite wordlength controller realisations using the specialised implicit form.</title>
+<pages>330-346</pages>
+<year>2010</year>
+<volume>83</volume>
+<journal>Int. J. Control</journal>
+<number>2</number>
+<url>db/journals/ijcon/ijcon83.html#HilaireCW10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/SluciakHR10" mdate="2017-05-19">
+<author>Ondrej Sluciak</author>
+<author>Thibault Hilaire</author>
+<author>Markus Rupp</author>
+<title>A general formalism for the analysis of distributed algorithms.</title>
+<pages>2890-2893</pages>
+<year>2010</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2010</crossref>
+<url>db/conf/icassp/icassp2010.html#SluciakHR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsa/ReyesHPM10" mdate="2018-11-02">
+<author>Carolina Reyes</author>
+<author>Thibault Hilaire</author>
+<author orcid="0000-0003-3392-0471">Steffen Paul</author>
+<author>Christoph F. Mecklenbräuker</author>
+<title>Evaluation of the root mean square error performance of the PAST-Consensus algorithm.</title>
+<pages>156-160</pages>
+<year>2010</year>
+<booktitle>WSA</booktitle>
+<crossref>conf/wsa/2010</crossref>
+<url>db/conf/wsa/wsa2010.html#ReyesHPM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcas/Hilaire09" mdate="2017-05-26">
+<author>Thibault Hilaire</author>
+<title>Low-Parametric-Sensitivity Realizations With Relaxed L<sub>2</sub>-Dynamic-Range-Scaling Constraints.</title>
+<pages>590-594</pages>
+<year>2009</year>
+<volume>56-II</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>7</number>
+<url>db/journals/tcas/tcasII56.html#Hilaire09</url>
+</article>
+</r>
+<r><article key="journals/tcas/Hilaire09a" mdate="2017-05-26">
+<author>Thibault Hilaire</author>
+<title>On the Transfer Function Error of State-Space Filters in Fixed-Point Context.</title>
+<pages>936-940</pages>
+<year>2009</year>
+<volume>56-II</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>12</number>
+<url>db/journals/tcas/tcasII56.html#Hilaire09a</url>
+</article>
+</r>
+<r><inproceedings key="conf/eucc/FengCH09" mdate="2019-02-12">
+<author>Yu Feng</author>
+<author>Philippe Chevrel</author>
+<author>Thibault Hilaire</author>
+<title>A practical strategy of an efficient and sparse FWL implementation of LTI filters.</title>
+<pages>1383-1388</pages>
+<year>2009</year>
+<booktitle>ECC</booktitle>
+<crossref>conf/eucc/2009</crossref>
+<url>db/conf/eucc/eucc2009.html#FengCH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusipco/Hilaire09" mdate="2017-04-30">
+<author>Thibault Hilaire</author>
+<title>New L2-dynamic-range-scaling constraints for lowparametric sensitivity realizations.</title>
+<pages>988-992</pages>
+<year>2009</year>
+<booktitle>EUSIPCO</booktitle>
+<crossref>conf/eusipco/2009</crossref>
+<url>db/conf/eusipco/eusipco2009.html#Hilaire09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cacsd/HilaireMS08" mdate="2017-06-01">
+<author>Thibault Hilaire</author>
+<author>Daniel Ménard</author>
+<author orcid="0000-0003-4334-6418">Olivier Sentieys</author>
+<title>Bit accurate roundoff noise analysis of fixed-point linear controllers.</title>
+<pages>607-612</pages>
+<year>2008</year>
+<booktitle>CACSD</booktitle>
+<crossref>conf/cacsd/2008</crossref>
+<url>db/conf/cacsd/cacsd2008.html#HilaireMS08</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcas/HilaireCW07" mdate="2017-06-08">
+<author>Thibault Hilaire</author>
+<author>Philippe Chevrel</author>
+<author orcid="0000-0002-6310-8946">James F. Whidborne</author>
+<title>A Unifying Framework for Finite Wordlength Realizations.</title>
+<pages>1765-1774</pages>
+<year>2007</year>
+<volume>54-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>8</number>
+<url>db/journals/tcas/tcasI54.html#HilaireCW07</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusipco/HilaireMS07" mdate="2017-04-29">
+<author>Thibault Hilaire</author>
+<author>Daniel Ménard</author>
+<author>Olivier Sentieys</author>
+<title>Roundoff noise analysis of finite wordlength realizations with the implicit state-space framework.</title>
+<pages>1019-1023</pages>
+<year>2007</year>
+<booktitle>EUSIPCO</booktitle>
+<crossref>conf/eusipco/2007</crossref>
+<url>db/conf/eusipco/eusipco2007.html#HilaireMS07</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Hilaire06" mdate="2016-08-03">
+<author>Thibault Hilaire</author>
+<title>Analyse et synthèse de l'implémentation de lois de contrôle-commande en précision finie- Étude dans le cadre des applications automobiles sur calculateur embarquée -. (Analysis and Synthesis of the Finite Word Length Implementation of linear controllers or filters.- Application to embedded automotive control -).</title>
+<year>2006</year>
+<school>University of Nantes, France</school>
+</phdthesis>
+</r>
+<coauthors n="33" nc="4">
+<co c="3"><na f="b/Boldo:Sylvie">Sylvie Boldo</na></co>
+<co c="2"><na f="c/Chevrel:Philippe">Philippe Chevrel</na></co>
+<co c="0"><na f="c/Clienti:Christophe">Christophe Clienti</na></co>
+<co c="0"><na f="d/Didier:Laurent=St=eacute=phane">Laurent-Stéphane Didier</na></co>
+<co c="0"><na f="d/Dinechin:Florent_de">Florent de Dinechin</na></co>
+<co c="0"><na f="f/Fangain:L=">L. Fangain</na></co>
+<co c="2"><na f="f/Feng:Yu">Yu Feng</na></co>
+<co c="3"><na f="g/Gallois=Wong:Diane">Diane Gallois-Wong</na></co>
+<co c="0"><na f="g/Goubault:Eric">Eric Goubault</na></co>
+<co c="0"><na f="i/Istoan:Matei">Matei Istoan</na></co>
+<co c="0"><na f="l/Lauter:Christoph_Quirin">Christoph Quirin Lauter</na></co>
+<co c="0"><na f="l/Lemonnier:Fabrice">Fabrice Lemonnier</na></co>
+<co c="0"><na f="l/Lopez:Benoit">Benoit Lopez</na></co>
+<co c="1"><na f="m/Mecklenbr=auml=uker:Christoph_F=">Christoph F. Mecklenbräuker</na></co>
+<co c="0"><na f="m/M=eacute=nard:Daniel">Daniel Ménard</na></co>
+<co c="0"><na f="n/Najahi:Amine">Amine Najahi</na></co>
+<co c="0"><na f="o/Ouzia:Hacene">Hacene Ouzia</na></co>
+<co c="1"><na f="p/Paul:Steffen">Steffen Paul</na></co>
+<co c="0"><na f="p/Putot:Sylvie">Sylvie Putot</na></co>
+<co c="0"><na f="q/Qureshi:Fahad">Fahad Qureshi</na></co>
+<co c="0"><na f="r/Ravoson:Maminionja">Maminionja Ravoson</na></co>
+<co c="0"><na f="r/Revy:Guillaume">Guillaume Revy</na></co>
+<co c="1"><na f="r/Reyes:Carolina">Carolina Reyes</na></co>
+<co c="0"><na f="r/Rocher:Romuald">Romuald Rocher</na></co>
+<co c="1"><na f="r/Rupp:Markus">Markus Rupp</na></co>
+<co c="0"><na f="s/Samoyeau:Christian">Christian Samoyeau</na></co>
+<co c="0"><na f="s/Sentieys:Olivier">Olivier Sentieys</na></co>
+<co c="0"><na f="s/Simon:Nicolas">Nicolas Simon</na></co>
+<co c="1"><na f="s/Sluciak:Ondrej">Ondrej Sluciak</na></co>
+<co c="0"><na f="t/Takala:Jarmo">Jarmo Takala</na></co>
+<co c="0"><na f="v/V=eacute=drine:Franck">Franck Védrine</na></co>
+<co c="0"><na f="v/Volkova:Anastasia">Anastasia Volkova</na></co>
+<co c="2"><na f="w/Whidborne:James_F=">James F. Whidborne</na></co>
+</coauthors>
+</dblpperson>
+

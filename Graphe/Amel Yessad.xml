@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Amel Yessad" n="17">
+<person key="homepages/27/8470" mdate="2010-09-20">
+<author>Amel Yessad</author>
+</person>
+<r><inproceedings key="conf/ectel/GuinebertYML19" mdate="2019-09-09">
+<author>Mathieu Guinebert</author>
+<author>Amel Yessad</author>
+<author>Mathieu Muratet</author>
+<author>Vanda Luengo</author>
+<title>Automatic Detection of Peer Interactions in Multi-player Learning Games.</title>
+<pages>349-361</pages>
+<year>2019</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2019</crossref>
+<url>db/conf/ectel/ectel2019.html#GuinebertYML19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/NikolayevaMYCPP18" mdate="2018-08-24">
+<author>Iryna Nikolayeva</author>
+<author>Bruno Martin</author>
+<author>Amel Yessad</author>
+<author>Françoise Chenevotot</author>
+<author>Julia Pilet</author>
+<author>Dominique Prévit</author>
+<author>Brigitte Grugeon-Allys</author>
+<author>Vanda Luengo</author>
+<title>How to Help Teachers Adapt to Learners? Teachers' Perspective on a Competency and Error-Type Centered Dashboard.</title>
+<pages>596-599</pages>
+<year>2018</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2018</crossref>
+<url>db/conf/ectel/ectel2018.html#NikolayevaMYCPP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/MonterratYBLL17" mdate="2017-09-05">
+<author>Baptiste Monterrat</author>
+<author>Amel Yessad</author>
+<author>François Bouchet</author>
+<author>Élise Lavoué</author>
+<author>Vanda Luengo</author>
+<title>MAGAM: A Multi-Aspect Generic Adaptation Model for Learning Environments.</title>
+<pages>139-152</pages>
+<year>2017</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2017</crossref>
+<url>db/conf/ectel/ectel2017.html#MonterratYBLL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/GuinebertYML17" mdate="2017-09-05">
+<author>Mathieu Guinebert</author>
+<author>Amel Yessad</author>
+<author>Mathieu Muratet</author>
+<author>Vanda Luengo</author>
+<title>An Ontology for Describing Scenarios of Multi-players Learning Games: Toward an Automatic Detection of Group Interactions.</title>
+<pages>410-415</pages>
+<year>2017</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2017</crossref>
+<url>db/conf/ectel/ectel2017.html#GuinebertYML17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/MuratetYC16" mdate="2017-05-24">
+<author>Mathieu Muratet</author>
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<title>Framework for Learner Assessment in Learning Games.</title>
+<pages>622-626</pages>
+<year>2016</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2016</crossref>
+<url>db/conf/ectel/ectel2016.html#MuratetYC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwl/MuratetYC16" mdate="2017-05-25">
+<author>Mathieu Muratet</author>
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<title>Understanding Learners' Behaviors in Serious Games.</title>
+<pages>195-205</pages>
+<year>2016</year>
+<booktitle>ICWL</booktitle>
+<crossref>conf/icwl/2016</crossref>
+<url>db/conf/icwl/icwl2016.html#MuratetYC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/MeleroEYL15" mdate="2017-05-19">
+<author>Javier Melero</author>
+<author>Naïma El-Kechaï</author>
+<author>Amel Yessad</author>
+<author>Jean-Marc Labat</author>
+<title>Adapting Learning Paths in Serious Games: An Approach Based on Teachers' Requirements.</title>
+<pages>376-394</pages>
+<year>2015</year>
+<booktitle>CSEDU (Selected Papers)</booktitle>
+<crossref>conf/csedu/2015s</crossref>
+<url>db/conf/csedu/csedu2015s.html#MeleroEYL15</url>
+</inproceedings>
+</r>
+<r><article key="journals/sg/MounierYCKL14" mdate="2019-05-22">
+<author>Isabelle Mounier</author>
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<author>Fabrice Kordon</author>
+<author>Jean-Marc Labat</author>
+<title>Formal Framework to improve the reliability of concurrent and collaborative learning games.</title>
+<pages>e4</pages>
+<year>2014</year>
+<volume>1</volume>
+<number>2</number>
+<journal>EAI Endorsed Trans. Serious Games</journal>
+<ee type="oa">https://doi.org/10.4108/sg.1.2.e4</ee>
+<url>db/journals/sg/sg2.html#MounierYCKL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ectel/YessadMLKC14" mdate="2017-05-24">
+<author>Amel Yessad</author>
+<author>Isabelle Mounier</author>
+<author>Jean-Marc Labat</author>
+<author>Fabrice Kordon</author>
+<author>Thibault Carron</author>
+<title>Have You Found the Error? A Formal Framework for Learning Game Verification.</title>
+<pages>476-481</pages>
+<year>2014</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2014</crossref>
+<url>db/conf/ectel/ectel2014.html#YessadMLKC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwl/YessadCL13" mdate="2017-05-25">
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<author>Jean-Marc Labat</author>
+<title>An Approach to Model and Validate Scenarios of Serious Games in the Design Stage.</title>
+<pages>264-273</pages>
+<year>2013</year>
+<booktitle>ICWL</booktitle>
+<crossref>conf/icwl/2013</crossref>
+<url>db/conf/icwl/icwl2013.html#YessadCL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/ThomasLMY12" mdate="2017-05-21">
+<author>Pradeepa Thomas</author>
+<author>Jean-Marc Labat</author>
+<author>Mathieu Muratet</author>
+<author>Amel Yessad</author>
+<title>How to Evaluate Competencies in Game-Based Learning Systems Automatically?</title>
+<pages>168-173</pages>
+<year>2012</year>
+<booktitle>ITS</booktitle>
+<crossref>conf/its/2012</crossref>
+<url>db/conf/its/its2012.html#ThomasLMY12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ile/YessadFDL11" mdate="2017-05-18">
+<author>Amel Yessad</author>
+<author>Catherine Faron-Zucker</author>
+<author>Rose Dieng-Kuntz</author>
+<author>Med Tayeb Laskri</author>
+<title>Ontology-based semantic relatedness for detecting the relevance of learning resources.</title>
+<pages>63-80</pages>
+<year>2011</year>
+<volume>19</volume>
+<journal>Interactive Learning Environments</journal>
+<number>1</number>
+<url>db/journals/ile/ile19.html#YessadFDL11</url>
+</article>
+</r>
+<r><inproceedings key="conf/f-ic/YessadL11" mdate="2017-02-06">
+<author>Amel Yessad</author>
+<author>Jean-Marc Labat</author>
+<title>Approche Ontologique pour la Détection de la Pertinence d'une Action dans un Jeu Sérieux.</title>
+<pages>557-572</pages>
+<year>2011</year>
+<booktitle>IC</booktitle>
+<crossref>conf/f-ic/2011</crossref>
+<url>db/conf/f-ic/ic2011.html#YessadL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/ThomasYL11" mdate="2017-05-23">
+<author>Pradeepa Thomas</author>
+<author>Amel Yessad</author>
+<author>Jean-Marc Labat</author>
+<title>Petri Nets and Ontologies: Tools for the "Learning Player" Assessment in Serious Games.</title>
+<pages>415-419</pages>
+<year>2011</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2011</crossref>
+<url>db/conf/icalt/icalt2011.html#ThomasYL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/YessadLK10" mdate="2017-05-23">
+<author>Amel Yessad</author>
+<author>Jean-Marc Labat</author>
+<author>François Kermorvant</author>
+<title>SeGAE: A Serious Game Authoring Environment.</title>
+<pages>538-540</pages>
+<year>2010</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2010</crossref>
+<url>db/conf/icalt/icalt2010.html#YessadLK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwl/YessadTIL10" mdate="2017-05-25">
+<author>Amel Yessad</author>
+<author>Pradeepa Thomas</author>
+<author>Bruno Capdevila Ibáñez</author>
+<author>Jean-Marc Labat</author>
+<title>Using the Petri Nets for the Learner Assessment in Serious Games.</title>
+<pages>339-348</pages>
+<year>2010</year>
+<booktitle>ICWL</booktitle>
+<crossref>conf/icwl/2010</crossref>
+<url>db/conf/icwl/icwl2010.html#YessadTIL10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijwltt/YessadFDL08" mdate="2017-05-28">
+<author>Amel Yessad</author>
+<author>Catherine Faron-Zucker</author>
+<author>Rose Dieng-Kuntz</author>
+<author>Med Tayeb Laskri</author>
+<title>Adaptive Learning Organizer for Web-Based Education.</title>
+<pages>57-73</pages>
+<year>2008</year>
+<volume>3</volume>
+<journal>IJWLTT</journal>
+<number>4</number>
+<url>db/journals/ijwltt/ijwltt3.html#YessadFDL08</url>
+</article>
+</r>
+<coauthors n="24" nc="2">
+<co c="0"><na f="b/Bouchet:Fran=ccedil=ois">François Bouchet</na></co>
+<co c="0"><na f="c/Carron:Thibault">Thibault Carron</na></co>
+<co c="0" n="2"><na f="c/Chenevotot=Quentin:Fran=ccedil=oise">Françoise Chenevotot-Quentin</na><na>Françoise Chenevotot</na></co>
+<co c="1" n="2"><na f="d/Dieng:Rose">Rose Dieng</na><na>Rose Dieng-Kuntz</na></co>
+<co c="0"><na f="e/El=Kecha=iuml=:Na=iuml=ma">Naïma El-Kechaï</na></co>
+<co c="1"><na f="f/Faron=Zucker:Catherine">Catherine Faron-Zucker</na></co>
+<co c="0"><na f="g/Grugeon=Allys:Brigitte">Brigitte Grugeon-Allys</na></co>
+<co c="0"><na f="g/Guinebert:Mathieu">Mathieu Guinebert</na></co>
+<co c="0"><na f="i/Ib=aacute==ntilde=ez:Bruno_Capdevila">Bruno Capdevila Ibáñez</na></co>
+<co c="0"><na f="k/Kermorvant:Fran=ccedil=ois">François Kermorvant</na></co>
+<co c="0"><na f="k/Kordon:Fabrice">Fabrice Kordon</na></co>
+<co c="0"><na f="l/Labat:Jean=Marc">Jean-Marc Labat</na></co>
+<co c="1"><na f="l/Laskri:Med_Tayeb">Med Tayeb Laskri</na></co>
+<co c="0"><na f="l/Lavou=eacute=:=Eacute=lise">Élise Lavoué</na></co>
+<co c="0"><na f="l/Luengo:Vanda">Vanda Luengo</na></co>
+<co c="0"><na f="m/Martin:Bruno">Bruno Martin</na></co>
+<co c="0"><na f="m/Melero:Javier">Javier Melero</na></co>
+<co c="0"><na f="m/Monterrat:Baptiste">Baptiste Monterrat</na></co>
+<co c="0"><na f="m/Mounier:Isabelle">Isabelle Mounier</na></co>
+<co c="0"><na f="m/Muratet:Mathieu">Mathieu Muratet</na></co>
+<co c="0"><na f="n/Nikolayeva:Iryna">Iryna Nikolayeva</na></co>
+<co c="0"><na f="p/Pilet:Julia">Julia Pilet</na></co>
+<co c="0"><na f="p/Pr=eacute=vit:Dominique">Dominique Prévit</na></co>
+<co c="0"><na f="t/Thomas:Pradeepa">Pradeepa Thomas</na></co>
+</coauthors>
+</dblpperson>
+

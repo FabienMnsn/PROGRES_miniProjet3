@@ -1,0 +1,464 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Daniel Lazard" n="36">
+<person key="homepages/80/3655" mdate="2009-06-10">
+<author>Daniel Lazard</author>
+</person>
+<r><article key="journals/jsc/ChengJL13" mdate="2017-05-17">
+<author>Jin-San Cheng</author>
+<author>Kai Jin</author>
+<author>Daniel Lazard</author>
+<title>Certified rational parametric approximation of real algebraic space curves with local generic position method.</title>
+<pages>18-40</pages>
+<year>2013</year>
+<volume>58</volume>
+<journal>J. Symb. Comput.</journal>
+<url>db/journals/jsc/jsc58.html#ChengJL13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1204-0905" mdate="2018-08-13">
+<author>Jin-San Cheng</author>
+<author>Kai Jin</author>
+<author>Xiao-Shan Gao</author>
+<author>Daniel Lazard</author>
+<title>Certified Rational Parametric Approximation of Real Algebraic Space Curves with Local Generic Position Method</title>
+<ee type="oa">http://arxiv.org/abs/1204.0905</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1204.0905</volume>
+<url>db/journals/corr/corr1204.html#abs-1204-0905</url>
+</article>
+</r>
+<r><article key="journals/ijac/HashemiL11" mdate="2017-05-28">
+<author>Amir Hashemi</author>
+<author>Daniel Lazard</author>
+<title>Sharper Complexity Bounds for Zero-Dimensional GRöBner Bases and Polynomial System Solving.</title>
+<pages>703-713</pages>
+<year>2011</year>
+<volume>21</volume>
+<journal>IJAC</journal>
+<number>5</number>
+<url>db/journals/ijac/ijac21.html#HashemiL11</url>
+</article>
+</r>
+<r><article key="journals/mics/Lazard10" mdate="2017-05-26">
+<author>Daniel Lazard</author>
+<title>CAD and Topology of Semi-Algebraic Sets.</title>
+<pages>93-112</pages>
+<year>2010</year>
+<volume>4</volume>
+<journal>Mathematics in Computer Science</journal>
+<number>1</number>
+<url>db/journals/mics/mics4.html#Lazard10</url>
+</article>
+</r>
+<r><article key="journals/aaecc/BoulierLOP09" mdate="2017-05-18">
+<author>François Boulier</author>
+<author>Daniel Lazard</author>
+<author>François Ollivier</author>
+<author>Michel Petitot</author>
+<title>Computing representations for radicals of finitely generated differential ideals.</title>
+<pages>73-121</pages>
+<year>2009</year>
+<volume>20</volume>
+<journal>Appl. Algebra Eng. Commun. Comput.</journal>
+<number>1</number>
+<url>db/journals/aaecc/aaecc20.html#BoulierLOP09</url>
+</article>
+</r>
+<r><article key="journals/dcg/EverettLLD09" mdate="2018-06-26">
+<author>Hazel Everett</author>
+<author>Daniel Lazard</author>
+<author>Sylvain Lazard</author>
+<author>Mohab Safey El Din</author>
+<title>The Voronoi Diagram of Three Lines.</title>
+<pages>94-130</pages>
+<year>2009</year>
+<volume>42</volume>
+<journal>Discrete and Computational Geometry</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s00454-009-9173-3</ee>
+<url>db/journals/dcg/dcg42.html#EverettLLD09</url>
+</article>
+</r>
+<r><article key="journals/jsc/Lazard09" mdate="2018-11-14">
+<author>Daniel Lazard</author>
+<title>Thirty years of Polynomial System Solving, and now?</title>
+<pages>222-231</pages>
+<year>2009</year>
+<volume>44</volume>
+<journal>J. Symb. Comput.</journal>
+<number>3</number>
+<url>db/journals/jsc/jsc44.html#Lazard09</url>
+</article>
+</r>
+<r><article key="journals/jsc/LazardM09" mdate="2019-10-19">
+<author>Daniel Lazard</author>
+<author orcid="0000-0002-5682-7993">Scott McCallum</author>
+<title>Iterated discriminants.</title>
+<pages>1176-1193</pages>
+<year>2009</year>
+<volume>44</volume>
+<journal>J. Symb. Comput.</journal>
+<number>9</number>
+<url>db/journals/jsc/jsc44.html#LazardM09</url>
+</article>
+</r>
+<r><article key="journals/jsc/DupontLLP08" mdate="2017-05-17">
+<author>Laurent Dupont</author>
+<author>Daniel Lazard</author>
+<author>Sylvain Lazard</author>
+<author>Sylvain Petitjean</author>
+<title>Near-optimal parameterization of the intersection of quadrics: I. The generic algorithm.</title>
+<pages>168-191</pages>
+<year>2008</year>
+<volume>43</volume>
+<journal>J. Symb. Comput.</journal>
+<number>3</number>
+<url>db/journals/jsc/jsc43.html#DupontLLP08</url>
+</article>
+</r>
+<r><article key="journals/jsc/DupontLLP08a" mdate="2017-05-17">
+<author>Laurent Dupont</author>
+<author>Daniel Lazard</author>
+<author>Sylvain Lazard</author>
+<author>Sylvain Petitjean</author>
+<title>Near-optimal parameterization of the intersection of quadrics: II. A classification of pencils.</title>
+<pages>192-215</pages>
+<year>2008</year>
+<volume>43</volume>
+<journal>J. Symb. Comput.</journal>
+<number>3</number>
+<url>db/journals/jsc/jsc43.html#DupontLLP08a</url>
+</article>
+</r>
+<r><article key="journals/jsc/DupontLLP08b" mdate="2017-05-17">
+<author>Laurent Dupont</author>
+<author>Daniel Lazard</author>
+<author>Sylvain Lazard</author>
+<author>Sylvain Petitjean</author>
+<title>Near-optimal parameterization of the intersection of quadrics: III. Parameterizing singular intersections.</title>
+<pages>216-232</pages>
+<year>2008</year>
+<volume>43</volume>
+<journal>J. Symb. Comput.</journal>
+<number>3</number>
+<url>db/journals/jsc/jsc43.html#DupontLLP08b</url>
+</article>
+</r>
+<r><article key="journals/jsc/LazardR07" mdate="2017-05-17">
+<author>Daniel Lazard</author>
+<author>Fabrice Rouillier</author>
+<title>Solving parametric polynomial systems.</title>
+<pages>636-667</pages>
+<year>2007</year>
+<volume>42</volume>
+<journal>J. Symb. Comput.</journal>
+<number>6</number>
+<url>db/journals/jsc/jsc42.html#LazardR07</url>
+</article>
+</r>
+<r><article key="journals/mics/GuLRX07" mdate="2017-05-26">
+<author>Nong Gu</author>
+<author>Daniel Lazard</author>
+<author>Fabrice Rouillier</author>
+<author>Yong Xiang</author>
+<title>Using Computer Algebra to Certify the Global Convergence of a Numerical Optimization Process.</title>
+<pages>291-304</pages>
+<year>2007</year>
+<volume>1</volume>
+<journal>Mathematics in Computer Science</journal>
+<number>2</number>
+<url>db/journals/mics/mics1.html#GuLRX07</url>
+</article>
+</r>
+<r><inproceedings key="conf/compgeom/EverettLLD07" mdate="2018-11-06">
+<author>Hazel Everett</author>
+<author>Sylvain Lazard</author>
+<author>Daniel Lazard</author>
+<author>Mohab Safey El Din</author>
+<title>The voronoi diagram of three lines.</title>
+<pages>255-264</pages>
+<year>2007</year>
+<crossref>conf/compgeom/2007</crossref>
+<booktitle>Symposium on Computational Geometry</booktitle>
+<url>db/conf/compgeom/compgeom2007.html#EverettLLD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issac/Lazard06" mdate="2018-11-06">
+<author>Daniel Lazard</author>
+<title>Solving Kaltofen's challenge on Zolotarev's approximation problem.</title>
+<pages>196-203</pages>
+<year>2006</year>
+<crossref>conf/issac/2006</crossref>
+<booktitle>ISSAC</booktitle>
+<url>db/conf/issac/issac2006.html#Lazard06</url>
+</inproceedings>
+</r>
+<r><article key="journals/mcs/Lazard04" mdate="2017-05-20">
+<author>Daniel Lazard</author>
+<title>Injectivity of real rational mappings: the case of a mixture of two Gaussian laws.</title>
+<pages>67-84</pages>
+<year>2004</year>
+<volume>67</volume>
+<journal>Mathematics and Computers in Simulation</journal>
+<number>1-2</number>
+<url>db/journals/mcs/mcs67.html#Lazard04</url>
+</article>
+</r>
+<r><inproceedings key="conf/compgeom/DupontLLP03" mdate="2018-11-06">
+<author>Laurent Dupont</author>
+<author>Daniel Lazard</author>
+<author>Sylvain Lazard</author>
+<author>Sylvain Petitjean</author>
+<title>Near-optimal parameterization of the intersection of quadrics.</title>
+<pages>246-255</pages>
+<year>2003</year>
+<crossref>conf/compgeom/2003</crossref>
+<booktitle>Symposium on Computational Geometry</booktitle>
+<url>db/conf/compgeom/compgeom2003.html#DupontLLP03</url>
+</inproceedings>
+</r>
+<r><article key="journals/cca/Lazard01" mdate="2018-11-14">
+<author>Daniel Lazard</author>
+<title>Solving systems of algebraic equations.</title>
+<pages>11-37</pages>
+<year>2001</year>
+<volume>35</volume>
+<journal>ACM SIGSAM Bulletin</journal>
+<number>3</number>
+<url>db/journals/cca/cca35.html#Lazard01</url>
+</article>
+</r>
+<r><article key="journals/jsc/AubryLM99" mdate="2017-05-17">
+<author>Philippe Aubry</author>
+<author>Daniel Lazard</author>
+<author>Marc Moreno Maza</author>
+<title>On the Theories of Triangular Sets.</title>
+<pages>105-124</pages>
+<year>1999</year>
+<volume>28</volume>
+<journal>J. Symb. Comput.</journal>
+<number>1-2</number>
+<url>db/journals/jsc/jsc28.html#AubryLM99</url>
+</article>
+</r>
+<r><inproceedings key="conf/issac/BoulierLOP95" mdate="2018-11-06">
+<author>François Boulier</author>
+<author>Daniel Lazard</author>
+<author>François Ollivier</author>
+<author>Michel Petitot</author>
+<title>Representation for the Radical of a Finitely Generated Differential Ideal.</title>
+<pages>158-166</pages>
+<year>1995</year>
+<crossref>conf/issac/1995</crossref>
+<booktitle>ISSAC</booktitle>
+<url>db/conf/issac/issac95.html#BoulierLOP95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LazardM94" mdate="2018-11-14">
+<author>Daniel Lazard</author>
+<author>Jean-Pierre Merlet</author>
+<title>The (True) Stewart Platform Has 12 Configurations.</title>
+<pages>2160-2165</pages>
+<year>1994</year>
+<crossref>conf/icra/1994</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra1994-3.html#LazardM94</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsc/FaugereGLM93" mdate="2018-11-14">
+<author>Jean-Charles Faugère</author>
+<author>Patrizia M. Gianni</author>
+<author>Daniel Lazard</author>
+<author>Teo Mora</author>
+<title>Efficient Computation of Zero-Dimensional Gröbner Bases by Change of Ordering.</title>
+<pages>329-344</pages>
+<year>1993</year>
+<volume>16</volume>
+<journal>J. Symb. Comput.</journal>
+<number>4</number>
+<url>db/journals/jsc/jsc16.html#FaugereGLM93</url>
+</article>
+</r>
+<r><article key="journals/jsc/Lazard92" mdate="2018-11-14">
+<author>Daniel Lazard</author>
+<title>Solving Zero-Dimensional Algebraic Systems.</title>
+<pages>117-132</pages>
+<year>1992</year>
+<volume>13</volume>
+<journal>J. Symb. Comput.</journal>
+<number>2</number>
+<url>db/journals/jsc/jsc13.html#Lazard92</url>
+</article>
+</r>
+<r><article key="journals/jsc/Lazard92a" mdate="2017-05-17">
+<author>Daniel Lazard</author>
+<title>A Note on Upper Bounds for Ideal-Theoretic Problems.</title>
+<pages>231-234</pages>
+<year>1992</year>
+<volume>13</volume>
+<journal>J. Symb. Comput.</journal>
+<number>3</number>
+<url>db/journals/jsc/jsc13.html#Lazard92a</url>
+</article>
+</r>
+<r><article key="journals/dam/Lazard91" mdate="2017-05-28">
+<author>Daniel Lazard</author>
+<title>A new method for solving algebraic systems of positive dimension.</title>
+<pages>147-160</pages>
+<year>1991</year>
+<volume>33</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>1-3</number>
+<url>db/journals/dam/dam33.html#Lazard91</url>
+</article>
+</r>
+<r><article key="journals/jsc/LazardR90" mdate="2017-05-17">
+<author>Daniel Lazard</author>
+<author>Renaud Rioboo</author>
+<title>Integration of Rational Functions: Rational Computation of the Logarithmic Part.</title>
+<pages>113-115</pages>
+<year>1990</year>
+<volume>9</volume>
+<journal>J. Symb. Comput.</journal>
+<number>2</number>
+<url>db/journals/jsc/jsc9.html#LazardR90</url>
+</article>
+</r>
+<r><article key="journals/jsc/Lazard88" mdate="2018-11-14">
+<author>Daniel Lazard</author>
+<title>Quantifier Elimination: Optimal Solution for Two Classical Examples.</title>
+<pages>261-266</pages>
+<year>1988</year>
+<volume>5</volume>
+<journal>J. Symb. Comput.</journal>
+<number>1/2</number>
+<url>db/journals/jsc/jsc5.html#Lazard88</url>
+</article>
+</r>
+<r><article key="journals/jsc/DixmierL88" mdate="2019-06-02">
+<author>J. Dixmier</author>
+<author>Daniel Lazard</author>
+<title>Minimum Number of Fundamental Invariants for the Binary Form of Degree.</title>
+<pages>113-115</pages>
+<year>1988</year>
+<volume>6</volume>
+<journal>J. Symb. Comput.</journal>
+<number>1</number>
+<url>db/journals/jsc/jsc6.html#DixmierL88</url>
+</article>
+</r>
+<r><inproceedings key="conf/issac/GiustiLV88" mdate="2017-05-19">
+<author>Marc Giusti</author>
+<author>Daniel Lazard</author>
+<author>Annick Valibouze</author>
+<title>Algebraic Transformations of Polynomial Equations, Symmetric Polynomials and Elimination.</title>
+<pages>309-314</pages>
+<year>1988</year>
+<crossref>conf/issac/1988</crossref>
+<booktitle>ISSAC</booktitle>
+<url>db/conf/issac/issac88.html#GiustiLV88</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsc/Lazard85" mdate="2017-05-17">
+<author>Daniel Lazard</author>
+<title>Ideal Bases and Primary Decomposition: Case of Two Variables.</title>
+<pages>261-270</pages>
+<year>1985</year>
+<volume>1</volume>
+<journal>J. Symb. Comput.</journal>
+<number>3</number>
+<url>db/journals/jsc/jsc1.html#Lazard85</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurocal/Lazard83" mdate="2018-11-14">
+<author>Daniel Lazard</author>
+<title>Gröbner-Bases, Gaussian elimination and resolution of systems of algebraic equations.</title>
+<pages>146-156</pages>
+<year>1983</year>
+<crossref>conf/eurocal/1983</crossref>
+<booktitle>EUROCAL</booktitle>
+<url>db/conf/eurocal/eurocal1983.html#Lazard83</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocal/Lazard82" mdate="2017-05-19">
+<author>Daniel Lazard</author>
+<title>Commutative Algebra and Computer Algebra.</title>
+<pages>40-48</pages>
+<year>1982</year>
+<crossref>conf/eurocal/1982</crossref>
+<booktitle>EUROCAM</booktitle>
+<url>db/conf/eurocal/eurocam1982.html#Lazard82</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocal/Lazard82a" mdate="2017-05-19">
+<author>Daniel Lazard</author>
+<title>On Polynomial Factorization.</title>
+<pages>126-134</pages>
+<year>1982</year>
+<crossref>conf/eurocal/1982</crossref>
+<booktitle>EUROCAM</booktitle>
+<url>db/conf/eurocal/eurocam1982.html#Lazard82a</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/Lazard81" mdate="2018-11-14">
+<author>Daniel Lazard</author>
+<title>Resolution des Systemes d'Equations Algebriques.</title>
+<pages>77-110</pages>
+<year>1981</year>
+<volume>15</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs15.html#Lazard81</url>
+</article>
+</r>
+<r><article key="journals/cca/Lazard80" mdate="2018-11-06">
+<author>Daniel Lazard</author>
+<title>Problem 7 and systems of algebraic equations.</title>
+<pages>26-29</pages>
+<year>1980</year>
+<volume>14</volume>
+<journal>ACM SIGSAM Bulletin</journal>
+<number>2</number>
+<url>db/journals/cca/cca14.html#Lazard80</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurosam/Lazard79" mdate="2017-05-19">
+<author>Daniel Lazard</author>
+<title>Systems of algebraic equations.</title>
+<pages>88-94</pages>
+<year>1979</year>
+<crossref>conf/eurosam/1979</crossref>
+<booktitle>EUROSAM</booktitle>
+<url>db/conf/eurosam/eurosam1979.html#Lazard79</url>
+</inproceedings>
+</r>
+<coauthors n="26" nc="1">
+<co c="0"><na f="a/Aubry:Philippe">Philippe Aubry</na></co>
+<co c="0"><na f="b/Boulier:Fran=ccedil=ois">François Boulier</na></co>
+<co c="0"><na f="c/Cheng:Jin=San">Jin-San Cheng</na></co>
+<co c="0"><na f="d/Din:Mohab_Safey_El">Mohab Safey El Din</na></co>
+<co c="-1"><na f="d/Dixmier:J=">J. Dixmier</na></co>
+<co c="0"><na f="d/Dupont:Laurent">Laurent Dupont</na></co>
+<co c="0"><na f="e/Everett:Hazel">Hazel Everett</na></co>
+<co c="0"><na f="f/Faug=egrave=re:Jean=Charles">Jean-Charles Faugère</na></co>
+<co c="0"><na f="g/Gao:Xiao=Shan">Xiao-Shan Gao</na></co>
+<co c="0"><na f="g/Gianni:Patrizia_M=">Patrizia M. Gianni</na></co>
+<co c="0"><na f="g/Giusti:Marc">Marc Giusti</na></co>
+<co c="0"><na f="g/Gu:Nong">Nong Gu</na></co>
+<co c="0"><na f="h/Hashemi:Amir">Amir Hashemi</na></co>
+<co c="0"><na f="j/Jin:Kai">Kai Jin</na></co>
+<co c="0"><na f="l/Lazard:Sylvain">Sylvain Lazard</na></co>
+<co c="0"><na f="m/Maza:Marc_Moreno">Marc Moreno Maza</na></co>
+<co c="-1"><na f="m/McCallum:Scott">Scott McCallum</na></co>
+<co c="-1"><na f="m/Merlet:Jean=Pierre">Jean-Pierre Merlet</na></co>
+<co c="0"><na f="m/Mora:Teo">Teo Mora</na></co>
+<co c="0"><na f="o/Ollivier:Fran=ccedil=ois">François Ollivier</na></co>
+<co c="0"><na f="p/Petitjean:Sylvain">Sylvain Petitjean</na></co>
+<co c="0"><na f="p/Petitot:Michel">Michel Petitot</na></co>
+<co c="0"><na f="r/Rioboo:Renaud">Renaud Rioboo</na></co>
+<co c="0"><na f="r/Rouillier:Fabrice">Fabrice Rouillier</na></co>
+<co c="0"><na f="v/Valibouze:Annick">Annick Valibouze</na></co>
+<co c="0"><na f="x/Xiang:Yong">Yong Xiang</na></co>
+</coauthors>
+</dblpperson>
+

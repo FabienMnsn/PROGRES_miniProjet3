@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Jean-Marc Labat" n="44">
+<person key="homepages/75/5279" mdate="2009-06-10">
+<author>Jean-Marc Labat</author>
+</person>
+<r><inproceedings key="conf/ectel/VermeulenKFBMLL19" mdate="2019-09-23">
+<author orcid="0000-0003-3646-1741">Mathieu Vermeulen</author>
+<author>Abir-Beatrice Karami</author>
+<author orcid="0000-0002-0175-3181">Anthony Fleury</author>
+<author>François Bouchet</author>
+<author>Nadine Mandran</author>
+<author>Jannik Laval</author>
+<author>Jean-Marc Labat</author>
+<title>APACHES: Human-Centered and Project-Based Methods in Higher Education.</title>
+<pages>683-687</pages>
+<year>2019</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2019</crossref>
+<url>db/conf/ectel/ectel2019.html#VermeulenKFBMLL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/VermeulenGML17" mdate="2018-05-09">
+<author>Mathieu Vermeulen</author>
+<author>Gaëlle Guigon</author>
+<author>Nadine Mandran</author>
+<author>Jean-Marc Labat</author>
+<title>Teachers at the Heart of the Learning Games Design: The DISC Model.</title>
+<pages>145-149</pages>
+<year>2017</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2017</crossref>
+<url>db/conf/icalt/icalt2017.html#VermeulenGML17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/VermeulenML16" mdate="2017-05-24">
+<author>Mathieu Vermeulen</author>
+<author>Nadine Mandran</author>
+<author>Jean-Marc Labat</author>
+<title>Chronicle of a Scenario Graph: From Expected to Observed Learning Path.</title>
+<pages>321-330</pages>
+<year>2016</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2016</crossref>
+<url>db/conf/ectel/ectel2016.html#VermeulenML16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/MeleroEL15" mdate="2017-05-19">
+<author>Javier Melero</author>
+<author>Naïma El-Kechaï</author>
+<author>Jean-Marc Labat</author>
+<title>What's next? Different Strategies Considering Teachers' Decisions for Adapting Learning Paths in Serious Games.</title>
+<pages>101-108</pages>
+<year>2015</year>
+<booktitle>CSEDU (2)</booktitle>
+<crossref>conf/csedu/2015-2</crossref>
+<url>db/conf/csedu/csedu2015-2.html#MeleroEL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/MeleroEYL15" mdate="2017-05-19">
+<author>Javier Melero</author>
+<author>Naïma El-Kechaï</author>
+<author>Amel Yessad</author>
+<author>Jean-Marc Labat</author>
+<title>Adapting Learning Paths in Serious Games: An Approach Based on Teachers' Requirements.</title>
+<pages>376-394</pages>
+<year>2015</year>
+<booktitle>CSEDU (Selected Papers)</booktitle>
+<crossref>conf/csedu/2015s</crossref>
+<url>db/conf/csedu/csedu2015s.html#MeleroEYL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/MeleroEL15" mdate="2017-05-24">
+<author>Javier Melero</author>
+<author>Naïma El-Kechaï</author>
+<author>Jean-Marc Labat</author>
+<title>Comparing Two CbKST Approaches for Adapting Learning Paths in Serious Games.</title>
+<pages>211-224</pages>
+<year>2015</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2015</crossref>
+<url>db/conf/ectel/ectel2015.html#MeleroEL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edm/ChenWL15" mdate="2018-02-01">
+<author>Yang Chen 0012</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Jean-Marc Labat</author>
+<title>Discovering Prerequisite Structure of Skills through Probabilistic Association Rules Mining.</title>
+<pages>117-124</pages>
+<year>2015</year>
+<booktitle>EDM</booktitle>
+<crossref>conf/edm/2015</crossref>
+<url>db/conf/edm/edm2015.html#ChenWL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-ic/El-KechaiML15" mdate="2017-02-08">
+<author>Naïma El-Kechaï</author>
+<author>Javier Melero</author>
+<author>Jean-Marc Labat</author>
+<title>Quelques enseignements tirés de l'application de la Competence-based Knowledge Space Theory aux Serious Games.</title>
+<year>2015</year>
+<booktitle>IC</booktitle>
+<crossref>conf/f-ic/2015</crossref>
+<url>db/conf/f-ic/ic2015.html#El-KechaiML15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijlt/MarneL14" mdate="2019-10-19">
+<author orcid="0000-0002-4953-9360">Bertrand Marne</author>
+<author>Jean-Marc Labat</author>
+<title>Model and authoring tool to help teachers adapt serious games to their educational contexts.</title>
+<pages>161-180</pages>
+<year>2014</year>
+<volume>9</volume>
+<journal>IJLT</journal>
+<number>2</number>
+<url>db/journals/ijlt/ijlt9.html#MarneL14</url>
+</article>
+</r>
+<r><article key="journals/sg/MounierYCKL14" mdate="2019-05-22">
+<author>Isabelle Mounier</author>
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<author>Fabrice Kordon</author>
+<author>Jean-Marc Labat</author>
+<title>Formal Framework to improve the reliability of concurrent and collaborative learning games.</title>
+<pages>e4</pages>
+<year>2014</year>
+<volume>1</volume>
+<number>2</number>
+<journal>EAI Endorsed Trans. Serious Games</journal>
+<ee type="oa">https://doi.org/10.4108/sg.1.2.e4</ee>
+<url>db/journals/sg/sg2.html#MounierYCKL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ectel/YessadMLKC14" mdate="2017-05-24">
+<author>Amel Yessad</author>
+<author>Isabelle Mounier</author>
+<author>Jean-Marc Labat</author>
+<author>Fabrice Kordon</author>
+<author>Thibault Carron</author>
+<title>Have You Found the Error? A Formal Framework for Learning Game Verification.</title>
+<pages>476-481</pages>
+<year>2014</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2014</crossref>
+<url>db/conf/ectel/ectel2014.html#YessadMLKC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/ChenWL14" mdate="2018-02-01">
+<author>Yang Chen 0012</author>
+<author orcid="0000-0003-3691-4886">Pierre-Henri Wuillemin</author>
+<author>Jean-Marc Labat</author>
+<title>Bayesian Student Modeling Improved by Diagnostic Items.</title>
+<pages>144-149</pages>
+<year>2014</year>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<crossref>conf/its/2014</crossref>
+<url>db/conf/its/its2014.html#ChenWL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/Marfisi-SchottmanLC13" mdate="2017-05-23">
+<author>Iza Marfisi-Schottman</author>
+<author>Jean-Marc Labat</author>
+<author>Thibault Carron</author>
+<title>Building on the Case Teaching Method to Generate Learning Games Relevant to Numerous Educational Fields.</title>
+<pages>156-160</pages>
+<year>2013</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2013</crossref>
+<url>db/conf/icalt/icalt2013.html#Marfisi-SchottmanLC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/MarneCLM13" mdate="2019-10-19">
+<author orcid="0000-0002-4953-9360">Bertrand Marne</author>
+<author>Thibault Carron</author>
+<author>Jean-Marc Labat</author>
+<author>Iza Marfisi-Schottman</author>
+<title>MoPPLiq: A Model for Pedagogical Adaptation of Serious Game Scenarios.</title>
+<pages>291-293</pages>
+<year>2013</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2013</crossref>
+<url>db/conf/icalt/icalt2013.html#MarneCLM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwl/YessadCL13" mdate="2017-05-25">
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<author>Jean-Marc Labat</author>
+<title>An Approach to Model and Validate Scenarios of Serious Games in the Design Stage.</title>
+<pages>264-273</pages>
+<year>2013</year>
+<booktitle>ICWL</booktitle>
+<crossref>conf/icwl/2013</crossref>
+<url>db/conf/icwl/icwl2013.html#YessadCL13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Marfisi-SchottmanLC13" mdate="2018-08-13">
+<author>Iza Marfisi-Schottman</author>
+<author>Jean-Marc Labat</author>
+<author>Thibault Carron</author>
+<title>Building on the Case Teaching Method to Generate Learning Games Relevant to Numerous Educational Fields.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1307.7478</ee>
+<volume>abs/1307.7478</volume>
+<url>db/journals/corr/corr1307.html#Marfisi-SchottmanLC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ectel/MarneWHL12" mdate="2017-05-24">
+<author>Bertrand Marne</author>
+<author>John Wisdom</author>
+<author>Benjamin Huynh-Kim-Bang</author>
+<author>Jean-Marc Labat</author>
+<title>The Six Facets of Serious Game Design: A Methodology Enhanced by Our Design Pattern Library.</title>
+<pages>208-221</pages>
+<year>2012</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2012</crossref>
+<url>db/conf/ectel/ectel2012.html#MarneWHL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/MarneWHL12" mdate="2017-05-21">
+<author>Bertrand Marne</author>
+<author>John Wisdom</author>
+<author>Benjamin Huynh-Kim-Bang</author>
+<author>Jean-Marc Labat</author>
+<title>A Design Pattern Library for Mutual Understanding and Cooperation in Serious Game Design.</title>
+<pages>135-140</pages>
+<year>2012</year>
+<booktitle>ITS</booktitle>
+<crossref>conf/its/2012</crossref>
+<url>db/conf/its/its2012.html#MarneWHL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/ThomasLMY12" mdate="2017-05-21">
+<author>Pradeepa Thomas</author>
+<author>Jean-Marc Labat</author>
+<author>Mathieu Muratet</author>
+<author>Amel Yessad</author>
+<title>How to Evaluate Competencies in Game-Based Learning Systems Automatically?</title>
+<pages>168-173</pages>
+<year>2012</year>
+<booktitle>ITS</booktitle>
+<crossref>conf/its/2012</crossref>
+<url>db/conf/its/its2012.html#ThomasLMY12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijlt/BousbiaLBR11" mdate="2017-05-09">
+<author>Nabila Bousbia</author>
+<author>Jean-Marc Labat</author>
+<author>Amar Balla</author>
+<author>Issam Rebaï</author>
+<title>Supervised classification on navigational behaviours in web-based learning systems to identify learning styles.</title>
+<pages>24-45</pages>
+<year>2011</year>
+<volume>6</volume>
+<journal>IJLT</journal>
+<number>1</number>
+<url>db/journals/ijlt/ijlt6.html#BousbiaLBR11</url>
+</article>
+</r>
+<r><inproceedings key="conf/f-ic/YessadL11" mdate="2017-02-06">
+<author>Amel Yessad</author>
+<author>Jean-Marc Labat</author>
+<title>Approche Ontologique pour la Détection de la Pertinence d'une Action dans un Jeu Sérieux.</title>
+<pages>557-572</pages>
+<year>2011</year>
+<booktitle>IC</booktitle>
+<crossref>conf/f-ic/2011</crossref>
+<url>db/conf/f-ic/ic2011.html#YessadL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/ThomasYL11" mdate="2017-05-23">
+<author>Pradeepa Thomas</author>
+<author>Amel Yessad</author>
+<author>Jean-Marc Labat</author>
+<title>Petri Nets and Ontologies: Tools for the "Learning Player" Assessment in Serious Games.</title>
+<pages>415-419</pages>
+<year>2011</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2011</crossref>
+<url>db/conf/icalt/icalt2011.html#ThomasYL11</url>
+</inproceedings>
+</r>
+<r><article key="journals/umuai/BousbiaRLB10" mdate="2018-11-30">
+<author orcid="0000-0001-6777-3567">Nabila Bousbia</author>
+<author>Issam Rebaï</author>
+<author>Jean-Marc Labat</author>
+<author orcid="0000-0001-5387-6864">Amar Balla</author>
+<title>Learners' navigation behavior identification based on trace analysis.</title>
+<pages>455-494</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>User Model. User-Adapt. Interact.</journal>
+<number>5</number>
+<url>db/journals/umuai/umuai20.html#BousbiaRLB10</url>
+</article>
+</r>
+<r><inproceedings key="conf/edm/BousbiaLBR10" mdate="2010-09-21">
+<author>Nabila Bousbia</author>
+<author>Jean-Marc Labat</author>
+<author>Amar Balla</author>
+<author>Issam Rebaï</author>
+<title>Analyzing Learning Styles using Behavioral Indicators in Web based Learning Environments.</title>
+<pages>279-280</pages>
+<year>2010</year>
+<booktitle>EDM</booktitle>
+<crossref>conf/edm/2010</crossref>
+<url>db/conf/edm/edm2010.html#BousbiaLBR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/YessadLK10" mdate="2017-05-23">
+<author>Amel Yessad</author>
+<author>Jean-Marc Labat</author>
+<author>François Kermorvant</author>
+<title>SeGAE: A Serious Game Authoring Environment.</title>
+<pages>538-540</pages>
+<year>2010</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2010</crossref>
+<url>db/conf/icalt/icalt2010.html#YessadLK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwl/YessadTIL10" mdate="2017-05-25">
+<author>Amel Yessad</author>
+<author>Pradeepa Thomas</author>
+<author>Bruno Capdevila Ibáñez</author>
+<author>Jean-Marc Labat</author>
+<title>Using the Petri Nets for the Learner Assessment in Serious Games.</title>
+<pages>339-348</pages>
+<year>2010</year>
+<booktitle>ICWL</booktitle>
+<crossref>conf/icwl/2010</crossref>
+<url>db/conf/icwl/icwl2010.html#YessadTIL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/BousbiaLRB09" mdate="2018-11-02">
+<author orcid="0000-0001-6777-3567">Nabila Bousbia</author>
+<author>Jean-Marc Labat</author>
+<author>Issam Rebaï</author>
+<author orcid="0000-0001-5387-6864">Amar Balla</author>
+<title>Indicators for Deducting the Learners' Learning Styles: Case of the Navigation Typology Indicator.</title>
+<pages>385-389</pages>
+<year>2009</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2009</crossref>
+<url>db/conf/icalt/icalt2009.html#BousbiaLRB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/IbanezBL09" mdate="2017-05-23">
+<author>Bruno Capdevila Ibáñez</author>
+<author>Valérie Boudier</author>
+<author>Jean-Marc Labat</author>
+<title>Knowledge Management Approach to Support a Serious Game Development.</title>
+<pages>420-422</pages>
+<year>2009</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2009</crossref>
+<url>db/conf/icalt/icalt2009.html#IbanezBL09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/iticse/2009" mdate="2009-11-30">
+<editor>Patrick Brézillon</editor>
+<editor>Ingrid Russell</editor>
+<editor>Jean-Marc Labat</editor>
+<title>Proceedings of the 14th Annual SIGCSE Conference on Innovation and Technology in Computer Science Education, ITiCSE 2009, Paris, France, July 6-9, 2009</title>
+<booktitle>ITiCSE</booktitle>
+<publisher>ACM</publisher>
+<year>2009</year>
+<isbn>978-1-60558-381-5</isbn>
+<url>db/conf/iticse/iticse2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijamc/RebaiPL08" mdate="2017-05-20">
+<author>Issam Rebaï</author>
+<author>Brigitte de la Passardière</author>
+<author>Jean-Marc Labat</author>
+<title>To store and retrieve software components for Interactive Learning Environments: the ECR repository.</title>
+<pages>73-95</pages>
+<year>2008</year>
+<volume>2</volume>
+<journal>IJAMC</journal>
+<number>1</number>
+<url>db/journals/ijamc/ijamc2.html#RebaiPL08</url>
+</article>
+</r>
+<r><inproceedings key="conf/edutainment/Labat08" mdate="2017-05-23">
+<author>Jean-Marc Labat</author>
+<title>Designing Virtual Players for Game Simulations in a Pedagogical Environment: A Case Study.</title>
+<pages>487-496</pages>
+<year>2008</year>
+<booktitle>Edutainment</booktitle>
+<crossref>conf/edutainment/2008</crossref>
+<url>db/conf/edutainment/edutainment2008.html#Labat08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/MouletMHL08" mdate="2019-01-21">
+<author>Lucie Moulet</author>
+<author orcid="0000-0003-4449-1705">Olga Mariño</author>
+<author>Richard Hotte</author>
+<author>Jean-Marc Labat</author>
+<title>Framework for a Competency-Driven, Multi-viewpoint, and Evolving Learner Model.</title>
+<pages>702-705</pages>
+<year>2008</year>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<crossref>conf/its/2008</crossref>
+<url>db/conf/its/its2008.html#MouletMHL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/BousbiaLB08" mdate="2017-05-21">
+<author>Nabila Bousbia</author>
+<author>Jean-Marc Labat</author>
+<author>Amar Balla</author>
+<title>Detection of Learning Styles from Learner's Browsing Behavior During E-Learning Activities.</title>
+<pages>740-742</pages>
+<year>2008</year>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<crossref>conf/its/2008</crossref>
+<url>db/conf/its/its2008.html#BousbiaLB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/HibouL07" mdate="2009-02-12">
+<author>Mathieu Hibou</author>
+<author>Jean-Marc Labat</author>
+<title>Using Multinets for Learner Modelling.</title>
+<pages>575-577</pages>
+<year>2007</year>
+<booktitle>AIED</booktitle>
+<crossref>conf/aied/2007</crossref>
+<url>db/conf/aied/aied2007.html#HibouL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/HibouL07" mdate="2017-05-23">
+<author>Mathieu Hibou</author>
+<author>Jean-Marc Labat</author>
+<title>To improve Bayesian Network Learner Modelling thanks to Multinet.</title>
+<pages>783-787</pages>
+<year>2007</year>
+<crossref>conf/icalt/2007</crossref>
+<booktitle>ICALT</booktitle>
+<url>db/conf/icalt/icalt2007.html#HibouL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/LabatPPFRS07" mdate="2017-05-23">
+<author>Jean-Marc Labat</author>
+<author>Pierre Pastré</author>
+<author>Pierre Parage</author>
+<author>Michel Futtersack</author>
+<author>Jean-François Richard</author>
+<author>Emmanuel Sander</author>
+<title>Two different methods to analyze the strategies of problem solving in a natural situation using a simulator: A case study.</title>
+<pages>828-832</pages>
+<year>2007</year>
+<crossref>conf/icalt/2007</crossref>
+<booktitle>ICALT</booktitle>
+<url>db/conf/icalt/icalt2007.html#LabatPPFRS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/HibouL06" mdate="2017-05-10">
+<author>Mathieu Hibou</author>
+<author>Jean-Marc Labat</author>
+<title>How to Orientate Arcs in a Bayesian Network Based Student Model?.</title>
+<pages>560-562</pages>
+<year>2006</year>
+<crossref>conf/icalt/2006</crossref>
+<booktitle>ICALT</booktitle>
+<url>db/conf/icalt/icalt2006.html#HibouL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/HakemSLR05" mdate="2012-03-13">
+<author>Khider Hakem</author>
+<author>Emmanuel Sander</author>
+<author>Jean-Marc Labat</author>
+<author>Jean-François Richard</author>
+<title>DIANE, a diagnosis system for arithmetical problem solving.</title>
+<pages>258-265</pages>
+<year>2005</year>
+<booktitle>AIED</booktitle>
+<crossref>conf/aied/2005</crossref>
+<url>db/conf/aied/aied2005.html#HakemSLR05</url>
+</inproceedings>
+</r>
+<r><article key="journals/heuristics/LabatP03" mdate="2017-05-18">
+<author>Jean-Marc Labat</author>
+<author>Jean-Charles Pomerol</author>
+<title>Are Branch and Bound and A* Algorithms Identical?</title>
+<pages>131-143</pages>
+<year>2003</year>
+<volume>9</volume>
+<journal>J. Heuristics</journal>
+<number>2</number>
+<url>db/journals/heuristics/heuristics9.html#LabatP03</url>
+</article>
+</r>
+<r><article key="journals/ria/Labat01" mdate="2013-06-18">
+<author>Jean-Marc Labat</author>
+<title>Jeux et compétition en IA.</title>
+<pages>277-278</pages>
+<year>2001</year>
+<volume>15</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>2</number>
+<url>db/journals/ria/ria15.html#Labat01</url>
+</article>
+</r>
+<r><inproceedings key="conf/cp/LabatM97" mdate="2017-05-17">
+<author>Jean-Marc Labat</author>
+<author>Laurent Mynard</author>
+<title>Oscillation, Heuristic Ordering and Pruning in Neighborhood Search.</title>
+<pages>506-518</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#LabatM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip8-3/PomerolFL93" mdate="2002-02-22">
+<author>Jean-Charles Pomerol</author>
+<author>Michel Futtersack</author>
+<author>Jean-Marc Labat</author>
+<title>Decision Support System in an Administrative Context: The case of the Reinsertion of Long-Term Unemployed in France.</title>
+<pages>133-147</pages>
+<year>1993</year>
+<crossref>conf/ifip8-3/1993</crossref>
+<booktitle>Decision Support in Public Administration</booktitle>
+<url>db/conf/ifip8-3/ifip8-3-1993.html#PomerolFL93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccal/FuttersackL92" mdate="2017-05-20">
+<author>Michel Futtersack</author>
+<author>Jean-Marc Labat</author>
+<title>QUIZ, a Distributed Intelligent Tutoring System.</title>
+<pages>225-237</pages>
+<year>1992</year>
+<crossref>conf/iccal/1992</crossref>
+<booktitle>ICCAL</booktitle>
+<url>db/conf/iccal/iccal1992.html#FuttersackL92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/LabatFV92" mdate="2017-05-20">
+<author>Jean-Marc Labat</author>
+<author>Michel Futtersack</author>
+<author>Martial Vivet</author>
+<title>Planification Pédagogique: de l'Expertise Humaine à sa Modélisation dans un STI.</title>
+<pages>515-522</pages>
+<year>1992</year>
+<crossref>conf/its/1992</crossref>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<url>db/conf/its/its1992.html#LabatFV92</url>
+</inproceedings>
+</r>
+<coauthors n="43" nc="4">
+<co c="2"><na f="b/Balla:Amar">Amar Balla</na></co>
+<co c="0"><na f="b/Bouchet:Fran=ccedil=ois">François Bouchet</na></co>
+<co c="0"><na f="b/Boudier:Val=eacute=rie">Valérie Boudier</na></co>
+<co c="2"><na f="b/Bousbia:Nabila">Nabila Bousbia</na></co>
+<co c="1"><na f="b/Br=eacute=zillon:Patrick">Patrick Brézillon</na></co>
+<co c="0"><na f="c/Carron:Thibault">Thibault Carron</na></co>
+<co c="0"><na f="c/Chen_0012:Yang">Yang Chen 0012</na></co>
+<co c="0"><na f="e/El=Kecha=iuml=:Na=iuml=ma">Naïma El-Kechaï</na></co>
+<co c="0"><na f="f/Fleury:Anthony">Anthony Fleury</na></co>
+<co c="1"><na f="f/Futtersack:Michel">Michel Futtersack</na></co>
+<co c="0"><na f="g/Guigon:Ga=euml=lle">Gaëlle Guigon</na></co>
+<co c="1"><na f="h/Hakem:Khider">Khider Hakem</na></co>
+<co c="-1"><na f="h/Hibou:Mathieu">Mathieu Hibou</na></co>
+<co c="3"><na f="h/Hotte:Richard">Richard Hotte</na></co>
+<co c="0"><na f="h/Huynh=Kim=Bang:Benjamin">Benjamin Huynh-Kim-Bang</na></co>
+<co c="0"><na f="i/Ib=aacute==ntilde=ez:Bruno_Capdevila">Bruno Capdevila Ibáñez</na></co>
+<co c="0"><na f="k/Karami:Abir=Beatrice">Abir-Beatrice Karami</na></co>
+<co c="0"><na f="k/Kermorvant:Fran=ccedil=ois">François Kermorvant</na></co>
+<co c="0"><na f="k/Kordon:Fabrice">Fabrice Kordon</na></co>
+<co c="0"><na f="l/Laval:Jannik">Jannik Laval</na></co>
+<co c="0"><na f="m/Mandran:Nadine">Nadine Mandran</na></co>
+<co c="0"><na f="m/Marfisi=Schottman:Iza">Iza Marfisi-Schottman</na></co>
+<co c="3"><na f="m/Mari=ntilde=o:Olga">Olga Mariño</na></co>
+<co c="0"><na f="m/Marne:Bertrand">Bertrand Marne</na></co>
+<co c="0"><na f="m/Melero:Javier">Javier Melero</na></co>
+<co c="3"><na f="m/Moulet:Lucie">Lucie Moulet</na></co>
+<co c="0"><na f="m/Mounier:Isabelle">Isabelle Mounier</na></co>
+<co c="0"><na f="m/Muratet:Mathieu">Mathieu Muratet</na></co>
+<co c="-1"><na f="m/Mynard:Laurent">Laurent Mynard</na></co>
+<co c="1"><na f="p/Parage:Pierre">Pierre Parage</na></co>
+<co c="2"><na f="p/Passardi=egrave=re:Brigitte_de_la">Brigitte de la Passardière</na></co>
+<co c="1"><na f="p/Pastr=eacute=:Pierre">Pierre Pastré</na></co>
+<co c="1"><na f="p/Pomerol:Jean=Charles">Jean-Charles Pomerol</na></co>
+<co c="2"><na f="r/Reba=iuml=:Issam">Issam Rebaï</na></co>
+<co c="1"><na f="r/Richard:Jean=Fran=ccedil=ois">Jean-François Richard</na></co>
+<co c="1"><na f="r/Russell:Ingrid">Ingrid Russell</na></co>
+<co c="1"><na f="s/Sander:Emmanuel">Emmanuel Sander</na></co>
+<co c="0"><na f="t/Thomas:Pradeepa">Pradeepa Thomas</na></co>
+<co c="0"><na f="v/Vermeulen:Mathieu">Mathieu Vermeulen</na></co>
+<co c="1"><na f="v/Vivet:Martial">Martial Vivet</na></co>
+<co c="0"><na f="w/Wisdom:John">John Wisdom</na></co>
+<co c="0"><na f="w/Wuillemin:Pierre=Henri">Pierre-Henri Wuillemin</na></co>
+<co c="0"><na f="y/Yessad:Amel">Amel Yessad</na></co>
+</coauthors>
+</dblpperson>
+

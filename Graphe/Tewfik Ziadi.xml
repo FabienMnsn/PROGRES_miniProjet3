@@ -1,0 +1,740 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Tewfik Ziadi" n="48">
+<person key="homepages/54/4415" mdate="2009-06-10">
+<author>Tewfik Ziadi</author>
+</person>
+<r><inproceedings key="conf/ecsa/KerdoudiZTS19" mdate="2019-09-18">
+<author>Mohamed Lamine Kerdoudi</author>
+<author>Tewfik Ziadi</author>
+<author>Chouki Tibermacine</author>
+<author>Salah Sadou</author>
+<title>A bottom-up approach for reconstructing software architecture product lines.</title>
+<pages>46-49</pages>
+<year>2019</year>
+<booktitle>ECSA (Companion)</booktitle>
+<crossref>conf/ecsa/2019c</crossref>
+<url>db/conf/ecsa/ecsa2019c.html#KerdoudiZTS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/KerdoudiZTS19" mdate="2019-10-31">
+<author>Mohamed Lamine Kerdoudi</author>
+<author>Tewfik Ziadi</author>
+<author>Chouki Tibermacine</author>
+<author>Salah Sadou</author>
+<title>Recovering Software Architecture Product Lines.</title>
+<pages>226-235</pages>
+<year>2019</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2019</crossref>
+<url>db/conf/iceccs/iceccs2019.html#KerdoudiZTS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/AcherZLM19" mdate="2019-08-09">
+<author>Mathieu Acher</author>
+<author>Tewfik Ziadi</author>
+<author>Roberto E. Lopez-Herrejon</author>
+<author>Jabier Martinez</author>
+<title>Seventh international workshop on reverse variability engineering (REVE 2019).</title>
+<pages>47:1</pages>
+<year>2019</year>
+<booktitle>SPLC (A)</booktitle>
+<crossref>conf/splc/2019a</crossref>
+<url>db/conf/splc/splc2019a.html#AcherZLM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tools/SadovykhZBBSRMG19" mdate="2019-10-08">
+<author>Andrey Sadovykh</author>
+<author>Tewfik Ziadi</author>
+<author>Alessandra Bagnato</author>
+<author>Thorsten Berger</author>
+<author>Jan-Philipp Steghöfer</author>
+<author>Jacques Robin</author>
+<author>Raúl Mazo</author>
+<author>Elena Gallego</author>
+<title>REVaMP2 Project: Towards Round-Trip Engineering of Software Product Lines - Approach, Intermediate Results and Challenges.</title>
+<pages>406-417</pages>
+<year>2019</year>
+<booktitle>TOOLS</booktitle>
+<crossref>conf/tools/2019</crossref>
+<url>db/conf/tools/tools2019.html#SadovykhZBBSRMG19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/splc/2019a" mdate="2019-08-09">
+<editor>Thorsten Berger</editor>
+<editor>Philippe Collet</editor>
+<editor>Laurence Duchien</editor>
+<editor>Thomas Fogdal</editor>
+<editor>Patrick Heymans</editor>
+<editor>Timo Kehrer</editor>
+<editor>Jabier Martinez</editor>
+<editor>Raúl Mazo</editor>
+<editor>Leticia Montalvillo</editor>
+<editor>Camille Salinesi</editor>
+<editor>Xhevahire Tërnava</editor>
+<editor>Thomas Thüm</editor>
+<editor>Tewfik Ziadi</editor>
+<title>Proceedings of the 23rd International Systems and Software Product Line Conference, SPLC 2019, Volume A, Paris, France, September 9-13, 2019</title>
+<publisher>ACM</publisher>
+<booktitle>SPLC (A)</booktitle>
+<year>2019</year>
+<isbn>978-1-4503-7138-4</isbn>
+<url>db/conf/splc/splc2019a.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/splc/2019b" mdate="2019-08-09">
+<editor>Carlos Cetina</editor>
+<editor>Oscar Díaz</editor>
+<editor>Laurence Duchien</editor>
+<editor>Marianne Huchard</editor>
+<editor>Rick Rabiser</editor>
+<editor>Camille Salinesi</editor>
+<editor>Christoph Seidl</editor>
+<editor>Xhevahire Tërnava</editor>
+<editor>Leopoldo Teixeira</editor>
+<editor>Thomas Thüm</editor>
+<editor>Tewfik Ziadi</editor>
+<title>Proceedings of the 23rd International Systems and Software Product Line Conference, SPLC 2019, Volume B, Paris, France, September 9-13, 2019</title>
+<publisher>ACM</publisher>
+<booktitle>SPLC (B)</booktitle>
+<year>2019</year>
+<isbn>978-1-4503-6668-7</isbn>
+<url>db/conf/splc/splc2019b.html</url>
+</proceedings>
+</r>
+<r><article key="journals/infsof/MartinezZPBKT18" mdate="2018-11-02">
+<author orcid="0000-0001-8742-9640">Jabier Martinez</author>
+<author orcid="0000-0001-9241-8276">Tewfik Ziadi</author>
+<author>Mike Papadakis</author>
+<author>Tegawendé F. Bissyandé</author>
+<author>Jacques Klein</author>
+<author>Yves Le Traon</author>
+<title>Feature location benchmark for extractive software product line adoption research using realistic and synthetic Eclipse variants.</title>
+<pages>46-59</pages>
+<year>2018</year>
+<volume>104</volume>
+<journal>Information and Software Technology</journal>
+<url>db/journals/infsof/infsof104.html#MartinezZPBKT18</url>
+</article>
+</r>
+<r><inproceedings key="conf/iceccs/ZiadiH18" mdate="2019-02-11">
+<author>Tewfik Ziadi</author>
+<author>Lom-Messan Hillah</author>
+<title>Software Product Line Extraction from Bytecode Based Applications.</title>
+<pages>221-225</pages>
+<year>2018</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2018</crossref>
+<url>db/conf/iceccs/iceccs2018.html#ZiadiH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsr/MartinezSFBZKTA18" mdate="2018-05-11">
+<author>Jabier Martinez</author>
+<author>Jean-Sébastien Sottet</author>
+<author>Alfonso García Frey</author>
+<author>Tegawendé F. Bissyandé</author>
+<author>Tewfik Ziadi</author>
+<author>Jacques Klein</author>
+<author>Paul Temple</author>
+<author>Mathieu Acher</author>
+<author>Yves Le Traon</author>
+<title>Towards Estimating and Predicting User Perception on Software Product Variants.</title>
+<pages>23-40</pages>
+<year>2018</year>
+<booktitle>ICSR</booktitle>
+<crossref>conf/icsr/2018</crossref>
+<url>db/conf/icsr/icsr2018.html#MartinezSFBZKTA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/ZiadiMT18" mdate="2018-11-21">
+<author>Tewfik Ziadi</author>
+<author>Jabier Martinez</author>
+<author>Xhevahire Tërnava</author>
+<title>Teaching projects and research objectives in SPL extraction.</title>
+<pages>44-45</pages>
+<year>2018</year>
+<booktitle>SPLC (2)</booktitle>
+<crossref>conf/splc/2018-2</crossref>
+<url>db/conf/splc/splc2018-2.html#ZiadiMT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/MartinezTZ18" mdate="2018-11-21">
+<author>Jabier Martinez</author>
+<author>Xhevahire Tërnava</author>
+<author>Tewfik Ziadi</author>
+<title>Software product line extraction from variability-rich systems: the robocode case study.</title>
+<pages>132-142</pages>
+<year>2018</year>
+<booktitle>SPLC</booktitle>
+<crossref>conf/splc/2018-1</crossref>
+<url>db/conf/splc/splc2018-1.html#MartinezTZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/MartinezOTZAFV18" mdate="2018-11-21">
+<author>Jabier Martinez</author>
+<author>Nicolas Ordoñez</author>
+<author>Xhevahire Tërnava</author>
+<author>Tewfik Ziadi</author>
+<author>Jairo Aponte</author>
+<author>Eduardo Figueiredo</author>
+<author>Marco Tulio Valente</author>
+<title>Feature location benchmark with argoUML SPL.</title>
+<pages>257-263</pages>
+<year>2018</year>
+<booktitle>SPLC</booktitle>
+<crossref>conf/splc/2018-1</crossref>
+<url>db/conf/splc/splc2018-1.html#MartinezOTZAFV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/ZiadiLAM18" mdate="2018-11-21">
+<author>Tewfik Ziadi</author>
+<author>Roberto E. Lopez-Herrejon</author>
+<author>Mathieu Acher</author>
+<author>Jabier Martinez</author>
+<title>REVE 2018: 6th international workshop on reverse variability engineering.</title>
+<pages>296</pages>
+<year>2018</year>
+<booktitle>SPLC</booktitle>
+<crossref>conf/splc/2018-1</crossref>
+<url>db/conf/splc/splc2018-1.html#ZiadiLAM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vamos/AcherTJGMZ18" mdate="2018-11-06">
+<author>Mathieu Acher</author>
+<author>Paul Temple</author>
+<author>Jean-Marc Jézéquel</author>
+<author>José A. Galindo</author>
+<author>Jabier Martinez</author>
+<author>Tewfik Ziadi</author>
+<title>VaryLATEX: Learning Paper Variants That Meet Constraints.</title>
+<pages>83-88</pages>
+<year>2018</year>
+<booktitle>VaMoS</booktitle>
+<crossref>conf/vamos/2018</crossref>
+<url>db/conf/vamos/vamos2018.html#AcherTJGMZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BoufedjiGBZM17" mdate="2018-11-02">
+<author>Dounia Boufedji</author>
+<author>Zahia Guessoum</author>
+<author orcid="0000-0001-8992-4768">Anarosa Brandão</author>
+<author>Tewfik Ziadi</author>
+<author>Aïcha Mokhtari</author>
+<title>Towards a MAS Product Line Engineering Approach.</title>
+<pages>161-179</pages>
+<year>2017</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<crossref>conf/atal/2017emas</crossref>
+<url>db/conf/atal/emas2017.html#BoufedjiGBZM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/CasareZBG17" mdate="2019-12-27">
+<author>Sara J. Casare</author>
+<author>Tewfik Ziadi</author>
+<author orcid="0000-0001-8992-4768">Anarosa A. F. Brandão</author>
+<author>Zahia Guessoum</author>
+<title>An Automated Approach to Manage MAS-Product Line Methods.</title>
+<pages>180-197</pages>
+<year>2017</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<crossref>conf/atal/2017emas</crossref>
+<url>db/conf/atal/emas2017.html#CasareZBG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/MartinezZBKT17" mdate="2019-02-12">
+<author>Jabier Martinez</author>
+<author>Tewfik Ziadi</author>
+<author>Tegawendé F. Bissyandé</author>
+<author>Jacques Klein</author>
+<author>Yves Le Traon</author>
+<title>Bottom-up technologies for reuse: automated extractive adoption of software product lines.</title>
+<pages>67-70</pages>
+<year>2017</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<crossref>conf/icse/2017c</crossref>
+<url>db/conf/icse/icse2017c.html#MartinezZBKT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/MartinezAZ17" mdate="2018-11-06">
+<author>Jabier Martinez</author>
+<author>Wesley K. G. Assunção</author>
+<author>Tewfik Ziadi</author>
+<title>ESPLA: A Catalog of Extractive SPL Adoption Case Studies.</title>
+<pages>38-41</pages>
+<year>2017</year>
+<booktitle>SPLC (B)</booktitle>
+<crossref>conf/splc/2017b</crossref>
+<url>db/conf/splc/splc2017b.html#MartinezAZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/MartinezLZA17" mdate="2018-11-06">
+<author>Jabier Martinez</author>
+<author>Roberto E. Lopez-Herrejon</author>
+<author>Tewfik Ziadi</author>
+<author>Mathieu Acher</author>
+<title>REVE 2017: 5th International Workshop on REverse Variability Engineering.</title>
+<pages>245</pages>
+<year>2017</year>
+<booktitle>SPLC (A)</booktitle>
+<crossref>conf/splc/2017a</crossref>
+<url>db/conf/splc/splc2017a.html#MartinezLZA17</url>
+</inproceedings>
+</r>
+<r><incollection key="series/hci/MartinezSFZBVKT17" mdate="2017-10-24">
+<author>Jabier Martinez</author>
+<author>Jean-Sébastien Sottet</author>
+<author>Alfonso García Frey</author>
+<author>Tewfik Ziadi</author>
+<author>Tegawendé F. Bissyandé</author>
+<author>Jean Vanderdonckt</author>
+<author>Jacques Klein</author>
+<author>Yves Le Traon</author>
+<title>Variability Management and Assessment for User Interface Design.</title>
+<pages>81-106</pages>
+<year>2017</year>
+<booktitle>Human Centered Software Product Lines</booktitle>
+<crossref>series/hci/Sottet2017</crossref>
+<url>db/series/hci/Sottet2017.html#MartinezSFZBVKT17</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/iceccs/CasareZBG16" mdate="2017-09-16">
+<author>Sara J. Casare</author>
+<author>Tewfik Ziadi</author>
+<author orcid="0000-0001-8992-4768">Anarosa Alves Franco Brandão</author>
+<author>Zahia Guessoum</author>
+<title>Meduse: An Approach for Tailoring Software Development Process.</title>
+<pages>197-200</pages>
+<year>2016</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2016</crossref>
+<url>db/conf/iceccs/iceccs2016.html#CasareZBG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsr/MartinezZPBKT16" mdate="2017-05-23">
+<author>Jabier Martinez</author>
+<author>Tewfik Ziadi</author>
+<author>Mike Papadakis</author>
+<author>Tegawendé F. Bissyandé</author>
+<author>Jacques Klein</author>
+<author>Yves Le Traon</author>
+<title>Feature Location Benchmark for Software Families Using Eclipse Community Releases.</title>
+<pages>267-283</pages>
+<year>2016</year>
+<booktitle>ICSR</booktitle>
+<crossref>conf/icsr/2016</crossref>
+<url>db/conf/icsr/icsr2016.html#MartinezZPBKT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/MartinezZBKT16" mdate="2018-11-06">
+<author>Jabier Martinez</author>
+<author>Tewfik Ziadi</author>
+<author>Tegawendé F. Bissyandé</author>
+<author>Jacques Klein</author>
+<author>Yves Le Traon</author>
+<title>Name suggestions during feature identification: the variclouds approach.</title>
+<pages>119-123</pages>
+<year>2016</year>
+<booktitle>SPLC</booktitle>
+<crossref>conf/splc/2016</crossref>
+<url>db/conf/splc/splc2016.html#MartinezZBKT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/0029MZBKT16" mdate="2018-11-06">
+<author>Li Li 0029</author>
+<author>Jabier Martinez</author>
+<author>Tewfik Ziadi</author>
+<author>Tegawendé F. Bissyandé</author>
+<author>Jacques Klein</author>
+<author>Yves Le Traon</author>
+<title>Mining families of android applications for extractive SPL adoption.</title>
+<pages>271-275</pages>
+<year>2016</year>
+<booktitle>SPLC</booktitle>
+<crossref>conf/splc/2016</crossref>
+<url>db/conf/splc/splc2016.html#0029MZBKT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/Lopez-HerrejonM16" mdate="2018-11-06">
+<author>Roberto Erick Lopez-Herrejon</author>
+<author>Jabier Martinez</author>
+<author>Tewfik Ziadi</author>
+<author>Mathieu Acher</author>
+<title>Fourth international workshop on reverse variability engineering (REVE 2016).</title>
+<pages>345</pages>
+<year>2016</year>
+<booktitle>SPLC</booktitle>
+<crossref>conf/splc/2016</crossref>
+<url>db/conf/splc/splc2016.html#Lopez-HerrejonM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/LamprierBZH15" mdate="2017-05-17">
+<author>Sylvain Lamprier</author>
+<author>Nicolas Baskiotis</author>
+<author>Tewfik Ziadi</author>
+<author>Lom-Messan Hillah</author>
+<title>The CARE platform for the analysis of behavior model inference techniques.</title>
+<pages>32-50</pages>
+<year>2015</year>
+<volume>60</volume>
+<journal>Information and Software Technology</journal>
+<url>db/journals/infsof/infsof60.html#LamprierBZH15</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/MartinezRZBKT15" mdate="2018-11-06">
+<author>Jabier Martinez</author>
+<author>Gabriele Rossi</author>
+<author>Tewfik Ziadi</author>
+<author>Tegawendé François D. Assise Bissyandé</author>
+<author>Jacques Klein</author>
+<author>Yves Le Traon</author>
+<title>Estimating and Predicting Average Likability on Computer-Generated Artwork Variants.</title>
+<pages>1431-1432</pages>
+<year>2015</year>
+<booktitle>GECCO (Companion)</booktitle>
+<crossref>conf/gecco/2015c</crossref>
+<url>db/conf/gecco/gecco2015c.html#MartinezRZBKT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/BrandaoZGB15" mdate="2015-09-30">
+<author>Anarosa A. F. Brandão</author>
+<author>Tewfik Ziadi</author>
+<author>Zahia Guessoum</author>
+<author>Dounia Boufedji</author>
+<title>Vers une approche d'ingénierie multiagent à base de ligne de produits logiciels (présentation courte).</title>
+<pages>49-58</pages>
+<year>2015</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2015</crossref>
+<url>db/conf/jfsma/jfsma2015.html#BrandaoZGB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/MartinezZBKT15" mdate="2019-07-11">
+<author>Jabier Martinez</author>
+<author>Tewfik Ziadi</author>
+<author>Tegawendé F. Bissyandé</author>
+<author>Jacques Klein</author>
+<author>Yves Le Traon</author>
+<title>Automating the Extraction of Model-Based Software Product Lines from Model Variants (T).</title>
+<pages>396-406</pages>
+<year>2015</year>
+<booktitle>ASE</booktitle>
+<crossref>conf/kbse/2015</crossref>
+<url>db/conf/kbse/ase2015.html#MartinezZBKT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/MartinezZBKT15" mdate="2018-11-06">
+<author>Jabier Martinez</author>
+<author>Tewfik Ziadi</author>
+<author>Tegawendé F. Bissyandé</author>
+<author>Jacques Klein</author>
+<author>Yves Le Traon</author>
+<title>Bottom-up adoption of software product lines: a generic and extensible approach.</title>
+<pages>101-110</pages>
+<year>2015</year>
+<booktitle>SPLC</booktitle>
+<crossref>conf/splc/2015</crossref>
+<url>db/conf/splc/splc2015.html#MartinezZBKT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/Lopez-HerrejonZ15" mdate="2018-11-06">
+<author>Roberto E. Lopez-Herrejon</author>
+<author>Tewfik Ziadi</author>
+<author>Jabier Martinez</author>
+<author>Anil Kumar Thurimella</author>
+<author>Mathieu Acher</author>
+<title>Third International Workshop on Reverse Variability Engineering (REVE 2015).</title>
+<pages>394</pages>
+<year>2015</year>
+<booktitle>SPLC</booktitle>
+<crossref>conf/splc/2015</crossref>
+<url>db/conf/splc/splc2015.html#Lopez-HerrejonZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecmdafa/MartinezZKT14" mdate="2017-05-22">
+<author>Jabier Martinez</author>
+<author>Tewfik Ziadi</author>
+<author>Jacques Klein</author>
+<author>Yves Le Traon</author>
+<title>Identifying and Visualising Commonality and Variability in Model Variants.</title>
+<pages>117-131</pages>
+<year>2014</year>
+<booktitle>ECMFA</booktitle>
+<crossref>conf/ecmdafa/2014</crossref>
+<url>db/conf/ecmdafa/ecmfa2014.html#MartinezZKT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/LamprierZBH14" mdate="2017-05-26">
+<author>Sylvain Lamprier</author>
+<author>Tewfik Ziadi</author>
+<author>Nicolas Baskiotis</author>
+<author>Lom-Messan Hillah</author>
+<title>Exact and Efficient Temporal Steering of Software Behavioral Model Inference.</title>
+<pages>166-175</pages>
+<year>2014</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2014</crossref>
+<url>db/conf/iceccs/iceccs2014.html#LamprierZBH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/LajmiMZ14" mdate="2019-05-28">
+<author>Amine Lajmi</author>
+<author>Jabier Martinez</author>
+<author>Tewfik Ziadi</author>
+<title>DSLFORGE: Textual Modeling on the Web.</title>
+<year>2014</year>
+<booktitle>Demos@MoDELS</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1255/paper5.pdf</ee>
+<crossref>conf/models/2014d</crossref>
+<url>db/conf/models/demos2014.html#LajmiMZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/ZiadiHPZT14" mdate="2018-11-06">
+<author>Tewfik Ziadi</author>
+<author>Christopher Henard</author>
+<author>Mike Papadakis</author>
+<author>Mikal Ziane</author>
+<author>Yves Le Traon</author>
+<title>Towards a language-independent approach for reverse-engineering of software product lines.</title>
+<pages>1064-1071</pages>
+<year>2014</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2014</crossref>
+<url>db/conf/sac/sac2014.html#ZiadiHPZT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/Lopez-HerrejonZMT14" mdate="2018-11-06">
+<author>Roberto E. Lopez-Herrejon</author>
+<author>Tewfik Ziadi</author>
+<author>Jabier Martinez</author>
+<author>Anil Kumar Thurimella</author>
+<title>Second International Workshop on Reverse Variability Engineering (REVE 2014).</title>
+<pages>354</pages>
+<year>2014</year>
+<booktitle>SPLC</booktitle>
+<crossref>conf/splc/2014</crossref>
+<url>db/conf/splc/splc2014.html#Lopez-HerrejonZMT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vissoft/MartinezZMBKT14" mdate="2017-05-25">
+<author>Jabier Martinez</author>
+<author>Tewfik Ziadi</author>
+<author>Raúl Mazo</author>
+<author>Tegawendé F. Bissyandé</author>
+<author>Jacques Klein</author>
+<author>Yves Le Traon</author>
+<title>Feature Relations Graphs: A Visualisation Paradigm for Feature Constraints in Software Product Lines.</title>
+<pages>50-59</pages>
+<year>2014</year>
+<booktitle>VISSOFT</booktitle>
+<crossref>conf/vissoft/2014</crossref>
+<url>db/conf/vissoft/vissoft2014.html#MartinezZMBKT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/LamprierBZH13" mdate="2017-05-26">
+<author>Sylvain Lamprier</author>
+<author>Nicolas Baskiotis</author>
+<author>Tewfik Ziadi</author>
+<author>Lom-Messan Hillah</author>
+<title>CARE: A Platform for Reliable Comparison and Analysis of Reverse-Engineering Techniques.</title>
+<pages>252-255</pages>
+<year>2013</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2013</crossref>
+<url>db/conf/iceccs/iceccs2013.html#LamprierBZH13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KchirZZS13" mdate="2018-08-13">
+<author>Selma Kchir</author>
+<author>Tewfik Ziadi</author>
+<author>Mikal Ziane</author>
+<author>Serge Stinckwich</author>
+<title>A Top-Down Approach to Managing Variability in Robotics Algorithms.</title>
+<year>2013</year>
+<volume>abs/1312.7572</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1312.7572</ee>
+<url>db/journals/corr/corr1312.html#KchirZZS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/csmr/ZiadiFSZ12" mdate="2017-05-24">
+<author>Tewfik Ziadi</author>
+<author>Luz Frias</author>
+<author>Marcos Aurélio Almeida da Silva</author>
+<author>Mikal Ziane</author>
+<title>Feature Identification from the Source Code of Product Variants.</title>
+<pages>417-422</pages>
+<year>2012</year>
+<booktitle>CSMR</booktitle>
+<crossref>conf/csmr/2012</crossref>
+<url>db/conf/csmr/csmr2012.html#ZiadiFSZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simpar/DhouibKSZZ12" mdate="2017-05-19">
+<author>Saadia Dhouib</author>
+<author>Selma Kchir</author>
+<author>Serge Stinckwich</author>
+<author>Tewfik Ziadi</author>
+<author>Mikal Ziane</author>
+<title>RobotML, a Domain-Specific Language to Design, Simulate and Deploy Robotic Applications.</title>
+<pages>149-160</pages>
+<year>2012</year>
+<booktitle>SIMPAR</booktitle>
+<crossref>conf/simpar/2012</crossref>
+<url>db/conf/simpar/simpar2012.html#DhouibKSZZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/ZiadiSHZ11" mdate="2017-05-26">
+<author>Tewfik Ziadi</author>
+<author>Marcos Aurélio Almeida da Silva</author>
+<author>Lom-Messan Hillah</author>
+<author>Mikal Ziane</author>
+<title>A Fully Dynamic Approach to the Reverse Engineering of UML Sequence Diagrams.</title>
+<pages>107-116</pages>
+<year>2011</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2011</crossref>
+<url>db/conf/iceccs/iceccs2011.html#ZiadiSHZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LajmiZZC10" mdate="2018-11-06">
+<author>Amine Lajmi</author>
+<author>Mikal Ziane</author>
+<author>Tewfik Ziadi</author>
+<author>Sylvie Cauvin</author>
+<title>A multi-view model-driven approach for packaging software components.</title>
+<pages>2297-2304</pages>
+<year>2010</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2010</crossref>
+<url>db/conf/sac/sac2010.html#LajmiZZC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/ZiadiBR09" mdate="2017-11-21">
+<author>Tewfik Ziadi</author>
+<author>Xavier Blanc 0001</author>
+<author>Amine Raji</author>
+<title>From Requirements to Code Revisited.</title>
+<pages>228-235</pages>
+<year>2009</year>
+<booktitle>ISORC</booktitle>
+<crossref>conf/isorc/2009</crossref>
+<url>db/conf/isorc/isorc2009.html#ZiadiBR09</url>
+</inproceedings>
+</r>
+<r><incollection key="conf/splc/ZiadiJ06" mdate="2017-05-21">
+<author>Tewfik Ziadi</author>
+<author>Jean-Marc Jézéquel</author>
+<title>Software Product Line Engineering with the UML: Deriving Products.</title>
+<pages>557-588</pages>
+<year>2006</year>
+<crossref>conf/splc/2006book</crossref>
+<booktitle>Software Product Lines</booktitle>
+<url>db/conf/splc/splBook2006.html#ZiadiJ06</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/icse/ZiadiHJ04" mdate="2017-05-23">
+<author>Tewfik Ziadi</author>
+<author>Loïc Hélouët</author>
+<author>Jean-Marc Jézéquel</author>
+<title>Revisiting Statechart Synthesis with an Algebraic Approach.</title>
+<pages>242-251</pages>
+<year>2004</year>
+<crossref>conf/icse/2004</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse2004.html#ZiadiHJ04</url>
+</inproceedings>
+</r>
+<r><article key="journals/Lobjet/ZiadiHJ03" mdate="2017-05-27">
+<author>Tewfik Ziadi</author>
+<author>Loïc Hélouët</author>
+<author>Jean-Marc Jézéquel</author>
+<title>Modélisation de lignes de produits en UML.</title>
+<pages>227-240</pages>
+<year>2003</year>
+<volume>9</volume>
+<journal>L'OBJET</journal>
+<number>1-2</number>
+<url>db/journals/Lobjet/Lobjet9.html#ZiadiHJ03</url>
+</article>
+</r>
+<r><inproceedings key="conf/pfe/ZiadiHJ03" mdate="2017-05-23">
+<author>Tewfik Ziadi</author>
+<author>Loïc Hélouët</author>
+<author>Jean-Marc Jézéquel</author>
+<title>Towards a UML Profile for Software Product Lines.</title>
+<pages>129-139</pages>
+<year>2003</year>
+<crossref>conf/pfe/2003</crossref>
+<booktitle>PFE</booktitle>
+<url>db/conf/pfe/pfe2003.html#ZiadiHJ03</url>
+</inproceedings>
+</r>
+<coauthors n="66" nc="1">
+<co c="0"><na f="a/Acher:Mathieu">Mathieu Acher</na></co>
+<co c="0"><na f="a/Aponte:Jairo">Jairo Aponte</na></co>
+<co c="0" n="2"><na f="a/Assun=ccedil==atilde=o:Wesley_Klewerton_Guez">Wesley Klewerton Guez Assunção</na><na>Wesley K. G. Assunção</na></co>
+<co c="0"><na f="b/Bagnato:Alessandra">Alessandra Bagnato</na></co>
+<co c="0"><na f="b/Baskiotis:Nicolas">Nicolas Baskiotis</na></co>
+<co c="0"><na f="b/Berger:Thorsten">Thorsten Berger</na></co>
+<co c="0" n="2"><na f="b/Bissyand=eacute=:Tegawend=eacute=_F=">Tegawendé F. Bissyandé</na><na>Tegawendé François D. Assise Bissyandé</na></co>
+<co c="0"><na f="b/Blanc_0001:Xavier">Xavier Blanc 0001</na></co>
+<co c="0"><na f="b/Boufedji:Dounia">Dounia Boufedji</na></co>
+<co c="0" n="3"><na f="b/Brand=atilde=o:Anarosa_A=_F=">Anarosa A. F. Brandão</na><na>Anarosa Alves Franco Brandão</na><na>Anarosa Brandão</na></co>
+<co c="0"><na f="c/Casare:Sara_J=">Sara J. Casare</na></co>
+<co c="0"><na f="c/Cauvin:Sylvie">Sylvie Cauvin</na></co>
+<co c="0"><na f="c/Cetina:Carlos">Carlos Cetina</na></co>
+<co c="0"><na f="c/Collet:Philippe">Philippe Collet</na></co>
+<co c="0"><na f="d/Dhouib:Saadia">Saadia Dhouib</na></co>
+<co c="0"><na f="d/D=iacute=az:Oscar">Oscar Díaz</na></co>
+<co c="0"><na f="d/Duchien:Laurence">Laurence Duchien</na></co>
+<co c="0"><na f="f/Figueiredo:Eduardo">Eduardo Figueiredo</na></co>
+<co c="0"><na f="f/Fogdal:Thomas">Thomas Fogdal</na></co>
+<co c="0"><na f="f/Frey:Alfonso_Garc=iacute=a" bibtex="Garc\'{\i}a Frey, Alfonso">Alfonso García Frey</na></co>
+<co c="0"><na f="f/Frias:Luz">Luz Frias</na></co>
+<co c="0"><na f="g/Galindo:Jos=eacute=_A=">José A. Galindo</na></co>
+<co c="0"><na f="g/Gallego:Elena">Elena Gallego</na></co>
+<co c="0"><na f="g/Guessoum:Zahia">Zahia Guessoum</na></co>
+<co c="0"><na f="h/H=eacute=lou=euml=t:Lo=iuml=c">Loïc Hélouët</na></co>
+<co c="0"><na f="h/Henard:Christopher">Christopher Henard</na></co>
+<co c="0"><na f="h/Heymans:Patrick">Patrick Heymans</na></co>
+<co c="0"><na f="h/Hillah:Lom=Messan">Lom-Messan Hillah</na></co>
+<co c="0"><na f="h/Huchard:Marianne">Marianne Huchard</na></co>
+<co c="0"><na f="j/J=eacute=z=eacute=quel:Jean=Marc">Jean-Marc Jézéquel</na></co>
+<co c="0"><na f="k/Kchir:Selma">Selma Kchir</na></co>
+<co c="0"><na f="k/Kehrer:Timo">Timo Kehrer</na></co>
+<co c="0"><na f="k/Kerdoudi:Mohamed_Lamine">Mohamed Lamine Kerdoudi</na></co>
+<co c="0"><na f="k/Klein:Jacques">Jacques Klein</na></co>
+<co c="0"><na f="l/Lajmi:Amine">Amine Lajmi</na></co>
+<co c="0"><na f="l/Lamprier:Sylvain">Sylvain Lamprier</na></co>
+<co c="0"><na f="l/Li_0029:Li">Li Li 0029</na></co>
+<co c="0" n="2"><na f="l/Lopez=Herrejon:Roberto_Erick">Roberto Erick Lopez-Herrejon</na><na>Roberto E. Lopez-Herrejon</na></co>
+<co c="0"><na f="m/Martinez:Jabier">Jabier Martinez</na></co>
+<co c="0"><na f="m/Mazo:Ra=uacute=l">Raúl Mazo</na></co>
+<co c="0"><na f="m/Mokhtari:A=iuml=cha">Aïcha Mokhtari</na></co>
+<co c="0" n="2"><na f="m/Montalvillo=Mendizabal:Leticia">Leticia Montalvillo-Mendizabal</na><na>Leticia Montalvillo</na></co>
+<co c="0"><na f="o/Ordo=ntilde=ez:Nicolas">Nicolas Ordoñez</na></co>
+<co c="0"><na f="p/Papadakis:Mike">Mike Papadakis</na></co>
+<co c="0"><na f="r/Rabiser:Rick">Rick Rabiser</na></co>
+<co c="0"><na f="r/Raji:Amine">Amine Raji</na></co>
+<co c="0"><na f="r/Robin:Jacques">Jacques Robin</na></co>
+<co c="0"><na f="r/Rossi:Gabriele">Gabriele Rossi</na></co>
+<co c="0"><na f="s/Sadou:Salah">Salah Sadou</na></co>
+<co c="0"><na f="s/Sadovykh:Andrey">Andrey Sadovykh</na></co>
+<co c="0"><na f="s/Salinesi:Camille">Camille Salinesi</na></co>
+<co c="0"><na f="s/Seidl:Christoph">Christoph Seidl</na></co>
+<co c="0"><na f="s/Silva:Marcos_Aur=eacute=lio_Almeida_da">Marcos Aurélio Almeida da Silva</na></co>
+<co c="0"><na f="s/Sottet:Jean=S=eacute=bastien">Jean-Sébastien Sottet</na></co>
+<co c="0"><na f="s/Stegh=ouml=fer:Jan=Philipp">Jan-Philipp Steghöfer</na></co>
+<co c="0"><na f="s/Stinckwich:Serge">Serge Stinckwich</na></co>
+<co c="0"><na f="t/Teixeira:Leopoldo">Leopoldo Teixeira</na></co>
+<co c="0"><na f="t/Temple:Paul">Paul Temple</na></co>
+<co c="0"><na f="t/T=euml=rnava:Xhevahire">Xhevahire Tërnava</na></co>
+<co c="0"><na f="t/Th=uuml=m:Thomas">Thomas Thüm</na></co>
+<co c="0"><na f="t/Thurimella:Anil_Kumar">Anil Kumar Thurimella</na></co>
+<co c="0"><na f="t/Tibermacine:Chouki">Chouki Tibermacine</na></co>
+<co c="0"><na f="t/Traon:Yves_Le">Yves Le Traon</na></co>
+<co c="0"><na f="v/Valente:Marco_Tulio">Marco Tulio Valente</na></co>
+<co c="0"><na f="v/Vanderdonckt:Jean">Jean Vanderdonckt</na></co>
+<co c="0"><na f="z/Ziane:Mikal">Mikal Ziane</na></co>
+</coauthors>
+</dblpperson>
+

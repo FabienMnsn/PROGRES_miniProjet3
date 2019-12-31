@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Fabrice Legond-Aubry" n="9">
+<person key="homepages/63/2505" mdate="2009-06-09">
+<author>Fabrice Legond-Aubry</author>
+</person>
+<r><article publtype="informal" key="journals/corr/KordonLBBFHHLLMPPRRTWW13" mdate="2018-08-13">
+<author>Fabrice Kordon</author>
+<author>Alban Linard</author>
+<author>Marco Beccuti</author>
+<author>Didier Buchs</author>
+<author>Lukasz Fronc</author>
+<author>Lom-Messan Hillah</author>
+<author>Francis Hulin-Hubard</author>
+<author>Fabrice Legond-Aubry</author>
+<author>Niels Lohmann</author>
+<author>Alexis Marechal</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Franck Pommereau</author>
+<author>César Rodríguez</author>
+<author>Christian Rohr</author>
+<author>Yann Thierry-Mieg</author>
+<author>Harro Wimmel</author>
+<author>Karsten Wolf</author>
+<title>Model Checking Contest @ Petri Nets, Report on the 2013 edition.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.2485</ee>
+<volume>abs/1309.2485</volume>
+<url>db/journals/corr/corr1309.html#KordonLBBFHHLLMPPRRTWW13</url>
+</article>
+</r>
+<r><article key="journals/tjs/SopenaALS09" mdate="2019-12-18">
+<author>Julien Sopena</author>
+<author>Luciana Arantes</author>
+<author>Fabrice Legond-Aubry</author>
+<author>Pierre Sens 0001</author>
+<title>Building effective mutual exclusion services for grids.</title>
+<pages>84-107</pages>
+<year>2009</year>
+<volume>49</volume>
+<journal>The Journal of Supercomputing</journal>
+<number>1</number>
+<url>db/journals/tjs/tjs49.html#SopenaALS09</url>
+</article>
+</r>
+<r><article key="journals/tsi/SopenaBL09" mdate="2017-05-20">
+<author>Julien Sopena</author>
+<author>Souheib Baarir</author>
+<author>Fabrice Legond-Aubry</author>
+<title>Vérification formelle d'un algorithme générique et hiérarchique d'exclusion mutuelle.</title>
+<pages>1085-1105</pages>
+<year>2009</year>
+<volume>28</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>9</number>
+<url>db/journals/tsi/tsi28.html#SopenaBL09</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/SopenaALS08" mdate="2019-12-18">
+<author>Julien Sopena</author>
+<author>Luciana Arantes</author>
+<author>Fabrice Legond-Aubry</author>
+<author>Pierre Sens 0001</author>
+<title>The Impact of Clustering on Token-Based Mutual Exclusion Algorithms.</title>
+<pages>565-575</pages>
+<year>2008</year>
+<booktitle>Euro-Par</booktitle>
+<crossref>conf/europar/2008</crossref>
+<url>db/conf/europar/europar2008.html#SopenaALS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/BaarirSL08" mdate="2018-06-26">
+<author>Souheib Baarir</author>
+<author>Julien Sopena</author>
+<author>Fabrice Legond-Aubry</author>
+<title>Verification of a Hierarchical Generic Mutual Exclusion Algorithm.</title>
+<pages>99-115</pages>
+<year>2008</year>
+<booktitle>FORTE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-68855-6_7</ee>
+<crossref>conf/forte/2008</crossref>
+<url>db/conf/forte/forte2008.html#BaarirSL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/HamezKTL07" mdate="2018-11-02">
+<author>Alexandre Hamez</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Fabrice Legond-Aubry</author>
+<title>dmcG : A Distributed Symbolic Model Checker Based on GreatSPN.</title>
+<pages>495-504</pages>
+<year>2007</year>
+<crossref>conf/apn/2007</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn2007.html#HamezKTL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/SopenaLAS07" mdate="2019-12-18">
+<author>Julien Sopena</author>
+<author>Fabrice Legond-Aubry</author>
+<author>Luciana Bezerra Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>A Composition Approach to Mutual Exclusion Algorithms for Grid Applications.</title>
+<pages>65</pages>
+<year>2007</year>
+<crossref>conf/icpp/2007</crossref>
+<booktitle>ICPP</booktitle>
+<url>db/conf/icpp/icpp2007.html#SopenaLAS07</url>
+</inproceedings>
+</r>
+<r><article key="journals/jot/EnselmeFL04" mdate="2017-05-26">
+<author>Daniel Enselme</author>
+<author>Gerard Florin</author>
+<author>Fabrice Legond-Aubry</author>
+<title>Design by Contract: analysis of hidden dependencies in component based application.</title>
+<pages>23-45</pages>
+<year>2004</year>
+<volume>3</volume>
+<journal>Journal of Object Technology</journal>
+<number>4</number>
+<url>db/journals/jot/jot3.html#EnselmeFL04</url>
+</article>
+</r>
+<r><article key="journals/spe/PawlakSDFLM04" mdate="2017-05-28">
+<author>Renaud Pawlak</author>
+<author>Lionel Seinturier</author>
+<author>Laurence Duchien</author>
+<author>Gerard Florin</author>
+<author>Fabrice Legond-Aubry</author>
+<author>Laurent Martelli</author>
+<title>JAC: an aspect-based distributed dynamic framework.</title>
+<pages>1119-1148</pages>
+<year>2004</year>
+<volume>34</volume>
+<journal>Softw., Pract. Exper.</journal>
+<number>12</number>
+<url>db/journals/spe/spe34.html#PawlakSDFLM04</url>
+</article>
+</r>
+<coauthors n="27" nc="1">
+<co c="0" n="2"><na f="a/Arantes:Luciana">Luciana Arantes</na><na>Luciana Bezerra Arantes</na></co>
+<co c="0"><na f="b/Baarir:Souheib">Souheib Baarir</na></co>
+<co c="0"><na f="b/Beccuti:Marco">Marco Beccuti</na></co>
+<co c="0"><na f="b/Buchs:Didier">Didier Buchs</na></co>
+<co c="0"><na f="d/Duchien:Laurence">Laurence Duchien</na></co>
+<co c="0"><na f="e/Enselme:Daniel">Daniel Enselme</na></co>
+<co c="0"><na f="f/Florin:Gerard">Gerard Florin</na></co>
+<co c="0"><na f="f/Fronc:Lukasz">Lukasz Fronc</na></co>
+<co c="0"><na f="h/Hamez:Alexandre">Alexandre Hamez</na></co>
+<co c="0"><na f="h/Hillah:Lom=Messan">Lom-Messan Hillah</na></co>
+<co c="0"><na f="h/Hulin=Hubard:Francis">Francis Hulin-Hubard</na></co>
+<co c="0"><na f="k/Kordon:Fabrice">Fabrice Kordon</na></co>
+<co c="0"><na f="l/Linard:Alban">Alban Linard</na></co>
+<co c="0"><na f="l/Lohmann:Niels">Niels Lohmann</na></co>
+<co c="0"><na f="m/Marechal:Alexis">Alexis Marechal</na></co>
+<co c="0"><na f="m/Martelli:Laurent">Laurent Martelli</na></co>
+<co c="0"><na f="p/Paviot=Adet:Emmanuel">Emmanuel Paviot-Adet</na></co>
+<co c="0"><na f="p/Pawlak:Renaud">Renaud Pawlak</na></co>
+<co c="0"><na f="p/Pommereau:Franck">Franck Pommereau</na></co>
+<co c="0"><na f="r/Rodr=iacute=guez:C=eacute=sar">César Rodríguez</na></co>
+<co c="0"><na f="r/Rohr:Christian">Christian Rohr</na></co>
+<co c="0"><na f="s/Seinturier:Lionel">Lionel Seinturier</na></co>
+<co c="0"><na f="s/Sens_0001:Pierre">Pierre Sens 0001</na></co>
+<co c="0"><na f="s/Sopena:Julien">Julien Sopena</na></co>
+<co c="0"><na f="t/Thierry=Mieg:Yann">Yann Thierry-Mieg</na></co>
+<co c="0"><na f="w/Wimmel:Harro">Harro Wimmel</na></co>
+<co c="0"><na f="w/Wolf:Karsten">Karsten Wolf</na></co>
+</coauthors>
+</dblpperson>
+

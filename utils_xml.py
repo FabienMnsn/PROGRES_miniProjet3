@@ -80,8 +80,8 @@ def download_file(author_name, download_path, table_path):
 		local_file.close()
 		parse_file(file_name, download_path+author_name+".xml", "table_iso.txt")
 		os.remove(file_name)
-	else:
-		print("error", requested.status_code)
+	#else:
+		#print("error", requested.status_code)
 	return requested.status_code
 
 
@@ -229,20 +229,17 @@ def xml_formater(input_file, output_file, dictionnaire_code):
         	continue
         else:
             #contains_special_char = re.search(r"&", line_)
-            #line2_ = line_.replace("<-->", "")
-            line2_ = line_
-            if("<-->" in line_):
-            	print(line_)
-            contains_special_char = ('&' in line2_)
+
+            contains_special_char = ('&' in line_)
             #if(contains_special_char != None and len(contains_special_char[0]) > 0):
             if(contains_special_char):
-                splited_line = split_char_code(line2_)
+                splited_line = split_char_code(line_)
                 new_line = replace_char(splited_line, dictio)
                 new_xml.write(new_line+"\n")
                 #print(line_)
                 #print(new_line)
             else:
-                new_xml.write(line2_+"\n")
+                new_xml.write(line_+"\n")
     new_xml.close()
     xml.close()
     #print("--------Fermeture des fichiers", input_file, ", ", output_file)

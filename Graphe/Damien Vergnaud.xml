@@ -1,0 +1,1359 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Damien Vergnaud" n="103">
+<person key="homepages/04/4983" mdate="2019-10-15">
+<author>Damien Vergnaud</author>
+<url>https://orcid.org/0000-0002-2113-3967</url>
+<url>https://www.wikidata.org/wiki/Q57772678</url>
+<url>https://id.loc.gov/authorities/names/nb2014014855</url>
+</person>
+<r><article key="journals/cj/MefenzaV19" mdate="2019-09-06">
+<author>Thierry Mefenza</author>
+<author>Damien Vergnaud</author>
+<title>Cryptanalysis of Server-Aided RSA Protocols with Private-Key Splitting.</title>
+<pages>1194-1213</pages>
+<year>2019</year>
+<volume>62</volume>
+<journal>Comput. J.</journal>
+<number>8</number>
+<url>db/journals/cj/cj62.html#MefenzaV19</url>
+</article>
+</r>
+<r><article key="journals/dcc/MefenzaV19" mdate="2019-06-17">
+<author>Thierry Mefenza</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Polynomial interpolation of the generalized Diffie-Hellman and Naor-Reingold functions.</title>
+<pages>75-85</pages>
+<year>2019</year>
+<volume>87</volume>
+<journal>Des. Codes Cryptogr.</journal>
+<number>1</number>
+<url>db/journals/dcc/dcc87.html#MefenzaV19</url>
+</article>
+</r>
+<r><inproceedings key="conf/tcc/KushilevitzOPRT19" mdate="2019-11-25">
+<author>Eyal Kushilevitz</author>
+<author>Rafail Ostrovsky</author>
+<author>Emmanuel Prouff</author>
+<author>Adi Rosén</author>
+<author>Adrian Thillard</author>
+<author>Damien Vergnaud</author>
+<title>Lower and Upper Bounds on the Randomness Complexity of Private Computations of AND.</title>
+<pages>386-406</pages>
+<year>2019</year>
+<booktitle>TCC (2)</booktitle>
+<crossref>conf/tcc/2019-2</crossref>
+<url>db/conf/tcc/tcc2019-2.html#KushilevitzOPRT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/KhatiV18" mdate="2019-01-16">
+<author>Louiza Khati</author>
+<author>Damien Vergnaud</author>
+<title>Analysis and Improvement of an Authentication Scheme in Incremental Cryptography.</title>
+<pages>50-70</pages>
+<year>2018</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sacrypt/2018</crossref>
+<url>db/conf/sacrypt/sacrypt2018.html#KhatiV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wistp/Vergnaud18" mdate="2019-05-14">
+<author>Damien Vergnaud</author>
+<title>Secure Outsourcing in Discrete-Logarithm-Based and Pairing-Based Cryptography (Invited Talk).</title>
+<pages>7-11</pages>
+<year>2018</year>
+<booktitle>WISTP</booktitle>
+<crossref>conf/wistp/2018</crossref>
+<url>db/conf/wistp/wistp2018.html#Vergnaud18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BeunardeauCFGNV18" mdate="2018-08-14">
+<author>Marc Beunardeau</author>
+<author>Aisling Connolly</author>
+<author>Houda Ferradi</author>
+<author>Rémi Géraud</author>
+<author>David Naccache</author>
+<author>Damien Vergnaud</author>
+<title>Reusing Nonces in Schnorr Signatures.</title>
+<pages>69</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2018/069</ee>
+<url>db/journals/iacr/iacr2018.html#BeunardeauCFGNV18</url>
+</article>
+</r>
+<r><article key="journals/aaecc/MefenzaV17" mdate="2018-11-30">
+<author>Thierry Mefenza</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Polynomial interpolation of the Naor-Reingold pseudo-random function.</title>
+<pages>237-255</pages>
+<year>2017</year>
+<volume>28</volume>
+<journal>Appl. Algebra Eng. Commun. Comput.</journal>
+<number>3</number>
+<url>db/journals/aaecc/aaecc28.html#MefenzaV17</url>
+</article>
+</r>
+<r><article key="journals/cj/Vergnaud17" mdate="2017-12-20">
+<author>Damien Vergnaud</author>
+<title>Comment on 'Attribute-Based Signatures for Supporting Anonymous Certification' by N. Kaaniche and M. Laurent (ESORICS 2016).</title>
+<pages>1801-1808</pages>
+<year>2017</year>
+<volume>60</volume>
+<journal>Comput. J.</journal>
+<number>12</number>
+<url>db/journals/cj/cj60.html#Vergnaud17</url>
+</article>
+</r>
+<r><article key="journals/tosc/FarshimKV17" mdate="2017-09-13">
+<author>Pooya Farshim</author>
+<author>Louiza Khati</author>
+<author>Damien Vergnaud</author>
+<title>Security of Even-Mansour Ciphers under Key-Dependent Messages.</title>
+<pages>84-104</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Trans. Symmetric Cryptol.</journal>
+<number>2</number>
+<url>db/journals/tosc/tosc2017.html#FarshimKV17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ches/GoudarziRVV17" mdate="2018-11-02">
+<author>Dahmun Goudarzi</author>
+<author>Matthieu Rivain</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<author>Srinivas Vivek</author>
+<title>Generalized Polynomial Decomposition for S-boxes with Application to Side-Channel Countermeasures.</title>
+<pages>154-171</pages>
+<year>2017</year>
+<booktitle>CHES</booktitle>
+<crossref>conf/ches/2017</crossref>
+<url>db/conf/ches/ches2017.html#GoudarziRVV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/BelaidBPPTV17" mdate="2018-11-02">
+<author>Sonia Belaïd</author>
+<author orcid="0000-0002-8300-1820">Fabrice Benhamouda</author>
+<author>Alain Passelègue</author>
+<author>Emmanuel Prouff</author>
+<author>Adrian Thillard</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Private Multiplication over Finite Fields.</title>
+<pages>397-426</pages>
+<year>2017</year>
+<booktitle>CRYPTO (3)</booktitle>
+<crossref>conf/crypto/2017-3</crossref>
+<url>db/conf/crypto/crypto2017-3.html#BelaidBPPTV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ctrsa/KhatiMV17" mdate="2018-11-02">
+<author>Louiza Khati</author>
+<author>Nicky Mouha</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Full Disk Encryption: Bridging Theory and Practice.</title>
+<pages>241-257</pages>
+<year>2017</year>
+<booktitle>CT-RSA</booktitle>
+<crossref>conf/ctrsa/2017</crossref>
+<url>db/conf/ctrsa/ctrsa2017.html#KhatiMV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esorics/BeunardeauCFGNV17" mdate="2018-11-02">
+<author>Marc Beunardeau</author>
+<author>Aisling Connolly</author>
+<author>Houda Ferradi</author>
+<author>Rémi Géraud</author>
+<author>David Naccache</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Reusing Nonces in Schnorr Signatures - (and Keeping It Secure...).</title>
+<pages>224-241</pages>
+<year>2017</year>
+<booktitle>ESORICS (1)</booktitle>
+<crossref>conf/esorics/2017-1</crossref>
+<url>db/conf/esorics/esorics2017-1.html#BeunardeauCFGNV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ima/MefenzaV17" mdate="2018-11-02">
+<author>Thierry Mefenza</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Lattice Attacks on Pairing-Based Signatures.</title>
+<pages>352-370</pages>
+<year>2017</year>
+<booktitle>IMACC</booktitle>
+<crossref>conf/ima/2017</crossref>
+<url>db/conf/ima/ima2017.html#MefenzaV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secitc/Vergnaud17" mdate="2018-11-02">
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Security of Pseudo-Random Number Generators with Input - (Invited Talk).</title>
+<pages>43-51</pages>
+<year>2017</year>
+<booktitle>SECITC</booktitle>
+<crossref>conf/secitc/2017</crossref>
+<url>db/conf/secitc/secitc2017.html#Vergnaud17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/FarshimKV17" mdate="2018-08-14">
+<author>Pooya Farshim</author>
+<author>Louiza Khati</author>
+<author>Damien Vergnaud</author>
+<title>Security of Even-Mansour Ciphers under Key-Dependent Messages.</title>
+<pages>475</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2017/475</ee>
+<url>db/journals/iacr/iacr2017.html#FarshimKV17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/GoudarziRVV17" mdate="2018-08-14">
+<author>Dahmun Goudarzi</author>
+<author>Matthieu Rivain</author>
+<author>Damien Vergnaud</author>
+<author>Srinivas Vivek</author>
+<title>Generalized Polynomial Decomposition for S-boxes with Application to Side-Channel Countermeasures.</title>
+<pages>632</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2017/632</ee>
+<url>db/journals/iacr/iacr2017.html#GoudarziRVV17</url>
+</article>
+</r>
+<r><article key="journals/jcss/Vergnaud16" mdate="2018-11-30">
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Comment on "A strong provably secure IBE scheme without bilinear map" by M. Zheng, Y. Xiang and H. Zhou [J. Comput. Syst. Sci. 81 (2015) 125-131].</title>
+<pages>756-757</pages>
+<year>2016</year>
+<volume>82</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>5</number>
+<url>db/journals/jcss/jcss82.html#Vergnaud16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ctrsa/BlazyCV16" mdate="2018-11-02">
+<author>Olivier Blazy</author>
+<author>Céline Chevalier</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Mitigating Server Breaches in Password-Based Authentication: Secure and Efficient Solutions.</title>
+<pages>3-18</pages>
+<year>2016</year>
+<booktitle>CT-RSA</booktitle>
+<crossref>conf/ctrsa/2016</crossref>
+<url>db/conf/ctrsa/ctrsa2016.html#BlazyCV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esorics/ChevalierLV16" mdate="2018-11-02">
+<author>Céline Chevalier</author>
+<author>Fabien Laguillaumie</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Privately Outsourcing Exponentiation to a Single Server: Cryptanalysis and Optimal Constructions.</title>
+<pages>261-278</pages>
+<year>2016</year>
+<booktitle>ESORICS (1)</booktitle>
+<crossref>conf/esorics/2016-1</crossref>
+<url>db/conf/esorics/esorics2016-1.html#ChevalierLV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocrypt/BelaidBPPTV16" mdate="2018-11-02">
+<author>Sonia Belaïd</author>
+<author orcid="0000-0002-8300-1820">Fabrice Benhamouda</author>
+<author>Alain Passelègue</author>
+<author>Emmanuel Prouff</author>
+<author>Adrian Thillard</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Randomness Complexity of Private Circuits for Multiplication.</title>
+<pages>616-648</pages>
+<year>2016</year>
+<booktitle>EUROCRYPT (2)</booktitle>
+<crossref>conf/eurocrypt/2016-2</crossref>
+<url>db/conf/eurocrypt/eurocrypt2016-2.html#BelaidBPPTV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkc/BenhamoudaCTV16" mdate="2018-11-02">
+<author>Fabrice Benhamouda</author>
+<author>Céline Chevalier</author>
+<author>Adrian Thillard</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Easing Coppersmith Methods Using Analytic Combinatorics: Applications to Public-Key Cryptography with Weak Pseudorandomness.</title>
+<pages>36-66</pages>
+<year>2016</year>
+<booktitle>Public Key Cryptography (2)</booktitle>
+<crossref>conf/pkc/2016-2</crossref>
+<url>db/conf/pkc/pkc2016-2.html#BenhamoudaCTV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/GoudarziRV16" mdate="2018-11-02">
+<author>Dahmun Goudarzi</author>
+<author>Matthieu Rivain</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Lattice Attacks Against Elliptic-Curve Signatures with Blinded Scalar Multiplication.</title>
+<pages>120-139</pages>
+<year>2016</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sacrypt/2016</crossref>
+<url>db/conf/sacrypt/sacrypt2016.html#GoudarziRV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waifi/MefenzaV16" mdate="2018-11-02">
+<author>Thierry Mefenza</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Distribution and Polynomial Interpolation of the Dodis-Yampolskiy Pseudo-Random Function.</title>
+<pages>125-140</pages>
+<year>2016</year>
+<booktitle>WAIFI</booktitle>
+<crossref>conf/waifi/2016</crossref>
+<url>db/conf/waifi/waifi2016.html#MefenzaV16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BenhamoudaCTV16" mdate="2018-08-14">
+<author>Fabrice Benhamouda</author>
+<author>Céline Chevalier</author>
+<author>Adrian Thillard</author>
+<author>Damien Vergnaud</author>
+<title>Easing Coppersmith Methods using Analytic Combinatorics: Applications to Public-Key Cryptography with Weak Pseudorandomness.</title>
+<pages>7</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2016/007</ee>
+<url>db/journals/iacr/iacr2016.html#BenhamoudaCTV16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BelaidBPPTV16" mdate="2018-08-14">
+<author>Sonia Belaïd</author>
+<author>Fabrice Benhamouda</author>
+<author>Alain Passelègue</author>
+<author>Emmanuel Prouff</author>
+<author>Adrian Thillard</author>
+<author>Damien Vergnaud</author>
+<title>Randomness Complexity of Private Circuits for Multiplication.</title>
+<pages>211</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2016/211</ee>
+<url>db/journals/iacr/iacr2016.html#BelaidBPPTV16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/ChevalierLV16" mdate="2018-08-14">
+<author>Céline Chevalier</author>
+<author>Fabien Laguillaumie</author>
+<author>Damien Vergnaud</author>
+<title>Privately Outsourcing Exponentiation to a Single Server: Cryptanalysis and Optimal Constructions.</title>
+<pages>309</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2016/309</ee>
+<url>db/journals/iacr/iacr2016.html#ChevalierLV16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/Vergnaud16" mdate="2018-08-14">
+<author>Damien Vergnaud</author>
+<title>Comment on "Attribute-Based Signatures for Supporting Anonymous Certification" by N. Kaaniche and M. Laurent (ESORICS 2016).</title>
+<pages>1012</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2016/1012</ee>
+<url>db/journals/iacr/iacr2016.html#Vergnaud16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/KhatiMV16" mdate="2018-08-14">
+<author>Louiza Khati</author>
+<author>Nicky Mouha</author>
+<author>Damien Vergnaud</author>
+<title>Full Disk Encryption: Bridging Theory and Practice.</title>
+<pages>1114</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2016/1114</ee>
+<url>db/journals/iacr/iacr2016.html#KhatiMV16</url>
+</article>
+</r>
+<r><inproceedings key="conf/acns/AbdallaBPRV15" mdate="2019-12-27">
+<author orcid="0000-0002-2447-4329">Michel Abdalla</author>
+<author>Sonia Belaïd</author>
+<author orcid="0000-0002-6668-683X">David Pointcheval</author>
+<author>Sylvain Ruhault</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Robust Pseudo-Random Number Generators with Input Secure Against Side-Channel Attacks.</title>
+<pages>635-654</pages>
+<year>2015</year>
+<booktitle>ACNS</booktitle>
+<crossref>conf/acns/2015</crossref>
+<url>db/conf/acns/acns2015.html#AbdallaBPRV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/BauerV15" mdate="2019-10-31">
+<author>Aurélie Bauer</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Practical Key Recovery for Discrete-Logarithm Based Authentication Schemes from Random Nonce Bits.</title>
+<pages>287-306</pages>
+<year>2015</year>
+<booktitle>CHES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-48324-4_15</ee>
+<crossref>conf/ches/2015</crossref>
+<url>db/conf/ches/ches2015.html#BauerV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ctrsa/BlazyCV15" mdate="2018-11-02">
+<author>Olivier Blazy</author>
+<author>Céline Chevalier</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Non-Interactive Zero-Knowledge Proofs of Non-Membership.</title>
+<pages>145-164</pages>
+<year>2015</year>
+<booktitle>CT-RSA</booktitle>
+<crossref>conf/ctrsa/2015</crossref>
+<url>db/conf/ctrsa/ctrsa2015.html#BlazyCV15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BlazyCV15" mdate="2018-08-14">
+<author>Olivier Blazy</author>
+<author>Céline Chevalier</author>
+<author>Damien Vergnaud</author>
+<title>Non-Interactive Zero-Knowledge Proofs of Non-Membership.</title>
+<pages>72</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2015/072</ee>
+<url>db/journals/iacr/iacr2015.html#BlazyCV15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BenhamoudaBCPV15" mdate="2018-08-14">
+<author>Fabrice Benhamouda</author>
+<author>Olivier Blazy</author>
+<author>Céline Chevalier</author>
+<author>David Pointcheval</author>
+<author>Damien Vergnaud</author>
+<title>New Techniques for SPHFs and Efficient One-Round PAKE Protocols.</title>
+<pages>188</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2015/188</ee>
+<url>db/journals/iacr/iacr2015.html#BenhamoudaBCPV15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BlazyCV15a" mdate="2018-08-14">
+<author>Olivier Blazy</author>
+<author>Céline Chevalier</author>
+<author>Damien Vergnaud</author>
+<title>Mitigating Server Breaches in Password-Based Authentication: Secure and Efficient Solutions.</title>
+<pages>1144</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2015/1144</ee>
+<url>db/journals/iacr/iacr2015.html#BlazyCV15a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/AbdallaBPRV15" mdate="2018-08-14">
+<author>Michel Abdalla</author>
+<author>Sonia Belaïd</author>
+<author>David Pointcheval</author>
+<author>Sylvain Ruhault</author>
+<author>Damien Vergnaud</author>
+<title>Robust Pseudo-Random Number Generators with Input Secure Against Side-Channel Attacks.</title>
+<pages>1219</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2015/1219</ee>
+<url>db/journals/iacr/iacr2015.html#AbdallaBPRV15</url>
+</article>
+</r>
+<r><book publtype="habil" key="books/hal/Vergnaud14" mdate="2017-09-30">
+<author>Damien Vergnaud</author>
+<title>Primitives et constructions en cryptographie asymétrique.</title>
+<year>2014</year>
+<school>École Normale Supérieure, Paris, France</school>
+</book>
+</r>
+<r><inproceedings key="conf/cardis/GuillevicV14" mdate="2018-11-02">
+<author>Aurore Guillevic</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Algorithms for Outsourcing Pairing Computation.</title>
+<pages>193-211</pages>
+<year>2014</year>
+<booktitle>CARDIS</booktitle>
+<crossref>conf/cardis/2014</crossref>
+<url>db/conf/cardis/cardis2014.html#GuillevicV14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/africacrypt/2014" mdate="2019-05-14">
+<editor orcid="0000-0002-6668-683X">David Pointcheval</editor>
+<editor>Damien Vergnaud</editor>
+<title>Progress in Cryptology - AFRICACRYPT 2014 - 7th International Conference on Cryptology in Africa, Marrakesh, Morocco, May 28-30, 2014. Proceedings</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8469</volume>
+<isbn>978-3-319-06733-9</isbn>
+<booktitle>AFRICACRYPT</booktitle>
+<url>db/conf/africacrypt/africacrypt2014.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jcs/BlazyFPV13" mdate="2018-11-30">
+<author>Olivier Blazy</author>
+<author>Georg Fuchsbauer</author>
+<author orcid="0000-0002-6668-683X">David Pointcheval</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Short blind signatures.</title>
+<pages>627-661</pages>
+<year>2013</year>
+<volume>21</volume>
+<journal>Journal of Computer Security</journal>
+<number>5</number>
+<url>db/journals/jcs/jcs21.html#BlazyFPV13</url>
+</article>
+</r>
+<r><inproceedings key="conf/acns/BlazyCPV13" mdate="2019-08-20">
+<author>Olivier Blazy</author>
+<author>Céline Chevalier</author>
+<author orcid="0000-0002-6668-683X">David Pointcheval</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Analysis and Improvement of Lindell's UC-Secure Commitment Schemes.</title>
+<pages>534-551</pages>
+<year>2013</year>
+<booktitle>ACNS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-38980-1_34</ee>
+<crossref>conf/acns/2013</crossref>
+<url>db/conf/acns/acns2013.html#BlazyCPV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/DodisPRVW13" mdate="2018-11-14">
+<author>Yevgeniy Dodis</author>
+<author orcid="0000-0002-6668-683X">David Pointcheval</author>
+<author>Sylvain Ruhault</author>
+<author>Damien Vergnaud</author>
+<author>Daniel Wichs</author>
+<title>Security analysis of pseudo-random number generators with input: /dev/random is not robust.</title>
+<pages>647-658</pages>
+<year>2013</year>
+<booktitle>ACM Conference on Computer and Communications Security</booktitle>
+<crossref>conf/ccs/2013</crossref>
+<url>db/conf/ccs/ccs2013.html#DodisPRVW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cocoon/FouqueVZ13" mdate="2018-11-02">
+<author orcid="0000-0003-4997-2276">Pierre-Alain Fouque</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<author>Jean-Christophe Zapalowicz</author>
+<title>Time/Memory/Data Tradeoffs for Variants of the RSA Problem.</title>
+<pages>651-662</pages>
+<year>2013</year>
+<booktitle>COCOON</booktitle>
+<crossref>conf/cocoon/2013</crossref>
+<url>db/conf/cocoon/cocoon2013.html#FouqueVZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crypto/BenhamoudaBCPV13" mdate="2018-11-14">
+<author orcid="0000-0002-8300-1820">Fabrice Benhamouda</author>
+<author>Olivier Blazy</author>
+<author>Céline Chevalier</author>
+<author orcid="0000-0002-6668-683X">David Pointcheval</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>New Techniques for SPHFs and Efficient One-Round PAKE Protocols.</title>
+<pages>449-475</pages>
+<year>2013</year>
+<booktitle>CRYPTO (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-40041-4_25</ee>
+<crossref>conf/crypto/2013-1</crossref>
+<url>db/conf/crypto/crypto2013-1.html#BenhamoudaBCPV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkc/HamoudaBCPV13" mdate="2018-11-14">
+<author orcid="0000-0002-8300-1820">Fabrice Ben Hamouda</author>
+<author>Olivier Blazy</author>
+<author>Céline Chevalier</author>
+<author orcid="0000-0002-6668-683X">David Pointcheval</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Efficient UC-Secure Authenticated Key-Exchange for Algebraic Languages.</title>
+<pages>272-291</pages>
+<year>2013</year>
+<booktitle>Public Key Cryptography</booktitle>
+<crossref>conf/pkc/2013</crossref>
+<url>db/conf/pkc/pkc2013.html#HamoudaBCPV13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/HamoudaBCPV13" mdate="2018-08-14">
+<author>Fabrice Ben Hamouda</author>
+<author>Olivier Blazy</author>
+<author>Céline Chevalier</author>
+<author>David Pointcheval</author>
+<author>Damien Vergnaud</author>
+<title>New Smooth Projective Hash Functions and One-Round Authenticated Key Exchange.</title>
+<pages>34</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2013/034</ee>
+<url>db/journals/iacr/iacr2013.html#HamoudaBCPV13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BlazyCPV13" mdate="2018-08-14">
+<author>Olivier Blazy</author>
+<author>Céline Chevalier</author>
+<author>David Pointcheval</author>
+<author>Damien Vergnaud</author>
+<title>Analysis and Improvement of Lindell's UC-Secure Commitment Schemes.</title>
+<pages>123</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2013/123</ee>
+<url>db/journals/iacr/iacr2013.html#BlazyCPV13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/DodisPRVW13" mdate="2018-08-14">
+<author>Yevgeniy Dodis</author>
+<author>David Pointcheval</author>
+<author>Sylvain Ruhault</author>
+<author>Damien Vergnaud</author>
+<author>Daniel Wichs</author>
+<title>Security Analysis of Pseudo-Random Number Generators with Input: /dev/random is not Robust.</title>
+<pages>338</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2013/338</ee>
+<url>db/journals/iacr/iacr2013.html#DodisPRVW13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/VergnaudX13" mdate="2018-08-14">
+<author>Damien Vergnaud</author>
+<author>David Xiao</author>
+<title>Public-Key Encryption with Weak Randomness: Security against Strong Chosen Distribution Attacks.</title>
+<pages>681</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2013/681</ee>
+<url>db/journals/iacr/iacr2013.html#VergnaudX13</url>
+</article>
+</r>
+<r><article key="journals/dam/DomenjoudJVV12" mdate="2018-11-30">
+<author>Eric Domenjoud</author>
+<author>Damien Jamet</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<author>Laurent Vuillon</author>
+<title>Enumeration formula for (2, n)-cubes in discrete planes.</title>
+<pages>2158-2171</pages>
+<year>2012</year>
+<volume>160</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>15</number>
+<url>db/journals/dam/dam160.html#DomenjoudJVV12</url>
+</article>
+</r>
+<r><inproceedings key="conf/pairing/GuillevicV12" mdate="2017-05-22">
+<author>Aurore Guillevic</author>
+<author>Damien Vergnaud</author>
+<title>Genus 2 Hyperelliptic Curve Families with Explicit Jacobian Order Evaluation and Pairing-Friendly Constructions.</title>
+<pages>234-253</pages>
+<year>2012</year>
+<booktitle>Pairing</booktitle>
+<crossref>conf/pairing/2012</crossref>
+<url>db/conf/pairing/pairing2012.html#GuillevicV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkc/BauerVZ12" mdate="2018-11-02">
+<author>Aurélie Bauer</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<author>Jean-Christophe Zapalowicz</author>
+<title>Inferring Sequences Produced by Nonlinear Pseudorandom Number Generators Using Coppersmith's Methods.</title>
+<pages>609-626</pages>
+<year>2012</year>
+<booktitle>Public Key Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-30057-8_36</ee>
+<crossref>conf/pkc/2012</crossref>
+<url>db/conf/pkc/pkc2012.html#BauerVZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scn/BlazyPV12" mdate="2018-11-14">
+<author>Olivier Blazy</author>
+<author orcid="0000-0002-6668-683X">David Pointcheval</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Compact Round-Optimal Partially-Blind Signatures.</title>
+<pages>95-112</pages>
+<year>2012</year>
+<booktitle>SCN</booktitle>
+<crossref>conf/scn/2012</crossref>
+<url>db/conf/scn/scn2012.html#BlazyPV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tcc/BlazyPV12" mdate="2018-11-14">
+<author>Olivier Blazy</author>
+<author orcid="0000-0002-6668-683X">David Pointcheval</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Round-Optimal Privacy-Preserving Protocols with Smooth Projective Hash Functions.</title>
+<pages>94-111</pages>
+<year>2012</year>
+<booktitle>TCC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-28914-9_6</ee>
+<crossref>conf/tcc/2012</crossref>
+<url>db/conf/tcc/tcc2012.html#BlazyPV12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BlazyCPV12" mdate="2018-08-14">
+<author>Olivier Blazy</author>
+<author>Céline Chevalier</author>
+<author>David Pointcheval</author>
+<author>Damien Vergnaud</author>
+<title>Efficient UC-Secure Authenticated Key-Exchange for Algebraic Languages.</title>
+<pages>284</pages>
+<year>2012</year>
+<volume>2012</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2012/284</ee>
+<url>db/journals/iacr/iacr2012.html#BlazyCPV12</url>
+</article>
+</r>
+<r><article key="journals/tit/LibertV11" mdate="2018-11-02">
+<author>Benoît Libert</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Unidirectional Chosen-Ciphertext Secure Proxy Re-Encryption.</title>
+<pages>1786-1802</pages>
+<year>2011</year>
+<volume>57</volume>
+<journal>IEEE Trans. Information Theory</journal>
+<number>3</number>
+<url>db/journals/tit/tit57.html#LibertV11</url>
+</article>
+</r>
+<r><article key="journals/tit/LibertV11a" mdate="2018-11-02">
+<author>Benoît Libert</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Towards Practical Black-Box Accountable Authority IBE: Weak Black-Box Traceability With Short Ciphertexts and Private Keys.</title>
+<pages>7189-7204</pages>
+<year>2011</year>
+<volume>57</volume>
+<journal>IEEE Trans. Information Theory</journal>
+<number>10</number>
+<url>db/journals/tit/tit57.html#LibertV11a</url>
+</article>
+</r>
+<r><inproceedings key="conf/africacrypt/Vergnaud11" mdate="2018-11-02">
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Efficient and Secure Generalized Pattern Matching via Fast Fourier Transform.</title>
+<pages>41-58</pages>
+<year>2011</year>
+<booktitle>AFRICACRYPT</booktitle>
+<crossref>conf/africacrypt/2011</crossref>
+<url>db/conf/africacrypt/africacrypt2011.html#Vergnaud11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asiacrypt/HemenwayLOV11" mdate="2018-11-02">
+<author>Brett Hemenway</author>
+<author>Benoît Libert</author>
+<author>Rafail Ostrovsky</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Lossy Encryption: Constructions from General Assumptions and Efficient Selective Opening Chosen Ciphertext Security.</title>
+<pages>70-88</pages>
+<year>2011</year>
+<booktitle>ASIACRYPT</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-25385-0_4</ee>
+<crossref>conf/asiacrypt/2011</crossref>
+<url>db/conf/asiacrypt/asiacrypt2011.html#HemenwayLOV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ima/IzabacheneLV11" mdate="2018-11-02">
+<author>Malika Izabachène</author>
+<author>Benoît Libert</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Block-Wise P-Signatures and Non-interactive Anonymous Credentials with Efficient Attributes.</title>
+<pages>431-450</pages>
+<year>2011</year>
+<booktitle>IMA Int. Conf.</booktitle>
+<crossref>conf/ima/2011</crossref>
+<url>db/conf/ima/ima2011.html#IzabacheneLV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkc/BlazyFPV11" mdate="2018-11-14">
+<author>Olivier Blazy</author>
+<author>Georg Fuchsbauer</author>
+<author orcid="0000-0002-6668-683X">David Pointcheval</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Signatures on Randomizable Ciphertexts.</title>
+<pages>403-422</pages>
+<year>2011</year>
+<booktitle>Public Key Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-19379-8_25</ee>
+<crossref>conf/pkc/2011</crossref>
+<url>db/conf/pkc/pkc2011.html#BlazyFPV11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/GuillevicV11" mdate="2018-08-14">
+<author>Aurore Guillevic</author>
+<author>Damien Vergnaud</author>
+<title>Genus 2 Hyperelliptic Curve Families with Explicit Jacobian Order Evaluation and Pairing-Friendly Constructions.</title>
+<pages>604</pages>
+<year>2011</year>
+<volume>2011</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2011/604</ee>
+<url>db/journals/iacr/iacr2011.html#GuillevicV11</url>
+</article>
+</r>
+<r><article key="journals/isci/LaguillaumieV10" mdate="2018-11-30">
+<author>Fabien Laguillaumie</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<pages>2458-2475</pages>
+<year>2010</year>
+<volume>180</volume>
+<journal>Inf. Sci.</journal>
+<number>12</number>
+<url>db/journals/isci/isci180.html#LaguillaumieV10</url>
+</article>
+</r>
+<r><inproceedings key="conf/acns/BauerCNTV10" mdate="2019-08-20">
+<author>Aurélie Bauer</author>
+<author>Jean-Sébastien Coron</author>
+<author>David Naccache</author>
+<author orcid="0000-0002-2736-2963">Mehdi Tibouchi</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>On the Broadcast and Validity-Checking Security of pkcs#1 v1.5 Encryption.</title>
+<pages>1-18</pages>
+<year>2010</year>
+<booktitle>ACNS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-13708-2_1</ee>
+<crossref>conf/acns/2010</crossref>
+<url>db/conf/acns/acns2010.html#BauerCNTV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acns/BlazyFIJSV10" mdate="2019-08-20">
+<author>Olivier Blazy</author>
+<author>Georg Fuchsbauer</author>
+<author>Malika Izabachène</author>
+<author>Amandine Jambert</author>
+<author>Hervé Sibert</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Batch Groth-Sahai.</title>
+<pages>218-235</pages>
+<year>2010</year>
+<booktitle>ACNS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-13708-2_14</ee>
+<crossref>conf/acns/2010</crossref>
+<url>db/conf/acns/acns2010.html#BlazyFIJSV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/africacrypt/FuchsbauerV10" mdate="2018-11-02">
+<author>Georg Fuchsbauer</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Fair Blind Signatures without Random Oracles.</title>
+<pages>16-33</pages>
+<year>2010</year>
+<booktitle>AFRICACRYPT</booktitle>
+<crossref>conf/africacrypt/2010</crossref>
+<url>db/conf/africacrypt/africacrypt2010.html#FuchsbauerV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ants/JoyeTV10" mdate="2018-11-02">
+<author>Marc Joye</author>
+<author orcid="0000-0002-2736-2963">Mehdi Tibouchi</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Huff's Model for Elliptic Curves.</title>
+<pages>234-250</pages>
+<year>2010</year>
+<booktitle>ANTS</booktitle>
+<crossref>conf/ants/2010</crossref>
+<url>db/conf/ants/ants2010.html#JoyeTV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincrypt/IzabachenePV10" mdate="2018-11-14">
+<author>Malika Izabachène</author>
+<author orcid="0000-0002-6668-683X">David Pointcheval</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Mediated Traceable Anonymous Encryption.</title>
+<pages>40-60</pages>
+<year>2010</year>
+<booktitle>LATINCRYPT</booktitle>
+<crossref>conf/latincrypt/2010</crossref>
+<url>db/conf/latincrypt/latincrypt2010.html#IzabachenePV10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BlazyFIJSV10" mdate="2018-08-14">
+<author>Olivier Blazy</author>
+<author>Georg Fuchsbauer</author>
+<author>Malika Izabachène</author>
+<author>Amandine Jambert</author>
+<author>Hervé Sibert</author>
+<author>Damien Vergnaud</author>
+<title>Batch Groth-Sahai.</title>
+<pages>40</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2010/040</ee>
+<url>db/journals/iacr/iacr2010.html#BlazyFIJSV10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FuchsbauerV10" mdate="2018-08-14">
+<author>Georg Fuchsbauer</author>
+<author>Damien Vergnaud</author>
+<title>Fair Blind Signatures without Random Oracles.</title>
+<pages>101</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2010/101</ee>
+<url>db/journals/iacr/iacr2010.html#FuchsbauerV10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BauerCNTV10" mdate="2018-08-14">
+<author>Aurélie Bauer</author>
+<author>Jean-Sébastien Coron</author>
+<author>David Naccache</author>
+<author>Mehdi Tibouchi</author>
+<author>Damien Vergnaud</author>
+<title>On The Broadcast and Validity-Checking Security of PKCS \#1 v1.5 Encryption.</title>
+<pages>135</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2010/135</ee>
+<url>db/journals/iacr/iacr2010.html#BauerCNTV10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/JoyeTV10" mdate="2018-08-14">
+<author>Marc Joye</author>
+<author>Mehdi Tibouchi</author>
+<author>Damien Vergnaud</author>
+<title>Huff's Model for Elliptic Curves.</title>
+<pages>383</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2010/383</ee>
+<url>db/journals/iacr/iacr2010.html#JoyeTV10</url>
+</article>
+</r>
+<r><article key="journals/ijfcs/Vergnaud09" mdate="2018-11-02">
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>New Extensions of Pairing-Based Signatures into Universal (Multi) Designated Verifier Signatures.</title>
+<pages>109-133</pages>
+<year>2009</year>
+<volume>20</volume>
+<journal>Int. J. Found. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/ijfcs/ijfcs20.html#Vergnaud09</url>
+</article>
+</r>
+<r><inproceedings key="conf/cans/FuchsbauerPV09" mdate="2018-11-14">
+<author>Georg Fuchsbauer</author>
+<author orcid="0000-0002-6668-683X">David Pointcheval</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Transferable Constant-Size Fair E-Cash.</title>
+<pages>226-247</pages>
+<year>2009</year>
+<booktitle>CANS</booktitle>
+<crossref>conf/cans/2009</crossref>
+<url>db/conf/cans/cans2009.html#FuchsbauerPV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cans/LibertV09" mdate="2018-11-02">
+<author>Benoît Libert</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Group Signatures with Verifier-Local Revocation and Backward Unlinkability in the Standard Model.</title>
+<pages>498-517</pages>
+<year>2009</year>
+<booktitle>CANS</booktitle>
+<crossref>conf/cans/2009</crossref>
+<url>db/conf/cans/cans2009.html#LibertV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ctrsa/LibertV09" mdate="2018-11-02">
+<author>Benoît Libert</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Adaptive-ID Secure Revocable Identity-Based Encryption.</title>
+<pages>1-15</pages>
+<year>2009</year>
+<booktitle>CT-RSA</booktitle>
+<crossref>conf/ctrsa/2009</crossref>
+<url>db/conf/ctrsa/ctrsa2009.html#LibertV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ima/DallotV09" mdate="2018-11-02">
+<author>Léonard Dallot</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Provably Secure Code-Based Threshold Ring Signatures.</title>
+<pages>222-235</pages>
+<year>2009</year>
+<booktitle>IMA Int. Conf.</booktitle>
+<crossref>conf/ima/2009</crossref>
+<url>db/conf/ima/ima2009.html#DallotV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isw/CanardDGHLSTV09" mdate="2018-11-02">
+<author>Sébastien Canard</author>
+<author>Cécile Delerablée</author>
+<author>Aline Gouget</author>
+<author>Emeline Hufschmitt</author>
+<author>Fabien Laguillaumie</author>
+<author>Hervé Sibert</author>
+<author>Jacques Traoré</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Fair E-Cash: Be Compact, Spend Faster.</title>
+<pages>294-309</pages>
+<year>2009</year>
+<booktitle>ISC</booktitle>
+<crossref>conf/isw/2009</crossref>
+<url>db/conf/isw/isc2009.html#CanardDGHLSTV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkc/LibertV09" mdate="2018-11-02">
+<author>Benoît Libert</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Towards Black-Box Accountable Authority IBE with Short Ciphertexts and Private Keys.</title>
+<pages>235-255</pages>
+<year>2009</year>
+<booktitle>Public Key Cryptography</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-00468-1_14</ee>
+<crossref>conf/pkc/2009</crossref>
+<url>db/conf/pkc/pkc2009.html#LibertV09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/acns/2009" mdate="2019-05-14">
+<editor orcid="0000-0002-2447-4329">Michel Abdalla</editor>
+<editor orcid="0000-0002-6668-683X">David Pointcheval</editor>
+<editor orcid="0000-0003-4997-2276">Pierre-Alain Fouque</editor>
+<editor>Damien Vergnaud</editor>
+<title>Applied Cryptography and Network Security, 7th International Conference, ACNS 2009, Paris-Rocquencourt, France, June 2-5, 2009. Proceedings</title>
+<volume>5536</volume>
+<year>2009</year>
+<isbn>978-3-642-01956-2</isbn>
+<booktitle>ACNS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<url>db/conf/acns/acns2009.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/HemenwayLOV09" mdate="2018-08-14">
+<author>Brett Hemenway</author>
+<author>Benoît Libert</author>
+<author>Rafail Ostrovsky</author>
+<author>Damien Vergnaud</author>
+<title>Lossy Encryption: Constructions from General Assumptions and Efficient Selective Opening Chosen Ciphertext Security.</title>
+<pages>88</pages>
+<year>2009</year>
+<volume>2009</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2009/088</ee>
+<url>db/journals/iacr/iacr2009.html#HemenwayLOV09</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FuchsbauerPV09" mdate="2018-08-14">
+<author>Georg Fuchsbauer</author>
+<author>David Pointcheval</author>
+<author>Damien Vergnaud</author>
+<title>Transferable Constant-Size Fair E-Cash.</title>
+<pages>146</pages>
+<year>2009</year>
+<volume>2009</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2009/146</ee>
+<url>db/journals/iacr/iacr2009.html#FuchsbauerPV09</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/LibertV08" mdate="2018-11-06">
+<author>Benoît Libert</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Multi-use unidirectional proxy re-signatures.</title>
+<pages>511-520</pages>
+<year>2008</year>
+<booktitle>ACM Conference on Computer and Communications Security</booktitle>
+<crossref>conf/ccs/2008</crossref>
+<url>db/conf/ccs/ccs2008.html#LibertV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ctrsa/BressonMV08" mdate="2018-11-02">
+<author>Emmanuel Bresson</author>
+<author>Jean Monnerat</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Separation Results on the "One-More" Computational Problems.</title>
+<pages>71-87</pages>
+<year>2008</year>
+<booktitle>CT-RSA</booktitle>
+<crossref>conf/ctrsa/2008</crossref>
+<url>db/conf/ctrsa/ctrsa2008.html#BressonMV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pairing/LibertV08" mdate="2018-11-02">
+<author>Benoît Libert</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Tracing Malicious Proxies in Proxy Re-encryption.</title>
+<pages>332-353</pages>
+<year>2008</year>
+<booktitle>Pairing</booktitle>
+<crossref>conf/pairing/2008</crossref>
+<url>db/conf/pairing/pairing2008.html#LibertV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkc/LibertV08" mdate="2018-11-02">
+<author>Benoît Libert</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Unidirectional Chosen-Ciphertext Secure Proxy Re-encryption.</title>
+<pages>360-379</pages>
+<year>2008</year>
+<booktitle>Public Key Cryptography</booktitle>
+<crossref>conf/pkc/2008</crossref>
+<url>db/conf/pkc/pkc2008.html#LibertV08</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0802-1076" mdate="2018-08-13">
+<author>Damien Vergnaud</author>
+<title>New Extensions of Pairing-based Signatures into Universal (Multi) Designated Verifier Signatures</title>
+<ee type="oa">http://arxiv.org/abs/0802.1076</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0802.1076</volume>
+<url>db/journals/corr/corr0802.html#abs-0802-1076</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0802-1113" mdate="2018-08-13">
+<author>Benoît Libert</author>
+<author>Damien Vergnaud</author>
+<title>Multi-Use Unidirectional Proxy Re-Signatures</title>
+<ee type="oa">http://arxiv.org/abs/0802.1113</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0802.1113</volume>
+<url>db/journals/corr/corr0802.html#abs-0802-1113</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0807-1775" mdate="2018-08-13">
+<author>Benoît Libert</author>
+<author>Damien Vergnaud</author>
+<title>Efficient Accountable Authority Identity-Based Encryption under Static Complexity Assumptions</title>
+<ee type="oa">http://arxiv.org/abs/0807.1775</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0807.1775</volume>
+<url>db/journals/corr/corr0807.html#abs-0807-1775</url>
+</article>
+</r>
+<r><article key="journals/ipl/LaguillaumieV07" mdate="2018-11-30">
+<author>Fabien Laguillaumie</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Multi-designated verifiers signatures: anonymity without encryption.</title>
+<pages>127-132</pages>
+<year>2007</year>
+<volume>102</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2-3</number>
+<url>db/journals/ipl/ipl102.html#LaguillaumieV07</url>
+</article>
+</r>
+<r><inproceedings key="conf/acns/AimaniV07" mdate="2019-08-20">
+<author>Laila El Aimani</author>
+<author>Damien Vergnaud</author>
+<title>Gradually Convertible Undeniable Signatures.</title>
+<pages>478-496</pages>
+<year>2007</year>
+<crossref>conf/acns/2007</crossref>
+<booktitle>ACNS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-72738-5_31</ee>
+<url>db/conf/acns/acns2007.html#AimaniV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isw/LaguillaumieV07" mdate="2017-05-21">
+<author>Fabien Laguillaumie</author>
+<author>Damien Vergnaud</author>
+<title>On the Soundness of Restricted Universal Designated Verifier Signatures and Dedicated Signatures.</title>
+<pages>175-188</pages>
+<year>2007</year>
+<crossref>conf/isw/2007</crossref>
+<booktitle>ISC</booktitle>
+<url>db/conf/isw/isc2007.html#LaguillaumieV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isw/CastagnosV07" mdate="2017-05-21">
+<author>Guilhem Castagnos</author>
+<author>Damien Vergnaud</author>
+<title>Trapdoor Permutation Polynomials of Z/ <i>n</i> Z and Public Key Cryptosystems.</title>
+<pages>333-350</pages>
+<year>2007</year>
+<crossref>conf/isw/2007</crossref>
+<booktitle>ISC</booktitle>
+<url>db/conf/isw/isc2007.html#CastagnosV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waifi/CayrelOV07" mdate="2017-05-26">
+<author>Pierre-Louis Cayrel</author>
+<author>Ayoub Otmani</author>
+<author>Damien Vergnaud</author>
+<title>On Kabatianskii-Krouk-Smeets Signatures.</title>
+<pages>237-251</pages>
+<year>2007</year>
+<crossref>conf/waifi/2007</crossref>
+<booktitle>WAIFI</booktitle>
+<url>db/conf/waifi/waifi2007.html#CayrelOV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/Vergnaud06" mdate="2018-11-02">
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>New Extensions of Pairing-Based Signatures into Universal Designated Verifier Signatures.</title>
+<pages>58-69</pages>
+<year>2006</year>
+<crossref>conf/icalp/2006-2</crossref>
+<booktitle>ICALP (2)</booktitle>
+<url>db/conf/icalp/icalp2006-2.html#Vergnaud06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asiacrypt/PaillierV05" mdate="2018-11-02">
+<author>Pascal Paillier</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Discrete-Log-Based Signatures May Not Be Equivalent to Discrete Log.</title>
+<pages>1-20</pages>
+<year>2005</year>
+<crossref>conf/asiacrypt/2005</crossref>
+<booktitle>ASIACRYPT</booktitle>
+<url>db/conf/asiacrypt/asiacrypt2005.html#PaillierV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asiacrypt/LaguillaumiePV05" mdate="2018-11-02">
+<author>Fabien Laguillaumie</author>
+<author>Pascal Paillier</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Universally Convertible Directed Signatures.</title>
+<pages>682-701</pages>
+<year>2005</year>
+<crossref>conf/asiacrypt/2005</crossref>
+<booktitle>ASIACRYPT</booktitle>
+<url>db/conf/asiacrypt/asiacrypt2005.html#LaguillaumiePV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ctrsa/LaguillaumieV05" mdate="2017-05-21">
+<author>Fabien Laguillaumie</author>
+<author>Damien Vergnaud</author>
+<title>Time-Selective Convertible Undeniable Signatures.</title>
+<pages>154-171</pages>
+<year>2005</year>
+<crossref>conf/ctrsa/2005</crossref>
+<booktitle>CT-RSA</booktitle>
+<url>db/conf/ctrsa/ctrsa2005.html#LaguillaumieV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indocrypt/LaguillaumieV05" mdate="2018-11-02">
+<author>Fabien Laguillaumie</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Short Undeniable Signatures Without Random Oracles: The Missing Link.</title>
+<pages>283-296</pages>
+<year>2005</year>
+<crossref>conf/indocrypt/2005</crossref>
+<booktitle>INDOCRYPT</booktitle>
+<url>db/conf/indocrypt/indocrypt2005.html#LaguillaumieV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcc/Vergnaud05" mdate="2017-05-25">
+<author>Damien Vergnaud</author>
+<title>RSA-Based Secret Handshakes.</title>
+<pages>252-274</pages>
+<year>2005</year>
+<crossref>conf/wcc/2005</crossref>
+<booktitle>WCC</booktitle>
+<url>db/conf/wcc/wcc2005.html#Vergnaud05</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcm/LaguillaumieTV04" mdate="2018-11-02">
+<author>Fabien Laguillaumie</author>
+<author>Jacques Traoré</author>
+<author orcid="0000-0002-2113-3967">Damien Vergnaud</author>
+<title>Universal forgery on Sekhar's signature scheme with message recovery.</title>
+<pages>1493-1495</pages>
+<year>2004</year>
+<volume>81</volume>
+<journal>Int. J. Comput. Math.</journal>
+<number>12</number>
+<url>db/journals/ijcm/ijcm81.html#LaguillaumieTV04</url>
+</article>
+</r>
+<r><inproceedings key="conf/icics/LaguillaumieV04" mdate="2017-05-23">
+<author>Fabien Laguillaumie</author>
+<author>Damien Vergnaud</author>
+<title>Multi-designated Verifiers Signatures.</title>
+<pages>495-507</pages>
+<year>2004</year>
+<crossref>conf/icics/2004</crossref>
+<booktitle>ICICS</booktitle>
+<url>db/conf/icics/icics2004.html#LaguillaumieV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scn/LaguillaumieV04" mdate="2017-05-26">
+<author>Fabien Laguillaumie</author>
+<author>Damien Vergnaud</author>
+<title>Designated Verifier Signatures: Anonymity and Efficient Construction from Any Bilinear Map.</title>
+<pages>105-119</pages>
+<year>2004</year>
+<crossref>conf/scn/2004</crossref>
+<booktitle>SCN</booktitle>
+<url>db/conf/scn/scn2004.html#LaguillaumieV04</url>
+</inproceedings>
+</r>
+<coauthors n="58" nc="2">
+<co c="0"><na f="a/Abdalla:Michel">Michel Abdalla</na></co>
+<co c="0"><na f="a/Aimani:Laila_El">Laila El Aimani</na></co>
+<co c="0"><na f="b/Bauer:Aur=eacute=lie">Aurélie Bauer</na></co>
+<co c="0"><na f="b/Bela=iuml=d:Sonia">Sonia Belaïd</na></co>
+<co c="0" n="2"><na f="b/Benhamouda:Fabrice">Fabrice Benhamouda</na><na>Fabrice Ben Hamouda</na></co>
+<co c="0"><na f="b/Beunardeau:Marc">Marc Beunardeau</na></co>
+<co c="0"><na f="b/Blazy:Olivier">Olivier Blazy</na></co>
+<co c="0"><na f="b/Bresson:Emmanuel">Emmanuel Bresson</na></co>
+<co c="0"><na f="c/Canard:S=eacute=bastien">Sébastien Canard</na></co>
+<co c="0"><na f="c/Castagnos:Guilhem">Guilhem Castagnos</na></co>
+<co c="0"><na f="c/Cayrel:Pierre=Louis">Pierre-Louis Cayrel</na></co>
+<co c="0"><na f="c/Chevalier:C=eacute=line">Céline Chevalier</na></co>
+<co c="0"><na f="c/Connolly:Aisling">Aisling Connolly</na></co>
+<co c="0"><na f="c/Coron:Jean=S=eacute=bastien">Jean-Sébastien Coron</na></co>
+<co c="0"><na f="d/Dallot:L=eacute=onard">Léonard Dallot</na></co>
+<co c="0"><na f="d/Delerabl=eacute=e:C=eacute=cile">Cécile Delerablée</na></co>
+<co c="0"><na f="d/Dodis:Yevgeniy">Yevgeniy Dodis</na></co>
+<co c="1"><na f="d/Domenjoud:Eric">Eric Domenjoud</na></co>
+<co c="0"><na f="f/Farshim:Pooya">Pooya Farshim</na></co>
+<co c="0"><na f="f/Ferradi:Houda">Houda Ferradi</na></co>
+<co c="0"><na f="f/Fouque:Pierre=Alain">Pierre-Alain Fouque</na></co>
+<co c="0"><na f="f/Fuchsbauer:Georg">Georg Fuchsbauer</na></co>
+<co c="0"><na f="g/G=eacute=raud:R=eacute=mi">Rémi Géraud</na></co>
+<co c="0"><na f="g/Goudarzi:Dahmun">Dahmun Goudarzi</na></co>
+<co c="0"><na f="g/Gouget:Aline">Aline Gouget</na></co>
+<co c="-1"><na f="g/Guillevic:Aurore">Aurore Guillevic</na></co>
+<co c="0"><na f="h/Hemenway:Brett">Brett Hemenway</na></co>
+<co c="0"><na f="h/Hufschmitt:Emeline">Emeline Hufschmitt</na></co>
+<co c="0"><na f="i/Izabach=egrave=ne:Malika">Malika Izabachène</na></co>
+<co c="0"><na f="j/Jambert:Amandine">Amandine Jambert</na></co>
+<co c="1"><na f="j/Jamet:Damien">Damien Jamet</na></co>
+<co c="0"><na f="j/Joye:Marc">Marc Joye</na></co>
+<co c="0"><na f="k/Khati:Louiza">Louiza Khati</na></co>
+<co c="0"><na f="k/Kushilevitz:Eyal">Eyal Kushilevitz</na></co>
+<co c="0"><na f="l/Laguillaumie:Fabien">Fabien Laguillaumie</na></co>
+<co c="0"><na f="l/Libert:Beno=icirc=t">Benoît Libert</na></co>
+<co c="-1"><na f="m/Mefenza:Thierry">Thierry Mefenza</na></co>
+<co c="0"><na f="m/Monnerat:Jean">Jean Monnerat</na></co>
+<co c="0"><na f="m/Mouha:Nicky">Nicky Mouha</na></co>
+<co c="0"><na f="n/Naccache:David">David Naccache</na></co>
+<co c="0"><na f="o/Ostrovsky:Rafail">Rafail Ostrovsky</na></co>
+<co c="0"><na f="o/Otmani:Ayoub">Ayoub Otmani</na></co>
+<co c="0"><na f="p/Paillier:Pascal">Pascal Paillier</na></co>
+<co c="0"><na f="p/Passel=egrave=gue:Alain">Alain Passelègue</na></co>
+<co c="0"><na f="p/Pointcheval:David">David Pointcheval</na></co>
+<co c="0"><na f="p/Prouff:Emmanuel">Emmanuel Prouff</na></co>
+<co c="0"><na f="r/Rivain:Matthieu">Matthieu Rivain</na></co>
+<co c="0"><na f="r/Ros=eacute=n:Adi">Adi Rosén</na></co>
+<co c="0"><na f="r/Ruhault:Sylvain">Sylvain Ruhault</na></co>
+<co c="0"><na f="s/Sibert:Herv=eacute=">Hervé Sibert</na></co>
+<co c="0"><na f="t/Thillard:Adrian">Adrian Thillard</na></co>
+<co c="0"><na f="t/Tibouchi:Mehdi">Mehdi Tibouchi</na></co>
+<co c="0"><na f="t/Traor=eacute=:Jacques">Jacques Traoré</na></co>
+<co c="0"><na f="v/Vivek:Srinivas">Srinivas Vivek</na></co>
+<co c="1"><na f="v/Vuillon:Laurent">Laurent Vuillon</na></co>
+<co c="0"><na f="w/Wichs:Daniel">Daniel Wichs</na></co>
+<co c="-1"><na f="x/Xiao:David">David Xiao</na></co>
+<co c="0"><na f="z/Zapalowicz:Jean=Christophe">Jean-Christophe Zapalowicz</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Claire Hanen" n="18">
+<person key="homepages/19/5198" mdate="2019-01-23">
+<author>Claire Hanen</author>
+<url>https://orcid.org/0000-0003-2482-5042</url>
+</person>
+<r><article key="journals/scheduling/CarlierHK17" mdate="2018-11-30">
+<author>Aurélien Carlier</author>
+<author orcid="0000-0003-2482-5042">Claire Hanen</author>
+<author>Alix Munier Kordon</author>
+<title>The equivalence of two classical list scheduling algorithms for dependent typed tasks with release dates, due dates and precedence delays.</title>
+<pages>303-311</pages>
+<year>2017</year>
+<volume>20</volume>
+<journal>J. Scheduling</journal>
+<number>3</number>
+<url>db/journals/scheduling/scheduling20.html#CarlierHK17</url>
+</article>
+</r>
+<r><article key="journals/scheduling/HanzalekH15" mdate="2017-05-20">
+<author>Zdenek Hanzálek</author>
+<author>Claire Hanen</author>
+<title>The impact of core precedences in a cyclic RCPSP with precedence delays.</title>
+<pages>275-284</pages>
+<year>2015</year>
+<volume>18</volume>
+<journal>J. Scheduling</journal>
+<number>3</number>
+<url>db/journals/scheduling/scheduling18.html#HanzalekH15</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/AhmadHH14" mdate="2018-11-02">
+<author>Aasem Ahmad</author>
+<author>Zdenek Hanzálek</author>
+<author orcid="0000-0003-2482-5042">Claire Hanen</author>
+<title>A polynomial scheduling algorithm for IEEE 802.15.4/ ZigBee cluster tree WSN with one collision domain and period crossing constraint.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>ETFA</booktitle>
+<crossref>conf/etfa/2014</crossref>
+<url>db/conf/etfa/etfa2014.html#AhmadHH14</url>
+</inproceedings>
+</r>
+<r><article key="journals/coap/AyalaBAH13" mdate="2017-05-17">
+<author>Maria Ayala</author>
+<author>Abir Benabid</author>
+<author>Christian Artigues</author>
+<author>Claire Hanen</author>
+<title>The resource-constrained modulo scheduling problem: an experimental study.</title>
+<pages>645-673</pages>
+<year>2013</year>
+<volume>54</volume>
+<journal>Comp. Opt. and Appl.</journal>
+<number>3</number>
+<url>db/journals/coap/coap54.html#AyalaBAH13</url>
+</article>
+</r>
+<r><article key="journals/tac/Benabid-NajjarHMK12" mdate="2017-05-20">
+<author>Abir Benabid-Najjar</author>
+<author>Claire Hanen</author>
+<author>Olivier Marchetti</author>
+<author>Alix Munier Kordon</author>
+<title>Periodic Schedules for Bounded Timed Weighted Event Graphs.</title>
+<pages>1222-1232</pages>
+<year>2012</year>
+<volume>57</volume>
+<journal>IEEE Trans. Automat. Contr.</journal>
+<number>5</number>
+<url>db/journals/tac/tac57.html#Benabid-NajjarHMK12</url>
+</article>
+</r>
+<r><article key="journals/scheduling/BenabidH11" mdate="2018-11-30">
+<author>Abir Benabid</author>
+<author orcid="0000-0003-2482-5042">Claire Hanen</author>
+<title>Worst case analysis of decomposed software pipelining for cyclic unitary RCPSP with precedence delays.</title>
+<pages>511-522</pages>
+<year>2011</year>
+<volume>14</volume>
+<journal>J. Scheduling</journal>
+<number>5</number>
+<url>db/journals/scheduling/scheduling14.html#BenabidH11</url>
+</article>
+</r>
+<r><article key="journals/endm/BenabidH10" mdate="2018-11-30">
+<author>Abir Benabid</author>
+<author orcid="0000-0003-2482-5042">Claire Hanen</author>
+<title>Minimizing lateness for precedence graphs with constant delays on dedicated pipelined processors.</title>
+<pages>791-798</pages>
+<year>2010</year>
+<volume>36</volume>
+<journal>Electronic Notes in Discrete Mathematics</journal>
+<url>db/journals/endm/endm36.html#BenabidH10</url>
+</article>
+</r>
+<r><article key="journals/itor/BenabidH10" mdate="2018-11-30">
+<author>Abir Benabid</author>
+<author orcid="0000-0003-2482-5042">Claire Hanen</author>
+<title>Performance of Garey-Johnson algorithm for pipelined typed tasks systems.</title>
+<pages>797-808</pages>
+<year>2010</year>
+<volume>17</volume>
+<journal>ITOR</journal>
+<number>6</number>
+<url>db/journals/itor/itor17.html#BenabidH10</url>
+</article>
+</r>
+<r><article key="journals/dam/HanenK09" mdate="2018-11-30">
+<author orcid="0000-0003-2482-5042">Claire Hanen</author>
+<author>Alix Munier Kordon</author>
+<title>Periodic schedules for linear precedence constraints.</title>
+<pages>280-291</pages>
+<year>2009</year>
+<volume>157</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>2</number>
+<url>db/journals/dam/dam157.html#HanenK09</url>
+</article>
+</r>
+<r><article key="journals/scheduling/HanenZ09" mdate="2019-09-16">
+<author orcid="0000-0003-2482-5042">Claire Hanen</author>
+<author orcid="0000-0003-2024-8129">Yakov Zinder</author>
+<title>The worst-case analysis of the Garey-Johnson algorithm.</title>
+<pages>389-400</pages>
+<year>2009</year>
+<volume>12</volume>
+<journal>J. Scheduling</journal>
+<number>4</number>
+<url>db/journals/scheduling/scheduling12.html#HanenZ09</url>
+</article>
+</r>
+<r><incollection key="books/tf/09/Hanen09" mdate="2019-09-16">
+<author orcid="0000-0003-2482-5042">Claire Hanen</author>
+<title>Cyclic Scheduling.</title>
+<pages>103-128</pages>
+<year>2009</year>
+<booktitle>Introduction to Scheduling</booktitle>
+<crossref>books/tf/09/RV2009</crossref>
+<url>db/books/collections/RV2009.html#Hanen09</url>
+</incollection>
+</r>
+<r><article key="journals/pc/HanenK02" mdate="2018-11-30">
+<author orcid="0000-0003-2482-5042">Claire Hanen</author>
+<author>Alix Munier Kordon</author>
+<title>Minimizing the volume in scheduling an out-tree with communication delays and duplication.</title>
+<pages>1573-1585</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>Parallel Computing</journal>
+<number>11</number>
+<url>db/journals/pc/pc28.html#HanenK02</url>
+</article>
+</r>
+<r><article key="journals/dam/HanenM01" mdate="2018-11-02">
+<author orcid="0000-0003-2482-5042">Claire Hanen</author>
+<author>Alix Munier</author>
+<title>An approximation algorithm for scheduling dependent tasks on m processors with small communication delays.</title>
+<pages>239-257</pages>
+<year>2001</year>
+<volume>108</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>3</number>
+<url>db/journals/dam/dam108.html#HanenM01</url>
+</article>
+</r>
+<r><article key="journals/dam/HanenK98" mdate="2018-11-02">
+<author orcid="0000-0003-2482-5042">Claire Hanen</author>
+<author>Alix Munier Kordon</author>
+<title>Performance of Coffman-Graham Schedules in the Presence of Unit Communication Delays.</title>
+<pages>93-108</pages>
+<year>1998</year>
+<volume>81</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>1-3</number>
+<url>db/journals/dam/dam81.html#HanenK98</url>
+</article>
+</r>
+<r><article key="journals/tcs/MunierH97" mdate="2017-05-28">
+<author>Alix Munier</author>
+<author>Claire Hanen</author>
+<title>Using Duplication for Scheduling Unitary Tasks on m Processors with Unit Communication Delays.</title>
+<pages>119-127</pages>
+<year>1997</year>
+<volume>178</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs178.html#MunierH97</url>
+</article>
+</r>
+<r><article key="journals/dam/HanenM95" mdate="2018-11-30">
+<author orcid="0000-0003-2482-5042">Claire Hanen</author>
+<author>Alix Munier</author>
+<title>A Study of the Cyclic Scheduling Problem on Parallel Processors.</title>
+<pages>167-192</pages>
+<year>1995</year>
+<volume>57</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>2-3</number>
+<url>db/journals/dam/dam57.html#HanenM95</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/Hanen88" mdate="2018-11-02">
+<author orcid="0000-0003-2482-5042">Claire Hanen</author>
+<title>Optimizing microprograms for recurrent loops on pipelined architectures using timed Petri nets.</title>
+<pages>236-261</pages>
+<year>1988</year>
+<crossref>conf/apn/1988</crossref>
+<booktitle>European Workshop on Applications and Theory in Petri Nets</booktitle>
+<url>db/conf/apn/apn1988.html#Hanen88</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/Hanen88" mdate="2018-11-06">
+<author>Claire Hanen</author>
+<title>Optimizing horizontal microprograms for vectorial loops with timed petri nets.</title>
+<pages>466-477</pages>
+<year>1988</year>
+<crossref>conf/ics/1988</crossref>
+<booktitle>ICS</booktitle>
+<url>db/conf/ics/ics1988.html#Hanen88</url>
+</inproceedings>
+</r>
+<coauthors n="9" nc="2">
+<co c="1"><na f="a/Ahmad:Aasem">Aasem Ahmad</na></co>
+<co c="0"><na f="a/Artigues:Christian">Christian Artigues</na></co>
+<co c="0"><na f="a/Ayala:Maria">Maria Ayala</na></co>
+<co c="0" n="2"><na f="b/Benabid:Abir">Abir Benabid</na><na>Abir Benabid-Najjar</na></co>
+<co c="0"><na f="c/Carlier:Aur=eacute=lien">Aurélien Carlier</na></co>
+<co c="1"><na f="h/Hanz=aacute=lek:Zdenek">Zdenek Hanzálek</na></co>
+<co c="0" n="2"><na f="k/Kordon:Alix_Munier">Alix Munier Kordon</na><na>Alix Munier</na></co>
+<co c="0"><na f="m/Marchetti:Olivier">Olivier Marchetti</na></co>
+<co c="-1"><na f="z/Zinder:Yakov">Yakov Zinder</na></co>
+</coauthors>
+</dblpperson>
+

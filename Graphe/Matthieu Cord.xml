@@ -1,0 +1,2296 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Matthieu Cord" n="168">
+<person key="homepages/68/3117" mdate="2009-06-09">
+<author>Matthieu Cord</author>
+</person>
+<r><article key="journals/ijcv/MordanTHC19" mdate="2019-11-07">
+<author orcid="0000-0002-4775-9239">Taylor Mordan</author>
+<author>Nicolas Thome</author>
+<author>Gilles Hénaff</author>
+<author>Matthieu Cord</author>
+<title>End-to-End Learning of Latent Deformable Part-Based Representations for Object Detection.</title>
+<pages>1659-1679</pages>
+<year>2019</year>
+<volume>127</volume>
+<journal>International Journal of Computer Vision</journal>
+<number>11-12</number>
+<url>db/journals/ijcv/ijcv127.html#MordanTHC19</url>
+</article>
+</r>
+<r><article key="journals/ijon/BlotPTC19" mdate="2019-02-27">
+<author>Michael Blot</author>
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Distributed optimization for deep learning with gossip exchange.</title>
+<pages>287-296</pages>
+<year>2019</year>
+<volume>330</volume>
+<journal>Neurocomputing</journal>
+<url>db/journals/ijon/ijon330.html#BlotPTC19</url>
+</article>
+</r>
+<r><article key="journals/pami/DurandTC19" mdate="2019-02-04">
+<author orcid="0000-0003-3698-0920">Thibaut Durand</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Exploiting Negative Evidence for Deep Latent Structured Models.</title>
+<pages>337-351</pages>
+<year>2019</year>
+<volume>41</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>2</number>
+<url>db/journals/pami/pami41.html#DurandTC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/Ben-younesCTC19" mdate="2019-09-25">
+<author>Hedi Ben-younes</author>
+<author>Rémi Cadène</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection.</title>
+<pages>8102-8109</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Ben-younesCTC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/CadeneBCT19" mdate="2019-12-18">
+<author>Rémi Cadène</author>
+<author>Hedi Ben-younes</author>
+<author>Matthieu Cord</author>
+<author>Nicolas Thome</author>
+<title>MUREL: Multimodal Relational Reasoning for Visual Question Answering.</title>
+<pages>1989-1998</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Cadene_MUREL_Multimodal_Relational_Reasoning_for_Visual_Question_Answering_CVPR_2019_paper.html</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#CadeneBCT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/VuJBCP19" mdate="2019-12-18">
+<author>Tuan-Hung Vu</author>
+<author>Himalaya Jain</author>
+<author>Maxime Bucher</author>
+<author>Matthieu Cord</author>
+<author>Patrick Pérez</author>
+<title>ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation.</title>
+<pages>2517-2526</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.html</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#VuJBCP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/EngilbergeCPC19" mdate="2019-12-18">
+<author>Martin Engilberge</author>
+<author>Louis Chevallier</author>
+<author>Patrick Pérez</author>
+<author>Matthieu Cord</author>
+<title>SoDeep: A Sorting Deep Net to Learn Ranking Loss Surrogates.</title>
+<pages>10792-10801</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Engilberge_SoDeep_A_Sorting_Deep_Net_to_Learn_Ranking_Loss_Surrogates_CVPR_2019_paper.html</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#EngilbergeCPC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gsi/BrooksSBSC19" mdate="2019-08-19">
+<author>Daniel A. Brooks</author>
+<author>Olivier Schwander</author>
+<author>Frédéric Barbaresco</author>
+<author>Jean-Yves Schneider</author>
+<author>Matthieu Cord</author>
+<title>Second-Order Networks in PyTorch.</title>
+<pages>751-758</pages>
+<year>2019</year>
+<booktitle>GSI</booktitle>
+<crossref>conf/gsi/2019</crossref>
+<url>db/conf/gsi/gsi2019.html#BrooksSBSC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/BrooksSBSC19" mdate="2019-06-30">
+<author>Daniel A. Brooks</author>
+<author>Olivier Schwander</author>
+<author>Frédéric Barbaresco</author>
+<author>Jean-Yves Schneider</author>
+<author>Matthieu Cord</author>
+<title>Exploring Complex Time-series Representations for Riemannian Machine Learning of Radar Data.</title>
+<pages>3672-3676</pages>
+<year>2019</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2019</crossref>
+<url>db/conf/icassp/icassp2019.html#BrooksSBSC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/ChenSDC19" mdate="2019-12-11">
+<author>Yifu Chen</author>
+<author>Antoine Saporta</author>
+<author>Arnaud Dapogny</author>
+<author>Matthieu Cord</author>
+<title>Delving Deep into Interpreting Neural Nets with Piece-Wise Affine Representation.</title>
+<pages>609-613</pages>
+<year>2019</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2019</crossref>
+<url>db/conf/icip/icip2019.html#ChenSDC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SaportaCBC19" mdate="2019-12-11">
+<author>Antoine Saporta</author>
+<author>Yifu Chen</author>
+<author>Michael Blot</author>
+<author>Matthieu Cord</author>
+<title>Reve: Regularizing Deep Learning with Variational Entropy Bound.</title>
+<pages>1610-1614</pages>
+<year>2019</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2019</crossref>
+<url>db/conf/icip/icip2019.html#SaportaCBC19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-00038" mdate="2019-05-21">
+<author>Hedi Ben-younes</author>
+<author>Rémi Cadène</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection.</title>
+<year>2019</year>
+<volume>abs/1902.00038</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.00038</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-00038</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-09487" mdate="2019-05-21">
+<author>Rémi Cadène</author>
+<author>Hedi Ben-younes</author>
+<author>Matthieu Cord</author>
+<author>Nicolas Thome</author>
+<title>MUREL: Multimodal Relational Reasoning for Visual Question Answering.</title>
+<year>2019</year>
+<volume>abs/1902.09487</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.09487</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-09487</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-01886" mdate="2019-04-24">
+<author>Tuan-Hung Vu</author>
+<author>Himalaya Jain</author>
+<author>Maxime Bucher</author>
+<author>Matthieu Cord</author>
+<author>Patrick Pérez</author>
+<title>DADA: Depth-aware Domain Adaptation in Semantic Segmentation.</title>
+<year>2019</year>
+<volume>abs/1904.01886</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.01886</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-01886</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-02549" mdate="2019-04-24">
+<author>Arnaud Dapogny</author>
+<author>Kevin Bailly</author>
+<author>Matthieu Cord</author>
+<title>DeCaFA: Deep Convolutional Cascade for Face Alignment In The Wild.</title>
+<year>2019</year>
+<volume>abs/1904.02549</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.02549</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-02549</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-04272" mdate="2019-04-25">
+<author>Martin Engilberge</author>
+<author>Louis Chevallier</author>
+<author>Patrick Pérez</author>
+<author>Matthieu Cord</author>
+<title>SoDeep: a Sorting Deep net to learn ranking loss surrogates.</title>
+<year>2019</year>
+<volume>abs/1904.04272</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.04272</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-04272</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-01861" mdate="2019-05-28">
+<author>Arnaud Dapogny</author>
+<author>Matthieu Cord</author>
+<author>Patrick Pérez</author>
+<title>The Missing Data Encoder: Cross-Channel Image Completion\\with Hide-And-Seek Adversarial Network.</title>
+<year>2019</year>
+<volume>abs/1905.01861</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.01861</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-01861</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-01892" mdate="2019-05-27">
+<author>Yifu Chen</author>
+<author>Arnaud Dapogny</author>
+<author>Matthieu Cord</author>
+<title>SEMEDA: Enhancing Segmentation Precision with Semantic Edge Aware Loss.</title>
+<year>2019</year>
+<volume>abs/1905.01892</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.01892</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-01892</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-00804" mdate="2019-11-08">
+<author>Thomas Robert 0001</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>DualDis: Dual-Branch Disentangling with Adversarial Learning.</title>
+<year>2019</year>
+<volume>abs/1906.00804</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.00804</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-00804</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-00817" mdate="2019-06-13">
+<author>Maxime Bucher</author>
+<author>Tuan-Hung Vu</author>
+<author>Matthieu Cord</author>
+<author>Patrick Pérez</author>
+<title>Zero-Shot Semantic Segmentation.</title>
+<year>2019</year>
+<volume>abs/1906.00817</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.00817</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-00817</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-05186" mdate="2019-06-14">
+<author>Spyros Gidaris</author>
+<author>Andrei Bursuc</author>
+<author>Nikos Komodakis</author>
+<author>Patrick Pérez</author>
+<author>Matthieu Cord</author>
+<title>Boosting Few-Shot Visual Learning with Self-Supervision.</title>
+<year>2019</year>
+<volume>abs/1906.05186</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.05186</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-05186</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-10169" mdate="2019-06-27">
+<author>Rémi Cadène</author>
+<author>Corentin Dancette</author>
+<author>Hedi Ben-younes</author>
+<author>Matthieu Cord</author>
+<author>Devi Parikh</author>
+<title>RUBi: Reducing Unimodal Biases in Visual Question Answering.</title>
+<year>2019</year>
+<volume>abs/1906.10169</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.10169</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-10169</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-02414" mdate="2019-09-16">
+<author>Daniel A. Brooks</author>
+<author>Olivier Schwander</author>
+<author>Frédéric Barbaresco</author>
+<author>Jean-Yves Schneider</author>
+<author>Matthieu Cord</author>
+<title>Riemannian batch normalization for SPD neural networks.</title>
+<year>2019</year>
+<volume>abs/1909.02414</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.02414</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-02414</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-04851" mdate="2019-10-16">
+<author>Charles Corbière</author>
+<author>Nicolas Thome</author>
+<author>Avner Bar-Hen</author>
+<author>Matthieu Cord</author>
+<author>Patrick Pérez</author>
+<title>Addressing Failure Prediction by Learning Model Confidence.</title>
+<year>2019</year>
+<volume>abs/1910.04851</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.04851</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-04851</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-06816" mdate="2019-10-16">
+<author>Antoine Saporta</author>
+<author>Yifu Chen</author>
+<author>Michael Blot</author>
+<author>Matthieu Cord</author>
+<title>REVE: Regularizing Deep Learning with Variational Entropy Bound.</title>
+<year>2019</year>
+<volume>abs/1910.06816</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.06816</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-06816</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-02888" mdate="2019-11-11">
+<author>Victor Besnier</author>
+<author>Himalaya Jain</author>
+<author>Andrei Bursuc</author>
+<author>Matthieu Cord</author>
+<author>Patrick Pérez</author>
+<title>This dataset does not exist: training models from generated images.</title>
+<year>2019</year>
+<volume>abs/1911.02888</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.02888</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-02888</url>
+</article>
+</r>
+<r><article key="journals/prl/ChevalierTHC18" mdate="2018-12-18">
+<author>Marion Chevalier</author>
+<author>Nicolas Thome</author>
+<author>Gilles Hénaff</author>
+<author>Matthieu Cord</author>
+<title>Classifying low-resolution images by integrating privileged information in deep CNNs.</title>
+<pages>29-35</pages>
+<year>2018</year>
+<volume>116</volume>
+<journal>Pattern Recognition Letters</journal>
+<url>db/journals/prl/prl116.html#ChevalierTHC18</url>
+</article>
+</r>
+<r><article key="journals/tnn/DurandTC18" mdate="2018-12-26">
+<author orcid="0000-0003-3698-0920">Thibaut Durand</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>SyMIL: MinMax Latent SVM for Weakly Labeled Data.</title>
+<pages>6099-6112</pages>
+<year>2018</year>
+<volume>29</volume>
+<journal>IEEE Trans. Neural Netw. Learning Syst.</journal>
+<number>12</number>
+<url>db/journals/tnn/tnn29.html#DurandTC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/EngilbergeCPC18" mdate="2019-02-06">
+<author>Martin Engilberge</author>
+<author>Louis Chevallier</author>
+<author>Patrick Pérez</author>
+<author>Matthieu Cord</author>
+<title>Finding Beans in Burgers: Deep Semantic-Visual Embedding With Localization.</title>
+<pages>3984-3993</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Engilberge_Finding_Beans_in_CVPR_2018_paper.html</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#EngilbergeCPC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/MehrLBGTC18" mdate="2019-02-06">
+<author>Éloi Mehr</author>
+<author>André Lieutier</author>
+<author>Fernando Sanchez Bermudez</author>
+<author>Vincent Guitteny</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Manifold Learning in Quotient Spaces.</title>
+<pages>9165-9174</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Mehr_Manifold_Learning_in_CVPR_2018_paper.html</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#MehrLBGTC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/RobertTC18" mdate="2019-11-08">
+<author>Thomas Robert 0001</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>HybridNet: Classification and Reconstruction Cooperation for Semi-supervised Learning.</title>
+<pages>158-175</pages>
+<year>2018</year>
+<booktitle>ECCV (7)</booktitle>
+<crossref>conf/eccv/2018-7</crossref>
+<url>db/conf/eccv/eccv2018-7.html#RobertTC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CarvalhoCPSC18" mdate="2019-09-25">
+<author>Micael Carvalho</author>
+<author>Rémi Cadène</author>
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<author>Laure Soulier</author>
+<author>Matthieu Cord</author>
+<title>Images and Recipes: Retrieval in the Cooking Context.</title>
+<pages>169-174</pages>
+<year>2018</year>
+<booktitle>ICDE Workshops</booktitle>
+<crossref>conf/icde/2018w</crossref>
+<url>db/conf/icde/icde2018w.html#CarvalhoCPSC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/BlotRTC18" mdate="2019-11-08">
+<author>Michael Blot</author>
+<author>Thomas Robert 0001</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Shade: Information-Based Regularization for Deep Learning.</title>
+<pages>813-817</pages>
+<year>2018</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2018</crossref>
+<url>db/conf/icip/icip2018.html#BlotRTC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/MordanTHC18" mdate="2018-12-18">
+<author>Taylor Mordan</author>
+<author>Nicolas Thome</author>
+<author>Gilles Hénaff</author>
+<author>Matthieu Cord</author>
+<title>Revisiting Multi-Task Learning with ROCK: a Deep Residual Auxiliary Block for Visual Detection.</title>
+<pages>1317-1329</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#MordanTHC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/CarvalhoCPSTC18" mdate="2018-11-21">
+<author>Micael Carvalho</author>
+<author>Rémi Cadène</author>
+<author>David Picard</author>
+<author>Laure Soulier</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Image Embeddings.</title>
+<pages>35-44</pages>
+<year>2018</year>
+<booktitle>SIGIR</booktitle>
+<crossref>conf/sigir/2018</crossref>
+<url>db/conf/sigir/sigir2018.html#CarvalhoCPSTC18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-01720" mdate="2018-08-13">
+<author>Martin Engilberge</author>
+<author>Louis Chevallier</author>
+<author>Patrick Pérez</author>
+<author>Matthieu Cord</author>
+<title>Finding beans in burgers: Deep semantic-visual embedding with localization.</title>
+<year>2018</year>
+<volume>abs/1804.01720</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.01720</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-01720</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-10988" mdate="2019-11-08">
+<author>Michael Blot</author>
+<author>Thomas Robert 0001</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>SHADE: Information-Based Regularization for Deep Learning.</title>
+<year>2018</year>
+<volume>abs/1804.10988</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.10988</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-10988</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-11146" mdate="2018-08-13">
+<author>Micael Carvalho</author>
+<author>Rémi Cadène</author>
+<author>David Picard</author>
+<author>Laure Soulier</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Image Embeddings.</title>
+<year>2018</year>
+<volume>abs/1804.11146</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.11146</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-11146</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-00900" mdate="2018-08-13">
+<author>Micael Carvalho</author>
+<author>Rémi Cadène</author>
+<author>David Picard</author>
+<author>Laure Soulier</author>
+<author>Matthieu Cord</author>
+<title>Images and Recipes: Retrieval in the cooking context.</title>
+<year>2018</year>
+<volume>abs/1805.00900</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.00900</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-00900</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-05814" mdate="2019-11-08">
+<author>Michael Blot</author>
+<author>Thomas Robert 0001</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>SHADE: Information-Based Regularization for Deep Learning.</title>
+<year>2018</year>
+<volume>abs/1805.05814</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.05814</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-05814</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-11407" mdate="2019-11-08">
+<author>Thomas Robert 0001</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>HybridNet: Classification and Reconstruction Cooperation for Semi-Supervised Learning.</title>
+<year>2018</year>
+<volume>abs/1807.11407</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.11407</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-11407</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-12833" mdate="2018-12-03">
+<author>Tuan-Hung Vu</author>
+<author>Himalaya Jain</author>
+<author>Maxime Bucher</author>
+<author>Matthieu Cord</author>
+<author>Patrick Pérez</author>
+<title>ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation.</title>
+<year>2018</year>
+<volume>abs/1811.12833</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.12833</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-12833</url>
+</article>
+</r>
+<r><article key="journals/ijcv/LawTC17" mdate="2019-07-24">
+<author>Marc T. Law</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Learning a Distance Metric from Relative Comparisons between Quadruplets of Images.</title>
+<pages>65-94</pages>
+<year>2017</year>
+<volume>121</volume>
+<journal>International Journal of Computer Vision</journal>
+<number>1</number>
+<url>db/journals/ijcv/ijcv121.html#LawTC17</url>
+</article>
+</r>
+<r><article key="journals/pr/WangTC17" mdate="2019-04-26">
+<author>Xin Wang 0053</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Gaze latent support vector machine for image classification improved by weakly supervised region selection.</title>
+<pages>59-71</pages>
+<year>2017</year>
+<volume>72</volume>
+<journal>Pattern Recognition</journal>
+<url>db/journals/pr/pr72.html#WangTC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/bmvc/MordanTHC17" mdate="2018-12-18">
+<author>Taylor Mordan</author>
+<author>Nicolas Thome</author>
+<author>Gilles Hénaff</author>
+<author>Matthieu Cord</author>
+<title>Deformable Part-based Fully Convolutional Network for Object Detection.</title>
+<year>2017</year>
+<booktitle>BMVC</booktitle>
+<crossref>conf/bmvc/2017</crossref>
+<url>db/conf/bmvc/bmvc2017.html#MordanTHC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/DurandMTC17" mdate="2017-11-14">
+<author>Thibaut Durand</author>
+<author>Taylor Mordan</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation.</title>
+<pages>5957-5966</pages>
+<year>2017</year>
+<booktitle>CVPR</booktitle>
+<crossref>conf/cvpr/2017</crossref>
+<url>db/conf/cvpr/cvpr2017.html#DurandMTC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/Ben-younesCCT17" mdate="2018-01-11">
+<author>Hedi Ben-younes</author>
+<author>Rémi Cadène</author>
+<author>Matthieu Cord</author>
+<author>Nicolas Thome</author>
+<title>MUTAN: Multimodal Tucker Fusion for Visual Question Answering.</title>
+<pages>2631-2639</pages>
+<year>2017</year>
+<booktitle>ICCV</booktitle>
+<crossref>conf/iccv/2017</crossref>
+<url>db/conf/iccv/iccv2017.html#Ben-younesCCT17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Ben-younesCCT17" mdate="2018-08-13">
+<author>Hedi Ben-younes</author>
+<author>Rémi Cadène</author>
+<author>Matthieu Cord</author>
+<author>Nicolas Thome</author>
+<title>MUTAN: Multimodal Tucker Fusion for Visual Question Answering.</title>
+<year>2017</year>
+<volume>abs/1705.06676</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.06676</ee>
+<url>db/journals/corr/corr1705.html#Ben-younesCCT17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MordanTCH17" mdate="2018-12-18">
+<author>Taylor Mordan</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Gilles Hénaff</author>
+<title>Deformable Part-based Fully Convolutional Network for Object Detection.</title>
+<year>2017</year>
+<volume>abs/1707.06175</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.06175</ee>
+<url>db/journals/corr/corr1707.html#MordanTCH17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LawYCX16" mdate="2019-07-24">
+<author>Marc T. Law</author>
+<author>Yaoliang Yu</author>
+<author>Matthieu Cord</author>
+<author>Eric P. Xing</author>
+<title>Closed-Form Training of Mahalanobis Distance for Supervised Clustering.</title>
+<pages>3909-3917</pages>
+<year>2016</year>
+<booktitle>CVPR</booktitle>
+<crossref>conf/cvpr/2016</crossref>
+<url>db/conf/cvpr/cvpr2016.html#LawYCX16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/DurandTC16" mdate="2017-05-25">
+<author>Thibaut Durand</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>WELDON: Weakly Supervised Learning of Deep Convolutional Neural Networks.</title>
+<pages>4743-4752</pages>
+<year>2016</year>
+<booktitle>CVPR</booktitle>
+<crossref>conf/cvpr/2016</crossref>
+<url>db/conf/cvpr/cvpr2016.html#DurandTC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/WangTC16" mdate="2019-04-26">
+<author>Xin Wang 0053</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Gaze latent support vector machine for image classification.</title>
+<pages>236-240</pages>
+<year>2016</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2016</crossref>
+<url>db/conf/icip/icip2016.html#WangTC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/BlotCT16" mdate="2017-05-25">
+<author>Michael Blot</author>
+<author>Matthieu Cord</author>
+<author>Nicolas Thome</author>
+<title>Max-min convolutional neural networks for image classification.</title>
+<pages>3678-3682</pages>
+<year>2016</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2016</crossref>
+<url>db/conf/icip/icip2016.html#BlotCT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/CarvalhoCATV16" mdate="2019-06-02">
+<author>Micael Carvalho</author>
+<author>Matthieu Cord</author>
+<author orcid="0000-0001-9068-938X">Sandra Eliza Fontes de Avila</author>
+<author>Nicolas Thome</author>
+<author>Eduardo Valle</author>
+<title>Deep Neural Networks Under Stress.</title>
+<pages>4443-4447</pages>
+<year>2016</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2016</crossref>
+<url>db/conf/icip/icip2016.html#CarvalhoCATV16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CarvalhoCATV16" mdate="2018-08-13">
+<author orcid="0000-0001-7683-7868">Micael Carvalho</author>
+<author>Matthieu Cord</author>
+<author>Sandra Eliza Fontes de Avila</author>
+<author>Nicolas Thome</author>
+<author>Eduardo Valle</author>
+<title>Deep Neural Networks Under Stress.</title>
+<year>2016</year>
+<volume>abs/1605.03498</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1605.03498</ee>
+<url>db/journals/corr/corr1605.html#CarvalhoCATV16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CadeneRTC16" mdate="2019-11-08">
+<author>Rémi Cadène</author>
+<author>Thomas Robert 0001</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>M2CAI Workflow Challenge: Convolutional Neural Networks with Time Smoothing and Hidden Markov Model for Video Frames Classification.</title>
+<year>2016</year>
+<volume>abs/1610.05541</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.05541</ee>
+<url>db/journals/corr/corr1610.html#CadeneRTC16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CadeneTC16" mdate="2018-08-13">
+<author>Rémi Cadène</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Master's Thesis : Deep Learning for Visual Recognition.</title>
+<year>2016</year>
+<volume>abs/1610.05567</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.05567</ee>
+<url>db/journals/corr/corr1610.html#CadeneTC16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BlotCT16" mdate="2018-08-13">
+<author>Michael Blot</author>
+<author>Matthieu Cord</author>
+<author>Nicolas Thome</author>
+<title>Maxmin convolutional neural networks for image classification.</title>
+<year>2016</year>
+<volume>abs/1610.07882</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.07882</ee>
+<url>db/journals/corr/corr1610.html#BlotCT16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BlotPCT16" mdate="2018-08-13">
+<author>Michael Blot</author>
+<author>David Picard</author>
+<author>Matthieu Cord</author>
+<author>Nicolas Thome</author>
+<title>Gossip training for deep learning.</title>
+<year>2016</year>
+<volume>abs/1611.09726</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.09726</ee>
+<url>db/journals/corr/corr1611.html#BlotPCT16</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/LawTGC15" mdate="2017-05-08">
+<author>Marc Teva Law</author>
+<author>Nicolas Thome</author>
+<author>Stéphane Gançarski</author>
+<author>Matthieu Cord</author>
+<title>Apprentissage de métrique appliqué à la détection de changement de page Web et aux attributs relatifs.</title>
+<pages>223-238</pages>
+<year>2015</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2015</crossref>
+<url>db/conf/coria/coria2015.html#LawTGC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/BarzTCHS15" mdate="2017-07-14">
+<author>Cédric Le Barz</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Stéphane Herbin</author>
+<author>Martial Sanfourche</author>
+<title>Absolute geo-localization thanks to Hidden Markov Model and exemplar-based metric learning.</title>
+<pages>9-17</pages>
+<year>2015</year>
+<booktitle>CVPR Workshops</booktitle>
+<crossref>conf/cvpr/2015w</crossref>
+<url>db/conf/cvpr/cvprw2015.html#BarzTCHS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/DurandTC15" mdate="2017-05-24">
+<author>Thibaut Durand</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>MANTRA: Minimum Maximum Latent Structural SVM for Image Classification and Ranking.</title>
+<pages>2713-2721</pages>
+<year>2015</year>
+<booktitle>ICCV</booktitle>
+<crossref>conf/iccv/2015</crossref>
+<url>db/conf/iccv/iccv2015.html#DurandTC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/ChevalierTCFHD15" mdate="2018-12-18">
+<author>Marion Chevalier</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Jérome Fournier</author>
+<author>Gilles Hénaff</author>
+<author>Elodie Dusch</author>
+<title>LR-CNN for fine-grained classification with varying resolution.</title>
+<pages>3101-3105</pages>
+<year>2015</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2015</crossref>
+<url>db/conf/icip/icip2015.html#ChevalierTCFHD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/BarzTCHS15" mdate="2017-07-14">
+<author>Cédric Le Barz</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Stéphane Herbin</author>
+<author>Martial Sanfourche</author>
+<title>Exemplar based metric learning for robust visual localization.</title>
+<pages>4342-4346</pages>
+<year>2015</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2015</crossref>
+<url>db/conf/icip/icip2015.html#BarzTCHS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/WangKTCP15" mdate="2019-04-26">
+<author>Xin Wang 0053</author>
+<author>Devinder Kumar</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Frédéric Precioso</author>
+<title>Recipe recognition with large multimodal food dataset.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>ICME Workshops</booktitle>
+<crossref>conf/icmcs/2015w</crossref>
+<url>db/conf/icmcs/icmew2015.html#WangKTCP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/SouzaAGPC15" mdate="2017-06-15">
+<author>Kleber Jacques Ferreira de Souza</author>
+<author>Arnaldo de Albuquerque Araújo</author>
+<author>Silvio Jamil Ferzoli Guimarães</author>
+<author orcid="0000-0003-0804-1790">Zenilton K. G. do Patrocínio</author>
+<author>Matthieu Cord</author>
+<title>Streaming Graph-Based Hierarchical Video Segmentation by a Simple Label Propagation.</title>
+<pages>119-125</pages>
+<year>2015</year>
+<booktitle>SIBGRAPI</booktitle>
+<crossref>conf/sibgrapi/2015</crossref>
+<url>db/conf/sibgrapi/sibgrapi2015.html#SouzaAGPC15</url>
+</inproceedings>
+</r>
+<r><article key="journals/cviu/MinettoTCLS14" mdate="2017-05-28">
+<author>Rodrigo Minetto</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Neucimar J. Leite</author>
+<author>Jorge Stolfi</author>
+<title>SnooperText: A text detection system for automatic indexing of urban scenes.</title>
+<pages>92-104</pages>
+<year>2014</year>
+<volume>122</volume>
+<journal>Computer Vision and Image Understanding</journal>
+<url>db/journals/cviu/cviu122.html#MinettoTCLS14</url>
+</article>
+</r>
+<r><article key="journals/jstsp/TheriaultTCP14" mdate="2018-05-02">
+<author>Christian Theriault</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Patrick Pérez</author>
+<title>Perceptual Principles for Video Classification With Slow Feature Analysis.</title>
+<pages>428-437</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>J. Sel. Topics Signal Processing</journal>
+<number>3</number>
+<url>db/journals/jstsp/jstsp8.html#TheriaultTCP14</url>
+</article>
+</r>
+<r><article key="journals/tgrs/IovanCGBBC14" mdate="2017-05-18">
+<author>Corina Iovan</author>
+<author>Paul-Henry Cournède</author>
+<author>Thomas Guyard</author>
+<author>Benoit Bayol</author>
+<author>Didier Boldo</author>
+<author>Matthieu Cord</author>
+<title>Model-Based Analysis-Synthesis for Realistic Tree Reconstruction and Growth Simulation.</title>
+<pages>1438-1450</pages>
+<year>2014</year>
+<volume>52</volume>
+<journal>IEEE Trans. Geoscience and Remote Sensing</journal>
+<number>2</number>
+<url>db/journals/tgrs/tgrs52.html#IovanCGBBC14</url>
+</article>
+</r>
+<r><article key="journals/tnn/GohTCL14" mdate="2018-11-14">
+<author>Hanlin Goh</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Joo-Hwee Lim</author>
+<title>Learning Deep Hierarchical Visual Feature Coding.</title>
+<pages>2212-2225</pages>
+<year>2014</year>
+<volume>25</volume>
+<journal>IEEE Trans. Neural Netw. Learning Syst.</journal>
+<number>12</number>
+<url>db/journals/tnn/tnn25.html#GohTCL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LawTC14" mdate="2019-07-24">
+<author>Marc T. Law</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Fantope Regularization in Metric Learning.</title>
+<pages>1051-1058</pages>
+<year>2014</year>
+<booktitle>CVPR</booktitle>
+<crossref>conf/cvpr/2014</crossref>
+<url>db/conf/cvpr/cvpr2014.html#LawTC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/DurandPTC14" mdate="2018-11-02">
+<author>Thibaut Durand</author>
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Semantic pooling for image categorization using multiple kernel learning.</title>
+<pages>170-174</pages>
+<year>2014</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2014</crossref>
+<url>db/conf/icip/icip2014.html#DurandPTC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/DurandTCP14" mdate="2018-11-02">
+<author>Thibaut Durand</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<title>Incremental learning of latent structural SVM for weakly supervised image classification.</title>
+<pages>4246-4250</pages>
+<year>2014</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2014</crossref>
+<url>db/conf/icip/icip2014.html#DurandTCP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/Dulac-ArnoldDTCG13" mdate="2019-03-29">
+<author>Gabriel Dulac-Arnold</author>
+<author>Ludovic Denoyer</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Patrick Gallinari</author>
+<title>Sequentially Generated Instance-Dependent Image Representations for Classification.</title>
+<year>2014</year>
+<crossref>conf/iclr/2014</crossref>
+<booktitle>ICLR</booktitle>
+<ee type="oa">http://arxiv.org/abs/1312.6594</ee>
+<url>db/conf/iclr/iclr2014.html#Dulac-ArnoldDTCG13</url>
+</inproceedings>
+</r>
+<r><incollection key="series/acvpr/LawTC14" mdate="2019-07-24">
+<author>Marc T. Law</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Bag-of-Words Image Representation: Key Ideas and Further Insight.</title>
+<pages>29-52</pages>
+<year>2014</year>
+<booktitle>Fusion in Computer Vision</booktitle>
+<crossref>series/acvpr/978-3-319-05695-1</crossref>
+<url>db/series/acvpr/fusion2014.html#LawTC14</url>
+</incollection>
+</r>
+<r><article key="journals/cviu/AvilaTCVA13" mdate="2019-06-02">
+<author orcid="0000-0001-9068-938X">Sandra Eliza Fontes de Avila</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Eduardo Valle</author>
+<author>Arnaldo de Albuquerque Araújo</author>
+<title>Pooling in image representation: The visual codeword point of view.</title>
+<pages>453-465</pages>
+<year>2013</year>
+<volume>117</volume>
+<journal>Computer Vision and Image Understanding</journal>
+<number>5</number>
+<url>db/journals/cviu/cviu117.html#AvilaTCVA13</url>
+</article>
+</r>
+<r><article key="journals/jmlr/PicardTC13" mdate="2019-07-10">
+<author>David Picard</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>JKernelMachines: a simple framework for kernel machine.</title>
+<pages>1417-1421</pages>
+<year>2013</year>
+<volume>14</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<number>1</number>
+<url>db/journals/jmlr/jmlr14.html#PicardTC13</url>
+</article>
+</r>
+<r><article key="journals/paa/FabrizioMC13" mdate="2017-05-20">
+<author>Jonathan Fabrizio</author>
+<author>Beatriz Marcotegui</author>
+<author>Matthieu Cord</author>
+<title>Text detection in street level images.</title>
+<pages>519-533</pages>
+<year>2013</year>
+<volume>16</volume>
+<journal>Pattern Anal. Appl.</journal>
+<number>4</number>
+<url>db/journals/paa/paa16.html#FabrizioMC13</url>
+</article>
+</r>
+<r><article key="journals/pr/MinettoTCLS13" mdate="2017-05-18">
+<author>Rodrigo Minetto</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Neucimar J. Leite</author>
+<author>Jorge Stolfi</author>
+<title>T-HOG: An effective gradient-based descriptor for single line text regions.</title>
+<pages>1078-1090</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>Pattern Recognition</journal>
+<number>3</number>
+<url>db/journals/pr/pr46.html#MinettoTCLS13</url>
+</article>
+</r>
+<r><article key="journals/tip/TheriaultTC13" mdate="2017-05-26">
+<author>Christian Theriault</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Extended Coding and Pooling in the HMAX Model.</title>
+<pages>764-777</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>IEEE Trans. Image Processing</journal>
+<number>2</number>
+<url>db/journals/tip/tip22.html#TheriaultTC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/TheriaultTC13" mdate="2017-05-25">
+<author>Christian Theriault</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Dynamic Scene Classification: Learning Motion Descriptors with Slow Features Analysis.</title>
+<pages>2603-2610</pages>
+<year>2013</year>
+<booktitle>CVPR</booktitle>
+<crossref>conf/cvpr/2013</crossref>
+<url>db/conf/cvpr/cvpr2013.html#TheriaultTC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/LawTC13" mdate="2019-07-24">
+<author>Marc T. Law</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Quadruplet-Wise Image Similarity Learning.</title>
+<pages>249-256</pages>
+<year>2013</year>
+<booktitle>ICCV</booktitle>
+<crossref>conf/iccv/2013</crossref>
+<url>db/conf/iccv/iccv2013.html#LawTC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/DurandTCA13" mdate="2019-06-02">
+<author>Thibaut Durand</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author orcid="0000-0001-9068-938X">Sandra Eliza Fontes de Avila</author>
+<title>Image classification using object detectors.</title>
+<pages>4340-4344</pages>
+<year>2013</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2013</crossref>
+<url>db/conf/icip/icip2013.html#DurandTCA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/GohTCL13" mdate="2014-01-07">
+<author>Hanlin Goh</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Joo-Hwee Lim</author>
+<title>Top-Down Regularization of Deep Belief Networks.</title>
+<pages>1878-1886</pages>
+<year>2013</year>
+<booktitle>NIPS</booktitle>
+<crossref>conf/nips/2013</crossref>
+<url>db/conf/nips/nips2013.html#GohTCL13</url>
+</inproceedings>
+</r>
+<r><article key="journals/isci/PicardRC12" mdate="2018-11-30">
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<author>Arnaud Revel</author>
+<author>Matthieu Cord</author>
+<title>An application of swarm intelligence to distributed image retrieval.</title>
+<pages>71-81</pages>
+<year>2012</year>
+<volume>192</volume>
+<journal>Inf. Sci.</journal>
+<url>db/journals/isci/isci192.html#PicardRC12</url>
+</article>
+</r>
+<r><article key="journals/pami/GorisseCP12" mdate="2018-11-14">
+<author>David Gorisse</author>
+<author>Matthieu Cord</author>
+<author>Frédéric Precioso</author>
+<title>Locality-Sensitive Hashing for Chi2 Distance.</title>
+<pages>402-409</pages>
+<year>2012</year>
+<volume>34</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>2</number>
+<url>db/journals/pami/pami34.html#GorisseCP12</url>
+</article>
+</r>
+<r><inproceedings key="conf/clef/AvilaTCVA12" mdate="2019-05-28">
+<author>Sandra Eliza Fontes de Avila</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Eduardo Valle</author>
+<author>Arnaldo de Albuquerque Araújo</author>
+<title>BossaNova at ImageCLEF 2012 Flickr Photo Annotation Task.</title>
+<year>2012</year>
+<booktitle>CLEF (Online Working Notes/Labs/Workshop)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1178/CLEF2012wn-ImageCLEF-AvilaEt2012.pdf</ee>
+<crossref>conf/clef/2012w</crossref>
+<url>db/conf/clef/clef2012w.html#AvilaTCVA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/LawTGC12" mdate="2018-11-06">
+<author>Marc Teva Law</author>
+<author>Nicolas Thome</author>
+<author>Stéphane Gançarski</author>
+<author>Matthieu Cord</author>
+<title>Structural and visual comparisons for web page archiving.</title>
+<pages>117-120</pages>
+<year>2012</year>
+<booktitle>ACM Symposium on Document Engineering</booktitle>
+<crossref>conf/doceng/2012</crossref>
+<url>db/conf/doceng/doceng2012.html#LawTGC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/GohTCL12" mdate="2017-05-19">
+<author>Hanlin Goh</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Joo-Hwee Lim</author>
+<title>Unsupervised and Supervised Visual Codes with Restricted Boltzmann Machines.</title>
+<pages>298-311</pages>
+<year>2012</year>
+<booktitle>ECCV (5)</booktitle>
+<crossref>conf/eccv/2012-5</crossref>
+<url>db/conf/eccv/eccv2012-5.html#GohTCL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/LawTC12" mdate="2019-07-24">
+<author>Marc T. Law</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Hybrid Pooling Fusion in the BoW Pipeline.</title>
+<pages>355-364</pages>
+<year>2012</year>
+<booktitle>ECCV Workshops (3)</booktitle>
+<crossref>conf/eccv/2012w3</crossref>
+<url>db/conf/eccv/eccv2012w3.html#LawTC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esann/PicardTCR12" mdate="2014-07-29">
+<author>David Picard</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Alain Rakotomamonjy</author>
+<title>Learning geometric combinations of Gaussian kernels with alternating Quasi-Newton algorithm.</title>
+<year>2012</year>
+<booktitle>ESANN</booktitle>
+<crossref>conf/esann/2012</crossref>
+<url>db/conf/esann/esann2012.html#PicardTCR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/GuyomardTCA12" mdate="2017-06-15">
+<author>Jonathan Guyomard</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author orcid="0000-0003-3696-0321">Thierry Artières</author>
+<title>Contextual detection of drawn symbols in old maps.</title>
+<pages>837-840</pages>
+<year>2012</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2012</crossref>
+<url>db/conf/icip/icip2012.html#GuyomardTCA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/IovanPTC12" mdate="2018-11-02">
+<author>Corina Iovan</author>
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Classification of Urban Scenes from Geo-referenced Images in Urban Street-View Context.</title>
+<pages>339-344</pages>
+<year>2012</year>
+<booktitle>ICMLA (2)</booktitle>
+<crossref>conf/icmla/2012-2</crossref>
+<url>db/conf/icmla/icmla2012-2.html#IovanPTC12</url>
+</inproceedings>
+</r>
+<r><article key="journals/mta/ZhaoPC11" mdate="2017-05-28">
+<author>Shuji Zhao</author>
+<author>Frédéric Precioso</author>
+<author>Matthieu Cord</author>
+<title>Spatio-Temporal Tube data representation and Kernel design for SVM-based video object retrieval system.</title>
+<pages>105-125</pages>
+<year>2011</year>
+<volume>55</volume>
+<journal>Multimedia Tools Appl.</journal>
+<number>1</number>
+<url>db/journals/mta/mta55.html#ZhaoPC11</url>
+</article>
+</r>
+<r><article key="journals/pr/GorisseCP11" mdate="2017-05-18">
+<author>David Gorisse</author>
+<author>Matthieu Cord</author>
+<author>Frédéric Precioso</author>
+<title>SALSAS: Sub-linear active learning strategy with approximate k-NN search.</title>
+<pages>2343-2357</pages>
+<year>2011</year>
+<volume>44</volume>
+<journal>Pattern Recognition</journal>
+<number>10-11</number>
+<url>db/journals/pr/pr44.html#GorisseCP11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbmi/PitzalisNC11" mdate="2017-05-26">
+<author>Denis Pitzalis</author>
+<author>Franco Niccolucci</author>
+<author>Matthieu Cord</author>
+<title>Using LIDO to handle 3D cultural heritage documentation data provenance.</title>
+<pages>37-42</pages>
+<year>2011</year>
+<booktitle>CBMI</booktitle>
+<crossref>conf/cbmi/2011</crossref>
+<url>db/conf/cbmi/cbmi2011.html#PitzalisNC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccvw/MinettoTCSPGL11" mdate="2019-02-11">
+<author>Rodrigo Minetto</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Jorge Stolfi</author>
+<author>Frédéric Precioso</author>
+<author>Jonathan Guyomard</author>
+<author>Neucimar J. Leite</author>
+<title>Text detection and recognition in urban scenes.</title>
+<pages>227-234</pages>
+<year>2011</year>
+<booktitle>ICCV Workshops</booktitle>
+<crossref>conf/iccvw/2011</crossref>
+<url>db/conf/iccvw/iccvw2011.html#MinettoTCSPGL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/PreciosoCGT11" mdate="2017-05-25">
+<author>Frédéric Precioso</author>
+<author>Matthieu Cord</author>
+<author>David Gorisse</author>
+<author>Nicolas Thome</author>
+<title>Efficient Bag-of-Feature kernel representation for image similarity search.</title>
+<pages>109-112</pages>
+<year>2011</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2011</crossref>
+<url>db/conf/icip/icip2011.html#PreciosoCGT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/MinettoTCLS11" mdate="2017-05-25">
+<author>Rodrigo Minetto</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Neucimar J. Leite</author>
+<author>Jorge Stolfi</author>
+<title>Snoopertrack: Text detection and tracking for outdoor videos.</title>
+<pages>505-508</pages>
+<year>2011</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2011</crossref>
+<url>db/conf/icip/icip2011.html#MinettoTCLS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/GohKLTC11" mdate="2018-11-02">
+<author>Hanlin Goh</author>
+<author orcid="0000-0003-3090-2550">Lukasz Kusmierz</author>
+<author>Joo-Hwee Lim</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Learning invariant color features with sparse topographic restricted Boltzmann machines.</title>
+<pages>1241-1244</pages>
+<year>2011</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2011</crossref>
+<url>db/conf/icip/icip2011.html#GohKLTC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/TheriaultTC11" mdate="2017-05-25">
+<author>Christian Theriault</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>HMAX-S: Deep scale representation for biologically inspired image categorization.</title>
+<pages>1261-1264</pages>
+<year>2011</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2011</crossref>
+<url>db/conf/icip/icip2011.html#TheriaultTC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/AvilaTCVA11" mdate="2019-06-02">
+<author orcid="0000-0001-9068-938X">Sandra Eliza Fontes de Avila</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Eduardo Valle</author>
+<author>Arnaldo de Albuquerque Araújo</author>
+<title>BOSSA: Extended bow formalism for image classification.</title>
+<pages>2909-2912</pages>
+<year>2011</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2011</crossref>
+<url>db/conf/icip/icip2011.html#AvilaTCVA11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tce/ValleCPG10" mdate="2017-05-28">
+<author>Eduardo Valle</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<author>David Gorisse</author>
+<title>Indexing personal image collections: a flexible, scalable solution.</title>
+<pages>1167-1175</pages>
+<year>2010</year>
+<volume>56</volume>
+<journal>IEEE Trans. Consumer Electronics</journal>
+<number>3</number>
+<url>db/journals/tce/tce56.html#ValleCPG10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/GorisseCP10" mdate="2017-05-25">
+<author>David Gorisse</author>
+<author>Matthieu Cord</author>
+<author>Frédéric Precioso</author>
+<title>Scalable active learning strategy for object category retrieval.</title>
+<pages>1013-1016</pages>
+<year>2010</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2010</crossref>
+<url>db/conf/icip/icip2010.html#GorisseCP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/MinettoTCFM10" mdate="2017-05-25">
+<author>Rodrigo Minetto</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<author>Jonathan Fabrizio</author>
+<author>Beatriz Marcotegui</author>
+<title>Snoopertext: A multiresolution system for text detection in complex visual scenes.</title>
+<pages>3861-3864</pages>
+<year>2010</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2010</crossref>
+<url>db/conf/icip/icip2010.html#MinettoTCFM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/ZhaoPC10" mdate="2017-05-25">
+<author>Shuji Zhao</author>
+<author>Frédéric Precioso</author>
+<author>Matthieu Cord</author>
+<title>STTK-based video object recognition.</title>
+<pages>3873-3876</pages>
+<year>2010</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2010</crossref>
+<url>db/conf/icip/icip2010.html#ZhaoPC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/PicardTC10" mdate="2018-11-02">
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>An efficient system for combining complementary kernels in complex visual categorization tasks.</title>
+<pages>3877-3880</pages>
+<year>2010</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2010</crossref>
+<url>db/conf/icip/icip2010.html#PicardTC10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jei/CordCJ09" mdate="2017-05-28">
+<author>Matthieu Cord</author>
+<author>Padraig Cunningham</author>
+<author>Dhiraj Joshi</author>
+<title><i>Machine Learning Techniques for Multimedia: Case Studies on Organization and Retrieval</i>.</title>
+<pages>039901</pages>
+<year>2009</year>
+<volume>18</volume>
+<journal>J. Electronic Imaging</journal>
+<number>3</number>
+<url>db/journals/jei/jei18.html#CordCJ09</url>
+</article>
+</r>
+<r><inproceedings key="conf/doceng/VallePC09" mdate="2018-11-06">
+<author>Eduardo Valle</author>
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<author>Matthieu Cord</author>
+<title>Geometric consistency checking for local-descriptor based document retrieval.</title>
+<pages>135-138</pages>
+<year>2009</year>
+<booktitle>ACM Symposium on Document Engineering</booktitle>
+<crossref>conf/doceng/2009</crossref>
+<url>db/conf/doceng/doceng2009.html#VallePC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/GorisseCP09" mdate="2017-05-25">
+<author>David Gorisse</author>
+<author>Matthieu Cord</author>
+<author>Frédéric Precioso</author>
+<title>Optimization on active learning strategy for object category retrieval.</title>
+<pages>1873-1876</pages>
+<year>2009</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2009</crossref>
+<url>db/conf/icip/icip2009.html#GorisseCP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/ZhaoPC09" mdate="2017-05-25">
+<author>Shuji Zhao</author>
+<author>Frédéric Precioso</author>
+<author>Matthieu Cord</author>
+<title>Spatio-Temporal Tube Kernel for actor retrieval.</title>
+<pages>1885-1888</pages>
+<year>2009</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2009</crossref>
+<url>db/conf/icip/icip2009.html#ZhaoPC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/FabrizioMC09" mdate="2017-05-25">
+<author>Jonathan Fabrizio</author>
+<author>Beatriz Marcotegui</author>
+<author>Matthieu Cord</author>
+<title>Text segmentation in natural scenes using Toggle-Mapping.</title>
+<pages>2373-2376</pages>
+<year>2009</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2009</crossref>
+<url>db/conf/icip/icip2009.html#FabrizioMC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/ValleC09" mdate="2010-01-15">
+<author>Eduardo Valle</author>
+<author>Matthieu Cord</author>
+<title>Similarity Search and Indexing for High-Dimensional Data.</title>
+<pages>263</pages>
+<year>2009</year>
+<booktitle>SBBD</booktitle>
+<crossref>conf/sbbd/2009</crossref>
+<url>db/conf/sbbd/sbbd2009.html#ValleC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/ValleC09" mdate="2017-05-26">
+<author>Eduardo Valle</author>
+<author>Matthieu Cord</author>
+<title>Advanced Techniques in CBIR: Local Descriptors, Visual Dictionaries and Bags of Features.</title>
+<pages>72-78</pages>
+<year>2009</year>
+<booktitle>SIBGRAPI Tutorials</booktitle>
+<crossref>conf/sibgrapi/2009t</crossref>
+<url>db/conf/sibgrapi/sibgrapi2009t.html#ValleC09</url>
+</inproceedings>
+</r>
+<r><article key="journals/cviu/GosselinCP08" mdate="2017-05-28">
+<author>Philippe Henri Gosselin</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Combining visual dictionary, kernel-based similarity and learning strategy for image category retrieval.</title>
+<pages>403-417</pages>
+<year>2008</year>
+<volume>110</volume>
+<journal>Computer Vision and Image Understanding</journal>
+<number>3</number>
+<url>db/journals/cviu/cviu110.html#GosselinCP08</url>
+</article>
+</r>
+<r><article key="journals/staeors/IovanBC08" mdate="2019-04-03">
+<author>Corina Iovan</author>
+<author>Didier Boldo</author>
+<author>Matthieu Cord</author>
+<title>Detection, Characterization, and Modeling Vegetation in Urban Areas From High-Resolution Aerial Imagery.</title>
+<pages>206-213</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>IEEE J Sel. Topics in Appl. Earth Observ. and Remote Sensing</journal>
+<number>3</number>
+<url>db/journals/staeors/staeors1.html#IovanBC08</url>
+</article>
+</r>
+<r><article key="journals/tip/GosselinC08" mdate="2018-11-14">
+<author>Philippe Henri Gosselin</author>
+<author>Matthieu Cord</author>
+<title>Active Learning Methods for Interactive Image Retrieval.</title>
+<pages>1200-1211</pages>
+<year>2008</year>
+<volume>17</volume>
+<journal>IEEE Trans. Image Processing</journal>
+<number>7</number>
+<url>db/journals/tip/tip17.html#GosselinC08</url>
+</article>
+</r>
+<r><article key="journals/tmm/PicardCR08" mdate="2018-11-02">
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<author>Matthieu Cord</author>
+<author>Arnaud Revel</author>
+<title>Image Retrieval Over Networks: Active Learning Using Ant Algorithm.</title>
+<pages>1356-1365</pages>
+<year>2008</year>
+<volume>10</volume>
+<journal>IEEE Trans. Multimedia</journal>
+<number>7</number>
+<url>db/journals/tmm/tmm10.html#PicardCR08</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbmi/PicardRC08" mdate="2018-11-02">
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<author>Arnaud Revel</author>
+<author>Matthieu Cord</author>
+<title>Image retrieval over networks: Ant algorithm for long term active learning.</title>
+<pages>439-445</pages>
+<year>2008</year>
+<booktitle>CBMI</booktitle>
+<crossref>conf/cbmi/2008</crossref>
+<url>db/conf/cbmi/cbmi2008.html#PicardRC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/ValleCP08" mdate="2018-11-06">
+<author>Eduardo Valle</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>High-dimensional descriptor indexing for large multimedia databases.</title>
+<pages>739-748</pages>
+<year>2008</year>
+<booktitle>CIKM</booktitle>
+<crossref>conf/cikm/2008</crossref>
+<url>db/conf/cikm/cikm2008.html#ValleCP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/ValleCP08" mdate="2018-11-06">
+<author>Eduardo Valle</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Fast identification of visual documents using local descriptors.</title>
+<pages>173-176</pages>
+<year>2008</year>
+<booktitle>ACM Symposium on Document Engineering</booktitle>
+<crossref>conf/doceng/2008</crossref>
+<url>db/conf/doceng/doceng2008.html#ValleCP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusipco/ZhaoPCP08" mdate="2017-04-30">
+<author>Shuji Zhao</author>
+<author>Frédéric Precioso</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Actor retrieval system based on kernels on bags of bags.</title>
+<pages>1-5</pages>
+<year>2008</year>
+<booktitle>EUSIPCO</booktitle>
+<crossref>conf/eusipco/2008</crossref>
+<url>db/conf/eusipco/eusipco2008.html#ZhaoPCP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/PicardRC08" mdate="2018-11-02">
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<author>Arnaud Revel</author>
+<author>Matthieu Cord</author>
+<title>Long term learning for image retrieval over networks.</title>
+<pages>929-932</pages>
+<year>2008</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2008</crossref>
+<url>db/conf/icip/icip2008.html#PicardRC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/GorisseCPP08" mdate="2019-02-12">
+<author>David Gorisse</author>
+<author>Matthieu Cord</author>
+<author>Frédéric Precioso</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Fast approximate kernel-based similarity search for image retrieval task.</title>
+<pages>1-4</pages>
+<year>2008</year>
+<booktitle>ICPR</booktitle>
+<crossref>conf/icpr/2008</crossref>
+<url>db/conf/icpr/icpr2008.html#GorisseCPP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/GorissePPC08" mdate="2018-11-06">
+<author>David Gorisse</author>
+<author>Frédéric Precioso</author>
+<author>Sylvie Philipp-Foliguet</author>
+<author>Matthieu Cord</author>
+<title>Summarization scheme based on near-duplicate analysis.</title>
+<pages>50-54</pages>
+<year>2008</year>
+<booktitle>TVS</booktitle>
+<crossref>conf/mm/2008tvs</crossref>
+<url>db/conf/mm/tvs2008.html#GorissePPC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/QuenotBMRCPGLAGPRA08" mdate="2018-11-06">
+<author>Georges Quénot</author>
+<author>Jenny Benois-Pineau</author>
+<author orcid="0000-0002-9190-4819">Boris Mansencal</author>
+<author>Eliana Rossi</author>
+<author>Matthieu Cord</author>
+<author>Frédéric Precioso</author>
+<author>David Gorisse</author>
+<author>Patrick Lambert</author>
+<author>Bertrand Augereau</author>
+<author>Lionel Granjon</author>
+<author>Denis Pellerin</author>
+<author>Michèle Rombaut</author>
+<author>Stéphane Ayache</author>
+<title>Rushes summarization by IRIM consortium: redundancy removal and multi-feature fusion.</title>
+<pages>80-84</pages>
+<year>2008</year>
+<booktitle>TVS</booktitle>
+<crossref>conf/mm/2008tvs</crossref>
+<url>db/conf/mm/tvs2008.html#QuenotBMRCPGLAGPRA08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/AvilaLAC08" mdate="2019-06-02">
+<author orcid="0000-0001-9068-938X">Sandra Eliza Fontes de Avila</author>
+<author>Antonio da Luz Jr.</author>
+<author>Arnaldo de Albuquerque Araújo</author>
+<author>Matthieu Cord</author>
+<title>VSUMM: An Approach for Automatic Video Summarization and Quantitative Evaluation.</title>
+<pages>103-110</pages>
+<year>2008</year>
+<booktitle>SIBGRAPI</booktitle>
+<crossref>conf/sibgrapi/2008</crossref>
+<url>db/conf/sibgrapi/sibgrapi2008.html#AvilaLAC08</url>
+</inproceedings>
+</r>
+<r><incollection key="series/cogtech/CunninghamCD08" mdate="2017-05-16">
+<author>Pádraig Cunningham</author>
+<author>Matthieu Cord</author>
+<author>Sarah Jane Delany</author>
+<title>Supervised Learning.</title>
+<pages>21-49</pages>
+<year>2008</year>
+<booktitle>Machine Learning Techniques for Multimedia</booktitle>
+<crossref>series/cogtech/354075170</crossref>
+<url>db/series/cogtech/354075170.html#CunninghamCD08</url>
+</incollection>
+</r>
+<r><incollection key="series/cogtech/CordG08" mdate="2017-05-16">
+<author>Matthieu Cord</author>
+<author>Philippe Henri Gosselin</author>
+<title>Online Content-Based Image Retrieval Using Active Learning.</title>
+<pages>115-138</pages>
+<year>2008</year>
+<booktitle>Machine Learning Techniques for Multimedia</booktitle>
+<crossref>series/cogtech/354075170</crossref>
+<url>db/series/cogtech/354075170.html#CordG08</url>
+</incollection>
+</r>
+<r><book key="series/cogtech/354075170" mdate="2017-06-14">
+<editor>Matthieu Cord</editor>
+<editor orcid="0000-0002-3499-0810">Pádraig Cunningham</editor>
+<title>Machine Learning Techniques for Multimedia - Case Studies on Organization and Retrieval</title>
+<year>2008</year>
+<publisher>Springer</publisher>
+<series href="db/series/cogtech/index.html">Cognitive Technologies</series>
+<isbn>978-3-540-75170-0</isbn>
+<booktitle>Machine Learning Techniques for Multimedia</booktitle>
+<url>db/series/cogtech/354075170.html</url>
+</book>
+</r>
+<r><article key="journals/ivc/CordGP07" mdate="2017-05-28">
+<author>Matthieu Cord</author>
+<author>Philippe Henri Gosselin</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Stochastic exploration and active learning for image retrieval.</title>
+<pages>14-23</pages>
+<year>2007</year>
+<volume>25</volume>
+<journal>Image Vision Comput.</journal>
+<number>1</number>
+<url>db/journals/ivc/ivc25.html#CordGP07</url>
+</article>
+</r>
+<r><inproceedings key="conf/civr/GonyCPGPJ07" mdate="2018-11-06">
+<author>Julien Gony</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<author>Philippe Henri Gosselin</author>
+<author>Frédéric Precioso</author>
+<author>Michel Jordan</author>
+<title>RETIN: a smart interactive digital media retrieval system.</title>
+<pages>93-96</pages>
+<year>2007</year>
+<crossref>conf/civr/2007</crossref>
+<booktitle>CIVR</booktitle>
+<url>db/conf/civr/civr2007.html#GonyCPGPJ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/civr/GosselinCP07" mdate="2018-11-06">
+<author>Philippe Henri Gosselin</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Kernels on bags for multi-object database retrieval.</title>
+<pages>226-231</pages>
+<year>2007</year>
+<crossref>conf/civr/2007</crossref>
+<booktitle>CIVR</booktitle>
+<url>db/conf/civr/civr2007.html#GosselinCP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/ValleCP07" mdate="2019-06-06">
+<author>Eduardo Valle</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Matching Local Descriptors for Image Identification on Cultural Databases.</title>
+<pages>679-683</pages>
+<year>2007</year>
+<crossref>conf/icdar/2007</crossref>
+<booktitle>ICDAR</booktitle>
+<url>db/conf/icdar/icdar2007.html#ValleCP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/ValleCP07" mdate="2017-05-25">
+<author>Eduardo Valle</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>3-Way-Trees: A Similarity Search Method for High-Dimensional Descriptor Matching.</title>
+<pages>173-176</pages>
+<year>2007</year>
+<booktitle>ICIP (1)</booktitle>
+<crossref>conf/icip/2007</crossref>
+<url>db/conf/icip/icip2007-1.html#ValleCP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/GosselinCP07" mdate="2017-05-25">
+<author>Philippe Henri Gosselin</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Kernels on Bags of Fuzzy Regions for Fast Object retrieval.</title>
+<pages>177-180</pages>
+<year>2007</year>
+<booktitle>ICIP (1)</booktitle>
+<crossref>conf/icip/2007</crossref>
+<url>db/conf/icip/icip2007-1.html#GosselinCP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scia/IovanBCE07" mdate="2018-06-26">
+<author>Corina Iovan</author>
+<author>Didier Boldo</author>
+<author>Matthieu Cord</author>
+<author>Mats Erikson</author>
+<title>Automatic Extraction and Classification of Vegetation Areas from High Resolution Images in Urban Areas.</title>
+<pages>858-867</pages>
+<year>2007</year>
+<crossref>conf/scia/2007</crossref>
+<booktitle>SCIA</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-73040-8_87</ee>
+<url>db/conf/scia/scia2007.html#IovanBCE07</url>
+</inproceedings>
+</r>
+<r><article key="journals/pr/GosselinC06" mdate="2017-05-18">
+<author>Philippe Henri Gosselin</author>
+<author>Matthieu Cord</author>
+<title>Feature-based approach to semi-supervised similarity learning.</title>
+<pages>1839-1851</pages>
+<year>2006</year>
+<volume>39</volume>
+<journal>Pattern Recognition</journal>
+<number>10</number>
+<url>db/journals/pr/pr39.html#GosselinC06</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusipco/ChavezCPPA06" mdate="2017-04-30">
+<author>Guillermo Cámara Chávez</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<author>Frédéric Precioso</author>
+<author>Arnaldo de Albuquerque Araújo</author>
+<title>Robust scene cut detection by supervised learning.</title>
+<pages>1-5</pages>
+<year>2006</year>
+<booktitle>EUSIPCO</booktitle>
+<crossref>conf/eusipco/2006</crossref>
+<url>db/conf/eusipco/eusipco2006.html#ChavezCPPA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gmai/ValleCP06" mdate="2017-05-23">
+<author>Eduardo Valle</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Content-Based Retrieval of Images for Cultural Institutions Using Local Descriptors.</title>
+<pages>177-182</pages>
+<year>2006</year>
+<crossref>conf/gmai/2006</crossref>
+<booktitle>GMAI</booktitle>
+<url>db/conf/gmai/gmai2006.html#ValleCP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/CordG06" mdate="2017-05-25">
+<author>Matthieu Cord</author>
+<author>Philippe Henri Gosselin</author>
+<title>Image Retrieval using Long-Term Semantic Learning.</title>
+<pages>2909-2912</pages>
+<year>2006</year>
+<crossref>conf/icip/2006</crossref>
+<booktitle>ICIP</booktitle>
+<url>db/conf/icip/icip2006.html#CordG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/GosselinC06" mdate="2017-05-25">
+<author>Philippe Henri Gosselin</author>
+<author>Matthieu Cord</author>
+<title>Precision-Oriented Active Selection for Interactive Image Retrieval.</title>
+<pages>3197-3200</pages>
+<year>2006</year>
+<crossref>conf/icip/2006</crossref>
+<booktitle>ICIP</booktitle>
+<url>db/conf/icip/icip2006.html#GosselinC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/PicardCR06" mdate="2018-11-02">
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<author>Matthieu Cord</author>
+<author>Arnaud Revel</author>
+<title>CBIR in Distributed Databases using a Multi-Agent System.</title>
+<pages>3205-3208</pages>
+<year>2006</year>
+<crossref>conf/icip/2006</crossref>
+<booktitle>ICIP</booktitle>
+<url>db/conf/icip/icip2006.html#PicardCR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/ChavezCPPA06" mdate="2017-06-05">
+<author orcid="0000-0001-6086-5258">Guillermo Cámara Chávez</author>
+<author>Matthieu Cord</author>
+<author>Frédéric Precioso</author>
+<author>Sylvie Philipp-Foliguet</author>
+<author>Arnaldo de Albuquerque Araújo</author>
+<title>Video Segmentation by Supervised Learning.</title>
+<pages>365-372</pages>
+<year>2006</year>
+<crossref>conf/sibgrapi/2006</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<url>db/conf/sibgrapi/sibgrapi2006.html#ChavezCPPA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/PicardC06" mdate="2018-11-02">
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<author>Matthieu Cord</author>
+<title>Performances of Mobile-Agents for Interactive Image Retrieval.</title>
+<pages>581-586</pages>
+<year>2006</year>
+<crossref>conf/webi/2006</crossref>
+<booktitle>Web Intelligence</booktitle>
+<url>db/conf/webi/webi2006.html#PicardC06</url>
+</inproceedings>
+</r>
+<r><article key="journals/ejasp/CordPGF05" mdate="2019-04-02">
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<author>Philippe Henri Gosselin</author>
+<author>Jérome Fournier</author>
+<title>Interactive Exploration for Image Retrieval.</title>
+<pages>2173-2186</pages>
+<year>2005</year>
+<volume>2005</volume>
+<journal>EURASIP J. Adv. Sig. Proc.</journal>
+<number>14</number>
+<ee type="oa">https://doi.org/10.1155/ASP.2005.2173</ee>
+<url>db/journals/ejasp/ejasp2005.html#CordPGF05</url>
+</article>
+</r>
+<r><inproceedings key="conf/cfap/GosselinC05" mdate="2005-06-29">
+<author>Philippe Henri Gosselin</author>
+<author>Matthieu Cord</author>
+<title>Semantic Learning Methods: Application to Image Retrieval.</title>
+<pages>109-110</pages>
+<year>2005</year>
+<crossref>conf/cfap/2005</crossref>
+<booktitle>CAP</booktitle>
+<url>db/conf/cfap/cap2005.html#GosselinC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/GosselinC05" mdate="2017-05-25">
+<author>Philippe Henri Gosselin</author>
+<author>Matthieu Cord</author>
+<title>Semantic kernel learning for interactive image retrieval.</title>
+<pages>1177-1180</pages>
+<year>2005</year>
+<crossref>conf/icip/2005</crossref>
+<booktitle>ICIP (1)</booktitle>
+<url>db/conf/icip/icip2005-1.html#GosselinC05</url>
+</inproceedings>
+</r>
+<r><article key="journals/cgf/VieiraMACP04" mdate="2017-05-26">
+<author>Marcelo Bernardes Vieira</author>
+<author>Paulo P. Martins Jr.</author>
+<author>Arnaldo de Albuquerque Araújo</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Smooth Surface Reconstruction Using Tensor Fields as Structuring Elements.</title>
+<pages>813-823</pages>
+<year>2004</year>
+<volume>23</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<url>db/journals/cgf/cgf23.html#VieiraMACP04</url>
+</article>
+</r>
+<r><article key="journals/tsi/CordFP04" mdate="2017-05-20">
+<author>Matthieu Cord</author>
+<author>Jérome Fournier</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Approche interactive de la recherche d'images par le contenu.</title>
+<pages>97-123</pages>
+<year>2004</year>
+<volume>23</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>1</number>
+<url>db/journals/tsi/tsi23.html#CordFP04</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvdb/GosselinC04" mdate="2018-11-06">
+<author>Philippe Henri Gosselin</author>
+<author>Matthieu Cord</author>
+<title>A Comparison of Active Classification Methods for ContentBased Image Retrieval.</title>
+<pages>51-58</pages>
+<year>2004</year>
+<crossref>conf/cvdb/2004</crossref>
+<booktitle>CVDB</booktitle>
+<url>db/conf/cvdb/cvdb2004.html#GosselinC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/GosselinC04" mdate="2017-05-25">
+<author>Philippe Henri Gosselin</author>
+<author>Matthieu Cord</author>
+<title>Retin al: an active learning strategy for image category retrieval.</title>
+<pages>2219-2222</pages>
+<year>2004</year>
+<crossref>conf/icip/2004</crossref>
+<booktitle>ICIP</booktitle>
+<url>db/conf/icip/icip2004-4.html#GosselinC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismse/GosselinC04" mdate="2017-05-21">
+<author>Philippe Henri Gosselin</author>
+<author>Matthieu Cord</author>
+<title>Semantic kernel updating for content-based image retrieval.</title>
+<pages>537-544</pages>
+<year>2004</year>
+<booktitle>ISMSE</booktitle>
+<crossref>conf/ismse/2004</crossref>
+<url>db/conf/ismse/ismse2004.html#GosselinC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/VieiraCMPA03" mdate="2017-05-26">
+<author>Marcelo Bernardes Vieira</author>
+<author>Matthieu Cord</author>
+<author>Paulo P. Martins Jr.</author>
+<author>Sylvie Philipp-Foliguet</author>
+<author>Arnaldo de Albuquerque Araújo</author>
+<title>Reconstruction Using Surface Dedicated Tensorial Fields.</title>
+<pages>52-59</pages>
+<year>2003</year>
+<crossref>conf/sibgrapi/2003</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<url>db/conf/sibgrapi/sibgrapi2003.html#VieiraCMPA03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/CordFP03" mdate="2017-05-26">
+<author>Matthieu Cord</author>
+<author>Jérome Fournier</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Exploration and Search-by-Similarity in CBIR.</title>
+<pages>175-182</pages>
+<year>2003</year>
+<crossref>conf/sibgrapi/2003</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<url>db/conf/sibgrapi/sibgrapi2003.html#CordFP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/FournierC02" mdate="2017-05-25">
+<author>Jérome Fournier</author>
+<author>Matthieu Cord</author>
+<title>Long-term similarity learning in content-based image retrieval.</title>
+<pages>441-444</pages>
+<year>2002</year>
+<crossref>conf/icip/2002</crossref>
+<booktitle>ICIP (1)</booktitle>
+<url>db/conf/icip/icip2002-1.html#FournierC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/CordB02" mdate="2017-05-25">
+<author>Matthieu Cord</author>
+<author>Thomas Belli</author>
+<title>Terrain surface modeling from altimetric data.</title>
+<pages>809-812</pages>
+<year>2002</year>
+<crossref>conf/icip/2002</crossref>
+<booktitle>ICIP (3)</booktitle>
+<url>db/conf/icip/icip2002-3.html#CordB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcis/FournierC02" mdate="2004-10-28">
+<author>Jérome Fournier</author>
+<author>Matthieu Cord</author>
+<title>A Flexible Search-by-Similarity Algorithm for Content-Based Image Retrieval.</title>
+<pages>672-675</pages>
+<year>2002</year>
+<crossref>conf/jcis/2002</crossref>
+<booktitle>JCIS</booktitle>
+<url>db/conf/jcis/jcis2002.html#FournierC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/VieiraCMAP02" mdate="2017-05-26">
+<author>Marcelo Bernardes Vieira</author>
+<author>Matthieu Cord</author>
+<author>Paulo P. Martins Jr.</author>
+<author>Arnaldo de Albuquerque Araújo</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Filtering Sparse Data with 3D Tensorial Structuring Elements.</title>
+<pages>106-111</pages>
+<year>2002</year>
+<crossref>conf/sibgrapi/2002</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<url>db/conf/sibgrapi/sibgrapi2002.html#VieiraCMAP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/VieiraAPCJG02" mdate="2017-05-26">
+<author>Marcelo Bernardes Vieira</author>
+<author>Arnaldo de Albuquerque Araújo</author>
+<author>Sylvie Philipp-Foliguet</author>
+<author>Matthieu Cord</author>
+<author>Michel Jordan</author>
+<author>J. Grillo</author>
+<title>Navegador3D: An Internet Based Flight Simulator of Urban Centers.</title>
+<pages>432</pages>
+<year>2002</year>
+<crossref>conf/sibgrapi/2002</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<url>db/conf/sibgrapi/sibgrapi2002.html#VieiraAPCJG02</url>
+</inproceedings>
+</r>
+<r><article key="journals/cviu/CordJC01" mdate="2017-05-28">
+<author>Matthieu Cord</author>
+<author>Michel Jordan</author>
+<author>Jean Pierre Cocquerez</author>
+<title>Accurate Building Structure Recovery from High Resolution Aerial Imagery.</title>
+<pages>138-173</pages>
+<year>2001</year>
+<volume>82</volume>
+<journal>Computer Vision and Image Understanding</journal>
+<number>2</number>
+<url>db/journals/cviu/cviu82.html#CordJC01</url>
+</article>
+</r>
+<r><article key="journals/paa/FournierCP01" mdate="2004-10-28">
+<author>Jérome Fournier</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>RETIN: A Content-Based Image Indexing and Retrieval System.</title>
+<pages>153-173</pages>
+<year>2001</year>
+<volume>4</volume>
+<journal>Pattern Anal. Appl.</journal>
+<number>2-3</number>
+<url>db/journals/paa/paa4.html#FournierCP01</url>
+</article>
+</r>
+<r><article key="journals/tip/CordD01" mdate="2018-11-14">
+<author>Matthieu Cord</author>
+<author>David Declercq</author>
+<title>Three-dimensional building detection and modeling using a statistical approach.</title>
+<pages>715-723</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>IEEE Trans. Image Processing</journal>
+<number>5</number>
+<url>db/journals/tip/tip10.html#CordD01</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/FournierCP01" mdate="2017-05-25">
+<author>Jérome Fournier</author>
+<author>Matthieu Cord</author>
+<author>Sylvie Philipp-Foliguet</author>
+<title>Back-propagation algorithm for relevance feedback in image retrieval.</title>
+<pages>686-689</pages>
+<year>2001</year>
+<crossref>conf/icip/2001</crossref>
+<booktitle>ICIP (1)</booktitle>
+<url>db/conf/icip/icip2001-1.html#FournierCP01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/CordD99" mdate="2017-02-02">
+<author>Matthieu Cord</author>
+<author>David Declercq</author>
+<title>Bayesian Model Identification: Application to Building Reconstruction in Aerial Imagery.</title>
+<pages>140-144</pages>
+<year>1999</year>
+<crossref>conf/icip/1999</crossref>
+<booktitle>ICIP (3)</booktitle>
+<url>db/conf/icip/icip1999-3.html#CordD99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/CocquerezCJ99" mdate="2017-05-26">
+<author>Jean Pierre Cocquerez</author>
+<author>Matthieu Cord</author>
+<author>Michel Jordan</author>
+<title>Accurate Building Structure Recovery from Aerial Imagery.</title>
+<pages>315-316</pages>
+<year>1999</year>
+<crossref>conf/sibgrapi/1999</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<url>db/conf/sibgrapi/sibgrapi1999.html#CocquerezCJ99</url>
+</inproceedings>
+</r>
+<r><article key="journals/cviu/PaparoditisCJC98" mdate="2017-05-28">
+<author>Nicolas Paparoditis</author>
+<author>Matthieu Cord</author>
+<author>Michel Jordan</author>
+<author>Jean Pierre Cocquerez</author>
+<title>Building Detection and Reconstruction from Mid- and High-Resolution Aerial Imagery.</title>
+<pages>122-142</pages>
+<year>1998</year>
+<volume>72</volume>
+<journal>Computer Vision and Image Understanding</journal>
+<number>2</number>
+<url>db/journals/cviu/cviu72.html#PaparoditisCJC98</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusipco/PaparoditisC98" mdate="2017-04-29">
+<author>Nicolas Paparoditis</author>
+<author>Matthieu Cord</author>
+<title>Combining intensity and stereo data to improve satellite urban scenes modeling.</title>
+<pages>1-4</pages>
+<year>1998</year>
+<booktitle>EUSIPCO</booktitle>
+<crossref>conf/eusipco/1998</crossref>
+<url>db/conf/eusipco/eusipco1998.html#PaparoditisC98</url>
+</inproceedings>
+</r>
+<coauthors n="108" nc="3">
+<co c="0"><na f="a/Ara=uacute=jo:Arnaldo_de_Albuquerque">Arnaldo de Albuquerque Araújo</na></co>
+<co c="0"><na f="a/Arti=egrave=res:Thierry">Thierry Artières</na></co>
+<co c="0"><na f="a/Augereau:Bertrand">Bertrand Augereau</na></co>
+<co c="0"><na f="a/Avila:Sandra_Eliza_Fontes_de">Sandra Eliza Fontes de Avila</na></co>
+<co c="0"><na f="a/Ayache:St=eacute=phane">Stéphane Ayache</na></co>
+<co c="0"><na f="b/Bailly:Kevin">Kevin Bailly</na></co>
+<co c="0"><na f="b/Bar=Hen:Avner">Avner Bar-Hen</na></co>
+<co c="0"><na f="b/Barbaresco:Fr=eacute=d=eacute=ric">Frédéric Barbaresco</na></co>
+<co c="0"><na f="b/Barz:C=eacute=dric_Le">Cédric Le Barz</na></co>
+<co c="0"><na f="b/Bayol:Benoit">Benoit Bayol</na></co>
+<co c="-1"><na f="b/Belli:Thomas">Thomas Belli</na></co>
+<co c="0"><na f="b/Ben=younes:Hedi">Hedi Ben-younes</na></co>
+<co c="0"><na f="b/Benois=Pineau:Jenny">Jenny Benois-Pineau</na></co>
+<co c="0"><na f="b/Bermudez:Fernando_Sanchez">Fernando Sanchez Bermudez</na></co>
+<co c="0"><na f="b/Besnier:Victor">Victor Besnier</na></co>
+<co c="0"><na f="b/Blot:Michael">Michael Blot</na></co>
+<co c="0"><na f="b/Boldo:Didier">Didier Boldo</na></co>
+<co c="0"><na f="b/Brooks:Daniel_A=">Daniel A. Brooks</na></co>
+<co c="0"><na f="b/Bucher:Maxime">Maxime Bucher</na></co>
+<co c="0"><na f="b/Bursuc:Andrei">Andrei Bursuc</na></co>
+<co c="0"><na f="c/Cad=egrave=ne:R=eacute=mi">Rémi Cadène</na></co>
+<co c="0"><na f="c/Carvalho:Micael">Micael Carvalho</na></co>
+<co c="0"><na f="c/Ch=aacute=vez:Guillermo_C=aacute=mara">Guillermo Cámara Chávez</na></co>
+<co c="0"><na f="c/Chen:Yifu">Yifu Chen</na></co>
+<co c="0"><na f="c/Chevalier:Marion">Marion Chevalier</na></co>
+<co c="0"><na f="c/Chevallier:Louis">Louis Chevallier</na></co>
+<co c="0"><na f="c/Cocquerez:Jean_Pierre">Jean Pierre Cocquerez</na></co>
+<co c="0"><na f="c/Corbi=egrave=re:Charles">Charles Corbière</na></co>
+<co c="0"><na f="c/Courn=egrave=de:Paul=Henry">Paul-Henry Cournède</na></co>
+<co c="1" n="2"><na f="c/Cunningham:Padraig">Padraig Cunningham</na><na>Pádraig Cunningham</na></co>
+<co c="0"><na f="d/Dancette:Corentin">Corentin Dancette</na></co>
+<co c="0"><na f="d/Dapogny:Arnaud">Arnaud Dapogny</na></co>
+<co c="-1"><na f="d/Declercq:David">David Declercq</na></co>
+<co c="1"><na f="d/Delany:Sarah_Jane">Sarah Jane Delany</na></co>
+<co c="0"><na f="d/Denoyer:Ludovic">Ludovic Denoyer</na></co>
+<co c="0"><na f="d/Dulac=Arnold:Gabriel">Gabriel Dulac-Arnold</na></co>
+<co c="0"><na f="d/Durand:Thibaut">Thibaut Durand</na></co>
+<co c="0"><na f="d/Dusch:Elodie">Elodie Dusch</na></co>
+<co c="0"><na f="e/Engilberge:Martin">Martin Engilberge</na></co>
+<co c="0"><na f="e/Erikson:Mats">Mats Erikson</na></co>
+<co c="0"><na f="f/Fabrizio:Jonathan">Jonathan Fabrizio</na></co>
+<co c="0"><na f="f/Fournier:J=eacute=rome">Jérome Fournier</na></co>
+<co c="0"><na f="g/Gallinari:Patrick">Patrick Gallinari</na></co>
+<co c="0"><na f="g/Gan=ccedil=arski:St=eacute=phane">Stéphane Gançarski</na></co>
+<co c="0"><na f="g/Gidaris:Spyros">Spyros Gidaris</na></co>
+<co c="0"><na f="g/Goh:Hanlin">Hanlin Goh</na></co>
+<co c="0"><na f="g/Gony:Julien">Julien Gony</na></co>
+<co c="0"><na f="g/Gorisse:David">David Gorisse</na></co>
+<co c="0"><na f="g/Gosselin:Philippe_Henri">Philippe Henri Gosselin</na></co>
+<co c="0"><na f="g/Granjon:Lionel">Lionel Granjon</na></co>
+<co c="0"><na f="g/Grillo:J=">J. Grillo</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Silvio_Jamil_Ferzoli">Silvio Jamil Ferzoli Guimarães</na></co>
+<co c="0"><na f="g/Guitteny:Vincent">Vincent Guitteny</na></co>
+<co c="0"><na f="g/Guyard:Thomas">Thomas Guyard</na></co>
+<co c="0"><na f="g/Guyomard:Jonathan">Jonathan Guyomard</na></co>
+<co c="0"><na f="h/H=eacute=naff:Gilles">Gilles Hénaff</na></co>
+<co c="0"><na f="h/Herbin:St=eacute=phane">Stéphane Herbin</na></co>
+<co c="0"><na f="i/Iovan:Corina">Corina Iovan</na></co>
+<co c="0"><na f="j/Jain:Himalaya">Himalaya Jain</na></co>
+<co c="0"><na f="j/Jordan:Michel">Michel Jordan</na></co>
+<co c="1"><na f="j/Joshi:Dhiraj">Dhiraj Joshi</na></co>
+<co c="0"><na f="k/Komodakis:Nikos">Nikos Komodakis</na></co>
+<co c="0"><na f="k/Kumar:Devinder">Devinder Kumar</na></co>
+<co c="0"><na f="k/Kusmierz:Lukasz">Lukasz Kusmierz</na></co>
+<co c="0"><na f="l/Lambert:Patrick">Patrick Lambert</na></co>
+<co c="0" n="2"><na f="l/Law:Marc_T=">Marc T. Law</na><na>Marc Teva Law</na></co>
+<co c="0"><na f="l/Leite:Neucimar_J=">Neucimar J. Leite</na></co>
+<co c="0"><na f="l/Lieutier:Andr=eacute=">André Lieutier</na></co>
+<co c="0"><na f="l/Lim:Joo=Hwee">Joo-Hwee Lim</na></co>
+<co c="0"><na f="l/Luz_Jr=:Antonio_da">Antonio da Luz Jr.</na></co>
+<co c="0"><na f="m/Mansencal:Boris">Boris Mansencal</na></co>
+<co c="0"><na f="m/Marcotegui:Beatriz">Beatriz Marcotegui</na></co>
+<co c="0"><na f="m/Martins_Jr=:Paulo_P=">Paulo P. Martins Jr.</na></co>
+<co c="0"><na f="m/Mehr:=Eacute=loi">Éloi Mehr</na></co>
+<co c="0"><na f="m/Minetto:Rodrigo">Rodrigo Minetto</na></co>
+<co c="0"><na f="m/Mordan:Taylor">Taylor Mordan</na></co>
+<co c="2"><na f="n/Niccolucci:Franco">Franco Niccolucci</na></co>
+<co c="0"><na f="p/Paparoditis:Nicolas">Nicolas Paparoditis</na></co>
+<co c="0"><na f="p/Parikh:Devi">Devi Parikh</na></co>
+<co c="0" n="2"><na f="p/Patroc=iacute=nio_Jr=:Zenilton_Kleber_Gon=ccedil=alves_do">Zenilton Kleber Gonçalves do Patrocínio Jr.</na><na>Zenilton K. G. do Patrocínio</na></co>
+<co c="0"><na f="p/Pellerin:Denis">Denis Pellerin</na></co>
+<co c="0"><na f="p/P=eacute=rez:Patrick">Patrick Pérez</na></co>
+<co c="0"><na f="p/Philipp=Foliguet:Sylvie">Sylvie Philipp-Foliguet</na></co>
+<co c="0"><na f="p/Picard:David">David Picard</na></co>
+<co c="2"><na f="p/Pitzalis:Denis">Denis Pitzalis</na></co>
+<co c="0"><na f="p/Precioso:Fr=eacute=d=eacute=ric">Frédéric Precioso</na></co>
+<co c="0"><na f="q/Qu=eacute=not:Georges">Georges Quénot</na></co>
+<co c="0"><na f="r/Rakotomamonjy:Alain">Alain Rakotomamonjy</na></co>
+<co c="0"><na f="r/Revel:Arnaud">Arnaud Revel</na></co>
+<co c="0"><na f="r/Robert_0001:Thomas">Thomas Robert 0001</na></co>
+<co c="0"><na f="r/Rombaut:Mich=egrave=le">Michèle Rombaut</na></co>
+<co c="0"><na f="r/Rossi:Eliana">Eliana Rossi</na></co>
+<co c="0"><na f="s/Sanfourche:Martial">Martial Sanfourche</na></co>
+<co c="0"><na f="s/Saporta:Antoine">Antoine Saporta</na></co>
+<co c="0"><na f="s/Schneider:Jean=Yves">Jean-Yves Schneider</na></co>
+<co c="0"><na f="s/Schwander:Olivier">Olivier Schwander</na></co>
+<co c="0"><na f="s/Soulier:Laure">Laure Soulier</na></co>
+<co c="0"><na f="s/Souza:Kleber_Jacques_Ferreira_de">Kleber Jacques Ferreira de Souza</na></co>
+<co c="0"><na f="s/Stolfi:Jorge">Jorge Stolfi</na></co>
+<co c="0"><na f="t/Theriault:Christian">Christian Theriault</na></co>
+<co c="0"><na f="t/Thome:Nicolas">Nicolas Thome</na></co>
+<co c="0"><na f="v/Valle:Eduardo">Eduardo Valle</na></co>
+<co c="0"><na f="v/Vieira:Marcelo_Bernardes">Marcelo Bernardes Vieira</na></co>
+<co c="0"><na f="v/Vu:Tuan=Hung">Tuan-Hung Vu</na></co>
+<co c="0"><na f="w/Wang_0053:Xin">Xin Wang 0053</na></co>
+<co c="0"><na f="x/Xing:Eric_P=">Eric P. Xing</na></co>
+<co c="0"><na f="y/Yu:Yaoliang">Yaoliang Yu</na></co>
+<co c="0"><na f="z/Zhao:Shuji">Shuji Zhao</na></co>
+</coauthors>
+</dblpperson>
+

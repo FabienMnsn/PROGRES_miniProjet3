@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Andrea Pinna" n="25">
+<person key="homepages/69/9984" mdate="2011-08-22">
+<author>Andrea Pinna</author>
+</person>
+<r><article key="journals/access/PinnaIBTM19" mdate="2019-07-08">
+<author orcid="0000-0002-7530-0521">Andrea Pinna</author>
+<author>Simona Ibba</author>
+<author>Gavina Baralla</author>
+<author>Roberto Tonelli</author>
+<author>Michele Marchesi</author>
+<title>A Massive Analysis of Ethereum Smart Contracts Empirical Study and Code Metrics.</title>
+<pages>78194-78213</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2019.2921936</ee>
+<url>db/journals/access/access7.html#PinnaIBTM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ic3k/PaniIMPPTV19" mdate="2019-10-19">
+<author>Filippo Eros Pani</author>
+<author>Giacomo Ibba</author>
+<author>Michele Marchesi</author>
+<author orcid="0000-0002-7530-0521">Andrea Pinna</author>
+<author>Simone Porru</author>
+<author>Roberto Tonelli</author>
+<author>Bartolomeo Valcalda</author>
+<title>Blockchain Certification and Granular Editing Permissions in Document Management System.</title>
+<pages>299-306</pages>
+<year>2019</year>
+<booktitle>KMIS</booktitle>
+<crossref>conf/ic3k/2019kmis</crossref>
+<url>db/conf/ic3k/kmis2019.html#PaniIMPPTV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/BarallaPC19" mdate="2019-09-09">
+<author>Gavina Baralla</author>
+<author>Andrea Pinna</author>
+<author>Giacomo Corrias</author>
+<title>Ensure traceability in European food supply chain by using a blockchain system.</title>
+<pages>40-47</pages>
+<year>2019</year>
+<booktitle>WETSEB@ICSE</booktitle>
+<crossref>conf/icse/2019wetseb</crossref>
+<url>db/conf/icse/wetseb2019.html#BarallaPC19</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/PinnaTOM18" mdate="2018-10-03">
+<author orcid="0000-0002-7530-0521">Andrea Pinna</author>
+<author>Roberto Tonelli</author>
+<author>Matteo Orrù</author>
+<author>Michele Marchesi</author>
+<title>A Petri Nets Model for Blockchain Analysis.</title>
+<pages>1374-1388</pages>
+<year>2018</year>
+<volume>61</volume>
+<journal>Comput. J.</journal>
+<number>9</number>
+<url>db/journals/cj/cj61.html#PinnaTOM18</url>
+</article>
+</r>
+<r><article key="journals/fi/IbbaPLMT18" mdate="2018-12-26">
+<author>Simona Ibba</author>
+<author orcid="0000-0002-7530-0521">Andrea Pinna</author>
+<author orcid="0000-0002-2552-4228">Maria Ilaria Lunesu</author>
+<author>Michele Marchesi</author>
+<author>Roberto Tonelli</author>
+<title>Initial Coin Offerings and Agile Practices.</title>
+<pages>103</pages>
+<year>2018</year>
+<volume>10</volume>
+<journal>Future Internet</journal>
+<number>11</number>
+<ee type="oa">https://doi.org/10.3390/fi10110103</ee>
+<url>db/journals/fi/fi10.html#IbbaPLMT18</url>
+</article>
+</r>
+<r><article key="journals/information/MannaroBPI18" mdate="2019-10-19">
+<author>Katiuscia Mannaro</author>
+<author orcid="0000-0002-3119-9388">Gavina Baralla</author>
+<author orcid="0000-0002-7530-0521">Andrea Pinna</author>
+<author orcid="0000-0002-7657-0208">Simona Ibba</author>
+<title>A Blockchain Approach Applied to a Teledermatology Platform in the Sardinian Region (Italy).</title>
+<pages>44</pages>
+<year>2018</year>
+<volume>9</volume>
+<journal>Information</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/info9020044</ee>
+<url>db/journals/information/information9.html#MannaroBPI18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ic3k/FuscoLPP18" mdate="2018-10-01">
+<author>Francesco Fusco</author>
+<author>Maria Ilaria Lunesu</author>
+<author>Filippo Eros Pani</author>
+<author>Andrea Pinna</author>
+<title>Crypto-voting, a Blockchain based e-Voting System.</title>
+<pages>221-225</pages>
+<year>2018</year>
+<booktitle>KMIS</booktitle>
+<crossref>conf/ic3k/2018kmis</crossref>
+<url>db/conf/ic3k/kmis2018.html#FuscoLPP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/YangRMP18" mdate="2018-10-22">
+<author>Wenlu Yang</author>
+<author>Maria Rifqi</author>
+<author>Christophe Marsala</author>
+<author>Andrea Pinna</author>
+<title>Physiological-Based Emotion Detection and Recognition in a Video Game Context.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#YangRMP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mir/YangRMP18" mdate="2018-11-21">
+<author>Wenlu Yang</author>
+<author>Maria Rifqi</author>
+<author>Christophe Marsala</author>
+<author>Andrea Pinna</author>
+<title>Towards Better Understanding of Player's Game Experience.</title>
+<pages>442-449</pages>
+<year>2018</year>
+<booktitle>ICMR</booktitle>
+<crossref>conf/mir/2018</crossref>
+<url>db/conf/mir/icmr2018.html#YangRMP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xpu/IbbaBPT18" mdate="2019-05-03">
+<author>Simona Ibba</author>
+<author>Gavina Baralla</author>
+<author>Andrea Pinna</author>
+<author>Roberto Tonelli</author>
+<title>Survey: how much the academic startups know and use agile software and lean startup methodologies?</title>
+<pages>2:1-2:3</pages>
+<year>2018</year>
+<booktitle>XP Companion</booktitle>
+<crossref>conf/xpu/2018c</crossref>
+<url>db/conf/xpu/xp2018c.html#IbbaBPT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xpu/TonelliPBI18" mdate="2019-05-03">
+<author>Roberto Tonelli</author>
+<author>Andrea Pinna</author>
+<author>Gavina Baralla</author>
+<author>Simona Ibba</author>
+<title>Ethereum smart contracts as blockchain-oriented microservices.</title>
+<pages>21:1-21:2</pages>
+<year>2018</year>
+<booktitle>XP Companion</booktitle>
+<crossref>conf/xpu/2018c</crossref>
+<url>db/conf/xpu/xp2018c.html#TonelliPBI18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xpu/OrtuPTMBD18" mdate="2019-05-03">
+<author>Marco Ortu</author>
+<author>Andrea Pinna</author>
+<author>Roberto Tonelli</author>
+<author>Michele Marchesi</author>
+<author>David Bowes</author>
+<author>Giuseppe Destefanis</author>
+<title>Angry-builds: an empirical study of affect metrics and builds success on github ecosystem.</title>
+<pages>35:1-35:2</pages>
+<year>2018</year>
+<booktitle>XP Companion</booktitle>
+<crossref>conf/xpu/2018c</crossref>
+<url>db/conf/xpu/xp2018c.html#OrtuPTMBD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xpu/IbbaPBM18" mdate="2019-10-19">
+<author>Simona Ibba</author>
+<author orcid="0000-0002-7530-0521">Andrea Pinna</author>
+<author orcid="0000-0002-3119-9388">Gavina Baralla</author>
+<author>Michele Marchesi</author>
+<title>ICOs Overview: Should Investors Choose an ICO Developed with the Lean Startup Methodology?</title>
+<pages>293-308</pages>
+<year>2018</year>
+<booktitle>XP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-91602-6_21</ee>
+<crossref>conf/xpu/2018</crossref>
+<url>db/conf/xpu/xp2018.html#IbbaPBM18</url>
+</inproceedings>
+</r>
+<r><article key="journals/fi/CoccoPM17" mdate="2018-11-30">
+<author orcid="0000-0002-5055-9166">Luisanna Cocco</author>
+<author orcid="0000-0002-7530-0521">Andrea Pinna</author>
+<author orcid="0000-0003-1540-8773">Michele Marchesi</author>
+<title>Banking on Blockchain: Costs Savings Thanks to the Blockchain Technology.</title>
+<pages>25</pages>
+<year>2017</year>
+<volume>9</volume>
+<journal>Future Internet</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.3390/fi9030025</ee>
+<url>db/journals/fi/fi9.html#CoccoPM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/PorruPMT17" mdate="2019-02-12">
+<author>Simone Porru</author>
+<author orcid="0000-0002-7530-0521">Andrea Pinna</author>
+<author orcid="0000-0003-1540-8773">Michele Marchesi</author>
+<author orcid="0000-0002-9090-7698">Roberto Tonelli</author>
+<title>Blockchain-oriented software engineering: challenges and new directions.</title>
+<pages>169-171</pages>
+<year>2017</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<crossref>conf/icse/2017c</crossref>
+<url>db/conf/icse/icse2017c.html#PorruPMT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wimob/MannaroBIPG17" mdate="2019-10-19">
+<author>Katiuscia Mannaro</author>
+<author orcid="0000-0002-3119-9388">Gavina Baralla</author>
+<author orcid="0000-0002-7657-0208">Simona Ibba</author>
+<author orcid="0000-0002-7530-0521">Andrea Pinna</author>
+<author orcid="0000-0002-6239-5402">Chiara Garau</author>
+<title>Towards a smart region: The case study of a teledermatology platform in sardinian region (Italy).</title>
+<pages>370-377</pages>
+<year>2017</year>
+<booktitle>WiMob</booktitle>
+<crossref>conf/wimob/2017</crossref>
+<url>db/conf/wimob/wimob2017.html#MannaroBIPG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xpu/IbbaPSP17" mdate="2018-11-06">
+<author orcid="0000-0002-7657-0208">Simona Ibba</author>
+<author orcid="0000-0002-7530-0521">Andrea Pinna</author>
+<author>Matteo Seu</author>
+<author>Filippo Eros Pani</author>
+<title>CitySense: blockchain-oriented smart cities.</title>
+<pages>12:1-12:5</pages>
+<year>2017</year>
+<booktitle>XP Workshops</booktitle>
+<crossref>conf/xpu/2017w</crossref>
+<url>db/conf/xpu/xp2017w.html#IbbaPSP17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PorruPMT17" mdate="2018-08-13">
+<author>Simone Porru</author>
+<author>Andrea Pinna</author>
+<author>Michele Marchesi</author>
+<author>Roberto Tonelli</author>
+<title>Blockchain-oriented Software Engineering: Challenges and New Directions.</title>
+<year>2017</year>
+<volume>abs/1702.05146</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.05146</ee>
+<url>db/journals/corr/corr1702.html#PorruPMT17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-07790" mdate="2018-08-13">
+<author>Andrea Pinna</author>
+<author>Roberto Tonelli</author>
+<author>Matteo Orrù</author>
+<author>Michele Marchesi</author>
+<title>A Petri Nets Model for Blockchain Analysis.</title>
+<year>2017</year>
+<volume>abs/1709.07790</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.07790</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-07790</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-09758" mdate="2018-08-13">
+<author>Andrea Pinna</author>
+<author>Simona Ibba</author>
+<title>A blockchain-based Decentralized System for proper handling of temporary Employment contracts.</title>
+<year>2017</year>
+<volume>abs/1711.09758</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.09758</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-09758</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdweb/Pinna16" mdate="2019-05-28">
+<author>Andrea Pinna</author>
+<title>A Petri Net-based Model for Investigating Disposable Addresses in Bitcoin System.</title>
+<year>2016</year>
+<booktitle>KDWeb</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1748/paper-14.pdf</ee>
+<crossref>conf/kdweb/2016</crossref>
+<url>db/conf/kdweb/kdweb2016.html#Pinna16</url>
+</inproceedings>
+</r>
+<r><article key="journals/bioinformatics/CuccuruOPSSTUZF14" mdate="2018-11-14">
+<author>Gianmauro Cuccuru</author>
+<author>Massimiliano Orsini</author>
+<author>Andrea Pinna</author>
+<author>Andrea Sbardellati</author>
+<author>Nicola Soranzo</author>
+<author>Antonella Travaglione</author>
+<author>Paolo Uva</author>
+<author>Gianluigi Zanetti</author>
+<author>Giorgio Fotia</author>
+<title>Orione, a web-based framework for NGS analysis in microbiology.</title>
+<pages>1928-1929</pages>
+<year>2014</year>
+<volume>30</volume>
+<journal>Bioinformatics</journal>
+<number>13</number>
+<url>db/journals/bioinformatics/bioinformatics30.html#CuccuruOPSSTUZF14</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpcs/CuccuruLLMPPUAFZ14" mdate="2019-09-25">
+<author>Gianmauro Cuccuru</author>
+<author>Simone Leo</author>
+<author>Luca Lianas</author>
+<author>Michele Muggiri</author>
+<author>Andrea Pinna</author>
+<author orcid="0000-0002-4663-5613">Luca Pireddu</author>
+<author orcid="0000-0002-9524-8492">Paolo Uva</author>
+<author>Andrea Angius</author>
+<author>Giorgio Fotia</author>
+<author orcid="0000-0003-1683-7350">Gianluigi Zanetti</author>
+<title>An automated infrastructure to support high-throughput bioinformatics.</title>
+<pages>600-607</pages>
+<year>2014</year>
+<booktitle>HPCS</booktitle>
+<crossref>conf/hpcs/2014</crossref>
+<url>db/conf/hpcs/hpcs2014.html#CuccuruLLMPPUAFZ14</url>
+</inproceedings>
+</r>
+<r><article key="journals/bmcsb/PinnaHFFK13" mdate="2019-05-21">
+<author>Andrea Pinna</author>
+<author>Sandra Heise</author>
+<author orcid="0000-0002-7092-1046">Robert J. Flassig</author>
+<author>Alberto de la Fuente</author>
+<author orcid="0000-0003-2563-7561">Steffen Klamt</author>
+<title>Reconstruction of large-scale regulatory networks based on perturbation graphs and transitive reduction: improved methods and their evaluation.</title>
+<pages>73</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>BMC Systems Biology</journal>
+<ee type="oa">https://doi.org/10.1186/1752-0509-7-73</ee>
+<url>db/journals/bmcsb/bmcsb7.html#PinnaHFFK13</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/PinnaSHF11" mdate="2018-11-14">
+<author>Andrea Pinna</author>
+<author>Nicola Soranzo</author>
+<author>Ina Hoeschele</author>
+<author>Alberto de la Fuente</author>
+<title>Simulating systems genetics data with SysGenSIM.</title>
+<pages>2459-2462</pages>
+<year>2011</year>
+<volume>27</volume>
+<journal>Bioinformatics</journal>
+<number>17</number>
+<url>db/journals/bioinformatics/bioinformatics27.html#PinnaSHF11</url>
+</article>
+</r>
+<coauthors n="40" nc="3">
+<co c="1"><na f="a/Angius:Andrea">Andrea Angius</na></co>
+<co c="0"><na f="b/Baralla:Gavina">Gavina Baralla</na></co>
+<co c="0"><na f="b/Bowes:David">David Bowes</na></co>
+<co c="0"><na f="c/Cocco:Luisanna">Luisanna Cocco</na></co>
+<co c="0"><na f="c/Corrias:Giacomo">Giacomo Corrias</na></co>
+<co c="1"><na f="c/Cuccuru:Gianmauro">Gianmauro Cuccuru</na></co>
+<co c="0"><na f="d/Destefanis:Giuseppe">Giuseppe Destefanis</na></co>
+<co c="1"><na f="f/Flassig:Robert_J=">Robert J. Flassig</na></co>
+<co c="1"><na f="f/Fotia:Giorgio">Giorgio Fotia</na></co>
+<co c="1"><na f="f/Fuente:Alberto_de_la">Alberto de la Fuente</na></co>
+<co c="0"><na f="f/Fusco:Francesco">Francesco Fusco</na></co>
+<co c="0"><na f="g/Garau:Chiara">Chiara Garau</na></co>
+<co c="1"><na f="h/Heise:Sandra">Sandra Heise</na></co>
+<co c="1"><na f="h/Hoeschele:Ina">Ina Hoeschele</na></co>
+<co c="0"><na f="i/Ibba:Giacomo">Giacomo Ibba</na></co>
+<co c="0"><na f="i/Ibba:Simona">Simona Ibba</na></co>
+<co c="1"><na f="k/Klamt:Steffen">Steffen Klamt</na></co>
+<co c="1"><na f="l/Leo:Simone">Simone Leo</na></co>
+<co c="1"><na f="l/Lianas:Luca">Luca Lianas</na></co>
+<co c="0"><na f="l/Lunesu:Maria_Ilaria">Maria Ilaria Lunesu</na></co>
+<co c="0"><na f="m/Mannaro:Katiuscia">Katiuscia Mannaro</na></co>
+<co c="0"><na f="m/Marchesi:Michele">Michele Marchesi</na></co>
+<co c="2"><na f="m/Marsala:Christophe">Christophe Marsala</na></co>
+<co c="1"><na f="m/Muggiri:Michele">Michele Muggiri</na></co>
+<co c="0"><na f="o/Orr=ugrave=:Matteo">Matteo Orrù</na></co>
+<co c="1"><na f="o/Orsini:Massimiliano">Massimiliano Orsini</na></co>
+<co c="0"><na f="o/Ortu:Marco">Marco Ortu</na></co>
+<co c="0"><na f="p/Pani:Filippo_Eros">Filippo Eros Pani</na></co>
+<co c="1"><na f="p/Pireddu:Luca">Luca Pireddu</na></co>
+<co c="0"><na f="p/Porru:Simone">Simone Porru</na></co>
+<co c="2"><na f="r/Rifqi:Maria">Maria Rifqi</na></co>
+<co c="1"><na f="s/Sbardellati:Andrea">Andrea Sbardellati</na></co>
+<co c="0"><na f="s/Seu:Matteo">Matteo Seu</na></co>
+<co c="1"><na f="s/Soranzo:Nicola">Nicola Soranzo</na></co>
+<co c="0"><na f="t/Tonelli:Roberto">Roberto Tonelli</na></co>
+<co c="1"><na f="t/Travaglione:Antonella">Antonella Travaglione</na></co>
+<co c="1"><na f="u/Uva:Paolo">Paolo Uva</na></co>
+<co c="0"><na f="v/Valcalda:Bartolomeo">Bartolomeo Valcalda</na></co>
+<co c="2"><na f="y/Yang:Wenlu">Wenlu Yang</na></co>
+<co c="1"><na f="z/Zanetti:Gianluigi">Gianluigi Zanetti</na></co>
+</coauthors>
+</dblpperson>
+

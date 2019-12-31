@@ -1,0 +1,716 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Vanda Luengo" n="51">
+<person key="homepages/49/1812" mdate="2009-06-09">
+<author>Vanda Luengo</author>
+</person>
+<r><inproceedings key="conf/ectel/GuinebertYML19" mdate="2019-09-09">
+<author>Mathieu Guinebert</author>
+<author>Amel Yessad</author>
+<author>Mathieu Muratet</author>
+<author>Vanda Luengo</author>
+<title>Automatic Detection of Peer Interactions in Multi-player Learning Games.</title>
+<pages>349-361</pages>
+<year>2019</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2019</crossref>
+<url>db/conf/ectel/ectel2019.html#GuinebertYML19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edm/HarrakBL19" mdate="2019-07-12">
+<author>Fatima Harrak</author>
+<author>François Bouchet</author>
+<author>Vanda Luengo</author>
+<title>Categorizing students' questions using an ensemble hybrid approach.</title>
+<year>2019</year>
+<booktitle>EDM</booktitle>
+<crossref>conf/edm/2019</crossref>
+<url>db/conf/edm/edm2019.html#HarrakBL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edm/HarrakBLB19" mdate="2019-07-12">
+<author>Fatima Harrak</author>
+<author>François Bouchet</author>
+<author>Vanda Luengo</author>
+<author>Rémi Bachelet</author>
+<title>Automatic identification of questions in MOOC forums and association with self-regulated learning.</title>
+<year>2019</year>
+<booktitle>EDM</booktitle>
+<crossref>conf/edm/2019</crossref>
+<url>db/conf/edm/edm2019.html#HarrakBLB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lats/HarrakLBB19" mdate="2019-08-01">
+<author>Fatima Harrak</author>
+<author>Vanda Luengo</author>
+<author>François Bouchet</author>
+<author>Rémi Bachelet</author>
+<title>Towards Improving Students' Forum Posts Categorization in MOOCs and Impact on Performance Prediction.</title>
+<pages>47:1-47:4</pages>
+<year>2019</year>
+<booktitle>L@S</booktitle>
+<crossref>conf/lats/2019</crossref>
+<url>db/conf/lats/lats2019.html#HarrakLBB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/medinfo/FourcotMLG19" mdate="2019-12-27">
+<author>Marice Fourcot</author>
+<author orcid="0000-0002-5666-5517">Lionel Di Marco</author>
+<author>Vanda Luengo</author>
+<author>Pierre Gillois</author>
+<title>Disruptive Analysis of Closed Questions Assessments at Medical School, Interest of Massive Multi-Choice Tests.</title>
+<pages>1927-1928</pages>
+<year>2019</year>
+<booktitle>MedInfo</booktitle>
+<crossref>conf/medinfo/2019</crossref>
+<url>db/conf/medinfo/medinfo2019.html#FourcotMLG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/NikolayevaMYCPP18" mdate="2018-08-24">
+<author>Iryna Nikolayeva</author>
+<author>Bruno Martin</author>
+<author>Amel Yessad</author>
+<author>Françoise Chenevotot</author>
+<author>Julia Pilet</author>
+<author>Dominique Prévit</author>
+<author>Brigitte Grugeon-Allys</author>
+<author>Vanda Luengo</author>
+<title>How to Help Teachers Adapt to Learners? Teachers' Perspective on a Competency and Error-Type Centered Dashboard.</title>
+<pages>596-599</pages>
+<year>2018</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2018</crossref>
+<url>db/conf/ectel/ectel2018.html#NikolayevaMYCPP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/LabartheLB18" mdate="2019-05-28">
+<author>Hugues Labarthe</author>
+<author>Vanda Luengo</author>
+<author>François Bouchet</author>
+<title>Analyzing the Relationships Between Learning Analytics, Educational Data Mining and AI for Education.</title>
+<pages>63-72</pages>
+<year>2018</year>
+<booktitle>ITS Workshops</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2354/w2paper2.pdf</ee>
+<crossref>conf/its/2018w</crossref>
+<url>db/conf/its/its2018w.html#LabartheLB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/BourrierJGL18" mdate="2018-06-05">
+<author>Yannick Bourrier</author>
+<author>Francis Jambon</author>
+<author>Catherine Garbay</author>
+<author>Vanda Luengo</author>
+<title>A Hybrid Architecture for Non-technical Skills Diagnosis.</title>
+<pages>300-305</pages>
+<year>2018</year>
+<booktitle>ITS</booktitle>
+<crossref>conf/its/2018</crossref>
+<url>db/conf/its/its2018.html#BourrierJGL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lak/HarrakBLG18" mdate="2018-11-21">
+<author>Fatima Harrak</author>
+<author>François Bouchet</author>
+<author>Vanda Luengo</author>
+<author>Pierre Gillois</author>
+<title>PHS profiling students from their questions in a blended learning environment.</title>
+<pages>102-110</pages>
+<year>2018</year>
+<booktitle>LAK</booktitle>
+<crossref>conf/lak/2018</crossref>
+<url>db/conf/lak/lak2018.html#HarrakBLG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lak/LebisLLG18" mdate="2018-11-21">
+<author>Alexis Lebis</author>
+<author>Marie Lefèvre</author>
+<author>Vanda Luengo</author>
+<author>Nathalie Guin</author>
+<title>Capitalisation of analysis processes: enabling reproducibility, openness and adaptability thanks to narration.</title>
+<pages>245-254</pages>
+<year>2018</year>
+<booktitle>LAK</booktitle>
+<crossref>conf/lak/2018</crossref>
+<url>db/conf/lak/lak2018.html#LebisLLG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mie/HousseinMSLMG18" mdate="2018-11-02">
+<author>Sahal Houssein</author>
+<author orcid="0000-0002-5666-5517">Lionel Di Marco</author>
+<author>Carole Schwebel</author>
+<author>Vanda Luengo</author>
+<author>Patrice Morand</author>
+<author>Pierre Gillois</author>
+<title>Consequences of Switching to Blended Learning: The Grenoble Medical School Key Elements.</title>
+<pages>356-360</pages>
+<year>2018</year>
+<booktitle>MIE</booktitle>
+<crossref>conf/mie/2018</crossref>
+<url>db/conf/mie/mie2018.html#HousseinMSLMG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/BourrierJGL17" mdate="2017-06-26">
+<author>Yannick Bourrier</author>
+<author>Francis Jambon</author>
+<author>Catherine Garbay</author>
+<author>Vanda Luengo</author>
+<title>A Multi-layered Architecture for Analysis of Non-technical-Skills in Critical Situations.</title>
+<pages>463-466</pages>
+<year>2017</year>
+<booktitle>AIED</booktitle>
+<crossref>conf/aied/2017</crossref>
+<url>db/conf/aied/aied2017.html#BourrierJGL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/DiattaraGLC17" mdate="2017-06-16">
+<author>Awa Diattara</author>
+<author>Nathalie Guin</author>
+<author>Vanda Luengo</author>
+<author>Amélie Cordier</author>
+<title>An Authoring Tool to Elicit Knowledge to be Taught without Programming.</title>
+<pages>82-91</pages>
+<year>2017</year>
+<booktitle>CSEDU (1)</booktitle>
+<crossref>conf/csedu/2017-1</crossref>
+<url>db/conf/csedu/csedu2017-1.html#DiattaraGLC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/MonterratYBLL17" mdate="2017-09-05">
+<author>Baptiste Monterrat</author>
+<author>Amel Yessad</author>
+<author>François Bouchet</author>
+<author>Élise Lavoué</author>
+<author>Vanda Luengo</author>
+<title>MAGAM: A Multi-Aspect Generic Adaptation Model for Learning Environments.</title>
+<pages>139-152</pages>
+<year>2017</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2017</crossref>
+<url>db/conf/ectel/ectel2017.html#MonterratYBLL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/BourrierJGL17" mdate="2017-09-05">
+<author>Yannick Bourrier</author>
+<author>Francis Jambon</author>
+<author>Catherine Garbay</author>
+<author>Vanda Luengo</author>
+<title>An Approach for the Analysis of Perceptual and Gestural Performance During Critical Situations.</title>
+<pages>373-378</pages>
+<year>2017</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2017</crossref>
+<url>db/conf/ectel/ectel2017.html#BourrierJGL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/GuinebertYML17" mdate="2017-09-05">
+<author>Mathieu Guinebert</author>
+<author>Amel Yessad</author>
+<author>Mathieu Muratet</author>
+<author>Vanda Luengo</author>
+<title>An Ontology for Describing Scenarios of Multi-players Learning Games: Toward an Automatic Detection of Group Interactions.</title>
+<pages>410-415</pages>
+<year>2017</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2017</crossref>
+<url>db/conf/ectel/ectel2017.html#GuinebertYML17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edm/HarrakBL17" mdate="2018-05-07">
+<author>Fatima Harrak</author>
+<author>François Bouchet</author>
+<author>Vanda Luengo</author>
+<title>Identifying relationships between students' questions type and their behavior.</title>
+<year>2017</year>
+<booktitle>EDM</booktitle>
+<crossref>conf/edm/2017</crossref>
+<url>db/conf/edm/edm2017.html#HarrakBL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lasi-spain/Martinez-MonesR17" mdate="2019-05-28">
+<author>Alejandra Martínez-Monés</author>
+<author>Christophe Reffay</author>
+<author>Gwénaëlle Lécuyer-Cabioch</author>
+<author>Vanda Luengo</author>
+<title>What Information Do Teachers Demand from a Computerized Classroom? An Exploratory Analysis.</title>
+<pages>9-16</pages>
+<year>2017</year>
+<booktitle>LASI-SPAIN</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1925/paper02.pdf</ee>
+<crossref>conf/lasi-spain/2017</crossref>
+<url>db/conf/lasi-spain/lasi-spain2017.html#Martinez-MonesR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/DessusCL16" mdate="2019-12-27">
+<author orcid="0000-0001-6076-5150">Philippe Dessus</author>
+<author>Olivier Cosnefroy</author>
+<author>Vanda Luengo</author>
+<title>"Keep Your Eyes on 'em all!": A Mobile Eye-Tracking Analysis of Teachers' Sensitivity to Students.</title>
+<pages>72-84</pages>
+<year>2016</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2016</crossref>
+<url>db/conf/ectel/ectel2016.html#DessusCL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/LebisLLG16" mdate="2017-05-24">
+<author>Alexis Lebis</author>
+<author>Marie Lefèvre</author>
+<author>Vanda Luengo</author>
+<author>Nathalie Guin</author>
+<title>Towards a Capitalization of Processes Analyzing Learning Interaction Traces.</title>
+<pages>397-403</pages>
+<year>2016</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2016</crossref>
+<url>db/conf/ectel/ectel2016.html#LebisLLG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/BourrierJGL16" mdate="2017-05-24">
+<author>Yannick Bourrier</author>
+<author>Francis Jambon</author>
+<author>Catherine Garbay</author>
+<author>Vanda Luengo</author>
+<title>An Approach to the TEL Teaching of Non-technical Skills from the Perspective of an Ill-Defined Problem.</title>
+<pages>555-558</pages>
+<year>2016</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2016</crossref>
+<url>db/conf/ectel/ectel2016.html#BourrierJGL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/DiattaraGLC16" mdate="2017-05-24">
+<author>Awa Diattara</author>
+<author>Nathalie Guin</author>
+<author>Vanda Luengo</author>
+<author>Amélie Cordier</author>
+<title>Towards an Authoring Tool to Acquire Knowledge for ITS Teaching Problem Solving Methods.</title>
+<pages>575-578</pages>
+<year>2016</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2016</crossref>
+<url>db/conf/ectel/ectel2016.html#DiattaraGLC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/ToussaintLJT15" mdate="2017-05-29">
+<author orcid="0000-0002-6605-527X">Ben-Manson Toussaint</author>
+<author>Vanda Luengo</author>
+<author>Francis Jambon</author>
+<author>Jérôme Tonetti</author>
+<title>From Heterogeneous Multisource Traces to Perceptual-Gestural Sequences: the PeTra Treatment Approach.</title>
+<pages>480-491</pages>
+<year>2015</year>
+<booktitle>AIED</booktitle>
+<crossref>conf/aied/2015</crossref>
+<url>db/conf/aied/aied2015.html#ToussaintLJT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aime/ToussaintL15" mdate="2017-05-29">
+<author orcid="0000-0002-6605-527X">Ben-Manson Toussaint</author>
+<author>Vanda Luengo</author>
+<title>Mining Surgery Phase-Related Sequential Rules from Vertebroplasty Simulations Traces.</title>
+<pages>35-46</pages>
+<year>2015</year>
+<booktitle>AIME</booktitle>
+<crossref>conf/aime/2015</crossref>
+<url>db/conf/aime/aime2015.html#ToussaintL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lak/MandranOLB15" mdate="2018-11-06">
+<author>Nadine Mandran</author>
+<author>Michael Ortega</author>
+<author>Vanda Luengo</author>
+<author>Denis Bouhineau</author>
+<title>DOP8: merging both data and analysis operators life cycles for technology enhanced learning.</title>
+<pages>213-217</pages>
+<year>2015</year>
+<booktitle>LAK</booktitle>
+<crossref>conf/lak/2015</crossref>
+<url>db/conf/lak/lak2015.html#MandranOLB15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijlt/MicheletLAM14" mdate="2017-05-09">
+<author>Sandra Michelet</author>
+<author>Vanda Luengo</author>
+<author>Jean-Michel Adam</author>
+<author>Nadine Mandran</author>
+<title>Diagnosing knowledge using learning activity traces generated by various problem-solving modalities.</title>
+<pages>67-90</pages>
+<year>2014</year>
+<volume>9</volume>
+<journal>IJLT</journal>
+<number>1</number>
+<url>db/journals/ijlt/ijlt9.html#MicheletLAM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/edm/ToussaintLT14" mdate="2016-07-22">
+<author>Ben-Manson Toussaint</author>
+<author>Vanda Luengo</author>
+<author>Jérôme Tonetti</author>
+<title>Towards Using Similarity Measure for Automatic Detection of Significant Behaviors from Continuous Data.</title>
+<pages>427-428</pages>
+<year>2014</year>
+<booktitle>EDM</booktitle>
+<crossref>conf/edm/2014</crossref>
+<url>db/conf/edm/edm2014.html#ToussaintLT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/LalleMLG13" mdate="2017-05-23">
+<author>Sébastien Lallé</author>
+<author>Jack Mostow</author>
+<author>Vanda Luengo</author>
+<author>Nathalie Guin</author>
+<title>Comparing Student Models in Different Formalisms by Predicting Their Impact on Help Success.</title>
+<pages>161-170</pages>
+<year>2013</year>
+<booktitle>AIED</booktitle>
+<crossref>conf/aied/2013</crossref>
+<url>db/conf/aied/aied2013.html#LalleMLG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/LalleLG13" mdate="2017-05-23">
+<author>Sébastien Lallé</author>
+<author>Vanda Luengo</author>
+<author>Nathalie Guin</author>
+<title>Assistance in Building Student Models Using Knowledge Representation and Machine Learning.</title>
+<pages>754-757</pages>
+<year>2013</year>
+<booktitle>AIED</booktitle>
+<crossref>conf/aied/2013</crossref>
+<url>db/conf/aied/aied2013.html#LalleLG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/LuengoM13" mdate="2019-05-28">
+<author>Vanda Luengo</author>
+<author>Dima Mufti-Alchawafa</author>
+<title>Target the controls during the problem solving activity, a process to produce adapted epistemic feedbacks in ill-defined domains. The case of a TEL system for orthopaedic surgery.</title>
+<year>2013</year>
+<booktitle>AIED Workshops</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1009/0803.pdf</ee>
+<crossref>conf/aied/2013w</crossref>
+<url>db/conf/aied/aied2013w.html#LuengoM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/isi/MicheletLAM12" mdate="2017-05-28">
+<author>Sandra Michelet</author>
+<author>Vanda Luengo</author>
+<author>Jean-Michel Adam</author>
+<author>Nadine Mandran</author>
+<title>Interprétation automatique de traces d'activités issues de différents contextes pour une modélisation du diagnostic.</title>
+<pages>41-72</pages>
+<year>2012</year>
+<volume>17</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>2</number>
+<url>db/journals/isi/isi17.html#MicheletLAM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/ergoihm/JambonL12" mdate="2018-11-06">
+<author>Francis Jambon</author>
+<author>Vanda Luengo</author>
+<title>Analyse oculométrique « on-line » avec zones d'intérêt dynamiques: application aux environnements d'apprentissage sur simulateur.</title>
+<pages>1</pages>
+<year>2012</year>
+<booktitle>Ergo'IHM</booktitle>
+<crossref>conf/ergoihm/2012</crossref>
+<url>db/conf/ergoihm/ergoihm2012.html#JambonL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-ic/MicheletLA12" mdate="2017-02-07">
+<author>Sandra Michelet</author>
+<author>Vanda Luengo</author>
+<author>Jean-Michel Adam</author>
+<title>De la conception à l'évaluation d'un modèle de connaissances. Etude de cas : le modèle S-K-E.</title>
+<pages>217-232</pages>
+<year>2012</year>
+<booktitle>IC</booktitle>
+<crossref>conf/f-ic/2012</crossref>
+<url>db/conf/f-ic/ic2012.html#MicheletLA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/GoelLL12" mdate="2017-05-21">
+<author>Gagan Goel</author>
+<author>Sébastien Lallé</author>
+<author>Vanda Luengo</author>
+<title>Fuzzy Logic Representation for Student Modelling - Case Study on Geometry.</title>
+<pages>428-433</pages>
+<year>2012</year>
+<booktitle>ITS</booktitle>
+<crossref>conf/its/2012</crossref>
+<url>db/conf/its/its2012.html#GoelLL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/LalleLG12" mdate="2017-05-21">
+<author>Sébastien Lallé</author>
+<author>Vanda Luengo</author>
+<author>Nathalie Guin</author>
+<title>An Automatic Comparison between Knowledge Diagnostic Techniques.</title>
+<pages>622-623</pages>
+<year>2012</year>
+<booktitle>ITS</booktitle>
+<crossref>conf/its/2012</crossref>
+<url>db/conf/its/its2012.html#LalleLG12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ria/LuengoVTD11" mdate="2017-05-27">
+<author>Vanda Luengo</author>
+<author>Lucile Vadcard</author>
+<author>Jerome Tonetti</author>
+<author>Michel Dubois</author>
+<title>Diagnostic des connaissances et rétroaction épistémique adaptative en chirurgie.</title>
+<pages>499-524</pages>
+<year>2011</year>
+<volume>25</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>4</number>
+<url>db/journals/ria/ria25.html#LuengoVTD11</url>
+</article>
+</r>
+<r><inproceedings key="conf/ectel/SettoutiGLM11" mdate="2017-05-24">
+<author>Lemya Settouti</author>
+<author>Nathalie Guin</author>
+<author>Vanda Luengo</author>
+<author>Alain Mille</author>
+<title>Adaptable and Reusable Query Patterns for Trace-Based Learner Modelling.</title>
+<pages>384-397</pages>
+<year>2011</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2011</crossref>
+<url>db/conf/ectel/ectel2011.html#SettoutiGLM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edm/LalleL11" mdate="2011-09-19">
+<author>Sébastien Lallé</author>
+<author>Vanda Luengo</author>
+<title>Learning Parameters for a Knowledge Diagnostic Tools in Orthopedic Surgery.</title>
+<pages>369-370</pages>
+<year>2011</year>
+<booktitle>EDM</booktitle>
+<crossref>conf/edm/2011</crossref>
+<url>db/conf/edm/edm2011.html#LalleL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/LalleL11" mdate="2014-04-24">
+<author>Sébastien Lallé</author>
+<author>Vanda Luengo</author>
+<title>Intégration de données haptiques brutes dans des systèmes experts de diagnostic des connaissances.</title>
+<pages>599-610</pages>
+<year>2011</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2011</crossref>
+<url>db/conf/f-egc/egc2011.html#LalleL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmvr/LuengoLT11" mdate="2017-05-24">
+<author>Vanda Luengo</author>
+<author>Aurelie Larcher</author>
+<author>Jerome Tonetti</author>
+<title>Design and Implementation of a Visual and Haptic Simulator in a Platform for a TEL System in Percutaneuos Orthopedic Surgery.</title>
+<pages>324-328</pages>
+<year>2011</year>
+<booktitle>MMVR</booktitle>
+<crossref>conf/mmvr/2011</crossref>
+<url>db/conf/mmvr/mmvr2011.html#LuengoLT11</url>
+</inproceedings>
+</r>
+<r><article key="journals/aiedu/ChieuLVT10" mdate="2017-05-28">
+<author>Vu Minh Chieu</author>
+<author>Vanda Luengo</author>
+<author>Lucile Vadcard</author>
+<author>Jerome Tonetti</author>
+<title>Student Modeling in Orthopedic Surgery Training: Exploiting Symbiosis between Temporal Bayesian Networks and Fine-grained Didactic Analysis.</title>
+<pages>269-301</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>I. J. Artificial Intelligence in Education</journal>
+<number>3</number>
+<url>db/journals/aiedu/aiedu20.html#ChieuLVT10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ectel/MicheletLAM10" mdate="2017-05-24">
+<author>Sandra Michelet</author>
+<author>Vanda Luengo</author>
+<author>Jean-Michel Adam</author>
+<author>Nadine Mandran</author>
+<title>Experimentation and Results for Calibrating Automatic Diagnosis Belief Linked to Problem Solving Modalities: A Case Study in Electricity.</title>
+<pages>408-413</pages>
+<year>2010</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2010</crossref>
+<url>db/conf/ectel/ectel2010.html#MicheletLAM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/SettoutiGML10" mdate="2018-11-02">
+<author>Lemya Settouti</author>
+<author orcid="0000-0001-9999-9878">Nathalie Guin</author>
+<author>Alain Mille</author>
+<author>Vanda Luengo</author>
+<title>A Trace-Based Learner Modelling Framework for Technology-Enhanced Learning Systems.</title>
+<pages>73-77</pages>
+<year>2010</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2010</crossref>
+<url>db/conf/icalt/icalt2010.html#SettoutiGML10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/MicheletLAM10" mdate="2017-05-21">
+<author>Sandra Michelet</author>
+<author>Vanda Luengo</author>
+<author>Jean-Michel Adam</author>
+<author>Nadine Mandran</author>
+<title>How to Take into Account Different Problem Solving Modalities for Doing a Diagnosis? Experiment and Results.</title>
+<pages>380-383</pages>
+<year>2010</year>
+<booktitle>Intelligent Tutoring Systems (2)</booktitle>
+<crossref>conf/its/2010-2</crossref>
+<url>db/conf/its/its2010-2.html#MicheletLAM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/Luengo08" mdate="2017-05-23">
+<author>Vanda Luengo</author>
+<title>Take into Account Knowledge Constraints for Design of TEL Environments in Medical Education.</title>
+<pages>839-841</pages>
+<year>2008</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2008</crossref>
+<url>db/conf/icalt/icalt2008.html#Luengo08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icls/BlavierZFAVLDR08" mdate="2019-04-09">
+<author>Adelaide Blavier</author>
+<author>Jan M. Zottmann</author>
+<author>Frank Fischer 0001</author>
+<author>Annette Aboulafia</author>
+<author>Lucile Vadcard</author>
+<author>Vanda Luengo</author>
+<author>Peter Dieckmann</author>
+<author>Marcus Rall</author>
+<title>Learning with simulations in medical education validity and design of learning settings in particular contexts.</title>
+<pages>198-205</pages>
+<year>2008</year>
+<booktitle>ICLS (3)</booktitle>
+<crossref>conf/icls/2008-3</crossref>
+<url>db/conf/icls/icls2008-3.html#BlavierZFAVLDR08</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijet/MicheletAL07" mdate="2019-09-06">
+<author>Sandra Michelet</author>
+<author>Jean-Michel Adam</author>
+<author>Vanda Luengo</author>
+<title>Adaptive learning scenarios for detection of misconceptions about electricity and remediation.</title>
+<year>2007</year>
+<volume>2</volume>
+<journal>iJET</journal>
+<number>1</number>
+<ee type="oa">https://www.online-journals.org/index.php/i-jet/article/view/85</ee>
+<url>db/journals/ijet/ijet2.html#MicheletAL07</url>
+</article>
+</r>
+<r><inproceedings key="conf/f-egc/LuengoVM06" mdate="2014-04-24">
+<author>Vanda Luengo</author>
+<author>Lucile Vadcard</author>
+<author>Dima Mufti-Alchawafa</author>
+<title>De l'analyse didactique à la modélisation informatique pour la conception d'un EIAH en chirurgie orthopédique.</title>
+<pages>663-668</pages>
+<year>2006</year>
+<crossref>conf/f-egc/2006</crossref>
+<booktitle>EGC</booktitle>
+<url>db/conf/f-egc/egc2006.html#LuengoVM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-ic/LuengoVDM06" mdate="2009-06-06">
+<author>Vanda Luengo</author>
+<author>Lucile Vadcard</author>
+<author>Michel Dubois</author>
+<author>Dima Mufti-Alchawafa</author>
+<title>TELEOS : de l'analyse de l'activité professionnelle à la formalisation des connaissances pour un environnement d'apprentissage.</title>
+<pages>101-110</pages>
+<year>2006</year>
+<booktitle>Actes d'IC</booktitle>
+<crossref>conf/f-ic/2006</crossref>
+<url>db/conf/f-ic/ic2006.html#LuengoVDM06</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkl/Luengo05" mdate="2017-11-14">
+<author>Vanda Luengo</author>
+<title>Some didactical and Epistemological Considerations in the Design of Educational Software: The Cabri-euclide Example.</title>
+<pages>1-29</pages>
+<year>2005</year>
+<volume>10</volume>
+<journal>I. J. Computers for Math. Learning</journal>
+<number>1</number>
+<url>db/journals/tkl/tkl10.html#Luengo05</url>
+</article>
+</r>
+<r><inproceedings key="conf/its/LuengoMV04" mdate="2017-05-21">
+<author>Vanda Luengo</author>
+<author>Dima Mufti-Alchawafa</author>
+<author>Lucile Vadcard</author>
+<title>The Knowledge Like the Object of Interaction in an Orthopaedic Surgery-Learning Environment.</title>
+<pages>108-117</pages>
+<year>2004</year>
+<crossref>conf/its/2004</crossref>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<url>db/conf/its/its2004.html#LuengoMV04</url>
+</inproceedings>
+</r>
+<coauthors n="57" nc="2">
+<co c="0"><na f="a/Aboulafia:Annette">Annette Aboulafia</na></co>
+<co c="0"><na f="a/Adam:Jean=Michel">Jean-Michel Adam</na></co>
+<co c="0"><na f="b/Bachelet:R=eacute=mi">Rémi Bachelet</na></co>
+<co c="0"><na f="b/Blavier:Adelaide">Adelaide Blavier</na></co>
+<co c="0"><na f="b/Bouchet:Fran=ccedil=ois">François Bouchet</na></co>
+<co c="0"><na f="b/Bouhineau:Denis">Denis Bouhineau</na></co>
+<co c="0"><na f="b/Bourrier:Yannick">Yannick Bourrier</na></co>
+<co c="0" n="2"><na f="c/Chenevotot=Quentin:Fran=ccedil=oise">Françoise Chenevotot-Quentin</na><na>Françoise Chenevotot</na></co>
+<co c="0"><na f="c/Chieu:Vu_Minh">Vu Minh Chieu</na></co>
+<co c="0"><na f="c/Cordier:Am=eacute=lie">Amélie Cordier</na></co>
+<co c="1"><na f="c/Cosnefroy:Olivier">Olivier Cosnefroy</na></co>
+<co c="1"><na f="d/Dessus:Philippe">Philippe Dessus</na></co>
+<co c="0"><na f="d/Diattara:Awa">Awa Diattara</na></co>
+<co c="0"><na f="d/Dieckmann:Peter">Peter Dieckmann</na></co>
+<co c="0"><na f="d/Dubois:Michel">Michel Dubois</na></co>
+<co c="0"><na f="f/Fischer_0001:Frank">Frank Fischer 0001</na></co>
+<co c="0"><na f="f/Fourcot:Marice">Marice Fourcot</na></co>
+<co c="0"><na f="g/Garbay:Catherine">Catherine Garbay</na></co>
+<co c="0"><na f="g/Gillois:Pierre">Pierre Gillois</na></co>
+<co c="0"><na f="g/Goel:Gagan">Gagan Goel</na></co>
+<co c="0"><na f="g/Grugeon=Allys:Brigitte">Brigitte Grugeon-Allys</na></co>
+<co c="0"><na f="g/Guin:Nathalie">Nathalie Guin</na></co>
+<co c="0"><na f="g/Guinebert:Mathieu">Mathieu Guinebert</na></co>
+<co c="0"><na f="h/Harrak:Fatima">Fatima Harrak</na></co>
+<co c="0"><na f="h/Houssein:Sahal">Sahal Houssein</na></co>
+<co c="0"><na f="j/Jambon:Francis">Francis Jambon</na></co>
+<co c="0"><na f="l/Labarthe:Hugues">Hugues Labarthe</na></co>
+<co c="0"><na f="l/Lall=eacute=:S=eacute=bastien">Sébastien Lallé</na></co>
+<co c="0"><na f="l/Larcher:Aurelie">Aurelie Larcher</na></co>
+<co c="0"><na f="l/Lavou=eacute=:=Eacute=lise">Élise Lavoué</na></co>
+<co c="0"><na f="l/Lebis:Alexis">Alexis Lebis</na></co>
+<co c="0"><na f="l/L=eacute=cuyer=Cabioch:Gw=eacute=na=euml=lle">Gwénaëlle Lécuyer-Cabioch</na></co>
+<co c="0"><na f="l/Lef=egrave=vre:Marie">Marie Lefèvre</na></co>
+<co c="0"><na f="m/Mandran:Nadine">Nadine Mandran</na></co>
+<co c="0"><na f="m/Marco:Lionel_Di">Lionel Di Marco</na></co>
+<co c="0"><na f="m/Martin:Bruno">Bruno Martin</na></co>
+<co c="0"><na f="m/Mart=iacute=nez=Mon=eacute=s:Alejandra">Alejandra Martínez-Monés</na></co>
+<co c="0"><na f="m/Michelet:Sandra">Sandra Michelet</na></co>
+<co c="0"><na f="m/Mille:Alain">Alain Mille</na></co>
+<co c="0"><na f="m/Monterrat:Baptiste">Baptiste Monterrat</na></co>
+<co c="0"><na f="m/Morand:Patrice">Patrice Morand</na></co>
+<co c="0"><na f="m/Mostow:Jack">Jack Mostow</na></co>
+<co c="0"><na f="m/Mufti=Alchawafa:Dima">Dima Mufti-Alchawafa</na></co>
+<co c="0"><na f="m/Muratet:Mathieu">Mathieu Muratet</na></co>
+<co c="0"><na f="n/Nikolayeva:Iryna">Iryna Nikolayeva</na></co>
+<co c="0" n="2"><na f="o/Ortega=Binderberger:Michael">Michael Ortega-Binderberger</na><na>Michael Ortega</na></co>
+<co c="0"><na f="p/Pilet:Julia">Julia Pilet</na></co>
+<co c="0"><na f="p/Pr=eacute=vit:Dominique">Dominique Prévit</na></co>
+<co c="0"><na f="r/Rall:Marcus">Marcus Rall</na></co>
+<co c="0"><na f="r/Reffay:Christophe">Christophe Reffay</na></co>
+<co c="0"><na f="s/Schwebel:Carole">Carole Schwebel</na></co>
+<co c="0"><na f="s/Settouti:Lemya">Lemya Settouti</na></co>
+<co c="0" n="2"><na f="t/Tonetti:J=eacute=r=ocirc=me">Jérôme Tonetti</na><na>Jerome Tonetti</na></co>
+<co c="0"><na f="t/Toussaint:Ben=Manson">Ben-Manson Toussaint</na></co>
+<co c="0"><na f="v/Vadcard:Lucile">Lucile Vadcard</na></co>
+<co c="0"><na f="y/Yessad:Amel">Amel Yessad</na></co>
+<co c="0"><na f="z/Zottmann:Jan_M=">Jan M. Zottmann</na></co>
+</coauthors>
+</dblpperson>
+

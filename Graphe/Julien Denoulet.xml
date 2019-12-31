@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Julien Denoulet" n="15">
+<person key="homepages/44/22" mdate="2009-06-08">
+<author>Julien Denoulet</author>
+</person>
+<r><article publtype="informal" key="journals/corr/AlouiADPRGG17" mdate="2018-08-13">
+<author>Zied Aloui</author>
+<author>Nawfal Ahamada</author>
+<author>Julien Denoulet</author>
+<author>Francine Pierre</author>
+<author>Martin Rayrole</author>
+<author>Marc Gatti</author>
+<author>Bertrand Granado</author>
+<title>Embedded real-time monitoring using SystemC in IMA network.</title>
+<year>2017</year>
+<volume>abs/1702.06805</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.06805</ee>
+<url>db/journals/corr/corr1702.html#AlouiADPRGG17</url>
+</article>
+</r>
+<r><article key="journals/tsi/BriereDPGP15" mdate="2017-06-09">
+<author>Alexandre Briere</author>
+<author>Julien Denoulet</author>
+<author>Andréa Pinna</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<author>François Pêcheux</author>
+<title>Un réseau sur puce RF reconfigurable dynamiquement pour les many-curs.</title>
+<pages>11-29</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>1-2</number>
+<url>db/journals/tsi/tsi34.html#BriereDPGP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/glvlsi/BriereDPGPULM15" mdate="2018-11-06">
+<author>Alexandre Briere</author>
+<author>Julien Denoulet</author>
+<author>Andréa Pinna</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<author>François Pêcheux</author>
+<author>Eren Unlu</author>
+<author>Yves Louët</author>
+<author orcid="0000-0001-9639-1648">Christophe Moy</author>
+<title>A Dynamically Reconfigurable RF NoC for Many-Core.</title>
+<pages>139-144</pages>
+<year>2015</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<crossref>conf/glvlsi/2015</crossref>
+<url>db/conf/glvlsi/glvlsi2015.html#BriereDPGPULM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/DrilletHZBUALBDPGGPDQMMR14" mdate="2019-02-07">
+<author>Frederic Drillet</author>
+<author>Mohamad Hamieh</author>
+<author>Lounis Zerioul</author>
+<author>Alexandre Briere</author>
+<author>Eren Unlu</author>
+<author>Myriam Ariaudo</author>
+<author>Yves Louët</author>
+<author>Emmanuelle Bourdel</author>
+<author>Julien Denoulet</author>
+<author>Andréa Pinna</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<author>Patrick Garda</author>
+<author>François Pêcheux</author>
+<author>Cedric Duperrier</author>
+<author>Sébastien Quintanel</author>
+<author>Philippe Meunier</author>
+<author orcid="0000-0001-9639-1648">Christophe Moy</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<title>Flexible Radio Interface for NoC RF-Interconnect.</title>
+<pages>36-41</pages>
+<year>2014</year>
+<booktitle>DSD</booktitle>
+<crossref>conf/dsd/2014</crossref>
+<url>db/conf/dsd/dsd2014.html#DrilletHZBUALBDPGGPDQMMR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nocs/UnluHMALDBZDPGPDQRB14" mdate="2018-11-02">
+<author>Eren Unlu</author>
+<author>Mohamad Hamieh</author>
+<author orcid="0000-0001-9639-1648">Christophe Moy</author>
+<author>Myriam Ariaudo</author>
+<author>Yves Louët</author>
+<author>Frederic Drillet</author>
+<author>Alexandre Briere</author>
+<author>Lounis Zerioul</author>
+<author>Julien Denoulet</author>
+<author>Andréa Pinna</author>
+<author>Bertrand Granado</author>
+<author>François Pêcheux</author>
+<author>Cedric Duperrier</author>
+<author>Sébastien Quintanel</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Emmanuelle Bourdel</author>
+<title>An OFDMA based RF interconnect for massive multi-core processors.</title>
+<pages>182-183</pages>
+<year>2014</year>
+<booktitle>NOCS</booktitle>
+<crossref>conf/nocs/2014</crossref>
+<url>db/conf/nocs/nocs2014.html#UnluHMALDBZDPGPDQRB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/WangDFVG13" mdate="2017-04-30">
+<author>Ruomin Wang</author>
+<author>Julien Denoulet</author>
+<author>Sylvain Feruglio</author>
+<author>Farouk Vallette</author>
+<author>Patrick Garda</author>
+<title>Modeling of signal integrity in bus communications with timed data flow SystemC-AMS.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2013</crossref>
+<url>db/conf/fdl/fdl2013.html#WangDFVG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/KernecRGD12" mdate="2017-04-30">
+<author>Julien Le Kernec</author>
+<author>Olivier Romain</author>
+<author>Patrick Garda</author>
+<author>Julien Denoulet</author>
+<title>Empirical comparison of Chirp and Multitones on experimental UWB software defined radar prototype.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2012</crossref>
+<url>db/conf/dasip/dasip2012.html#KernecRGD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/WangDFVG12" mdate="2017-05-23">
+<author>Ruomin Wang</author>
+<author>Julien Denoulet</author>
+<author>Sylvain Feruglio</author>
+<author>Farouk Vallette</author>
+<author>Patrick Garda</author>
+<title>High level modeling of signal integrity in field bus communication with SystemC-AMS.</title>
+<pages>889-892</pages>
+<year>2012</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2012</crossref>
+<url>db/conf/icecsys/icecsys2012.html#WangDFVG12</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcad/SuissaRDHG10" mdate="2018-11-02">
+<author>Abraham Suissa</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Julien Denoulet</author>
+<author>Khalil Hachicha</author>
+<author>Patrick Garda</author>
+<title>Empirical Method Based on Neural Networks for Analog Power Modeling.</title>
+<pages>839-844</pages>
+<year>2010</year>
+<volume>29</volume>
+<journal>IEEE Trans. on CAD of Integrated Circuits and Systems</journal>
+<number>5</number>
+<url>db/journals/tcad/tcad29.html#SuissaRDHG10</url>
+</article>
+</r>
+<r><article key="journals/jrtip/LacassagneMDM09" mdate="2017-05-20">
+<author>Lionel Lacassagne</author>
+<author>Antoine Manzanera</author>
+<author>Julien Denoulet</author>
+<author>Alain Mérigot</author>
+<title>High performance motion detection: some trends toward new embedded architectures for vision systems.</title>
+<pages>127-146</pages>
+<year>2009</year>
+<volume>4</volume>
+<journal>J. Real-Time Image Processing</journal>
+<number>2</number>
+<url>db/journals/jrtip/jrtip4.html#LacassagneMDM09</url>
+</article>
+</r>
+<r><article key="journals/ejes/AlassirDRSG08" mdate="2019-06-02">
+<author>Mohamad Alassir</author>
+<author>Julien Denoulet</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Abraham Suissa</author>
+<author>Patrick Garda</author>
+<title>Modelling Field Bus Communications in Mixed-Signal Embedded Systems.</title>
+<year>2008</year>
+<volume>2008</volume>
+<journal>EURASIP J. Emb. Sys.</journal>
+<ee type="oa">https://doi.org/10.1155/2008/134798</ee>
+<url>db/journals/ejes/ejes2008.html#AlassirDRSG08</url>
+</article>
+</r>
+<r><article key="journals/jrtip/DenouletM08" mdate="2017-05-20">
+<author>Julien Denoulet</author>
+<author>Alain Mérigot</author>
+<title>An architecture based on reconfigurability and asynchronism for real-time image processing.</title>
+<pages>119-130</pages>
+<year>2008</year>
+<volume>3</volume>
+<journal>J. Real-Time Image Processing</journal>
+<number>3</number>
+<url>db/journals/jrtip/jrtip3.html#DenouletM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/fdl/AlassirDVRAG07" mdate="2009-03-04">
+<author>Mohamad Alassir</author>
+<author>Julien Denoulet</author>
+<author>Gabriel Vasilescu</author>
+<author>Olivier Romain</author>
+<author>Romain Arnaud</author>
+<author>Patrick Garda</author>
+<title>Modeling Field Bus Communications for Automotive Applications.</title>
+<pages>56-61</pages>
+<year>2007</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2007</crossref>
+<url>db/conf/fdl/fdl2007.html#AlassirDVRAG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/AlassirDRG06" mdate="2011-02-23">
+<author>Mohamad Alassir</author>
+<author>Julien Denoulet</author>
+<author>Olivier Romain</author>
+<author>Patrick Garda</author>
+<title>Modelling and Simulation of an I2C Bus Controller in SystemC-AMS.</title>
+<pages>121-128</pages>
+<year>2006</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2006</crossref>
+<url>db/conf/fdl/fdl2006.html#AlassirDRG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/camp/DenouletMLM05" mdate="2017-05-21">
+<author>Julien Denoulet</author>
+<author>Ghilès Mostafaoui</author>
+<author>Lionel Lacassagne</author>
+<author>Alain Mérigot</author>
+<title>Implementing Motion Markov Detection on General Purpose Processor and Associative Mesh.</title>
+<pages>288-293</pages>
+<year>2005</year>
+<crossref>conf/camp/2005</crossref>
+<booktitle>CAMP</booktitle>
+<url>db/conf/camp/camp2005.html#DenouletMLM05</url>
+</inproceedings>
+</r>
+<coauthors n="35" nc="1">
+<co c="0"><na f="a/Ahamada:Nawfal">Nawfal Ahamada</na></co>
+<co c="0"><na f="a/Alassir:Mohamad">Mohamad Alassir</na></co>
+<co c="0"><na f="a/Aloui:Zied">Zied Aloui</na></co>
+<co c="0"><na f="a/Ariaudo:Myriam">Myriam Ariaudo</na></co>
+<co c="0"><na f="a/Arnaud:Romain">Romain Arnaud</na></co>
+<co c="0"><na f="b/Bourdel:Emmanuelle">Emmanuelle Bourdel</na></co>
+<co c="0"><na f="b/Briere:Alexandre">Alexandre Briere</na></co>
+<co c="0"><na f="d/Drillet:Frederic">Frederic Drillet</na></co>
+<co c="0"><na f="d/Duperrier:Cedric">Cedric Duperrier</na></co>
+<co c="0"><na f="f/Feruglio:Sylvain">Sylvain Feruglio</na></co>
+<co c="0"><na f="g/Garda:Patrick">Patrick Garda</na></co>
+<co c="0"><na f="g/Gatti:Marc">Marc Gatti</na></co>
+<co c="0"><na f="g/Granado:Bertrand">Bertrand Granado</na></co>
+<co c="0"><na f="h/Hachicha:Khalil">Khalil Hachicha</na></co>
+<co c="0"><na f="h/Hamieh:Mohamad">Mohamad Hamieh</na></co>
+<co c="0"><na f="k/Kernec:Julien_Le">Julien Le Kernec</na></co>
+<co c="0"><na f="l/Lacassagne:Lionel">Lionel Lacassagne</na></co>
+<co c="0"><na f="l/Lou=euml=t:Yves">Yves Louët</na></co>
+<co c="0"><na f="m/Manzanera:Antoine">Antoine Manzanera</na></co>
+<co c="0"><na f="m/M=eacute=rigot:Alain">Alain Mérigot</na></co>
+<co c="0"><na f="m/Meunier:Philippe">Philippe Meunier</na></co>
+<co c="0"><na f="m/Mostafaoui:Ghil=egrave=s">Ghilès Mostafaoui</na></co>
+<co c="0"><na f="m/Moy:Christophe">Christophe Moy</na></co>
+<co c="0"><na f="p/P=ecirc=cheux:Fran=ccedil=ois">François Pêcheux</na></co>
+<co c="0"><na f="p/Pierre:Francine">Francine Pierre</na></co>
+<co c="0"><na f="p/Pinna:Andr=eacute=a">Andréa Pinna</na></co>
+<co c="0"><na f="q/Quintanel:S=eacute=bastien">Sébastien Quintanel</na></co>
+<co c="0"><na f="r/Rayrole:Martin">Martin Rayrole</na></co>
+<co c="0"><na f="r/Romain:Olivier">Olivier Romain</na></co>
+<co c="0"><na f="s/Suissa:Abraham">Abraham Suissa</na></co>
+<co c="0"><na f="u/Unlu:Eren">Eren Unlu</na></co>
+<co c="0"><na f="v/Vallette:Farouk">Farouk Vallette</na></co>
+<co c="0"><na f="v/Vasilescu:Gabriel">Gabriel Vasilescu</na></co>
+<co c="0"><na f="w/Wang:Ruomin">Ruomin Wang</na></co>
+<co c="0"><na f="z/Zerioul:Lounis">Lounis Zerioul</na></co>
+</coauthors>
+</dblpperson>
+

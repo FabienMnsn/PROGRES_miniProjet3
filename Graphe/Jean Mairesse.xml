@@ -1,0 +1,827 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Jean Mairesse" n="64">
+<person key="homepages/87/1132" mdate="2009-06-09">
+<author>Jean Mairesse</author>
+</person>
+<r><article key="journals/mor/AdanBMW18" mdate="2018-09-13">
+<author>Ivo J. B. F. Adan</author>
+<author>Ana Busic</author>
+<author>Jean Mairesse</author>
+<author orcid="0000-0001-5986-5795">Gideon Weiss</author>
+<title>Reversibility and Further Properties of FCFS Infinite Bipartite Matching.</title>
+<pages>598-621</pages>
+<year>2018</year>
+<volume>43</volume>
+<journal>Math. Oper. Res.</journal>
+<number>2</number>
+<url>db/journals/mor/mor43.html#AdanBMW18</url>
+</article>
+</r>
+<r><article key="journals/ijfcs/MairesseM17" mdate="2017-06-06">
+<author>Jean Mairesse</author>
+<author>Irène Marcovici</author>
+<title>Uniform Sampling of Subshifts of Finite Type on Grids and Trees.</title>
+<pages>263-288</pages>
+<year>2017</year>
+<volume>28</volume>
+<journal>Int. J. Found. Comput. Sci.</journal>
+<number>3</number>
+<url>db/journals/ijfcs/ijfcs28.html#MairesseM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/concur/BassetMS17" mdate="2018-08-23">
+<author>Nicolas Basset</author>
+<author>Jean Mairesse</author>
+<author>Michèle Soria</author>
+<title>Uniform Sampling for Networks of Automata.</title>
+<pages>36:1-36:16</pages>
+<year>2017</year>
+<booktitle>CONCUR</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CONCUR.2017.36</ee>
+<crossref>conf/concur/2017</crossref>
+<url>db/conf/concur/concur2017.html#BassetMS17</url>
+</inproceedings>
+</r>
+<r><article key="journals/jap/MairesseM16" mdate="2017-05-28">
+<author>Jean Mairesse</author>
+<author>Pascal Moyal</author>
+<title>Stability of the stochastic matching model.</title>
+<pages>1064-1077</pages>
+<year>2016</year>
+<volume>53</volume>
+<journal>J. Applied Probability</journal>
+<number>4</number>
+<url>db/journals/jap/jap53.html#MairesseM16</url>
+</article>
+</r>
+<r><article key="journals/jct/AbbesM15" mdate="2017-06-15">
+<author orcid="0000-0003-3382-3647">Samy Abbes</author>
+<author>Jean Mairesse</author>
+<title>Uniform and Bernoulli measures on the boundary of trace monoids.</title>
+<pages>201-236</pages>
+<year>2015</year>
+<volume>135</volume>
+<journal>J. Comb. Theory, Ser. A</journal>
+<url>db/journals/jct/jcta135.html#AbbesM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/mfcs/AbbesM15" mdate="2017-06-15">
+<author orcid="0000-0003-3382-3647">Samy Abbes</author>
+<author>Jean Mairesse</author>
+<title>Uniform Generation in Trace Monoids.</title>
+<pages>63-75</pages>
+<year>2015</year>
+<booktitle>MFCS (1)</booktitle>
+<crossref>conf/mfcs/2015-1</crossref>
+<url>db/conf/mfcs/mfcs2015-1.html#AbbesM15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AbbesM15" mdate="2018-08-13">
+<author>Samy Abbes</author>
+<author>Jean Mairesse</author>
+<title>Uniform generation in trace monoids.</title>
+<year>2015</year>
+<volume>abs/1506.02455</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.02455</ee>
+<url>db/journals/corr/corr1506.html#AbbesM15</url>
+</article>
+</r>
+<r><article key="journals/tcs/MairesseM14" mdate="2017-05-28">
+<author>Jean Mairesse</author>
+<author>Irène Marcovici</author>
+<title>Around probabilistic cellular automata.</title>
+<pages>42-72</pages>
+<year>2014</year>
+<volume>559</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs559.html#MairesseM14</url>
+</article>
+</r>
+<r><article key="journals/fuin/HaddadMN13" mdate="2017-05-20">
+<author>Serge Haddad</author>
+<author>Jean Mairesse</author>
+<author>Hoang-Thach Nguyen</author>
+<title>Synthesis and Analysis of Product-form Petri Nets.</title>
+<pages>147-172</pages>
+<year>2013</year>
+<volume>122</volume>
+<journal>Fundam. Inform.</journal>
+<number>1-2</number>
+<url>db/journals/fuin/fuin122.html#HaddadMN13</url>
+</article>
+</r>
+<r><article key="journals/sigmetrics/AdanBBMW13" mdate="2018-11-06">
+<author>Ivo J. B. F. Adan</author>
+<author>Marko A. A. Boon</author>
+<author orcid="0000-0002-4133-3739">Ana Busic</author>
+<author>Jean Mairesse</author>
+<author>Gideon Weiss</author>
+<title>Queues with skill based parallel servers and a FCFS infinite matching model.</title>
+<pages>22-24</pages>
+<year>2013</year>
+<volume>41</volume>
+<journal>SIGMETRICS Performance Evaluation Review</journal>
+<number>3</number>
+<url>db/journals/sigmetrics/sigmetrics41.html#AdanBBMW13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KlimannMP13" mdate="2018-08-13">
+<author>Ines Klimann</author>
+<author>Jean Mairesse</author>
+<author>Matthieu Picantin</author>
+<title>Implementing Computations in Automaton (Semi)groups.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.4856</ee>
+<volume>abs/1310.4856</volume>
+<url>db/journals/corr/corr1310.html#KlimannMP13</url>
+</article>
+</r>
+<r><article key="journals/ijac/AkhaviKLMP12" mdate="2017-05-28">
+<author>Ali Akhavi</author>
+<author>Ines Klimann</author>
+<author>Sylvain Lombardy</author>
+<author>Jean Mairesse</author>
+<author>Matthieu Picantin</author>
+<title>On the Finiteness Problem for Automaton (Semi)Groups.</title>
+<year>2012</year>
+<volume>22</volume>
+<journal>IJAC</journal>
+<number>6</number>
+<url>db/journals/ijac/ijac22.html#AkhaviKLMP12</url>
+</article>
+</r>
+<r><article key="journals/pe/MairesseS12" mdate="2017-06-08">
+<author>Jean Mairesse</author>
+<author orcid="0000-0001-5310-6763">Giovanni Stea</author>
+<title>Selected papers from ValueTools 2009.</title>
+<pages>119-120</pages>
+<year>2012</year>
+<volume>69</volume>
+<journal>Perform. Eval.</journal>
+<number>3-4</number>
+<url>db/journals/pe/pe69.html#MairesseS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/latin/BusicFMM12" mdate="2018-11-02">
+<author orcid="0000-0002-4133-3739">Ana Busic</author>
+<author orcid="0000-0001-6018-8656">Nazim Fatès</author>
+<author>Jean Mairesse</author>
+<author>Irène Marcovici</author>
+<title>Density Classification on Infinite Lattices and Trees.</title>
+<pages>109-120</pages>
+<year>2012</year>
+<booktitle>LATIN</booktitle>
+<crossref>conf/latin/2012</crossref>
+<url>db/conf/latin/latin2012.html#BusicFMM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wia/KlimannMP12" mdate="2017-05-25">
+<author>Ines Klimann</author>
+<author>Jean Mairesse</author>
+<author>Matthieu Picantin</author>
+<title>Implementing Computations in Automaton (Semi)groups.</title>
+<pages>240-252</pages>
+<year>2012</year>
+<booktitle>CIAA</booktitle>
+<crossref>conf/wia/2012</crossref>
+<url>db/conf/wia/ciaa2012.html#KlimannMP12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-5917" mdate="2018-08-13">
+<author>Jean Mairesse</author>
+<author>Irène Marcovici</author>
+<title>Probabilistic cellular automata and random fields with i.i.d. directions</title>
+<ee type="oa">http://arxiv.org/abs/1207.5917</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.5917</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-5917</url>
+</article>
+</r>
+<r><article key="journals/deds/Mairesse11" mdate="2017-05-27">
+<author>Jean Mairesse</author>
+<title>Foreword: Special section on performance evaluation methodologies.</title>
+<pages>39</pages>
+<year>2011</year>
+<volume>21</volume>
+<journal>Discrete Event Dynamic Systems</journal>
+<number>1</number>
+<url>db/journals/deds/deds21.html#Mairesse11</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/HaddadMN11" mdate="2017-05-26">
+<author>Serge Haddad</author>
+<author>Jean Mairesse</author>
+<author>Hoang-Thach Nguyen</author>
+<title>Synthesis and Analysis of Product-Form Petri Nets.</title>
+<pages>288-307</pages>
+<year>2011</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2011</crossref>
+<url>db/conf/apn/pn2011.html#HaddadMN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stacs/BusicMM11" mdate="2018-08-23">
+<author>Ana Busic</author>
+<author>Jean Mairesse</author>
+<author>Irène Marcovici</author>
+<title>Probabilistic cellular automata, invariant measures, and perfect sampling.</title>
+<pages>296-307</pages>
+<year>2011</year>
+<booktitle>STACS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.STACS.2011.296</ee>
+<crossref>conf/stacs/2011</crossref>
+<url>db/conf/stacs/stacs2011.html#BusicMM11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1104-0291" mdate="2018-08-13">
+<author>Serge Haddad</author>
+<author>Jean Mairesse</author>
+<author>Hoang-Thach Nguyen</author>
+<title>Synthesis and Analysis of Product-form Petri Nets</title>
+<ee type="oa">http://arxiv.org/abs/1104.0291</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1104.0291</volume>
+<url>db/journals/corr/corr1104.html#abs-1104-0291</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1105-4725" mdate="2018-08-13">
+<author>Ali Akhavi</author>
+<author>Ines Klimann</author>
+<author>Sylvain Lombardy</author>
+<author>Jean Mairesse</author>
+<author>Matthieu Picantin</author>
+<title>On the Finiteness Problem for Automaton (Semi)groups</title>
+<ee type="oa">http://arxiv.org/abs/1105.4725</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1105.4725</volume>
+<url>db/journals/corr/corr1105.html#abs-1105-4725</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1111-4582" mdate="2018-08-13">
+<author>Ana Busic</author>
+<author>Nazim Fatès</author>
+<author>Jean Mairesse</author>
+<author>Irène Marcovici</author>
+<title>Density classification on infinite lattices and trees</title>
+<ee type="oa">http://arxiv.org/abs/1111.4582</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1111.4582</volume>
+<url>db/journals/corr/corr1111.html#abs-1111-4582</url>
+</article>
+</r>
+<r><article key="journals/fuin/MairesseN10" mdate="2017-05-20">
+<author>Jean Mairesse</author>
+<author>Hoang-Thach Nguyen</author>
+<title>Deficiency Zero Petri Nets and Product Form.</title>
+<pages>237-261</pages>
+<year>2010</year>
+<volume>105</volume>
+<journal>Fundam. Inform.</journal>
+<number>3</number>
+<url>db/journals/fuin/fuin105.html#MairesseN10</url>
+</article>
+</r>
+<r><article key="journals/questa/JonckheereM10" mdate="2017-06-08">
+<author orcid="0000-0003-3576-5866">Matthieu Jonckheere</author>
+<author>Jean Mairesse</author>
+<title>Towards an Erlang formula for multiclass networks.</title>
+<pages>53-78</pages>
+<year>2010</year>
+<volume>66</volume>
+<journal>Queueing Syst.</journal>
+<number>1</number>
+<url>db/journals/questa/questa66.html#JonckheereM10</url>
+</article>
+</r>
+<r><article key="journals/sigmetrics/BusicGM10" mdate="2018-11-06">
+<author>Ana Busic</author>
+<author>Varun Gupta</author>
+<author>Jean Mairesse</author>
+<title>Stability of the bipartite matching model.</title>
+<pages>6-8</pages>
+<year>2010</year>
+<volume>38</volume>
+<journal>SIGMETRICS Performance Evaluation Review</journal>
+<number>2</number>
+<url>db/journals/sigmetrics/sigmetrics38.html#BusicGM10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1003-3477" mdate="2018-08-13">
+<author>Ana Busic</author>
+<author>Varun Gupta</author>
+<author>Jean Mairesse</author>
+<title>Stability of the bipartite matching model</title>
+<ee type="oa">http://arxiv.org/abs/1003.3477</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1003.3477</volume>
+<url>db/journals/corr/corr1003.html#abs-1003-3477</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1009-0143" mdate="2018-08-13">
+<author>Philippe Chassaing</author>
+<author>Jean Mairesse</author>
+<title>A non-ergodic PCA with a unique invariant measure</title>
+<ee type="oa">http://arxiv.org/abs/1009.0143</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1009.0143</volume>
+<url>db/journals/corr/corr1009.html#abs-1009-0143</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1010-3133" mdate="2018-08-13">
+<author>Ana Busic</author>
+<author>Jean Mairesse</author>
+<author>Irène Marcovici</author>
+<title>Probabilistic cellular automata, invariant measures, and perfect sampling</title>
+<ee type="oa">http://arxiv.org/abs/1010.3133</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1010.3133</volume>
+<url>db/journals/corr/corr1010.html#abs-1010-3133</url>
+</article>
+</r>
+<r><article key="journals/questa/BaccelliM09" mdate="2017-05-27">
+<author>François Baccelli</author>
+<author>Jean Mairesse</author>
+<title>Guest Editorial.</title>
+<pages>309-310</pages>
+<year>2009</year>
+<volume>62</volume>
+<journal>Queueing Syst.</journal>
+<number>4</number>
+<url>db/journals/questa/questa62.html#BaccelliM09</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/MairesseN09" mdate="2017-05-26">
+<author>Jean Mairesse</author>
+<author>Hoang-Thach Nguyen</author>
+<title>Deficiency Zero Petri Nets and Product Form.</title>
+<pages>103-122</pages>
+<year>2009</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2009</crossref>
+<url>db/conf/apn/pn2009.html#MairesseN09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/valuetools/2009" mdate="2015-03-24">
+<editor>Giovanni Stea</editor>
+<editor>Jean Mairesse</editor>
+<editor>José Mendes</editor>
+<title>4th International Conference on Performance Evaluation Methodologies and Tools, VALUETOOLS '09, Pisa, Italy, October 20-22, 2009</title>
+<publisher>ICST/ACM</publisher>
+<booktitle>VALUETOOLS</booktitle>
+<year>2009</year>
+<isbn>978-963-9799-70-7</isbn>
+<url>db/conf/valuetools/valuetools2009.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0905-3158" mdate="2018-08-13">
+<author>Jean Mairesse</author>
+<author>Hoang-Thach Nguyen</author>
+<title>Deficiency Zero Petri Nets and Product Form</title>
+<ee type="oa">http://arxiv.org/abs/0905.3158</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0905.3158</volume>
+<url>db/journals/corr/corr0905.html#abs-0905-3158</url>
+</article>
+</r>
+<r><article key="journals/dam/GaujalM08" mdate="2017-05-28">
+<author>Bruno Gaujal</author>
+<author>Jean Mairesse</author>
+<title>Minimization of circuit registers: Retiming revisited.</title>
+<pages>3498-3505</pages>
+<year>2008</year>
+<volume>156</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>18</number>
+<url>db/journals/dam/dam156.html#GaujalM08</url>
+</article>
+</r>
+<r><article key="journals/deds/AltmanGM08" mdate="2017-05-27">
+<author>Eitan Altman</author>
+<author>Bruno Gaujal</author>
+<author>Jean Mairesse</author>
+<title>Guest Editorial.</title>
+<pages>445-446</pages>
+<year>2008</year>
+<volume>18</volume>
+<journal>Discrete Event Dynamic Systems</journal>
+<number>4</number>
+<url>db/journals/deds/deds18.html#AltmanGM08</url>
+</article>
+</r>
+<r><article key="journals/deds/Dao-ThiM08" mdate="2017-05-27">
+<author>Thu-Ha Dao-Thi</author>
+<author>Jean Mairesse</author>
+<title>Zero-Automatic Networks.</title>
+<pages>499-536</pages>
+<year>2008</year>
+<volume>18</volume>
+<journal>Discrete Event Dynamic Systems</journal>
+<number>4</number>
+<url>db/journals/deds/deds18.html#Dao-ThiM08</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0707-3449" mdate="2018-08-13">
+<author>Thu-Ha Dao-Thi</author>
+<author>Jean Mairesse</author>
+<title>Zero-automatic queues and product form</title>
+<ee type="oa">http://arxiv.org/abs/0707.3449</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0707.3449</volume>
+<url>db/journals/corr/corr0707.html#abs-0707-3449</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0707-3672" mdate="2018-08-13">
+<author>Jean Mairesse</author>
+<title>Products of irreducible random matrices in the (Max,+) Algebra</title>
+<ee type="oa">http://arxiv.org/abs/0707.3672</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0707.3672</volume>
+<url>db/journals/corr/corr0707.html#abs-0707-3672</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0707-4104" mdate="2018-08-13">
+<author>Moez Draief</author>
+<author>Jean Mairesse</author>
+<author>Neil O'Connell</author>
+<title>Queues, stores, and tableaux</title>
+<ee type="oa">http://arxiv.org/abs/0707.4104</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0707.4104</volume>
+<url>db/journals/corr/corr0707.html#abs-0707-4104</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0707-4124" mdate="2018-08-13">
+<author>Moez Draief</author>
+<author>Jean Mairesse</author>
+<title>Services within a busy period of an M/M/1 queue and Dyck paths</title>
+<ee type="oa">http://arxiv.org/abs/0707.4124</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0707.4124</volume>
+<url>db/journals/corr/corr0707.html#abs-0707-4124</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0707-4372" mdate="2018-08-13">
+<author>Bruno Gaujal</author>
+<author>Stefan Haar</author>
+<author>Jean Mairesse</author>
+<title>Blocking a transition in a Free Choice net and what it tells about its throughput</title>
+<ee type="oa">http://arxiv.org/abs/0707.4372</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0707.4372</volume>
+<url>db/journals/corr/corr0707.html#abs-0707-4372</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0709-3257" mdate="2018-08-13">
+<author>Sylvain Lombardy</author>
+<author>Jean Mairesse</author>
+<title>Series which are both max-plus and min-plus rational are unambiguous</title>
+<ee type="oa">http://arxiv.org/abs/0709.3257</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0709.3257</volume>
+<url>db/journals/corr/corr0709.html#abs-0709-3257</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0709-4117" mdate="2018-08-13">
+<author>Ines Klimann</author>
+<author>Sylvain Lombardy</author>
+<author>Jean Mairesse</author>
+<author>Christophe Prieur 0002</author>
+<title>Deciding Unambiguity and Sequentiality starting from a Finitely Ambiguous Max-Plus Automaton</title>
+<ee type="oa">http://arxiv.org/abs/0709.4117</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0709.4117</volume>
+<url>db/journals/corr/corr0709.html#abs-0709-4117</url>
+</article>
+</r>
+<r><article key="journals/deds/BouillardGM06" mdate="2017-05-27">
+<author>Anne Bouillard</author>
+<author>Bruno Gaujal</author>
+<author>Jean Mairesse</author>
+<title>Extremal Throughputs in Free-Choice Nets.</title>
+<pages>327-352</pages>
+<year>2006</year>
+<volume>16</volume>
+<journal>Discrete Event Dynamic Systems</journal>
+<number>3</number>
+<url>db/journals/deds/deds16.html#BouillardGM06</url>
+</article>
+</r>
+<r><article key="journals/ijac/MairesseM06" mdate="2017-05-28">
+<author>Jean Mairesse</author>
+<author>Frédéric Mathéus</author>
+<title>Growth Series for Artin Groups of Dihedral Type.</title>
+<pages>1087-1108</pages>
+<year>2006</year>
+<volume>16</volume>
+<journal>IJAC</journal>
+<number>6</number>
+<url>db/journals/ijac/ijac16.html#MairesseM06</url>
+</article>
+</r>
+<r><article key="journals/ita/LombardyM06" mdate="2017-05-28">
+<author>Sylvain Lombardy</author>
+<author>Jean Mairesse</author>
+<title>Series which are both max-plus and min-plus rational are unambiguous.</title>
+<pages>1-14</pages>
+<year>2006</year>
+<volume>40</volume>
+<journal>ITA</journal>
+<number>1</number>
+<url>db/journals/ita/ita40.html#LombardyM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/valuetools/Dao-ThiM06" mdate="2018-11-06">
+<author>Thu-Ha Dao-Thi</author>
+<author>Jean Mairesse</author>
+<title>Zero-automatic networks.</title>
+<pages>3</pages>
+<year>2006</year>
+<crossref>conf/valuetools/2006</crossref>
+<booktitle>VALUETOOLS</booktitle>
+<url>db/conf/valuetools/valuetools2006.html#Dao-ThiM06</url>
+</inproceedings>
+</r>
+<r><article key="journals/questa/DraiefM05" mdate="2017-05-27">
+<author>Moez Draief</author>
+<author>Jean Mairesse</author>
+<title>Services within a Busy Period of an M/M/1 Queue and Dyck Paths.</title>
+<pages>73-84</pages>
+<year>2005</year>
+<volume>49</volume>
+<journal>Queueing Syst.</journal>
+<number>1</number>
+<url>db/journals/questa/questa49.html#DraiefM05</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/BouillardGM05" mdate="2017-05-26">
+<author>Anne Bouillard</author>
+<author>Bruno Gaujal</author>
+<author>Jean Mairesse</author>
+<title>Extremal Throughputs in Free-Choice Nets.</title>
+<pages>108-127</pages>
+<year>2005</year>
+<crossref>conf/apn/2005</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn2005.html#BouillardGM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/epew/Dao-ThiM05" mdate="2017-05-24">
+<author>Thu-Ha Dao-Thi</author>
+<author>Jean Mairesse</author>
+<title>Zero-Automatic Queues.</title>
+<pages>64-78</pages>
+<year>2005</year>
+<crossref>conf/epew/2005</crossref>
+<booktitle>EPEW/WS-FM</booktitle>
+<url>db/conf/epew/epew2005.html#Dao-ThiM05</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/KlimannLMP04" mdate="2017-11-16">
+<author>Ines Klimann</author>
+<author>Sylvain Lombardy</author>
+<author>Jean Mairesse</author>
+<author>Christophe Prieur 0002</author>
+<title>Deciding unambiguity and sequentiality from a finitely ambiguous max-plus automaton.</title>
+<pages>349-373</pages>
+<year>2004</year>
+<volume>327</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>3</number>
+<url>db/journals/tcs/tcs327.html#KlimannLMP04</url>
+</article>
+</r>
+<r><article key="journals/dm/KrobMM03" mdate="2017-05-28">
+<author>Daniel Krob</author>
+<author>Jean Mairesse</author>
+<author>Ioannis Michos</author>
+<title>Computing the average parallelism in trace monoids.</title>
+<pages>131-162</pages>
+<year>2003</year>
+<volume>273</volume>
+<journal>Discrete Mathematics</journal>
+<number>1-3</number>
+<url>db/journals/dm/dm273.html#KrobMM03</url>
+</article>
+</r>
+<r><article key="journals/jcss/GaujalHM03" mdate="2017-05-20">
+<author>Bruno Gaujal</author>
+<author>Stefan Haar</author>
+<author>Jean Mairesse</author>
+<title>Blocking a transition in a free choice net and what it tells about its throughput.</title>
+<pages>515-548</pages>
+<year>2003</year>
+<volume>66</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>3</number>
+<url>db/journals/jcss/jcss66.html#GaujalHM03</url>
+</article>
+</r>
+<r><article key="journals/tcs/GaubertLMNP03" mdate="2017-06-08">
+<author>Stéphane Gaubert</author>
+<author orcid="0000-0003-4853-3861">Jean Jacques Loiseau</author>
+<author>Jean Mairesse</author>
+<author>Maurice Nivat</author>
+<author>Jean-Eric Pin</author>
+<title>Foreword.</title>
+<pages>1-2</pages>
+<year>2003</year>
+<volume>293</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/tcs/tcs293.html#GaubertLMNP03</url>
+</article>
+</r>
+<r><inproceedings key="conf/dlt/BouillardM03" mdate="2017-05-26">
+<author>Anne Bouillard</author>
+<author>Jean Mairesse</author>
+<title>Generating Series of the Trace Group.</title>
+<pages>159-170</pages>
+<year>2003</year>
+<crossref>conf/dlt/2003</crossref>
+<booktitle>Developments in Language Theory</booktitle>
+<url>db/conf/dlt/dlt2003.html#BouillardM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dlt/KlimannLMP03" mdate="2017-11-16">
+<author>Ines Klimann</author>
+<author>Sylvain Lombardy</author>
+<author>Jean Mairesse</author>
+<author>Christophe Prieur 0002</author>
+<title>Deciding the Sequentiality of a Finitely Ambiguous Max-Plus Automaton.</title>
+<pages>373-385</pages>
+<year>2003</year>
+<crossref>conf/dlt/2003</crossref>
+<booktitle>Developments in Language Theory</booktitle>
+<url>db/conf/dlt/dlt2003.html#KlimannLMP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/drw/DraiefMO03" mdate="2017-05-11">
+<author>Moez Draief</author>
+<author>Jean Mairesse</author>
+<author>Neil O'Connell</author>
+<title>Joint Burke's Theorem and RSK Representation for a Queue and a Store.</title>
+<pages>69-82</pages>
+<year>2003</year>
+<crossref>conf/drw/2003</crossref>
+<booktitle>DRW</booktitle>
+<url>db/conf/drw/drw2003.html#DraiefMO03</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/MairesseV02" mdate="2017-05-28">
+<author>Jean Mairesse</author>
+<author>Laurent Vuillon</author>
+<title>Asymptotic behavior in a heap model with two pieces.</title>
+<pages>525-560</pages>
+<year>2002</year>
+<volume>270</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs270.html#MairesseV02</url>
+</article>
+</r>
+<r><inproceedings key="conf/stacs/KrobMM02" mdate="2017-05-26">
+<author>Daniel Krob</author>
+<author>Jean Mairesse</author>
+<author>Ioannis Michos</author>
+<title>On the Average Parallelism in Trace Monoids.</title>
+<pages>477-488</pages>
+<year>2002</year>
+<crossref>conf/stacs/2002</crossref>
+<booktitle>STACS</booktitle>
+<url>db/conf/stacs/stacs2002.html#KrobMM02</url>
+</inproceedings>
+</r>
+<r><article key="journals/endm/KrobMM01" mdate="2017-05-27">
+<author>Daniel Krob</author>
+<author>Jean Mairesse</author>
+<author>Ioannis Michos</author>
+<title>On the average Cartier-Foata height of traces.</title>
+<pages>164-171</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>Electronic Notes in Discrete Mathematics</journal>
+<url>db/journals/endm/endm10.html#KrobMM01</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DM-0112012" mdate="2018-08-13">
+<author>Daniel Krob</author>
+<author>Jean Mairesse</author>
+<author>Ioannis Michos</author>
+<title>Computing the average parallelism in trace monoids</title>
+<ee type="oa">http://arxiv.org/abs/cs.DM/0112012</ee>
+<year>2001</year>
+<journal>CoRR</journal>
+<volume>cs.DM/0112012</volume>
+<url>db/journals/corr/corr0112.html#cs-DM-0112012</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/GaujalJM00" mdate="2017-05-27">
+<author>Bruno Gaujal</author>
+<author>Alain Jean-Marie</author>
+<author>Jean Mairesse</author>
+<title>Computations of Uniform Recurrence Equations Using Minimal Memory Size.</title>
+<pages>1701-1738</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>SIAM J. Comput.</journal>
+<number>5</number>
+<url>db/journals/siamcomp/siamcomp30.html#GaujalJM00</url>
+</article>
+</r>
+<r><inproceedings key="conf/mfcs/MantaciBM00" mdate="2017-05-24">
+<author>Sabrina Mantaci</author>
+<author>Vincent D. Blondel</author>
+<author>Jean Mairesse</author>
+<title>Bilinear Functions and Trees over the (max, +) Semiring.</title>
+<pages>549-558</pages>
+<year>2000</year>
+<crossref>conf/mfcs/2000</crossref>
+<booktitle>MFCS</booktitle>
+<url>db/conf/mfcs/mfcs2000.html#MantaciBM00</url>
+</inproceedings>
+</r>
+<r><article key="journals/tac/GaubertM99" mdate="2017-05-20">
+<author>Stéphane Gaubert</author>
+<author>Jean Mairesse</author>
+<title>Modeling and analysis of timed Petri nets using heaps of pieces.</title>
+<pages>683-697</pages>
+<year>1999</year>
+<volume>44</volume>
+<journal>IEEE Trans. Automat. Contr.</journal>
+<number>4</number>
+<url>db/journals/tac/tac44.html#GaubertM99</url>
+</article>
+</r>
+<r><inproceedings key="conf/pnpm/GaubertM99" mdate="2017-05-17">
+<author>Stéphane Gaubert</author>
+<author>Jean Mairesse</author>
+<title>Asymptotic analysis of heaps of pieces and application to timed Petri nets.</title>
+<pages>158-169</pages>
+<year>1999</year>
+<booktitle>PNPM</booktitle>
+<crossref>conf/pnpm/1999</crossref>
+<url>db/conf/pnpm/pnpm1999.html#GaubertM99</url>
+</inproceedings>
+</r>
+<coauthors n="41" nc="7">
+<co c="-1"><na f="a/Abbes:Samy">Samy Abbes</na></co>
+<co c="0"><na f="a/Adan:Ivo_J=_B=_F=">Ivo J. B. F. Adan</na></co>
+<co c="2"><na f="a/Akhavi:Ali">Ali Akhavi</na></co>
+<co c="0"><na f="a/Altman:Eitan">Eitan Altman</na></co>
+<co c="0"><na f="b/Baccelli:Fran=ccedil=ois">François Baccelli</na></co>
+<co c="3"><na f="b/Basset:Nicolas">Nicolas Basset</na></co>
+<co c="1"><na f="b/Blondel:Vincent_D=">Vincent D. Blondel</na></co>
+<co c="0"><na f="b/Boon:Marko_A=_A=">Marko A. A. Boon</na></co>
+<co c="0"><na f="b/Bouillard:Anne">Anne Bouillard</na></co>
+<co c="0"><na f="b/Busic:Ana">Ana Busic</na></co>
+<co c="-1"><na f="c/Chassaing:Philippe">Philippe Chassaing</na></co>
+<co c="-1"><na f="d/Dao=Thi:Thu=Ha">Thu-Ha Dao-Thi</na></co>
+<co c="6"><na f="d/Draief:Moez">Moez Draief</na></co>
+<co c="0"><na f="f/Fat=egrave=s:Nazim">Nazim Fatès</na></co>
+<co c="1"><na f="g/Gaubert:St=eacute=phane">Stéphane Gaubert</na></co>
+<co c="0"><na f="g/Gaujal:Bruno">Bruno Gaujal</na></co>
+<co c="0"><na f="g/Gupta:Varun">Varun Gupta</na></co>
+<co c="0"><na f="h/Haar:Stefan">Stefan Haar</na></co>
+<co c="0"><na f="h/Haddad:Serge">Serge Haddad</na></co>
+<co c="0"><na f="j/Jean=Marie:Alain">Alain Jean-Marie</na></co>
+<co c="5"><na f="j/Jonckheere:Matthieu">Matthieu Jonckheere</na></co>
+<co c="2"><na f="k/Klimann:Ines">Ines Klimann</na></co>
+<co c="4"><na f="k/Krob:Daniel">Daniel Krob</na></co>
+<co c="1"><na f="l/Loiseau:Jean_Jacques">Jean Jacques Loiseau</na></co>
+<co c="2"><na f="l/Lombardy:Sylvain">Sylvain Lombardy</na></co>
+<co c="1"><na f="m/Mantaci:Sabrina">Sabrina Mantaci</na></co>
+<co c="0"><na f="m/Marcovici:Ir=egrave=ne">Irène Marcovici</na></co>
+<co c="-1"><na f="m/Math=eacute=us:Fr=eacute=d=eacute=ric">Frédéric Mathéus</na></co>
+<co c="0"><na f="m/Mendes:Jos=eacute=">José Mendes</na></co>
+<co c="4"><na f="m/Michos:Ioannis">Ioannis Michos</na></co>
+<co c="5"><na f="m/Moyal:Pascal">Pascal Moyal</na></co>
+<co c="0"><na f="n/Nguyen:Hoang=Thach">Hoang-Thach Nguyen</na></co>
+<co c="1"><na f="n/Nivat:Maurice">Maurice Nivat</na></co>
+<co c="6"><na f="o/O=Connell:Neil">Neil O'Connell</na></co>
+<co c="2"><na f="p/Picantin:Matthieu">Matthieu Picantin</na></co>
+<co c="1" n="2"><na f="p/Pin:Jean==Eacute=ric">Jean-Éric Pin</na><na>Jean-Eric Pin</na></co>
+<co c="2"><na f="p/Prieur_0002:Christophe">Christophe Prieur 0002</na></co>
+<co c="3"><na f="s/Soria:Mich=egrave=le">Michèle Soria</na></co>
+<co c="0"><na f="s/Stea:Giovanni">Giovanni Stea</na></co>
+<co c="1"><na f="v/Vuillon:Laurent">Laurent Vuillon</na></co>
+<co c="0"><na f="w/Weiss:Gideon">Gideon Weiss</na></co>
+</coauthors>
+</dblpperson>
+

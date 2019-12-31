@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Spyros Angelopoulos">
+<homonyms n="2">
+<h f="a/Angelopoulos_0001:Spyros"><person key="homepages/00/4199" mdate="2019-06-03">
+<author>Spyros Angelopoulos 0001</author>
+<url>http://www-desir.lip6.fr/~angelopouloss/</url>
+<url>https://orcid.org/0000-0001-9819-9158</url>
+<note type="affiliation">CNRS, Paris, France</note>
+</person>
+</h>
+<h f="a/Angelopoulos_0002:Spyros"><person key="homepages/00/4199-2" mdate="2019-01-10">
+<author>Spyros Angelopoulos 0002</author>
+<note type="affiliation">Tilburg University, The Netherlands</note>
+<note type="affiliation" label="former">University of Warwick, Coventry, UK</note>
+<url>https://research.tilburguniversity.edu/en/persons/spyros-angelopoulos</url>
+<url>https://orcid.org/0000-0002-8165-8204</url>
+<url>https://www.wikidata.org/entity/Q58491961</url>
+<url>https://www.researcherid.com/rid/E-3145-2018</url>
+</person>
+</h>
+</homonyms>
+</dblpperson>
+

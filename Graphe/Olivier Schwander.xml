@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Olivier Schwander" n="17">
+<person key="homepages/23/8616" mdate="2010-10-23">
+<author>Olivier Schwander</author>
+</person>
+<r><inproceedings key="conf/gsi/BrooksSBSC19" mdate="2019-08-19">
+<author>Daniel A. Brooks</author>
+<author>Olivier Schwander</author>
+<author>Frédéric Barbaresco</author>
+<author>Jean-Yves Schneider</author>
+<author>Matthieu Cord</author>
+<title>Second-Order Networks in PyTorch.</title>
+<pages>751-758</pages>
+<year>2019</year>
+<booktitle>GSI</booktitle>
+<crossref>conf/gsi/2019</crossref>
+<url>db/conf/gsi/gsi2019.html#BrooksSBSC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/VeniatSD19" mdate="2019-06-30">
+<author>Tom Véniat</author>
+<author>Olivier Schwander</author>
+<author>Ludovic Denoyer</author>
+<title>Stochastic Adaptive Neural Architecture Search for Keyword Spotting.</title>
+<pages>2842-2846</pages>
+<year>2019</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2019</crossref>
+<url>db/conf/icassp/icassp2019.html#VeniatSD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/BrooksSBSC19" mdate="2019-06-30">
+<author>Daniel A. Brooks</author>
+<author>Olivier Schwander</author>
+<author>Frédéric Barbaresco</author>
+<author>Jean-Yves Schneider</author>
+<author>Matthieu Cord</author>
+<title>Exploring Complex Time-series Representations for Riemannian Machine Learning of Radar Data.</title>
+<pages>3672-3676</pages>
+<year>2019</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2019</crossref>
+<url>db/conf/icassp/icassp2019.html#BrooksSBSC19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-02414" mdate="2019-09-16">
+<author>Daniel A. Brooks</author>
+<author>Olivier Schwander</author>
+<author>Frédéric Barbaresco</author>
+<author>Jean-Yves Schneider</author>
+<author>Matthieu Cord</author>
+<title>Riemannian batch normalization for SPD neural networks.</title>
+<year>2019</year>
+<volume>abs/1909.02414</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.02414</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-02414</url>
+</article>
+</r>
+<r><article key="journals/asc/RinconTESPG18" mdate="2019-06-02">
+<author orcid="0000-0003-4491-5889">Alejandro Lopez Rincon</author>
+<author orcid="0000-0001-5895-4809">Alberto Paolo Tonda</author>
+<author orcid="0000-0002-4440-2904">Mohamed Elati</author>
+<author>Olivier Schwander</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Evolutionary optimization of convolutional neural networks for cancer miRNA biomarkers classification.</title>
+<pages>91-100</pages>
+<year>2018</year>
+<volume>65</volume>
+<journal>Appl. Soft Comput.</journal>
+<url>db/journals/asc/asc65.html#RinconTESPG18</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-06753" mdate="2018-11-25">
+<author>Tom Véniat</author>
+<author>Olivier Schwander</author>
+<author>Ludovic Denoyer</author>
+<title>Stochastic Adaptive Neural Architecture Search for Keyword Spotting.</title>
+<year>2018</year>
+<volume>abs/1811.06753</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.06753</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-06753</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/SchwanderMN16" mdate="2017-05-19">
+<author>Olivier Schwander</author>
+<author>Stéphane Marchand-Maillet</author>
+<author>Frank Nielsen</author>
+<title>Comix: Joint estimation and lightspeed comparison of mixture models.</title>
+<pages>2449-2453</pages>
+<year>2016</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2016</crossref>
+<url>db/conf/icassp/icassp2016.html#SchwanderMN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gsi/SchwanderN15" mdate="2017-05-23">
+<author>Olivier Schwander</author>
+<author>Frank Nielsen</author>
+<title>Bag-of-Components: An Online Algorithm for Batch Learning of Mixture Models.</title>
+<pages>387-395</pages>
+<year>2015</year>
+<booktitle>GSI</booktitle>
+<crossref>conf/gsi/2015</crossref>
+<url>db/conf/gsi/gsi2015.html#SchwanderN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/Schwander14" mdate="2019-10-31">
+<author>Olivier Schwander</author>
+<title>Code You Are Happy to Paste: An Algorithmic Dictionary of Exponential Families.</title>
+<pages>51-65</pages>
+<year>2014</year>
+<booktitle>ECML/PKDD (3)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-44845-8_4</ee>
+<crossref>conf/pkdd/2014-3</crossref>
+<url>db/conf/pkdd/pkdd2014-3.html#Schwander14</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Schwander13" mdate="2016-06-29">
+<author>Olivier Schwander</author>
+<title>Méthodes de géométrie de l'information pour les modèles de mélange. (Information-geometric methods for mixture models).</title>
+<year>2013</year>
+<school>École Polytechnique, Palaiseau, France</school>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/simbad/SchwanderN13" mdate="2017-05-22">
+<author>Olivier Schwander</author>
+<author>Frank Nielsen</author>
+<title>Fast Learning of Gamma Mixture Models with k-MLE.</title>
+<pages>235-249</pages>
+<year>2013</year>
+<booktitle>SIMBAD</booktitle>
+<crossref>conf/simbad/2013</crossref>
+<url>db/conf/simbad/simbad2013.html#SchwanderN13</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcb/SimSLB12" mdate="2018-11-14">
+<author>Adelene Y. L. Sim</author>
+<author>Olivier Schwander</author>
+<author>Michael Levitt</author>
+<author orcid="0000-0003-2345-995X">Julie Bernauer</author>
+<title>Evaluating Mixture Models for Building RNA Knowledge-Based Potentials.</title>
+<year>2012</year>
+<volume>10</volume>
+<journal>J. Bioinformatics and Computational Biology</journal>
+<number>2</number>
+<url>db/journals/jbcb/jbcb10.html#SimSLB12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/SchwanderN12" mdate="2017-05-19">
+<author>Olivier Schwander</author>
+<author>Frank Nielsen</author>
+<title>Model centroids for the simplification of Kernel Density estimators.</title>
+<pages>737-740</pages>
+<year>2012</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2012</crossref>
+<url>db/conf/icassp/icassp2012.html#SchwanderN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/SchwanderSNB12" mdate="2017-04-30">
+<author>Olivier Schwander</author>
+<author>Aurelien J. Schutz</author>
+<author>Frank Nielsen</author>
+<author>Yannick Berthoumieu</author>
+<title>k-MLE for mixtures of generalized Gaussians.</title>
+<pages>2825-2828</pages>
+<year>2012</year>
+<booktitle>ICPR</booktitle>
+<crossref>conf/icpr/2012</crossref>
+<url>db/conf/icpr/icpr2012.html#SchwanderSNB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/SchwanderN11" mdate="2017-05-19">
+<author>Olivier Schwander</author>
+<author>Frank Nielsen</author>
+<title>Non-flat clustering with alpha-divergences.</title>
+<pages>2100-2103</pages>
+<year>2011</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2011</crossref>
+<url>db/conf/icassp/icassp2011.html#SchwanderN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/NielsenBS10" mdate="2017-05-24">
+<author>Frank Nielsen</author>
+<author>Sylvain Boltz</author>
+<author>Olivier Schwander</author>
+<title>Bhattacharyya Clustering with Applications to Mixture Simplifications.</title>
+<pages>1437-1440</pages>
+<year>2010</year>
+<booktitle>ICPR</booktitle>
+<crossref>conf/icpr/2010</crossref>
+<url>db/conf/icpr/icpr2010.html#NielsenBS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/visapp/SchwanderN10" mdate="2011-01-05">
+<author>Olivier Schwander</author>
+<author>Frank Nielsen</author>
+<title>Reranking with Contextual Dissimilarity Measures from Representational Bregman k-Means.</title>
+<pages>118-123</pages>
+<year>2010</year>
+<booktitle>VISAPP (1)</booktitle>
+<crossref>conf/visapp/2010-1</crossref>
+<url>db/conf/visapp/visapp2010-1.html#SchwanderN10</url>
+</inproceedings>
+</r>
+<coauthors n="19" nc="2">
+<co c="0"><na f="b/Barbaresco:Fr=eacute=d=eacute=ric">Frédéric Barbaresco</na></co>
+<co c="1"><na f="b/Bernauer:Julie">Julie Bernauer</na></co>
+<co c="0"><na f="b/Berthoumieu:Yannick">Yannick Berthoumieu</na></co>
+<co c="0"><na f="b/Boltz:Sylvain">Sylvain Boltz</na></co>
+<co c="0"><na f="b/Brooks:Daniel_A=">Daniel A. Brooks</na></co>
+<co c="0"><na f="c/Cord:Matthieu">Matthieu Cord</na></co>
+<co c="0"><na f="d/Denoyer:Ludovic">Ludovic Denoyer</na></co>
+<co c="0"><na f="e/Elati:Mohamed">Mohamed Elati</na></co>
+<co c="0"><na f="g/Gallinari:Patrick">Patrick Gallinari</na></co>
+<co c="1"><na f="l/Levitt:Michael">Michael Levitt</na></co>
+<co c="0"><na f="m/Marchand=Maillet:St=eacute=phane">Stéphane Marchand-Maillet</na></co>
+<co c="0"><na f="n/Nielsen:Frank">Frank Nielsen</na></co>
+<co c="0"><na f="p/Piwowarski:Benjamin">Benjamin Piwowarski</na></co>
+<co c="0"><na f="r/Rincon:Alejandro_Lopez">Alejandro Lopez Rincon</na></co>
+<co c="0"><na f="s/Schneider:Jean=Yves">Jean-Yves Schneider</na></co>
+<co c="0"><na f="s/Schutz:Aurelien_J=">Aurelien J. Schutz</na></co>
+<co c="1"><na f="s/Sim:Adelene_Y=_L=">Adelene Y. L. Sim</na></co>
+<co c="0"><na f="t/Tonda:Alberto_Paolo">Alberto Paolo Tonda</na></co>
+<co c="0" n="2"><na f="v/Veniat:Tom">Tom Veniat</na><na>Tom Véniat</na></co>
+</coauthors>
+</dblpperson>
+

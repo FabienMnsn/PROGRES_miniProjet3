@@ -1,0 +1,736 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="François Pêcheux" n="42">
+<person key="homepages/19/3852" mdate="2016-03-03">
+<author>François Pêcheux</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www.lip6.fr/actualite/personnes-fiche.php?ident=P102</url>
+</person>
+<r><inproceedings key="conf/modelsward/GeniusPAP19" mdate="2019-06-07">
+<author>Daniela Genius</author>
+<author>Rodrigo Cortés Porto</author>
+<author>Ludovic Apvrille</author>
+<author>François Pêcheux</author>
+<title>A Tool for High-level Modeling of Analog/Mixed Signal Embedded Systems.</title>
+<pages>433-440</pages>
+<year>2019</year>
+<booktitle>MODELSWARD</booktitle>
+<crossref>conf/modelsward/2019</crossref>
+<url>db/conf/modelsward/modelsward2019.html#GeniusPAP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/Pecheux0MBE18" mdate="2018-10-24">
+<author>François Pêcheux</author>
+<author>Christoph Grimm 0001</author>
+<author>Torsten Maehne</author>
+<author>Martin Barnasconi</author>
+<author>Karsten Einwich</author>
+<title>SystemC AMS Based Frameworks for Virtual Prototyping of Heterogeneous Systems.</title>
+<pages>1-4</pages>
+<year>2018</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2018</crossref>
+<url>db/conf/iscas/iscas2018.html#Pecheux0MBE18</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcb/MadecPGRLH16" mdate="2018-11-30">
+<author orcid="0000-0001-9537-642X">Morgan Madec</author>
+<author>François Pêcheux</author>
+<author>Yves Gendrault</author>
+<author>Elise Rosati</author>
+<author>Christophe Lallement</author>
+<author>Jacques Haiech</author>
+<title>GeNeDA: An Open-Source Workflow for Design Automation of Gene Regulatory Networks Inspired from Microelectronics.</title>
+<pages>841-855</pages>
+<year>2016</year>
+<volume>23</volume>
+<journal>Journal of Computational Biology</journal>
+<number>10</number>
+<url>db/journals/jcb/jcb23.html#MadecPGRLH16</url>
+</article>
+</r>
+<r><inproceedings key="conf/smacd/TranTPP16" mdate="2018-08-30">
+<author>V. Tran</author>
+<author>P. Tisserand</author>
+<author>François Pêcheux</author>
+<author>Andréa Pinna</author>
+<title>Towards the simulatable specification of a highly customisable SystemC AMS alternator model in its multi-domain environment.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>SMACD</booktitle>
+<crossref>conf/smacd/2016</crossref>
+<url>db/conf/smacd/smacd2016.html#TranTPP16</url>
+</inproceedings>
+</r>
+<r><article key="journals/dt/BarnasconiDEVCL15" mdate="2017-07-22">
+<author>Martin Barnasconi</author>
+<author>Manfred Dietrich</author>
+<author>Karsten Einwich</author>
+<author>Thilo Vörtler</author>
+<author>Jean-Paul Chaput</author>
+<author>Marie-Minerve Louërat</author>
+<author>François Pêcheux</author>
+<author>Zhi Wang 0005</author>
+<author>Philippe Cuenot</author>
+<author>Ingmar Neumann</author>
+<author>Thang Nguyen</author>
+<author>Ronan Lucas</author>
+<author>Emmanuel Vaumorin</author>
+<title>UVM-SystemC-AMS Framework for System-Level Verification and Validation of Automotive Use Cases.</title>
+<pages>76-86</pages>
+<year>2015</year>
+<volume>32</volume>
+<journal>IEEE Design and Test</journal>
+<number>6</number>
+<url>db/journals/dt/dt32.html#BarnasconiDEVCL15</url>
+</article>
+</r>
+<r><article key="journals/mam/FernandezMAPF15" mdate="2019-12-09">
+<author>Víctor Fernández 0001</author>
+<author orcid="0000-0003-1295-9756">Andrés Mena</author>
+<author>Cédric Ben Aoun</author>
+<author>François Pêcheux</author>
+<author>Luis J. Fernández</author>
+<title>Virtual prototyping of pressure driven microfluidic systems with SystemC-AMS extensions.</title>
+<pages>854-865</pages>
+<year>2015</year>
+<volume>39</volume>
+<journal>Microprocessors and Microsystems - Embedded Hardware Design</journal>
+<number>8</number>
+<url>db/journals/mam/mam39.html#FernandezMAPF15</url>
+</article>
+</r>
+<r><article key="journals/tsi/BriereDPGP15" mdate="2017-06-09">
+<author>Alexandre Briere</author>
+<author>Julien Denoulet</author>
+<author>Andréa Pinna</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<author>François Pêcheux</author>
+<title>Un réseau sur puce RF reconfigurable dynamiquement pour les many-curs.</title>
+<pages>11-29</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>1-2</number>
+<url>db/journals/tsi/tsi34.html#BriereDPGP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/AndradeMVAPL15" mdate="2017-04-30">
+<author>Liliana Andrade</author>
+<author>Torsten Maehne</author>
+<author>Alain Vachoux</author>
+<author>Cédric Ben Aoun</author>
+<author>François Pêcheux</author>
+<author>Marie-Minerve Louërat</author>
+<title>Pre-simulation symbolic analysis of synchronization issues between discrete event and timed data flow models of computation.</title>
+<pages>1671-1676</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#AndradeMVAPL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/BriereDPGPULM15" mdate="2018-11-06">
+<author>Alexandre Briere</author>
+<author>Julien Denoulet</author>
+<author>Andréa Pinna</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<author>François Pêcheux</author>
+<author>Eren Unlu</author>
+<author>Yves Louët</author>
+<author orcid="0000-0001-9639-1648">Christophe Moy</author>
+<title>A Dynamically Reconfigurable RF NoC for Many-Core.</title>
+<pages>139-144</pages>
+<year>2015</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<crossref>conf/glvlsi/2015</crossref>
+<url>db/conf/glvlsi/glvlsi2015.html#BriereDPGPULM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/AounAMPLV15" mdate="2017-05-25">
+<author>Cédric Ben Aoun</author>
+<author>Liliana Andrade</author>
+<author>Torsten Mähne</author>
+<author>François Pêcheux</author>
+<author>Marie-Minerve Louërat</author>
+<author>Alain Vachoux</author>
+<title>Pre-simulation elaboration of heterogeneous systems: The SystemC multi-disciplinary virtual prototyping approach.</title>
+<pages>278-285</pages>
+<year>2015</year>
+<booktitle>SAMOS</booktitle>
+<crossref>conf/samos/2015</crossref>
+<url>db/conf/samos/samos2015.html#AounAMPLV15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/ZhangRGBP14" mdate="2017-05-18">
+<author>Zhen Zhang</author>
+<author>Dimitri Refauvelet</author>
+<author>Alain Greiner</author>
+<author>Mounir Benabdenbi</author>
+<author>François Pêcheux</author>
+<title>On-the-Field Test and Configuration Infrastructure for 2-D-Mesh NoCs in Shared-Memory Many-Core Architectures.</title>
+<pages>1364-1376</pages>
+<year>2014</year>
+<volume>22</volume>
+<journal>IEEE Trans. VLSI Syst.</journal>
+<number>6</number>
+<url>db/journals/tvlsi/tvlsi22.html#ZhangRGBP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsd/DrilletHZBUALBDPGGPDQMMR14" mdate="2019-02-07">
+<author>Frederic Drillet</author>
+<author>Mohamad Hamieh</author>
+<author>Lounis Zerioul</author>
+<author>Alexandre Briere</author>
+<author>Eren Unlu</author>
+<author>Myriam Ariaudo</author>
+<author>Yves Louët</author>
+<author>Emmanuelle Bourdel</author>
+<author>Julien Denoulet</author>
+<author>Andréa Pinna</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<author>Patrick Garda</author>
+<author>François Pêcheux</author>
+<author>Cedric Duperrier</author>
+<author>Sébastien Quintanel</author>
+<author>Philippe Meunier</author>
+<author orcid="0000-0001-9639-1648">Christophe Moy</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<title>Flexible Radio Interface for NoC RF-Interconnect.</title>
+<pages>36-41</pages>
+<year>2014</year>
+<booktitle>DSD</booktitle>
+<crossref>conf/dsd/2014</crossref>
+<url>db/conf/dsd/dsd2014.html#DrilletHZBUALBDPGGPDQMMR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/LiDJQLPB14" mdate="2017-06-15">
+<author>Fangyan Li</author>
+<author>Eric Dekneuvel</author>
+<author>Gilles Jacquemod</author>
+<author>Davide Quaglia</author>
+<author orcid="0000-0002-6224-4313">Michele Lora</author>
+<author>François Pêcheux</author>
+<author>Remi Butaud</author>
+<title>Multi-level modeling of wireless embedded systems.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2014</crossref>
+<url>db/conf/fdl/fdl2014.html#LiDJQLPB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/MachneWVAACLPKS14" mdate="2017-07-22">
+<author>Torsten Maehne</author>
+<author>Zhi Wang 0005</author>
+<author orcid="0000-0001-7690-9665">Benoit Vernay</author>
+<author>Liliana Andrade</author>
+<author>Cédric Ben Aoun</author>
+<author>Jean-Paul Chaput</author>
+<author>Marie-Minerve Louërat</author>
+<author>François Pêcheux</author>
+<author>Arnaud Krust</author>
+<author>Gerold Schropfer</author>
+<author>Martin Barnasconi</author>
+<author>Karsten Einwich</author>
+<author>Fabio Cenni</author>
+<author>Olivier Guillaume</author>
+<title>UVM-SystemC-AMS based framework for the correct by construction design of MEMS in their real heterogeneous application context.</title>
+<pages>862-865</pages>
+<year>2014</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2014</crossref>
+<url>db/conf/icecsys/icecsys2014.html#MachneWVAACLPKS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/MadecPJGLH14" mdate="2018-11-02">
+<author orcid="0000-0001-9537-642X">Morgan Madec</author>
+<author>François Pêcheux</author>
+<author>Fabienne Jézéquel</author>
+<author>Yves Gendrault</author>
+<author>Christophe Lallement</author>
+<author>Jacques Haiech</author>
+<title>Opportunities and challenges for the virtual prototyping of synthetic biological functions.</title>
+<pages>2013-2016</pages>
+<year>2014</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2014</crossref>
+<url>db/conf/iscas/iscas2014.html#MadecPJGLH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nocs/UnluHMALDBZDPGPDQRB14" mdate="2018-11-02">
+<author>Eren Unlu</author>
+<author>Mohamad Hamieh</author>
+<author orcid="0000-0001-9639-1648">Christophe Moy</author>
+<author>Myriam Ariaudo</author>
+<author>Yves Louët</author>
+<author>Frederic Drillet</author>
+<author>Alexandre Briere</author>
+<author>Lounis Zerioul</author>
+<author>Julien Denoulet</author>
+<author>Andréa Pinna</author>
+<author>Bertrand Granado</author>
+<author>François Pêcheux</author>
+<author>Cedric Duperrier</author>
+<author>Sébastien Quintanel</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Emmanuelle Bourdel</author>
+<title>An OFDMA based RF interconnect for massive multi-core processors.</title>
+<pages>182-183</pages>
+<year>2014</year>
+<booktitle>NOCS</booktitle>
+<crossref>conf/nocs/2014</crossref>
+<url>db/conf/nocs/nocs2014.html#UnluHMALDBZDPGPDQRB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/CarleDGPPSWZ14" mdate="2017-05-25">
+<author>Thomas Carle</author>
+<author>Manel Djemal</author>
+<author>Daniela Genius</author>
+<author>François Pêcheux</author>
+<author>Dumitru Potop-Butucaru</author>
+<author>Robert de Simone</author>
+<author>Franck Wajsbürt</author>
+<author>Zhen Zhang</author>
+<title>Reconciling performance and predictability on a many-core through off-line mapping.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>ReCoSoC</booktitle>
+<crossref>conf/recosoc/2014</crossref>
+<url>db/conf/recosoc/ReCoSoC2014.html#CarleDGPPSWZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/biocas/MadecPGBHL13" mdate="2019-05-29">
+<author orcid="0000-0001-9537-642X">Morgan Madec</author>
+<author>François Pêcheux</author>
+<author>Yves Gendrault</author>
+<author>Loic Bauer</author>
+<author>Jacques Haiech</author>
+<author>Christophe Lallement</author>
+<title>EDA inspired open-source framework for synthetic biology.</title>
+<pages>374-377</pages>
+<year>2013</year>
+<booktitle>BioCAS</booktitle>
+<crossref>conf/biocas/2013</crossref>
+<url>db/conf/biocas/biocas2013.html#MadecPGBHL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/HaaseP13" mdate="2017-04-30">
+<author>Jan Haase</author>
+<author>François Pêcheux</author>
+<title>Model generation for embedded analog/mixed-signal systems.</title>
+<pages>1</pages>
+<year>2013</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2013</crossref>
+<url>db/conf/fdl/fdl2013.html#HaaseP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/DjemalSPWPZ12" mdate="2017-04-30">
+<author>Manel Djemal</author>
+<author>Robert de Simone</author>
+<author>François Pêcheux</author>
+<author>Franck Wajsbürt</author>
+<author>Dumitru Potop-Butucaru</author>
+<author>Zhen Zhang</author>
+<title>Programmable routers for efficient mapping of applications onto NoC-based MPSoCs.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2012</crossref>
+<url>db/conf/dasip/dasip2012.html#DjemalSPWPZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/LevequePLACSMC12" mdate="2017-09-16">
+<author>Antoine Lévêque</author>
+<author>François Pêcheux</author>
+<author>Marie-Minerve Louërat</author>
+<author>Hassan Aboushady</author>
+<author>Fabio Cenni</author>
+<author>Serge Scotti</author>
+<author>Abdelbasset Massouri</author>
+<author orcid="0000-0002-3279-930X">Laurent Clavier</author>
+<title>Holistic modeling of embedded systems with multi-discipline feedback: Application to a Precollision Mitigation Braking System.</title>
+<pages>739-744</pages>
+<year>2012</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2012</crossref>
+<url>db/conf/date/date2012.html#LevequePLACSMC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsid/AdhikariDGP12" mdate="2017-05-23">
+<author>Sumit Adhikari</author>
+<author>Markus Damm</author>
+<author>Christoph Grimm 0001</author>
+<author>François Pêcheux</author>
+<title>Tutorial T1: Design of Mixed-Signal Systems using SystemC AMS Extensions.</title>
+<pages>11-12</pages>
+<year>2012</year>
+<booktitle>VLSI Design</booktitle>
+<crossref>conf/vlsid/2012</crossref>
+<url>db/conf/vlsid/vlsid2012.html#AdhikariDGP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isabel/GendraultMLPH11" mdate="2018-11-06">
+<author>Yves Gendrault</author>
+<author orcid="0000-0001-9537-642X">Morgan Madec</author>
+<author>Christophe Lallement</author>
+<author>François Pêcheux</author>
+<author>Jacques Haiech</author>
+<title>Computer-aided design in synthetic biology: a system designer approach.</title>
+<pages>171:1-171:7</pages>
+<year>2011</year>
+<booktitle>ISABEL</booktitle>
+<crossref>conf/isabel/2011</crossref>
+<url>db/conf/isabel/isabel2011.html#GendraultMLPH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vts/ZhangRGBP11" mdate="2017-05-25">
+<author>Zhen Zhang</author>
+<author>Dimitri Refauvelet</author>
+<author>Alain Greiner</author>
+<author>Mounir Benabdenbi</author>
+<author>François Pêcheux</author>
+<title>Localization of damaged resources in NoC based shared-memory MP2SOC, using a Distributed Cooperative Configuration Infrastructure.</title>
+<pages>229-234</pages>
+<year>2011</year>
+<booktitle>VTS</booktitle>
+<crossref>conf/vts/2011</crossref>
+<url>db/conf/vts/vts2011.html#ZhangRGBP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arcs/LevequePLAV10" mdate="2017-04-30">
+<author>Antoine Lévêque</author>
+<author>François Pêcheux</author>
+<author>Marie-Minerve Louërat</author>
+<author>Hassan Aboushady</author>
+<author>Michel Vasilevski</author>
+<title>SystemC-AMS Models for Low-Power Heterogeneous Designs: Application to a WSN for the Detection of Seismic Perturbations.</title>
+<pages>205-210</pages>
+<year>2010</year>
+<booktitle>ARCS Workshops</booktitle>
+<crossref>conf/arcs/2010w</crossref>
+<url>db/conf/arcs/arcs2010w.html#LevequePLAV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmas/HabibP10" mdate="2017-05-21">
+<author>Amer Habib</author>
+<author>François Pêcheux</author>
+<title>Modeling and simulation of a manycore PCR-CE lab-on-chip for DNA sequencing using SystemC/SystemC-AMS.</title>
+<pages>63-68</pages>
+<year>2010</year>
+<booktitle>BMAS</booktitle>
+<crossref>conf/bmas/2010</crossref>
+<url>db/conf/bmas/bmas2010.html#HabibP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/FaureABBCPST10" mdate="2017-05-21">
+<author>Etienne Faure</author>
+<author>Gabriel Marchesan Almeida</author>
+<author>Mounir Benabdenbi</author>
+<author>Pascal Benoit</author>
+<author>Fabien Clermidy</author>
+<author>François Pêcheux</author>
+<author>Gilles Sassatelli</author>
+<author>Lionel Torres</author>
+<title>An in-memory monitoring database for self adaptive MP<sup>2</sup>SoCs.</title>
+<pages>97-104</pages>
+<year>2010</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2010</crossref>
+<url>db/conf/dasip/dasip2010.html#FaureABBCPST10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/MelloMGP10" mdate="2017-05-23">
+<author>Aline Mello</author>
+<author>Isaac Maia</author>
+<author>Alain Greiner</author>
+<author>François Pêcheux</author>
+<title>Parallel simulation of systemC TLM 2.0 compliant MPSoC on SMP workstations.</title>
+<pages>606-609</pages>
+<year>2010</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2010</crossref>
+<url>db/conf/date/date2010.html#MelloMGP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/PecheuxH10" mdate="2011-02-25">
+<author>François Pêcheux</author>
+<author>Amer Habib</author>
+<title>Towards High-Level Executable Specifications of Heterogeneous Systems with SystemC-AMS: Application to a Manycore PCR-CE Lab on Chip for DNA Sequencing.</title>
+<pages>210-215</pages>
+<year>2010</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2010</crossref>
+<url>db/conf/fdl/fdl2010.html#PecheuxH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iolts/FaureBP10" mdate="2017-05-22">
+<author>Etienne Faure</author>
+<author>Mounir Benabdenbi</author>
+<author>François Pêcheux</author>
+<title>Distributed online software monitoring of manycore architectures.</title>
+<pages>56-61</pages>
+<year>2010</year>
+<booktitle>IOLTS</booktitle>
+<crossref>conf/iolts/2010</crossref>
+<url>db/conf/iolts/iolts2010.html#FaureBP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/PecheuxML10" mdate="2018-11-02">
+<author>François Pêcheux</author>
+<author orcid="0000-0001-9537-642X">Morgan Madec</author>
+<author>Christophe Lallement</author>
+<title>Is SystemC-AMS an appropriate "promoter" for the modeling and simulation of bio-compatible systems?</title>
+<pages>1791-1794</pages>
+<year>2010</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2010</crossref>
+<url>db/conf/iscas/iscas2010.html#PecheuxML10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/patmos/PecheuxAG10" mdate="2018-06-26">
+<author>François Pêcheux</author>
+<author>Khouloud Zine el Abidine</author>
+<author>Alain Greiner</author>
+<title>Early Power Estimation in Heterogeneous Designs Using SoCLib and SystemC-AMS.</title>
+<pages>252</pages>
+<year>2010</year>
+<booktitle>PATMOS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-17752-1_27</ee>
+<crossref>conf/patmos/2010</crossref>
+<url>db/conf/patmos/patmos2010.html#PecheuxAG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/PouillonBMPG09" mdate="2017-05-25">
+<author>Nicolas Pouillon</author>
+<author>Alexandre Bécoulet</author>
+<author>Aline Vieira de Mello</author>
+<author>François Pêcheux</author>
+<author>Alain Greiner</author>
+<title>A Generic Instruction Set Simulator API for Timed and Untimed Simulation and Debug of MP2-SoCs.</title>
+<pages>116-122</pages>
+<year>2009</year>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<crossref>conf/rsp/2009</crossref>
+<url>db/conf/rsp/rsp2009.html#PouillonBMPG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/VasilevskiPBAE08" mdate="2018-11-06">
+<author>Michel Vasilevski</author>
+<author>François Pêcheux</author>
+<author>Nicolas Beilleau</author>
+<author>Hassan Aboushady</author>
+<author>Karsten Einwich</author>
+<title>Modeling and Refining Heterogeneous Systems With SystemC-AMS: Application to WSN.</title>
+<pages>134-139</pages>
+<year>2008</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2008</crossref>
+<url>db/conf/date/date2008.html#VasilevskiPBAE08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ViaudPG06" mdate="2017-05-23">
+<author>Emmanuel Viaud</author>
+<author>François Pêcheux</author>
+<author>Alain Greiner</author>
+<title>An efficient TLM/T modeling and simulation environment based on conservative parallel discrete event principles.</title>
+<pages>94-99</pages>
+<year>2006</year>
+<crossref>conf/date/2006p</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2006p.html#ViaudPG06</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcad/PecheuxLV05" mdate="2017-05-20">
+<author>François Pêcheux</author>
+<author>Christophe Lallement</author>
+<author>Alain Vachoux</author>
+<title>VHDL-AMS and Verilog-AMS as alternative hardware description languages for efficient modeling of multidiscipline systems.</title>
+<pages>204-225</pages>
+<year>2005</year>
+<volume>24</volume>
+<journal>IEEE Trans. on CAD of Integrated Circuits and Systems</journal>
+<number>2</number>
+<url>db/journals/tcad/tcad24.html#PecheuxLV05</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/BenabdenbiGPVT04" mdate="2017-05-23">
+<author>Mounir Benabdenbi</author>
+<author>Alain Greiner</author>
+<author>François Pêcheux</author>
+<author>Emmanuel Viaud</author>
+<author>Matthieu Tuna</author>
+<title>STEPS: Experimenting a New Software-Based Strategy for Testing SoCs Containing P1500-Compliant IP Cores.</title>
+<pages>712-713</pages>
+<year>2004</year>
+<crossref>conf/date/2004</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2004-1.html#BenabdenbiGPVT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip10-5/LallementPH01" mdate="2006-04-19">
+<author>Christophe Lallement</author>
+<author>François Pêcheux</author>
+<author>Yannick Hervé</author>
+<title>A VHDL-AMS Case Study: The Incremental Design of an Efficient 3<sup>rd</sup> Generation MOS Model of a Deep Sub Micron Transistor.</title>
+<pages>349-360</pages>
+<year>2001</year>
+<crossref>conf/ifip10-5/2001</crossref>
+<booktitle>VLSI-SOC</booktitle>
+<url>db/conf/ifip10-5/ifip10-5-2001.html#LallementPH01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mse/Pecheux01" mdate="2017-05-21">
+<author>François Pêcheux</author>
+<title>A Methodology for Process Design Simulators of MEMS Based on VRML and JAVA.</title>
+<pages>24-25</pages>
+<year>2001</year>
+<crossref>conf/mse/2001</crossref>
+<booktitle>MSE</booktitle>
+<url>db/conf/mse/mse2001.html#Pecheux01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mse/PecheuxH99" mdate="2017-05-21">
+<author>François Pêcheux</author>
+<author>Yannick Hervé</author>
+<title>DIPS for MIPS: An Instrumented VHDL/Corba Kernel for Distributed Learning in EECS.</title>
+<pages>30-31</pages>
+<year>1999</year>
+<crossref>conf/mse/1999</crossref>
+<booktitle>MSE</booktitle>
+<url>db/conf/mse/mse1999.html#PecheuxH99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mse/PecheuxHMHSS97" mdate="2019-02-13">
+<author>François Pêcheux</author>
+<author>Yannick Hervé</author>
+<author>H. Marchall</author>
+<author>N. Hertel</author>
+<author>J. P. Stoquert</author>
+<author>R. Stuck</author>
+<title>Learning by virtual doing: protocol simulators for surface analysis in microelectronics.</title>
+<pages>30-31</pages>
+<year>1997</year>
+<booktitle>MSE</booktitle>
+<crossref>conf/mse/1997</crossref>
+<url>db/conf/mse/mse1997.html#PecheuxHMHSS97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurodac/CompanGPP91" mdate="2015-11-17">
+<author>A. Compan</author>
+<author>Alain Greiner</author>
+<author>François Pêcheux</author>
+<author>Frédéric Pétrot</author>
+<title>GENVIEW: a portable source-level debugger for macrocell generators.</title>
+<pages>408-412</pages>
+<year>1991</year>
+<booktitle>EURO-DAC</booktitle>
+<crossref>conf/eurodac/1991</crossref>
+<url>db/conf/eurodac/euro-dac1991.html#CompanGPP91</url>
+</inproceedings>
+</r>
+<coauthors n="101" nc="1">
+<co c="0"><na f="a/Abidine:Khouloud_Zine_el">Khouloud Zine el Abidine</na></co>
+<co c="0"><na f="a/Aboushady:Hassan">Hassan Aboushady</na></co>
+<co c="0"><na f="a/Adhikari:Sumit">Sumit Adhikari</na></co>
+<co c="0"><na f="a/Almeida:Gabriel_Marchesan">Gabriel Marchesan Almeida</na></co>
+<co c="0"><na f="a/Andrade:Liliana">Liliana Andrade</na></co>
+<co c="0"><na f="a/Aoun:C=eacute=dric_Ben">Cédric Ben Aoun</na></co>
+<co c="0"><na f="a/Apvrille:Ludovic">Ludovic Apvrille</na></co>
+<co c="0"><na f="a/Ariaudo:Myriam">Myriam Ariaudo</na></co>
+<co c="0"><na f="b/Barnasconi:Martin">Martin Barnasconi</na></co>
+<co c="0"><na f="b/Bauer:Loic">Loic Bauer</na></co>
+<co c="0"><na f="b/B=eacute=coulet:Alexandre">Alexandre Bécoulet</na></co>
+<co c="0"><na f="b/Beilleau:Nicolas">Nicolas Beilleau</na></co>
+<co c="0"><na f="b/Benabdenbi:Mounir">Mounir Benabdenbi</na></co>
+<co c="0"><na f="b/Benoit:Pascal">Pascal Benoit</na></co>
+<co c="0"><na f="b/Bourdel:Emmanuelle">Emmanuelle Bourdel</na></co>
+<co c="0"><na f="b/Briere:Alexandre">Alexandre Briere</na></co>
+<co c="0"><na f="b/Butaud:Remi">Remi Butaud</na></co>
+<co c="0"><na f="c/Carle:Thomas">Thomas Carle</na></co>
+<co c="0"><na f="c/Cenni:Fabio">Fabio Cenni</na></co>
+<co c="0"><na f="c/Chaput:Jean=Paul">Jean-Paul Chaput</na></co>
+<co c="0"><na f="c/Clavier:Laurent">Laurent Clavier</na></co>
+<co c="0"><na f="c/Clermidy:Fabien">Fabien Clermidy</na></co>
+<co c="0"><na f="c/Compan:A=">A. Compan</na></co>
+<co c="0"><na f="c/Cuenot:Philippe">Philippe Cuenot</na></co>
+<co c="0"><na f="d/Damm:Markus">Markus Damm</na></co>
+<co c="0"><na f="d/Dekneuvel:Eric">Eric Dekneuvel</na></co>
+<co c="0"><na f="d/Denoulet:Julien">Julien Denoulet</na></co>
+<co c="0"><na f="d/Dietrich:Manfred">Manfred Dietrich</na></co>
+<co c="0"><na f="d/Djemal:Manel">Manel Djemal</na></co>
+<co c="0"><na f="d/Drillet:Frederic">Frederic Drillet</na></co>
+<co c="0"><na f="d/Duperrier:Cedric">Cedric Duperrier</na></co>
+<co c="0"><na f="e/Einwich:Karsten">Karsten Einwich</na></co>
+<co c="0"><na f="f/Faure:Etienne">Etienne Faure</na></co>
+<co c="0"><na f="f/Fern=aacute=ndez:Luis_J=">Luis J. Fernández</na></co>
+<co c="0"><na f="f/Fern=aacute=ndez_0001:V=iacute=ctor">Víctor Fernández 0001</na></co>
+<co c="0"><na f="g/Garda:Patrick">Patrick Garda</na></co>
+<co c="0"><na f="g/Gendrault:Yves">Yves Gendrault</na></co>
+<co c="0"><na f="g/Genius:Daniela">Daniela Genius</na></co>
+<co c="0"><na f="g/Granado:Bertrand">Bertrand Granado</na></co>
+<co c="0"><na f="g/Greiner:Alain">Alain Greiner</na></co>
+<co c="0"><na f="g/Grimm_0001:Christoph">Christoph Grimm 0001</na></co>
+<co c="0"><na f="g/Guillaume:Olivier">Olivier Guillaume</na></co>
+<co c="0"><na f="h/Haase:Jan">Jan Haase</na></co>
+<co c="-1"><na f="h/Habib:Amer">Amer Habib</na></co>
+<co c="0"><na f="h/Haiech:Jacques">Jacques Haiech</na></co>
+<co c="0"><na f="h/Hamieh:Mohamad">Mohamad Hamieh</na></co>
+<co c="0"><na f="h/Hertel:N=">N. Hertel</na></co>
+<co c="0"><na f="h/Herv=eacute=:Yannick">Yannick Hervé</na></co>
+<co c="0"><na f="j/Jacquemod:Gilles">Gilles Jacquemod</na></co>
+<co c="0"><na f="j/J=eacute=z=eacute=quel:Fabienne">Fabienne Jézéquel</na></co>
+<co c="0"><na f="k/Krust:Arnaud">Arnaud Krust</na></co>
+<co c="0"><na f="l/Lallement:Christophe">Christophe Lallement</na></co>
+<co c="0"><na f="l/L=eacute=v=ecirc=que:Antoine">Antoine Lévêque</na></co>
+<co c="0"><na f="l/Li:Fangyan">Fangyan Li</na></co>
+<co c="0"><na f="l/Lora:Michele">Michele Lora</na></co>
+<co c="0"><na f="l/Lou=euml=rat:Marie=Minerve">Marie-Minerve Louërat</na></co>
+<co c="0"><na f="l/Lou=euml=t:Yves">Yves Louët</na></co>
+<co c="0"><na f="l/Lucas:Ronan">Ronan Lucas</na></co>
+<co c="0"><na f="m/Madec:Morgan">Morgan Madec</na></co>
+<co c="0" n="2"><na f="m/M=auml=hne:Torsten">Torsten Mähne</na><na>Torsten Maehne</na></co>
+<co c="0"><na f="m/Maia:Isaac">Isaac Maia</na></co>
+<co c="0"><na f="m/Marchall:H=">H. Marchall</na></co>
+<co c="0"><na f="m/Massouri:Abdelbasset">Abdelbasset Massouri</na></co>
+<co c="0"><na f="m/Mello:Aline">Aline Mello</na></co>
+<co c="0"><na f="m/Mello:Aline_Vieira_de">Aline Vieira de Mello</na></co>
+<co c="0"><na f="m/Mena:Andr=eacute=s">Andrés Mena</na></co>
+<co c="0"><na f="m/Meunier:Philippe">Philippe Meunier</na></co>
+<co c="0"><na f="m/Moy:Christophe">Christophe Moy</na></co>
+<co c="0"><na f="n/Neumann:Ingmar">Ingmar Neumann</na></co>
+<co c="0"><na f="n/Nguyen:Thang">Thang Nguyen</na></co>
+<co c="0"><na f="p/P=eacute=trot:Fr=eacute=d=eacute=ric">Frédéric Pétrot</na></co>
+<co c="0"><na f="p/Pinna:Andr=eacute=a">Andréa Pinna</na></co>
+<co c="0"><na f="p/Porto:Rodrigo_Cort=eacute=s">Rodrigo Cortés Porto</na></co>
+<co c="0"><na f="p/Potop=Butucaru:Dumitru">Dumitru Potop-Butucaru</na></co>
+<co c="0"><na f="p/Pouillon:Nicolas">Nicolas Pouillon</na></co>
+<co c="0"><na f="q/Quaglia:Davide">Davide Quaglia</na></co>
+<co c="0"><na f="q/Quintanel:S=eacute=bastien">Sébastien Quintanel</na></co>
+<co c="0"><na f="r/Refauvelet:Dimitri">Dimitri Refauvelet</na></co>
+<co c="0"><na f="r/Romain:Olivier">Olivier Romain</na></co>
+<co c="0"><na f="r/Rosati:Elise">Elise Rosati</na></co>
+<co c="0"><na f="s/Sassatelli:Gilles">Gilles Sassatelli</na></co>
+<co c="0"><na f="s/Schropfer:Gerold">Gerold Schropfer</na></co>
+<co c="0"><na f="s/Scotti:Serge">Serge Scotti</na></co>
+<co c="0"><na f="s/Simone:Robert_de">Robert de Simone</na></co>
+<co c="0"><na f="s/Stoquert:J=_P=">J. P. Stoquert</na></co>
+<co c="0"><na f="s/Stuck:R=">R. Stuck</na></co>
+<co c="0"><na f="t/Tisserand:P=">P. Tisserand</na></co>
+<co c="0"><na f="t/Torres:Lionel">Lionel Torres</na></co>
+<co c="0"><na f="t/Tran:V=">V. Tran</na></co>
+<co c="0"><na f="t/Tuna:Matthieu">Matthieu Tuna</na></co>
+<co c="0"><na f="u/Unlu:Eren">Eren Unlu</na></co>
+<co c="0"><na f="v/Vachoux:Alain">Alain Vachoux</na></co>
+<co c="0"><na f="v/Vasilevski:Michel">Michel Vasilevski</na></co>
+<co c="0"><na f="v/Vaumorin:Emmanuel">Emmanuel Vaumorin</na></co>
+<co c="0"><na f="v/Vernay:Benoit">Benoit Vernay</na></co>
+<co c="0"><na f="v/Viaud:Emmanuel">Emmanuel Viaud</na></co>
+<co c="0"><na f="v/V=ouml=rtler:Thilo">Thilo Vörtler</na></co>
+<co c="0"><na f="w/Wajsb=uuml=rt:Franck">Franck Wajsbürt</na></co>
+<co c="0"><na f="w/Wang_0005:Zhi">Zhi Wang 0005</na></co>
+<co c="0"><na f="z/Zerioul:Lounis">Lounis Zerioul</na></co>
+<co c="0"><na f="z/Zhang:Zhen">Zhen Zhang</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Isabelle Mounier" n="10">
+<person key="homepages/61/2924" mdate="2016-03-03">
+<author>Isabelle Mounier</author>
+<author>Isabelle Vernier-Mounier</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www.lip6.fr/actualite/personnes-fiche.php?ident=P173</url>
+</person>
+<r><article key="journals/sg/MounierYCKL14" mdate="2019-05-22">
+<author>Isabelle Mounier</author>
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<author>Fabrice Kordon</author>
+<author>Jean-Marc Labat</author>
+<title>Formal Framework to improve the reliability of concurrent and collaborative learning games.</title>
+<pages>e4</pages>
+<year>2014</year>
+<volume>1</volume>
+<number>2</number>
+<journal>EAI Endorsed Trans. Serious Games</journal>
+<ee type="oa">https://doi.org/10.4108/sg.1.2.e4</ee>
+<url>db/journals/sg/sg2.html#MounierYCKL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ectel/YessadMLKC14" mdate="2017-05-24">
+<author>Amel Yessad</author>
+<author>Isabelle Mounier</author>
+<author>Jean-Marc Labat</author>
+<author>Fabrice Kordon</author>
+<author>Thibault Carron</author>
+<title>Have You Found the Error? A Formal Framework for Learning Game Verification.</title>
+<pages>476-481</pages>
+<year>2014</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2014</crossref>
+<url>db/conf/ectel/ectel2014.html#YessadMLKC14</url>
+</inproceedings>
+</r>
+<r><article key="journals/fmsd/BaarirBEIMPY11" mdate="2017-05-27">
+<author>Souheib Baarir</author>
+<author>Cécile Braunstein</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Jean-Michel Ilié</author>
+<author>Isabelle Mounier</author>
+<author>Denis Poitrenaud</author>
+<author>Sana Younès</author>
+<title>Feasibility analysis for robustness quantification by symbolic model checking.</title>
+<pages>165-184</pages>
+<year>2011</year>
+<volume>39</volume>
+<journal>Formal Methods in System Design</journal>
+<number>2</number>
+<url>db/journals/fmsd/fmsd39.html#BaarirBEIMPY11</url>
+</article>
+</r>
+<r><inproceedings key="conf/caise/BlancMMM09" mdate="2018-12-23">
+<author>Xavier Blanc 0001</author>
+<author>Alix Mougenot</author>
+<author>Isabelle Mounier</author>
+<author orcid="0000-0003-3636-5020">Tom Mens</author>
+<title>Incremental Detection of Model Inconsistencies Based on Model Operations.</title>
+<pages>32-46</pages>
+<year>2009</year>
+<booktitle>CAiSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02144-2_8</ee>
+<crossref>conf/caise/2009</crossref>
+<url>db/conf/caise/caise2009.html#BlancMMM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dft/BaarirBCEILMPP09" mdate="2017-05-17">
+<author>Souheib Baarir</author>
+<author>Cécile Braunstein</author>
+<author>Renaud Clavel</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Jean-Michel Ilié</author>
+<author>Régis Leveugle</author>
+<author>Isabelle Mounier</author>
+<author>Laurence Pierre</author>
+<author>Denis Poitrenaud</author>
+<title>Complementary Formal Approaches for Dependability Analysis.</title>
+<pages>331-339</pages>
+<year>2009</year>
+<booktitle>DFT</booktitle>
+<crossref>conf/dft/2009</crossref>
+<url>db/conf/dft/dft2009.html#BaarirBCEILMPP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/BlancMMM08" mdate="2018-11-14">
+<author>Xavier Blanc 0001</author>
+<author>Isabelle Mounier</author>
+<author>Alix Mougenot</author>
+<author orcid="0000-0003-3636-5020">Tom Mens</author>
+<title>Detecting model inconsistency through operation-based model construction.</title>
+<pages>511-520</pages>
+<year>2008</year>
+<booktitle>ICSE</booktitle>
+<crossref>conf/icse/2008</crossref>
+<url>db/conf/icse/icse2008.html#BlancMMM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/Thierry-MiegDM03" mdate="2018-11-02">
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Claude Dutheillet</author>
+<author>Isabelle Mounier</author>
+<title>Automatic Symmetry Detection in Well-Formed Nets.</title>
+<pages>82-101</pages>
+<year>2003</year>
+<crossref>conf/apn/2003</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn2003.html#Thierry-MiegDM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/DocheVK01" mdate="2017-05-22">
+<author>Marielle Doche</author>
+<author>Isabelle Vernier-Mounier</author>
+<author>Fabrice Kordon</author>
+<title>A Modular Approach to the Specification and Validation of an Electrical Flight Control System.</title>
+<pages>590-610</pages>
+<year>2001</year>
+<crossref>conf/fm/2001</crossref>
+<booktitle>FME</booktitle>
+<url>db/conf/fm/fme2001.html#DocheVK01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hase/GrootHKPVLGWK01" mdate="2017-05-25">
+<author>Adriaan de Groot</author>
+<author>Jozef Hooman</author>
+<author>Fabrice Kordon</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Isabelle Vernier-Mounier</author>
+<author>Michel Lemoine</author>
+<author>Gervais Gaudiére</author>
+<author>Victor L. Winter</author>
+<author>Deepak Kapur</author>
+<title>A Survey: Applying Formal Methods to a Software Intensive System.</title>
+<pages>55-64</pages>
+<year>2001</year>
+<crossref>conf/hase/2001</crossref>
+<booktitle>HASE</booktitle>
+<url>db/conf/hase/hase2001.html#GrootHKPVLGWK01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/Vernier-Mounier96" mdate="2017-05-25">
+<author>Isabelle Vernier-Mounier</author>
+<title>Symbolic Executions of Symmetrical Parallel Programs.</title>
+<pages>327-335</pages>
+<year>1996</year>
+<crossref>conf/pdp/1996</crossref>
+<booktitle>PDP</booktitle>
+<url>db/conf/pdp/pdp1996.html#Vernier-Mounier96</url>
+</inproceedings>
+</r>
+<coauthors n="26" nc="2">
+<co c="0"><na f="b/Baarir:Souheib">Souheib Baarir</na></co>
+<co c="1"><na f="b/Blanc_0001:Xavier">Xavier Blanc 0001</na></co>
+<co c="0"><na f="b/Braunstein:C=eacute=cile">Cécile Braunstein</na></co>
+<co c="0"><na f="c/Carron:Thibault">Thibault Carron</na></co>
+<co c="0"><na f="c/Clavel:Renaud">Renaud Clavel</na></co>
+<co c="0"><na f="d/Doche:Marielle">Marielle Doche</na></co>
+<co c="0"><na f="d/Dutheillet:Claude">Claude Dutheillet</na></co>
+<co c="0" n="2"><na f="e/Encrenaz=Tiph=egrave=ne:Emmanuelle">Emmanuelle Encrenaz-Tiphène</na><na>Emmanuelle Encrenaz</na></co>
+<co c="0"><na f="g/Gaudi=eacute=re:Gervais">Gervais Gaudiére</na></co>
+<co c="0"><na f="g/Groot:Adriaan_de">Adriaan de Groot</na></co>
+<co c="0"><na f="h/Hooman:Jozef">Jozef Hooman</na></co>
+<co c="0"><na f="i/Ili=eacute=:Jean=Michel">Jean-Michel Ilié</na></co>
+<co c="0"><na f="k/Kapur:Deepak">Deepak Kapur</na></co>
+<co c="0"><na f="k/Kordon:Fabrice">Fabrice Kordon</na></co>
+<co c="0"><na f="l/Labat:Jean=Marc">Jean-Marc Labat</na></co>
+<co c="0"><na f="l/Lemoine:Michel">Michel Lemoine</na></co>
+<co c="0"><na f="l/Leveugle:R=eacute=gis">Régis Leveugle</na></co>
+<co c="1"><na f="m/Mens:Tom">Tom Mens</na></co>
+<co c="1"><na f="m/Mougenot:Alix">Alix Mougenot</na></co>
+<co c="0"><na f="p/Paviot=Adet:Emmanuel">Emmanuel Paviot-Adet</na></co>
+<co c="0"><na f="p/Pierre:Laurence">Laurence Pierre</na></co>
+<co c="0"><na f="p/Poitrenaud:Denis">Denis Poitrenaud</na></co>
+<co c="0"><na f="t/Thierry=Mieg:Yann">Yann Thierry-Mieg</na></co>
+<co c="0"><na f="w/Winter:Victor_L=">Victor L. Winter</na></co>
+<co c="0"><na f="y/Yessad:Amel">Amel Yessad</na></co>
+<co c="0"><na f="y/Youn=egrave=s:Sana">Sana Younès</na></co>
+</coauthors>
+</dblpperson>
+

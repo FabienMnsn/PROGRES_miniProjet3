@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Louis Gacôgne" n="2">
+<person key="homepages/24/11227" mdate="2012-04-24">
+<author>Louis Gacôgne</author>
+</person>
+<r><inproceedings key="conf/icaisc/Gacogne12" mdate="2017-05-25">
+<author>Louis Gacôgne</author>
+<title>Random State Genetic Algorithm.</title>
+<pages>214-221</pages>
+<year>2012</year>
+<booktitle>ICAISC (SIDE-EC)</booktitle>
+<crossref>conf/icaisc/2012-3</crossref>
+<url>db/conf/icaisc/icaisc2012-3.html#Gacogne12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hima/Gacogne11" mdate="2017-05-25">
+<author>Louis Gacôgne</author>
+<title>Fixed, random or fuzzy adaptive parameters in an evolutionary algorithm.</title>
+<pages>33-38</pages>
+<year>2011</year>
+<booktitle>HIMA</booktitle>
+<crossref>conf/hima/2011</crossref>
+<url>db/conf/hima/hima2011.html#Gacogne11</url>
+</inproceedings>
+</r>
+</dblpperson>
+

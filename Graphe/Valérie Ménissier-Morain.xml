@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Valérie Ménissier-Morain" n="4">
+<person key="homepages/19/5806" mdate="2009-06-10">
+<author>Valérie Ménissier-Morain</author>
+</person>
+<r><article key="journals/iandc/GraillatM12" mdate="2017-05-18">
+<author>Stef Graillat</author>
+<author>Valérie Ménissier-Morain</author>
+<title>Accurate summation, dot product and polynomial evaluation in complex floating point arithmetic.</title>
+<pages>57-71</pages>
+<year>2012</year>
+<volume>216</volume>
+<journal>Inf. Comput.</journal>
+<url>db/journals/iandc/iandc216.html#GraillatM12</url>
+</article>
+</r>
+<r><article key="journals/jlp/Menissier-Morain05" mdate="2017-05-28">
+<author>Valérie Ménissier-Morain</author>
+<title>Arbitrary precision real arithmetic: design and algorithms.</title>
+<pages>13-39</pages>
+<year>2005</year>
+<volume>64</volume>
+<journal>J. Log. Algebr. Program.</journal>
+<number>1</number>
+<url>db/journals/jlp/jlp64.html#Menissier-Morain05</url>
+</article>
+</r>
+<r><article key="journals/entcs/BoulmeHHMR99" mdate="2017-05-28">
+<author>Sylvain Boulmé</author>
+<author>Thérèse Hardin</author>
+<author>Daniel Hirschkoff</author>
+<author>Valérie Ménissier-Morain</author>
+<author>Renaud Rioboo</author>
+<title>On the way to certify Computer Algebra Systems.</title>
+<year>1999</year>
+<volume>23</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<number>3</number>
+<url>db/journals/entcs/entcs23.html#BoulmeHHMR99</url>
+<pages>370-385</pages>
+</article>
+</r>
+<r><article key="journals/jar/DuboisM99" mdate="2017-05-20">
+<author>Catherine Dubois</author>
+<author>Valérie Ménissier-Morain</author>
+<title>Certification of a Type Inference Tool for ML: Damas-Milner within Coq.</title>
+<pages>319-346</pages>
+<year>1999</year>
+<volume>23</volume>
+<journal>J. Autom. Reasoning</journal>
+<number>3-4</number>
+<url>db/journals/jar/jar23.html#DuboisM99</url>
+</article>
+</r>
+<coauthors n="6" nc="1">
+<co c="0"><na f="b/Boulm=eacute=:Sylvain">Sylvain Boulmé</na></co>
+<co c="0"><na f="d/Dubois:Catherine">Catherine Dubois</na></co>
+<co c="-1"><na f="g/Graillat:Stef">Stef Graillat</na></co>
+<co c="0"><na f="h/Hardin:Th=eacute=r=egrave=se">Thérèse Hardin</na></co>
+<co c="0"><na f="h/Hirschkoff:Daniel">Daniel Hirschkoff</na></co>
+<co c="0"><na f="r/Rioboo:Renaud">Renaud Rioboo</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,591 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Olivier Spanjaard" n="47">
+<person key="homepages/17/5608" mdate="2009-06-10">
+<author>Olivier Spanjaard</author>
+</person>
+<r><article key="journals/algorithmica/GilbertS19" mdate="2019-05-31">
+<author orcid="0000-0001-9729-2959">Hugo Gilbert</author>
+<author>Olivier Spanjaard</author>
+<title>Optimizing a Generalized Gini Index in Stable Marriage Problems: NP-Hardness, Approximation and a Polynomial Time Special Case.</title>
+<pages>2653-2681</pages>
+<year>2019</year>
+<volume>81</volume>
+<journal>Algorithmica</journal>
+<number>7</number>
+<url>db/journals/algorithmica/algorithmica81.html#GilbertS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/BourdachePS19" mdate="2019-08-20">
+<author>Nadjet Bourdache</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>Incremental Elicitation of Rank-Dependent Aggregation Functions based on Bayesian Linear Regression.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/280</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#BourdachePS19</url>
+<pages>2023-2029</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/BourdachePS19" mdate="2019-12-02">
+<author>Nadjet Bourdache</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>Active Preference Elicitation by Bayesian Updating on Optimality Polyhedra.</title>
+<pages>93-106</pages>
+<year>2019</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2019</crossref>
+<url>db/conf/sum/sum2019.html#BourdachePS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-06226" mdate="2019-12-02">
+<author>Hugo Gilbert</author>
+<author>Tom Portoleau</author>
+<author>Olivier Spanjaard</author>
+<title>Beyond Pairwise Comparisons in Social Choice: A Setwise Kemeny Aggregation Problem.</title>
+<year>2019</year>
+<volume>abs/1911.06226</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.06226</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-06226</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-08453" mdate="2018-10-05">
+<author>Hugo Gilbert</author>
+<author>Olivier Spanjaard</author>
+<title>Optimizing a Generalized Gini Index in Stable Marriage Problems: NP-Hardness, Approximation and a Polynomial Time Special Case.</title>
+<year>2018</year>
+<volume>abs/1809.08453</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.08453</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-08453</url>
+</article>
+</r>
+<r><article key="journals/eor/GilbertS17" mdate="2017-06-26">
+<author>Hugo Gilbert</author>
+<author>Olivier Spanjaard</author>
+<title>A double oracle approach to minmax regret optimization problems with interval data.</title>
+<pages>929-943</pages>
+<year>2017</year>
+<volume>262</volume>
+<journal>European Journal of Operational Research</journal>
+<number>3</number>
+<url>db/journals/eor/eor262.html#GilbertS17</url>
+</article>
+</r>
+<r><article key="journals/ijait/WengS17" mdate="2019-12-18">
+<author orcid="0000-0002-2008-4569">Paul Weng</author>
+<author>Olivier Spanjaard</author>
+<title>Functional Reward Markov Decision Processes: Theory and Applications.</title>
+<pages>1760014:1-1760014:20</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>International Journal on Artificial Intelligence Tools</journal>
+<number>3</number>
+<url>db/journals/ijait/ijait26.html#WengS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/GilbertBPSV17" mdate="2019-08-20">
+<author>Hugo Gilbert</author>
+<author>Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<author>Paolo Viappiani</author>
+<title>Incremental Decision Making Under Risk with the Weighted Expected Utility Model.</title>
+<pages>4588-4594</pages>
+<year>2017</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2017/640</ee>
+<crossref>conf/ijcai/2017</crossref>
+<url>db/conf/ijcai/ijcai2017.html#GilbertBPSV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uai/GilbertS17" mdate="2017-11-13">
+<author>Hugo Gilbert</author>
+<author>Olivier Spanjaard</author>
+<title>Complexity of Solving Decision Trees with Skew-Symmetric Bilinear Utility.</title>
+<year>2017</year>
+<booktitle>UAI</booktitle>
+<crossref>conf/uai/2017</crossref>
+<url>db/conf/uai/uai2017.html#GilbertS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/OudghiriPSH16" mdate="2017-05-24">
+<author>Soufiane Drissi Oudghiri</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<author>Mohamed Hachimi</author>
+<title>Using the Sugeno Integral in Optimal Assignment Problems with Qualitative Utilities.</title>
+<pages>1406-1413</pages>
+<year>2016</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2016</crossref>
+<url>db/conf/ecai/ecai2016.html#OudghiriPSH16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GilbertS16" mdate="2018-08-13">
+<author>Hugo Gilbert</author>
+<author>Olivier Spanjaard</author>
+<title>A game theoretic bound for minmax regret optimization problems with interval data.</title>
+<year>2016</year>
+<volume>abs/1602.01764</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.01764</ee>
+<url>db/journals/corr/corr1602.html#GilbertS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aldt/GilbertSVW15" mdate="2017-05-23">
+<author>Hugo Gilbert</author>
+<author>Olivier Spanjaard</author>
+<author>Paolo Viappiani</author>
+<author>Paul Weng</author>
+<title>Reducing the Number of Queries in Interactive Value Iteration.</title>
+<pages>139-152</pages>
+<year>2015</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2015</crossref>
+<url>db/conf/aldt/adt2015.html#GilbertSVW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/GilbertSVW15" mdate="2019-08-20">
+<author>Hugo Gilbert</author>
+<author>Olivier Spanjaard</author>
+<author>Paolo Viappiani</author>
+<author>Paul Weng</author>
+<title>Solving MDPs with Skew Symmetric Bilinear Utility Functions.</title>
+<pages>1989-1995</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/282</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#GilbertSVW15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jea/DelortS13" mdate="2018-11-06">
+<author>Charles Delort</author>
+<author>Olivier Spanjaard</author>
+<title>A hybrid dynamic programming approach to the biobjective binary knapsack problem.</title>
+<year>2013</year>
+<volume>18</volume>
+<journal>ACM Journal of Experimental Algorithmics</journal>
+<url>db/journals/jea/jea18.html#DelortS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciac/EscoffierMPS13" mdate="2017-05-24">
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Fanny Pascual</author>
+<author>Olivier Spanjaard</author>
+<title>Truthful Many-to-Many Assignment with Private Weights.</title>
+<pages>209-220</pages>
+<year>2013</year>
+<booktitle>CIAC</booktitle>
+<crossref>conf/ciac/2013</crossref>
+<url>db/conf/ciac/ciac2013.html#EscoffierMPS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/CornazGS13" mdate="2019-08-20">
+<author>Denis Cornaz</author>
+<author>Lucie Galand</author>
+<author>Olivier Spanjaard</author>
+<title>Kemeny Elections with Bounded Single-Peaked or Single-Crossing Width.</title>
+<year>2013</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/13/022</ee>
+<crossref>conf/ijcai/2013</crossref>
+<url>db/conf/ijcai/ijcai2013.html#CornazGS13</url>
+<pages>76-82</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miwai/SpanjaardW13" mdate="2017-05-22">
+<author>Olivier Spanjaard</author>
+<author>Paul Weng</author>
+<title>Markov Decision Processes with Functional Rewards.</title>
+<pages>269-280</pages>
+<year>2013</year>
+<booktitle>MIWAI</booktitle>
+<crossref>conf/miwai/2013</crossref>
+<url>db/conf/miwai/miwai2013.html#SpanjaardW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socs/GalandIPS13" mdate="2013-08-20">
+<author>Lucie Galand</author>
+<author>Anisse Ismaili</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>Bidirectional Preference-Based Search for State Space Graph Problems.</title>
+<year>2013</year>
+<booktitle>SOCS</booktitle>
+<crossref>conf/socs/2013</crossref>
+<url>db/conf/socs/socs2013.html#GalandIPS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/cor/GalandS12" mdate="2017-05-18">
+<author>Lucie Galand</author>
+<author>Olivier Spanjaard</author>
+<title>Exact algorithms for OWA-optimization in multiobjective spanning tree problems.</title>
+<pages>1540-1554</pages>
+<year>2012</year>
+<volume>39</volume>
+<journal>Computers and OR</journal>
+<number>7</number>
+<url>db/journals/cor/cor39.html#GalandS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/JeantetPS12" mdate="2012-08-16">
+<author>Gildas Jeantet</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>Sequential Decision Making with Rank Dependent Utility: A Minimax Regret Approach.</title>
+<year>2012</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2012</crossref>
+<url>db/conf/aaai/aaai2012.html#JeantetPS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/CornazGS12" mdate="2017-05-24">
+<author>Denis Cornaz</author>
+<author>Lucie Galand</author>
+<author>Olivier Spanjaard</author>
+<title>Bounded Single-Peaked Width and Proportional Representation.</title>
+<pages>270-275</pages>
+<year>2012</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2012</crossref>
+<url>db/conf/ecai/ecai2012.html#CornazGS12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1212-2496" mdate="2018-08-13">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>An Axiomatic Approach to Robustness in Search Problems with Multiple Scenarios</title>
+<ee type="oa">http://arxiv.org/abs/1212.2496</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1212.2496</volume>
+<url>db/journals/corr/corr1212.html#abs-1212-2496</url>
+</article>
+</r>
+<r><book publtype="habil" key="books/hal/Spanjaard11" mdate="2017-10-17">
+<author>Olivier Spanjaard</author>
+<title>Contributions à la théorie de la décision algorithmique : optimisation multi-objectifs et optimisation dans l'incertain.</title>
+<year>2011</year>
+<school>Pierre and Marie Curie University, Paris, France</school>
+</book>
+</r>
+<r><article key="journals/ai/JeantetS11" mdate="2017-05-27">
+<author>Gildas Jeantet</author>
+<author>Olivier Spanjaard</author>
+<title>Computing rank dependent utility in graphical models for sequential decision problems.</title>
+<pages>1366-1389</pages>
+<year>2011</year>
+<volume>175</volume>
+<journal>Artif. Intell.</journal>
+<number>7-8</number>
+<url>db/journals/ai/ai175.html#JeantetS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/aldt/DelortSW11" mdate="2017-05-23">
+<author>Charles Delort</author>
+<author>Olivier Spanjaard</author>
+<author>Paul Weng</author>
+<title>Committee Selection with a Weight Constraint Based on a Pairwise Dominance Relation.</title>
+<pages>28-41</pages>
+<year>2011</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2011</crossref>
+<url>db/conf/aldt/adt2011.html#DelortSW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aldt/EscoffierGTPS11" mdate="2017-05-23">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Nguyen Kim Thang</author>
+<author>Fanny Pascual</author>
+<author>Olivier Spanjaard</author>
+<title>Strategy-Proof Mechanisms for Facility Location Games with Many Facilities.</title>
+<pages>67-81</pages>
+<year>2011</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2011</crossref>
+<url>db/conf/aldt/adt2011.html#EscoffierGTPS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/FargierJS11" mdate="2017-05-23">
+<author>Hélène Fargier</author>
+<author>Gildas Jeantet</author>
+<author>Olivier Spanjaard</author>
+<title>Resolute Choice in Sequential Decision Problems with Multiple Priors.</title>
+<pages>2120-2125</pages>
+<year>2011</year>
+<booktitle>IJCAI</booktitle>
+<crossref>conf/ijcai/2011</crossref>
+<url>db/conf/ijcai/ijcai2011.html#FargierJS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/eor/GalandPS10" mdate="2017-05-27">
+<author>Lucie Galand</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>Choquet-based optimisation in multiobjective shortest path and spanning tree problems.</title>
+<pages>303-315</pages>
+<year>2010</year>
+<volume>204</volume>
+<journal>European Journal of Operational Research</journal>
+<number>2</number>
+<url>db/journals/eor/eor204.html#GalandPS10</url>
+</article>
+</r>
+<r><article key="journals/eor/EscoffierGMS10" mdate="2017-05-27">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<author>Olivier Spanjaard</author>
+<title>Two-stage stochastic matching and spanning tree problems: Polynomial instances and approximation.</title>
+<pages>19-30</pages>
+<year>2010</year>
+<volume>205</volume>
+<journal>European Journal of Operational Research</journal>
+<number>1</number>
+<url>db/journals/eor/eor205.html#EscoffierGMS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/wea/DelortS10" mdate="2017-05-17">
+<author>Charles Delort</author>
+<author>Olivier Spanjaard</author>
+<title>Using Bound Sets in Multiobjective Optimization: Application to the Biobjective Binary Knapsack Problem.</title>
+<pages>253-265</pages>
+<year>2010</year>
+<booktitle>SEA</booktitle>
+<crossref>conf/wea/2010</crossref>
+<url>db/conf/wea/sea2010.html#DelortS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aldt/JeantetS09" mdate="2017-05-23">
+<author>Gildas Jeantet</author>
+<author>Olivier Spanjaard</author>
+<title>Optimizing the Hurwicz Criterion in Decision Trees with Imprecise Probabilities.</title>
+<pages>340-352</pages>
+<year>2009</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2009</crossref>
+<url>db/conf/aldt/adt2009.html#JeantetS09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GalandS09" mdate="2018-08-13">
+<author>Lucie Galand</author>
+<author>Olivier Spanjaard</author>
+<title>Exact algorithms for OWA-optimization in multiobjective spanning tree problems.</title>
+<year>2009</year>
+<volume>abs/0910.5744</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/0910.5744</ee>
+<url>db/journals/corr/corr0910.html#GalandS09</url>
+</article>
+</r>
+<r><article key="journals/informs/SourdS08" mdate="2017-05-28">
+<author>Francis Sourd</author>
+<author>Olivier Spanjaard</author>
+<title>A Multiobjective Branch-and-Bound Framework: Application to the Biobjective Spanning Tree Problem.</title>
+<pages>472-484</pages>
+<year>2008</year>
+<volume>20</volume>
+<journal>INFORMS Journal on Computing</journal>
+<number>3</number>
+<url>db/journals/informs/informs20.html#SourdS08</url>
+</article>
+</r>
+<r><article key="journals/orl/EscoffierMS08" mdate="2017-05-27">
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Olivier Spanjaard</author>
+<title>Some tractable instances of interval data minmax regret problems.</title>
+<pages>424-429</pages>
+<year>2008</year>
+<volume>36</volume>
+<journal>Oper. Res. Lett.</journal>
+<number>4</number>
+<url>db/journals/orl/orl36.html#EscoffierMS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/aips/JeantetS08" mdate="2012-12-13">
+<author>Gildas Jeantet</author>
+<author>Olivier Spanjaard</author>
+<title>Rank-Dependent Probability Weighting in Sequential Decision Problems under Uncertainty.</title>
+<pages>148-155</pages>
+<year>2008</year>
+<booktitle>ICAPS</booktitle>
+<crossref>conf/aips/2008</crossref>
+<url>db/conf/aips/icaps2008.html#JeantetS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/PernyS08" mdate="2017-05-24">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>Near Admissible Algorithms for Multiobjective Search.</title>
+<pages>490-494</pages>
+<year>2008</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2008</crossref>
+<url>db/conf/ecai/ecai2008.html#PernyS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mcdm/GalandPS08" mdate="2017-05-23">
+<author>Lucie Galand</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>A Branch and Bound Algorithm for Choquet Optimization in Multicriteria Problems.</title>
+<pages>355-365</pages>
+<year>2008</year>
+<booktitle>MCDM</booktitle>
+<crossref>conf/mcdm/2008</crossref>
+<url>db/conf/mcdm/mcdm2008.html#GalandPS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sofsem/EscoffierMS08" mdate="2017-05-23">
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Olivier Spanjaard</author>
+<title>Some Tractable Instances of Interval Data Minmax Regret Problems: Bounded Distance from Triviality.</title>
+<pages>280-291</pages>
+<year>2008</year>
+<crossref>conf/sofsem/2008</crossref>
+<booktitle>SOFSEM</booktitle>
+<url>db/conf/sofsem/sofsem2008.html#EscoffierMS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/GalandS07" mdate="2012-12-13">
+<author>Lucie Galand</author>
+<author>Olivier Spanjaard</author>
+<title>OWA-Based Search in State Space Graphs with Multiple Cost Functions.</title>
+<pages>86-91</pages>
+<year>2007</year>
+<crossref>conf/flairs/2007</crossref>
+<booktitle>FLAIRS Conference</booktitle>
+<url>db/conf/flairs/flairs2007.html#GalandS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/PernySS07" mdate="2019-08-20">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<author>Louis-Xavier Storme</author>
+<title>State Space Search for Risk-Averse Agents.</title>
+<pages>2353-2358</pages>
+<year>2007</year>
+<crossref>conf/ijcai/2007</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/07/Papers/379.pdf</ee>
+<url>db/conf/ijcai/ijcai2007.html#PernySS07</url>
+</inproceedings>
+</r>
+<r><article key="journals/anor/PernySS06" mdate="2017-05-27">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<author>Louis-Xavier Storme</author>
+<title>A decision-theoretic approach to robust optimization in multivalued graphs.</title>
+<pages>317-341</pages>
+<year>2006</year>
+<volume>147</volume>
+<journal>Annals OR</journal>
+<number>1</number>
+<url>db/journals/anor/anor147.html#PernySS06</url>
+</article>
+</r>
+<r><article key="journals/eor/PernyS05" mdate="2017-05-27">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>A preference-based approach to spanning trees and shortest paths problems****.</title>
+<pages>584-601</pages>
+<year>2005</year>
+<volume>162</volume>
+<journal>European Journal of Operational Research</journal>
+<number>3</number>
+<url>db/journals/eor/eor162.html#PernyS05</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/PernySW05" mdate="2019-08-20">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<author>Paul Weng</author>
+<title>Algebraic Markov Decision Processes.</title>
+<pages>1372-1377</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1677.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PernySW05</url>
+</inproceedings>
+</r>
+<r><article key="journals/4or/Spanjaard04" mdate="2017-05-26">
+<author>Olivier Spanjaard</author>
+<title>Non-classical preference models in combinatorial problems: Models and algorithms for graphs.</title>
+<pages>325-328</pages>
+<year>2004</year>
+<volume>2</volume>
+<journal>4OR</journal>
+<number>4</number>
+<url>db/journals/4or/4or2.html#Spanjaard04</url>
+</article>
+</r>
+<r><article key="journals/4or/MonnotS03" mdate="2017-05-26">
+<author>Jérôme Monnot</author>
+<author>Olivier Spanjaard</author>
+<title>Bottleneck shortest paths on a partially ordered scale.</title>
+<pages>225-241</pages>
+<year>2003</year>
+<volume>1</volume>
+<journal>4OR</journal>
+<number>3</number>
+<url>db/journals/4or/4or1.html#MonnotS03</url>
+</article>
+</r>
+<r><inproceedings key="conf/uai/PernyS03" mdate="2015-05-06">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>An Axiomatic Approach to Robustness in Search Problems with Multiple Scenarios.</title>
+<pages>469-476</pages>
+<year>2003</year>
+<crossref>conf/uai/2003</crossref>
+<booktitle>UAI</booktitle>
+<url>db/conf/uai/uai2003.html#PernyS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/PernyS02" mdate="2012-12-11">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>On Preference-Based Search in State Space Graphs.</title>
+<pages>751-756</pages>
+<year>2002</year>
+<crossref>conf/aaai/2002</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai2002.html#PernyS02</url>
+</inproceedings>
+</r>
+<coauthors n="22" nc="1">
+<co c="0"><na f="b/Benabbou:Nawal">Nawal Benabbou</na></co>
+<co c="0"><na f="b/Bourdache:Nadjet">Nadjet Bourdache</na></co>
+<co c="0"><na f="c/Cornaz:Denis">Denis Cornaz</na></co>
+<co c="0"><na f="d/Delort:Charles">Charles Delort</na></co>
+<co c="0"><na f="e/Escoffier:Bruno">Bruno Escoffier</na></co>
+<co c="0"><na f="f/Fargier:H=eacute=l=egrave=ne">Hélène Fargier</na></co>
+<co c="0"><na f="g/Galand:Lucie">Lucie Galand</na></co>
+<co c="0"><na f="g/Gilbert:Hugo">Hugo Gilbert</na></co>
+<co c="0"><na f="g/Gourv=egrave=s:Laurent">Laurent Gourvès</na></co>
+<co c="0"><na f="h/Hachimi:Mohamed">Mohamed Hachimi</na></co>
+<co c="0"><na f="i/Ismaili:Anisse">Anisse Ismaili</na></co>
+<co c="0"><na f="j/Jeantet:Gildas">Gildas Jeantet</na></co>
+<co c="0"><na f="m/Monnot:J=eacute=r=ocirc=me">Jérôme Monnot</na></co>
+<co c="0"><na f="o/Oudghiri:Soufiane_Drissi">Soufiane Drissi Oudghiri</na></co>
+<co c="0"><na f="p/Pascual:Fanny">Fanny Pascual</na></co>
+<co c="0"><na f="p/Perny:Patrice">Patrice Perny</na></co>
+<co c="0"><na f="p/Portoleau:Tom">Tom Portoleau</na></co>
+<co c="-1"><na f="s/Sourd:Francis">Francis Sourd</na></co>
+<co c="0"><na f="s/Storme:Louis=Xavier">Louis-Xavier Storme</na></co>
+<co c="0"><na f="t/Thang:Nguyen_Kim">Nguyen Kim Thang</na></co>
+<co c="0"><na f="v/Viappiani:Paolo">Paolo Viappiani</na></co>
+<co c="0"><na f="w/Weng:Paul">Paul Weng</na></co>
+</coauthors>
+</dblpperson>
+

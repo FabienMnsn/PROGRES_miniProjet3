@@ -1,0 +1,741 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Bruno Baynat" n="53">
+<person key="homepages/28/3515" mdate="2009-06-10">
+<author>Bruno Baynat</author>
+</person>
+<r><inproceedings key="conf/infocom/GiovanidisBV19" mdate="2019-09-25">
+<author orcid="0000-0002-7121-4802">Anastasios Giovanidis</author>
+<author>Bruno Baynat</author>
+<author>Antoine Vendeville</author>
+<title>Performance Analysis of Online Social Platforms.</title>
+<pages>2413-2421</pages>
+<year>2019</year>
+<booktitle>INFOCOM</booktitle>
+<crossref>conf/infocom/2019</crossref>
+<url>db/conf/infocom/infocom2019.html#GiovanidisBV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobiwac/BaynatBP19" mdate="2019-11-27">
+<author>Bruno Baynat</author>
+<author>Gewu Bu</author>
+<author>Maria Potop-Butucaru</author>
+<title>Markovian Model for Broadcast in Wireless Body Area Networks.</title>
+<pages>63-70</pages>
+<year>2019</year>
+<booktitle>MobiWac</booktitle>
+<crossref>conf/mobiwac/2019</crossref>
+<url>db/conf/mobiwac/mobiwac2019.html#BaynatBP19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-07187" mdate="2019-05-21">
+<author>Anastasios Giovanidis</author>
+<author>Bruno Baynat</author>
+<author>Antoine Vendeville</author>
+<title>Performance Analysis of Online Social Platforms.</title>
+<year>2019</year>
+<volume>abs/1902.07187</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.07187</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-07187</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-05103" mdate="2019-06-14">
+<author>Bruno Baynat</author>
+<author>Gewu Bu</author>
+<author>Maria Potop-Butucaru</author>
+<title>Markovian model for Broadcast in Wireless Body Area Networks.</title>
+<year>2019</year>
+<volume>abs/1906.05103</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.05103</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-05103</url>
+</article>
+</r>
+<r><article key="journals/tnsm/BeginBGJ18" mdate="2018-12-26">
+<author orcid="0000-0002-7272-1195">Thomas Begin</author>
+<author>Bruno Baynat</author>
+<author>Guillaume Artero Gallardo</author>
+<author>Vincent Jardin</author>
+<title>An Accurate and Efficient Modeling Framework for the Performance Evaluation of DPDK-Based Virtual Switches.</title>
+<pages>1407-1421</pages>
+<year>2018</year>
+<volume>15</volume>
+<journal>IEEE Trans. Network and Service Management</journal>
+<number>4</number>
+<url>db/journals/tnsm/tnsm15.html#BeginBGJ18</url>
+</article>
+</r>
+<r><article key="journals/comcom/ElayoubiKBE17" mdate="2017-06-08">
+<author>Salah-Eddine Elayoubi</author>
+<author>Younes Khadraoui</author>
+<author>Bruno Baynat</author>
+<author>Taoufik En-Najjary</author>
+<title>Flow level performance evaluation in mobile networks: Analytical modeling and empirical validation.</title>
+<pages>27-35</pages>
+<year>2017</year>
+<volume>108</volume>
+<journal>Computer Communications</journal>
+<url>db/journals/comcom/comcom108.html#ElayoubiKBE17</url>
+</article>
+</r>
+<r><article key="journals/ijnc/BaynatKCLP17" mdate="2018-09-07">
+<author>Bruno Baynat</author>
+<author>Hicham Khalife</author>
+<author>Vania Conan</author>
+<author>Catherine Lamy-Bergot</author>
+<author>Romain Prouvez</author>
+<title>On the Design of Automatic Link Establishment in High Frequency Networks.</title>
+<pages>419-446</pages>
+<year>2017</year>
+<volume>7</volume>
+<journal>IJNC</journal>
+<number>2</number>
+<url>db/journals/ijnc/ijnc7.html#BaynatKCLP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/giis/SuBB17" mdate="2017-12-13">
+<author>Zidong Su</author>
+<author>Thomas Begin</author>
+<author>Bruno Baynat</author>
+<title>Towards including batch services in models for DPDK-based virtual switches.</title>
+<pages>37-44</pages>
+<year>2017</year>
+<booktitle>GIIS</booktitle>
+<crossref>conf/giis/2017</crossref>
+<url>db/conf/giis/giis2017.html#SuBB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/NyaB17" mdate="2018-11-06">
+<author>Narcisse Nya</author>
+<author>Bruno Baynat</author>
+<title>Performance Model for 4G/5G Heterogeneous Networks with Different Classes of Users.</title>
+<pages>171-178</pages>
+<year>2017</year>
+<booktitle>MSWiM</booktitle>
+<crossref>conf/mswim/2017</crossref>
+<url>db/conf/mswim/mswim2017.html#NyaB17</url>
+</inproceedings>
+</r>
+<r><article key="journals/pe/BeginBLA16" mdate="2017-05-27">
+<author>Thomas Begin</author>
+<author>Bruno Baynat</author>
+<author>Isabelle Guérin Lassous</author>
+<author>Thiago Abreu</author>
+<title>Performance analysis of multi-hop flows in IEEE 802.11 networks: A flexible and accurate modeling framework.</title>
+<pages>12-32</pages>
+<year>2016</year>
+<volume>96</volume>
+<journal>Perform. Eval.</journal>
+<url>db/journals/pe/pe96.html#BeginBLA16</url>
+</article>
+</r>
+<r><inproceedings key="conf/lcn/BaynatN16" mdate="2017-05-26">
+<author>Bruno Baynat</author>
+<author>Narcisse Nya</author>
+<title>Performance Model for 4G/5G Networks Taking into Account Intra- and Inter-Cell Mobility of Users.</title>
+<pages>212-215</pages>
+<year>2016</year>
+<booktitle>LCN</booktitle>
+<crossref>conf/lcn/2016</crossref>
+<url>db/conf/lcn/lcn2016.html#BaynatN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/GallardoBB16" mdate="2017-05-26">
+<author>Guillaume Artero Gallardo</author>
+<author>Bruno Baynat</author>
+<author>Thomas Begin</author>
+<title>Performance Modeling of Virtual Switching Systems.</title>
+<pages>125-134</pages>
+<year>2016</year>
+<booktitle>MASCOTS</booktitle>
+<crossref>conf/mascots/2016</crossref>
+<url>db/conf/mascots/mascots2016.html#GallardoBB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/milcom/ProuvezBKCL15" mdate="2017-05-26">
+<author>Romain Prouvez</author>
+<author>Bruno Baynat</author>
+<author>Hicham Khalife</author>
+<author>Vania Conan</author>
+<author>Catherine Lamy-Bergot</author>
+<title>Modeling Automatic Link Establishment in HF networks.</title>
+<pages>1630-1635</pages>
+<year>2015</year>
+<booktitle>MILCOM</booktitle>
+<crossref>conf/milcom/2015</crossref>
+<url>db/conf/milcom/milcom2015.html#ProuvezBKCL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/NyaB15" mdate="2018-11-06">
+<author>Narcisse Nya</author>
+<author>Bruno Baynat</author>
+<title>A PS Queue Model for Lte Macrocells Taking into Account Mobility of Users.</title>
+<pages>44-46</pages>
+<year>2015</year>
+<booktitle>S3@MobiCom</booktitle>
+<crossref>conf/mobicom/2015s3</crossref>
+<url>db/conf/mobicom/s3-2015.html#NyaB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pe-wasun/BaynatVA15" mdate="2018-11-06">
+<author>Bruno Baynat</author>
+<author>Marion Vasseur</author>
+<author>Thiago Abreu</author>
+<title>Revisiting the Characterization and the Modeling of User Impatience in Ubiquitous Networks.</title>
+<pages>85-91</pages>
+<year>2015</year>
+<booktitle>PE-WASUN@MSWiM</booktitle>
+<crossref>conf/pe-wasun/2015</crossref>
+<url>db/conf/pe-wasun/pe-wasun2015.html#BaynatVA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simutools/AbreuBGJN15" mdate="2017-05-21">
+<author>Thiago Abreu</author>
+<author>Bruno Baynat</author>
+<author>Marouen Gachaoui</author>
+<author>Tania Jiménez</author>
+<author>Narcisse Nya</author>
+<title>Comparative study of LTE simulations with the ns-3 and the Vienna simulators.</title>
+<pages>55-63</pages>
+<year>2015</year>
+<booktitle>SimuTools</booktitle>
+<crossref>conf/simutools/2015</crossref>
+<url>db/conf/simutools/simutools2015.html#AbreuBGJN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/BaynatINOS15" mdate="2017-05-21">
+<author>Bruno Baynat</author>
+<author>Raluca-Maria Indre</author>
+<author>Narcisse Nya</author>
+<author>Philippe Olivier</author>
+<author>Alain Simonian</author>
+<title>Impact of Mobility in Dense LTE-A Networks with Small Cells.</title>
+<pages>1-5</pages>
+<year>2015</year>
+<booktitle>VTC Spring</booktitle>
+<crossref>conf/vtc/2015s</crossref>
+<url>db/conf/vtc/vtc2015s.html#BaynatINOS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/AbreuBBLN14" mdate="2018-11-06">
+<author>Thiago Abreu</author>
+<author>Bruno Baynat</author>
+<author>Thomas Begin</author>
+<author>Isabelle Guérin Lassous</author>
+<author>Nghi Nguyen</author>
+<title>Modeling of IEEE 802.11 multi-hop wireless chains with hidden nodes.</title>
+<pages>159-162</pages>
+<year>2014</year>
+<booktitle>MSWiM</booktitle>
+<crossref>conf/mswim/2014</crossref>
+<url>db/conf/mswim/mswim2014.html#AbreuBBLN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pam/MazloumBABRF14" mdate="2017-05-23">
+<author>Riad Mazloum</author>
+<author>Marc-Olivier Buob</author>
+<author>Jordan Augé</author>
+<author>Bruno Baynat</author>
+<author>Dario Rossi</author>
+<author>Timur Friedman</author>
+<title>Violation of Interdomain Routing Assumptions.</title>
+<pages>173-182</pages>
+<year>2014</year>
+<booktitle>PAM</booktitle>
+<crossref>conf/pam/2014</crossref>
+<url>db/conf/pam/pam2014.html#MazloumBABRF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/AbreuBBL13" mdate="2018-11-06">
+<author>Thiago Abreu</author>
+<author>Bruno Baynat</author>
+<author>Thomas Begin</author>
+<author>Isabelle Guérin Lassous</author>
+<title>Hierarchical modeling of IEEE 802.11 multi-hop wireless networks.</title>
+<pages>143-150</pages>
+<year>2013</year>
+<booktitle>MSWiM</booktitle>
+<crossref>conf/mswim/2013</crossref>
+<url>db/conf/mswim/mswim2013.html#AbreuBBL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adhocnets/AbreuNBLB12" mdate="2017-05-19">
+<author>Thiago Abreu</author>
+<author>Nghi Nguyen</author>
+<author>Thomas Begin</author>
+<author>Isabelle Guérin Lassous</author>
+<author>Bruno Baynat</author>
+<title>Substitution Networks: Performance Collapse Due to Overhead in Communication Times.</title>
+<pages>1-16</pages>
+<year>2012</year>
+<booktitle>ADHOCNETS</booktitle>
+<crossref>conf/adhocnets/2012</crossref>
+<url>db/conf/adhocnets/adhocnets2012.html#AbreuNBLB12</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/DonnetBF10" mdate="2018-11-14">
+<author>Benoit Donnet</author>
+<author>Bruno Baynat</author>
+<author>Timur Friedman</author>
+<title>Improving retouched Bloom filter for trading off selected false positives against false negatives.</title>
+<pages>3373-3387</pages>
+<year>2010</year>
+<volume>54</volume>
+<journal>Computer Networks</journal>
+<number>18</number>
+<url>db/journals/cn/cn54.html#DonnetBF10</url>
+</article>
+</r>
+<r><article key="journals/comcom/DoirieuxBMC10" mdate="2017-05-26">
+<author>Sébastien Doirieux</author>
+<author>Bruno Baynat</author>
+<author>Masood Maqbool</author>
+<author>Marceau Coupechoux</author>
+<title>An efficient analytical model for the dimensioning of WiMAX networks supporting multi-profile best effort traffic.</title>
+<pages>1162-1179</pages>
+<year>2010</year>
+<volume>33</volume>
+<journal>Computer Communications</journal>
+<number>10</number>
+<url>db/journals/comcom/comcom33.html#DoirieuxBMC10</url>
+</article>
+</r>
+<r><article key="journals/cor/BeginBSB10" mdate="2017-05-18">
+<author>Thomas Begin</author>
+<author>Bruno Baynat</author>
+<author>Francis Sourd</author>
+<author>Alexandre Brandwajn</author>
+<title>A DFO technique to calibrate queueing models.</title>
+<pages>273-281</pages>
+<year>2010</year>
+<volume>37</volume>
+<journal>Computers and OR</journal>
+<number>2</number>
+<url>db/journals/cor/cor37.html#BeginBSB10</url>
+</article>
+</r>
+<r><article key="journals/pe/BeginBBWF10" mdate="2017-05-27">
+<author>Thomas Begin</author>
+<author>Alexandre Brandwajn</author>
+<author>Bruno Baynat</author>
+<author>Bernd E. Wolfinger</author>
+<author>Serge Fdida</author>
+<title>High-level approach to modeling of observed system behavior.</title>
+<pages>386-405</pages>
+<year>2010</year>
+<volume>67</volume>
+<journal>Perform. Eval.</journal>
+<number>5</number>
+<url>db/journals/pe/pe67.html#BeginBBWF10</url>
+</article>
+</r>
+<r><inproceedings key="conf/mascots/DoirieuxBB09" mdate="2019-02-13">
+<author>Sébastien Doirieux</author>
+<author>Bruno Baynat</author>
+<author>Thomas Begin</author>
+<title>On finding the right balance between fairness and efficiency in WiMAX scheduling through analytical modeling.</title>
+<pages>1-10</pages>
+<year>2009</year>
+<booktitle>MASCOTS</booktitle>
+<crossref>conf/mascots/2009</crossref>
+<url>db/conf/mascots/mascots2009.html#DoirieuxBB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/BaynatNMC09" mdate="2018-06-26">
+<author>Bruno Baynat</author>
+<author>Georges Nogueira</author>
+<author>Masood Maqbool</author>
+<author>Marceau Coupechoux</author>
+<title>An Efficient Analytical Model for the Dimensioning of WiMAX Networks.</title>
+<pages>521-534</pages>
+<year>2009</year>
+<booktitle>Networking</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-01399-7_41</ee>
+<crossref>conf/networking/2009</crossref>
+<url>db/conf/networking/networking2009.html#BaynatNMC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiopt/DoirieuxBMC09" mdate="2017-05-21">
+<author>Sébastien Doirieux</author>
+<author>Bruno Baynat</author>
+<author>Masood Maqbool</author>
+<author>Marceau Coupechoux</author>
+<title>An analytical model for WiMAX networks with multiple traffic profiles and throttling policy.</title>
+<pages>1-8</pages>
+<year>2009</year>
+<booktitle>WiOpt</booktitle>
+<crossref>conf/wiopt/2009</crossref>
+<url>db/conf/wiopt/wiopt2009.html#DoirieuxBMC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobility/BaynatDNMC08" mdate="2018-11-06">
+<author>Bruno Baynat</author>
+<author>Sébastien Doirieux</author>
+<author>Georges Nogueira</author>
+<author>Masood Maqbool</author>
+<author>Marceau Coupechoux</author>
+<title>An efficient analytical model for WiMAX networks with multiple traffic profiles.</title>
+<pages>96</pages>
+<year>2008</year>
+<booktitle>Mobility Conference</booktitle>
+<crossref>conf/mobility/2008</crossref>
+<url>db/conf/mobility/mobility2008.html#BaynatDNMC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simutools/RollandRBB08" mdate="2018-11-27">
+<author>Chloé Rolland</author>
+<author>Julien Ridoux</author>
+<author>Bruno Baynat</author>
+<author>Vincent Borrel</author>
+<title>Using LiTGen, a realistic IP traffic model, to evaluate the impact of burstiness on performance.</title>
+<pages>26</pages>
+<year>2008</year>
+<booktitle>SimuTools</booktitle>
+<crossref>conf/simutools/2008</crossref>
+<url>db/conf/simutools/simutools2008.html#RollandRBB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiopt/NogueiraBZ08" mdate="2017-05-21">
+<author>Georges Nogueira</author>
+<author>Bruno Baynat</author>
+<author>Ahmed Ziram</author>
+<title>A Markovian model for mobile cellular networks with QoS differentiation.</title>
+<pages>404-412</pages>
+<year>2008</year>
+<booktitle>WiOpt</booktitle>
+<crossref>conf/wiopt/2008</crossref>
+<url>db/conf/wiopt/wiopt2008.html#NogueiraBZ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wowmom/NogueiraBZ08" mdate="2017-05-26">
+<author>Georges Nogueira</author>
+<author>Bruno Baynat</author>
+<author>Ahmed Ziram</author>
+<title>An efficient analytical model for QoS engineering in mobile cellular networks.</title>
+<pages>1-12</pages>
+<year>2008</year>
+<booktitle>WOWMOM</booktitle>
+<crossref>conf/wowmom/2008</crossref>
+<url>db/conf/wowmom/wowmom2008.html#NogueiraBZ08</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmetrics/BeginBBWF07" mdate="2018-11-06">
+<author>Thomas Begin</author>
+<author>Alexandre Brandwajn</author>
+<author>Bruno Baynat</author>
+<author>Bernd E. Wolfinger</author>
+<author>Serge Fdida</author>
+<title>High-level approach to modeling of observed system behavior.</title>
+<pages>34-36</pages>
+<year>2007</year>
+<volume>35</volume>
+<journal>SIGMETRICS Performance Evaluation Review</journal>
+<number>3</number>
+<url>db/journals/sigmetrics/sigmetrics35.html#BeginBBWF07</url>
+</article>
+</r>
+<r><inproceedings key="conf/epew/BeginBBWF07" mdate="2017-05-24">
+<author>Thomas Begin</author>
+<author>Alexandre Brandwajn</author>
+<author>Bruno Baynat</author>
+<author>Bernd E. Wolfinger</author>
+<author>Serge Fdida</author>
+<title>Towards an Automatic Modeling Tool for Observed System Behavior.</title>
+<pages>200-212</pages>
+<year>2007</year>
+<crossref>conf/epew/2007</crossref>
+<booktitle>EPEW</booktitle>
+<url>db/conf/epew/epew2007.html#BeginBBWF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcit/PicconiBS07" mdate="2019-12-18">
+<author>Fabio Picconi</author>
+<author>Bruno Baynat</author>
+<author>Pierre Sens 0001</author>
+<title>An Analytical Estimation of Durability in DHTs.</title>
+<pages>184-196</pages>
+<year>2007</year>
+<crossref>conf/icdcit/2007</crossref>
+<booktitle>ICDCIT</booktitle>
+<url>db/conf/icdcit/icdcit2007.html#PicconiBS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdim/PicconiBS07" mdate="2019-12-18">
+<author>Fabio Picconi</author>
+<author>Bruno Baynat</author>
+<author>Pierre Sens 0001</author>
+<title>Predicting durability in DHTs using Markov chains.</title>
+<pages>532-538</pages>
+<year>2007</year>
+<booktitle>ICDIM</booktitle>
+<crossref>conf/icdim/2007</crossref>
+<url>db/conf/icdim/icdim2007.html#PicconiBS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/RollandRB07" mdate="2018-06-26">
+<author>Chloé Rolland</author>
+<author>Julien Ridoux</author>
+<author>Bruno Baynat</author>
+<title>Catching IP Traffic Burstiness with a Lightweight Generator.</title>
+<pages>924-934</pages>
+<year>2007</year>
+<crossref>conf/networking/2007</crossref>
+<booktitle>Networking</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-72606-7_79</ee>
+<url>db/conf/networking/networking2007.html#RollandRB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pam/RollandRB07" mdate="2017-05-23">
+<author>Chloé Rolland</author>
+<author>Julien Ridoux</author>
+<author>Bruno Baynat</author>
+<title>LiTGen, a Lightweight Traffic Generator: Application to P2P and Mail Wireless Traffic.</title>
+<pages>52-62</pages>
+<year>2007</year>
+<crossref>conf/pam/2007</crossref>
+<booktitle>PAM</booktitle>
+<url>db/conf/pam/pam2007.html#RollandRB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/DonnetBF06" mdate="2018-11-06">
+<author orcid="0000-0002-0651-3398">Benoit Donnet</author>
+<author>Bruno Baynat</author>
+<author>Timur Friedman</author>
+<title>Retouched bloom filters: allowing networked applications to trade off selected false positives against false negatives.</title>
+<pages>13</pages>
+<year>2006</year>
+<booktitle>CoNEXT</booktitle>
+<crossref>conf/conext/2006</crossref>
+<url>db/conf/conext/conext2006.html#DonnetBF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/valuetools/NogueiraBZ06" mdate="2018-11-06">
+<author>Georges Nogueira</author>
+<author>Bruno Baynat</author>
+<author>Ahmed Ziram</author>
+<title>An Erlang-like law for GPRS/EDGE engineering and its first validation on live traffic.</title>
+<pages>24</pages>
+<year>2006</year>
+<crossref>conf/valuetools/2006</crossref>
+<booktitle>VALUETOOLS</booktitle>
+<url>db/conf/valuetools/valuetools2006.html#NogueiraBZ06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0607038" mdate="2018-08-13">
+<author>Benoit Donnet</author>
+<author>Bruno Baynat</author>
+<author>Timur Friedman</author>
+<title>Retouched Bloom Filters: Allowing Networked Applications to Flexibly Trade Off False Positives Against False Negatives</title>
+<ee type="oa">http://arxiv.org/abs/cs/0607038</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0607038</volume>
+<url>db/journals/corr/corr0607.html#abs-cs-0607038</url>
+</article>
+</r>
+<r><article key="journals/monet/CoupechouxBBK05" mdate="2017-11-06">
+<author>Marceau Coupechoux</author>
+<author>Bruno Baynat</author>
+<author orcid="0000-0002-3733-7227">Christian Bonnet</author>
+<author>Vinod Kumar</author>
+<title>CROMA - An Enhanced Slotted MAC Protocol for MANETs.</title>
+<pages>183-197</pages>
+<year>2005</year>
+<volume>10</volume>
+<journal>MONET</journal>
+<number>1-2</number>
+<url>db/journals/monet/monet10.html#CoupechouxBBK05</url>
+</article>
+</r>
+<r><inproceedings key="conf/mobicom/NogueiraBE05" mdate="2018-11-06">
+<author>Georges Nogueira</author>
+<author>Bruno Baynat</author>
+<author>Pierre Eisenmann</author>
+<title>An analytical model for the dimensioning of a GPRS/EDGE network with a capacity constraint on a group of cells.</title>
+<pages>215-227</pages>
+<year>2005</year>
+<crossref>conf/mobicom/2005</crossref>
+<booktitle>MobiCom</booktitle>
+<url>db/conf/mobicom/mobicom2005.html#NogueiraBE05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/BaynatBET05" mdate="2017-05-25">
+<author>Bruno Baynat</author>
+<author>Khaled Boussetta</author>
+<author>Pierre Eisenmann</author>
+<author>Slim Trabelsi</author>
+<title>Extended Erlang-B law for performance evaluation of radio resources sharing in GSM/(E)GPRS networks.</title>
+<pages>1713-1718</pages>
+<year>2005</year>
+<booktitle>PIMRC</booktitle>
+<crossref>conf/pimrc/2005</crossref>
+<url>db/conf/pimrc/pimrc2005.html#BaynatBET05</url>
+</inproceedings>
+</r>
+<r><article key="journals/wpc/CoupechouxBLKB04" mdate="2017-11-06">
+<author>Marceau Coupechoux</author>
+<author>Bruno Baynat</author>
+<author>Thierry Lestable</author>
+<author>Vinod Kumar</author>
+<author orcid="0000-0002-3733-7227">Christian Bonnet</author>
+<title>Improving the MAC Layer of Multi-Hop Networks.</title>
+<pages>71-100</pages>
+<year>2004</year>
+<volume>29</volume>
+<journal>Wireless Personal Communications</journal>
+<number>1-2</number>
+<url>db/journals/wpc/wpc29.html#CoupechouxBLKB04</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/BaynatE04" mdate="2017-05-25">
+<author>Bruno Baynat</author>
+<author>Pierre Eisenmann</author>
+<title>Towards an Erlang-like law for GPRS/EDGE network engineering.</title>
+<pages>3689-3695</pages>
+<year>2004</year>
+<booktitle>ICC</booktitle>
+<crossref>conf/icc/2004</crossref>
+<url>db/conf/icc/icc2004.html#BaynatE04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/BaynatBER04" mdate="2017-05-26">
+<author>Bruno Baynat</author>
+<author>Khaled Boussetta</author>
+<author>Pierre Eisenmann</author>
+<author>Nidham Ben Rached</author>
+<title>Towards an Erlang-Like Formula for the Performance Evaluation of GPRS/EDGE Networks with Finite-Length Sessions.</title>
+<pages>1288-1293</pages>
+<year>2004</year>
+<crossref>conf/networking/2004</crossref>
+<booktitle>NETWORKING</booktitle>
+<url>db/conf/networking/networking2004.html#BaynatBER04</url>
+</inproceedings>
+</r>
+<r><article key="journals/pe/BaynatD96" mdate="2017-05-27">
+<author>Bruno Baynat</author>
+<author>Yves Dallery</author>
+<title>A Product-Form Approximation Method for General Closed Queueing Networks with Several Classes of Customers.</title>
+<pages>165-188</pages>
+<year>1996</year>
+<volume>24</volume>
+<journal>Perform. Eval.</journal>
+<number>3</number>
+<url>db/journals/pe/pe24.html#BaynatD96</url>
+</article>
+</r>
+<r><inproceedings key="conf/mascots/BaynatD95" mdate="2017-05-26">
+<author>Bruno Baynat</author>
+<author>Yves Dallery</author>
+<title>Approximate Analysis of Multi-Class Synchronized Closed Queueing Networks.</title>
+<pages>23-27</pages>
+<year>1995</year>
+<crossref>conf/mascots/1995</crossref>
+<booktitle>MASCOTS</booktitle>
+<url>db/conf/mascots/mascots1995.html#BaynatD95</url>
+</inproceedings>
+</r>
+<r><article key="journals/anor/BaynatDR94" mdate="2018-05-08">
+<author>Bruno Baynat</author>
+<author>Yves Dallery</author>
+<author>Keith Ross</author>
+<title>A decomposition approximation method for multiclass BCMP queueing networks with multiple-server stations.</title>
+<pages>273-294</pages>
+<year>1994</year>
+<volume>48</volume>
+<journal>Annals OR</journal>
+<number>3</number>
+<url>db/journals/anor/anor48.html#BaynatDR94</url>
+</article>
+</r>
+<r><article key="journals/pe/BaynatD93" mdate="2018-11-14">
+<author>Bruno Baynat</author>
+<author>Yves Dallery</author>
+<title>A Unified View of Product-Form Approximation Techniques for General Closed Queueing Networks.</title>
+<pages>205-224</pages>
+<year>1993</year>
+<volume>18</volume>
+<journal>Perform. Eval.</journal>
+<number>3</number>
+<url>db/journals/pe/pe18.html#BaynatD93</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifip10-3/BaynatD93" mdate="2002-06-11">
+<author>Bruno Baynat</author>
+<author>Yves Dallery</author>
+<title>A Decomposition Approximation Method for Closed Queueing Networks with Fork/Join Subnetworks.</title>
+<pages>199-210</pages>
+<year>1993</year>
+<crossref>conf/ifip10-3/1993dds</crossref>
+<booktitle>Decentralized and Distributed Systems</booktitle>
+<url>db/conf/ifip10-3/dds1993.html#BaynatD93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/BaynatD92" mdate="2019-02-14">
+<author>Bruno Baynat</author>
+<author>Yves Dallery</author>
+<title>Analysis of queueing networks with population constraints and applications to manufacturing.</title>
+<pages>1006-1011</pages>
+<year>1992</year>
+<booktitle>ICRA</booktitle>
+<crossref>conf/icra/1992</crossref>
+<url>db/conf/icra/icra1992.html#BaynatD92</url>
+</inproceedings>
+</r>
+<coauthors n="54" nc="3">
+<co c="0"><na f="a/Abreu:Thiago">Thiago Abreu</na></co>
+<co c="0"><na f="a/Aug=eacute=:Jordan">Jordan Augé</na></co>
+<co c="0"><na f="b/Begin:Thomas">Thomas Begin</na></co>
+<co c="0"><na f="b/Bonnet:Christian">Christian Bonnet</na></co>
+<co c="0"><na f="b/Borrel:Vincent">Vincent Borrel</na></co>
+<co c="0"><na f="b/Boussetta:Khaled">Khaled Boussetta</na></co>
+<co c="0"><na f="b/Brandwajn:Alexandre">Alexandre Brandwajn</na></co>
+<co c="1"><na f="b/Bu:Gewu">Gewu Bu</na></co>
+<co c="0"><na f="b/Buob:Marc=Olivier">Marc-Olivier Buob</na></co>
+<co c="0"><na f="c/Conan:Vania">Vania Conan</na></co>
+<co c="0"><na f="c/Coupechoux:Marceau">Marceau Coupechoux</na></co>
+<co c="2"><na f="d/Dallery:Yves">Yves Dallery</na></co>
+<co c="0"><na f="d/Doirieux:S=eacute=bastien">Sébastien Doirieux</na></co>
+<co c="0"><na f="d/Donnet:Benoit">Benoit Donnet</na></co>
+<co c="0"><na f="e/Eisenmann:Pierre">Pierre Eisenmann</na></co>
+<co c="0"><na f="e/Elayoubi:Salah=Eddine">Salah-Eddine Elayoubi</na></co>
+<co c="0"><na f="e/En=Najjary:Taoufik">Taoufik En-Najjary</na></co>
+<co c="0"><na f="f/Fdida:Serge">Serge Fdida</na></co>
+<co c="0"><na f="f/Friedman:Timur">Timur Friedman</na></co>
+<co c="0"><na f="g/Gachaoui:Marouen">Marouen Gachaoui</na></co>
+<co c="0"><na f="g/Gallardo:Guillaume_Artero">Guillaume Artero Gallardo</na></co>
+<co c="0"><na f="g/Giovanidis:Anastasios">Anastasios Giovanidis</na></co>
+<co c="0"><na f="i/Indre:Raluca=Maria">Raluca-Maria Indre</na></co>
+<co c="0"><na f="j/Jardin:Vincent">Vincent Jardin</na></co>
+<co c="0"><na f="j/Jim=eacute=nez:Tania">Tania Jiménez</na></co>
+<co c="0"><na f="k/Khadraoui:Younes">Younes Khadraoui</na></co>
+<co c="0"><na f="k/Khalife:Hicham">Hicham Khalife</na></co>
+<co c="0"><na f="k/Kumar:Vinod">Vinod Kumar</na></co>
+<co c="0"><na f="l/Lamy=Bergot:Catherine">Catherine Lamy-Bergot</na></co>
+<co c="0"><na f="l/Lassous:Isabelle_Gu=eacute=rin">Isabelle Guérin Lassous</na></co>
+<co c="0"><na f="l/Lestable:Thierry">Thierry Lestable</na></co>
+<co c="0"><na f="m/Maqbool:Masood">Masood Maqbool</na></co>
+<co c="0"><na f="m/Mazloum:Riad">Riad Mazloum</na></co>
+<co c="0"><na f="n/Nguyen:Nghi">Nghi Nguyen</na></co>
+<co c="0"><na f="n/Nogueira:Georges">Georges Nogueira</na></co>
+<co c="0"><na f="n/Nya:Narcisse">Narcisse Nya</na></co>
+<co c="0"><na f="o/Olivier:Philippe">Philippe Olivier</na></co>
+<co c="1"><na f="p/Picconi:Fabio">Fabio Picconi</na></co>
+<co c="1"><na f="p/Potop=Butucaru:Maria">Maria Potop-Butucaru</na></co>
+<co c="0"><na f="p/Prouvez:Romain">Romain Prouvez</na></co>
+<co c="0"><na f="r/Rached:Nidham_Ben">Nidham Ben Rached</na></co>
+<co c="0"><na f="r/Ridoux:Julien">Julien Ridoux</na></co>
+<co c="0"><na f="r/Rolland:Chlo=eacute=">Chloé Rolland</na></co>
+<co c="2"><na f="r/Ross:Keith">Keith Ross</na></co>
+<co c="0"><na f="r/Rossi:Dario">Dario Rossi</na></co>
+<co c="1"><na f="s/Sens_0001:Pierre">Pierre Sens 0001</na></co>
+<co c="0"><na f="s/Simonian:Alain">Alain Simonian</na></co>
+<co c="0"><na f="s/Sourd:Francis">Francis Sourd</na></co>
+<co c="0"><na f="s/Su:Zidong">Zidong Su</na></co>
+<co c="0"><na f="t/Trabelsi:Slim">Slim Trabelsi</na></co>
+<co c="0"><na f="v/Vasseur:Marion">Marion Vasseur</na></co>
+<co c="0"><na f="v/Vendeville:Antoine">Antoine Vendeville</na></co>
+<co c="0"><na f="w/Wolfinger:Bernd_E=">Bernd E. Wolfinger</na></co>
+<co c="0"><na f="z/Ziram:Ahmed">Ahmed Ziram</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,542 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Karine Heydemann" n="35">
+<person key="homepages/12/296" mdate="2009-06-08">
+<author>Karine Heydemann</author>
+</person>
+<r><article key="journals/compsec/HeydemannLB19" mdate="2019-09-25">
+<author>Karine Heydemann</author>
+<author orcid="0000-0003-4984-2199">Jean-François Lalande</author>
+<author>Pascal Berthomé</author>
+<title>Formally verified software countermeasures for control-flow integrity of smart card C code.</title>
+<pages>202-224</pages>
+<year>2019</year>
+<volume>85</volume>
+<journal>Computers and Security</journal>
+<url>db/journals/compsec/compsec85.html#HeydemannLB19</url>
+</article>
+</r>
+<r><article key="journals/jce/OuahmaMHE19" mdate="2019-09-24">
+<author>Inès Ben El Ouahma</author>
+<author>Quentin L. Meunier</author>
+<author>Karine Heydemann</author>
+<author>Emmanuelle Encrenaz</author>
+<title>Side-channel robustness analysis of masked assembly codes using a symbolic approach.</title>
+<pages>231-242</pages>
+<year>2019</year>
+<volume>9</volume>
+<journal>J. Cryptographic Engineering</journal>
+<number>3</number>
+<url>db/journals/jce/jce9.html#OuahmaMHE19</url>
+</article>
+</r>
+<r><article key="journals/taco/BellevilleCHC19" mdate="2019-05-09">
+<author>Nicolas Belleville</author>
+<author>Damien Couroussé</author>
+<author>Karine Heydemann</author>
+<author>Henri-Pierre Charles</author>
+<title>Automated Software Protection for the Masses Against Side-Channel Attacks.</title>
+<pages>47:1-47:27</pages>
+<year>2019</year>
+<volume>15</volume>
+<journal>TACO</journal>
+<number>4</number>
+<url>db/journals/taco/taco15.html#BellevilleCHC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEares/ProyHBM019" mdate="2019-08-11">
+<author>Julien Proy</author>
+<author>Karine Heydemann</author>
+<author>Alexandre Berzati</author>
+<author>Fabien Majéric</author>
+<author>Albert Cohen 0001</author>
+<title>A First ISA-Level Characterization of EM Pulse Effects on Superscalar Microarchitectures: A Secure Software Perspective.</title>
+<pages>7:1-7:10</pages>
+<year>2019</year>
+<booktitle>ARES</booktitle>
+<crossref>conf/IEEEares/2019</crossref>
+<url>db/conf/IEEEares/ares2019.html#ProyHBM019</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-02623" mdate="2019-03-31">
+<author>Julien Proy</author>
+<author>Karine Heydemann</author>
+<author>Fabien Majéric</author>
+<author>Albert Cohen 0001</author>
+<author>Alexandre Berzati</author>
+<title>Studying EM Pulse Effects on Superscalar Microarchitectures at ISA Level.</title>
+<year>2019</year>
+<volume>abs/1903.02623</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.02623</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-02623</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/KiaeiMDHS19" mdate="2019-07-16">
+<author>Pantea Kiaei</author>
+<author>Darius Mercadier</author>
+<author>Pierre-Évariste Dagand</author>
+<author>Karine Heydemann</author>
+<author>Patrick Schaumont</author>
+<title>SKIVA: Flexible and Modular Side-channel and Fault Countermeasures.</title>
+<pages>756</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">https://eprint.iacr.org/2019/756</ee>
+<url>db/journals/iacr/iacr2019.html#KiaeiMDHS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsd/DangerFGHKMT18" mdate="2018-10-26">
+<author>Jean-Luc Danger</author>
+<author>Adrien Facon</author>
+<author>Sylvain Guilley</author>
+<author>Karine Heydemann</author>
+<author>Ulrich Kühne</author>
+<author>Abdelmalek Si-Merabet</author>
+<author>Michaël Timbert</author>
+<title>CCFI-Cache: A Transparent and Flexible Hardware Protection for Code and Control-Flow Integrity.</title>
+<pages>529-536</pages>
+<year>2018</year>
+<booktitle>DSD</booktitle>
+<crossref>conf/dsd/2018</crossref>
+<url>db/conf/dsd/dsd2018.html#DangerFGHKMT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipeac/CourousseBRBJPB18" mdate="2018-12-18">
+<author>Damien Couroussé</author>
+<author>Thierno Barry</author>
+<author>Bruno Robisson</author>
+<author>Nicolas Belleville</author>
+<author>Philippe Jaillon</author>
+<author>Olivier Potin</author>
+<author>Hélène Le Bouder</author>
+<author>Jean-Louis Lanet</author>
+<author>Karine Heydemann</author>
+<title>All paths lead to Rome: Polymorphic Runtime Code Generation for Embedded Systems.</title>
+<pages>17-18</pages>
+<year>2018</year>
+<booktitle>CS2@HiPEAC</booktitle>
+<crossref>conf/hipeac/2018cs</crossref>
+<url>db/conf/hipeac/cs2018.html#CourousseBRBJPB18</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/18/BellevilleHCBRSC18" mdate="2019-03-08">
+<author>Nicolas Belleville</author>
+<author>Karine Heydemann</author>
+<author>Damien Couroussé</author>
+<author>Thierno Barry</author>
+<author>Bruno Robisson</author>
+<author>Abderrahmane Seriai</author>
+<author>Henri-Pierre Charles</author>
+<title>Automatic Application of Software Countermeasures Against Physical Attacks.</title>
+<pages>135-155</pages>
+<year>2018</year>
+<booktitle>Cyber-Physical Systems Security</booktitle>
+<crossref>books/sp/K2018</crossref>
+<url>db/books/collections/K2018.html#BellevilleHCBRSC18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/iacr/BellevilleCHC18" mdate="2019-01-17">
+<author>Nicolas Belleville</author>
+<author>Damien Couroussé</author>
+<author>Karine Heydemann</author>
+<author>Henri-Pierre Charles</author>
+<title>Automated software protection for the masses against side-channel attacks.</title>
+<pages>1197</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">https://eprint.iacr.org/2018/1197</ee>
+<url>db/journals/iacr/iacr2018.html#BellevilleCHC18</url>
+</article>
+</r>
+<r><article key="journals/taco/ProyHBC17" mdate="2018-11-06">
+<author>Julien Proy</author>
+<author>Karine Heydemann</author>
+<author>Alexandre Berzati</author>
+<author>Albert Cohen 0001</author>
+<title>Compiler-Assisted Loop Hardening Against Fault Attacks.</title>
+<pages>36:1-36:25</pages>
+<year>2017</year>
+<volume>14</volume>
+<journal>TACO</journal>
+<number>4</number>
+<url>db/journals/taco/taco14.html#ProyHBC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ches/OuahmaMHE17" mdate="2018-05-14">
+<author>Inès Ben El Ouahma</author>
+<author>Quentin L. Meunier</author>
+<author>Karine Heydemann</author>
+<author>Emmanuelle Encrenaz</author>
+<title>Symbolic Approach for Side-Channel Resistance Analysis of Masked Assembly Codes.</title>
+<pages>17-32</pages>
+<year>2017</year>
+<booktitle>PROOFS@CHES</booktitle>
+<crossref>conf/ches/2017proofs</crossref>
+<url>db/conf/ches/proofs2017.html#OuahmaMHE17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEpact/DrebesPH0D16" mdate="2018-11-06">
+<author>Andi Drebes</author>
+<author orcid="0000-0002-7715-4281">Antoniu Pop</author>
+<author>Karine Heydemann</author>
+<author>Albert Cohen 0001</author>
+<author>Nathalie Drach</author>
+<title>Scalable Task Parallelism for NUMA: A Uniform Abstraction for Coordinated Scheduling and Memory Management.</title>
+<pages>125-137</pages>
+<year>2016</year>
+<booktitle>PACT</booktitle>
+<crossref>conf/IEEEpact/2016</crossref>
+<url>db/conf/IEEEpact/pact2016.html#DrebesPH0D16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispass/DrebesPH016" mdate="2017-06-15">
+<author>Andi Drebes</author>
+<author orcid="0000-0002-7715-4281">Antoniu Pop</author>
+<author>Karine Heydemann</author>
+<author>Albert Cohen 0001</author>
+<title>Interactive visualization of cross-layer performance anomalies in dynamic task-parallel applications and systems.</title>
+<pages>274-283</pages>
+<year>2016</year>
+<booktitle>ISPASS</booktitle>
+<crossref>conf/ispass/2016</crossref>
+<url>db/conf/ispass/ispass2016.html#DrebesPH016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwomp/DrebesBPH016" mdate="2017-06-15">
+<author>Andi Drebes</author>
+<author>Jean-Baptiste Bréjon</author>
+<author orcid="0000-0002-7715-4281">Antoniu Pop</author>
+<author>Karine Heydemann</author>
+<author>Albert Cohen 0001</author>
+<title>Language-Centric Performance Analysis of OpenMP Programs with Aftermath.</title>
+<pages>237-250</pages>
+<year>2016</year>
+<booktitle>IWOMP</booktitle>
+<crossref>conf/iwomp/2016</crossref>
+<url>db/conf/iwomp/iwomp2016.html#DrebesBPH016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/DrebesPHD016" mdate="2018-11-06">
+<author>Andi Drebes</author>
+<author orcid="0000-0002-7715-4281">Antoniu Pop</author>
+<author>Karine Heydemann</author>
+<author>Nathalie Drach</author>
+<author>Albert Cohen 0001</author>
+<title>NUMA-aware scheduling and memory allocation for data-flow task-parallel applications.</title>
+<pages>44:1-44:2</pages>
+<year>2016</year>
+<booktitle>PPOPP</booktitle>
+<crossref>conf/ppopp/2016</crossref>
+<url>db/conf/ppopp/ppopp2016.html#DrebesPHD016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cardis/GoubetHEK15" mdate="2017-05-23">
+<author>Lucien Goubet</author>
+<author>Karine Heydemann</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Ronald De Keulenaer</author>
+<title>Efficient Design and Evaluation of Countermeasures against Fault Attacks Using Formal Verification.</title>
+<pages>177-192</pages>
+<year>2015</year>
+<booktitle>CARDIS</booktitle>
+<crossref>conf/cardis/2015</crossref>
+<url>db/conf/cardis/cardis2015.html#GoubetHEK15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jce/MoroHER14" mdate="2017-05-26">
+<author>Nicolas Moro</author>
+<author>Karine Heydemann</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Bruno Robisson</author>
+<title>Formal verification of a software countermeasure against instruction skip attacks.</title>
+<pages>145-156</pages>
+<year>2014</year>
+<volume>4</volume>
+<journal>J. Cryptographic Engineering</journal>
+<number>3</number>
+<url>db/journals/jce/jce4.html#MoroHER14</url>
+</article>
+</r>
+<r><article key="journals/taco/DrebesHDPC14" mdate="2018-11-06">
+<author>Andi Drebes</author>
+<author>Karine Heydemann</author>
+<author>Nathalie Drach</author>
+<author>Antoniu Pop</author>
+<author>Albert Cohen 0001</author>
+<title>Topology-Aware and Dependence-Aware Scheduling and Memory Allocation for Task-Parallel Languages.</title>
+<pages>30:1-30:25</pages>
+<year>2014</year>
+<volume>11</volume>
+<journal>TACO</journal>
+<number>3</number>
+<url>db/journals/taco/taco11.html#DrebesHDPC14</url>
+</article>
+</r>
+<r><inproceedings key="conf/esorics/LalandeHB14" mdate="2019-10-31">
+<author orcid="0000-0003-4984-2199">Jean-François Lalande</author>
+<author>Karine Heydemann</author>
+<author>Pascal Berthomé</author>
+<title>Software Countermeasures for Control Flow Integrity of Smart Card C Codes.</title>
+<pages>200-218</pages>
+<year>2014</year>
+<booktitle>ESORICS (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-11212-1_12</ee>
+<crossref>conf/esorics/2014-2</crossref>
+<url>db/conf/esorics/esorics2014-2.html#LalandeHB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/MoroHDRE14" mdate="2019-02-07">
+<author>Nicolas Moro</author>
+<author>Karine Heydemann</author>
+<author>Amine Dehbaoui</author>
+<author>Bruno Robisson</author>
+<author>Emmanuelle Encrenaz</author>
+<title>Experimental evaluation of two software countermeasures against fault attacks.</title>
+<pages>112-117</pages>
+<year>2014</year>
+<booktitle>HOST</booktitle>
+<crossref>conf/host/2014</crossref>
+<url>db/conf/host/host2014.html#MoroHDRE14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MoroDHRE14" mdate="2018-08-13">
+<author>Nicolas Moro</author>
+<author>Amine Dehbaoui</author>
+<author>Karine Heydemann</author>
+<author>Bruno Robisson</author>
+<author>Emmanuelle Encrenaz</author>
+<title>Electromagnetic fault injection: towards a fault model on a 32-bit microcontroller.</title>
+<year>2014</year>
+<volume>abs/1402.6421</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1402.6421</ee>
+<url>db/journals/corr/corr1402.html#MoroDHRE14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MoroHER14" mdate="2018-08-13">
+<author>Nicolas Moro</author>
+<author>Karine Heydemann</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Bruno Robisson</author>
+<title>Formal verification of a software countermeasure against instruction skip attacks.</title>
+<year>2014</year>
+<volume>abs/1402.6461</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1402.6461</ee>
+<url>db/journals/corr/corr1402.html#MoroHER14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DrebesHPCD14" mdate="2018-08-13">
+<author>Andi Drebes</author>
+<author>Karine Heydemann</author>
+<author>Antoniu Pop</author>
+<author>Albert Cohen 0001</author>
+<author>Nathalie Drach</author>
+<title>Automatic Detection of Performance Anomalies in Task-Parallel Programs.</title>
+<year>2014</year>
+<volume>abs/1405.2916</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1405.2916</ee>
+<url>db/journals/corr/corr1405.html#DrebesHPCD14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MoroHDRE14" mdate="2018-08-13">
+<author>Nicolas Moro</author>
+<author>Karine Heydemann</author>
+<author>Amine Dehbaoui</author>
+<author>Bruno Robisson</author>
+<author>Emmanuelle Encrenaz</author>
+<title>Experimental evaluation of two software countermeasures against fault attacks.</title>
+<year>2014</year>
+<volume>abs/1407.6019</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.6019</ee>
+<url>db/journals/corr/corr1407.html#MoroHDRE14</url>
+</article>
+</r>
+<r><inproceedings key="conf/fdtc/MoroDHRE13" mdate="2017-05-17">
+<author>Nicolas Moro</author>
+<author>Amine Dehbaoui</author>
+<author>Karine Heydemann</author>
+<author>Bruno Robisson</author>
+<author>Emmanuelle Encrenaz</author>
+<title>Electromagnetic Fault Injection: Towards a Fault Model on a 32-bit Microcontroller.</title>
+<pages>77-88</pages>
+<year>2013</year>
+<booktitle>FDTC</booktitle>
+<crossref>conf/fdtc/2013</crossref>
+<url>db/conf/fdtc/fdtc2013.html#MoroDHRE13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/HeydemannMER13" mdate="2018-08-14">
+<author>Karine Heydemann</author>
+<author>Nicolas Moro</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Bruno Robisson</author>
+<title>Formal verification of a software countermeasure against instruction skip attacks.</title>
+<pages>679</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2013/679</ee>
+<url>db/journals/iacr/iacr2013.html#HeydemannMER13</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEares/BerthomeHKL12" mdate="2017-06-15">
+<author>Pascal Berthomé</author>
+<author>Karine Heydemann</author>
+<author>Xavier Kauffmann-Tourkestansky</author>
+<author orcid="0000-0003-4984-2199">Jean-François Lalande</author>
+<title>High Level Model of Control Flow Attacks for Smart Card Functional Security.</title>
+<pages>224-229</pages>
+<year>2012</year>
+<booktitle>ARES</booktitle>
+<crossref>conf/IEEEares/2012</crossref>
+<url>db/conf/IEEEares/ares2012.html#BerthomeHKL12</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/OzaktasH11" mdate="2017-05-20">
+<author>Haluk Ozaktas</author>
+<author>Karine Heydemann</author>
+<title>Compression de code pour processeurs haute performance.</title>
+<pages>1035-1059</pages>
+<year>2011</year>
+<volume>30</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>9</number>
+<url>db/journals/tsi/tsi30.html#OzaktasH11</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/GamoudiDH11" mdate="2017-05-24">
+<author>Oussama Gamoudi</author>
+<author>Nathalie Drach</author>
+<author>Karine Heydemann</author>
+<title>Using Runtime Activity to Dynamically Filter Out Inefficient Data Prefetches.</title>
+<pages>338-350</pages>
+<year>2011</year>
+<booktitle>Euro-Par (1)</booktitle>
+<crossref>conf/europar/2011-1</crossref>
+<url>db/conf/europar/europar2011-1.html#GamoudiDH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/BerthomeHKL10" mdate="2018-11-06">
+<author>Pascal Berthomé</author>
+<author>Karine Heydemann</author>
+<author>Xavier Kauffmann-Tourkestansky</author>
+<author orcid="0000-0003-4984-2199">Jean-François Lalande</author>
+<title>Attack model for verification of interval security properties for smart card C codes.</title>
+<pages>2</pages>
+<year>2010</year>
+<booktitle>PLAS</booktitle>
+<crossref>conf/pldi/2010plas</crossref>
+<url>db/conf/pldi/plas2010.html#BerthomeHKL10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1011-6031" mdate="2018-08-13">
+<author>Hugues Cassé</author>
+<author>Karine Heydemann</author>
+<author>Haluk Ozaktas</author>
+<author>Jonathan Ponroy</author>
+<author>Christine Rochange</author>
+<author>Olivier Zendra</author>
+<title>A framework to experiment optimizations for real-time and embedded software</title>
+<ee type="oa">http://arxiv.org/abs/1011.6031</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1011.6031</volume>
+<url>db/journals/corr/corr1011.html#abs-1011-6031</url>
+</article>
+</r>
+<r><article key="journals/tsi/CoveliersHD08" mdate="2017-05-20">
+<author>Alexandre Coveliers</author>
+<author>Karine Heydemann</author>
+<author>Nathalie Drach</author>
+<title>Étude de la sensibilité aux jeux de données de la compilation itérative.</title>
+<pages>757-777</pages>
+<year>2008</year>
+<volume>27</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>6</number>
+<url>db/journals/tsi/tsi27.html#CoveliersHD08</url>
+</article>
+</r>
+<r><article key="journals/concurrency/HeydemannBKM06" mdate="2017-05-20">
+<author>Karine Heydemann</author>
+<author>François Bodin</author>
+<author>Peter M. W. Knijnenburg</author>
+<author>Laurent Morin</author>
+<title>UFS: a global trade-off strategy for loop unrolling for VLIW architectures.</title>
+<pages>1413-1434</pages>
+<year>2006</year>
+<volume>18</volume>
+<journal>Concurrency and Computation: Practice and Experience</journal>
+<number>11</number>
+<url>db/journals/concurrency/concurrency18.html#HeydemannBKM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/scopes/HeydemannBC05" mdate="2018-11-06">
+<author>Karine Heydemann</author>
+<author>François Bodin</author>
+<author>Henri-Pierre Charles</author>
+<title>A Software-only Compression System for Trading-off Performance and Code Size.</title>
+<pages>27-36</pages>
+<year>2005</year>
+<crossref>conf/scopes/2005</crossref>
+<booktitle>SCOPES</booktitle>
+<url>db/conf/scopes/scopes2005.html#HeydemannBC05</url>
+</inproceedings>
+</r>
+<coauthors n="48" nc="4">
+<co c="0"><na f="b/Barry:Thierno">Thierno Barry</na></co>
+<co c="0"><na f="b/Belleville:Nicolas">Nicolas Belleville</na></co>
+<co c="3"><na f="b/Berthom=eacute=:Pascal">Pascal Berthomé</na></co>
+<co c="0"><na f="b/Berzati:Alexandre">Alexandre Berzati</na></co>
+<co c="0"><na f="b/Bodin:Fran=ccedil=ois">François Bodin</na></co>
+<co c="0"><na f="b/Bouder:H=eacute=l=egrave=ne_Le">Hélène Le Bouder</na></co>
+<co c="0"><na f="b/Br=eacute=jon:Jean=Baptiste">Jean-Baptiste Bréjon</na></co>
+<co c="1"><na f="c/Cass=eacute=:Hugues">Hugues Cassé</na></co>
+<co c="0"><na f="c/Charles:Henri=Pierre">Henri-Pierre Charles</na></co>
+<co c="0"><na f="c/Cohen_0001:Albert">Albert Cohen 0001</na></co>
+<co c="0"><na f="c/Courouss=eacute=:Damien">Damien Couroussé</na></co>
+<co c="0"><na f="c/Coveliers:Alexandre">Alexandre Coveliers</na></co>
+<co c="2"><na f="d/Dagand:Pierre==Eacute=variste">Pierre-Évariste Dagand</na></co>
+<co c="0"><na f="d/Danger:Jean=Luc">Jean-Luc Danger</na></co>
+<co c="0"><na f="d/Dehbaoui:Amine">Amine Dehbaoui</na></co>
+<co c="0" n="2"><na f="d/Drach=Temam:Nathalie">Nathalie Drach-Temam</na><na>Nathalie Drach</na></co>
+<co c="0"><na f="d/Drebes:Andi">Andi Drebes</na></co>
+<co c="0" n="2"><na f="e/Encrenaz=Tiph=egrave=ne:Emmanuelle">Emmanuelle Encrenaz-Tiphène</na><na>Emmanuelle Encrenaz</na></co>
+<co c="0"><na f="f/Facon:Adrien">Adrien Facon</na></co>
+<co c="0"><na f="g/Gamoudi:Oussama">Oussama Gamoudi</na></co>
+<co c="0"><na f="g/Goubet:Lucien">Lucien Goubet</na></co>
+<co c="0"><na f="g/Guilley:Sylvain">Sylvain Guilley</na></co>
+<co c="0"><na f="j/Jaillon:Philippe">Philippe Jaillon</na></co>
+<co c="3"><na f="k/Kauffmann=Tourkestansky:Xavier">Xavier Kauffmann-Tourkestansky</na></co>
+<co c="0"><na f="k/Keulenaer:Ronald_De">Ronald De Keulenaer</na></co>
+<co c="2"><na f="k/Kiaei:Pantea">Pantea Kiaei</na></co>
+<co c="0"><na f="k/Knijnenburg:Peter_M=_W=">Peter M. W. Knijnenburg</na></co>
+<co c="0"><na f="k/K=uuml=hne:Ulrich">Ulrich Kühne</na></co>
+<co c="3"><na f="l/Lalande:Jean=Fran=ccedil=ois">Jean-François Lalande</na></co>
+<co c="0"><na f="l/Lanet:Jean=Louis">Jean-Louis Lanet</na></co>
+<co c="0"><na f="m/Maj=eacute=ric:Fabien">Fabien Majéric</na></co>
+<co c="2"><na f="m/Mercadier:Darius">Darius Mercadier</na></co>
+<co c="0"><na f="m/Meunier:Quentin_L=">Quentin L. Meunier</na></co>
+<co c="0"><na f="m/Morin:Laurent">Laurent Morin</na></co>
+<co c="0"><na f="m/Moro:Nicolas">Nicolas Moro</na></co>
+<co c="0"><na f="o/Ouahma:In=egrave=s_Ben_El">Inès Ben El Ouahma</na></co>
+<co c="1"><na f="o/Ozaktas:Haluk">Haluk Ozaktas</na></co>
+<co c="1"><na f="p/Ponroy:Jonathan">Jonathan Ponroy</na></co>
+<co c="0"><na f="p/Pop:Antoniu">Antoniu Pop</na></co>
+<co c="0"><na f="p/Potin:Olivier">Olivier Potin</na></co>
+<co c="0"><na f="p/Proy:Julien">Julien Proy</na></co>
+<co c="0"><na f="r/Robisson:Bruno">Bruno Robisson</na></co>
+<co c="1"><na f="r/Rochange:Christine">Christine Rochange</na></co>
+<co c="2"><na f="s/Schaumont:Patrick">Patrick Schaumont</na></co>
+<co c="0"><na f="s/Seriai:Abderrahmane">Abderrahmane Seriai</na></co>
+<co c="0"><na f="s/Si=Merabet:Abdelmalek">Abdelmalek Si-Merabet</na></co>
+<co c="0"><na f="t/Timbert:Micha=euml=l">Michaël Timbert</na></co>
+<co c="1"><na f="z/Zendra:Olivier">Olivier Zendra</na></co>
+</coauthors>
+</dblpperson>
+

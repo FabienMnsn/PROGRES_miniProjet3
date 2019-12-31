@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Emmanuel Paviot-Adet" n="16">
+<person key="homepages/21/3939" mdate="2009-06-10">
+<author>Emmanuel Paviot-Adet</author>
+</person>
+<r><inproceedings key="conf/tacas/AmparoreBCDGHHJ19" mdate="2019-10-19">
+<author>Elvio Gilberto Amparore</author>
+<author>Bernard Berthomieu</author>
+<author>Gianfranco Ciardo</author>
+<author orcid="0000-0002-6002-2696">Silvano Dal-Zilio</author>
+<author>Francesco Gallà</author>
+<author>Lom-Messan Hillah</author>
+<author>Francis Hulin-Hubard</author>
+<author orcid="0000-0002-9320-9991">Peter Gjøl Jensen</author>
+<author>Loïg Jezequel</author>
+<author>Fabrice Kordon</author>
+<author>Didier Le Botlan</author>
+<author>Torsten Liebke</author>
+<author>Jeroen Meijer</author>
+<author>Andrew S. Miner</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Jirí Srba</author>
+<author>Yann Thierry-Mieg</author>
+<author>Tom van Dijk</author>
+<author>Karsten Wolf</author>
+<title>Presentation of the 9th Edition of the Model Checking Contest.</title>
+<pages>50-68</pages>
+<year>2019</year>
+<booktitle>TACAS (3)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-17502-3_4</ee>
+<crossref>conf/tacas/2019-3</crossref>
+<url>db/conf/tacas/tacas2019-3.html#AmparoreBCDGHHJ19</url>
+</inproceedings>
+</r>
+<r><article key="journals/topnoc/KordonGHPJHABBEJBLMSTPW18" mdate="2019-10-19">
+<author>Fabrice Kordon</author>
+<author>Hubert Garavel</author>
+<author>Lom-Messan Hillah</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Loïg Jezequel</author>
+<author>Francis Hulin-Hubard</author>
+<author>Elvio Gilberto Amparore</author>
+<author orcid="0000-0001-6125-9460">Marco Beccuti</author>
+<author>Bernard Berthomieu</author>
+<author>Hugues Evrard</author>
+<author orcid="0000-0002-9320-9991">Peter Gjøl Jensen</author>
+<author>Didier Le Botlan</author>
+<author>Torsten Liebke</author>
+<author>Jeroen Meijer</author>
+<author>Jirí Srba</author>
+<author>Yann Thierry-Mieg</author>
+<author>Jaco van de Pol</author>
+<author>Karsten Wolf</author>
+<title>MCC'2017 - The Seventh Model Checking Contest.</title>
+<pages>181-209</pages>
+<year>2018</year>
+<volume>13</volume>
+<journal>T. Petri Nets and Other Models of Concurrency</journal>
+<crossref>journals/topnoc/2018-13</crossref>
+<url>db/journals/topnoc/topnoc13.html#KordonGHPJHABBEJBLMSTPW18</url>
+</article>
+</r>
+<r><article key="journals/topnoc/KordonGHPJRH16" mdate="2017-05-18">
+<author>Fabrice Kordon</author>
+<author>Hubert Garavel</author>
+<author>Lom-Messan Hillah</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Loïg Jezequel</author>
+<author>César Rodríguez</author>
+<author>Francis Hulin-Hubard</author>
+<title>MCC'2015 - The Fifth Model Checking Contest.</title>
+<pages>262-273</pages>
+<year>2016</year>
+<volume>11</volume>
+<journal>T. Petri Nets and Other Models of Concurrency</journal>
+<crossref>journals/topnoc/2016-11</crossref>
+<url>db/journals/topnoc/topnoc11.html#KordonGHPJRH16</url>
+</article>
+</r>
+<r><inproceedings key="conf/webist/KermaniBP14" mdate="2017-05-21">
+<author>Meriem Kermani</author>
+<author>Mahmoud Boufaïda</author>
+<author>Emmanuel Paviot-Adet</author>
+<title>A Model to Specify Inter-company Cooperation.</title>
+<pages>318-323</pages>
+<year>2014</year>
+<booktitle>WEBIST (1)</booktitle>
+<crossref>conf/webist/2014-1</crossref>
+<url>db/conf/webist/webist2014-1.html#KermaniBP14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KordonLBBFHHLLMPPRRTWW13" mdate="2018-08-13">
+<author>Fabrice Kordon</author>
+<author>Alban Linard</author>
+<author>Marco Beccuti</author>
+<author>Didier Buchs</author>
+<author>Lukasz Fronc</author>
+<author>Lom-Messan Hillah</author>
+<author>Francis Hulin-Hubard</author>
+<author>Fabrice Legond-Aubry</author>
+<author>Niels Lohmann</author>
+<author>Alexis Marechal</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Franck Pommereau</author>
+<author>César Rodríguez</author>
+<author>Christian Rohr</author>
+<author>Yann Thierry-Mieg</author>
+<author>Harro Wimmel</author>
+<author>Karsten Wolf</author>
+<title>Model Checking Contest @ Petri Nets, Report on the 2013 edition.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.2485</ee>
+<volume>abs/1309.2485</volume>
+<url>db/journals/corr/corr1309.html#KordonLBBFHHLLMPPRRTWW13</url>
+</article>
+</r>
+<r><article key="journals/topnoc/HongKPE12" mdate="2017-05-18">
+<author>Silien Hong</author>
+<author>Fabrice Kordon</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Sami Evangelista</author>
+<title>Computing a Hierarchical Static Order for Decision Diagram-Based Representation from P/T Nets.</title>
+<pages>121-140</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Trans. Petri Nets and Other Models of Concurrency</journal>
+<crossref>journals/topnoc/2012-5</crossref>
+<url>db/journals/topnoc/topnoc5.html#HongKPE12</url>
+</article>
+</r>
+<r><article key="journals/topnoc/KordonLBCELLPTW12" mdate="2018-11-02">
+<author>Fabrice Kordon</author>
+<author>Alban Linard</author>
+<author>Didier Buchs</author>
+<author>Maximilien Colange</author>
+<author>Sami Evangelista</author>
+<author>Kai Lampka</author>
+<author>Niels Lohmann</author>
+<author>Emmanuel Paviot-Adet</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Harro Wimmel</author>
+<title>Report on the Model Checking Contest at Petri Nets 2011.</title>
+<pages>169-196</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Trans. Petri Nets and Other Models of Concurrency</journal>
+<crossref>journals/topnoc/2012-6</crossref>
+<url>db/journals/topnoc/topnoc6.html#KordonLBCELLPTW12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1209-2382" mdate="2018-08-13">
+<author>Fabrice Kordon</author>
+<author>Alban Linard</author>
+<author>Didier Buchs</author>
+<author>Maximilien Colange</author>
+<author>Sami Evangelista</author>
+<author>Lukasz Fronc</author>
+<author>Lom-Messan Hillah</author>
+<author>Niels Lohmann</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Franck Pommereau</author>
+<author>Christian Rohr</author>
+<author>Yann Thierry-Mieg</author>
+<author>Harro Wimmel</author>
+<author>Karsten Wolf</author>
+<title>Raw Report on the Model Checking Contest at Petri Nets 2012</title>
+<ee type="oa">http://arxiv.org/abs/1209.2382</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1209.2382</volume>
+<url>db/journals/corr/corr1209.html#abs-1209-2382</url>
+</article>
+</r>
+<r><inproceedings key="conf/acsd/LinardPKBC10" mdate="2017-05-25">
+<author>Alban Linard</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Fabrice Kordon</author>
+<author>Didier Buchs</author>
+<author>Samuel Charron</author>
+<title>polyDD: Towards a Framework Generalizing Decision Diagrams.</title>
+<pages>124-133</pages>
+<year>2010</year>
+<booktitle>ACSD</booktitle>
+<crossref>conf/acsd/2010</crossref>
+<url>db/conf/acsd/acsd2010.html#LinardPKBC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acsd/HamezHLMPR10" mdate="2019-05-28">
+<author>Alexandre Hamez</author>
+<author>Steve Hostettler</author>
+<author>Alban Linard</author>
+<author>Alexis Marechal</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Matteo Risoldi</author>
+<title>Specification of Decision Diagram Operations.</title>
+<pages>437-451</pages>
+<year>2010</year>
+<booktitle>ACSD/Petri Nets Workshops</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-827/33_AlexandreHamez_article.pdf</ee>
+<crossref>conf/acsd/2010w</crossref>
+<url>db/conf/acsd/acsd2010w.html#HamezHLMPR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/CiardoMPW09" mdate="2017-05-26">
+<author>Gianfranco Ciardo</author>
+<author>Galen Mecham</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Min Wan</author>
+<title>P-Semiflow Computation with Decision Diagrams.</title>
+<pages>143-162</pages>
+<year>2009</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2009</crossref>
+<url>db/conf/apn/pn2009.html#CiardoMPW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acsd/HamezHKLPRT06" mdate="2017-05-25">
+<author>Alexandre Hamez</author>
+<author>Lom Hillah</author>
+<author>Fabrice Kordon</author>
+<author>Alban Linard</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Xavier Renault</author>
+<author>Yann Thierry-Mieg</author>
+<title>New features in CPN-AMI 3: focusing on the analysis of complex distributed systems.</title>
+<pages>273-275</pages>
+<year>2006</year>
+<crossref>conf/acsd/2006</crossref>
+<booktitle>ACSD</booktitle>
+<url>db/conf/acsd/acsd2006.html#HamezHKLPRT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/KordonLP06" mdate="2018-06-26">
+<author>Fabrice Kordon</author>
+<author>Alban Linard</author>
+<author>Emmanuel Paviot-Adet</author>
+<title>Optimized Colored Nets Unfolding.</title>
+<pages>339-355</pages>
+<year>2006</year>
+<crossref>conf/forte/2006</crossref>
+<booktitle>FORTE</booktitle>
+<ee type="oa">https://doi.org/10.1007/11888116_25</ee>
+<url>db/conf/forte/forte2006.html#KordonLP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/CouvreurEPPW02" mdate="2017-05-26">
+<author>Jean-Michel Couvreur</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Denis Poitrenaud</author>
+<author>Pierre-André Wacrenier</author>
+<title>Data Decision Diagrams for Petri Net Analysis.</title>
+<pages>101-120</pages>
+<year>2002</year>
+<crossref>conf/apn/2002</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn2002.html#CouvreurEPPW02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hase/GrootHKPVLGWK01" mdate="2017-05-25">
+<author>Adriaan de Groot</author>
+<author>Jozef Hooman</author>
+<author>Fabrice Kordon</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Isabelle Vernier-Mounier</author>
+<author>Michel Lemoine</author>
+<author>Gervais Gaudiére</author>
+<author>Victor L. Winter</author>
+<author>Deepak Kapur</author>
+<title>A Survey: Applying Formal Methods to a Software Intensive System.</title>
+<pages>55-64</pages>
+<year>2001</year>
+<crossref>conf/hase/2001</crossref>
+<booktitle>HASE</booktitle>
+<url>db/conf/hase/hase2001.html#GrootHKPVLGWK01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/CouvreurP94" mdate="2017-05-20">
+<author>Jean-Michel Couvreur</author>
+<author>Emmanuel Paviot-Adet</author>
+<title>New Structural Invariants for Petri Nets Analysis.</title>
+<pages>199-218</pages>
+<year>1994</year>
+<crossref>conf/apn/1994</crossref>
+<booktitle>Application and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn1994.html#CouvreurP94</url>
+</inproceedings>
+</r>
+<coauthors n="56" nc="1">
+<co c="0"><na f="a/Amparore:Elvio_Gilberto">Elvio Gilberto Amparore</na></co>
+<co c="0"><na f="b/Beccuti:Marco">Marco Beccuti</na></co>
+<co c="0"><na f="b/Berthomieu:Bernard">Bernard Berthomieu</na></co>
+<co c="0"><na f="b/Botlan:Didier_Le">Didier Le Botlan</na></co>
+<co c="0"><na f="b/Boufa=iuml=da:Mahmoud">Mahmoud Boufaïda</na></co>
+<co c="0"><na f="b/Buchs:Didier">Didier Buchs</na></co>
+<co c="0"><na f="c/Charron:Samuel">Samuel Charron</na></co>
+<co c="0"><na f="c/Ciardo:Gianfranco">Gianfranco Ciardo</na></co>
+<co c="0"><na f="c/Colange:Maximilien">Maximilien Colange</na></co>
+<co c="0"><na f="c/Couvreur:Jean=Michel">Jean-Michel Couvreur</na></co>
+<co c="0"><na f="d/Dal=Zilio:Silvano">Silvano Dal-Zilio</na></co>
+<co c="0"><na f="d/Dijk:Tom_van">Tom van Dijk</na></co>
+<co c="0" n="2"><na f="e/Encrenaz=Tiph=egrave=ne:Emmanuelle">Emmanuelle Encrenaz-Tiphène</na><na>Emmanuelle Encrenaz</na></co>
+<co c="0"><na f="e/Evangelista:Sami">Sami Evangelista</na></co>
+<co c="0"><na f="e/Evrard:Hugues">Hugues Evrard</na></co>
+<co c="0"><na f="f/Fronc:Lukasz">Lukasz Fronc</na></co>
+<co c="0"><na f="g/Gall=agrave=:Francesco">Francesco Gallà</na></co>
+<co c="0"><na f="g/Garavel:Hubert">Hubert Garavel</na></co>
+<co c="0"><na f="g/Gaudi=eacute=re:Gervais">Gervais Gaudiére</na></co>
+<co c="0"><na f="g/Groot:Adriaan_de">Adriaan de Groot</na></co>
+<co c="0"><na f="h/Hamez:Alexandre">Alexandre Hamez</na></co>
+<co c="0" n="2"><na f="h/Hillah:Lom=Messan">Lom-Messan Hillah</na><na>Lom Hillah</na></co>
+<co c="0"><na f="h/Hong:Silien">Silien Hong</na></co>
+<co c="0"><na f="h/Hooman:Jozef">Jozef Hooman</na></co>
+<co c="0"><na f="h/Hostettler:Steve">Steve Hostettler</na></co>
+<co c="0"><na f="h/Hulin=Hubard:Francis">Francis Hulin-Hubard</na></co>
+<co c="0"><na f="j/Jensen:Peter_Gj=oslash=l">Peter Gjøl Jensen</na></co>
+<co c="0"><na f="j/Jezequel:Lo=iuml=g">Loïg Jezequel</na></co>
+<co c="0"><na f="k/Kapur:Deepak">Deepak Kapur</na></co>
+<co c="0"><na f="k/Kermani:Meriem">Meriem Kermani</na></co>
+<co c="0"><na f="k/Kordon:Fabrice">Fabrice Kordon</na></co>
+<co c="0"><na f="l/Lampka:Kai">Kai Lampka</na></co>
+<co c="0"><na f="l/Legond=Aubry:Fabrice">Fabrice Legond-Aubry</na></co>
+<co c="0"><na f="l/Lemoine:Michel">Michel Lemoine</na></co>
+<co c="0"><na f="l/Liebke:Torsten">Torsten Liebke</na></co>
+<co c="0"><na f="l/Linard:Alban">Alban Linard</na></co>
+<co c="0"><na f="l/Lohmann:Niels">Niels Lohmann</na></co>
+<co c="0"><na f="m/Marechal:Alexis">Alexis Marechal</na></co>
+<co c="0"><na f="m/Mecham:Galen">Galen Mecham</na></co>
+<co c="0"><na f="m/Meijer:Jeroen">Jeroen Meijer</na></co>
+<co c="0"><na f="m/Miner:Andrew_S=">Andrew S. Miner</na></co>
+<co c="0" n="2"><na f="m/Mounier:Isabelle">Isabelle Mounier</na><na>Isabelle Vernier-Mounier</na></co>
+<co c="0"><na f="p/Poitrenaud:Denis">Denis Poitrenaud</na></co>
+<co c="0"><na f="p/Pol:Jaco_van_de">Jaco van de Pol</na></co>
+<co c="0"><na f="p/Pommereau:Franck">Franck Pommereau</na></co>
+<co c="0"><na f="r/Renault:Xavier">Xavier Renault</na></co>
+<co c="0"><na f="r/Risoldi:Matteo">Matteo Risoldi</na></co>
+<co c="0"><na f="r/Rodr=iacute=guez:C=eacute=sar">César Rodríguez</na></co>
+<co c="0"><na f="r/Rohr:Christian">Christian Rohr</na></co>
+<co c="0"><na f="s/Srba:Jir=iacute=">Jirí Srba</na></co>
+<co c="0"><na f="t/Thierry=Mieg:Yann">Yann Thierry-Mieg</na></co>
+<co c="0"><na f="w/Wacrenier:Pierre=Andr=eacute=">Pierre-André Wacrenier</na></co>
+<co c="0"><na f="w/Wan:Min">Min Wan</na></co>
+<co c="0"><na f="w/Wimmel:Harro">Harro Wimmel</na></co>
+<co c="0"><na f="w/Winter:Victor_L=">Victor L. Winter</na></co>
+<co c="0"><na f="w/Wolf:Karsten">Karsten Wolf</na></co>
+</coauthors>
+</dblpperson>
+

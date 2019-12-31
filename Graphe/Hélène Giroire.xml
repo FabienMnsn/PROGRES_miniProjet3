@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Hélène Giroire" n="11">
+<person key="homepages/54/485" mdate="2009-06-09">
+<author>Hélène Giroire</author>
+</person>
+<r><inproceedings key="conf/fie/RodriguesBNRBGA13" mdate="2019-02-07">
+<author>Jose Roberto A. Rodrigues</author>
+<author>Leônidas de Oliveira Brandão</author>
+<author>Mauricio G. F. Nascimento</author>
+<author>Patricia Alves Rodrigues</author>
+<author orcid="0000-0001-8992-4768">Anarosa A. F. Brandão</author>
+<author>Hélène Giroire</author>
+<author>Odette Auzende</author>
+<title>iQuiz: Integrated assessment environment to improve Moodle Quiz.</title>
+<pages>293-295</pages>
+<year>2013</year>
+<booktitle>FIE</booktitle>
+<crossref>conf/fie/2013</crossref>
+<url>db/conf/fie/fie2013.html#RodriguesBNRBGA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/AuzendeGC13" mdate="2017-05-23">
+<author>Odette Auzende</author>
+<author>Hélène Giroire</author>
+<author>Françoise Le Calvez</author>
+<title>Error Driven Adaptive Training Sequences.</title>
+<pages>219-220</pages>
+<year>2013</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2013</crossref>
+<url>db/conf/icalt/icalt2013.html#AuzendeGC13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijlt/AuzendeGC12" mdate="2017-05-09">
+<author>Odette Auzende</author>
+<author>Hélène Giroire</author>
+<author>Françoise Le Calvez</author>
+<title>A practical approach to using the IMS-QTI specification.</title>
+<pages>353-377</pages>
+<year>2012</year>
+<volume>7</volume>
+<journal>IJLT</journal>
+<number>4</number>
+<url>db/journals/ijlt/ijlt7.html#AuzendeGC12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalt/AuzendeGC09" mdate="2017-05-23">
+<author>Odette Auzende</author>
+<author>Hélène Giroire</author>
+<author>Françoise Le Calvez</author>
+<title>Using Competencies to Search for Suitable Exercises.</title>
+<pages>661-665</pages>
+<year>2009</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2009</crossref>
+<url>db/conf/icalt/icalt2009.html#AuzendeGC09</url>
+</inproceedings>
+</r>
+<r><article key="journals/aiedu/CalvezGT08" mdate="2015-05-18">
+<author>Françoise Le Calvez</author>
+<author>Hélène Giroire</author>
+<author>Gérard Tisseau</author>
+<title>Design of a Learning Environment in Combinatorics based on Problem Solving: Modeling Activities, Problems and Errors.</title>
+<pages>59-94</pages>
+<year>2008</year>
+<volume>18</volume>
+<journal>I. J. Artificial Intelligence in Education</journal>
+<number>1</number>
+<url>db/journals/aiedu/aiedu18.html#CalvezGT08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalt/AuzendeGC08" mdate="2017-05-23">
+<author>Odette Auzende</author>
+<author>Hélène Giroire</author>
+<author>Françoise Le Calvez</author>
+<title>Towards Dynamic and Interoperable Educational Contents: Creating an Editorial Chain.</title>
+<pages>917-921</pages>
+<year>2008</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2008</crossref>
+<url>db/conf/icalt/icalt2008.html#AuzendeGC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/CalvezG08" mdate="2017-05-21">
+<author>Françoise Le Calvez</author>
+<author>Hélène Giroire</author>
+<title>Integration of a Complex Learning Object in a Web-Based Interactive Learning System.</title>
+<pages>813-815</pages>
+<year>2008</year>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<crossref>conf/its/2008</crossref>
+<url>db/conf/its/its2008.html#CalvezG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/AuzendeGC07" mdate="2009-02-12">
+<author>Odette Auzende</author>
+<author>Hélène Giroire</author>
+<author>Françoise Le Calvez</author>
+<title>Extension of IMS-QTI to Express Constraints on Template Variables in Mathematics Exercises.</title>
+<pages>524-526</pages>
+<year>2007</year>
+<booktitle>AIED</booktitle>
+<crossref>conf/aied/2007</crossref>
+<url>db/conf/aied/aied2007.html#AuzendeGC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/GiroireCT06" mdate="2017-05-10">
+<author>Hélène Giroire</author>
+<author>Françoise Le Calvez</author>
+<author>Gérard Tisseau</author>
+<title>Benefits of Knowledge-Based Interactive Learning Environments: A Case in Combinatorics.</title>
+<pages>285-289</pages>
+<year>2006</year>
+<crossref>conf/icalt/2006</crossref>
+<booktitle>ICALT</booktitle>
+<url>db/conf/icalt/icalt2006.html#GiroireCT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/GiroireCDTU02" mdate="2017-05-21">
+<author>Hélène Giroire</author>
+<author>Françoise Le Calvez</author>
+<author>Jacques Duma</author>
+<author>Gérard Tisseau</author>
+<author>Marie Urtasun</author>
+<title>Targeted Detection: Application to Error Detection in a Pedagogical System.</title>
+<pages>998</pages>
+<year>2002</year>
+<crossref>conf/its/2002</crossref>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<url>db/conf/its/its2002.html#GiroireCDTU02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/TisseauGCUD00" mdate="2017-05-21">
+<author>Gérard Tisseau</author>
+<author>Hélène Giroire</author>
+<author>Françoise Le Calvez</author>
+<author>Marie Urtasun</author>
+<author>Jacques Duma</author>
+<title>Design Principles for a System to Teach Problem Solving by Modelling.</title>
+<pages>393-402</pages>
+<year>2000</year>
+<crossref>conf/its/2000</crossref>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<url>db/conf/its/its2000.html#TisseauGCUD00</url>
+</inproceedings>
+</r>
+<coauthors n="10" nc="1">
+<co c="0"><na f="a/Auzende:Odette">Odette Auzende</na></co>
+<co c="0"><na f="b/Brand=atilde=o:Anarosa_A=_F=">Anarosa A. F. Brandão</na></co>
+<co c="0"><na f="b/Brand=atilde=o:Le=ocirc=nidas_de_Oliveira">Leônidas de Oliveira Brandão</na></co>
+<co c="0"><na f="c/Calvez:Fran=ccedil=oise_Le">Françoise Le Calvez</na></co>
+<co c="0"><na f="d/Duma:Jacques">Jacques Duma</na></co>
+<co c="0"><na f="n/Nascimento:Mauricio_G=_F=">Mauricio G. F. Nascimento</na></co>
+<co c="0"><na f="r/Rodrigues:Jose_Roberto_A=">Jose Roberto A. Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Patricia_Alves">Patricia Alves Rodrigues</na></co>
+<co c="0"><na f="t/Tisseau:G=eacute=rard">Gérard Tisseau</na></co>
+<co c="0"><na f="u/Urtasun:Marie">Marie Urtasun</na></co>
+</coauthors>
+</dblpperson>
+

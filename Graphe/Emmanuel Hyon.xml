@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Emmanuel Hyon" n="9">
+<person key="homepages/99/1160" mdate="2009-06-09">
+<author>Emmanuel Hyon</author>
+</person>
+<r><inproceedings key="conf/mascots/TournaireCHH19" mdate="2019-10-31">
+<author>Thomas Tournaire</author>
+<author>Hind Castel-Taleb</author>
+<author>Emmanuel Hyon</author>
+<author>Toussaint Hoche</author>
+<title>Generating Optimal Thresholds in a Hysteresis Queue: Application to a Cloud Model.</title>
+<pages>283-294</pages>
+<year>2019</year>
+<booktitle>MASCOTS</booktitle>
+<crossref>conf/mascots/2019</crossref>
+<url>db/conf/mascots/mascots2019.html#TournaireCHH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/epew/KandiACH17" mdate="2018-07-30">
+<author>Mohamed Mehdi Kandi</author>
+<author>Farah Aït-Salaht</author>
+<author>Hind Castel-Taleb</author>
+<author>Emmanuel Hyon</author>
+<title>Analysis of Performance and Energy Consumption in the Cloud.</title>
+<pages>199-213</pages>
+<year>2017</year>
+<booktitle>EPEW</booktitle>
+<crossref>conf/epew/2017</crossref>
+<url>db/conf/epew/epew2017.html#KandiACH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/CoucheneyHK13" mdate="2017-05-25">
+<author>Pierre Coucheney</author>
+<author>Emmanuel Hyon</author>
+<author>Jean Marc Kelif</author>
+<title>Mobile association problem in heterogenous wireless networks with mobility.</title>
+<pages>3129-3133</pages>
+<year>2013</year>
+<booktitle>PIMRC</booktitle>
+<crossref>conf/pimrc/2013</crossref>
+<url>db/conf/pimrc/pimrc2013.html#CoucheneyHK13</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/HyonJ12" mdate="2017-05-20">
+<author>Emmanuel Hyon</author>
+<author>Alain Jean-Marie</author>
+<title>Scheduling Services in a Queuing System with Impatience and Setup Costs.</title>
+<pages>553-563</pages>
+<year>2012</year>
+<volume>55</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj55.html#HyonJ12</url>
+</article>
+</r>
+<r><inproceedings key="conf/vtc/CoucheneyHT12" mdate="2017-05-21">
+<author>Pierre Coucheney</author>
+<author>Emmanuel Hyon</author>
+<author>Corinne Touati</author>
+<title>Admission and Allocation Policies in Heterogeneous Wireless Networks with Handover.</title>
+<pages>1-5</pages>
+<year>2012</year>
+<booktitle>VTC Spring</booktitle>
+<crossref>conf/vtc/2012s</crossref>
+<url>db/conf/vtc/vtc2012s.html#CoucheneyHT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/epew/WieczorekBH11" mdate="2017-06-15">
+<author>Aleksander Wieczorek</author>
+<author orcid="0000-0002-4133-3739">Ana Busic</author>
+<author>Emmanuel Hyon</author>
+<title>Critical Level Policies in Lost Sales Inventory Systems with Different Demand Classes.</title>
+<pages>204-218</pages>
+<year>2011</year>
+<booktitle>EPEW</booktitle>
+<crossref>conf/epew/2011</crossref>
+<url>db/conf/epew/epew2011.html#WieczorekBH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscis/Jean-MarieH10" mdate="2017-05-26">
+<author>Alain Jean-Marie</author>
+<author>Emmanuel Hyon</author>
+<title>Scheduling services in a queuing system with impatience and setup costs.</title>
+<pages>45-50</pages>
+<year>2010</year>
+<booktitle>ISCIS</booktitle>
+<crossref>conf/iscis/2010</crossref>
+<url>db/conf/iscis/iscis2010.html#Jean-MarieH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/valuetools/CoucheneyHTG09" mdate="2017-05-24">
+<author>Pierre Coucheney</author>
+<author>Emmanuel Hyon</author>
+<author>Corinne Touati</author>
+<author>Bruno Gaujal</author>
+<title>Myopic versus clairvoyant admission policies in wireless networks.</title>
+<pages>62</pages>
+<year>2009</year>
+<booktitle>VALUETOOLS</booktitle>
+<crossref>conf/valuetools/2009</crossref>
+<url>db/conf/valuetools/valuetools2009.html#CoucheneyHTG09</url>
+</inproceedings>
+</r>
+<r><article key="journals/deds/GaujalHJ06" mdate="2017-05-27">
+<author>Bruno Gaujal</author>
+<author>Emmanuel Hyon</author>
+<author>Alain Jean-Marie</author>
+<title>Optimal Routing in Two Parallel Queues with Exponential Service Times.</title>
+<pages>71-107</pages>
+<year>2006</year>
+<volume>16</volume>
+<journal>Discrete Event Dynamic Systems</journal>
+<number>1</number>
+<url>db/journals/deds/deds16.html#GaujalHJ06</url>
+</article>
+</r>
+<coauthors n="12" nc="2">
+<co c="1"><na f="a/A=iuml=t=Salaht:Farah">Farah Aït-Salaht</na></co>
+<co c="0"><na f="b/Busic:Ana">Ana Busic</na></co>
+<co c="1"><na f="c/Castel=Taleb:Hind">Hind Castel-Taleb</na></co>
+<co c="0"><na f="c/Coucheney:Pierre">Pierre Coucheney</na></co>
+<co c="0"><na f="g/Gaujal:Bruno">Bruno Gaujal</na></co>
+<co c="1"><na f="h/Hoche:Toussaint">Toussaint Hoche</na></co>
+<co c="0"><na f="j/Jean=Marie:Alain">Alain Jean-Marie</na></co>
+<co c="1"><na f="k/Kandi:Mohamed_Mehdi">Mohamed Mehdi Kandi</na></co>
+<co c="0"><na f="k/Kelif:Jean_Marc">Jean Marc Kelif</na></co>
+<co c="0"><na f="t/Touati:Corinne">Corinne Touati</na></co>
+<co c="1"><na f="t/Tournaire:Thomas">Thomas Tournaire</na></co>
+<co c="0"><na f="w/Wieczorek:Aleksander">Aleksander Wieczorek</na></co>
+</coauthors>
+</dblpperson>
+

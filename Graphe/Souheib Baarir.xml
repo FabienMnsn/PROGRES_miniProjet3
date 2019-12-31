@@ -1,0 +1,512 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Souheib Baarir" n="34">
+<person key="homepages/76/2574" mdate="2009-06-09">
+<author>Souheib Baarir</author>
+</person>
+<r><article key="journals/scp/TiganeKBBB19" mdate="2019-12-27">
+<author>Samir Tigane</author>
+<author orcid="0000-0002-9739-7715">Laïd Kahloul</author>
+<author>Saber Benharzallah</author>
+<author>Souheib Baarir</author>
+<author>Samir Bourekkache</author>
+<title>Reconfigurable GSPNs: A modeling formalism of evolvable discrete-event systems.</title>
+<year>2019</year>
+<volume>183</volume>
+<journal>Sci. Comput. Program.</journal>
+<url>db/journals/scp/scp183.html#TiganeKBBB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/bpm/HouhouBPQ19" mdate="2019-08-23">
+<author>Sara Houhou</author>
+<author>Souheib Baarir</author>
+<author>Pascal Poizat</author>
+<author>Philippe Quéinnec</author>
+<title>A First-Order Logic Semantics for Communication-Parametric BPMN Collaborations.</title>
+<pages>52-68</pages>
+<year>2019</year>
+<booktitle>BPM</booktitle>
+<crossref>conf/bpm/2019</crossref>
+<url>db/conf/bpm/bpm2019.html#HouhouBPQ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfm/MetinBK19" mdate="2019-05-28">
+<author>Hakan Metin</author>
+<author>Souheib Baarir</author>
+<author>Fabrice Kordon</author>
+<title>Composing Symmetry Propagation and Effective Symmetry Breaking for SAT Solving.</title>
+<pages>316-332</pages>
+<year>2019</year>
+<booktitle>NFM</booktitle>
+<crossref>conf/nfm/2019</crossref>
+<url>db/conf/nfm/nfm2019.html#MetinBK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/FriouxBSK19" mdate="2019-08-20">
+<author>Ludovic Le Frioux</author>
+<author>Souheib Baarir</author>
+<author>Julien Sopena</author>
+<author>Fabrice Kordon</author>
+<title>Modular and Efficient Divide-and-Conquer SAT Solver on Top of the Painless Framework.</title>
+<pages>135-151</pages>
+<year>2019</year>
+<booktitle>TACAS (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-17462-0_8</ee>
+<crossref>conf/tacas/2019-1</crossref>
+<url>db/conf/tacas/tacas2019-1.html#FriouxBSK19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijccbs/TiganeKBB18" mdate="2018-06-20">
+<author>Samir Tigane</author>
+<author>Laïd Kahloul</author>
+<author>Samir Bourekkache</author>
+<author>Souheib Baarir</author>
+<title>Extending GSPNs for the modelling, analysis and performance evaluation of dynamic systems.</title>
+<pages>25-44</pages>
+<year>2018</year>
+<volume>8</volume>
+<journal>IJCCBS</journal>
+<number>1</number>
+<url>db/journals/ijccbs/ijccbs8.html#TiganeKBB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/models/BaarirBML18" mdate="2019-05-28">
+<author>Souheib Baarir</author>
+<author>Reda Bendraou</author>
+<author>Hakan Metin</author>
+<author>Yoann Laurent</author>
+<title>ProVer: an SMT-based approach for process verification.</title>
+<pages>555-562</pages>
+<year>2018</year>
+<booktitle>MODELS Workshops</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2245/modevva_paper_1.pdf</ee>
+<crossref>conf/models/2018w</crossref>
+<url>db/conf/models/models2018w.html#BaarirBML18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/MetinBCK18" mdate="2018-06-26">
+<author>Hakan Metin</author>
+<author>Souheib Baarir</author>
+<author>Maximilien Colange</author>
+<author>Fabrice Kordon</author>
+<title>CDCLSym: Introducing Effective Symmetry Breaking in SAT Solving.</title>
+<pages>99-114</pages>
+<year>2018</year>
+<booktitle>TACAS (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-89960-2_6</ee>
+<crossref>conf/tacas/2018-1</crossref>
+<url>db/conf/tacas/tacas2018-1.html#MetinBCK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/MenouerB17" mdate="2017-06-21">
+<author>Tarek Menouer</author>
+<author>Souheib Baarir</author>
+<title>Parallel Learning Portfolio-based solvers.</title>
+<pages>335-344</pages>
+<year>2017</year>
+<booktitle>ICCS</booktitle>
+<crossref>conf/iccS/2017</crossref>
+<url>db/conf/iccS/iccS2017.html#MenouerB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispw/BaarirK17" mdate="2018-11-06">
+<author>Souheib Baarir</author>
+<author>Kais Klai</author>
+<title>First international workshop on verification of business and software processes.</title>
+<pages>143-144</pages>
+<year>2017</year>
+<booktitle>ICSSP</booktitle>
+<crossref>conf/ispw/2017</crossref>
+<url>db/conf/ispw/icssp2017.html#BaarirK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/MenouerB17" mdate="2019-02-14">
+<author>Tarek Menouer</author>
+<author>Souheib Baarir</author>
+<title>Parallel Satisfiability Solver Based on Hybrid Partitioning Method.</title>
+<pages>54-60</pages>
+<year>2017</year>
+<booktitle>PDP</booktitle>
+<crossref>conf/pdp/2017</crossref>
+<url>db/conf/pdp/pdp2017.html#MenouerB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sat/FriouxBSK17" mdate="2017-08-15">
+<author>Ludovic Le Frioux</author>
+<author>Souheib Baarir</author>
+<author>Julien Sopena</author>
+<author>Fabrice Kordon</author>
+<title>PaInleSS: A Framework for Parallel SAT Solving.</title>
+<pages>233-250</pages>
+<year>2017</year>
+<booktitle>SAT</booktitle>
+<crossref>conf/sat/2017</crossref>
+<url>db/conf/sat/sat2017.html#FriouxBSK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lpar/BaarirD15" mdate="2017-09-16">
+<author>Souheib Baarir</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<title>SAT-Based Minimization of Deterministic \omega -Automata.</title>
+<pages>79-87</pages>
+<year>2015</year>
+<booktitle>LPAR</booktitle>
+<crossref>conf/lpar/2015</crossref>
+<url>db/conf/lpar/lpar2015.html#BaarirD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/KhelladiBBLG15" mdate="2018-11-06">
+<author>Djamel Eddine Khelladi</author>
+<author>Reda Bendraou</author>
+<author>Souheib Baarir</author>
+<author>Yoann Laurent</author>
+<author>Marie-Pierre Gervais</author>
+<title>A framework to formally verify conformance of a software process to a software method.</title>
+<pages>1518-1525</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#KhelladiBBLG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/LaurentBBG14" mdate="2019-08-20">
+<author>Yoann Laurent</author>
+<author>Reda Bendraou</author>
+<author>Souheib Baarir</author>
+<author>Marie-Pierre Gervais</author>
+<title>Formalization of fUML: An Application to Process Verification.</title>
+<pages>347-363</pages>
+<year>2014</year>
+<booktitle>CAiSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-07881-6_24</ee>
+<crossref>conf/caise/2014</crossref>
+<url>db/conf/caise/caise2014.html#LaurentBBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecmdafa/LaurentBBG14" mdate="2017-05-22">
+<author>Yoann Laurent</author>
+<author>Reda Bendraou</author>
+<author>Souheib Baarir</author>
+<author>Marie-Pierre Gervais</author>
+<title>Alloy4SPV : A Formal Framework for Software Process Verification.</title>
+<pages>83-100</pages>
+<year>2014</year>
+<booktitle>ECMFA</booktitle>
+<crossref>conf/ecmdafa/2014</crossref>
+<url>db/conf/ecmdafa/ecmfa2014.html#LaurentBBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/BaarirD14" mdate="2018-06-26">
+<author>Souheib Baarir</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<title>Mechanizing the Minimization of Deterministic Generalized Büchi Automata.</title>
+<pages>266-283</pages>
+<year>2014</year>
+<booktitle>FORTE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-43613-4_17</ee>
+<crossref>conf/forte/2014</crossref>
+<url>db/conf/forte/forte2014.html#BaarirD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LaurentBBG14" mdate="2018-11-06">
+<author>Yoann Laurent</author>
+<author>Reda Bendraou</author>
+<author>Souheib Baarir</author>
+<author>Marie-Pierre Gervais</author>
+<title>Planning for declarative processes.</title>
+<pages>1126-1133</pages>
+<year>2014</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2014</crossref>
+<url>db/conf/sac/sac2014.html#LaurentBBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/ColangeBKT13" mdate="2018-11-02">
+<author>Maximilien Colange</author>
+<author>Souheib Baarir</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<title>Towards Distributed Software Model-Checking Using Decision Diagrams.</title>
+<pages>830-845</pages>
+<year>2013</year>
+<booktitle>CAV</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-39799-8_58</ee>
+<crossref>conf/cav/2013</crossref>
+<url>db/conf/cav/cav2013.html#ColangeBKT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acsd/ColangeKTB12" mdate="2018-11-30">
+<author>Maximilien Colange</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Souheib Baarir</author>
+<title>State Space Analysis Using Symmetries on Decision Diagrams.</title>
+<pages>164-172</pages>
+<year>2012</year>
+<booktitle>ACSD</booktitle>
+<crossref>conf/acsd/2012</crossref>
+<url>db/conf/acsd/acsd2012.html#ColangeKTB12</url>
+</inproceedings>
+</r>
+<r><article key="journals/fmsd/BaarirBEIMPY11" mdate="2017-05-27">
+<author>Souheib Baarir</author>
+<author>Cécile Braunstein</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Jean-Michel Ilié</author>
+<author>Isabelle Mounier</author>
+<author>Denis Poitrenaud</author>
+<author>Sana Younès</author>
+<title>Feasibility analysis for robustness quantification by symbolic model checking.</title>
+<pages>165-184</pages>
+<year>2011</year>
+<volume>39</volume>
+<journal>Formal Methods in System Design</journal>
+<number>2</number>
+<url>db/journals/fmsd/fmsd39.html#BaarirBEIMPY11</url>
+</article>
+</r>
+<r><article key="journals/pe/BaarirBDFH11" mdate="2017-06-08">
+<author>Souheib Baarir</author>
+<author orcid="0000-0001-6125-9460">Marco Beccuti</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<author>Serge Haddad</author>
+<title>Lumping partially symmetrical stochastic models.</title>
+<pages>21-44</pages>
+<year>2011</year>
+<volume>68</volume>
+<journal>Perform. Eval.</journal>
+<number>1</number>
+<url>db/journals/pe/pe68.html#BaarirBDFH11</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/ColangeBKT11" mdate="2018-11-02">
+<author>Maximilien Colange</author>
+<author>Souheib Baarir</author>
+<author>Fabrice Kordon</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<title>Crocodile: A Symbolic/Symbolic Tool for the Analysis of Symmetric Nets with Bag.</title>
+<pages>338-347</pages>
+<year>2011</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2011</crossref>
+<url>db/conf/apn/pn2011.html#ColangeBKT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/monterey/BaarirHKR10" mdate="2017-05-25">
+<author>Souheib Baarir</author>
+<author>Lom-Messan Hillah</author>
+<author>Fabrice Kordon</author>
+<author>Etienne Renault</author>
+<title>Self-reconfigurable Modular Robots and Their Symbolic Configuration Space.</title>
+<pages>103-121</pages>
+<year>2010</year>
+<booktitle>Monterey Workshop</booktitle>
+<crossref>conf/monterey/2010</crossref>
+<url>db/conf/monterey/monterey2010.html#BaarirHKR10</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmetrics/BaarirBCPDF09" mdate="2019-06-02">
+<author>Souheib Baarir</author>
+<author orcid="0000-0001-6125-9460">Marco Beccuti</author>
+<author orcid="0000-0001-5192-9387">Davide Cerotti</author>
+<author>Massimiliano De Pierro</author>
+<author>Susanna Donatelli</author>
+<author>Giuliana Franceschinis</author>
+<title>The GreatSPN tool: recent enhancements.</title>
+<pages>4-9</pages>
+<year>2009</year>
+<volume>36</volume>
+<journal>SIGMETRICS Performance Evaluation Review</journal>
+<number>4</number>
+<url>db/journals/sigmetrics/sigmetrics36.html#BaarirBCPDF09</url>
+</article>
+</r>
+<r><article key="journals/tsi/SopenaBL09" mdate="2017-05-20">
+<author>Julien Sopena</author>
+<author>Souheib Baarir</author>
+<author>Fabrice Legond-Aubry</author>
+<title>Vérification formelle d'un algorithme générique et hiérarchique d'exclusion mutuelle.</title>
+<pages>1085-1105</pages>
+<year>2009</year>
+<volume>28</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>9</number>
+<url>db/journals/tsi/tsi28.html#SopenaBL09</url>
+</article>
+</r>
+<r><inproceedings key="conf/dft/BaarirBCEILMPP09" mdate="2017-05-17">
+<author>Souheib Baarir</author>
+<author>Cécile Braunstein</author>
+<author>Renaud Clavel</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Jean-Michel Ilié</author>
+<author>Régis Leveugle</author>
+<author>Isabelle Mounier</author>
+<author>Laurence Pierre</author>
+<author>Denis Poitrenaud</author>
+<title>Complementary Formal Approaches for Dependability Analysis.</title>
+<pages>331-339</pages>
+<year>2009</year>
+<booktitle>DFT</booktitle>
+<crossref>conf/dft/2009</crossref>
+<url>db/conf/dft/dft2009.html#BaarirBCEILMPP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/valuetools/BaarirBDF09" mdate="2017-06-05">
+<author>Souheib Baarir</author>
+<author orcid="0000-0001-6125-9460">Marco Beccuti</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<title>From partially to fully lumped Markov chains in stochastic well formed Petri nets.</title>
+<pages>43</pages>
+<year>2009</year>
+<booktitle>VALUETOOLS</booktitle>
+<crossref>conf/valuetools/2009</crossref>
+<url>db/conf/valuetools/valuetools2009.html#BaarirBDF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/BaarirSL08" mdate="2018-06-26">
+<author>Souheib Baarir</author>
+<author>Julien Sopena</author>
+<author>Fabrice Legond-Aubry</author>
+<title>Verification of a Hierarchical Generic Mutual Exclusion Algorithm.</title>
+<pages>99-115</pages>
+<year>2008</year>
+<booktitle>FORTE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-68855-6_7</ee>
+<crossref>conf/forte/2008</crossref>
+<url>db/conf/forte/forte2008.html#BaarirSL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qest/BaarirBF08" mdate="2017-06-05">
+<author>Souheib Baarir</author>
+<author orcid="0000-0001-6125-9460">Marco Beccuti</author>
+<author>Giuliana Franceschinis</author>
+<title>New Solvers for Asymmetric Systems in GreatSPN.</title>
+<pages>235-236</pages>
+<year>2008</year>
+<booktitle>QEST</booktitle>
+<crossref>conf/qest/2008</crossref>
+<url>db/conf/qest/qest2008.html#BaarirBF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acsd/BaarirD07" mdate="2017-09-16">
+<author>Souheib Baarir</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<title>Emptiness Check of Powerset Buchi Automata using Inclusion Tests.</title>
+<pages>41-50</pages>
+<year>2007</year>
+<crossref>conf/acsd/2007</crossref>
+<booktitle>ACSD</booktitle>
+<url>db/conf/acsd/acsd2007.html#BaarirD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qest/BeccutiFBI06" mdate="2017-06-05">
+<author orcid="0000-0001-6125-9460">Marco Beccuti</author>
+<author>Giuliana Franceschinis</author>
+<author>Souheib Baarir</author>
+<author>J-M. Ilie</author>
+<title>Efficient lumpability check in partially symmetric systems.</title>
+<pages>211-220</pages>
+<year>2006</year>
+<crossref>conf/qest/2006</crossref>
+<booktitle>QEST</booktitle>
+<url>db/conf/qest/qest2006.html#BeccutiFBI06</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/HuguesVPTBK05" mdate="2018-11-30">
+<author>Jérôme Hugues</author>
+<author>Thomas Vergnaud</author>
+<author>Laurent Pautet</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Souheib Baarir</author>
+<author>Fabrice Kordon</author>
+<title>On the Formal Verification of Middleware Behavioral Properties.</title>
+<pages>139-157</pages>
+<year>2005</year>
+<volume>133</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs133.html#HuguesVPTBK05</url>
+</article>
+</r>
+<r><inproceedings key="conf/qest/BaarirDHI05" mdate="2017-05-26">
+<author>Souheib Baarir</author>
+<author>Claude Dutheillet</author>
+<author>Serge Haddad</author>
+<author>Jean-Michel Ilié</author>
+<title>On the use of exact lumpability in partially symmetricalWell-formed Nets.</title>
+<pages>23-32</pages>
+<year>2005</year>
+<crossref>conf/qest/2005</crossref>
+<booktitle>QEST</booktitle>
+<url>db/conf/qest/qest2005.html#BaarirDHI05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qest/IlieBBDDDFGM04" mdate="2017-05-26">
+<author>Jean-Michel Ilié</author>
+<author>Souheib Baarir</author>
+<author>Marco Beccuti</author>
+<author>Clément Delamare</author>
+<author>Susanna Donatelli</author>
+<author>Claude Dutheillet</author>
+<author>Giuliana Franceschinis</author>
+<author>Rossano Gaeta</author>
+<author>Patrice Moreaux</author>
+<title>Extended SWN Solvers in GreatSPN.</title>
+<pages>324-325</pages>
+<year>2004</year>
+<crossref>conf/qest/2004</crossref>
+<booktitle>QEST</booktitle>
+<url>db/conf/qest/qest2004.html#IlieBBDDDFGM04</url>
+</inproceedings>
+</r>
+<coauthors n="46" nc="2">
+<co c="0"><na f="b/Beccuti:Marco">Marco Beccuti</na></co>
+<co c="0"><na f="b/Bendraou:Reda">Reda Bendraou</na></co>
+<co c="1"><na f="b/Benharzallah:Saber">Saber Benharzallah</na></co>
+<co c="1"><na f="b/Bourekkache:Samir">Samir Bourekkache</na></co>
+<co c="0"><na f="b/Braunstein:C=eacute=cile">Cécile Braunstein</na></co>
+<co c="0"><na f="c/Cerotti:Davide">Davide Cerotti</na></co>
+<co c="0"><na f="c/Clavel:Renaud">Renaud Clavel</na></co>
+<co c="0"><na f="c/Colange:Maximilien">Maximilien Colange</na></co>
+<co c="0"><na f="d/Delamare:Cl=eacute=ment">Clément Delamare</na></co>
+<co c="0"><na f="d/Donatelli:Susanna">Susanna Donatelli</na></co>
+<co c="0"><na f="d/Duret=Lutz:Alexandre">Alexandre Duret-Lutz</na></co>
+<co c="0"><na f="d/Dutheillet:Claude">Claude Dutheillet</na></co>
+<co c="0" n="2"><na f="e/Encrenaz=Tiph=egrave=ne:Emmanuelle">Emmanuelle Encrenaz-Tiphène</na><na>Emmanuelle Encrenaz</na></co>
+<co c="0"><na f="f/Franceschinis:Giuliana">Giuliana Franceschinis</na></co>
+<co c="0"><na f="f/Frioux:Ludovic_Le">Ludovic Le Frioux</na></co>
+<co c="0"><na f="g/Gaeta:Rossano">Rossano Gaeta</na></co>
+<co c="0"><na f="g/Gervais:Marie=Pierre">Marie-Pierre Gervais</na></co>
+<co c="0"><na f="h/Haddad:Serge">Serge Haddad</na></co>
+<co c="0"><na f="h/Hillah:Lom=Messan">Lom-Messan Hillah</na></co>
+<co c="0"><na f="h/Houhou:Sara">Sara Houhou</na></co>
+<co c="0"><na f="h/Hugues:J=eacute=r=ocirc=me">Jérôme Hugues</na></co>
+<co c="0"><na f="i/Ilie:J=M=">J-M. Ilie</na></co>
+<co c="0"><na f="i/Ili=eacute=:Jean=Michel">Jean-Michel Ilié</na></co>
+<co c="1"><na f="k/Kahloul:La=iuml=d">Laïd Kahloul</na></co>
+<co c="0"><na f="k/Khelladi:Djamel_Eddine">Djamel Eddine Khelladi</na></co>
+<co c="0"><na f="k/Klai:Kais">Kais Klai</na></co>
+<co c="0"><na f="k/Kordon:Fabrice">Fabrice Kordon</na></co>
+<co c="0"><na f="l/Laurent:Yoann">Yoann Laurent</na></co>
+<co c="0"><na f="l/Legond=Aubry:Fabrice">Fabrice Legond-Aubry</na></co>
+<co c="0"><na f="l/Leveugle:R=eacute=gis">Régis Leveugle</na></co>
+<co c="-1"><na f="m/Menouer:Tarek">Tarek Menouer</na></co>
+<co c="0"><na f="m/Metin:Hakan">Hakan Metin</na></co>
+<co c="0"><na f="m/Moreaux:Patrice">Patrice Moreaux</na></co>
+<co c="0"><na f="m/Mounier:Isabelle">Isabelle Mounier</na></co>
+<co c="0"><na f="p/Pautet:Laurent">Laurent Pautet</na></co>
+<co c="0"><na f="p/Pierre:Laurence">Laurence Pierre</na></co>
+<co c="0"><na f="p/Pierro:Massimiliano_De">Massimiliano De Pierro</na></co>
+<co c="0"><na f="p/Poitrenaud:Denis">Denis Poitrenaud</na></co>
+<co c="0"><na f="p/Poizat:Pascal">Pascal Poizat</na></co>
+<co c="0"><na f="q/Qu=eacute=innec:Philippe">Philippe Quéinnec</na></co>
+<co c="0"><na f="r/Renault:Etienne">Etienne Renault</na></co>
+<co c="0"><na f="s/Sopena:Julien">Julien Sopena</na></co>
+<co c="0"><na f="t/Thierry=Mieg:Yann">Yann Thierry-Mieg</na></co>
+<co c="1"><na f="t/Tigane:Samir">Samir Tigane</na></co>
+<co c="0"><na f="v/Vergnaud:Thomas">Thomas Vergnaud</na></co>
+<co c="0"><na f="y/Youn=egrave=s:Sana">Sana Younès</na></co>
+</coauthors>
+</dblpperson>
+

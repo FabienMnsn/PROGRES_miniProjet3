@@ -1,0 +1,591 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Bertil Folliot" n="42">
+<person key="homepages/53/3921" mdate="2009-06-10">
+<author>Bertil Folliot</author>
+</person>
+<r><inproceedings key="conf/snpd/Folliot14" mdate="2017-05-26">
+<author>Bertil Folliot</author>
+<title>VMKit: Improving design and performance of Managed Runtime Environments.</title>
+<pages>1</pages>
+<year>2014</year>
+<booktitle>SNPD</booktitle>
+<crossref>conf/snpd/2014</crossref>
+<url>db/conf/snpd/snpd2014.html#Folliot14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijndc/FolliotL13" mdate="2018-10-16">
+<author>Bertil Folliot</author>
+<author>Juhnyoung Lee</author>
+<title>Introducing IJNDC.</title>
+<pages>1</pages>
+<year>2013</year>
+<volume>1</volume>
+<journal>IJNDC</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.2991/ijndc.2013.1.1.1</ee>
+<url>db/journals/ijndc/ijndc1.html#FolliotL13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpads/PreudhommeS0F12" mdate="2017-05-26">
+<author>Thomas Preud'homme</author>
+<author>Julien Sopena</author>
+<author>Gaël Thomas 0001</author>
+<author>Bertil Folliot</author>
+<title>An Improvement of OpenMP Pipeline Parallelism with the BatchQueue Algorithm.</title>
+<pages>348-355</pages>
+<year>2012</year>
+<booktitle>ICPADS</booktitle>
+<crossref>conf/icpads/2012</crossref>
+<url>db/conf/icpads/icpads2012.html#PreudhommeS0F12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/PreudhommeSTF10" mdate="2017-05-17">
+<author>Thomas Preud'homme</author>
+<author>Julien Sopena</author>
+<author>Gaël Thomas 0001</author>
+<author>Bertil Folliot</author>
+<title>BatchQueue: Fast and Memory-Thrifty Core to Core Communication.</title>
+<pages>215-222</pages>
+<year>2010</year>
+<booktitle>SBAC-PAD</booktitle>
+<crossref>conf/sbac-pad/2010</crossref>
+<url>db/conf/sbac-pad/sbac-pad2010.html#PreudhommeSTF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vee/GeoffrayTLMF10" mdate="2018-11-06">
+<author>Nicolas Geoffray</author>
+<author>Gaël Thomas 0001</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<author>Bertil Folliot</author>
+<title>VMKit: a substrate for managed runtime environments.</title>
+<pages>51-62</pages>
+<year>2010</year>
+<booktitle>VEE</booktitle>
+<crossref>conf/vee/2010</crossref>
+<url>db/conf/vee/vee2010.html#GeoffrayTLMF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/GeoffrayTMPFF09" mdate="2019-02-07">
+<author>Nicolas Geoffray</author>
+<author>Gaël Thomas 0001</author>
+<author>Gilles Muller</author>
+<author>Pierre Parrend</author>
+<author>Stéphane Frénot</author>
+<author>Bertil Folliot</author>
+<title>I-JVM: a Java Virtual Machine for component isolation in OSGi.</title>
+<pages>544-553</pages>
+<year>2009</year>
+<booktitle>DSN</booktitle>
+<crossref>conf/dsn/2009</crossref>
+<url>db/conf/dsn/dsn2009.html#GeoffrayTMPFF09</url>
+</inproceedings>
+</r>
+<r><article key="journals/spe/ThomasGCF08" mdate="2017-05-28">
+<author>Gaël Thomas 0001</author>
+<author>Nicolas Geoffray</author>
+<author>Charles Clément</author>
+<author>Bertil Folliot</author>
+<title>Designing highly flexible virtual machines: the JnJVM experience.</title>
+<pages>1643-1675</pages>
+<year>2008</year>
+<volume>38</volume>
+<journal>Softw., Pract. Exper.</journal>
+<number>15</number>
+<url>db/journals/spe/spe38.html#ThomasGCF08</url>
+</article>
+</r>
+<r><inproceedings key="conf/pppj/GeoffrayTCF08" mdate="2018-11-06">
+<author>Nicolas Geoffray</author>
+<author>Gaël Thomas 0001</author>
+<author>Charles Clément</author>
+<author>Bertil Folliot</author>
+<title>A lazy developer approach: building a JVM with third party software.</title>
+<pages>73-82</pages>
+<year>2008</year>
+<booktitle>PPPJ</booktitle>
+<crossref>conf/pppj/2008</crossref>
+<url>db/conf/pppj/pppj2008.html#GeoffrayTCF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/GeoffrayTF06a" mdate="2017-05-25">
+<author>Nicolas Geoffray</author>
+<author>Gaël Thomas 0001</author>
+<author>Bertil Folliot</author>
+<title>Live and Heterogeneous Migration of Execution Environments.</title>
+<pages>1254-1263</pages>
+<year>2006</year>
+<crossref>conf/otm/2006-w2</crossref>
+<booktitle>OTM Workshops (2)</booktitle>
+<url>db/conf/otm/otm2006-w2.html#GeoffrayTF06a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/GeoffrayTF06" mdate="2017-05-25">
+<author>Nicolas Geoffray</author>
+<author>Gaël Thomas 0001</author>
+<author>Bertil Folliot</author>
+<title>Transparent and Dynamic Code Offloading for Java Applications.</title>
+<pages>1790-1806</pages>
+<year>2006</year>
+<crossref>conf/otm/2006-2</crossref>
+<booktitle>OTM Conferences (2)</booktitle>
+<url>db/conf/otm/otm2006-2.html#GeoffrayTF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/HachichiTMFP05" mdate="2017-05-24">
+<author>Assia Hachichi</author>
+<author>Gaël Thomas 0001</author>
+<author>Cyril Martin</author>
+<author>Bertil Folliot</author>
+<author>Simon Patarin</author>
+<title>A Generic Language for Dynamic Adaptation.</title>
+<pages>40-49</pages>
+<year>2005</year>
+<crossref>conf/europar/2005</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2005.html#HachichiTMFP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/OgelTF05" mdate="2018-11-06">
+<author>Frederic Ogel</author>
+<author>Gaël Thomas 0001</author>
+<author>Bertil Folliot</author>
+<title>Supporting efficient dynamic aspects through reflection and dynamic compilation.</title>
+<pages>1351-1356</pages>
+<year>2005</year>
+<crossref>conf/sac/2005</crossref>
+<booktitle>SAC</booktitle>
+<url>db/conf/sac/sac2005.html#OgelTF05</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/OgelTGF04" mdate="2017-05-20">
+<author>Frederic Ogel</author>
+<author>Gaël Thomas 0001</author>
+<author>Antoine Galland</author>
+<author>Bertil Folliot</author>
+<title>MVV : une plate-forme à composants dynamiquement reconfigurables. La machine virtuelle virtuelle.</title>
+<pages>1269-1299</pages>
+<year>2004</year>
+<volume>23</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>10</number>
+<url>db/journals/tsi/tsi23.html#OgelTGF04</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigopsE/OgelFT04" mdate="2018-11-06">
+<author>Frédéric Ogel</author>
+<author>Bertil Folliot</author>
+<author>Gaël Thomas 0001</author>
+<title>A step towards ubiquitous computing: an efficient flexible micro-ORB.</title>
+<pages>32</pages>
+<year>2004</year>
+<booktitle>ACM SIGOPS European Workshop</booktitle>
+<crossref>conf/sigopsE/2004</crossref>
+<url>db/conf/sigopsE/sigopsE2004.html#OgelFT04</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-NI-0411081" mdate="2018-08-13">
+<author>Assia Hachichi</author>
+<author>Cyril Martin</author>
+<author>Gaël Thomas 0001</author>
+<author>Simon Patarin</author>
+<author>Bertil Folliot</author>
+<title>Reconfigurations dynamiques de services dans un intergiciel a composants CORBA CCM</title>
+<ee type="oa">http://arxiv.org/abs/cs.NI/0411081</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.NI/0411081</volume>
+<url>db/journals/corr/corr0411.html#cs-NI-0411081</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcsw/OgelFP03" mdate="2017-05-26">
+<author>Frederic Ogel</author>
+<author>Bertil Folliot</author>
+<author>Ian Piumarta</author>
+<title>On Reflexive and Dynamically Adaptable Environments for Distributed Computing.</title>
+<pages>112-117</pages>
+<year>2003</year>
+<crossref>conf/icdcsw/2003</crossref>
+<booktitle>ICDCS Workshops</booktitle>
+<url>db/conf/icdcsw/icdcsw2003.html#OgelFP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeeams/OgelPPF03" mdate="2017-05-25">
+<author>Frederic Ogel</author>
+<author>Simon Patarin</author>
+<author>Ian Piumarta</author>
+<author>Bertil Folliot</author>
+<title>C/SPAN: a Self-Adapting Web Proxy Cache.</title>
+<pages>178-185</pages>
+<year>2003</year>
+<crossref>conf/ieeeams/2003</crossref>
+<booktitle>Active Middleware Services</booktitle>
+<url>db/conf/ieeeams/ieeeams2003.html#OgelPPF03</url>
+</inproceedings>
+</r>
+<r><article key="journals/cluster/ArantesSF02" mdate="2019-12-18">
+<author>Luciana Bezerra Arantes</author>
+<author>Pierre Sens 0001</author>
+<author>Bertil Folliot</author>
+<title>An Effective Logical Cache for a Clustered LRC-Based DSM System.</title>
+<pages>19-31</pages>
+<year>2002</year>
+<volume>5</volume>
+<journal>Cluster Computing</journal>
+<number>1</number>
+<url>db/journals/cluster/cluster5.html#ArantesSF02</url>
+</article>
+</r>
+<r><article key="journals/cluster/SaabBF02" mdate="2017-05-20">
+<author>Céline Boutrous-Saab</author>
+<author>Xavier Bonnaire</author>
+<author>Bertil Folliot</author>
+<title>PHOENIX: A Self Adaptable Monitoring Platform for Cluster Management.</title>
+<pages>75-85</pages>
+<year>2002</year>
+<volume>5</volume>
+<journal>Cluster Computing</journal>
+<number>1</number>
+<url>db/journals/cluster/cluster5.html#SaabBF02</url>
+</article>
+</r>
+<r><proceedings key="conf/iwcc/2001" mdate="2019-05-14">
+<editor>Dan Grigoras</editor>
+<editor>Alexandru Nicolau</editor>
+<editor>Bernard Toursel</editor>
+<editor>Bertil Folliot</editor>
+<title>Advanced Environments, Tools, and Applications for Cluster Computing, NATO Advanced Research Workshop, IWCC 2001, Mangalia, Romania, September 1-6, 2001, Revised Papers</title>
+<booktitle>IWCC</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>2326</volume>
+<publisher>Springer</publisher>
+<year>2002</year>
+<isbn>3-540-43672-3</isbn>
+<url>db/conf/iwcc/iwcc2001.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ppl/ArantesPSF01" mdate="2019-12-18">
+<author>Luciana Bezerra Arantes</author>
+<author>Denis Poitrenaud</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<author>Bertil Folliot</author>
+<title>The Barrier-Lock Clock: A Scalable Synchronization-Oriented Logical Clock.</title>
+<pages>65-76</pages>
+<year>2001</year>
+<volume>11</volume>
+<journal>Parallel Processing Letters</journal>
+<number>1</number>
+<url>db/journals/ppl/ppl11.html#ArantesPSF01</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/FolliotCDK01" mdate="2017-05-24">
+<author>Bertil Folliot</author>
+<author>Giovanni Chiola</author>
+<author>Peter Druschel</author>
+<author>Anne-Marie Kermarrec</author>
+<title>Topic 09: Distributed Systems and Algorithms.</title>
+<pages>457</pages>
+<year>2001</year>
+<crossref>conf/europar/2001</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2001.html#FolliotCDK01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotos/PiumartaOBF01" mdate="2017-05-17">
+<author>Ian Piumarta</author>
+<author>Frederic Ogel</author>
+<author>Carine Baillarguet</author>
+<author>Bertil Folliot</author>
+<title>Applying the VVM Kernel to Flexible Web Caches.</title>
+<pages>178</pages>
+<year>2001</year>
+<crossref>conf/hotos/2001</crossref>
+<booktitle>HotOS</booktitle>
+<url>db/conf/hotos/hotos2001.html#PiumartaOBF01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/ArantesSF01" mdate="2019-12-18">
+<author orcid="0000-0002-0938-2004">Luciana Bezerra Arantes</author>
+<author>Pierre Sens 0001</author>
+<author>Bertil Folliot</author>
+<title>Enhancing the Cache Strategy of a Cluster-Based DSM System Using an Adaptive Approach.</title>
+<pages>251-258</pages>
+<year>2001</year>
+<crossref>conf/icpp/2001</crossref>
+<booktitle>ICPP</booktitle>
+<url>db/conf/icpp/icpp2001.html#ArantesSF01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcc/FolliotPSBKLO01" mdate="2017-05-22">
+<author>Bertil Folliot</author>
+<author>Ian Piumarta</author>
+<author>Lionel Seinturier</author>
+<author>Carine Baillarguet</author>
+<author>C. Khoury</author>
+<author>Antoine Leger</author>
+<author>Frederic Ogel</author>
+<title>Beyond Flexibility and Reflection: The Virtual Virtual Machine Approach.</title>
+<pages>16-25</pages>
+<year>2001</year>
+<crossref>conf/iwcc/2001</crossref>
+<booktitle>IWCC</booktitle>
+<url>db/conf/iwcc/iwcc2001.html#FolliotPSBKLO01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cluster/ArantesSF00" mdate="2019-12-18">
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<author>Bertil Folliot</author>
+<title>The Impact of Caching in a Loosely-coupled Clustered Software DSM System.</title>
+<pages>27-34</pages>
+<year>2000</year>
+<booktitle>CLUSTER</booktitle>
+<crossref>conf/cluster/2000</crossref>
+<url>db/conf/cluster/cluster2000.html#ArantesSF00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cluster/SaabBF00" mdate="2017-05-21">
+<author>Céline Boutrous-Saab</author>
+<author>Xavier Bonnaire</author>
+<author>Bertil Folliot</author>
+<title>A Flexible Monitoring Platform to Build Cluster Management Services.</title>
+<pages>258-</pages>
+<year>2000</year>
+<booktitle>CLUSTER</booktitle>
+<crossref>conf/cluster/2000</crossref>
+<url>db/conf/cluster/cluster2000.html#SaabBF00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/ArantesFS99" mdate="2019-12-18">
+<author>Luciana Bezerra Arantes</author>
+<author>Bertil Folliot</author>
+<author>Pierre Sens 0001</author>
+<title>A Node Count-Independent Logical Clock for Scaling Lazy Release Consistency Protocol.</title>
+<pages>816-822</pages>
+<year>1999</year>
+<crossref>conf/europar/1999</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar99.html#ArantesFS99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipc/HajmahmoudSF99" mdate="2019-12-18">
+<author>Yanal Hajmahmoud</author>
+<author>Pierre Sens 0001</author>
+<author>Bertil Folliot</author>
+<title>Performance Evaluation of a Load Sharing System on a Cluster of Workstations.</title>
+<pages>71-76</pages>
+<year>1999</year>
+<crossref>conf/hipc/1999</crossref>
+<booktitle>HiPC</booktitle>
+<url>db/conf/hipc/hipc1999.html#HajmahmoudSF99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdpta/FolliotHS99" mdate="2019-12-18">
+<author>Bertil Folliot</author>
+<author>Yanal Hajmahmoud</author>
+<author>Pierre Sens 0001</author>
+<title>Quantifying the Performance Improvement of Migration in Load Sharing Systems.</title>
+<pages>2547-2553</pages>
+<year>1999</year>
+<crossref>conf/pdpta/1999</crossref>
+<booktitle>PDPTA</booktitle>
+<url>db/conf/pdpta/pdpta1999-5.html#FolliotHS99</url>
+</inproceedings>
+</r>
+<r><article key="journals/spe/SensF98" mdate="2019-12-18">
+<author>Pierre Sens 0001</author>
+<author>Bertil Folliot</author>
+<title>The STAR Fault Manager for Distributed Operating Environments. Design, Implementation and Performance.</title>
+<pages>1079-1099</pages>
+<year>1998</year>
+<volume>28</volume>
+<journal>Softw., Pract. Exper.</journal>
+<number>10</number>
+<url>db/journals/spe/spe28.html#SensF98</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigopsE/SaitoHBLBF98" mdate="2018-11-06">
+<author>Yasushi Saito</author>
+<author>Eric Hoffman</author>
+<author>Brian N. Bershad</author>
+<author>Henry M. Levy</author>
+<author>David Becker</author>
+<author>Bertil Folliot</author>
+<title>The Porcupine scalable mail server.</title>
+<pages>48-52</pages>
+<year>1998</year>
+<crossref>conf/sigopsE/1998</crossref>
+<booktitle>ACM SIGOPS European Workshop</booktitle>
+<url>db/conf/sigopsE/sigopsE1998.html#SaitoHBLBF98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigopsE/FolliotPR98" mdate="2018-11-06">
+<author>Bertil Folliot</author>
+<author>Ian Piumarta</author>
+<author>Fabio Riccardi</author>
+<title>A dynamically configurable, multi-language execution platform.</title>
+<pages>175-181</pages>
+<year>1998</year>
+<crossref>conf/sigopsE/1998</crossref>
+<booktitle>ACM SIGOPS European Workshop</booktitle>
+<url>db/conf/sigopsE/sigopsE1998.html#FolliotPR98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/AndresKFOMSC97" mdate="2019-12-18">
+<author>Frédéric Andrès</author>
+<author>Kunihiko Kaneko</author>
+<author>Bertil Folliot</author>
+<author>Kinji Ono</author>
+<author>Akifumi Makinouchi</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<author>P. Cadinot</author>
+<title>The TOSDHIM System Management of Distributed Heterogeneous Multimedia Information.</title>
+<pages>126-128</pages>
+<year>1997</year>
+<crossref>conf/dexaw/1997</crossref>
+<booktitle>DEXA Workshop</booktitle>
+<url>db/conf/dexaw/dexaw97.html#AndresKFOMSC97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdpta/FolliotR96" mdate="2004-04-21">
+<author>Bertil Folliot</author>
+<author>Pierre-Guillaume Raverdy</author>
+<title>Adaptive Partitioning and Dynamic Allocation for Large Computing Systems.</title>
+<pages>1268-1279</pages>
+<year>1996</year>
+<crossref>conf/pdpta/1996</crossref>
+<booktitle>PDPTA</booktitle>
+<url>db/conf/pdpta/pdpta1996.html#FolliotR96</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/FoughaliF94" mdate="2017-05-17">
+<author>Karim Foughali</author>
+<author>Bertil Folliot</author>
+<title>TOPIC-SE: a tool-based open platform for integration of control in software environments.</title>
+<pages>427-433</pages>
+<year>1994</year>
+<volume>36</volume>
+<journal>Information and Software Technology</journal>
+<number>7</number>
+<url>db/journals/infsof/infsof36.html#FoughaliF94</url>
+</article>
+</r>
+<r><inproceedings key="conf/apdc/BoutabaF94" mdate="2002-01-03">
+<author>Raouf Boutaba</author>
+<author>Bertil Folliot</author>
+<title>Program and File Allocation Algorithm for Large Scale Distributed Systems.</title>
+<pages>165-173</pages>
+<year>1994</year>
+<crossref>conf/apdc/1994</crossref>
+<booktitle>Applications in Parallel and Distributed Computing</booktitle>
+<url>db/conf/apdc/apdc1994.html#BoutabaF94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codata/RaverdyDF94" mdate="2019-08-01">
+<author>Pierre-Guillaume Raverdy</author>
+<author>Phillipe Darche</author>
+<author>Bertil Folliot</author>
+<title>Dynamic Management of Cooperative Applications for Mobile Systems.</title>
+<pages>141-148</pages>
+<year>1994</year>
+<crossref>conf/codata/1994</crossref>
+<booktitle>CODATA</booktitle>
+<url>db/conf/codata/codata94.html#RaverdyDF94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edcc/FolliotS94" mdate="2019-12-18">
+<author>Bertil Folliot</author>
+<author>Pierre Sens 0001</author>
+<title>GATOSTAR: A Fault Tolerant Load Sharing Facility for Parallel Applications.</title>
+<pages>581-598</pages>
+<year>1994</year>
+<crossref>conf/edcc/1994</crossref>
+<booktitle>EDCC</booktitle>
+<url>db/conf/edcc/edcc1994.html#FolliotS94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aipt/BoutabaFS93" mdate="2019-12-18">
+<author>Raouf Boutaba</author>
+<author>Bertil Folliot</author>
+<author>Pierre Sens 0001</author>
+<title>Efficient Ressources Management in Local Area Networks.</title>
+<pages>101-114</pages>
+<year>1993</year>
+<crossref>conf/aipt/1993</crossref>
+<booktitle>Advanced Information Processing Techniques for LAN and MAN Management</booktitle>
+<url>db/conf/aipt/aipt1993.html#BoutabaFS93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spdp/SensF93" mdate="2019-12-18">
+<author>Pierre Sens 0001</author>
+<author>Bertil Folliot</author>
+<title>STAR: A Fault-Tolerant System for Distributed Applications.</title>
+<pages>656-660</pages>
+<year>1993</year>
+<crossref>conf/spdp/1993</crossref>
+<booktitle>SPDP</booktitle>
+<url>db/conf/spdp/spdp1993.html#SensF93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networks/BoutabaF92" mdate="2002-01-08">
+<author>Raouf Boutaba</author>
+<author>Bertil Folliot</author>
+<title>Load Balancing in Local Area Networks.</title>
+<pages>67-78</pages>
+<year>1992</year>
+<crossref>conf/networks/1992</crossref>
+<booktitle>NETWORKS</booktitle>
+<url>db/conf/networks/networks1992.html#BoutabaF92</url>
+</inproceedings>
+</r>
+<coauthors n="47" nc="4">
+<co c="0"><na f="a/Andr=egrave=s:Fr=eacute=d=eacute=ric">Frédéric Andrès</na></co>
+<co c="0" n="2"><na f="a/Arantes:Luciana">Luciana Arantes</na><na>Luciana Bezerra Arantes</na></co>
+<co c="0"><na f="b/Baillarguet:Carine">Carine Baillarguet</na></co>
+<co c="1"><na f="b/Becker:David">David Becker</na></co>
+<co c="1"><na f="b/Bershad:Brian_N=">Brian N. Bershad</na></co>
+<co c="0"><na f="b/Bonnaire:Xavier">Xavier Bonnaire</na></co>
+<co c="0"><na f="b/Boutaba:Raouf">Raouf Boutaba</na></co>
+<co c="0"><na f="b/Boutrous=Saab:C=eacute=line">Céline Boutrous-Saab</na></co>
+<co c="0"><na f="c/Cadinot:P=">P. Cadinot</na></co>
+<co c="0"><na f="c/Chiola:Giovanni">Giovanni Chiola</na></co>
+<co c="0"><na f="c/Cl=eacute=ment:Charles">Charles Clément</na></co>
+<co c="3"><na f="d/Darche:Phillipe">Phillipe Darche</na></co>
+<co c="0"><na f="d/Druschel:Peter">Peter Druschel</na></co>
+<co c="-1"><na f="f/Foughali:Karim">Karim Foughali</na></co>
+<co c="0"><na f="f/Fr=eacute=not:St=eacute=phane">Stéphane Frénot</na></co>
+<co c="0"><na f="g/Galland:Antoine">Antoine Galland</na></co>
+<co c="0"><na f="g/Geoffray:Nicolas">Nicolas Geoffray</na></co>
+<co c="2"><na f="g/Grigoras:Dan">Dan Grigoras</na></co>
+<co c="0"><na f="h/Hachichi:Assia">Assia Hachichi</na></co>
+<co c="0"><na f="h/Hajmahmoud:Yanal">Yanal Hajmahmoud</na></co>
+<co c="1"><na f="h/Hoffman:Eric">Eric Hoffman</na></co>
+<co c="0"><na f="k/Kaneko:Kunihiko">Kunihiko Kaneko</na></co>
+<co c="0"><na f="k/Kermarrec:Anne=Marie">Anne-Marie Kermarrec</na></co>
+<co c="0"><na f="k/Khoury:C=">C. Khoury</na></co>
+<co c="0"><na f="l/Lawall:Julia_L=">Julia L. Lawall</na></co>
+<co c="-1"><na f="l/Lee:Juhnyoung">Juhnyoung Lee</na></co>
+<co c="0"><na f="l/Leger:Antoine">Antoine Leger</na></co>
+<co c="1"><na f="l/Levy:Henry_M=">Henry M. Levy</na></co>
+<co c="0"><na f="m/Makinouchi:Akifumi">Akifumi Makinouchi</na></co>
+<co c="0"><na f="m/Martin:Cyril">Cyril Martin</na></co>
+<co c="0"><na f="m/Muller:Gilles">Gilles Muller</na></co>
+<co c="2"><na f="n/Nicolau:Alexandru">Alexandru Nicolau</na></co>
+<co c="0" n="2"><na f="o/Ogel:Frederic">Frederic Ogel</na><na>Frédéric Ogel</na></co>
+<co c="0"><na f="o/Ono:Kinji">Kinji Ono</na></co>
+<co c="0"><na f="p/Parrend:Pierre">Pierre Parrend</na></co>
+<co c="0"><na f="p/Patarin:Simon">Simon Patarin</na></co>
+<co c="0"><na f="p/Piumarta:Ian">Ian Piumarta</na></co>
+<co c="0"><na f="p/Poitrenaud:Denis">Denis Poitrenaud</na></co>
+<co c="0"><na f="p/Preud=homme:Thomas">Thomas Preud'homme</na></co>
+<co c="3"><na f="r/Raverdy:Pierre=Guillaume">Pierre-Guillaume Raverdy</na></co>
+<co c="0"><na f="r/Riccardi:Fabio">Fabio Riccardi</na></co>
+<co c="1"><na f="s/Saito:Yasushi">Yasushi Saito</na></co>
+<co c="0"><na f="s/Seinturier:Lionel">Lionel Seinturier</na></co>
+<co c="0"><na f="s/Sens_0001:Pierre">Pierre Sens 0001</na></co>
+<co c="0"><na f="s/Sopena:Julien">Julien Sopena</na></co>
+<co c="0"><na f="t/Thomas_0001:Ga=euml=l">Gaël Thomas 0001</na></co>
+<co c="2"><na f="t/Toursel:Bernard">Bernard Toursel</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,1131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Bruno Escoffier" n="85">
+<person key="homepages/96/3761" mdate="2009-06-10">
+<author>Bruno Escoffier</author>
+</person>
+<r><article key="journals/tcs/Escoffier19" mdate="2019-01-22">
+<author>Bruno Escoffier</author>
+<title>Saving colors and Max Coloring: Some fixed-parameter tractability results.</title>
+<pages>30-41</pages>
+<year>2019</year>
+<volume>758</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs758.html#Escoffier19</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/BampisEST19" mdate="2019-09-08">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Kevin Schewior</author>
+<author>Alexandre Teiller</author>
+<title>Online Multistage Subset Maximization Problems.</title>
+<pages>11:1-11:14</pages>
+<year>2019</year>
+<booktitle>ESA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ESA.2019.11</ee>
+<crossref>conf/esa/2019</crossref>
+<url>db/conf/esa/esa2019.html#BampisEST19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfcs/BampisET19" mdate="2019-08-30">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Alexandre Teiller</author>
+<title>Multistage Knapsack.</title>
+<pages>22:1-22:14</pages>
+<year>2019</year>
+<booktitle>MFCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.MFCS.2019.22</ee>
+<crossref>conf/mfcs/2019</crossref>
+<url>db/conf/mfcs/mfcs2019.html#BampisET19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sagt/EscoffierGP19" mdate="2019-09-17">
+<author>Bruno Escoffier</author>
+<author>Hugo Gilbert</author>
+<author>Adèle Pass-Lanneau</author>
+<title>The Convergence of Iterative Delegations in Liquid Democracy in a Social Network.</title>
+<pages>284-297</pages>
+<year>2019</year>
+<booktitle>SAGT</booktitle>
+<crossref>conf/sagt/2019</crossref>
+<url>db/conf/sagt/sagt2019.html#EscoffierGP19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-11260" mdate="2019-02-04">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Alexandre Teiller</author>
+<title>Multistage Knapsack.</title>
+<year>2019</year>
+<volume>abs/1901.11260</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.11260</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-11260</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-05775" mdate="2019-04-25">
+<author>Bruno Escoffier</author>
+<author>Hugo Gilbert</author>
+<author>Adèle Pass-Lanneau</author>
+<title>The Convergence of Iterative Delegations in Liquid Democracy in a Social Network.</title>
+<year>2019</year>
+<volume>abs/1904.05775</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.05775</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-05775</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-04162" mdate="2019-05-27">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Kevin Schewior</author>
+<author>Alexandre Teiller</author>
+<title>Online Multistage Subset Maximization Problems.</title>
+<year>2019</year>
+<volume>abs/1905.04162</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.04162</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-04162</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-05944" mdate="2019-07-17">
+<author>Evripidis Bampis</author>
+<author>Dimitris Christou</author>
+<author>Bruno Escoffier</author>
+<author>Nguyen Kim Thang</author>
+<title>Online-Learning for min-max discrete problems.</title>
+<year>2019</year>
+<volume>abs/1907.05944</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.05944</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-05944</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-10354" mdate="2019-09-27">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Alexander Kononov</author>
+<title>LP-based algorithms for multistage minimization problems.</title>
+<year>2019</year>
+<volume>abs/1909.10354</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.10354</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-10354</url>
+</article>
+</r>
+<r><article key="journals/disopt/BonnetEPS18" mdate="2018-04-04">
+<author>Édouard Bonnet</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<author>Georgios Stamoulis</author>
+<title>Purely combinatorial approximation algorithms for maximum k-vertex cover in bipartite graphs.</title>
+<pages>26-56</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>Discrete Optimization</journal>
+<url>db/journals/disopt/disopt27.html#BonnetEPS18</url>
+</article>
+</r>
+<r><article key="journals/dmtcs/AngelBEL18" mdate="2019-05-22">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Michael Lampis</author>
+<title>Parameterized Power Vertex Cover.</title>
+<year>2018</year>
+<volume>20</volume>
+<journal>Discrete Mathematics and Theoretical Computer Science</journal>
+<number>2</number>
+<ee type="oa">http://dmtcs.episciences.org/4873</ee>
+<url>db/journals/dmtcs/dmtcs20.html#AngelBEL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BampisEM18" mdate="2018-07-16">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Sasa Mladenovic</author>
+<title>Fair Resource Allocation Over Time.</title>
+<pages>766-773</pages>
+<year>2018</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2018</crossref>
+<url>db/conf/atal/aamas2018.html#BampisEM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/swat/BampisELP18" mdate="2018-08-23">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Michael Lampis</author>
+<author>Vangelis Th. Paschos</author>
+<title>Multistage Matchings.</title>
+<pages>7:1-7:13</pages>
+<year>2018</year>
+<booktitle>SWAT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.SWAT.2018.7</ee>
+<crossref>conf/swat/2018</crossref>
+<url>db/conf/swat/swat2018.html#BampisELP18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-10476" mdate="2018-08-13">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Michael Lampis</author>
+<title>Parameterized Power Vertex Cover.</title>
+<year>2018</year>
+<volume>abs/1801.10476</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.10476</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-10476</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-04362" mdate="2018-10-05">
+<author>Bruno Escoffier</author>
+<author>Hugo Gilbert</author>
+<author>Adèle Pass-Lanneau</author>
+<title>The Convergence of Iterative Delegations in Liquid Democracy.</title>
+<year>2018</year>
+<volume>abs/1809.04362</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.04362</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-04362</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/EscoffierGM17" mdate="2017-05-17">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<title>The Price of Optimum: Complexity and Approximation for a Matching Game.</title>
+<pages>836-866</pages>
+<year>2017</year>
+<volume>77</volume>
+<journal>Algorithmica</journal>
+<number>3</number>
+<url>db/journals/algorithmica/algorithmica77.html#EscoffierGM17</url>
+</article>
+</r>
+<r><article key="journals/rairo/EscoffierPT16" mdate="2017-05-26">
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<author>Emeric Tourniaire</author>
+<title>Super-polynomial approximation branching algorithms.</title>
+<pages>979-994</pages>
+<year>2016</year>
+<volume>50</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>4-5</number>
+<url>db/journals/rairo/rairo50.html#EscoffierPT16</url>
+</article>
+</r>
+<r><inproceedings key="conf/latin/BonnetEPS16" mdate="2017-05-23">
+<author>Édouard Bonnet</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<author>Georgios Stamoulis</author>
+<title>A 0.821-Ratio Purely Combinatorial Algorithm for Maximum k-vertex Cover in Bipartite Graphs.</title>
+<pages>235-248</pages>
+<year>2016</year>
+<booktitle>LATIN</booktitle>
+<crossref>conf/latin/2016</crossref>
+<url>db/conf/latin/latin2016.html#BonnetEPS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wg/Escoffier16" mdate="2017-05-26">
+<author>Bruno Escoffier</author>
+<title>Saving Colors and Max Coloring: Some Fixed-Parameter Tractability Results.</title>
+<pages>50-61</pages>
+<year>2016</year>
+<booktitle>WG</booktitle>
+<crossref>conf/wg/2016</crossref>
+<url>db/conf/wg/wg2016.html#Escoffier16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wg/AngelBEL16" mdate="2017-05-26">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Michael Lampis</author>
+<title>Parameterized Power Vertex Cover.</title>
+<pages>97-108</pages>
+<year>2016</year>
+<booktitle>WG</booktitle>
+<crossref>conf/wg/2016</crossref>
+<url>db/conf/wg/wg2016.html#AngelBEL16</url>
+</inproceedings>
+</r>
+<r><article key="journals/algorithmica/BonnetE0P15" mdate="2017-05-17">
+<author>Edouard Bonnet</author>
+<author>Bruno Escoffier</author>
+<author>Eun Jung Kim 0002</author>
+<author>Vangelis Th. Paschos</author>
+<title>On Subexponential and FPT-Time Inapproximability.</title>
+<pages>541-565</pages>
+<year>2015</year>
+<volume>71</volume>
+<journal>Algorithmica</journal>
+<number>3</number>
+<url>db/journals/algorithmica/algorithmica71.html#BonnetE0P15</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/BonnetEPT15" mdate="2017-05-17">
+<author>Edouard Bonnet</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<author>Emeric Tourniaire</author>
+<title>Multi-parameter Analysis for Local Graph Partitioning Problems: Using Greediness for Parameterization.</title>
+<pages>566-580</pages>
+<year>2015</year>
+<volume>71</volume>
+<journal>Algorithmica</journal>
+<number>3</number>
+<url>db/journals/algorithmica/algorithmica71.html#BonnetEPT15</url>
+</article>
+</r>
+<r><article key="journals/mst/EscoffierMPX15" mdate="2017-05-28">
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Vangelis Th. Paschos</author>
+<author>Mingyu Xiao</author>
+<title>New Results on Polynomial Inapproximabilityand Fixed Parameter Approximability of Edge Dominating Set.</title>
+<pages>330-346</pages>
+<year>2015</year>
+<volume>56</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/mst/mst56.html#EscoffierMPX15</url>
+</article>
+</r>
+<r><article key="journals/tcs/EscoffierPT14" mdate="2017-05-28">
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<author>Emeric Tourniaire</author>
+<title>Approximating MAX SAT by moderately exponential and parameterized algorithms.</title>
+<pages>147-157</pages>
+<year>2014</year>
+<volume>560</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs560.html#EscoffierPT14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BonnetEPS14" mdate="2018-08-13">
+<author>Edouard Bonnet</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<author>Georgios Stamoulis</author>
+<title>On the approximation of maximum $k$-vertex cover in bipartite graphs.</title>
+<year>2014</year>
+<volume>abs/1409.6952</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1409.6952</ee>
+<url>db/journals/corr/corr1409.html#BonnetEPS14</url>
+</article>
+</r>
+<r><article key="journals/aamas/EscoffierGM13" mdate="2017-05-20">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<title>Fair solutions for some multiagent optimization problems.</title>
+<pages>184-201</pages>
+<year>2013</year>
+<volume>26</volume>
+<journal>Autonomous Agents and Multi-Agent Systems</journal>
+<number>2</number>
+<url>db/journals/aamas/aamas26.html#EscoffierGM13</url>
+</article>
+</r>
+<r><article key="journals/dam/BourgeoisCEP13" mdate="2017-06-14">
+<author>Nicolas Bourgeois</author>
+<author orcid="0000-0003-2897-183X">Federico Della Croce</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Fast algorithms for min independent dominating set.</title>
+<pages>558-572</pages>
+<year>2013</year>
+<volume>161</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>4-5</number>
+<url>db/journals/dam/dam161.html#BourgeoisCEP13</url>
+</article>
+</r>
+<r><article key="journals/jda/BoriaBEP13" mdate="2017-05-28">
+<author>Nicolas Boria</author>
+<author>Nicolas Bourgeois</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Exponential approximation schemata for some network design problems.</title>
+<pages>43-52</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>J. Discrete Algorithms</journal>
+<url>db/journals/jda/jda22.html#BoriaBEP13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciac/EscoffierMPS13" mdate="2017-05-24">
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Fanny Pascual</author>
+<author>Olivier Spanjaard</author>
+<title>Truthful Many-to-Many Assignment with Private Weights.</title>
+<pages>209-220</pages>
+<year>2013</year>
+<booktitle>CIAC</booktitle>
+<crossref>conf/ciac/2013</crossref>
+<url>db/conf/ciac/ciac2013.html#EscoffierMPS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpec/BonnetE0P13" mdate="2017-05-26">
+<author>Edouard Bonnet</author>
+<author>Bruno Escoffier</author>
+<author>Eun Jung Kim 0002</author>
+<author>Vangelis Th. Paschos</author>
+<title>On Subexponential and FPT-Time Inapproximability.</title>
+<pages>54-65</pages>
+<year>2013</year>
+<booktitle>IPEC</booktitle>
+<crossref>conf/iwpec/2013</crossref>
+<url>db/conf/iwpec/ipec2013.html#BonnetE0P13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpec/BonnetEPT13" mdate="2017-05-26">
+<author>Edouard Bonnet</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<author>Emeric Tourniaire</author>
+<title>Multi-parameter Complexity Analysis for Constrained Size Graph Problems: Using Greediness for Parameterization.</title>
+<pages>66-77</pages>
+<year>2013</year>
+<booktitle>IPEC</booktitle>
+<crossref>conf/iwpec/2013</crossref>
+<url>db/conf/iwpec/ipec2013.html#BonnetEPT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sagt/EscoffierFGM13" mdate="2017-06-05">
+<author>Bruno Escoffier</author>
+<author orcid="0000-0002-7962-5200">Diodato Ferraioli</author>
+<author>Laurent Gourvès</author>
+<author>Stefano Moretti</author>
+<title>Designing Budget-Balanced Best-Response Mechanisms for Network Coordination Games.</title>
+<pages>207-218</pages>
+<year>2013</year>
+<booktitle>SAGT</booktitle>
+<crossref>conf/sagt/2013</crossref>
+<url>db/conf/sagt/sagt2013.html#EscoffierFGM13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BonnetEPT13" mdate="2018-08-13">
+<author>Edouard Bonnet</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<author>Emeric Tourniaire</author>
+<title>Multi-parameter complexity analysis for constrained size graph problems: using greediness for parameterization.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1306.2217</ee>
+<volume>abs/1306.2217</volume>
+<url>db/journals/corr/corr1306.html#BonnetEPT13</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/BourgeoisEPR12" mdate="2017-05-17">
+<author>Nicolas Bourgeois</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<author>Johan M. M. van Rooij</author>
+<title>Fast Algorithms for max independent set.</title>
+<pages>382-415</pages>
+<year>2012</year>
+<volume>62</volume>
+<journal>Algorithmica</journal>
+<number>1-2</number>
+<url>db/journals/algorithmica/algorithmica62.html#BourgeoisEPR12</url>
+</article>
+</r>
+<r><article key="journals/im/EscoffierGM12" mdate="2017-05-17">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<title>Strategic Coloring of a Graph.</title>
+<pages>424-455</pages>
+<year>2012</year>
+<volume>8</volume>
+<journal>Internet Mathematics</journal>
+<number>4</number>
+<url>db/journals/im/im8.html#EscoffierGM12</url>
+</article>
+</r>
+<r><article key="journals/tcs/BourgeoisCEP12" mdate="2017-06-14">
+<author>Nicolas Bourgeois</author>
+<author orcid="0000-0003-2897-183X">Federico Della Croce</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Algorithms for dominating clique problems.</title>
+<pages>77-88</pages>
+<year>2012</year>
+<volume>459</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs459.html#BourgeoisCEP12</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwpec/EscoffierMPX12" mdate="2017-05-26">
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Vangelis Th. Paschos</author>
+<author>Mingyu Xiao</author>
+<title>New Results on Polynomial Inapproximability and Fixed Parameter Approximability of edge dominating set.</title>
+<pages>25-36</pages>
+<year>2012</year>
+<booktitle>IPEC</booktitle>
+<crossref>conf/iwpec/2012</crossref>
+<url>db/conf/iwpec/ipec2012.html#EscoffierMPX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tamc/EscoffierPT12" mdate="2017-05-21">
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<author>Emeric Tourniaire</author>
+<title>Approximating MAX SAT by Moderately Exponential and Parameterized Algorithms.</title>
+<pages>202-213</pages>
+<year>2012</year>
+<booktitle>TAMC</booktitle>
+<crossref>conf/tamc/2012</crossref>
+<url>db/conf/tamc/tamc2012.html#EscoffierPT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/valuetools/EscoffierGMM12" mdate="2017-05-24">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<author>Stefano Moretti</author>
+<title>Cost allocation protocols for network formation on connection situations.</title>
+<pages>228-234</pages>
+<year>2012</year>
+<booktitle>VALUETOOLS</booktitle>
+<crossref>conf/valuetools/2012</crossref>
+<url>db/conf/valuetools/valuetools2012.html#EscoffierGMM12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1211-6656" mdate="2018-08-13">
+<author>Bruno Escoffier</author>
+<author>Eun Jung Kim 0002</author>
+<author>Vangelis Th. Paschos</author>
+<title>Subexponential and FPT-time Inapproximability of Independent Set and Related Problems</title>
+<ee type="oa">http://arxiv.org/abs/1211.6656</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1211.6656</volume>
+<url>db/journals/corr/corr1211.html#abs-1211-6656</url>
+</article>
+</r>
+<r><article key="journals/dam/BourgeoisEP11" mdate="2017-05-28">
+<author>Nicolas Bourgeois</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Approximation of max independent set, min vertex cover and related problems by moderately exponential algorithms.</title>
+<pages>1954-1970</pages>
+<year>2011</year>
+<volume>159</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>17</number>
+<url>db/journals/dam/dam159.html#BourgeoisEP11</url>
+</article>
+</r>
+<r><inproceedings key="conf/aldt/EscoffierGTPS11" mdate="2017-05-23">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Nguyen Kim Thang</author>
+<author>Fanny Pascual</author>
+<author>Olivier Spanjaard</author>
+<title>Strategy-Proof Mechanisms for Facility Location Games with Many Facilities.</title>
+<pages>67-81</pages>
+<year>2011</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2011</crossref>
+<url>db/conf/aldt/adt2011.html#EscoffierGTPS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sagt/EscoffierGM11" mdate="2017-05-21">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<title>The Price of Optimum in a Matching Game.</title>
+<pages>81-92</pages>
+<year>2011</year>
+<booktitle>SAGT</booktitle>
+<crossref>conf/sagt/2011</crossref>
+<url>db/conf/sagt/sagt2011.html#EscoffierGM11</url>
+</inproceedings>
+</r>
+<r><article key="journals/csr/EscoffierP10" mdate="2017-05-17">
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>A survey on the structure of approximation classes.</title>
+<pages>19-40</pages>
+<year>2010</year>
+<volume>4</volume>
+<journal>Computer Science Review</journal>
+<number>1</number>
+<url>db/journals/csr/csr4.html#EscoffierP10</url>
+</article>
+</r>
+<r><article key="journals/eor/EscoffierGMS10" mdate="2017-05-27">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<author>Olivier Spanjaard</author>
+<title>Two-stage stochastic matching and spanning tree problems: Polynomial instances and approximation.</title>
+<pages>19-30</pages>
+<year>2010</year>
+<volume>205</volume>
+<journal>European Journal of Operational Research</journal>
+<number>1</number>
+<url>db/journals/eor/eor205.html#EscoffierGMS10</url>
+</article>
+</r>
+<r><article key="journals/jda/EscoffierGM10" mdate="2017-05-28">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<title>Complexity and approximation results for the connected vertex cover problem in graphs and hypergraphs.</title>
+<pages>36-49</pages>
+<year>2010</year>
+<volume>8</volume>
+<journal>J. Discrete Algorithms</journal>
+<number>1</number>
+<url>db/journals/jda/jda8.html#EscoffierGM10</url>
+</article>
+</r>
+<r><article key="journals/tcs/DemetrescuEMR10" mdate="2017-05-28">
+<author>Camil Demetrescu</author>
+<author>Bruno Escoffier</author>
+<author>Gabriel Moruz</author>
+<author>Andrea Ribichini</author>
+<title>Adapting parallel algorithms to the W-Stream model, with applications to graph problems.</title>
+<pages>3994-4004</pages>
+<year>2010</year>
+<volume>411</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>44-46</number>
+<url>db/journals/tcs/tcs411.html#DemetrescuEMR10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciac/EscoffierGM10" mdate="2017-05-24">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<title>Strategic Coloring of a Graph.</title>
+<pages>155-166</pages>
+<year>2010</year>
+<booktitle>CIAC</booktitle>
+<crossref>conf/ciac/2010</crossref>
+<url>db/conf/ciac/ciac2010.html#EscoffierGM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/EscoffierGM10" mdate="2017-05-21">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<title>On the Impact of Local Taxes in a Set Cover Game.</title>
+<pages>2-13</pages>
+<year>2010</year>
+<booktitle>SIROCCO</booktitle>
+<crossref>conf/sirocco/2010</crossref>
+<url>db/conf/sirocco/sirocco2010.html#EscoffierGM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/BourgeoisEP10" mdate="2017-05-21">
+<author>Nicolas Bourgeois</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Fast Algorithms for min independent dominating set.</title>
+<pages>247-261</pages>
+<year>2010</year>
+<booktitle>SIROCCO</booktitle>
+<crossref>conf/sirocco/2010</crossref>
+<url>db/conf/sirocco/sirocco2010.html#BourgeoisEP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/swat/BourgeoisEPR10" mdate="2018-11-14">
+<author>Nicolas Bourgeois</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<author>Johan M. M. van Rooij</author>
+<title>A Bottom-Up Method and Fast Algorithms for max independent set.</title>
+<pages>62-73</pages>
+<year>2010</year>
+<booktitle>SWAT</booktitle>
+<crossref>conf/swat/2010</crossref>
+<url>db/conf/swat/swat2010.html#BourgeoisEPR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tamc/BourgeoisEPR10" mdate="2017-05-21">
+<author>Nicolas Bourgeois</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<author>Johan M. M. van Rooij</author>
+<title>Maximum Independent Set in Graphs of Average Degree at Most Three in <i>O</i>(1.08537<sup><i>n</i></sup>){\mathcal O}(1.08537^n).</title>
+<pages>373-384</pages>
+<year>2010</year>
+<booktitle>TAMC</booktitle>
+<crossref>conf/tamc/2010</crossref>
+<url>db/conf/tamc/tamc2010.html#BourgeoisEPR10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1012-3889" mdate="2018-08-13">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<title>Minimum regulation of uncoordinated matchings</title>
+<ee type="oa">http://arxiv.org/abs/1012.3889</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1012.3889</volume>
+<url>db/journals/corr/corr1012.html#abs-1012-3889</url>
+</article>
+</r>
+<r><article key="journals/aor/EscoffierMP09" mdate="2010-12-07">
+<author>Bruno Escoffier</author>
+<author>Martin Milanic</author>
+<author>Vangelis Th. Paschos</author>
+<title>Simple and Fast Reoptimizations for the Steiner Tree Problem.</title>
+<pages>86-94</pages>
+<year>2009</year>
+<volume>4</volume>
+<journal>Algorithmic Operations Research</journal>
+<number>2</number>
+<url>db/journals/aor/aor4.html#EscoffierMP09</url>
+</article>
+</r>
+<r><article key="journals/dam/WerraDEMP09" mdate="2017-05-28">
+<author>Dominique de Werra</author>
+<author>Marc Demange</author>
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Vangelis Th. Paschos</author>
+<title>Weighted coloring on planar, bipartite and split graphs: Complexity and approximation.</title>
+<pages>819-832</pages>
+<year>2009</year>
+<volume>157</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>4</number>
+<url>db/journals/dam/dam157.html#WerraDEMP09</url>
+</article>
+</r>
+<r><article key="journals/ipl/BourgeoisEP09" mdate="2017-05-26">
+<author>Nicolas Bourgeois</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Approximation of min coloring by moderately exponential algorithms.</title>
+<pages>950-954</pages>
+<year>2009</year>
+<volume>109</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>16</number>
+<url>db/journals/ipl/ipl109.html#BourgeoisEP09</url>
+</article>
+</r>
+<r><article key="journals/jco/BourgeoisCEMP09" mdate="2017-06-15">
+<author>Nicolas Bourgeois</author>
+<author orcid="0000-0003-2897-183X">Federico Della Croce</author>
+<author>Bruno Escoffier</author>
+<author>Cécile Murat</author>
+<author>Vangelis Th. Paschos</author>
+<title>Probabilistic graph-coloring in bipartite and split graphs.</title>
+<pages>274-311</pages>
+<year>2009</year>
+<volume>17</volume>
+<journal>J. Comb. Optim.</journal>
+<number>3</number>
+<url>db/journals/jco/jco17.html#BourgeoisCEMP09</url>
+</article>
+</r>
+<r><article key="journals/jda/AusielloEMP09" mdate="2017-05-28">
+<author>Giorgio Ausiello</author>
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Vangelis Th. Paschos</author>
+<title>Reoptimization of minimum and maximum traveling salesman's tours.</title>
+<pages>453-463</pages>
+<year>2009</year>
+<volume>7</volume>
+<journal>J. Discrete Algorithms</journal>
+<number>4</number>
+<url>db/journals/jda/jda7.html#AusielloEMP09</url>
+</article>
+</r>
+<r><article key="journals/tcs/BourgeoisEP09" mdate="2017-05-28">
+<author>Nicolas Bourgeois</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Efficient approximation of min set cover by moderately exponential algorithms.</title>
+<pages>2184-2195</pages>
+<year>2009</year>
+<volume>410</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>21-23</number>
+<url>db/journals/tcs/tcs410.html#BourgeoisEP09</url>
+</article>
+</r>
+<r><inproceedings key="conf/isaac/BourgeoisCEP09" mdate="2017-06-15">
+<author>Nicolas Bourgeois</author>
+<author orcid="0000-0003-2897-183X">Federico Della Croce</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Exact Algorithms for Dominating Clique Problems.</title>
+<pages>4-13</pages>
+<year>2009</year>
+<booktitle>ISAAC</booktitle>
+<crossref>conf/isaac/2009</crossref>
+<url>db/conf/isaac/isaac2009.html#BourgeoisCEP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wads/BourgeoisEP09" mdate="2017-05-21">
+<author>Nicolas Bourgeois</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Efficient Approximation of Combinatorial Problems by Moderately Exponential Algorithms.</title>
+<pages>507-518</pages>
+<year>2009</year>
+<booktitle>WADS</booktitle>
+<crossref>conf/wads/2009</crossref>
+<url>db/conf/wads/wads2009.html#BourgeoisEP09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0901-1563" mdate="2018-08-13">
+<author>Nicolas Bourgeois</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<author>Johan M. M. van Rooij</author>
+<title>Fast Algorithms for Max Independent Set in Graphs of Small Average Degree</title>
+<ee type="oa">http://arxiv.org/abs/0901.1563</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0901.1563</volume>
+<url>db/journals/corr/corr0901.html#abs-0901-1563</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0905-1993" mdate="2018-08-13">
+<author>Nicolas Bourgeois</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Fast algorithms for min independent dominating set</title>
+<ee type="oa">http://arxiv.org/abs/0905.1993</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0905.1993</volume>
+<url>db/journals/corr/corr0905.html#abs-0905-1993</url>
+</article>
+</r>
+<r><article key="journals/orl/EscoffierMS08" mdate="2017-05-27">
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Olivier Spanjaard</author>
+<title>Some tractable instances of interval data minmax regret problems.</title>
+<pages>424-429</pages>
+<year>2008</year>
+<volume>36</volume>
+<journal>Oper. Res. Lett.</journal>
+<number>4</number>
+<url>db/journals/orl/orl36.html#EscoffierMS08</url>
+</article>
+</r>
+<r><article key="journals/tcs/EscoffierM08" mdate="2017-05-28">
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<title>A better differential approximation ratio for symmetric TSP.</title>
+<pages>63-70</pages>
+<year>2008</year>
+<volume>396</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<url>db/journals/tcs/tcs396.html#EscoffierM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/EscoffierLO08" mdate="2017-05-24">
+<author>Bruno Escoffier</author>
+<author>Jérôme Lang</author>
+<author>Meltem Öztürk</author>
+<title>Single-peaked consistency and its complexity.</title>
+<pages>366-370</pages>
+<year>2008</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2008</crossref>
+<url>db/conf/ecai/ecai2008.html#EscoffierLO08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpec/BourgeoisEP08" mdate="2017-05-26">
+<author>Nicolas Bourgeois</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>An O*(1.0977<sup>n</sup>) Exact Algorithm for max independent set in Sparse Graphs.</title>
+<pages>55-65</pages>
+<year>2008</year>
+<booktitle>IWPEC</booktitle>
+<crossref>conf/iwpec/2008</crossref>
+<url>db/conf/iwpec/iwpec2008.html#BourgeoisEP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sofsem/EscoffierMS08" mdate="2017-05-23">
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Olivier Spanjaard</author>
+<title>Some Tractable Instances of Interval Data Minmax Regret Problems: Bounded Distance from Triviality.</title>
+<pages>280-291</pages>
+<year>2008</year>
+<crossref>conf/sofsem/2008</crossref>
+<booktitle>SOFSEM</booktitle>
+<url>db/conf/sofsem/sofsem2008.html#EscoffierMS08</url>
+</inproceedings>
+</r>
+<r><article key="journals/4or/Escoffier07" mdate="2017-05-26">
+<author>Bruno Escoffier</author>
+<title>Polynomial approximation: a structural and operational study.</title>
+<pages>161-164</pages>
+<year>2007</year>
+<volume>5</volume>
+<journal>4OR</journal>
+<number>2</number>
+<url>db/journals/4or/4or5.html#Escoffier07</url>
+</article>
+</r>
+<r><article key="journals/disopt/EscoffierH07" mdate="2017-05-28">
+<author>Bruno Escoffier</author>
+<author>Peter L. Hammer</author>
+<title>Approximation of the Quadratic Set Covering problem.</title>
+<pages>378-386</pages>
+<year>2007</year>
+<volume>4</volume>
+<journal>Discrete Optimization</journal>
+<number>3-4</number>
+<url>db/journals/disopt/disopt4.html#EscoffierH07</url>
+</article>
+</r>
+<r><article key="journals/eor/EscoffierP07" mdate="2017-05-27">
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Differential approximation of min sat.</title>
+<pages>620-633</pages>
+<year>2007</year>
+<volume>181</volume>
+<journal>European Journal of Operational Research</journal>
+<number>2</number>
+<url>db/journals/eor/eor181.html#EscoffierP07</url>
+</article>
+</r>
+<r><article key="journals/orl/CroceEP07" mdate="2017-06-14">
+<author orcid="0000-0003-2897-183X">Federico Della Croce</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Improved worst-case complexity for the MIN 3-SET COVERING problem.</title>
+<pages>205-210</pages>
+<year>2007</year>
+<volume>35</volume>
+<journal>Oper. Res. Lett.</journal>
+<number>2</number>
+<url>db/journals/orl/orl35.html#CroceEP07</url>
+</article>
+</r>
+<r><inproceedings key="conf/mfcs/DemetrescuEMR07" mdate="2017-05-25">
+<author>Camil Demetrescu</author>
+<author>Bruno Escoffier</author>
+<author>Gabriel Moruz</author>
+<author>Andrea Ribichini</author>
+<title>Adapting Parallel Algorithms to the W-Stream Model, with Applications to Graph Problems.</title>
+<pages>194-205</pages>
+<year>2007</year>
+<crossref>conf/mfcs/2007</crossref>
+<booktitle>MFCS</booktitle>
+<url>db/conf/mfcs/mfcs2007.html#DemetrescuEMR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wg/EscoffierGM07" mdate="2017-05-26">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<title>Complexity and Approximation Results for the Connected Vertex Cover Problem.</title>
+<pages>202-213</pages>
+<year>2007</year>
+<crossref>conf/wg/2007</crossref>
+<booktitle>WG</booktitle>
+<url>db/conf/wg/wg2007.html#EscoffierGM07</url>
+</inproceedings>
+</r>
+<r><article key="journals/ipl/EscoffierMP06" mdate="2017-05-26">
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Vangelis Th. Paschos</author>
+<title>Weighted Coloring: further complexity and approximability results.</title>
+<pages>98-103</pages>
+<year>2006</year>
+<volume>97</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl97.html#EscoffierMP06</url>
+</article>
+</r>
+<r><article key="journals/rairo/EscoffierP06" mdate="2017-05-26">
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>On-line models and algorithms for max independent set.</title>
+<pages>129-142</pages>
+<year>2006</year>
+<volume>40</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>2</number>
+<url>db/journals/rairo/rairo40.html#EscoffierP06</url>
+</article>
+</r>
+<r><article key="journals/tcs/EscoffierP06" mdate="2017-05-28">
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Completeness in approximation classes beyond APX.</title>
+<pages>369-377</pages>
+<year>2006</year>
+<volume>359</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<url>db/journals/tcs/tcs359.html#EscoffierP06</url>
+</article>
+</r>
+<r><inproceedings key="conf/swat/AusielloEMP06" mdate="2017-05-23">
+<author>Giorgio Ausiello</author>
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Vangelis Th. Paschos</author>
+<title>Reoptimization of Minimum and Maximum Traveling Salesman's Tours.</title>
+<pages>196-207</pages>
+<year>2006</year>
+<crossref>conf/swat/2006</crossref>
+<booktitle>SWAT</booktitle>
+<url>db/conf/swat/swat2006.html#AusielloEMP06</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcm/EscoffierP05" mdate="2017-05-28">
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Proving completeness by logic.</title>
+<pages>151-161</pages>
+<year>2005</year>
+<volume>82</volume>
+<journal>Int. J. Comput. Math.</journal>
+<number>2</number>
+<url>db/journals/ijcm/ijcm82.html#EscoffierP05</url>
+</article>
+</r>
+<r><article key="journals/tcs/BazganEP05" mdate="2018-11-14">
+<author>Cristina Bazgan</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Completeness in standard and differential approximation classes: Poly-(D)APX- and (D)PTAS-completeness.</title>
+<pages>272-292</pages>
+<year>2005</year>
+<volume>339</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>2-3</number>
+<url>db/journals/tcs/tcs339.html#BazganEP05</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccsa/EscoffierP05" mdate="2017-05-24">
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Differential Approximation of min sat, max sat and Related Problems.</title>
+<pages>192-201</pages>
+<year>2005</year>
+<crossref>conf/iccsa/2005-4</crossref>
+<booktitle>ICCSA (4)</booktitle>
+<url>db/conf/iccsa/iccsa2005-4.html#EscoffierP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/CroceEMP05" mdate="2017-05-24">
+<author>Federico Della Croce</author>
+<author>Bruno Escoffier</author>
+<author>Cécile Murat</author>
+<author>Vangelis Th. Paschos</author>
+<title>Probabilistic Coloring of Bipartite and Split Graphs.</title>
+<pages>202-211</pages>
+<year>2005</year>
+<crossref>conf/iccsa/2005-4</crossref>
+<booktitle>ICCSA (4)</booktitle>
+<url>db/conf/iccsa/iccsa2005-4.html#CroceEMP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs/EscoffierMP05" mdate="2017-05-21">
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Vangelis Th. Paschos</author>
+<title>Weighted Coloring: Further Complexity and Approximability Results.</title>
+<pages>205-214</pages>
+<year>2005</year>
+<crossref>conf/ictcs/2005</crossref>
+<booktitle>ICTCS</booktitle>
+<url>db/conf/ictcs/ictcs2005.html#EscoffierMP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isaac/BazganEP04" mdate="2017-05-19">
+<author>Cristina Bazgan</author>
+<author>Bruno Escoffier</author>
+<author>Vangelis Th. Paschos</author>
+<title>Poly-APX- and PTAS-Completeness in Standard and Differential Approximation.</title>
+<pages>124-136</pages>
+<year>2004</year>
+<crossref>conf/isaac/2004</crossref>
+<booktitle>ISAAC</booktitle>
+<url>db/conf/isaac/isaac2004.html#BazganEP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isaac/MonnotPWDE04" mdate="2017-05-19">
+<author>Jérôme Monnot</author>
+<author>Vangelis Th. Paschos</author>
+<author>Dominique de Werra</author>
+<author>Marc Demange</author>
+<author>Bruno Escoffier</author>
+<title>Weighted Coloring on Planar, Bipartite and Split Graphs: Complexity and Improved Approximation.</title>
+<pages>896-907</pages>
+<year>2004</year>
+<crossref>conf/isaac/2004</crossref>
+<booktitle>ISAAC</booktitle>
+<url>db/conf/isaac/isaac2004.html#MonnotPWDE04</url>
+</inproceedings>
+</r>
+<coauthors n="39" nc="1">
+<co c="0"><na f="a/Angel:Eric">Eric Angel</na></co>
+<co c="0"><na f="a/Ausiello:Giorgio">Giorgio Ausiello</na></co>
+<co c="0"><na f="b/Bampis:Evripidis">Evripidis Bampis</na></co>
+<co c="0"><na f="b/Bazgan:Cristina">Cristina Bazgan</na></co>
+<co c="0" n="2"><na f="b/Bonnet:=Eacute=douard">Édouard Bonnet</na><na>Edouard Bonnet</na></co>
+<co c="0"><na f="b/Boria:Nicolas">Nicolas Boria</na></co>
+<co c="0"><na f="b/Bourgeois:Nicolas">Nicolas Bourgeois</na></co>
+<co c="0"><na f="c/Christou:Dimitris">Dimitris Christou</na></co>
+<co c="0"><na f="c/Croce:Federico_Della">Federico Della Croce</na></co>
+<co c="0"><na f="d/Demange:Marc">Marc Demange</na></co>
+<co c="0"><na f="d/Demetrescu:Camil">Camil Demetrescu</na></co>
+<co c="0"><na f="f/Ferraioli:Diodato">Diodato Ferraioli</na></co>
+<co c="0"><na f="g/Gilbert:Hugo">Hugo Gilbert</na></co>
+<co c="0"><na f="g/Gourv=egrave=s:Laurent">Laurent Gourvès</na></co>
+<co c="0"><na f="h/Hammer:Peter_L=">Peter L. Hammer</na></co>
+<co c="0"><na f="k/Kim_0002:Eun_Jung">Eun Jung Kim 0002</na></co>
+<co c="0"><na f="k/Kononov:Alexander">Alexander Kononov</na></co>
+<co c="0"><na f="l/Lampis:Michael">Michael Lampis</na></co>
+<co c="0"><na f="l/Lang:J=eacute=r=ocirc=me">Jérôme Lang</na></co>
+<co c="0"><na f="m/Milanic:Martin">Martin Milanic</na></co>
+<co c="0"><na f="m/Mladenovic:Sasa">Sasa Mladenovic</na></co>
+<co c="0"><na f="m/Monnot:J=eacute=r=ocirc=me">Jérôme Monnot</na></co>
+<co c="0"><na f="m/Moretti:Stefano">Stefano Moretti</na></co>
+<co c="0"><na f="m/Moruz:Gabriel">Gabriel Moruz</na></co>
+<co c="0"><na f="m/Murat:C=eacute=cile">Cécile Murat</na></co>
+<co c="0"><na f="=/=Ouml=zt=uuml=rk:Meltem">Meltem Öztürk</na></co>
+<co c="0"><na f="p/Paschos:Vangelis_Th=">Vangelis Th. Paschos</na></co>
+<co c="0"><na f="p/Pascual:Fanny">Fanny Pascual</na></co>
+<co c="0"><na f="p/Pass=Lanneau:Ad=egrave=le">Adèle Pass-Lanneau</na></co>
+<co c="0"><na f="r/Ribichini:Andrea">Andrea Ribichini</na></co>
+<co c="0"><na f="r/Rooij:Johan_M=_M=_van">Johan M. M. van Rooij</na></co>
+<co c="0"><na f="s/Schewior:Kevin">Kevin Schewior</na></co>
+<co c="0"><na f="s/Spanjaard:Olivier">Olivier Spanjaard</na></co>
+<co c="0"><na f="s/Stamoulis:Georgios">Georgios Stamoulis</na></co>
+<co c="0"><na f="t/Teiller:Alexandre">Alexandre Teiller</na></co>
+<co c="0"><na f="t/Thang:Nguyen_Kim">Nguyen Kim Thang</na></co>
+<co c="0"><na f="t/Tourniaire:Emeric">Emeric Tourniaire</na></co>
+<co c="0"><na f="w/Werra:Dominique_de">Dominique de Werra</na></co>
+<co c="0"><na f="x/Xiao:Mingyu">Mingyu Xiao</na></co>
+</coauthors>
+</dblpperson>
+

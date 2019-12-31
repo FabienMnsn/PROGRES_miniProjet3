@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Meryem Marzouki" n="13">
+<person key="homepages/24/772" mdate="2009-06-09">
+<author>Meryem Marzouki</author>
+</person>
+<r><article key="journals/adt/Marzouki07" mdate="2017-05-28">
+<author>Meryem Marzouki</author>
+<title>Identity control, activity control: from trust to suspicion.</title>
+<pages>1207-1222</pages>
+<year>2007</year>
+<volume>62</volume>
+<journal>Annales des Télécommunications</journal>
+<number>11-12</number>
+<url>db/journals/adt/adt62.html#Marzouki07</url>
+</article>
+</r>
+<r><article key="journals/et/BenabdenbiMM02" mdate="2017-05-18">
+<author>Mounir Benabdenbi</author>
+<author>Walid Maroufi</author>
+<author>Meryem Marzouki</author>
+<title>CAS-BUS: A Test Access Mechanism and a Toolbox Environment for Core-Based System Chip Testing.</title>
+<pages>455-473</pages>
+<year>2002</year>
+<volume>18</volume>
+<journal>J. Electronic Testing</journal>
+<number>4-5</number>
+<url>db/journals/et/et18.html#BenabdenbiMM02</url>
+</article>
+</r>
+<r><article key="journals/et/BukovjanDM01" mdate="2017-05-18">
+<author>P. Bukovjan</author>
+<author>L. Ducerf-Bourbon</author>
+<author>Meryem Marzouki</author>
+<title>Cost/Quality Trade-off in Synthesis for BIST.</title>
+<pages>109-119</pages>
+<year>2001</year>
+<volume>17</volume>
+<journal>J. Electronic Testing</journal>
+<number>2</number>
+<url>db/journals/et/et17.html#BukovjanDM01</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/BenabdenbiMM01" mdate="2017-05-23">
+<author>Mounir Benabdenbi</author>
+<author>Walid Maroufi</author>
+<author>Meryem Marzouki</author>
+<title>Testing TAPed cores and wrapped cores with the same test access mechanism.</title>
+<pages>150-155</pages>
+<year>2001</year>
+<crossref>conf/date/2001</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2001.html#BenabdenbiMM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/BenabdenebiMM00" mdate="2018-11-06">
+<author>Mounir Benabdenbi</author>
+<author>Walid Maroufi</author>
+<author>Meryem Marzouki</author>
+<title>CAS-BUS: A Scalable and Reconfigurable Test Access Mechanism for Systems on a Chip.</title>
+<pages>141-145</pages>
+<year>2000</year>
+<crossref>conf/date/2000</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2000.html#BenabdenebiMM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vts/AbrahamFLMPRT97" mdate="2015-12-11">
+<author>J. Abraham</author>
+<author>Phyllis G. Frankl</author>
+<author>Christian Landrault</author>
+<author>Meryem Marzouki</author>
+<author>Paolo Prinetto</author>
+<author>Chantal Robach</author>
+<author>Pascale Thévenod-Fosse</author>
+<title>Hardware Test: Can We Learn from Software Testing?</title>
+<pages>320-321</pages>
+<year>1997</year>
+<crossref>conf/vts/1997</crossref>
+<booktitle>VTS</booktitle>
+<url>db/conf/vts/vts1997.html#AbrahamFLMPRT97</url>
+</inproceedings>
+</r>
+<r><article key="journals/et/MohamedM96" mdate="2017-05-18">
+<author>Firas Mohamed</author>
+<author>Meryem Marzouki</author>
+<title>Test and diagnosis of analog circuits: When fuzziness can lead to accuracy.</title>
+<pages>203-216</pages>
+<year>1996</year>
+<volume>9</volume>
+<journal>J. Electronic Testing</journal>
+<number>1-2</number>
+<url>db/journals/et/et9.html#MohamedM96</url>
+</article>
+</r>
+<r><inproceedings key="conf/ats/AlvesAM96" mdate="2017-05-25">
+<author>Vladimir Castro Alves</author>
+<author>A. Ribeiro Antunes</author>
+<author>Meryem Marzouki</author>
+<title>A Pragmatic, Systematic And Flexible Synthesis For Testability Methodology.</title>
+<pages>263-268</pages>
+<year>1996</year>
+<crossref>conf/ats/1996</crossref>
+<booktitle>Asian Test Symposium</booktitle>
+<url>db/conf/ats/ats1996.html#AlvesAM96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/MohamedMT96" mdate="2017-05-23">
+<author>Firas Mohamed</author>
+<author>Meryem Marzouki</author>
+<author>Mohamed Hedi Touati</author>
+<title>FLAMES: A Fuzzy Logic ATMS and Model-based Expert System for Analog Diagnosis.</title>
+<pages>259-263</pages>
+<year>1996</year>
+<booktitle>EDandTC</booktitle>
+<crossref>conf/date/1996</crossref>
+<url>db/conf/date/edtc1996.html#MohamedMT96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/TouatiMM96" mdate="2017-05-23">
+<author>Mohamed Hedi Touati</author>
+<author>Firas Mohamed</author>
+<author>Meryem Marzouki</author>
+<title>System Fault Diagnosis based on a Fuzzy Qualitative Approach.</title>
+<pages>616</pages>
+<year>1996</year>
+<booktitle>EDandTC</booktitle>
+<crossref>conf/date/1996</crossref>
+<url>db/conf/date/edtc1996.html#TouatiMM96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/MarzoukiLT93" mdate="2019-02-11">
+<author>Meryem Marzouki</author>
+<author>Marcelo Lubaszewski</author>
+<author>Mohamed Hedi Touati</author>
+<title>Unifying test and diagnosis of interconnects and logic clusters in partial boundary scan boards.</title>
+<pages>654-657</pages>
+<year>1993</year>
+<crossref>conf/iccad/1993</crossref>
+<booktitle>ICCAD</booktitle>
+<url>db/conf/iccad/iccad1993.html#MarzoukiLT93</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Marzouki91" mdate="2016-07-13">
+<author>Meryem Marzouki</author>
+<title>Approches a base de connaissances pour le test de circuits VLSI : application à la validation de prototypes dans le cadre d'un test sans contact. (Knowledge-based approaches to VLSI circuit testing : application to prototype validation by contactless testing).</title>
+<year>1991</year>
+<school>Grenoble Institute of Technology, France</school>
+</phdthesis>
+</r>
+<r><article key="journals/et/Marzouki91" mdate="2017-05-18">
+<author>Meryem Marzouki</author>
+<title>Model-based reasoning for electron-beam debugging of VLSI circuits.</title>
+<pages>385-394</pages>
+<year>1991</year>
+<volume>2</volume>
+<journal>J. Electronic Testing</journal>
+<number>4</number>
+<url>db/journals/et/et2.html#Marzouki91</url>
+</article>
+</r>
+<coauthors n="15" nc="4">
+<co c="0"><na f="a/Abraham:J=">J. Abraham</na></co>
+<co c="1"><na f="a/Alves:Vladimir_Castro">Vladimir Castro Alves</na></co>
+<co c="1"><na f="a/Antunes:A=_Ribeiro">A. Ribeiro Antunes</na></co>
+<co c="3"><na f="b/Benabdenbi:Mounir">Mounir Benabdenbi</na></co>
+<co c="2"><na f="b/Bukovjan:P=">P. Bukovjan</na></co>
+<co c="2"><na f="d/Ducerf=Bourbon:L=">L. Ducerf-Bourbon</na></co>
+<co c="0"><na f="f/Frankl:Phyllis_G=">Phyllis G. Frankl</na></co>
+<co c="0"><na f="l/Landrault:Christian">Christian Landrault</na></co>
+<co c="1"><na f="l/Lubaszewski:Marcelo">Marcelo Lubaszewski</na></co>
+<co c="3"><na f="m/Maroufi:Walid">Walid Maroufi</na></co>
+<co c="1"><na f="m/Mohamed:Firas">Firas Mohamed</na></co>
+<co c="0"><na f="p/Prinetto:Paolo">Paolo Prinetto</na></co>
+<co c="0"><na f="r/Robach:Chantal">Chantal Robach</na></co>
+<co c="0"><na f="t/Th=eacute=venod=Fosse:Pascale">Pascale Thévenod-Fosse</na></co>
+<co c="1"><na f="t/Touati:Mohamed_Hedi">Mohamed Hedi Touati</na></co>
+</coauthors>
+</dblpperson>
+

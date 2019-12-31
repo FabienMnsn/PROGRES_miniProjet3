@@ -1,0 +1,1579 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Jean-Gabriel Ganascia" n="121">
+<person key="homepages/g/JGGanascia" mdate="2019-08-13">
+<author>Jean-Gabriel Ganascia</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www-poleia.lip6.fr/~ganascia/</url>
+<url>https://www.wikidata.org/entity/Q33187216</url>
+<url>http://isni.org/isni/0000000116483877</url>
+<url>https://id.loc.gov/authorities/names/n90652072</url>
+<url>https://d-nb.info/gnd/140221891</url>
+</person>
+<r><article key="journals/eswa/UgonKSSBGGPP18" mdate="2018-09-13">
+<author orcid="0000-0001-8258-5759">Adrien Ugon</author>
+<author>Amina Kotti</author>
+<author>Brigitte Séroussi</author>
+<author>Karima Sedki</author>
+<author>Jacques Bouaud</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Patrick Garda</author>
+<author>Carole Philippe</author>
+<author>Andréa Pinna</author>
+<title>Knowledge-based decision system for automatic sleep staging using symbolic fusion in a turing machine-like decision process formalizing the sleep medicine guidelines.</title>
+<pages>414-427</pages>
+<year>2018</year>
+<volume>114</volume>
+<journal>Expert Syst. Appl.</journal>
+<url>db/journals/eswa/eswa114.html#UgonKSSBGGPP18</url>
+</article>
+</r>
+<r><article key="journals/ria/BerrebyBG18" mdate="2019-12-05">
+<author>Fiona Berreby</author>
+<author>Gauvain Bourgne</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Cadre déclaratif modulaire d'évaluation d'actions selon différents principes éthiques.</title>
+<pages>479-518</pages>
+<year>2018</year>
+<volume>32</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>4</number>
+<url>db/journals/ria/ria32.html#BerrebyBG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BerrebyBG18" mdate="2018-07-16">
+<author>Fiona Berreby</author>
+<author>Gauvain Bourgne</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Event-Based and Scenario-Based Causality for Computational Ethics.</title>
+<pages>147-155</pages>
+<year>2018</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2018</crossref>
+<url>db/conf/atal/aamas2018.html#BerrebyBG18</url>
+</inproceedings>
+</r>
+<r><article key="journals/dhq/FrontiniBG17" mdate="2019-05-22">
+<author>Francesca Frontini</author>
+<author>Mohamed Amine Boukhaled</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Mining for characterising patterns in literature using correspondence analysis: an experiment on French novels.</title>
+<year>2017</year>
+<volume>11</volume>
+<journal>Digital Humanities Quarterly</journal>
+<number>2</number>
+<ee type="oa">http://www.digitalhumanities.org/dhq/vol/11/2/000295/000295.html</ee>
+<url>db/journals/dhq/dhq11.html#FrontiniBG17</url>
+</article>
+</r>
+<r><article key="journals/jodl/YangG17" mdate="2017-07-28">
+<author orcid="0000-0002-4006-328X">Bin Yang 0005</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Creating knowledge maps using Memory Island.</title>
+<pages>41-57</pages>
+<year>2017</year>
+<volume>18</volume>
+<journal>Int. J. on Digital Libraries</journal>
+<number>1</number>
+<url>db/journals/jodl/jodl18.html#YangG17</url>
+</article>
+</r>
+<r><article key="journals/lalc/GemmaGG17" mdate="2017-09-14">
+<author>Marissa Gemma</author>
+<author>Frédéric Glorieux</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Operationalizing the colloquial style: Repetition in 19th-century American fiction.</title>
+<pages>312-335</pages>
+<year>2017</year>
+<volume>32</volume>
+<journal>DSH</journal>
+<number>2</number>
+<url>db/journals/lalc/lalc32.html#GemmaGG17</url>
+</article>
+</r>
+<r><article key="journals/ram/GrinbaumCDGTD17" mdate="2019-09-14">
+<author orcid="0000-0002-7484-1553">Alexei Grinbaum</author>
+<author>Raja Chatila 0001</author>
+<author>Laurence Devillers</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Catherine Tessier</author>
+<author>Max Dauchet</author>
+<title>Ethics in Robotics Research: CERNA Mission and Context.</title>
+<pages>139-145</pages>
+<year>2017</year>
+<volume>24</volume>
+<journal>IEEE Robot. Automat. Mag.</journal>
+<number>3</number>
+<url>db/journals/ram/ram24.html#GrinbaumCDGTD17</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BerrebyBG17" mdate="2017-05-11">
+<author>Fiona Berreby</author>
+<author>Gauvain Bourgne</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>A Declarative Modular Framework for Representing and Applying Ethical Principles.</title>
+<pages>96-104</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#BerrebyBG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/RucarG17" mdate="2018-06-28">
+<author>Yan Rucar</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Une Ontologie Pour Archiver Et Donner Accès Aux OEuvres Numériques Littéraires.</title>
+<year>2017</year>
+<booktitle>DH</booktitle>
+<crossref>conf/dihu/2017</crossref>
+<url>db/conf/dihu/dh2017.html#RucarG17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-00044" mdate="2018-08-13">
+<author>Hussam Hamdan</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Graph Centrality Measures for Boosting Popularity-Based Entity Linking.</title>
+<year>2017</year>
+<volume>abs/1712.00044</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.00044</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-00044</url>
+</article>
+</r>
+<r><article key="journals/csimq/BrandoFG16" mdate="2019-05-22">
+<author>Carmen Brando</author>
+<author>Francesca Frontini</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>REDEN: Named Entity Linking in Digital Literary Editions Using Linked Data Sets.</title>
+<pages>60-80</pages>
+<year>2016</year>
+<volume>7</volume>
+<journal>CSIMQ</journal>
+<ee type="oa">https://doi.org/10.7250/csimq.2016-7.04</ee>
+<url>db/journals/csimq/csimq7.html#BrandoFG16</url>
+</article>
+</r>
+<r><article key="journals/ijgs/BazinG16" mdate="2017-05-20">
+<author>Alexandre Bazin</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Computing the Duquenne-Guigues basis: an algorithm for choosing the order.</title>
+<pages>57-85</pages>
+<year>2016</year>
+<volume>45</volume>
+<journal>Int. J. General Systems</journal>
+<number>2</number>
+<url>db/journals/ijgs/ijgs45.html#BazinG16</url>
+</article>
+</r>
+<r><article key="journals/phat/0039LU0AGGPP16" mdate="2019-05-24">
+<author>Chen Chen 0039</author>
+<author>Xue Liu</author>
+<author>Adrien Ugon</author>
+<author>Xun Zhang 0002</author>
+<author>Amara Amara</author>
+<author>Patrick Garda</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Carole Philippe</author>
+<author>Andréa Pinna</author>
+<title>Symbolic Fusion: A Novel Decision Support Algorithm for Sleep Staging Application.</title>
+<pages>e4</pages>
+<year>2016</year>
+<volume>2</volume>
+<journal>EAI Endorsed Trans. Pervasive Health Technol.</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.4108/eai.14-10-2015.2261933</ee>
+<url>db/journals/phat/phat2.html#0039LU0AGGPP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/biocas/ChenUZAGGKPP16" mdate="2019-01-29">
+<author>Chen Chen 0039</author>
+<author>Adrien Ugon</author>
+<author>Xun Zhang 0002</author>
+<author>Amara Amara</author>
+<author>Patrick Garda</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Amina Kotti</author>
+<author>Carole Philippe</author>
+<author>Andréa Pinna</author>
+<title>Cross entropy-based automatic thresholds setting-up method for sleep staging system.</title>
+<pages>312-315</pages>
+<year>2016</year>
+<booktitle>BioCAS</booktitle>
+<crossref>conf/biocas/2016</crossref>
+<url>db/conf/biocas/biocas2016.html#ChenUZAGGKPP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/FrontiniBG16" mdate="2018-07-11">
+<author>Francesca Frontini</author>
+<author>Carmen Brando</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>REDEN ONLINE: Disambiguation, Linking and Visualisation of References in TEI Digital Editions.</title>
+<pages>193-197</pages>
+<year>2016</year>
+<booktitle>DH</booktitle>
+<crossref>conf/dihu/2016</crossref>
+<url>db/conf/dihu/dh2016.html#FrontiniBG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/GanasciaM16" mdate="2018-07-11">
+<author>Jean-Gabriel Ganascia</author>
+<author>Chiara Mainardi</author>
+<title>Crossed Semantic Analysis of Literary Texts with DeSeRT.</title>
+<pages>199-201</pages>
+<year>2016</year>
+<booktitle>DH</booktitle>
+<crossref>conf/dihu/2016</crossref>
+<url>db/conf/dihu/dh2016.html#GanasciaM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/Abi-HaidarG16" mdate="2018-07-11">
+<author>Alaa Abi-Haidar</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Automatic Detection of Characters in Case Insensitive Text in Comics.</title>
+<pages>425-426</pages>
+<year>2016</year>
+<booktitle>DH</booktitle>
+<crossref>conf/dihu/2016</crossref>
+<url>db/conf/dihu/dh2016.html#Abi-HaidarG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/0005MG16" mdate="2018-07-11">
+<author>Bin Yang 0005</author>
+<author>Chiara Mainardi</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Browsing, Sharing, Learning and Reviewing the Haine du théâtre Corpus through Insightful Island.</title>
+<pages>913-915</pages>
+<year>2016</year>
+<booktitle>DH</booktitle>
+<crossref>conf/dihu/2016</crossref>
+<url>db/conf/dihu/dh2016.html#0005MG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/embc/ChenUZAGGPP16" mdate="2019-01-29">
+<author>Chen Chen 0039</author>
+<author>Adrien Ugon</author>
+<author>Xun Zhang 0002</author>
+<author>Amara Amara</author>
+<author>Patrick Garda</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Carole Philippe</author>
+<author>Andréa Pinna</author>
+<title>Personalized sleep staging system using evolutionary algorithm and symbolic fusion.</title>
+<pages>2266-2269</pages>
+<year>2016</year>
+<booktitle>EMBC</booktitle>
+<crossref>conf/embc/2016</crossref>
+<url>db/conf/embc/embc2016.html#ChenUZAGGPP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iv/Abi-HaidarYG16" mdate="2017-07-28">
+<author>Alaa Abi-Haidar</author>
+<author orcid="0000-0002-4006-328X">Bin Yang 0005</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Visualizing the First World War Using StreamGraphs and Information Extraction.</title>
+<pages>290-293</pages>
+<year>2016</year>
+<booktitle>IV</booktitle>
+<crossref>conf/iv/2016</crossref>
+<url>db/conf/iv/iv2016.html#Abi-HaidarYG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mie/UgonSKSPGGBP16" mdate="2019-09-16">
+<author orcid="0000-0001-8258-5759">Adrien Ugon</author>
+<author>Karima Sedki</author>
+<author>Amina Kotti</author>
+<author>Brigitte Séroussi</author>
+<author>Carole Philippe</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Patrick Garda</author>
+<author>Jacques Bouaud</author>
+<author>Andréa Pinna</author>
+<title>Decision System Integrating Preferences to Support Sleep Staging.</title>
+<pages>514-518</pages>
+<year>2016</year>
+<booktitle>MIE</booktitle>
+<crossref>conf/mie/2016</crossref>
+<url>db/conf/mie/mie2016.html#UgonSKSPGGBP16</url>
+</inproceedings>
+</r>
+<r><article key="journals/fidh/Ganascia15" mdate="2018-11-14">
+<author>Jean-Gabriel Ganascia</author>
+<title>The Logic of the Big Data Turn in Digital Literary Studies.</title>
+<year>2015</year>
+<volume>2015</volume>
+<journal>Front. Digital Humanities</journal>
+<ee type="oa">https://doi.org/10.3389/fdigh.2015.00007</ee>
+<url>db/journals/fidh/fidh2015.html#Ganascia15</url>
+</article>
+</r>
+<r><article key="journals/ijcla/BoukhaledFBG15" mdate="2017-04-07">
+<author>Mohamed Amine Boukhaled</author>
+<author>Francesca Frontini</author>
+<author>Gauvain Bourgne</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Computational Study of Stylistics: A Clustering-Based Interestingness Measure for Extracting Relevant Syntactic Patterns.</title>
+<pages>45-62</pages>
+<year>2015</year>
+<volume>6</volume>
+<journal>Int. J. Comput. Linguistics Appl.</journal>
+<number>1</number>
+<url>db/journals/ijcla/ijcla6.html#BoukhaledFBG15</url>
+</article>
+</r>
+<r><article key="journals/jetai/Ganascia15" mdate="2017-05-18">
+<author>Jean-Gabriel Ganascia</author>
+<title>Abstraction of levels of abstraction.</title>
+<pages>23-35</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>J. Exp. Theor. Artif. Intell.</journal>
+<number>1</number>
+<url>db/journals/jetai/jetai27.html#Ganascia15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/BelloniBBBBCCEG15" mdate="2016-09-27">
+<author>Aline Belloni</author>
+<author>Alain Berger</author>
+<author>Olivier Boissier</author>
+<author>Grégory Bonnet</author>
+<author>Gauvain Bourgne</author>
+<author>Pierre-Antoine Chardel</author>
+<author>Jean-Pierre Cotton</author>
+<author>Nicolas Evreux</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Philippe Jaillon</author>
+<author>Bruno Mermet</author>
+<author>Gauthier Picard</author>
+<author>Bernard Rever</author>
+<author>Gaële Simon</author>
+<author>Thibault de Swarte</author>
+<author>Catherine Tessier</author>
+<author>François Vexler</author>
+<author>Robert Voyer</author>
+<author>Antoine Zimmermann</author>
+<title>Dealing with Ethical Conflicts in Autonomous Agents and Multi-Agent Systems.</title>
+<year>2015</year>
+<booktitle>AAAI Workshop: AI and Ethics</booktitle>
+<crossref>conf/aaai/2015ethics</crossref>
+<url>db/conf/aaai/ethics2015.html#BelloniBBBBCCEG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/BrandoFG15" mdate="2017-05-21">
+<author>Carmen Brando</author>
+<author>Francesca Frontini</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Disambiguation of Named Entities in Cultural Heritage Texts Using Linked Data Sets.</title>
+<pages>505-514</pages>
+<year>2015</year>
+<booktitle>ADBIS (Short Papers and Workshops)</booktitle>
+<crossref>conf/adbis/2015w</crossref>
+<url>db/conf/adbis/adbis2015w.html#BrandoFG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/FrontiniBG15" mdate="2019-05-28">
+<author>Francesca Frontini</author>
+<author>Carmen Brando</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Semantic Web based Named Entity Linking for Digital Humanities and Heritage Texts.</title>
+<pages>77-88</pages>
+<year>2015</year>
+<booktitle>SW4SHD@ESWC</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1364/paper9.pdf</ee>
+<crossref>conf/esws/2015sw4sh</crossref>
+<url>db/conf/esws/sw4sh2015.html#FrontiniBG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gir/BrandoFG15" mdate="2018-11-06">
+<author>Carmen Brando</author>
+<author>Francesca Frontini</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Linked data for toponym linking in French literary texts.</title>
+<pages>3:1-3:2</pages>
+<year>2015</year>
+<booktitle>GIR</booktitle>
+<crossref>conf/gir/2015</crossref>
+<url>db/conf/gir/gir2015.html#BrandoFG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lpar/BerrebyBG15" mdate="2017-05-23">
+<author>Fiona Berreby</author>
+<author>Gauvain Bourgne</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Modelling Moral Reasoning and Ethical Responsibility with Logic Programming.</title>
+<pages>532-548</pages>
+<year>2015</year>
+<booktitle>LPAR</booktitle>
+<crossref>conf/lpar/2015</crossref>
+<url>db/conf/lpar/lpar2015.html#BerrebyBG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nldb/FrontiniBG15" mdate="2019-05-28">
+<author>Francesca Frontini</author>
+<author>Carmen Brando</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Domain-adapted named-entity linker using Linked Data.</title>
+<year>2015</year>
+<booktitle>WNACP@NLDB</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1386/named_entity.pdf</ee>
+<crossref>conf/nldb/2015wnacp</crossref>
+<url>db/conf/nldb/wnacp2015.html#FrontiniBG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/BoukhaledFG15" mdate="2019-05-28">
+<author>Mohamed Amine Boukhaled</author>
+<author>Francesca Frontini</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>A Peculiarity-based Exploration of Syntactical Patterns: a Computational Study of Stylistics.</title>
+<pages>31-40</pages>
+<year>2015</year>
+<booktitle>DMNLP@PKDD/ECML</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1410/paper5.pdf</ee>
+<crossref>conf/pkdd/2015dmnlp</crossref>
+<url>db/conf/pkdd/dmnlp2015.html#BoukhaledFG15</url>
+</inproceedings>
+</r>
+<r><incollection key="series/cogtech/Ganascia15" mdate="2017-12-12">
+<author>Jean-Gabriel Ganascia</author>
+<title>Non-monotonic Resolution of Conflicts for Ethical Reasoning.</title>
+<pages>101-118</pages>
+<year>2015</year>
+<booktitle>A Construction Manual for Robots' Ethical Systems</booktitle>
+<crossref>series/cogtech/331921547</crossref>
+<url>db/series/cogtech/331921547.html#Ganascia15</url>
+</incollection>
+</r>
+<r><incollection key="series/cogtech/TufisG15" mdate="2017-12-12">
+<author>Mihnea Tufis</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Grafting Norms onto the BDI Agent Model.</title>
+<pages>119-133</pages>
+<year>2015</year>
+<booktitle>A Construction Manual for Robots' Ethical Systems</booktitle>
+<crossref>series/cogtech/331921547</crossref>
+<url>db/series/cogtech/331921547.html#TufisG15</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/MpouliG15" mdate="2018-08-13">
+<author>Suzanne Mpouli</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>"Pale as death" or "pâle comme la mort": Frozen similes used as literary clichés.</title>
+<year>2015</year>
+<volume>abs/1511.01756</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.01756</ee>
+<url>db/journals/corr/corr1511.html#MpouliG15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MpouliG15a" mdate="2018-08-13">
+<author>Suzanne Mpouli</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Investigating the stylistic relevance of adjective and verb simile markers.</title>
+<year>2015</year>
+<volume>abs/1511.03053</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.03053</ee>
+<url>db/journals/corr/corr1511.html#MpouliG15a</url>
+</article>
+</r>
+<r><article key="journals/lalc/GanasciaGL14" mdate="2017-05-28">
+<author>Jean-Gabriel Ganascia</author>
+<author>Pierre Glaudes</author>
+<author>Andrea Del Lungo</author>
+<title>Automatic detection of reuses and citations in literary texts.</title>
+<pages>412-421</pages>
+<year>2014</year>
+<volume>29</volume>
+<journal>LLC</journal>
+<number>3</number>
+<url>db/journals/lalc/lalc29.html#GanasciaGL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/dihu/Abi-HaidarG14" mdate="2018-07-01">
+<author>Alaa Abi-Haidar</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Mapping French Press to the Digital Age.</title>
+<year>2014</year>
+<booktitle>DH</booktitle>
+<crossref>conf/dihu/2014</crossref>
+<url>db/conf/dihu/dh2014.html#Abi-HaidarG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/MakkaouiDBJG14" mdate="2014-07-31">
+<author>Olfa Makkaoui</author>
+<author>Jean-Pierre Desclés</author>
+<author>Marc Bertin</author>
+<author>Christophe Jouis</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Discursive Mining Viewpoints in Building Multi-Document Synthesized Sheets.</title>
+<year>2014</year>
+<booktitle>FLAIRS Conference</booktitle>
+<crossref>conf/flairs/2014</crossref>
+<url>db/conf/flairs/flairs2014.html#MakkaouiDBJG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/incdm/MosallamAG14" mdate="2017-05-19">
+<author>Yusra Mosallam</author>
+<author>Alaa Abi-Haidar</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Unsupervised Named Entity Recognition and Disambiguation: An Application to Old French Journals.</title>
+<pages>12-23</pages>
+<year>2014</year>
+<booktitle>ICDM</booktitle>
+<crossref>conf/incdm/2014</crossref>
+<url>db/conf/incdm/incdm2014.html#MosallamAG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/slsp/BoukhaledG14" mdate="2017-05-24">
+<author>Mohamed Amine Boukhaled</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Probabilistic Anomaly Detection Method for Authorship Verification.</title>
+<pages>211-219</pages>
+<year>2014</year>
+<booktitle>SLSP</booktitle>
+<crossref>conf/slsp/2014</crossref>
+<url>db/conf/slsp/slsp2014.html#BoukhaledG14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GanasciaGL14" mdate="2018-08-13">
+<author>Jean-Gabriel Ganascia</author>
+<author>Pierre Glaudes</author>
+<author>Andrea Del Lungo</author>
+<title>Automatic Detection of Reuses and Citations in Literary Texts.</title>
+<year>2014</year>
+<volume>abs/1404.2997</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1404.2997</ee>
+<url>db/journals/corr/corr1404.html#GanasciaGL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cla/BazinG13" mdate="2019-05-28">
+<author>Alexandre Bazin</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Enumerating Pseudo-Intents in a Partial Order.</title>
+<pages>45-56</pages>
+<year>2013</year>
+<booktitle>CLA</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1062/paper4.pdf</ee>
+<crossref>conf/cla/2013</crossref>
+<url>db/conf/cla/cla2013.html#BazinG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dihu/GanasciaGL13" mdate="2018-07-13">
+<author>Jean-Gabriel Ganascia</author>
+<author>Pierre Glaudes</author>
+<author>Andrea Del Lungo</author>
+<title>Automatic Detection of Reuses and Citations in Literary Texts.</title>
+<pages>191-193</pages>
+<year>2013</year>
+<booktitle>DH</booktitle>
+<crossref>conf/dihu/2013</crossref>
+<url>db/conf/dihu/dh2013.html#GanasciaGL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecal/Abi-HaidarSGT13" mdate="2017-09-16">
+<author>Alaa Abi-Haidar</author>
+<author orcid="0000-0001-5898-555X">Adrien Six</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Veronique Thomas-Vaslin</author>
+<title>The Artificial Immune Systems Domain: Identifying Progress and Main Contributors Using Publication and Co-Authorship Analyses.</title>
+<pages>1206-1217</pages>
+<year>2013</year>
+<booktitle>ECAL</booktitle>
+<crossref>conf/ecal/2013</crossref>
+<url>db/conf/ecal/ecal2013.html#Abi-HaidarSGT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/JouisRG13" mdate="2013-08-20">
+<author>Christophe Jouis</author>
+<author>Mohammed Yasin Rahman</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>A Neo-Topological Approach to Reasoning on Ontologies with Exceptions and Comparison with Defeasible Description Logics.</title>
+<year>2013</year>
+<booktitle>FLAIRS Conference</booktitle>
+<crossref>conf/flairs/2013</crossref>
+<url>db/conf/flairs/flairs2013.html#JouisRG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/PergamentAG12" mdate="2017-05-23">
+<author>David Pergament</author>
+<author>Armen Aghasaryan</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Reputation Diffusion Simulation for Avoiding Privacy Violation.</title>
+<pages>401-408</pages>
+<year>2012</year>
+<booktitle>TrustCom</booktitle>
+<crossref>conf/trustcom/2012</crossref>
+<url>db/conf/trustcom/trustcom2012.html#PergamentAG12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dis/2012" mdate="2019-05-14">
+<editor>Jean-Gabriel Ganascia</editor>
+<editor>Philippe Lenca</editor>
+<editor>Jean-Marc Petit</editor>
+<title>Discovery Science - 15th International Conference, DS 2012, Lyon, France, October 29-31, 2012. Proceedings</title>
+<year>2012</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>7569</volume>
+<isbn>978-3-642-33491-7</isbn>
+<booktitle>Discovery Science</booktitle>
+<url>db/conf/dis/dis2012.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/aime/UgonGPAL11" mdate="2019-09-16">
+<author orcid="0000-0001-8258-5759">Adrien Ugon</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Carole Philippe</author>
+<author>Hélène Amiel</author>
+<author>Pierre P. Lévy</author>
+<title>How to Use Symbolic Fusion to Support the Sleep Apnea Syndrome Diagnosis.</title>
+<pages>45-54</pages>
+<year>2011</year>
+<booktitle>AIME</booktitle>
+<crossref>conf/aime/2011</crossref>
+<url>db/conf/aime/aime2011.html#UgonGPAL11</url>
+</inproceedings>
+</r>
+<r><incollection key="books/igi/10/JouisBHG10" mdate="2019-11-28">
+<author orcid="0000-0002-9115-9804">Christophe Jouis</author>
+<author>Julien Bourdaillet</author>
+<author>Bassel Habib</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Exceptions in Ontologies.</title>
+<pages>78-97</pages>
+<year>2010</year>
+<booktitle>Ontology Theory, Management and Design</booktitle>
+<crossref>books/igi/10/GJ2010</crossref>
+<url>db/books/collections/GJ2010.html#JouisBHG10</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/f-egc/LaudyG09" mdate="2014-04-24">
+<author>Claire Laudy</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Fusion symbolique pour la recommandation de programmes télévisés.</title>
+<pages>445-446</pages>
+<year>2009</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2009</crossref>
+<url>db/conf/f-egc/egc2009.html#LaudyG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccs/LaudyHG09" mdate="2017-05-26">
+<author>Claire Laudy</author>
+<author>Bassel Habib</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Fusion of Claude Bernard's Experiments for Scientific Discovery Reasoning.</title>
+<pages>219-232</pages>
+<year>2009</year>
+<booktitle>ICCS</booktitle>
+<crossref>conf/iccs/2009</crossref>
+<url>db/conf/iccs/iccs2009.html#LaudyHG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ki/Ganascia09" mdate="2017-05-25">
+<author>Jean-Gabriel Ganascia</author>
+<title>AI Viewed as a "Science of the Culture".</title>
+<pages>371-378</pages>
+<year>2009</year>
+<booktitle>KI</booktitle>
+<crossref>conf/ki/2009</crossref>
+<url>db/conf/ki/ki2009.html#Ganascia09</url>
+</inproceedings>
+</r>
+<r><incollection key="books/igi/09/JouisRG09" mdate="2019-09-16">
+<author orcid="0000-0002-9115-9804">Christophe Jouis</author>
+<author>Magali Roux-Rouquié</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Seekbio.</title>
+<pages>344-355</pages>
+<year>2009</year>
+<booktitle>Information Retrieval in Biomedicine</booktitle>
+<crossref>books/igi/09/PR2009</crossref>
+<url>db/books/collections/PR2009.html#JouisRG09</url>
+</incollection>
+</r>
+<r><proceedings key="conf/f-egc/2009" mdate="2018-07-11">
+<editor>Jean-Gabriel Ganascia</editor>
+<editor>Pierre Gançarski</editor>
+<title>Extraction et gestion des connaissances (EGC'2009), Actes, Strasbourg, France, 27 au 30 janvier 2009</title>
+<isbn>978-2-85428-878-0</isbn>
+<booktitle>EGC</booktitle>
+<series href="db/series/rnti/index.html">Revue des Nouvelles Technologies de l'Information</series>
+<volume>RNTI-E-15</volume>
+<year>2009</year>
+<publisher>Cépaduès-Éditions</publisher>
+<url>db/conf/f-egc/egc2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/aim/Ganascia08" mdate="2010-12-27">
+<author>Jean-Gabriel Ganascia</author>
+<title>Reconstructing True Wrong Inductions.</title>
+<pages>57-61</pages>
+<year>2008</year>
+<volume>29</volume>
+<journal>AI Magazine</journal>
+<number>2</number>
+<url>db/journals/aim/aim29.html#Ganascia08</url>
+</article>
+</r>
+<r><inproceedings key="conf/aisb/Ganascia08" mdate="2008-08-28">
+<author>Jean-Gabriel Ganascia</author>
+<title>The Plaited Structure of Time in Information Technology.</title>
+<pages>59-64</pages>
+<year>2008</year>
+<booktitle>AISB Convention</booktitle>
+<crossref>conf/aisb/2008</crossref>
+<url>db/conf/aisb/aisb2008.html#Ganascia08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euroitv/GanasciaMF08" mdate="2017-05-25">
+<author>Jean-Gabriel Ganascia</author>
+<author>Charles Madeira</author>
+<author>Karan Fouladi</author>
+<title>An Adaptive Cartography of DTV Programs.</title>
+<pages>253-262</pages>
+<year>2008</year>
+<booktitle>EuroITV</booktitle>
+<crossref>conf/euroitv/2008</crossref>
+<url>db/conf/euroitv/euroitv2008.html#GanasciaMF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fusion/LaudyG08" mdate="2017-04-29">
+<author>Claire Laudy</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Information fusion in a TV program recommendation system.</title>
+<pages>1-8</pages>
+<year>2008</year>
+<booktitle>FUSION</booktitle>
+<crossref>conf/fusion/2008</crossref>
+<url>db/conf/fusion/fusion2008.html#LaudyG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icai/HabibG08" mdate="2009-02-06">
+<author>Bassel Habib</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Using AI to Reconstruct Claude Bernard's Empirical Investigations.</title>
+<pages>496-501</pages>
+<year>2008</year>
+<booktitle>IC-AI</booktitle>
+<crossref>conf/icai/2008</crossref>
+<url>db/conf/icai/icai2008.html#HabibG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mie/UgonPPGL08" mdate="2017-05-17">
+<author>Adrien Ugon</author>
+<author>Carole Philippe</author>
+<author>Slawomir Pietrasz</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Pierre P. Lévy</author>
+<title>OPTISAS a new method to analyse patients with Sleep Apnea Syndrome.</title>
+<pages>547-552</pages>
+<year>2008</year>
+<booktitle>MIE</booktitle>
+<crossref>conf/mie/2008</crossref>
+<url>db/conf/mie/mie2008.html#UgonPPGL08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jods/VelcinG07" mdate="2017-05-18">
+<author>Julien Velcin</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Default Clustering with Conceptual Structures.</title>
+<pages>1-25</pages>
+<year>2007</year>
+<volume>8</volume>
+<journal>J. Data Semantics</journal>
+<url>db/journals/jods/jods8.html#VelcinG07</url>
+</article>
+</r>
+<r><inproceedings key="conf/adma/VelcinG07" mdate="2017-05-17">
+<author>Julien Velcin</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Topic Extraction with AGAPE.</title>
+<pages>377-388</pages>
+<year>2007</year>
+<crossref>conf/adma/2007</crossref>
+<booktitle>ADMA</booktitle>
+<url>db/conf/adma/adma2007.html#VelcinG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dis/GanasciaH07" mdate="2017-05-23">
+<author>Jean-Gabriel Ganascia</author>
+<author>Bassel Habib</author>
+<title>An Attempt to Rebuild C. Bernard's Scientific Steps.</title>
+<pages>248-252</pages>
+<year>2007</year>
+<crossref>conf/dis/2007</crossref>
+<booktitle>Discovery Science</booktitle>
+<url>db/conf/dis/dis2007.html#GanasciaH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/VelcinVG07" mdate="2014-04-24">
+<author>Julien Velcin</author>
+<author>William Vacher</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Logiciel d'aide à l'évaluation des catégorisations.</title>
+<pages>175-176</pages>
+<year>2007</year>
+<crossref>conf/f-egc/2007</crossref>
+<booktitle>EGC</booktitle>
+<url>db/conf/f-egc/egc2007.html#VelcinVG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fusion/LaudyGS07" mdate="2017-05-24">
+<author>Claire Laudy</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Celestin Sedogbo</author>
+<title>High-level fusion based on conceptual graphs.</title>
+<pages>1-8</pages>
+<year>2007</year>
+<booktitle>FUSION</booktitle>
+<crossref>conf/fusion/2007</crossref>
+<url>db/conf/fusion/fusion2007.html#LaudyGS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lata/BourdailletG07" mdate="2011-11-07">
+<author>Julien Bourdaillet</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Practical block sequence alignment with moves.</title>
+<pages>199-210</pages>
+<year>2007</year>
+<booktitle>LATA</booktitle>
+<crossref>conf/lata/2007</crossref>
+<url>db/conf/lata/lata2007.html#BourdailletG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mldm/VelcinG07" mdate="2007-10-04">
+<author>Julien Velcin</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>A Tabu-based Approach for Topic Extraction.</title>
+<pages>41-54</pages>
+<year>2007</year>
+<crossref>conf/mldm/2007p</crossref>
+<booktitle>MLDM Posters</booktitle>
+<url>db/conf/mldm/mldm2007p.html#VelcinG07</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sci/GanasciaD07" mdate="2017-05-16">
+<author>Jean-Gabriel Ganascia</author>
+<author>Claude Debru</author>
+<title>CYBERNARD: A Computational Reconstruction of Claude Bernard's Scientific Discoveries.</title>
+<pages>497-510</pages>
+<year>2007</year>
+<booktitle>Model-Based Reasoning in Science, Technology, and Medicine</booktitle>
+<crossref>series/sci/2007-64</crossref>
+<url>db/series/sci/sci64.html#GanasciaD07</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/aaaiss/Ganascia06" mdate="2012-02-18">
+<author>Jean-Gabriel Ganascia</author>
+<title>Reconstructing True Wrong Inductions.</title>
+<pages>26-33</pages>
+<year>2006</year>
+<booktitle>AAAI Spring Symposium: What Went Wrong and Why: Lessons from AI Research and Applications</booktitle>
+<crossref>conf/aaaiss/2006-8</crossref>
+<url>db/conf/aaaiss/aaaiss2006-8.html#Ganascia06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fintal/BourdailletG06" mdate="2017-05-21">
+<author>Julien Bourdaillet</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>MEDITE: A Unilingual Textual Aligner.</title>
+<pages>458-469</pages>
+<year>2006</year>
+<crossref>conf/fintal/2006</crossref>
+<booktitle>FinTAL</booktitle>
+<url>db/conf/fintal/fintal2006.html#BourdailletG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/view/Ganascia06" mdate="2017-05-17">
+<author>Jean-Gabriel Ganascia</author>
+<title>AC<sup>3</sup> - Automatic Cartography of Cultural Contents.</title>
+<pages>253-263</pages>
+<year>2006</year>
+<crossref>conf/view/2006</crossref>
+<booktitle>VIEW</booktitle>
+<url>db/conf/view/view2006.html#Ganascia06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecsqaru/VelcinG05" mdate="2017-05-21">
+<author>Julien Velcin</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Default Clustering from Sparse Data Sets.</title>
+<pages>968-979</pages>
+<year>2005</year>
+<crossref>conf/ecsqaru/2005</crossref>
+<booktitle>ECSQARU</booktitle>
+<url>db/conf/ecsqaru/ecsqaru2005.html#VelcinG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/VelcinG05" mdate="2019-08-20">
+<author>Julien Velcin</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Stereotype Extraction with Default Clustering.</title>
+<pages>883-888</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0964.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#VelcinG05</url>
+</inproceedings>
+</r>
+<r><article key="journals/dn/GanasciaFL04" mdate="2013-11-24">
+<author>Jean-Gabriel Ganascia</author>
+<author>Irène Fenoglio</author>
+<author>Jean-Louis Lebrave</author>
+<title>Manuscrits, genèse et documents numérisés. EDITE : une étude informatisée du travail de l'écrivain.</title>
+<pages>91-110</pages>
+<year>2004</year>
+<volume>8</volume>
+<journal>Document Numérique</journal>
+<number>4</number>
+<url>db/journals/dn/dn8.html#GanasciaFL04</url>
+</article>
+</r>
+<r><inproceedings key="conf/dis/WajnbergCGM04" mdate="2019-08-30">
+<author>Charles-David Wajnberg</author>
+<author>Vincent Corruble</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Carlos Ulises Moulines</author>
+<title>A Structuralist Approach Towards Computational Scientific Discovery.</title>
+<pages>412-419</pages>
+<year>2004</year>
+<crossref>conf/dis/2004</crossref>
+<booktitle>Discovery Science</booktitle>
+<url>db/conf/dis/dis2004.html#WajnbergCGM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/VelcinG04" mdate="2017-05-25">
+<author>Julien Velcin</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Modeling Default Induction with Conceptual Structures.</title>
+<pages>83-95</pages>
+<year>2004</year>
+<crossref>conf/er/2004</crossref>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er2004.html#VelcinG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccs/GanasciaV04" mdate="2017-05-26">
+<author>Jean-Gabriel Ganascia</author>
+<author>Julien Velcin</author>
+<title>Clustering of Conceptual Graphs with Sparse Data.</title>
+<pages>156-169</pages>
+<year>2004</year>
+<crossref>conf/iccs/2004</crossref>
+<booktitle>ICCS</booktitle>
+<url>db/conf/iccs/iccs2004.html#GanasciaV04</url>
+</inproceedings>
+</r>
+<r><article key="journals/ria/Ganascia02" mdate="2017-05-27">
+<author>Jean-Gabriel Ganascia</author>
+<title>Aperçus sur la « découverte scientifique ».</title>
+<pages>101-122</pages>
+<year>2002</year>
+<volume>16</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>1-2</number>
+<url>db/journals/ria/ria16.html#Ganascia02</url>
+</article>
+</r>
+<r><inproceedings key="conf/esf/RollandG02" mdate="2017-05-25">
+<author>Pierre-Yves Rolland</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Pattern Detection and Discovery: The Case of Music Data Mining.</title>
+<pages>190-198</pages>
+<year>2002</year>
+<crossref>conf/esf/2002</crossref>
+<booktitle>Pattern Detection and Discovery</booktitle>
+<url>db/conf/esf/esf2002.html#RollandG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecml/Ganascia01" mdate="2017-05-21">
+<author>Jean-Gabriel Ganascia</author>
+<title>Extraction of Recurrent Patterns from Stratified Ordered Trees.</title>
+<pages>167-178</pages>
+<year>2001</year>
+<crossref>conf/ecml/2001</crossref>
+<booktitle>ECML</booktitle>
+<url>db/conf/ecml/ecml2001.html#Ganascia01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ai/BaillieG00" mdate="2017-05-24">
+<author>Jean-Christophe Baillie</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Qualitative Descriptors and Action Perception.</title>
+<pages>316-325</pages>
+<year>2000</year>
+<crossref>conf/ai/2000</crossref>
+<booktitle>Canadian Conference on AI</booktitle>
+<url>db/conf/ai/ai2000.html#BaillieG00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BaillieG00" mdate="2003-06-30">
+<author>Jean-Christophe Baillie</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Action Categorization from Video Sequences.</title>
+<pages>643-647</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BaillieG00</url>
+</inproceedings>
+</r>
+<r><incollection key="books/harwood/miranda2000/RolandG00" mdate="2019-08-03">
+<author>Pierre-Yves Rolland</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Musical Pattern Extraction and Similarity Assessment.</title>
+<pages>115-144</pages>
+<year>2000</year>
+<crossref>books/harwood/Miranda00</crossref>
+<booktitle>Readings in Music and Artificial Intelligence</booktitle>
+<url>db/books/collections/Miranda2000.html#RolandG00</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/mm/RollandRG99" mdate="2018-11-06">
+<author>Pierre-Yves Rolland</author>
+<author>Gailius Raskinis</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Musical content-based retrieval: an overview of the Melodiscov approach and system.</title>
+<pages>81-84</pages>
+<year>1999</year>
+<crossref>conf/mm/1999-1</crossref>
+<booktitle>ACM Multimedia (1)</booktitle>
+<url>db/conf/mm/mm1999-1.html#RollandRG99</url>
+</inproceedings>
+</r>
+<r><article key="journals/aai/ZuckerGB98" mdate="2018-11-14">
+<author orcid="0000-0002-5597-7922">Jean-Daniel Zucker</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Isabelle Bournaud</author>
+<title>Relational Knowledge Discovery in a Chinese Character Database.</title>
+<pages>455-488</pages>
+<year>1998</year>
+<volume>12</volume>
+<journal>Applied Artificial Intelligence</journal>
+<number>5</number>
+<url>db/journals/aai/aai12.html#ZuckerGB98</url>
+</article>
+</r>
+<r><inproceedings key="conf/ilp/ZuckerG98" mdate="2017-05-17">
+<author>Jean-Daniel Zucker</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Learning Structurally Indeterminate Clauses.</title>
+<pages>235-244</pages>
+<year>1998</year>
+<crossref>conf/ilp/1998</crossref>
+<booktitle>ILP</booktitle>
+<url>db/conf/ilp/ilp98.html#ZuckerG98</url>
+</inproceedings>
+</r>
+<r><article key="journals/ai/CorrubleG97" mdate="2017-05-27">
+<author>Vincent Corruble</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Induction and the Discovery of the Causes of Scurvy: A Computational Reconstruction.</title>
+<pages>205-223</pages>
+<year>1997</year>
+<volume>91</volume>
+<journal>Artif. Intell.</journal>
+<number>2</number>
+<url>db/journals/ai/ai91.html#CorrubleG97</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccs/FaronG97" mdate="2017-05-22">
+<author>Catherine Faron</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Representation of Defaults and Exceptions in Conceptual Graphs Formalism.</title>
+<pages>153-167</pages>
+<year>1997</year>
+<crossref>conf/iccs/1997</crossref>
+<booktitle>ICCS</booktitle>
+<url>db/conf/iccs/iccs97.html#FaronG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccs/BournaudG97" mdate="2017-05-22">
+<author>Isabelle Bournaud</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Accounting for Domain Knowledge in the Construction of a Generalization Space.</title>
+<pages>446-459</pages>
+<year>1997</year>
+<crossref>conf/iccs/1997</crossref>
+<booktitle>ICCS</booktitle>
+<url>db/conf/iccs/iccs97.html#BournaudG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/MeyerAG97" mdate="2017-05-26">
+<author>Christophe Meyer</author>
+<author>Irina Akoulchina</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Two Approaches of Human Behavior Anticipation.</title>
+<pages>19-22</pages>
+<year>1997</year>
+<crossref>conf/ictai/1997</crossref>
+<booktitle>ICTAI</booktitle>
+<url>db/conf/ictai/ictai1997.html#MeyerAG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/MeyerGZ97" mdate="2012-05-15">
+<author>Christophe Meyer</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Jean-Daniel Zucker</author>
+<title>Learning Strategies in Games by Anticipation.</title>
+<pages>698-707</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#MeyerGZ97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/CorrubleG96" mdate="2012-12-11">
+<author>Vincent Corruble</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>The Discovery of the Causes of Leprosy: A Computational Analysis.</title>
+<pages>731-736</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#CorrubleG96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eps/SefriouiPG96" mdate="2019-08-01">
+<author>Mourad Sefrioui</author>
+<author>Jacques Périaux</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Fast Convergence Thanks to Diversity.</title>
+<pages>313-321</pages>
+<year>1996</year>
+<crossref>conf/eps/1996</crossref>
+<booktitle>Evolutionary Programming</booktitle>
+<url>db/conf/eps/ep1996.html#SefriouiPG96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmc/RollandG96" mdate="2016-02-17">
+<author>Pierre-Yves Rolland</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Automated Motive-Oriented Analysis of Musical Corpuses: a Jazz Case Study.</title>
+<year>1996</year>
+<booktitle>ICMC</booktitle>
+<crossref>conf/icmc/1996</crossref>
+<url>db/conf/icmc/icmc1996.html#RollandG96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/GrolimundG96" mdate="2011-12-23">
+<author>Stephan Grolimund</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Speeding-up Nearest Neighbour Memories: The Template Tree Case Memory Organisation.</title>
+<pages>225-233</pages>
+<year>1996</year>
+<crossref>conf/icml/1996</crossref>
+<booktitle>ICML</booktitle>
+<url>db/conf/icml/icml1996.html#GrolimundG96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/ZuckerG96" mdate="2011-12-23">
+<author>Jean-Daniel Zucker</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Representation Changes for Efficient Learning in Structural Domains.</title>
+<pages>543-551</pages>
+<year>1996</year>
+<crossref>conf/icml/1996</crossref>
+<booktitle>ICML</booktitle>
+<url>db/conf/icml/icml1996.html#ZuckerG96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lmo/BournaudG96" mdate="2007-04-25">
+<author>Isabelle Bournaud</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Construction de hiérarchies conceptuelles pour l'organisation de connaissances.</title>
+<pages>120-133</pages>
+<year>1996</year>
+<crossref>conf/lmo/1996</crossref>
+<booktitle>LMO</booktitle>
+<url>db/conf/lmo/lmo1996.html#BournaudG96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccbr/GrolimundG95" mdate="2017-05-22">
+<author>Stephan Grolimund</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Integrating Case Based Reasoning and Tabu Search for Solving Optimisation Problems.</title>
+<pages>451-460</pages>
+<year>1995</year>
+<crossref>conf/iccbr/1995</crossref>
+<booktitle>ICCBR</booktitle>
+<url>db/conf/iccbr/iccbr1995.html#GrolimundG95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccs/BournaudG95" mdate="2017-05-20">
+<author>Isabelle Bournaud</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Conceptual Clustering of Complex Objects: A Generalization Space based Approach.</title>
+<pages>173-187</pages>
+<year>1995</year>
+<crossref>conf/iccs/1995</crossref>
+<booktitle>ICCS</booktitle>
+<url>db/conf/iccs/iccs95.html#BournaudG95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/MoulinierG95" mdate="2017-05-22">
+<author>Isabelle Moulinier</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Applying an existing machine learning algorithm to text categorization.</title>
+<pages>343-354</pages>
+<year>1995</year>
+<crossref>conf/ijcai/1995lp</crossref>
+<booktitle>Learning for Natural Language Processing</booktitle>
+<url>db/conf/ijcai/ijcai1995lp.html#MoulinierG95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/RamalhoG94" mdate="2019-10-11">
+<author>Geber L. Ramalho</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Simulating Creativity in Jazz Performance.</title>
+<pages>108-113</pages>
+<year>1994</year>
+<crossref>conf/aaai/1994-1</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai94-1.html#RamalhoG94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/TchoumatchenkoG94" mdate="2019-06-24">
+<author>Irina Tchoumatchenko</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>A Bayesian Framework to Integrate Symbolic and Neural Learning.</title>
+<pages>302-308</pages>
+<year>1994</year>
+<crossref>conf/icml/1994</crossref>
+<booktitle>ICML</booktitle>
+<url>db/conf/icml/icml1994.html#TchoumatchenkoG94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/ZuckerG94" mdate="2019-06-24">
+<author>Jean-Daniel Zucker</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Selective Reformulation of Examples in Concept Learning.</title>
+<pages>352-360</pages>
+<year>1994</year>
+<crossref>conf/icml/1994</crossref>
+<booktitle>ICML</booktitle>
+<url>db/conf/icml/icml1994.html#ZuckerG94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/RamalhoG93" mdate="2019-10-11">
+<author>Geber L. Ramalho</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>The Role of Musical Memory in Creativity and Learning: A Study of Jazz Performance.</title>
+<pages>143-156</pages>
+<year>1993</year>
+<crossref>conf/aied/1993</crossref>
+<booktitle>Music Education: An Artificial Intelligence Approach</booktitle>
+<url>db/conf/aied/aied1993.html#RamalhoG93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/alt/Ganascia93" mdate="2017-05-20">
+<author>Jean-Gabriel Ganascia</author>
+<title>Algebraic Structure of Some Learning Systems.</title>
+<pages>398-409</pages>
+<year>1993</year>
+<crossref>conf/alt/1993</crossref>
+<booktitle>ALT</booktitle>
+<url>db/conf/alt/alt1993.html#Ganascia93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecml/GanasciaTL93" mdate="2017-05-20">
+<author>Jean-Gabriel Ganascia</author>
+<author>Jérôme Thomas</author>
+<author>Philippe Laublet</author>
+<title>Integrating Models of Knowledge and Machine Learning.</title>
+<pages>396-401</pages>
+<year>1993</year>
+<crossref>conf/ecml/1993</crossref>
+<booktitle>ECML</booktitle>
+<url>db/conf/ecml/ecml93.html#GanasciaTL93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ekaw/ThomasLG93" mdate="2017-05-20">
+<author>Jérôme Thomas</author>
+<author>Philippe Laublet</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>A Machine Learning Tool Designed for a Model-Based Knowledge Acquisition Approach.</title>
+<pages>123-138</pages>
+<year>1993</year>
+<crossref>conf/ekaw/1993</crossref>
+<booktitle>EKAW</booktitle>
+<url>db/conf/ekaw/ekaw1993.html#ThomasLG93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ekaw/VicatBG93" mdate="2017-05-20">
+<author>Catherine Vicat</author>
+<author>Alain Busac</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>CERISE: A Cyclic Approach for Knowledge Acquisition.</title>
+<pages>237-255</pages>
+<year>1993</year>
+<crossref>conf/ekaw/1993</crossref>
+<booktitle>EKAW</booktitle>
+<url>db/conf/ekaw/ekaw1993.html#VicatBG93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccs/AimeurG93" mdate="2017-05-20">
+<author>Esma Aïmeur</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Elicitation of Taxonomies Based on the Use of Conceptual Graph Operators.</title>
+<pages>361-380</pages>
+<year>1993</year>
+<crossref>conf/iccs/1993</crossref>
+<booktitle>ICCS</booktitle>
+<url>db/conf/iccs/iccs93.html#AimeurG93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Ganascia93" mdate="2012-05-15">
+<author>Jean-Gabriel Ganascia</author>
+<title>TDIS : an Algebraic Formalization.</title>
+<pages>1008-1015</pages>
+<year>1993</year>
+<crossref>conf/ijcai/1993</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai93.html#Ganascia93</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ekaw/1993" mdate="2019-05-14">
+<editor>Nathalie Aussenac-Gilles</editor>
+<editor>Guy A. Boy</editor>
+<editor>Brian R. Gaines</editor>
+<editor>Jean-Gabriel Ganascia</editor>
+<editor>Yves Kodratoff</editor>
+<editor>Marc Linster</editor>
+<title>Knowledge Acquisition for Knowledge-Based Systems, 7th European Workshop, EKAW'93, Toulouse and Caylus, France, September 6-10, 1993, Proceedings</title>
+<booktitle>EKAW</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>723</volume>
+<publisher>Springer</publisher>
+<year>1993</year>
+<isbn>3-540-57253-8</isbn>
+<url>db/conf/ekaw/ekaw1993.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/jfplc/MesnardG92" mdate="2004-06-25">
+<author>Frédéric Mesnard</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>CLP(X) for proving prgram properties.</title>
+<pages>328-</pages>
+<year>1992</year>
+<crossref>conf/jfplc/1992</crossref>
+<booktitle>JFPL</booktitle>
+<url>db/conf/jfplc/jfpl1992.html#MesnardG92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/meta/MesnardG92" mdate="2017-05-17">
+<author>Frédéric Mesnard</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>CLP(Q) for Proving Interargument Relations.</title>
+<pages>308-320</pages>
+<year>1992</year>
+<crossref>conf/meta/1992</crossref>
+<booktitle>META</booktitle>
+<url>db/conf/meta/meta92.html#MesnardG92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecml/ZerrG91" mdate="2017-05-19">
+<author>F. Zerr</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Integrating an Explanation-Based Learning Mechanism into a General Problem-Solver.</title>
+<pages>62-80</pages>
+<year>1991</year>
+<crossref>conf/ecml/1991</crossref>
+<booktitle>EWSL</booktitle>
+<url>db/conf/ecml/ewsl91.html#ZerrG91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/MesnardG91" mdate="2015-09-02">
+<author>Frédéric Mesnard</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>A propos du contrôle de la résolution.</title>
+<pages>125-131</pages>
+<year>1991</year>
+<crossref>conf/sas/1991</crossref>
+<booktitle>JTASPEFT/WSA</booktitle>
+<url>db/conf/sas/wsa91.html#MesnardG91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Ganascia88" mdate="2019-07-30">
+<author>Jean-Gabriel Ganascia</author>
+<title>Improvement and Refinement of the Learning Bias Semantic.</title>
+<pages>384-389</pages>
+<year>1988</year>
+<crossref>conf/ecai/1988</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai88.html#Ganascia88</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecml/Ganascia87" mdate="2017-05-31">
+<author>Jean-Gabriel Ganascia</author>
+<title>Learning with Hilbert Cubes.</title>
+<pages>158-171</pages>
+<year>1987</year>
+<crossref>conf/ecml/1987</crossref>
+<booktitle>EWSL</booktitle>
+<url>db/conf/ecml/ewsl87.html#Ganascia87</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Ganascia87" mdate="2019-08-20">
+<author>Jean-Gabriel Ganascia</author>
+<title>CHARADE: A Rule System Learning System.</title>
+<pages>345-347</pages>
+<year>1987</year>
+<crossref>conf/ijcai/1987</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai87.html#Ganascia87</url>
+<ee type="oa">http://ijcai.org/Proceedings/87-1/Papers/071.pdf</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ijmms/Ganascia84" mdate="2017-05-20">
+<author>Jean-Gabriel Ganascia</author>
+<title>Using an Expert System in Merging Qualitative and Quantitative Data Analysis.</title>
+<pages>319-330</pages>
+<year>1984</year>
+<volume>20</volume>
+<journal>International Journal of Man-Machine Studies</journal>
+<number>3</number>
+<url>db/journals/ijmms/ijmms20.html#Ganascia84</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/KodratoffGCBT84" mdate="2019-07-26">
+<author>Yves Kodratoff</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>B. Clavieras</author>
+<author>Toni Bollinger</author>
+<author>Gheorghe Tecuci</author>
+<title>Careful Generalization for Concept Learning.</title>
+<pages>229-238</pages>
+<year>1984</year>
+<crossref>conf/ecai/1984</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai84.html#KodratoffGCBT84</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ki/KodratoffGB84" mdate="2017-05-25">
+<author>Yves Kodratoff</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Toni Bollinger</author>
+<title>Using Structural Matching for Generalizing Examples.</title>
+<pages>199-208</pages>
+<year>1984</year>
+<crossref>conf/ki/1984</crossref>
+<booktitle>GWAI</booktitle>
+<url>db/conf/ki/gwai1984.html#KodratoffGB84</url>
+</inproceedings>
+</r>
+<coauthors n="110" nc="14">
+<co c="4"><na f="a/Abi=Haidar:Alaa">Alaa Abi-Haidar</na></co>
+<co c="10"><na f="a/Aghasaryan:Armen">Armen Aghasaryan</na></co>
+<co c="-1"><na f="a/A=iuml=meur:Esma">Esma Aïmeur</na></co>
+<co c="0"><na f="a/Akoulchina:Irina">Irina Akoulchina</na></co>
+<co c="1"><na f="a/Amara:Amara">Amara Amara</na></co>
+<co c="1"><na f="a/Amiel:H=eacute=l=egrave=ne">Hélène Amiel</na></co>
+<co c="3"><na f="a/Aussenac=Gilles:Nathalie">Nathalie Aussenac-Gilles</na></co>
+<co c="-1"><na f="b/Baillie:Jean=Christophe">Jean-Christophe Baillie</na></co>
+<co c="-1"><na f="b/Bazin:Alexandre">Alexandre Bazin</na></co>
+<co c="0"><na f="b/Belloni:Aline">Aline Belloni</na></co>
+<co c="0"><na f="b/Berger:Alain">Alain Berger</na></co>
+<co c="0"><na f="b/Berreby:Fiona">Fiona Berreby</na></co>
+<co c="2"><na f="b/Bertin:Marc">Marc Bertin</na></co>
+<co c="0"><na f="b/Boissier:Olivier">Olivier Boissier</na></co>
+<co c="3"><na f="b/Bollinger:Toni">Toni Bollinger</na></co>
+<co c="0"><na f="b/Bonnet:Gr=eacute=gory">Grégory Bonnet</na></co>
+<co c="1"><na f="b/Bouaud:Jacques">Jacques Bouaud</na></co>
+<co c="0"><na f="b/Boukhaled:Mohamed_Amine">Mohamed Amine Boukhaled</na></co>
+<co c="2"><na f="b/Bourdaillet:Julien">Julien Bourdaillet</na></co>
+<co c="0"><na f="b/Bourgne:Gauvain">Gauvain Bourgne</na></co>
+<co c="0"><na f="b/Bournaud:Isabelle">Isabelle Bournaud</na></co>
+<co c="3"><na f="b/Boy:Guy_A=">Guy A. Boy</na></co>
+<co c="0"><na f="b/Brando:Carmen">Carmen Brando</na></co>
+<co c="9"><na f="b/Busac:Alain">Alain Busac</na></co>
+<co c="0"><na f="c/Chardel:Pierre=Antoine">Pierre-Antoine Chardel</na></co>
+<co c="0"><na f="c/Chatila_0001:Raja">Raja Chatila 0001</na></co>
+<co c="1"><na f="c/Chen_0039:Chen">Chen Chen 0039</na></co>
+<co c="3"><na f="c/Clavieras:B=">B. Clavieras</na></co>
+<co c="0"><na f="c/Corruble:Vincent">Vincent Corruble</na></co>
+<co c="0"><na f="c/Cotton:Jean=Pierre">Jean-Pierre Cotton</na></co>
+<co c="0"><na f="d/Dauchet:Max">Max Dauchet</na></co>
+<co c="-1"><na f="d/Debru:Claude">Claude Debru</na></co>
+<co c="2"><na f="d/Descl=eacute=s:Jean=Pierre">Jean-Pierre Desclés</na></co>
+<co c="0"><na f="d/Devillers:Laurence">Laurence Devillers</na></co>
+<co c="0"><na f="e/Evreux:Nicolas">Nicolas Evreux</na></co>
+<co c="0" n="2"><na f="f/Faron=Zucker:Catherine">Catherine Faron-Zucker</na><na>Catherine Faron</na></co>
+<co c="7"><na f="f/Fenoglio:Ir=egrave=ne">Irène Fenoglio</na></co>
+<co c="8"><na f="f/Fouladi:Karan">Karan Fouladi</na></co>
+<co c="0"><na f="f/Frontini:Francesca">Francesca Frontini</na></co>
+<co c="3"><na f="g/Gaines:Brian_R=">Brian R. Gaines</na></co>
+<co c="-1"><na f="g/Gan=ccedil=arski:Pierre">Pierre Gançarski</na></co>
+<co c="1"><na f="g/Garda:Patrick">Patrick Garda</na></co>
+<co c="0"><na f="g/Gemma:Marissa">Marissa Gemma</na></co>
+<co c="5"><na f="g/Glaudes:Pierre">Pierre Glaudes</na></co>
+<co c="0"><na f="g/Glorieux:Fr=eacute=d=eacute=ric">Frédéric Glorieux</na></co>
+<co c="0"><na f="g/Grinbaum:Alexei">Alexei Grinbaum</na></co>
+<co c="-1"><na f="g/Grolimund:Stephan">Stephan Grolimund</na></co>
+<co c="2"><na f="h/Habib:Bassel">Bassel Habib</na></co>
+<co c="-1"><na f="h/Hamdan:Hussam">Hussam Hamdan</na></co>
+<co c="0"><na f="j/Jaillon:Philippe">Philippe Jaillon</na></co>
+<co c="2"><na f="j/Jouis:Christophe">Christophe Jouis</na></co>
+<co c="3"><na f="k/Kodratoff:Yves">Yves Kodratoff</na></co>
+<co c="1"><na f="k/Kotti:Amina">Amina Kotti</na></co>
+<co c="3"><na f="l/Laublet:Philippe">Philippe Laublet</na></co>
+<co c="2"><na f="l/Laudy:Claire">Claire Laudy</na></co>
+<co c="7"><na f="l/Lebrave:Jean=Louis">Jean-Louis Lebrave</na></co>
+<co c="6"><na f="l/Lenca:Philippe">Philippe Lenca</na></co>
+<co c="1"><na f="l/L=eacute=vy:Pierre_P=">Pierre P. Lévy</na></co>
+<co c="3"><na f="l/Linster:Marc">Marc Linster</na></co>
+<co c="1"><na f="l/Liu:Xue">Xue Liu</na></co>
+<co c="5"><na f="l/Lungo:Andrea_Del">Andrea Del Lungo</na></co>
+<co c="8"><na f="m/Madeira:Charles">Charles Madeira</na></co>
+<co c="4"><na f="m/Mainardi:Chiara">Chiara Mainardi</na></co>
+<co c="2"><na f="m/Makkaoui:Olfa">Olfa Makkaoui</na></co>
+<co c="0"><na f="m/Mermet:Bruno">Bruno Mermet</na></co>
+<co c="-1"><na f="m/Mesnard:Fr=eacute=d=eacute=ric">Frédéric Mesnard</na></co>
+<co c="0"><na f="m/Meyer:Christophe">Christophe Meyer</na></co>
+<co c="4"><na f="m/Mosallam:Yusra">Yusra Mosallam</na></co>
+<co c="0"><na f="m/Moulines:Carlos_Ulises">Carlos Ulises Moulines</na></co>
+<co c="-1"><na f="m/Moulinier:Isabelle">Isabelle Moulinier</na></co>
+<co c="-1"><na f="m/Mpouli:Suzanne">Suzanne Mpouli</na></co>
+<co c="10"><na f="p/Pergament:David">David Pergament</na></co>
+<co c="11"><na f="p/P=eacute=riaux:Jacques">Jacques Périaux</na></co>
+<co c="6"><na f="p/Petit:Jean=Marc">Jean-Marc Petit</na></co>
+<co c="1"><na f="p/Philippe:Carole">Carole Philippe</na></co>
+<co c="0"><na f="p/Picard:Gauthier">Gauthier Picard</na></co>
+<co c="1"><na f="p/Pietrasz:Slawomir">Slawomir Pietrasz</na></co>
+<co c="1"><na f="p/Pinna:Andr=eacute=a">Andréa Pinna</na></co>
+<co c="2"><na f="r/Rahman:Mohammed_Yasin">Mohammed Yasin Rahman</na></co>
+<co c="0"><na f="r/Ramalho:Geber_L=">Geber L. Ramalho</na></co>
+<co c="12"><na f="r/Raskinis:Gailius">Gailius Raskinis</na></co>
+<co c="0"><na f="r/Rever:Bernard">Bernard Rever</na></co>
+<co c="12"><na f="r/Rolland:Pierre=Yves">Pierre-Yves Rolland</na></co>
+<co c="2" n="2"><na f="r/Roux=Rouquie:Magali">Magali Roux-Rouquie</na><na>Magali Roux-Rouquié</na></co>
+<co c="-1"><na f="r/Rucar:Yan">Yan Rucar</na></co>
+<co c="1"><na f="s/Sedki:Karima">Karima Sedki</na></co>
+<co c="2"><na f="s/Sedogbo:Celestin">Celestin Sedogbo</na></co>
+<co c="11"><na f="s/Sefrioui:Mourad">Mourad Sefrioui</na></co>
+<co c="1"><na f="s/S=eacute=roussi:Brigitte">Brigitte Séroussi</na></co>
+<co c="0"><na f="s/Simon:Ga=euml=le">Gaële Simon</na></co>
+<co c="4"><na f="s/Six:Adrien">Adrien Six</na></co>
+<co c="0"><na f="s/Swarte:Thibault_de">Thibault de Swarte</na></co>
+<co c="-1"><na f="t/Tchoumatchenko:Irina">Irina Tchoumatchenko</na></co>
+<co c="3"><na f="t/Tecuci:Gheorghe">Gheorghe Tecuci</na></co>
+<co c="0"><na f="t/Tessier:Catherine">Catherine Tessier</na></co>
+<co c="3"><na f="t/Thomas:J=eacute=r=ocirc=me">Jérôme Thomas</na></co>
+<co c="4"><na f="t/Thomas=Vaslin:Veronique">Veronique Thomas-Vaslin</na></co>
+<co c="-1"><na f="t/Tufis:Mihnea">Mihnea Tufis</na></co>
+<co c="1"><na f="u/Ugon:Adrien">Adrien Ugon</na></co>
+<co c="13"><na f="v/Vacher:William">William Vacher</na></co>
+<co c="13"><na f="v/Velcin:Julien">Julien Velcin</na></co>
+<co c="0"><na f="v/Vexler:Fran=ccedil=ois">François Vexler</na></co>
+<co c="9"><na f="v/Vicat:Catherine">Catherine Vicat</na></co>
+<co c="0"><na f="v/Voyer:Robert">Robert Voyer</na></co>
+<co c="0"><na f="w/Wajnberg:Charles=David">Charles-David Wajnberg</na></co>
+<co c="4"><na f="y/Yang_0005:Bin">Bin Yang 0005</na></co>
+<co c="-1"><na f="z/Zerr:F=">F. Zerr</na></co>
+<co c="1"><na f="z/Zhang_0002:Xun">Xun Zhang 0002</na></co>
+<co c="0"><na f="z/Zimmermann:Antoine">Antoine Zimmermann</na></co>
+<co c="0"><na f="z/Zucker:Jean=Daniel">Jean-Daniel Zucker</na></co>
+</coauthors>
+</dblpperson>
+

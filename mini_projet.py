@@ -131,8 +131,9 @@ def synthese(name):
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
 
     
-    liste_conf={}
+    liste_art={}
     liste_nb_rang={}
+    liste_annee_art={}
     keys=["A*","A","B","C","Unranked"]
     dico={key: [] for key in keys}
     for pub in tab:
@@ -141,13 +142,19 @@ def synthese(name):
         except:
             liste_nb_rang[utils_xml.get_rank_journal(pub[1])]=1
         try :
-            liste_conf[pub[1]]+=1
+            liste_art[pub[1]]+=1
         except:
-            liste_conf[pub[1]]=1
-        if liste_conf[pub[1]]==1:
+            liste_art[pub[1]]=1
+        if liste_art[pub[1]]==1:
             
             dico[utils_xml.get_rank_journal(pub[1])].append(pub[1])
-        
+        try:
+            if pub[0] not in liste_annee_art[pub[1]]:
+
+                liste_annee_art[pub[1]].append(pub[0])
+        except:
+            liste_annee_art[pub[1]]=[]
+            liste_annee_art[pub[1]].append(pub[0])
     total = 0
 
     for k in keys:
@@ -173,14 +180,27 @@ def synthese(name):
     
     stri+="</tr>"
 
-    m=max(len(dico[k]) for k in keys)
+    taillekey=[]
+    for k in keys:
+        try:
+            taillekey.append(len(dico[k]))
+        except:
+            pass
+    m=max(t for t in taillekey)
     
     for j in range(m):
         stri+="<tr>"
         for k in keys:
             try:
                 tmp=dico[k][j]
-                stri+="<td style='border:1px solid black;padding:10px'>"+tmp+" ("+str(liste_conf[tmp])+") </td>"
+                str_annee=None
+                for i in liste_annee_art[tmp]:
+                    try:
+                        str_annee+=";"+i
+                    except:
+                        str_annee=i
+                stri+="<td style='border:1px solid black;padding:10px'>"+tmp+" ("+str(liste_art[tmp])+")  ("+str_annee+") </td>"
+
             except:
                 tmp=""
                 stri+="<td style='border:1px solid black;padding:10px'>"+tmp+"</td>"
@@ -212,6 +232,7 @@ def journal(name):
     else:
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
     stri="""<div align='center'><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+    <div align='center'><a href='http://localhost:8080/auteur/Conferences/"""+name+"""'> Conférences </a></div>
     <caption>Liste détaillée des publications ("""+str(len(tab))+""")</caption>
     <tr>
     <th style='border:1px solid black'>Article</th>
@@ -248,13 +269,9 @@ def conferences(name):
     else:
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
 
-    #####################################################################
-    #####################################################################
-    #				NE MARCHE PAS POUR JULIEN SOPENA					#
-    #####################################################################
-    #####################################################################
     liste_conf={}
     liste_nb_rang={}
+    liste_annee_conf={}
     keys=["A*","A","B","C","Unranked"]
     dico={key: [] for key in keys}
     for pub in tab:
@@ -267,13 +284,22 @@ def conferences(name):
         except:
             liste_conf[pub[0]]=1
         if liste_conf[pub[0]]==1:
-            
             dico[utils_xml.get_rank_conference(pub[0])].append(pub[0])
+        try:
+            if pub[1] not in liste_annee_conf[pub[0]]:
+                liste_annee_conf[pub[0]].append(pub[1])
+        except:
+            liste_annee_conf[pub[0]]=[]
+            liste_annee_conf[pub[0]].append(pub[1])
+
+        
         
     total = 0
-
     for k in keys:
-        total+=liste_nb_rang[k]
+        try :
+            total+=liste_nb_rang[k]
+        except:
+            pass
 
     if(total > 1):
     	stri="<div><h3 align='center'>   "+str(total)+" Conférences </h3></div>"
@@ -285,18 +311,35 @@ def conferences(name):
         <caption>Liste resumée des conférences classées selon Core</caption><tr>"""
 
     for i in dico.keys():
-        stri+="<th style='border:1px solid black'>"+i+" ("+str(liste_nb_rang[i])+") </th>"
-    
+        try:
+            stri+="<th style='border:1px solid black'>"+i+" ("+str(liste_nb_rang[i])+") </th>"
+        except:
+            stri+="<th style='border:1px solid black'>"+i+"(0) </th>"
     stri+="</tr>"
 
-    m=max(len(dico[k]) for k in keys)
-    
+
+    taillekey=[]
+    for k in keys:
+        try:
+            taillekey.append(len(dico[k]))
+        except:
+            pass
+    m=max(t for t in taillekey)
+
+
     for j in range(m):
         stri+="<tr>"
         for k in keys:
             try:
                 tmp=dico[k][j]
-                stri+="<td style='border:1px solid black;padding:10px'>"+tmp+" ("+str(liste_conf[tmp])+") </td>"
+                str_annee=None
+                for i in liste_annee_conf[tmp]:
+                    try:
+                        str_annee+=";"+i
+                    except:
+                        str_annee=i
+                stri+="<td style='border:1px solid black;padding:10px'>"+tmp+" ("+str(liste_conf[tmp])+")  ("+str_annee+") </td>"
+
             except:
                 tmp=""
                 stri+="<td style='border:1px solid black;padding:10px'>"+tmp+"</td>"
@@ -329,6 +372,7 @@ def confdetail(name):
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
     
     stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+    <div align='center'><a href='http://localhost:8080/auteur/Journals/"""+name+"""'> Articles </a></div>
     <caption>Liste détaillée des conférences ("""+str(len(tab))+""")</caption>
     <tr>
     <th style='border:1px solid black'>Titre</th>

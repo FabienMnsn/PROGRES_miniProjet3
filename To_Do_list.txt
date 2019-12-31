@@ -3,19 +3,19 @@
 *----------------*
 
 ______________________________________________________________________________
-DONE:
+DONE: 10/11
 
 Question 1 : /auteurs/qui : status : OK : Question terminée et fonctionnelle.
 Question 2 : /auteur/<name> : status : OK : Question terminée et fonctionnelle.
+Question 3 : /auteur/Journals/synthese/<name> : status : OK : Question terminée et fonctionnelle.
 Question 4 : /auteur/Journals/<name> : status : OK : Question terminée et fonctionnelle.
-
+Question 5 : /auteur/Conferences/synthese/<name> : status : OK : Question terminée et fonctionnelle.
 Question 7 : /auteur/Conferences/Voyages/<name> : status : OK : Questionterminée et fonctionnelle.
 Question 8 : /auteur/coauteurs/<name> : status : OK : Question terminée et fonctionnelle.
 Question 9 : /Conference/Laquelle : status : OK : Question terminée et fonctionnelle.
 
-Ajouter des href dans les pages /auteur/Journals/ et /auteur/Conferences/ comme pour les pages /auteur/Journals/synthese/ et /auteur/Conferences/synthese/
-/auteur/Journals/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque publication.
-/auteur/Conferences/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque conférence. + pb avec Julien Sopena erreur de clé de dico???
+Question 11 : /LIP6 : status : OK : Question terminée et fonctionnelle mais pas faite avec SageMath...
+
 
 
 ______________________________________________________________________________
@@ -29,8 +29,10 @@ Question 10 : /Conference/Lieux/<Conf> : status : TODO : Question pas encore fai
         On termine par afficher la carte comme pour la question 7
 
 
-Question 11 : /LIP6 : status : TODO : Question pas encore faite.
-    - SageMath je trouve pas de documentation bien en python donc je vais partir sur networkx je pense 
+-> Gestion des erreurs : faire un redirect en cas d'erreur? (est-ce possible?) -> afficher un truc mieux que "Oups on n'a pas pu recup les données..." qui donne plus d'info sur le type d'erreur
+-> Documenter les routes bottle + parametres des fonctions comme dans le fichier utils_xml.py
+-> fichier README.txt expliquant comment utiliser notre API
+-> Vidéo de présentation de notre API
 
 
 

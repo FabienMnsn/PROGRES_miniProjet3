@@ -13,7 +13,6 @@
 <pages>915-916</pages>
 <year>2019</year>
 <booktitle>INFOCOM Workshops</booktitle>
-<ee>https://doi.org/10.1109/INFCOMW.2019.8845068</ee>
 <crossref>conf/infocom/2019w</crossref>
 <url>db/conf/infocom/infocom2019w.html#VermeulenLFFM19</url>
 </inproceedings>
@@ -27,7 +26,6 @@
 <pages>29-42</pages>
 <year>2018</year>
 <booktitle>Internet Measurement Conference</booktitle>
-<ee>https://dl.acm.org/citation.cfm?id=3278536</ee>
 <crossref>conf/imc/2018</crossref>
 <url>db/conf/imc/imc2018.html#VermeulenSFF18</url>
 </inproceedings>
@@ -40,7 +38,6 @@
 <pages>1-7</pages>
 <year>2018</year>
 <booktitle>PIMRC</booktitle>
-<ee>https://doi.org/10.1109/PIMRC.2018.8580835</ee>
 <crossref>conf/pimrc/2018</crossref>
 <url>db/conf/pimrc/pimrc2018.html#AbuteirFF18</url>
 </inproceedings>
@@ -53,7 +50,6 @@
 <pages>158-166</pages>
 <year>2018</year>
 <booktitle>QSHINE</booktitle>
-<ee>https://doi.org/10.1007/978-3-030-14413-5_13</ee>
 <crossref>conf/qshine/2018</crossref>
 <url>db/conf/qshine/qshine2018.html#NguyenFD18</url>
 </inproceedings>
@@ -80,7 +76,6 @@
 <pages>1-7</pages>
 <year>2017</year>
 <booktitle>IWCMC</booktitle>
-<ee>https://doi.org/10.1109/IWCMC.2017.7986253</ee>
 <crossref>conf/iwcmc/2017</crossref>
 <url>db/conf/iwcmc/iwcmc2017.html#AbuteirFFA17</url>
 </inproceedings>
@@ -93,8 +88,6 @@
 <pages>220-226</pages>
 <year>2016</year>
 <booktitle>AINA</booktitle>
-<ee>https://doi.org/10.1109/AINA.2016.58</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/AINA.2016.58</ee>
 <crossref>conf/aina/2016</crossref>
 <url>db/conf/aina/aina2016.html#AbuteirFF16</url>
 </inproceedings>
@@ -108,7 +101,6 @@
 <pages>1-6</pages>
 <year>2016</year>
 <booktitle>APNOMS</booktitle>
-<ee>https://doi.org/10.1109/APNOMS.2016.7737215</ee>
 <crossref>conf/apnoms/2016</crossref>
 <url>db/conf/apnoms/apnoms2016.html#GhanemFTM16</url>
 </inproceedings>
@@ -121,7 +113,6 @@
 <pages>321-326</pages>
 <year>2016</year>
 <booktitle>IWCMC</booktitle>
-<ee>https://doi.org/10.1109/IWCMC.2016.7577078</ee>
 <crossref>conf/iwcmc/2016</crossref>
 <url>db/conf/iwcmc/iwcmc2016.html#AbuteirFF16</url>
 </inproceedings>
@@ -137,8 +128,6 @@
 <volume>97-B</volume>
 <journal>IEICE Transactions</journal>
 <number>1</number>
-<ee>https://doi.org/10.1587/transcom.E97.B.29</ee>
-<ee>http://search.ieice.org/bin/summary.php?id=e97-b_1_29</ee>
 <url>db/journals/ieicet/ieicet97b.html#Hoang-VanSMF14</url>
 </article>
 </r>
@@ -150,7 +139,6 @@
 <pages>3136-3141</pages>
 <year>2014</year>
 <booktitle>ICC</booktitle>
-<ee>https://doi.org/10.1109/ICC.2014.6883803</ee>
 <crossref>conf/icc/2014</crossref>
 <url>db/conf/icc/icc2014.html#Hoang-VanMF14</url>
 </inproceedings>
@@ -179,8 +167,6 @@
 <pages>323-328</pages>
 <year>2013</year>
 <booktitle>ICIS</booktitle>
-<ee>https://doi.org/10.1109/ICIS.2013.6607861</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ICIS.2013.6607861</ee>
 <crossref>conf/ACISicis/2013</crossref>
 <url>db/conf/ACISicis/ACISicis2013.html#Hoang-VanMMF13</url>
 </inproceedings>
@@ -193,7 +179,6 @@
 <pages>127-130</pages>
 <year>2013</year>
 <booktitle>RIVF</booktitle>
-<ee>https://doi.org/10.1109/RIVF.2013.6719880</ee>
 <crossref>conf/rivf/2013</crossref>
 <url>db/conf/rivf/rivf2013.html#Hoang-VanMF13</url>
 </inproceedings>
@@ -206,8 +191,6 @@
 <pages>375-380</pages>
 <year>2013</year>
 <booktitle>SNPD</booktitle>
-<ee>https://doi.org/10.1109/SNPD.2013.77</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/SNPD.2013.77</ee>
 <crossref>conf/snpd/2013</crossref>
 <url>db/conf/snpd/snpd2013.html#Hoang-VanMF13</url>
 </inproceedings>
@@ -220,7 +203,6 @@
 <pages>148-154</pages>
 <year>2012</year>
 <booktitle>INCoS</booktitle>
-<ee>https://doi.org/10.1109/iNCoS.2012.32</ee>
 <crossref>conf/incos/2012</crossref>
 <url>db/conf/incos/incos2012.html#MiyoshiSF12</url>
 </inproceedings>
@@ -238,7 +220,6 @@
 <volume>26</volume>
 <journal>Sig. Proc.: Image Comm.</journal>
 <number>7</number>
-<ee>https://doi.org/10.1016/j.image.2011.01.007</ee>
 <url>db/journals/spic/spic26.html#SilverstonJCFSC11</url>
 </article>
 </r>
@@ -251,7 +232,6 @@
 <pages>1-6</pages>
 <year>2010</year>
 <booktitle>GLOBECOM</booktitle>
-<ee>https://doi.org/10.1109/GLOCOM.2010.5683556</ee>
 <crossref>conf/globecom/2010</crossref>
 <url>db/conf/globecom/globecom2010.html#SilverstonFSC10</url>
 </inproceedings>
@@ -265,8 +245,6 @@
 <pages>1321-1326</pages>
 <year>2010</year>
 <booktitle>ICME</booktitle>
-<ee>https://doi.org/10.1109/ICME.2010.5583704</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2010.5583704</ee>
 <crossref>conf/icmcs/2010</crossref>
 <url>db/conf/icmcs/icme2010.html#SilverstonFSC10</url>
 </inproceedings>
@@ -285,7 +263,6 @@
 <volume>53</volume>
 <journal>Computer Networks</journal>
 <number>4</number>
-<ee>https://doi.org/10.1016/j.comnet.2008.09.024</ee>
 <url>db/journals/cn/cn53.html#SilverstonFBDPVS09</url>
 </article>
 </r>
@@ -297,8 +274,6 @@
 <pages>125-128</pages>
 <year>2008</year>
 <booktitle>Peer-to-Peer Computing</booktitle>
-<ee>https://doi.org/10.1109/P2P.2008.25</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/P2P.2008.25</ee>
 <crossref>conf/p2p/2008</crossref>
 <url>db/conf/p2p/p2p2008.html#SilverstonFC08</url>
 </inproceedings>
@@ -312,7 +287,6 @@
 <pages>39</pages>
 <year>2007</year>
 <booktitle>CoNEXT</booktitle>
-<ee>https://doi.org/10.1145/1364654.1364702</ee>
 <crossref>conf/conext/2007</crossref>
 <url>db/conf/conext/conext2007.html#SilverstonFSC07</url>
 </inproceedings>
@@ -336,7 +310,6 @@
 <pages>45</pages>
 <year>2006</year>
 <booktitle>CoNEXT</booktitle>
-<ee>https://doi.org/10.1145/1368436.1368490</ee>
 <crossref>conf/conext/2006</crossref>
 <url>db/conf/conext/conext2006.html#SilverstonF06</url>
 </inproceedings>
@@ -349,8 +322,6 @@
 <year>2006</year>
 <crossref>conf/icn/2006</crossref>
 <booktitle>ICN/ICONS/MCL</booktitle>
-<ee>https://doi.org/10.1109/ICNICONSMCL.2006.199</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ICNICONSMCL.2006.199</ee>
 <url>db/conf/icn/icn2006.html#SilverstonF06</url>
 </inproceedings>
 </r>
@@ -370,7 +341,6 @@
 <author>Olivier Fourmaux</author>
 <title>Live Streaming on a Peer-to-Peer Overlay: Implementation and Validation.</title>
 <pages>625-633</pages>
-<ee>https://doi.org/10.1007/978-3-540-31957-3_71</ee>
 <year>2005</year>
 <crossref>conf/icn/2005-2</crossref>
 <booktitle>ICN (2)</booktitle>
@@ -387,7 +357,6 @@
 <journal>Telecommunication Systems</journal>
 <number>1-2</number>
 <url>db/journals/telsys/telsys11.html#FourmauxF99</url>
-<ee>https://doi.org/10.1023/A:1019184931834</ee>
 </article>
 </r>
 <r><phdthesis key="phd/hal/Fourmaux98" mdate="2016-07-14">
@@ -395,7 +364,6 @@
 <title>Les communications multipoints dans les réseaux haut débit multimédia : Le multicast en environnement IP sur ATM. (Multipoint Communication in High-Speed Multimedia Networks: IP Multicast over ATM).</title>
 <year>1998</year>
 <school>Pierre and Marie Curie University, Paris, France</school>
-<ee>https://tel.archives-ouvertes.fr/tel-00008925</ee>
 </phdthesis>
 </r>
 <coauthors n="28" nc="1">

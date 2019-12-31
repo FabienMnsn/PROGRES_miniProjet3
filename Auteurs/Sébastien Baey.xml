@@ -15,7 +15,6 @@
 <year>2017</year>
 <volume>25</volume>
 <journal>Physical Communication</journal>
-<ee>https://doi.org/10.1016/j.phycom.2017.09.002</ee>
 <url>db/journals/phycomm/phycomm25.html#EzzaouiaGABLB17</url>
 </article>
 </r>
@@ -29,7 +28,6 @@
 <volume>66</volume>
 <journal>IEEE Trans. Vehicular Technology</journal>
 <number>8</number>
-<ee>https://doi.org/10.1109/TVT.2017.2654299</ee>
 <url>db/journals/tvt/tvt66.html#RagaleuxBK17</url>
 </article>
 </r>
@@ -43,7 +41,6 @@
 <volume>16</volume>
 <journal>Wireless Communications and Mobile Computing</journal>
 <number>17</number>
-<ee>https://doi.org/10.1002/wcm.2735</ee>
 <url>db/journals/wicomm/wicomm16.html#RagaleuxBF16</url>
 </article>
 </r>
@@ -57,7 +54,6 @@
 <volume>22</volume>
 <journal>Wireless Networks</journal>
 <number>8</number>
-<ee>https://doi.org/10.1007/s11276-015-1131-9</ee>
 <url>db/journals/winet/winet22.html#RagaleuxBG16</url>
 </article>
 </r>
@@ -73,7 +69,6 @@
 <pages>1-6</pages>
 <year>2014</year>
 <booktitle>Wireless Days</booktitle>
-<ee>https://doi.org/10.1109/WD.2014.7020802</ee>
 <crossref>conf/wd/2014</crossref>
 <url>db/conf/wd/wd2014.html#AkreZBKFZF14</url>
 </inproceedings>
@@ -90,7 +85,6 @@
 <pages>1-4</pages>
 <year>2014</year>
 <booktitle>Wireless Days</booktitle>
-<ee>https://doi.org/10.1109/WD.2014.7020829</ee>
 <crossref>conf/wd/2014</crossref>
 <url>db/conf/wd/wd2014.html#ZhangABFKZF14</url>
 </inproceedings>
@@ -103,7 +97,6 @@
 <volume>2012</volume>
 <journal>J. Electrical and Computer Engineering</journal>
 <ee type="oa">https://doi.org/10.1155/2012/781520</ee>
-<ee>https://www.wikidata.org/entity/Q58908692</ee>
 <url>db/journals/jece/jece2012.html#GueguenB12</url>
 <pages>781520:1-781520:11</pages>
 </article>
@@ -116,7 +109,6 @@
 <volume>2009</volume>
 <journal>EURASIP J. Wireless Comm. and Networking</journal>
 <ee type="oa">https://doi.org/10.1155/2009/726495</ee>
-<ee>https://www.wikidata.org/entity/Q59249009</ee>
 <url>db/journals/ejwcn/ejwcn2009.html#GueguenB09</url>
 </article>
 </r>
@@ -127,7 +119,6 @@
 <pages>2935-2939</pages>
 <year>2009</year>
 <booktitle>PIMRC</booktitle>
-<ee>https://doi.org/10.1109/PIMRC.2009.5450320</ee>
 <crossref>conf/pimrc/2009</crossref>
 <url>db/conf/pimrc/pimrc2009.html#GueguenB09</url>
 </inproceedings>
@@ -139,7 +130,6 @@
 <pages>1-6</pages>
 <year>2008</year>
 <booktitle>PIMRC</booktitle>
-<ee>https://doi.org/10.1109/PIMRC.2008.4699690</ee>
 <crossref>conf/pimrc/2008</crossref>
 <url>db/conf/pimrc/pimrc2008.html#GueguenB08</url>
 </inproceedings>
@@ -151,7 +141,6 @@
 <pages>1-5</pages>
 <year>2008</year>
 <booktitle>VTC Fall</booktitle>
-<ee>https://doi.org/10.1109/VETECF.2008.397</ee>
 <crossref>conf/vtc/2008f</crossref>
 <url>db/conf/vtc/vtc2008f.html#GueguenB08</url>
 </inproceedings>
@@ -163,7 +152,6 @@
 <pages>1610-1615</pages>
 <year>2008</year>
 <booktitle>WCNC</booktitle>
-<ee>https://doi.org/10.1109/WCNC.2008.288</ee>
 <crossref>conf/wcnc/2008</crossref>
 <url>db/conf/wcnc/wcnc2008.html#GueguenB08</url>
 </inproceedings>
@@ -175,8 +163,6 @@
 <pages>119-125</pages>
 <year>2008</year>
 <booktitle>WiMob</booktitle>
-<ee>https://doi.org/10.1109/WiMob.2008.26</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/WiMob.2008.26</ee>
 <crossref>conf/wimob/2008</crossref>
 <url>db/conf/wimob/wimob2008.html#GueguenB08</url>
 </inproceedings>
@@ -189,7 +175,6 @@
 <pages>1-5</pages>
 <year>2007</year>
 <booktitle>PIMRC</booktitle>
-<ee>https://doi.org/10.1109/PIMRC.2007.4394600</ee>
 <crossref>conf/pimrc/2007</crossref>
 <url>db/conf/pimrc/pimrc2007.html#KarbaschiFB07</url>
 </inproceedings>
@@ -202,7 +187,6 @@
 <pages>2207-2213</pages>
 <year>2004</year>
 <booktitle>WCNC</booktitle>
-<ee>https://doi.org/10.1109/WCNC.2004.1311430</ee>
 <crossref>conf/wcnc/2004</crossref>
 <url>db/conf/wcnc/wcnc2004.html#BaeyDD04</url>
 </inproceedings>
@@ -217,8 +201,6 @@
 <volume>1</volume>
 <journal>IEEE Trans. Mob. Comput.</journal>
 <number>3</number>
-<ee>https://doi.org/10.1109/TMC.2002.1081757</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/TMC.2002.1081757</ee>
 <url>db/journals/tmc/tmc1.html#BaeyDD02</url>
 </article>
 </r>

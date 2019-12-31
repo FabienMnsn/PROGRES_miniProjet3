@@ -663,7 +663,7 @@ def get_lieux(conference_url):
 		element_splited_lieux = element_splited[1]
 		element_splited_lieux2 = element_splited_lieux.replace('\n', '')
 		a = element_splited_lieux2.replace(' ', '').split(',') 
-	print(a)
+	#print(a)
 	return a
 		
 
@@ -706,11 +706,11 @@ def conf_voyages(file_path):
 		i = 1
 		for elem in liste_conf:
 			if(len(elem) != 0):
-				print(i, elem)
+				#print(i, elem)
 				i+=1
 				tab.append([get_lieux(elem[2]), elem[0], elem[1]])
-		for e in tab:
-			print(e)
+		#for e in tab:
+			#print(e)
 		return tab
 
 

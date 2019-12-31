@@ -484,7 +484,7 @@ def recup_conf():
 @bottle.route("/Conference/Lieux/<conf>")
 @bottle.view("page.tpl")
 def conference_lieux(conf):
-     return {"title":"Test","body":"Test"}
+    return {"title":"Test","body":"Test"}
 
 
 
@@ -515,7 +515,6 @@ def lip6_v2():
 def Graphe():
     auteur1 = bottle.request.forms.auteur1
     auteur2 = bottle.request.forms.auteur2
-    print(auteur1, auteur2)
     graphe.draw_graph_2membres(auteur1, auteur2)
     return static_file("graphe2.png", root="")
 

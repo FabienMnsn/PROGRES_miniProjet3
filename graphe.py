@@ -64,8 +64,6 @@ def draw_graph_2membres(author_name1, author_name2):
 		edges = []
 		list_coaut1 = links_dico[author_name1]
 		list_coaut2 = links_dico[author_name2]
-		print(author_name1, list_coaut1)
-		print(author_name2, list_coaut2)
 		for key in links_dico.keys():
 			if(key == author_name1):
 				node_labels[author_name1] = author_name1.replace(' ', '\n')
@@ -136,8 +134,8 @@ def draw_graph_all():
 
 if __name__ == '__main__':
 
-
-	draw_graph_2membres("Vincent Guigue", "Swan Dubois")
+	print(get_links("Auteurs/lip6.xml"))
+	#draw_graph_2membres("Vincent Guigue", "Swan Dubois")
 	#draw_graph_all(get_links("Auteurs/lip6.xml"))
 	#print(liste_lip6("Auteurs/lip6.xml"))
 	#http://doc.sagemath.org/html/en/reference/graphs/sage/graphs/graph.html#graph-format

@@ -196,7 +196,7 @@ def synthese(name):
                 str_annee=None
                 for i in liste_annee_art[tmp]:
                     try:
-                        str_annee+=";"+i
+                        str_annee+=", "+i
                     except:
                         str_annee=i
                 stri+="<td style='border:1px solid black;padding:10px'>"+tmp+" ("+str(liste_art[tmp])+")  ("+str_annee+") </td>"
@@ -335,7 +335,7 @@ def conferences(name):
                 str_annee=None
                 for i in liste_annee_conf[tmp]:
                     try:
-                        str_annee+=";"+i
+                        str_annee+=", "+i
                     except:
                         str_annee=i
                 stri+="<td style='border:1px solid black;padding:10px'>"+tmp+" ("+str(liste_conf[tmp])+")  ("+str_annee+") </td>"
@@ -390,7 +390,7 @@ def confdetail(name):
 
 
 
-@bottle.route("/auteur/Conference/Voyages/<name>")
+@bottle.route("/auteur/Conferences/Voyages/<name>")
 @bottle.view("page.tpl")
 def conference_voyage(name):
     name_split = name.split("_")

@@ -112,25 +112,32 @@ def draw_graph_all(links_dico):
 	@param
 	links_dico : dictionnaire des lien entre chaque membre permanent du lip6
 	"""
+	#color = ["red", "blue", "green", "orange", "grey", "purple", "brown"]
 	G = nx.Graph()
-	color = []
-	node_labels = {}
 	edges = []
-	for elem in links_dico:
-		node_labels[elem] = elem.replace(' ', '\n')
-		for each in links_dico[elem]:
-			edges.append((elem,each))
-
+	#edges_color = []
+	#index_color = 0
+	for key in links_dico.keys():
+		liste = links_dico[key]
+		if(len(liste) != 0):
+			for element in liste:
+				edges.append((key,element))
+				#edges_color.append(color[index_color%len(color)])
+		else:
+			continue
+		#index_color +=1
+	
 	G.add_edges_from(edges)
-	plt.figure(figsize=(15,8))
-	nx.draw_random(G, with_labels=True, node_size=20, labels=node_labels, node_color="blue", font_size=6, font_weight='bold')
+	plt.figure(figsize=(15,15))
+	poslay = nx.spring_layout(G, k=1)
+	nx.draw(G, pos=poslay, with_labels=True, node_size=10, node_color="blue", edge_color="grey", width=0.5, font_size=8, font_weight='bold')
 	plt.savefig("grapheAll.png", dpi=200)
 
 
 if __name__ == '__main__':
 
 
-	draw_graph_2membres("Auteurs/lip6.xml", get_links("Auteurs/lip6.xml"), "Swan Dubois", "Sébastien Tixeuil")
-	#draw_graph_all(get_links("Auteurs/lip6.xml"))
+	#draw_graph_2membres("Auteurs/lip6.xml", get_links("Auteurs/lip6.xml"), "Swan Dubois", "Sébastien Tixeuil")
+	draw_graph_all(get_links("Auteurs/lip6.xml"))
 	#print(liste_lip6("Auteurs/lip6.xml"))
 	#http://doc.sagemath.org/html/en/reference/graphs/sage/graphs/graph.html#graph-format

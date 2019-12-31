@@ -410,6 +410,8 @@ def conference_voyage(name):
     sumX = 0
     sumY = 0
     for elem in gps:
+        if(elem[0] == None):
+            continue
         sumX += elem[1][0]
         sumY += elem[1][1]
 
@@ -418,6 +420,8 @@ def conference_voyage(name):
     # un element du tableau gps : [['Budapest', 'Hungary'], [47.4983815, 19.0404707], 'DISC', '2019']
     map = folium.Map(location=[zoomX, zoomY], zoom_start=2)
     for elem in gps:
+        if(elem[0] == None):
+            continue
         conf_name = elem[2]
         ville = elem[0][0]
         annee = elem[3]

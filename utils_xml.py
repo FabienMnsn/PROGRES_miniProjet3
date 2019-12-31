@@ -655,11 +655,16 @@ def get_lieux(conference_url):
 	page = requests.get(url) # , proxies=proxy)
 	soup = BeautifulSoup(page.content, "html.parser")
 	res = soup.find_all('h1')
+	a = None
 	for elem in res:
-		element_splited = elem.text.split(':') #\n
+		element_splited = elem.text.split(':')
+		if(len(element_splited) < 2):
+			continue
 		element_splited_lieux = element_splited[1]
 		element_splited_lieux2 = element_splited_lieux.replace('\n', '')
-		return element_splited_lieux2.replace(' ', '').split(',')
+		a = element_splited_lieux2.replace(' ', '').split(',') 
+	print(a)
+	return a
 		
 
 def display_lieux_conf(conference_url):
@@ -683,26 +688,29 @@ def display_lieux_conf(conference_url):
 	print(string)
 
 
-def conf_voyages(file_name):
+def conf_voyages(file_path):
 	"""
 	Retourne un tableau contenant des elements : [ [Ville, Etat, Pays], Conf_name, annee]
 	(utile pour simplifier l'affichage de la carte de la question 7)
 
 	@param
-	file_name : string, nom du fichier de l'auteur (nom+' '+prenom+'.xml')
+	file_path : string, nom du fichier de l'auteur (nom+' '+prenom+'.xml')
 	"""
-	liste_conf = liste_resume_conference(file_name)
+	liste_conf = liste_resume_conference(file_path)
 	#liste_conf => [conf_name, annee, url]
 	if(len(liste_conf) <= 0):
 		print("error taille liste [conf_voyages()]")
 		return -1
 	else:
 		tab = []
+		i = 1
 		for elem in liste_conf:
-			#if(len(elem) != 0):
-			tab.append([get_lieux(elem[2]), elem[0], elem[1]])
-		#for e in tab:
-			#print(e)
+			if(len(elem) != 0):
+				print(i, elem)
+				i+=1
+				tab.append([get_lieux(elem[2]), elem[0], elem[1]])
+		for e in tab:
+			print(e)
 		return tab
 
 
@@ -718,7 +726,8 @@ def address_to_gps(tab_conf_voyage):
     geolocator = Nominatim(user_agent="api")
 
     for element in tab_conf_voyage:
-        adrs = clean_adrs(element[0])
+        if(element[0] != None):
+            adrs = clean_adrs(element[0])
         #print(adrs)
         location = geolocator.geocode(adrs)
         if(location != None):
@@ -733,38 +742,38 @@ def address_to_gps(tab_conf_voyage):
 
 
 def clean_adrs(adrs):
-	"""
-	Retourne la nouvelle addresse sous forme d'une string avec les mot séparés selon les majuscules
+    """
+    Retourne la nouvelle addresse sous forme d'une string avec les mot séparés selon les majuscules
 
-	@param:
-	adrs : string, ex :['PortodeGalinhas', 'Pernambuco', 'Brazil']
-	"""
-	new_adrs = []
-	for elem in adrs:
-		sub_element = split_sub(elem)
-		if(sub_element[-2:] == "de"):
-			new_adrs.append(sub_element[-2:])
-		else:
-			new_adrs.append(str(sub_element))
-	return ' '.join(new_adrs)
+    @param:
+    adrs : string, ex :['PortodeGalinhas', 'Pernambuco', 'Brazil']
+    """
+    new_adrs = []
+    for elem in adrs:
+        sub_element = split_sub(elem)
+        if(sub_element[-2:] == "de"):
+            new_adrs.append(sub_element[-2:])
+        else:
+            new_adrs.append(str(sub_element))
+    return ' '.join(new_adrs)
 
 
 def split_sub(string):
-	"""
-	Retourne une string ou les mot commençant par une majuscule sont séparés
+    """
+    Retourne une string ou les mot commençant par une majuscule sont séparés
 
-	@param
-	string : chaine de mots collés
-	"""
-	#print(string)
-	if(len(string) > 1):
-		if(64 < ord(string[0]) < 91 and 64 < ord(string[-1]) < 91):
-			return string
-		else:
-			new_string = re.findall('[A-Z][a-z]*', string)
-			new_string_fusion = ' '.join(new_string)
-			replaced = re.sub(r'de ', ' de ', new_string_fusion)
-		return replaced
+    @param
+    string : chaine de mots collés
+    """
+    #print(string)
+    if(len(string) > 1):
+        if(64 < ord(string[0]) < 91 and 64 < ord(string[-1]) < 91):
+            return string
+        else:
+            new_string = re.findall('[A-Z][a-z]*', string)
+            new_string_fusion = ' '.join(new_string)
+            replaced = re.sub(r'de ', ' de ', new_string_fusion)
+        return replaced
 
 
 def geocoding(adrs):
@@ -878,8 +887,8 @@ if __name__ == '__main__':
 	#print(liste_resume_conference("Auteurs/Olivier Fourmaux.xml"))
 	#conf_voyages("Julien Sopena")
 	#print(get_rank_conference("USENIX Annual Technical Conference"))
-	
-	address_to_gps(conf_voyages("Vincent Guigue"))
+	print(conf_voyages("Auteurs/Vincent Guigue.xml"))
+	#address_to_gps(conf_voyages("Auteurs/Vincent Guigue.xml"))
 	#print(address_to_gps(conf_voyages("Auteurs/Lélia Blin.xml")))
 	#geocoding("Porto de Galinhas Pernambuco Brazil")
 

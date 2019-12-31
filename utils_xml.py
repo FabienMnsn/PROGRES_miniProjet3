@@ -879,7 +879,7 @@ if __name__ == '__main__':
 	#conf_voyages("Julien Sopena")
 	#print(get_rank_conference("USENIX Annual Technical Conference"))
 	
-	#address_to_gps(conf_voyages("Julien Sopena"))
+	address_to_gps(conf_voyages("Vincent Guigue"))
 	#print(address_to_gps(conf_voyages("Auteurs/Lélia Blin.xml")))
 	#geocoding("Porto de Galinhas Pernambuco Brazil")
 

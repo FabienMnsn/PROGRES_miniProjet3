@@ -13,13 +13,13 @@ Question 7 : /auteur/Conferences/Voyages/<name> : status : OK : Questionterminé
 Question 8 : /auteur/coauteurs/<name> : status : OK : Question terminée et fonctionnelle.
 Question 9 : /Conference/Laquelle : status : OK : Question terminée et fonctionnelle.
 
+Ajouter des href dans les pages /auteur/Journals/ et /auteur/Conferences/ comme pour les pages /auteur/Journals/synthese/ et /auteur/Conferences/synthese/
+/auteur/Journals/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque publication.
+/auteur/Conferences/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque conférence. + pb avec Julien Sopena erreur de clé de dico???
 
 
 ______________________________________________________________________________
 TODO:
-
-\\\\\\\\\\DONE//////////Ajouter des href dans les pages /auteur/Journals/ et /auteur/Conferences/ comme pour les pages /auteur/Journals/synthese/ et /auteur/Conferences/synthese/
-
 
 Question 10 : /Conference/Lieux/<Conf> : status : TODO : Question pas encore faite.
 Question 11 : /LIP6 : status : TODO : Question pas encore faite.
@@ -29,5 +29,3 @@ Question 11 : /LIP6 : status : TODO : Question pas encore faite.
 ______________________________________________________________________________
 TO FIX (BUG / PB):
 
-\\\\\\\\\\DONE////////// : /auteur/Journals/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque publication.
-\\\\\\\\\\DONE////////// : /auteur/Conferences/synthese/<name> : status : TOFIX : Reste à ajouter l'année de chaque conférence. + pb avec Julien Sopena erreur de clé de dico???

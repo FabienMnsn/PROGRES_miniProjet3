@@ -22,7 +22,15 @@ ______________________________________________________________________________
 TODO:
 
 Question 10 : /Conference/Lieux/<Conf> : status : TODO : Question pas encore faite.
+    - algo basique (idée générale du fonctionnement de la fonction):
+        A partir du nom de la conférence faire une recherche sur dblp (en créant un lien /db/conf peut être?? ou une autre méthode).
+        Ensuite on recupère le code source de la page de la conférence avec BeautifulSoup et on chercher toute les balises qui contiennent les lieux de conf.
+        On créé une map folium et on ajoute les markers en resolvant les noms de ville avec la fct get_lieux() qui transforme les string en coords gps.
+        On termine par afficher la carte comme pour la question 7
+
+
 Question 11 : /LIP6 : status : TODO : Question pas encore faite.
+    - SageMath je trouve pas de documentation bien en python donc je vais partir sur networkx je pense 
 
 
 

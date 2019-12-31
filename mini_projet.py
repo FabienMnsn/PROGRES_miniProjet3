@@ -26,7 +26,7 @@ def telecharge(author_name):
             #on doit donc vérifier qu'il s'agit bien d'un fichier d'auteur
             file = open("Auteurs/"+file_name, "r")
             file_content = file.readlines()
-            print(file_content)
+            #print(file_content)
             if(len(file_content) > 30):
                 return "ok"
             else:

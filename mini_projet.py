@@ -484,7 +484,22 @@ def recup_conf():
 @bottle.route("/Conference/Lieux/<conf>")
 @bottle.view("page.tpl")
 def conference_lieux(conf):
-     return {"title":"Test","body":"Test"}
+    tab=utils_xml.conference_voyage_map(conf)
+
+    map=folium.Map(location=utils_xml.geocoder_conf(tab[0])[0][1], zoom_start=10)
+
+    cmpt=len(tab)
+
+    for i in tab:
+        gps=utils_xml.geocoder_conf(i)
+        annee=gps[0][-1]
+        ville=gps[0][0][0]
+        print(ville)
+        print(gps[0][1])
+        folium.Marker(gps[0][1],popup=ville+' '+annee).add_to(map)
+    body=map.get_root().render()
+
+    return {"title":"Carte de la conference "+conf,"body":body}
 
 
 

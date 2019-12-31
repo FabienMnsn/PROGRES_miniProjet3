@@ -787,7 +787,49 @@ def geocoding(adrs):
         location = geolocator.geocode(adrs)
     print(location.latitude, location.longitude)
 
+def conference_voyage_map(conf_name):
+	"""
+	Retourne une liste à 2D :[[Ville,Etat(si présent),Pays,Annee]......] 
 
+	@param
+	conf_name : nom de la conf rechercher
+	"""
+	if(conf_name == ""):
+		return ""
+	conf_name=conf_name.lower()
+	url= "https://dblp.uni-trier.de/db/conf/"+conf_name
+	lieuxliste=[]
+	r = requests.get(url)
+	soup = BeautifulSoup(r.content, "html.parser")
+	res=soup.find_all('h2')
+	for elem in res:
+		stri=elem.contents
+		tab=stri[0].split(":")
+		tmp=tab[0].split(" ")
+		annee=tmp[-1]
+		tmp=tab[1].split(",")
+		info=[]
+		for i in tmp:
+			info.append(i)	
+		info.append(annee)	
+		lieuxliste.append(info)
+	return lieuxliste
+
+def geocoder_conf(tab):
+	newtab=[]
+	for i in tab:
+		if i==tab[-1]:
+			pass
+		else:
+			newtab.append(i)
+	res=[]
+	geolocator=Nominatim(user_agent="api")
+	location=geolocator.geocode(newtab)
+	if(location!=None):
+		res.append([newtab,[location.latitude,location.longitude], tab[-1]])
+	else:
+		return "pb"
+	return res
 
 #-------------------------------------------------------
 #			Fonctions utilitaires diverses

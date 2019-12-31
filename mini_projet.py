@@ -1,10 +1,12 @@
 #---------------------------
 import utils_xml
+import graphe
 #---------------------------
 import os
 from lxml import etree
 import bottle
 from bottle import redirect
+from bottle import static_file
 from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
 import folium
@@ -476,7 +478,6 @@ def laquelle():
 def recup_conf():
 
     conf = bottle.request.forms.conference
-    #redirect("/auteur/"+lname+"/"+fname)
     redirect("/Conference/Lieux/"+conf)
 
 
@@ -486,6 +487,19 @@ def conference_lieux(conf):
      return {"title":"Test","body":"Test"}
 
 
+
+@bottle.route("/LIP6")
+#@bottle.view("page.tpl")
+def lip6():
+    graphe.draw_graph_all()
+    return static_file("grapheAll.png", root="")
+
+
+@bottle.route("/LIP6_2")
+@bottle.view("page.tpl")
+def lip6():
+    graphe.draw_graph_all()
+    #return static_file("grapheAll.png", root="")
 
 
 

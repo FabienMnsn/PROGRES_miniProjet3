@@ -44,17 +44,18 @@ def get_links(lip6_members_path):
 	return links
 
 
-def draw_graph_2membres(lip6_members_path, links_dico, author_name1, author_name2):
+def draw_graph_2membres(author_name1, author_name2):
 	"""
 	Retourne un graphe reseau des publications entre membres permanents du lip6
 
 	@param
-	lip6_members_path : string, chemin d'acces du fihcer xml des membres permanents du lip6 
+	lip6_members_path : string, chemin d'acces du ficher xml des membres permanents du lip6 
 	links_dico : dictionnaire des lien entre chaque membre permanent du lip6
 	author_name1 : string nom de l'auteur1 ex : "Prénom Nom"
 	author_name2 : string nom de l'auteur2 ex : "Prénom Nom"
 	"""
-	lip6 = utils_xml.liste_lip6(lip6_members_path)
+	lip6 = utils_xml.liste_lip6("Auteurs/lip6.xml")
+	links_dico = get_links("Auteurs/lip6.xml")
 	if(author_name1 in lip6 and author_name2 in lip6):
 		G = nx.Graph()
 		color = []
@@ -105,7 +106,7 @@ def draw_graph_2membres(lip6_members_path, links_dico, author_name1, author_name
 		print("ERROR : incorrect name authors")
 
 
-def draw_graph_all(links_dico):
+def draw_graph_all():
 	"""
 	Retourne rien mais enregistre une image du schéma des publication entre tous les membres permanents du lip6
 	
@@ -113,6 +114,7 @@ def draw_graph_all(links_dico):
 	links_dico : dictionnaire des lien entre chaque membre permanent du lip6
 	"""
 	#color = ["red", "blue", "green", "orange", "grey", "purple", "brown"]
+	links_dico = get_links("Auteurs/lip6.xml")
 	G = nx.Graph()
 	edges = []
 	#edges_color = []

@@ -130,8 +130,8 @@ def draw_graph_all(links_dico):
 	G.add_edges_from(edges)
 	plt.figure(figsize=(15,15))
 	poslay = nx.spring_layout(G, k=1)
-	nx.draw(G, pos=poslay, with_labels=True, node_size=10, node_color="blue", edge_color="grey", width=0.5, font_size=8, font_weight='bold')
-	plt.savefig("grapheAll.png", dpi=200)
+	nx.draw(G, pos=poslay, with_labels=True, node_size=10, node_color="grey", edge_color="grey", width=0.5, font_size=8, font_weight='normal')
+	plt.savefig("grapheAll.png", dpi=90)
 
 
 if __name__ == '__main__':

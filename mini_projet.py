@@ -530,7 +530,6 @@ def lip6_v2():
 def Graphe():
     auteur1 = bottle.request.forms.auteur1
     auteur2 = bottle.request.forms.auteur2
-    print(auteur1, auteur2)
     graphe.draw_graph_2membres(auteur1, auteur2)
     return static_file("graphe2.png", root="")
 

@@ -591,7 +591,6 @@ def conference_lieux(conf):
 
     map=folium.Map(location=utils_xml.geocoder_conf(tab[0])[0][1], zoom_start=2)
 
-    cmpt=len(tab)
     
     for i in tab:
         gps=utils_xml.geocoder_conf(i)
@@ -599,8 +598,6 @@ def conference_lieux(conf):
             continue
         annee=gps[0][-1]
         ville=gps[0][0][0]
-        #print(ville)
-        #print(gps[0][1])
         if i[-2]=="oui":
             folium.Marker(gps[0][1],popup=str(i[-3])+" conference,\n"+ville+', '+annee).add_to(map)
         else:

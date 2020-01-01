@@ -828,6 +828,12 @@ def conference_voyage_map(conf_name):
 
 
 def geocoder_conf(tab):
+	"""
+	Retourne une liste de la forme [[[Ville,Etat(si présent),Pays,],[latitude,longitude],Année]]]
+
+	@param
+	tab: élément de la table retourné par la fonction conference_voyage_map 
+	"""
 	newtab=[]
 	for i in tab:
 		if tab[-2]=="oui":
@@ -841,7 +847,6 @@ def geocoder_conf(tab):
 				pass
 			else:
 				newtab.append(i)
-	print(newtab)
 	res=[]
 	geolocator=Nominatim(user_agent="api")
 	location=geolocator.geocode(newtab)
@@ -962,7 +967,7 @@ if __name__ == '__main__':
 	#print(clean_adrs(['Anacarpi', 'CapriIsland', 'Italy']))
 	#adrs = clean_adrs(['LasPalmasdeGranCanaria', 'Spain'])
 	#geocoding(adrs)
-	"""tab=conference_voyage_map("pimrc")
+	tab=conference_voyage_map("pimrc")
 	for i in tab:
 
-		print(geocoder_conf(i))"""
+		print(geocoder_conf(i))

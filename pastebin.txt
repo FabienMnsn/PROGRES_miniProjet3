@@ -1,3 +1,9 @@
+
+                    +-----------------------------------------+
+                    | This is a toolbox for fast copy/past :) |
+                    +-----------------------------------------+
+
+
 <div><a href='http://localhost:8080/Conference/Laquelle'>[Rechercher Conference]</a></div>
 
 <div><a href='http://localhost:8080/auteur/qui'>[Rechercher Auteur]</a></div>

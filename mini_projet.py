@@ -595,6 +595,8 @@ def conference_lieux(conf):
     
     for i in tab:
         gps=utils_xml.geocoder_conf(i)
+        if gps=="pb":
+            continue
         annee=gps[0][-1]
         ville=gps[0][0][0]
         #print(ville)

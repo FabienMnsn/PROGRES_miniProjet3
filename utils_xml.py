@@ -832,7 +832,7 @@ def geocoder_conf(tab):
 	for i in tab:
 		if tab[-2]=="oui":
 			if i==tab[-1] or i==tab[-2]  or i==tab[-3]:
-				print("bonjour")
+				
 				pass
 			else:
 				newtab.append(i)
@@ -962,5 +962,7 @@ if __name__ == '__main__':
 	#print(clean_adrs(['Anacarpi', 'CapriIsland', 'Italy']))
 	#adrs = clean_adrs(['LasPalmasdeGranCanaria', 'Spain'])
 	#geocoding(adrs)
-	tab=conference_voyage_map("sss")
-	print(geocoder_conf(tab[0]))
+	"""tab=conference_voyage_map("pimrc")
+	for i in tab:
+
+		print(geocoder_conf(i))"""

@@ -13,6 +13,12 @@ import folium
 
 
 
+"""
+Description : Cette fonction est uniquement une décoration de la fonction download_file() du fichier utils_xml.py, elle gère en plus les differentes cas d'erreur.
+Return      : Retourne une string decrivant le status de sortie de la fonction ayant les valeurs : 'ok', 'erreur' et 'erreur homonymes'.
+Parameters  : Aucun.
+Errors      : Aucune erreur car la vérification est faite plus loins.
+"""
 def telecharge(author_name):
     ret_val = "ok"
     file_name = author_name+".xml"
@@ -52,7 +58,12 @@ def telecharge(author_name):
 
 #--------------------------FONCTION BOTTLE--------------------------
 
-
+"""
+Description : Cette fonction fabrique un formulaire de saisie html minimaliste demandant de saisir le nom et le prénom d'un auteur.
+Return      : Un formulaire dans une page html.
+Parameters  : Aucun.
+Errors      : Aucune erreur car la vérification est faite plus loins.
+"""
 @bottle.route("/auteur/qui")
 @bottle.view("page.tpl")
 def auteur():
@@ -67,16 +78,29 @@ def auteur():
 
 
 
+
+"""
+Description : Cette fonction fait uniquement une redirection vers une autre route.
+Return      : Rien.
+Parameters  : Aucun.
+Errors      : Aucune erreur car la vérification est faite plus loins dans la fonction d'après.
+"""
 @bottle.route("/auteur/name", method='POST')
 @bottle.view("page.tpl")
 def name():
     lname = bottle.request.forms.last_name
     fname = bottle.request.forms.first_name
-    #print("---->NAME :", lname, fname)
     redirect("/auteur/"+lname+"_"+fname)
 
 
 
+
+"""
+Description : Cette fonction fabrique une table html et la retourne si l'auteur a été trouvé dans la base dblp sinon elle renvoie une erreur.
+Return      : Table html a 3 lignes, nombre de journaux, nombre de conference et nombre de co-auteurs.
+Parameters  : name -> le nom de l'auteur que l'on recupère grâce à la fonction de redirection au dessus.
+Errors      : 2 erreurs possibles sous forme de page html :Récupération des données impossible, Plusieurs auteurs au nom identique.
+"""
 @bottle.route("/auteur/<name>")
 @bottle.view("page.tpl")
 def auteur(name):
@@ -84,15 +108,14 @@ def auteur(name):
     #inversion nom et prenom pour lancer la recherche
     name_h = name_split[0].replace('+', "_")
     author_name = name_split[1]+" "+name_h
-    #print("---->AUTEUR : ", author_name)
     file_name = author_name+".xml"
     status = telecharge(author_name)
     if(status=="ok"):
         tab=utils_xml.publication_stat("Auteurs/"+file_name)
     elif(status=="erreur homonymes"):
-    	return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+    	return {"title":"Erreur : il existe plusieurs auteurs ayants le même nom", "body":"<div>Aide : Veuillez préciser l'auteur en ajoutant '+0001' apres le nom de l'auteur, par exemple : 'Sens+0001 Pierre'.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     else:
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
+        return {"title":"Erreur : impossible de récupérer les informations de cette personne", "body":"<div>Aide : Vérifiez l'orthographe des nom et prénom de l'auteur et réessayez.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     dico=utils_xml.publication_stat("Auteurs/"+file_name)
 
     stri="""<div><table style="border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse">
@@ -107,22 +130,23 @@ def auteur(name):
     <td style='border:1px solid black;padding:10px'>Nombre de co-auteurs</td>"""+ "<td style='border:1px solid black;padding:10px'>"+str(dico["co-auteurs"])+"""</td>
     </tr>
     </table></div>"""
-    
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
 
 
+
+"""
+Description : Cette fonction 
+Return      : 
+Parameters  : 
+Errors      : 
+"""
 @bottle.route("/auteur/Journals/synthese/<name>")
 @bottle.view("page.tpl")
 def synthese(name):
     name_split = name.split("_")
-    #inversion nom et prenom pour lancer la recherche
     name_h = name_split[0].replace('+', "_")
     author_name = name_split[1]+" "+name_h
-    """
-    name_split = name.split("_")
-    author_name = name_split[1]+" "+name_split[0]
-    """
     file_name = author_name+".xml"
     status = telecharge(author_name)
     if(status=="ok"):
@@ -131,8 +155,6 @@ def synthese(name):
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
     else:
         return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
-
-    
     liste_art={}
     liste_nb_rang={}
     liste_annee_art={}
@@ -214,6 +236,13 @@ def synthese(name):
 
 
 
+
+"""
+Description : Cette fonction 
+Return      : 
+Parameters  : 
+Errors      : 
+"""
 @bottle.route("/auteur/Journals/<name>")
 @bottle.view("page.tpl")
 def journal(name):
@@ -251,6 +280,13 @@ def journal(name):
 
 
 
+
+"""
+Description : Cette fonction 
+Return      : 
+Parameters  : 
+Errors      : 
+"""
 @bottle.route("/auteur/Conferences/synthese/<name>")
 @bottle.view("page.tpl")
 def conferences(name):
@@ -353,6 +389,13 @@ def conferences(name):
 
 
 
+
+"""
+Description : Cette fonction 
+Return      : 
+Parameters  : 
+Errors      : 
+"""
 @bottle.route("/auteur/Conferences/<name>")
 @bottle.view("page.tpl")
 def confdetail(name):
@@ -392,6 +435,13 @@ def confdetail(name):
 
 
 
+
+"""
+Description : Cette fonction 
+Return      : 
+Parameters  : 
+Errors      : 
+"""
 @bottle.route("/auteur/Conferences/Voyages/<name>")
 @bottle.view("page.tpl")
 def conference_voyage(name):
@@ -434,6 +484,14 @@ def conference_voyage(name):
     return { "title":"Carte des lieux de conférence de : "+author_name, "body":body}
 
 
+
+
+"""
+Description : Cette fonction 
+Return      : 
+Parameters  : 
+Errors      : 
+"""
 @bottle.route("/auteur/coauthors/<name>")
 @bottle.view("page.tpl")
 def coauthors(name):
@@ -461,6 +519,14 @@ def coauthors(name):
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
 
+
+
+"""
+Description : Cette fonction 
+Return      : 
+Parameters  : 
+Errors      : 
+"""
 @bottle.route("/Conference/Laquelle")
 @bottle.view("page.tpl")
 def laquelle():
@@ -473,6 +539,14 @@ def laquelle():
     return {"title":"Rechercher une conférence", "body":stri}
 
 
+
+
+"""
+Description : Cette fonction 
+Return      : 
+Parameters  : 
+Errors      : 
+"""
 @bottle.route("/Conference/recup_conf", method='POST')
 @bottle.view("page.tpl")
 def recup_conf():
@@ -481,6 +555,14 @@ def recup_conf():
     redirect("/Conference/Lieux/"+conf)
 
 
+
+
+"""
+Description : Cette fonction 
+Return      : 
+Parameters  : 
+Errors      : 
+"""
 @bottle.route("/Conference/Lieux/<conf>")
 @bottle.view("page.tpl")
 def conference_lieux(conf):
@@ -506,13 +588,27 @@ def conference_lieux(conf):
 
 
 
+
+"""
+Description : Cette fonction 
+Return      : 
+Parameters  : 
+Errors      : 
+"""
 @bottle.route("/LIP6")
-#@bottle.view("page.tpl")
 def lip6():
     graphe.draw_graph_all()
     return static_file("grapheAll.png", root="")
 
 
+
+
+"""
+Description : Cette fonction 
+Return      : 
+Parameters  : 
+Errors      : 
+"""
 @bottle.route("/LIP6/auteurs")
 @bottle.view("page.tpl")
 def lip6_v2():
@@ -524,10 +620,16 @@ def lip6_v2():
     </form>
     """
     return {"title":"Saisissez deux auteurs :", "body":stri}
-    #graphe.draw_graph_all()
-    
 
 
+
+
+"""
+Description : Cette fonction 
+Return      : 
+Parameters  : 
+Errors      : 
+"""
 @bottle.route("/LIP6/Graphe", method='POST')
 @bottle.view("page.tpl")
 def Graphe():

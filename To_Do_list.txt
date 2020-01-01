@@ -21,14 +21,6 @@ Question 11 : /LIP6 : status : OK : Question terminée et fonctionnelle mais pas
 ______________________________________________________________________________
 TODO:
 
-Question 10 : /Conference/Lieux/<Conf> : status : TODO : Question pas encore faite.
-    - algo basique (idée générale du fonctionnement de la fonction):
-        A partir du nom de la conférence faire une recherche sur dblp (en créant un lien /db/conf peut être?? ou une autre méthode).
-        Ensuite on recupère le code source de la page de la conférence avec BeautifulSoup et on chercher toute les balises qui contiennent les lieux de conf.
-        On créé une map folium et on ajoute les markers en resolvant les noms de ville avec la fct get_lieux() qui transforme les string en coords gps.
-        On termine par afficher la carte comme pour la question 7
-
-
 -> Gestion des erreurs : faire un redirect en cas d'erreur? (est-ce possible?) -> afficher un truc mieux que "Oups on n'a pas pu recup les données..." qui donne plus d'info sur le type d'erreur
 -> Documenter les routes bottle + parametres des fonctions comme dans le fichier utils_xml.py
 -> fichier README.txt expliquant comment utiliser notre API
@@ -39,3 +31,4 @@ Question 10 : /Conference/Lieux/<Conf> : status : TODO : Question pas encore fai
 ______________________________________________________________________________
 TO FIX (BUG / PB):
 
+Question 10 : /Conference/Lieux/<Conf> : status : TOFIX : pb de 'index out of range' pour la conf "PIMRC"

@@ -716,7 +716,7 @@ def address_to_gps(tab_conf_voyage):
     Retourne un tableau identique au premier passé en parametres en remplacant la première case (l'adresse en toute lettre) par les coordonnéess gps
 
     @param
-    tab_conf_voyage : tab[], tableau contenant plusieurs element de la forme : [ [Ville, Etat, Pays], Conf_name, annee]
+    tab_conf_voyage : tab[], tableau contenant plusieurs elements de la forme : [ [Ville, Etat, Pays], Conf_name, annee]
     """
     #print(len(tab_conf_voyage))
     res = []
@@ -740,7 +740,7 @@ def address_to_gps(tab_conf_voyage):
 
 def clean_adrs(adrs):
     """
-    Retourne la nouvelle addresse sous forme d'une string avec les mot séparés selon les majuscules
+    Retourne la nouvelle addresse sous forme d'une string avec les mots séparés selon les majuscules
 
     @param:
     adrs : string, ex :['PortodeGalinhas', 'Pernambuco', 'Brazil']
@@ -757,7 +757,7 @@ def clean_adrs(adrs):
 
 def split_sub(string):
     """
-    Retourne une string ou les mot commençant par une majuscule sont séparés
+    Retourne une string ou les mots commençants par une majuscule sont séparés
 
     @param
     string : chaine de mots collés
@@ -787,12 +787,13 @@ def geocoding(adrs):
         location = geolocator.geocode(adrs)
     print(location.latitude, location.longitude)
 
+
 def conference_voyage_map(conf_name):
 	"""
 	Retourne une liste à 2D :[[Ville,Etat(si présent),Pays,Annee]......] 
 
 	@param
-	conf_name : nom de la conf rechercher
+	conf_name : nom de la conf a rechercher
 	"""
 	if(conf_name == ""):
 		return ""
@@ -825,6 +826,7 @@ def conference_voyage_map(conf_name):
 		lieuxliste.append(info)
 	return lieuxliste
 
+
 def geocoder_conf(tab):
 	newtab=[]
 	for i in tab:
@@ -849,6 +851,7 @@ def geocoder_conf(tab):
 	else:
 		return "pb"
 	return res
+
 
 #-------------------------------------------------------
 #			Fonctions utilitaires diverses

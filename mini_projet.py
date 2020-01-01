@@ -99,7 +99,7 @@ def name():
 Description : Cette fonction fabrique une table html et la retourne si l'auteur a été trouvé dans la base dblp sinon elle renvoie une erreur.
 Return      : Table html a 3 lignes, nombre de journaux, nombre de conference et nombre de co-auteurs.
 Parameters  : name -> le nom de l'auteur que l'on recupère grâce à la fonction de redirection au dessus.
-Errors      : 2 erreurs possibles sous forme de page html :Récupération des données impossible, Plusieurs auteurs au nom identique.
+Errors      : 2 erreurs possibles sous forme de page html : Récupération des données impossible, Plusieurs auteurs au nom identique.
 """
 @bottle.route("/auteur/<name>")
 @bottle.view("page.tpl")
@@ -136,10 +136,10 @@ def auteur(name):
 
 
 """
-Description : Cette fonction 
-Return      : 
-Parameters  : 
-Errors      : 
+Description : Cette fonction retourne une page html contenant un tableau présentants les publications selon leur rang Core (un rang par colonne).
+Return      : Une page html avec une table des publications dans chaque case on trouve le nom et l'année de la publication.
+Parameters  : name -> string, nom de l'auteur.
+Errors      : 2 erreurs possibles sous forme de page html : Récupération des données impossible, Plusieurs auteurs au nom identique.
 """
 @bottle.route("/auteur/Journals/synthese/<name>")
 @bottle.view("page.tpl")
@@ -152,9 +152,9 @@ def synthese(name):
     if(status=="ok"):
         tab=utils_xml.liste_resume_publication("Auteurs/"+file_name)
     elif(status=="erreur homonymes"):
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+        return {"title":"Erreur : il existe plusieurs auteurs ayants le même nom", "body":"<div>Aide : Veuillez préciser l'auteur en ajoutant '+0001' apres le nom de l'auteur, par exemple : 'Sens+0001 Pierre'.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     else:
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
+        return {"title":"Erreur : impossible de récupérer les informations de cette personne", "body":"<div>Aide : Vérifiez l'orthographe des nom et prénom de l'auteur et réessayez.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     liste_art={}
     liste_nb_rang={}
     liste_annee_art={}
@@ -238,10 +238,10 @@ def synthese(name):
 
 
 """
-Description : Cette fonction 
-Return      : 
-Parameters  : 
-Errors      : 
+Description : Cette fonction retourne une page html détaillant toutes les publications d'un auteur.
+Return      : Page html contenant une table html avec une ligne par publication et quatre colonnes : nom de l'article, auteurs, nom du journal et année de publication.
+Parameters  : name -> string, nom de l'auteur.
+Errors      : 2 erreurs possibles sous forme de page html : Récupération des données impossible, Plusieurs auteurs au nom identique.
 """
 @bottle.route("/auteur/Journals/<name>")
 @bottle.view("page.tpl")
@@ -259,9 +259,9 @@ def journal(name):
     if(status=="ok"):
         tab=utils_xml.liste_detail_publication("Auteurs/"+file_name)
     elif(status=="erreur homonymes"):
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+        return {"title":"Erreur : il existe plusieurs auteurs ayants le même nom", "body":"<div>Aide : Veuillez préciser l'auteur en ajoutant '+0001' apres le nom de l'auteur, par exemple : 'Sens+0001 Pierre'.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     else:
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
+        return {"title":"Erreur : impossible de récupérer les informations de cette personne", "body":"<div>Aide : Vérifiez l'orthographe des nom et prénom de l'auteur et réessayez.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     stri="""<div align='center'><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
     <div align='center'><a href='http://localhost:8080/auteur/Conferences/"""+name+"""'> Conférences </a></div>
     <caption>Liste détaillée des publications ("""+str(len(tab))+""")</caption>
@@ -282,10 +282,10 @@ def journal(name):
 
 
 """
-Description : Cette fonction 
-Return      : 
-Parameters  : 
-Errors      : 
+Description : Cette fonction retourne une page html contenant un tableau présentants les conférences selon leur rang Core (un rang par colonne). 
+Return      : Une page html avec une table des conférences dans chaque case on trouve le nom et l'année de la conférence.
+Parameters  : name -> string, nom de l'auteur.
+Errors      : 2 erreurs possibles sous forme de page html : Récupération des données impossible, Plusieurs auteurs au nom identique.
 """
 @bottle.route("/auteur/Conferences/synthese/<name>")
 @bottle.view("page.tpl")
@@ -294,18 +294,14 @@ def conferences(name):
     #inversion nom et prenom pour lancer la recherche
     name_h = name_split[0].replace('+', "_")
     author_name = name_split[1]+" "+name_h
-    """
-    name_split = name.split("_")
-    author_name = name_split[1]+" "+name_split[0]
-    """
     file_name = author_name+".xml"
     status = telecharge(author_name)
     if(status=="ok"):
         tab=utils_xml.liste_resume_conference("Auteurs/"+file_name)
     elif(status=="erreur homonymes"):
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+        return {"title":"Erreur : il existe plusieurs auteurs ayants le même nom", "body":"<div>Aide : Veuillez préciser l'auteur en ajoutant '+0001' apres le nom de l'auteur, par exemple : 'Sens+0001 Pierre'.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     else:
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
+        return {"title":"Erreur : impossible de récupérer les informations de cette personne", "body":"<div>Aide : Vérifiez l'orthographe des nom et prénom de l'auteur et réessayez.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
 
     liste_conf={}
     liste_nb_rang={}
@@ -330,8 +326,6 @@ def conferences(name):
             liste_annee_conf[pub[0]]=[]
             liste_annee_conf[pub[0]].append(pub[1])
 
-        
-        
     total = 0
     for k in keys:
         try :
@@ -391,10 +385,10 @@ def conferences(name):
 
 
 """
-Description : Cette fonction 
-Return      : 
-Parameters  : 
-Errors      : 
+Description : Cette fonction retourne une page html détaillant toutes les conférences d'un auteur. 
+Return      : Page html contenant une table html avec une ligne par conférence et quatre colonnes : titre de la conférence, auteurs, nom de la conférence et année de la conférence.
+Parameters  : name -> string, nom de l'auteur.
+Errors      : 2 erreurs possibles sous forme de page html : Récupération des données impossible, Plusieurs auteurs au nom identique.
 """
 @bottle.route("/auteur/Conferences/<name>")
 @bottle.view("page.tpl")
@@ -403,18 +397,14 @@ def confdetail(name):
     #inversion nom et prenom pour lancer la recherche
     name_h = name_split[0].replace('+', "_")
     author_name = name_split[1]+" "+name_h
-    """
-    name_split = name.split("_")
-    author_name = name_split[1]+" "+name_split[0]
-    """
     file_name = author_name+".xml"
     status = telecharge(author_name)
     if(status=="ok"):
         tab=utils_xml.liste_detail_conference("Auteurs/"+file_name)
     elif(status=="erreur homonymes"):
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+        return {"title":"Erreur : il existe plusieurs auteurs ayants le même nom", "body":"<div>Aide : Veuillez préciser l'auteur en ajoutant '+0001' apres le nom de l'auteur, par exemple : 'Sens+0001 Pierre'.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     else:
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
+        return {"title":"Erreur : impossible de récupérer les informations de cette personne", "body":"<div>Aide : Vérifiez l'orthographe des nom et prénom de l'auteur et réessayez.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     
     stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
     <div align='center'><a href='http://localhost:8080/auteur/Journals/"""+name+"""'> Articles </a></div>
@@ -437,28 +427,26 @@ def confdetail(name):
 
 
 """
-Description : Cette fonction 
-Return      : 
-Parameters  : 
-Errors      : 
+Description : Cette fonction retourne une page html avec une carte des différents lieux de conférences d'un auteur.
+Return      : une page html avec une carte Folium contenant des Markers GPS.
+Parameters  : name -> string, nom de l'auteur
+Errors      : 2 erreurs possibles sous forme de page html : Récupération des données impossible, Plusieurs auteurs au nom identique.
 """
 @bottle.route("/auteur/Conferences/Voyages/<name>")
 @bottle.view("page.tpl")
 def conference_voyage(name):
     name_split = name.split("_")
-    #inversion nom et prenom pour lancer la recherche
     name_h = name_split[0].replace('+', "_")
     author_name = name_split[1]+" "+name_h
-    
     file_name = author_name+".xml"
     status = telecharge(author_name)
     if(status=="ok"):
         tab=utils_xml.conf_voyages("Auteurs/"+file_name)
         gps = utils_xml.address_to_gps(tab)
     elif(status=="erreur homonymes"):
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+        return {"title":"Erreur : il existe plusieurs auteurs ayants le même nom", "body":"<div>Aide : Veuillez préciser l'auteur en ajoutant '+0001' apres le nom de l'auteur, par exemple : 'Sens+0001 Pierre'.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     else:
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
+        return {"title":"Erreur : impossible de récupérer les informations de cette personne", "body":"<div>Aide : Vérifiez l'orthographe des nom et prénom de l'auteur et réessayez.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     sumX = 0
     sumY = 0
     for elem in gps:
@@ -477,7 +465,6 @@ def conference_voyage(name):
         conf_name = elem[2]
         ville = elem[0][0]
         annee = elem[3]
-        #print(conf_name, ville, annee)
         folium.Marker(elem[1],
             popup=conf_name+' '+ville+' '+annee).add_to(map)
     body = map.get_root().render()
@@ -487,10 +474,10 @@ def conference_voyage(name):
 
 
 """
-Description : Cette fonction 
-Return      : 
-Parameters  : 
-Errors      : 
+Description : Cette fonction retourne une page html presentant une table de tous les co-auteurs de l'auteur.
+Return      : Page html contenant une table html.
+Parameters  : name -> string, nom de l'auteur
+Errors      : 2 erreurs possibles sous forme de page html : Récupération des données impossible, Plusieurs auteurs au nom identique.
 """
 @bottle.route("/auteur/coauthors/<name>")
 @bottle.view("page.tpl")
@@ -522,10 +509,10 @@ def coauthors(name):
 
 
 """
-Description : Cette fonction 
-Return      : 
-Parameters  : 
-Errors      : 
+Description : Cette fonction fabrique un formulaire de saisie de l'acronyme d'une conférence et le retourne dans une page html.
+Return      : Page html contenant le formulaire.
+Parameters  : Aucun.
+Errors      : Aucune.
 """
 @bottle.route("/Conference/Laquelle")
 @bottle.view("page.tpl")
@@ -558,10 +545,10 @@ def recup_conf():
 
 
 """
-Description : Cette fonction 
-Return      : 
-Parameters  : 
-Errors      : 
+Description : Cette fonction Retourne une carte de tous les lieux d'une conférence.
+Return      : une page html contenant une carte Folium avec des markers GPS.
+Parameters  : conf -> string, acronyme de la conférence.
+Errors      : Aucune.
 """
 @bottle.route("/Conference/Lieux/<conf>")
 @bottle.view("page.tpl")
@@ -590,10 +577,10 @@ def conference_lieux(conf):
 
 
 """
-Description : Cette fonction 
-Return      : 
-Parameters  : 
-Errors      : 
+Description : Cette fonction génère un graphe des relations de publication entre tous les membres du lip6.
+Return      : Un graphe au format PNG.
+Parameters  : Aucun.
+Errors      : Aucune.
 """
 @bottle.route("/LIP6")
 def lip6():
@@ -604,10 +591,10 @@ def lip6():
 
 
 """
-Description : Cette fonction 
-Return      : 
-Parameters  : 
-Errors      : 
+Description : Cette fonction fabrique un formulaire de saisie demandant de rentrer les noms et prénoms de 2 membres du lip6 (pour tracer un graphe des relations).
+Return      : Une page html contenant le formulaire.
+Parameters  : Aucun.
+Errors      : Aucune.
 """
 @bottle.route("/LIP6/auteurs")
 @bottle.view("page.tpl")
@@ -625,10 +612,10 @@ def lip6_v2():
 
 
 """
-Description : Cette fonction 
-Return      : 
-Parameters  : 
-Errors      : 
+Description : Cette fonction appelle la fonction qui génère le graphe du lip6 en montrant uniquement les relations des deux auteurs avec le reste du LIP6.
+Return      : Un graphe au format PNG.
+Parameters  : Aucun. (récupère les noms des 2 membres depuis le formulaire de saisie, string)
+Errors      : Aucune.
 """
 @bottle.route("/LIP6/Graphe", method='POST')
 @bottle.view("page.tpl")

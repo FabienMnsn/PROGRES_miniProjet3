@@ -21,8 +21,10 @@ Question 11 : /LIP6 : status : OK : Question terminée et fonctionnelle mais pas
 ______________________________________________________________________________
 TODO:
 
--> Gestion des erreurs : faire un redirect en cas d'erreur? (est-ce possible?) -> afficher un truc mieux que "Oups on n'a pas pu recup les données..." qui donne plus d'info sur le type d'erreur
--> Documenter les routes bottle + parametres des fonctions comme dans le fichier utils_xml.py
+
+Vérifier si la documentation des fonctions bottle est correcte.
+tester les differentes routes et la gestion d'erreur (genre essayer de rentrer des noms impossibles dans les formulaires etc..)
+
 -> fichier README.txt expliquant comment utiliser notre API
 -> Vidéo de présentation de notre API
 
@@ -31,4 +33,4 @@ TODO:
 ______________________________________________________________________________
 TO FIX (BUG / PB):
 
-Question 10 : /Conference/Lieux/<Conf> : status : TOFIX : pb de 'index out of range' pour la conf "PIMRC"
+Question 10 : /Conference/Lieux/<Conf> : status : TOFIX : pb de 'index out of range' pour la conf "PIMRC" je sais pas d'ou ça vient xD 

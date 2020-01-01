@@ -13,6 +13,8 @@ import folium
 
 
 
+
+
 """
 Description : Cette fonction est uniquement une décoration de la fonction download_file() du fichier utils_xml.py, elle gère en plus les differentes cas d'erreur.
 Return      : Retourne une string decrivant le status de sortie de la fonction ayant les valeurs : 'ok', 'erreur' et 'erreur homonymes'.
@@ -58,6 +60,25 @@ def telecharge(author_name):
 
 #--------------------------FONCTION BOTTLE--------------------------
 
+
+"""
+Description : Cette fonction est la route principale de l'API.
+Return      : une page html avec plusieurs liens vers les différentes routes bottle
+Parameters  : Aucun.
+Errors      : Aucune.
+"""
+@bottle.route('/')
+@bottle.view("page.tpl")
+def hello():
+    body = """<div><a href='http://localhost:8080/auteur/qui'>[Rechercher Auteur]</a></div>
+    <div><a href='http://localhost:8080/Conference/Laquelle'>[Rechercher Conference]</a></div>
+    <div><a href='http://localhost:8080/LIP6'>[Graphe publication Lip6]</a></div>
+    <div><a href='http://localhost:8080/LIP6/auteurs'>[Graphe publication 2 auteurs]</a></div>"""
+    return { "title":"Menu API", "body": body}
+
+
+
+
 """
 Description : Cette fonction fabrique un formulaire de saisie html minimaliste demandant de saisir le nom et le prénom d'un auteur.
 Return      : Un formulaire dans une page html.
@@ -67,7 +88,8 @@ Errors      : Aucune erreur car la vérification est faite plus loins.
 @bottle.route("/auteur/qui")
 @bottle.view("page.tpl")
 def auteur():
-    stri = """
+    stri = """<div><a href='http://localhost:8080/'>[Menu Principal]</a></div>
+    <div><a href='http://localhost:8080/Conference/Laquelle'>[Rechercher Conference]</a></div>
     <form method='post' action='name'>
     <input type='text' name='last_name' placeholder='Nom'/>
     <input type='text' name='first_name' placeholder='Prénom'/>
@@ -129,7 +151,15 @@ def auteur(name):
     <tr>
     <td style='border:1px solid black;padding:10px'>Nombre de co-auteurs</td>"""+ "<td style='border:1px solid black;padding:10px'>"+str(dico["co-auteurs"])+"""</td>
     </tr>
-    </table></div>"""
+    </table></div>
+    <div align='center'><a href='http://localhost:8080/'>[Menu principal]</a></div>
+    <div align='center'><a href='http://localhost:8080/auteur/Journals/synthese/"""+name+"""'>[Journals synthese]</a></div>
+    <div align='center'><a href='http://localhost:8080/auteur/Journals/"""+name+"""'>[Journals detail]</a></div>
+    <div align='center'><a href='http://localhost:8080/auteur/Conferences/synthese/"""+name+"""'>[Conference synthese]</a></div>
+    <div align='center'><a href='http://localhost:8080/auteur/Conferences/"""+name+"""'>[Conference detail]</a></div>
+    <div align='center'><a href='http://localhost:8080/auteur/Conferences/Voyages/"""+name+"""'>[Conference Voyage]</a></div>
+    <div align='center'><a href='http://localhost:8080/auteur/coauthors/"""+name+"""'>[Coauthors]</a></div>
+    """
     return {"title":"Vous consultez la page de : "+author_name, "body":""+stri}
 
 
@@ -187,11 +217,12 @@ def synthese(name):
         except:
             pass
 
+    stri = """<div align='center'><a href='http://localhost:8080/'>[Menu Principal]</a></div><div align='center'><a href='http://localhost:8080/auteur/"""+name+"""'>[Menu Auteur]</a></div>"""
     if(total > 1):
-    	stri="<div><h3 align='center'>   "+str(total)+" Articles publiés</h3></div>"
+    	stri+="<div><h3 align='center'>   "+str(total)+" Articles publiés</h3></div>"
     else:
-    	stri="<div><h3 align='center'>   "+str(total)+" Article publié</h3></div>"
-    stri+="<div align='center'><a href='http://localhost:8080/auteur/Conferences/synthese/"+name+"'> Conférences </a></div>"
+    	stri+="<div><h3 align='center'>   "+str(total)+" Article publié</h3></div>"
+    stri+="<div align='center'><a href='http://localhost:8080/auteur/Conferences/synthese/"+name+"'>[Conférences]</a></div>"
 
     stri+="""<div align='center'><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
         <caption>Liste détaillée des articles</caption><tr>"""
@@ -247,13 +278,8 @@ Errors      : 2 erreurs possibles sous forme de page html : Récupération des d
 @bottle.view("page.tpl")
 def journal(name):
     name_split = name.split("_")
-    #inversion nom et prenom pour lancer la recherche
     name_h = name_split[0].replace('+', "_")
     author_name = name_split[1]+" "+name_h
-    """
-    name_split = name.split("_")
-    author_name = name_split[1]+" "+name_split[0]
-    """
     file_name = author_name+".xml"
     status = telecharge(author_name)
     if(status=="ok"):
@@ -262,8 +288,10 @@ def journal(name):
         return {"title":"Erreur : il existe plusieurs auteurs ayants le même nom", "body":"<div>Aide : Veuillez préciser l'auteur en ajoutant '+0001' apres le nom de l'auteur, par exemple : 'Sens+0001 Pierre'.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     else:
         return {"title":"Erreur : impossible de récupérer les informations de cette personne", "body":"<div>Aide : Vérifiez l'orthographe des nom et prénom de l'auteur et réessayez.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
-    stri="""<div align='center'><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
-    <div align='center'><a href='http://localhost:8080/auteur/Conferences/"""+name+"""'> Conférences </a></div>
+    stri="""<div align='center'><a href='http://localhost:8080/'>[Menu Principal]</a></div>
+    <div align='center'><a href='http://localhost:8080/auteur/"""+name+"""'>[Menu Auteur]</a></div>
+    <div align='center'><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+    <div align='center'><a href='http://localhost:8080/auteur/Conferences/"""+name+"""'>[Conférences]</a></div>
     <caption>Liste détaillée des publications ("""+str(len(tab))+""")</caption>
     <tr>
     <th style='border:1px solid black'>Article</th>
@@ -332,12 +360,12 @@ def conferences(name):
             total+=liste_nb_rang[k]
         except:
             pass
-
+    stri = """<div align='center'><a href='http://localhost:8080/'>[Menu Principal]</a></div><div align='center'><a href='http://localhost:8080/auteur/"""+name+"""'>[Menu Auteur]</a></div>"""
     if(total > 1):
-    	stri="<div><h3 align='center'>   "+str(total)+" Conférences </h3></div>"
+    	stri+="<div><h3 align='center'>   "+str(total)+" Conférences </h3></div>"
     else:
-        stri="<div><h3 align='center'>   "+str(total)+" Conférence </h3></div>"
-    stri+="<div align='center'><a href='http://localhost:8080/auteur/Journals/synthese/"+name+"'> Articles </a></div>"
+        stri+="<div><h3 align='center'>   "+str(total)+" Conférence </h3></div>"
+    stri+="<div align='center'><a href='http://localhost:8080/auteur/Journals/synthese/"+name+"'>[Articles]</a></div>"
 
     stri+="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
         <caption>Liste resumée des conférences classées selon Core</caption><tr>"""
@@ -406,8 +434,10 @@ def confdetail(name):
     else:
         return {"title":"Erreur : impossible de récupérer les informations de cette personne", "body":"<div>Aide : Vérifiez l'orthographe des nom et prénom de l'auteur et réessayez.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     
-    stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
-    <div align='center'><a href='http://localhost:8080/auteur/Journals/"""+name+"""'> Articles </a></div>
+    stri="""<div align='center'><a href='http://localhost:8080/'>[Menu Principal]</a></div>
+    <div align='center'><a href='http://localhost:8080/auteur/"""+name+"""'>[Menu Auteur]</a></div>
+    <div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+    <div align='center'><a href='http://localhost:8080/auteur/Journals/"""+name+"""'>[Articles]</a></div>
     <caption>Liste détaillée des conférences ("""+str(len(tab))+""")</caption>
     <tr>
     <th style='border:1px solid black'>Titre</th>
@@ -428,8 +458,8 @@ def confdetail(name):
 
 """
 Description : Cette fonction retourne une page html avec une carte des différents lieux de conférences d'un auteur.
-Return      : une page html avec une carte Folium contenant des Markers GPS.
-Parameters  : name -> string, nom de l'auteur
+Return      : Une page html avec une carte Folium contenant des Markers GPS.
+Parameters  : name -> string, nom de l'auteur.
 Errors      : 2 erreurs possibles sous forme de page html : Récupération des données impossible, Plusieurs auteurs au nom identique.
 """
 @bottle.route("/auteur/Conferences/Voyages/<name>")
@@ -467,16 +497,17 @@ def conference_voyage(name):
         annee = elem[3]
         folium.Marker(elem[1],
             popup=conf_name+' '+ville+' '+annee).add_to(map)
-    body = map.get_root().render()
-    return { "title":"Carte des lieux de conférence de : "+author_name, "body":body}
+    body = "<div><a href='http://localhost:8080/'>[Menu Principal]</a></div><div><a href='http://localhost:8080/auteur/"+name+"'>[Menu Auteur]</a></div>"
+    body += map.get_root().render()
+    return { "title":"Carte des lieux de conférence de : "+author_name, "body": body}
 
 
 
 
 """
-Description : Cette fonction retourne une page html presentant une table de tous les co-auteurs de l'auteur.
-Return      : Page html contenant une table html.
-Parameters  : name -> string, nom de l'auteur
+Description : Cette fonction retourne une page html présentant une table de tous les co-auteurs de l'auteur.
+Return      : Page html contenant une table html avec une ligne par auteur.
+Parameters  : name -> string, nom de l'auteur.
 Errors      : 2 erreurs possibles sous forme de page html : Récupération des données impossible, Plusieurs auteurs au nom identique.
 """
 @bottle.route("/auteur/coauthors/<name>")
@@ -489,11 +520,13 @@ def coauthors(name):
     if(status=="ok"):
         tab=utils_xml.get_coauteurs("Auteurs/"+file_name)
     elif(status=="erreur homonymes"):
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":"Il existe plusieurs personnes ayant le meme nom. Veuillez préciser en ajoutant '+0001' apres le nom de l'auteur."}
+        return {"title":"Erreur : il existe plusieurs auteurs ayants le même nom", "body":"<div>Aide : Veuillez préciser l'auteur en ajoutant '+0001' apres le nom de l'auteur, par exemple : 'Sens+0001 Pierre'.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     else:
-        return {"title":"Oups nous n'avons pas pu récupérer les informations de cette personne", "body":""}
+        return {"title":"Erreur : impossible de récupérer les informations de cette personne", "body":"<div>Aide : Vérifiez l'orthographe des nom et prénom de l'auteur et réessayez.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
 
-    stri="""<div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
+    stri="""<div align='center'><a href='http://localhost:8080/'>[Menu Principal]</a></div>
+    <div align='center'><a href='http://localhost:8080/auteur/"""+name+"""'>[Menu Auteur]</a></div>
+    <div><table style='border:1px solid black;margin-left:auto;margin-right:auto; border-collapse:collapse'>
     <caption>Liste des co-auteurs ("""+str(len(tab))+""")</caption>
     <tr>
     <th style='border:1px solid black'>Prénom Nom</th>
@@ -517,7 +550,8 @@ Errors      : Aucune.
 @bottle.route("/Conference/Laquelle")
 @bottle.view("page.tpl")
 def laquelle():
-    stri = """
+    stri = """<div><a href='http://localhost:8080/'>[Menu Principal]</a></div>
+    <div><a href='http://localhost:8080/auteur/qui'>[Rechercher Auteur]</a></div>
     <form align='center' method='post' action='recup_conf'>
     <input type='text' name='conference' placeholder='Conference'/>
     <input type='submit' value='Chercher'/>
@@ -529,10 +563,10 @@ def laquelle():
 
 
 """
-Description : Cette fonction 
-Return      : 
-Parameters  : 
-Errors      : 
+Description : Cette fonction fait simplement une redirection vers une autre route bottle.
+Return      : Rien.
+Parameters  : Aucun.
+Errors      : Aucune.
 """
 @bottle.route("/Conference/recup_conf", method='POST')
 @bottle.view("page.tpl")
@@ -569,7 +603,8 @@ def conference_lieux(conf):
             folium.Marker(gps[0][1],popup=str(i[-3])+" conference,\n"+ville+', '+annee).add_to(map)
         else:
             folium.Marker(gps[0][1],popup=ville+' '+annee).add_to(map)
-    body=map.get_root().render()
+    body = "<div><a href='http://localhost:8080/'>[Menu Principal]</a></div><div><a href='http://localhost:8080/Conference/Laquelle'>[Rechercher Conference]</a></div>"
+    body += map.get_root().render()
 
     return {"title":"Carte de la conference "+conf,"body":body}
 
@@ -583,9 +618,15 @@ Parameters  : Aucun.
 Errors      : Aucune.
 """
 @bottle.route("/LIP6")
+@bottle.view("page.tpl")
 def lip6():
-    graphe.draw_graph_all()
-    return static_file("grapheAll.png", root="")
+    status = graphe.draw_graph_all()
+    if(status == 0):
+        return static_file("grapheAll.png", root="")
+    elif(status == -1):
+        return {"title":"Erreur : Fichier XML du lip6 incorrect", "body":"<div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
+    elif(status == -2):
+        return {"title":"Erreur : Ouverture fichier XML lip6 impossible", "body":"<div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
 
 
 
@@ -599,7 +640,7 @@ Errors      : Aucune.
 @bottle.route("/LIP6/auteurs")
 @bottle.view("page.tpl")
 def lip6_v2():
-    stri = """
+    stri = """<div><a href='http://localhost:8080/'>[Menu Principal]</a></div>
     <form align='center' method='post' action='Graphe'>
     <input type='text' name='auteur1' placeholder='Prénom Nom'/>
     <input type='text' name='auteur2' placeholder='Prénom Nom'/>
@@ -614,7 +655,7 @@ def lip6_v2():
 """
 Description : Cette fonction appelle la fonction qui génère le graphe du lip6 en montrant uniquement les relations des deux auteurs avec le reste du LIP6.
 Return      : Un graphe au format PNG.
-Parameters  : Aucun. (récupère les noms des 2 membres depuis le formulaire de saisie, string)
+Parameters  : Aucun, (récupère les noms des 2 membres depuis le formulaire de saisie, string).
 Errors      : Aucune.
 """
 @bottle.route("/LIP6/Graphe", method='POST')
@@ -622,10 +663,15 @@ Errors      : Aucune.
 def Graphe():
     auteur1 = bottle.request.forms.auteur1
     auteur2 = bottle.request.forms.auteur2
-    graphe.draw_graph_2membres(auteur1, auteur2)
-    return static_file("graphe2.png", root="")
-
-
+    status = graphe.draw_graph_2membres(auteur1, auteur2)
+    if(status == 0):
+        return static_file("graphe2.png", root="")
+    elif(status == -1):
+        return {"title":"Erreur : Fichier XML du lip6 incorrect", "body":"<div><a href='http://localhost:8080/'>[Menu Principal]</a></div><div><a href='http://localhost:8080/LIP6/auteurs'>[Retour à la saisie]</a></div>"}
+    elif(status == -2):
+        return {"title":"Erreur : Ouverture fichier XML lip6 impossible", "body":"<div><a href='http://localhost:8080/'>[Menu Principal]</a></div><div><a href='http://localhost:8080/LIP6/auteurs'>[Retour à la saisie]</a></div>"}
+    elif(status == -3):
+        return {"title":"Erreur : Orthographe des noms incorrect ou auteurs absents des membres permanents du lip6", "body":"<div><a href='http://localhost:8080/'>[Menu Principal]</a></div><div><a href='http://localhost:8080/LIP6/auteurs'>[Retour à la saisie]</a></div>"}
 
 #--------------------------FIN FONCTION BOTTLE--------------------------
 

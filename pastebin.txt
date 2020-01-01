@@ -1,0 +1,17 @@
+<div><a href='http://localhost:8080/Conference/Laquelle'>[Rechercher Conference]</a></div>
+
+<div><a href='http://localhost:8080/auteur/qui'>[Rechercher Auteur]</a></div>
+
+<div><a href='http://localhost:8080/'>[Menu Principal]</a></div>
+<div><a href='http://localhost:8080/auteur/"""+name+"""'>[Menu Auteur]</a></div>
+
+<div><a href='http://localhost:8080/'>[Menu Principal]</a></div>
+<div><a href='http://localhost:8080/Conference/Laquelle'>[Rechercher Conference]</a></div>
+
+
+<div><a href='http://localhost:8080/'>[Menu Principal]</a></div>
+<div><a href='http://localhost:8080/LIP6/auteurs'>[Retour à la saisie]</a></div>
+
+
+
+align='center'

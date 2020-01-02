@@ -4,7 +4,7 @@ import os
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
-from random import randint
+from random import randint, uniform
 from time import sleep
 
 #############################################################################################################
@@ -947,6 +947,7 @@ def GEOCODER_conf(tab):
 	if(len(tab) == 0):
 		return -1
 	else:
+		location_list = []
 		geolocator = Nominatim(user_agent="api")
 		location = None
 		res = []
@@ -955,35 +956,50 @@ def GEOCODER_conf(tab):
 			if(len(elem) == 3):
 				#pas de numero de conf
 				while(location == None and i < 10):
-					print("trying to find : "+elem[0]+''+elem[1])
+					#print("trying to find : "+elem[0]+''+elem[1])
 					location = geolocator.geocode(elem[0]+''+elem[1])
 					i+=1
 					sleep(randint(0,2))
 				i = 0
 				if(location != None):
-					print("FOUND :)", [location.latitude, location.longitude])
-					#on a trouve les coord gps
-					res.append([elem[0], [location.latitude, location.longitude], elem[2]])
+					coord = [location.latitude, location.longitude]
+					if(coord in location_list):
+						print("DEJA DANS LA LISTE GPS", elem)
+						res.append([elem[0], [location.latitude, location.longitude+uniform(0.002,0.005)], elem[2]])
+					else:
+						location_list.append([location.latitude, location.longitude])
+						#print("FOUND :)", [location.latitude, location.longitude])
+						#on a trouve les coord gps
+						res.append([elem[0], [location.latitude, location.longitude], elem[2]])
 					location = None
 				else:
-					print("NOT FOUND :(")
+					#print("NOT FOUND :(")
 					continue
 			else:
 				#il y a un numero de conf
 				while(location == None and i < 10):
-					print("trying to find : "+elem[0]+''+elem[1])
+					#print("trying to find : "+elem[0]+''+elem[1])
 					location = geolocator.geocode(elem[0]+''+elem[1])
 					i+=1
 					sleep(randint(0,2))
 				i = 0
 				if(location != None):
-					print("FOUND :)", [location.latitude, location.longitude])
-					#on a trouve les coord gps
-					res.append([elem[0], [location.latitude, location.longitude], elem[2], elem[3]])
+					coord = [location.latitude, location.longitude]
+					if(coord in location_list):
+						print("DEJA DANS LA LISTE GPS", elem)
+						res.append([elem[0], [location.latitude, location.longitude+uniform(0.02,0.05)], elem[2], elem[3]])
+					else:
+						location_list.append([location.latitude, location.longitude])
+						#print("FOUND :)", [location.latitude, location.longitude])
+						#on a trouve les coord gps
+						res.append([elem[0], [location.latitude, location.longitude], elem[2], elem[3]])
 					location = None
 				else:
-					print("NOT FOUND :(")
+					#print("NOT FOUND :(")
 					continue
+		#print(location_list)
+		for k in res:
+			print(k)
 		return res
 
 
@@ -1095,7 +1111,7 @@ if __name__ == '__main__':
 	"""
 	#print(clean_adrs(['Anacarpi', 'CapriIsland', 'Italy']))
 	#adrs = clean_adrs(['LasPalmasdeGranCanaria', 'Spain'])
-	geocoding("Fukuoka Japan")
+	geocoding("Tokyo Japan")
 	
 	"""
 	conf_name = ["dis", "pimrc", "sss", "ecai", "ant", "idc", "jfsma", "safeprocess"]

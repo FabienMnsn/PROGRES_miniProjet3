@@ -901,6 +901,8 @@ def CONFERENCE_voyage_map(conf_name):
 					num_name_year = line_split[0].split(' ')
 					ville = line_split[1]
 					addrs = line_split[2]
+					if(addrs == "Japan "):
+						addrs = "Japon "
 					#ville_pays = ''.join(line_split[1:])
 					if(len(num_name_year) == 2):
 						#pas de numero de conf
@@ -925,6 +927,8 @@ def CONFERENCE_voyage_map(conf_name):
 					ville_pays = line_split[1].split(',')
 					ville = ville_pays[0]
 					addrs = ''.join(ville_pays[1:])
+					if(addrs == " Japan"):
+						addrs = " Japon"
 					#ville_pays = line_split[1].replace(', ', ' ')
 					if(len(num_name_year) == 2):
 						#pas de numero de conf
@@ -935,6 +939,7 @@ def CONFERENCE_voyage_map(conf_name):
 						print("PB", num_name_year)
 						return -2
 		return lieuxliste
+
 
 
 def GEOCODER_conf(tab):
@@ -956,7 +961,6 @@ def GEOCODER_conf(tab):
 			if(len(elem) == 3):
 				#pas de numero de conf
 				while(location == None and i < 10):
-					#print("trying to find : "+elem[0]+''+elem[1])
 					location = geolocator.geocode(elem[0]+''+elem[1])
 					i+=1
 					sleep(randint(0,2))
@@ -964,21 +968,17 @@ def GEOCODER_conf(tab):
 				if(location != None):
 					coord = [location.latitude, location.longitude]
 					if(coord in location_list):
-						print("DEJA DANS LA LISTE GPS", elem)
 						res.append([elem[0], [location.latitude, location.longitude+uniform(0.002,0.005)], elem[2]])
 					else:
 						location_list.append([location.latitude, location.longitude])
-						#print("FOUND :)", [location.latitude, location.longitude])
 						#on a trouve les coord gps
 						res.append([elem[0], [location.latitude, location.longitude], elem[2]])
 					location = None
 				else:
-					#print("NOT FOUND :(")
 					continue
 			else:
 				#il y a un numero de conf
 				while(location == None and i < 10):
-					#print("trying to find : "+elem[0]+''+elem[1])
 					location = geolocator.geocode(elem[0]+''+elem[1])
 					i+=1
 					sleep(randint(0,2))
@@ -986,20 +986,14 @@ def GEOCODER_conf(tab):
 				if(location != None):
 					coord = [location.latitude, location.longitude]
 					if(coord in location_list):
-						print("DEJA DANS LA LISTE GPS", elem)
 						res.append([elem[0], [location.latitude, location.longitude+uniform(0.02,0.05)], elem[2], elem[3]])
 					else:
 						location_list.append([location.latitude, location.longitude])
-						#print("FOUND :)", [location.latitude, location.longitude])
 						#on a trouve les coord gps
 						res.append([elem[0], [location.latitude, location.longitude], elem[2], elem[3]])
 					location = None
 				else:
-					#print("NOT FOUND :(")
 					continue
-		#print(location_list)
-		for k in res:
-			print(k)
 		return res
 
 
@@ -1111,20 +1105,21 @@ if __name__ == '__main__':
 	"""
 	#print(clean_adrs(['Anacarpi', 'CapriIsland', 'Italy']))
 	#adrs = clean_adrs(['LasPalmasdeGranCanaria', 'Spain'])
-	geocoding("Tokyo Japan")
+	#geocoding("Tokyo Japan")
 	
-	"""
+	
 	conf_name = ["dis", "pimrc", "sss", "ecai", "ant", "idc", "jfsma", "safeprocess"]
 	tab = CONFERENCE_voyage_map(conf_name[0])
+	"""
 	res = GEOCODER_conf(CONFERENCE_voyage_map(conf_name[0]))
 	#tab = conference_voyage_map(conf_name[1])
 	a = 1
 	for i in res:
 		print(a, i)
 		a+=1
-
+	"""
 	a = 1
 	for i in tab:
 		print(a, i)
 		a+=1
-	"""
+	

@@ -13,7 +13,7 @@ Question 5 : /auteur/Conferences/synthese/<name> : status : OK : Question termin
 Question 7 : /auteur/Conferences/Voyages/<name> : status : OK : Questionterminée et fonctionnelle.
 Question 8 : /auteur/coauteurs/<name> : status : OK : Question terminée et fonctionnelle.
 Question 9 : /Conference/Laquelle : status : OK : Question terminée et fonctionnelle.
-
+Question 10 : /Conference/Lieux/<Conf> : status : OK : Question terminée et fonctionnelle
 Question 11 : /LIP6 : status : OK : Question terminée et fonctionnelle mais pas faite avec SageMath...
 
 
@@ -23,14 +23,12 @@ TODO:
 
 
 Vérifier si la documentation des fonctions bottle est correcte.
-tester les differentes routes et la gestion d'erreur (genre essayer de rentrer des noms impossibles dans les formulaires etc..)
+tester les différentes routes et la gestion d'erreur (genre essayer de rentrer des noms impossibles dans les formulaires etc..)
 
 -> fichier README.txt expliquant comment utiliser notre API
 -> Vidéo de présentation de notre API
 
 
-
 ______________________________________________________________________________
 TO FIX (BUG / PB):
 
-Question 10 : /Conference/Lieux/<Conf> : status : TOFIX : pb de 'index out of range' pour la conf "PIMRC" je sais pas d'ou ça vient xD 

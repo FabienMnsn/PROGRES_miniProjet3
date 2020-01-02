@@ -126,6 +126,8 @@ Errors      : 2 erreurs possibles sous forme de page html : Récupération des d
 @bottle.route("/auteur/<name>")
 @bottle.view("page.tpl")
 def auteur(name):
+    if(name == "_"):
+        return {"title":"Erreur : saisie vide", "body":"<div>Aide : Vous devez saisir un nom et un prénom.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     name_split = name.split("_")
     #inversion nom et prenom pour lancer la recherche
     name_h = name_split[0].replace('+', "_")
@@ -573,7 +575,10 @@ Errors      : Aucune.
 def recup_conf():
 
     conf = bottle.request.forms.conference
-    redirect("/Conference/Lieux/"+conf)
+    if(conf == ""):
+        return {"title":"Erreur : saisie vide", "body":"<div>Aide : vous devez saisir un nom de conférence.</div><div><a href='http://localhost:8080/Conference/Laquelle'>[Rechercher Conference]</a></div>"}
+    else:
+        redirect("/Conference/Lieux/"+conf)
 
 
 
@@ -587,25 +592,42 @@ Errors      : Aucune.
 @bottle.route("/Conference/Lieux/<conf>")
 @bottle.view("page.tpl")
 def conference_lieux(conf):
-    tab=utils_xml.conference_voyage_map(conf)
+    conf_tab = utils_xml.CONFERENCE_voyage_map(conf)
+    conf_location = utils_xml.GEOCODER_conf(conf_tab)
 
-    map=folium.Map(location=utils_xml.geocoder_conf(tab[0])[0][1], zoom_start=2)
-
+    if(len(conf_tab) == 0):
+        return {"title":"Erreur : saisie", "body":"<div>Aide : Nom de conference invalide.</div><div><a href='http://localhost:8080/Conference/Laquelle'>[Rechercher Conference]</a></div>"}
     
-    for i in tab:
-        gps=utils_xml.geocoder_conf(i)
-        if gps=="pb":
-            continue
-        annee=gps[0][-1]
-        ville=gps[0][0][0]
-        if i[-2]=="oui":
-            folium.Marker(gps[0][1],popup=str(i[-3])+" conference,\n"+ville+', '+annee).add_to(map)
+    #calcul du centrage de la vue
+    sumX = 0
+    sumY = 0
+
+    for elem in conf_location:
+        sumX += elem[1][0]
+        sumY += elem[1][1]
+
+    defaultX = sumX / len(conf_location)
+    defaultY = sumY / len(conf_location)
+
+    map=folium.Map(location=[defaultX, defaultY], zoom_start=2)
+
+    for element in conf_location:
+        if(len(element) == 3):
+            #pas de numero de conf
+            ville = element[0]
+            annee = element[2]
+            folium.Marker(element[1], popup=ville+', '+annee).add_to(map)
         else:
-            folium.Marker(gps[0][1],popup=ville+' '+annee).add_to(map)
+            #il y a un numero de conf
+            num = element[3]
+            ville = element[0]
+            annee = element[2]
+            folium.Marker(element[1], popup=num+' conference, '+ville+', '+annee).add_to(map)
+    
     body = "<div><a href='http://localhost:8080/'>[Menu Principal]</a></div><div><a href='http://localhost:8080/Conference/Laquelle'>[Rechercher Conference]</a></div>"
     body += map.get_root().render()
 
-    return {"title":"Carte de la conference "+conf,"body":body}
+    return {"title":"Carte de la conference "+conf+", ("+str(len(conf_location))+"/"+str(len(conf_tab))+" lieux trouvés)","body":body}
 
 
 

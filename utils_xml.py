@@ -4,6 +4,8 @@ import os
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
+from random import randint
+from time import sleep
 
 #############################################################################################################
 #																											#
@@ -788,6 +790,7 @@ def geocoding(adrs):
     print(location.latitude, location.longitude)
 
 
+
 def conference_voyage_map(conf_name):
 	"""
 	Retourne une liste à 2D :[[Ville,Etat(si présent),Pays,Annee]......] 
@@ -803,6 +806,7 @@ def conference_voyage_map(conf_name):
 	r = requests.get(url)
 	soup = BeautifulSoup(r.content, "html.parser")
 	res=soup.find_all('h2')
+
 	
 	for elem in res:
 		numero="rien"
@@ -856,6 +860,131 @@ def geocoder_conf(tab):
 	else:
 		return "pb"
 	return res
+
+
+
+
+
+####	NOUVELLE VERSION	####
+def CONFERENCE_voyage_map(conf_name):
+	"""
+	Retourne une liste 2D ou chaque element est de la forme : [ ville, addrs, Annee, numero(opt)] 
+	avec : addrs = etat(opt)+pays 
+
+	@param
+	conf_name : nom de la conf a rechercher
+	"""
+	if(conf_name == ""):
+		return -1
+	else:
+		conf_name=conf_name.lower()
+		url= "https://dblp.uni-trier.de/db/conf/"+conf_name
+		lieuxliste=[]
+		r = requests.get(url)
+		soup = BeautifulSoup(r.content, "html.parser")
+		res=soup.find_all('h2')
+
+		# le contenu de la balise h2 est de la forme :
+		# numero nom_conf annee [autre truc chelou]: ville, pays
+		
+		for elem in res:
+			line_split = elem.text.split(':')
+			#print("ELEM ----> ",line_split)
+			#S'il n'y a pas de ':' dans le text on split selon les ','
+			if(len(line_split) < 2):
+				line_split = elem.text.split(',')
+				if(len(line_split) != 3):
+					print("ERROR dblp wrong text format", line_split)
+					continue
+				else:
+					#print("NEW SPLIT", line_split)
+					num_name_year = line_split[0].split(' ')
+					ville = line_split[1]
+					addrs = line_split[2]
+					#ville_pays = ''.join(line_split[1:])
+					if(len(num_name_year) == 2):
+						#pas de numero de conf
+						lieuxliste.append([ville, addrs, num_name_year[1]])
+					elif(len(num_name_year) > 2):
+						#il y a un numero
+						lieuxliste.append([ville, addrs, num_name_year[2], num_name_year[0]])
+					else:
+						#will never go in this case
+						print("PB", num_name_year)
+						return -2
+			#S'il y a un ':' au milieu du text
+			else:
+				if(len(line_split[0]) == 0):
+					print("LINE SPLIT (0) VIDE")
+					return -2
+				elif(len(line_split[1]) == 0):
+					print("LINE SPLIT (1) VIDE")
+					return -2
+				else:
+					num_name_year = line_split[0].split(' ')
+					ville_pays = line_split[1].split(',')
+					ville = ville_pays[0]
+					addrs = ''.join(ville_pays[1:])
+					#ville_pays = line_split[1].replace(', ', ' ')
+					if(len(num_name_year) == 2):
+						#pas de numero de conf
+						lieuxliste.append([ville, addrs, num_name_year[1]])
+					elif(len(num_name_year) > 2):
+						lieuxliste.append([ville, addrs, num_name_year[2], num_name_year[0]])
+					else:
+						print("PB", num_name_year)
+						return -2
+		return lieuxliste
+
+
+def GEOCODER_conf(tab):
+	"""
+	Retourne une liste contenant des elements de la forme : [Ville, [latitude, longitude], Année, Numero]
+
+	@param
+	tab: élément de la table retourné par la fonction conference_voyage_map 
+	"""
+	if(len(tab) == 0):
+		return -1
+	else:
+		geolocator = Nominatim(user_agent="api")
+		location = None
+		res = []
+		i = 0
+		for elem in tab:
+			if(len(elem) == 3):
+				#pas de numero de conf
+				while(location == None and i < 10):
+					print("trying to find : "+elem[0]+''+elem[1])
+					location = geolocator.geocode(elem[0]+''+elem[1])
+					i+=1
+					sleep(randint(0,2))
+				i = 0
+				if(location != None):
+					print("FOUND :)", [location.latitude, location.longitude])
+					#on a trouve les coord gps
+					res.append([elem[0], [location.latitude, location.longitude], elem[2]])
+					location = None
+				else:
+					print("NOT FOUND :(")
+					continue
+			else:
+				#il y a un numero de conf
+				while(location == None and i < 10):
+					print("trying to find : "+elem[0]+''+elem[1])
+					location = geolocator.geocode(elem[0]+''+elem[1])
+					i+=1
+					sleep(randint(0,2))
+				i = 0
+				if(location != None):
+					print("FOUND :)", [location.latitude, location.longitude])
+					#on a trouve les coord gps
+					res.append([elem[0], [location.latitude, location.longitude], elem[2], elem[3]])
+					location = None
+				else:
+					print("NOT FOUND :(")
+					continue
+		return res
 
 
 #-------------------------------------------------------
@@ -966,8 +1095,20 @@ if __name__ == '__main__':
 	"""
 	#print(clean_adrs(['Anacarpi', 'CapriIsland', 'Italy']))
 	#adrs = clean_adrs(['LasPalmasdeGranCanaria', 'Spain'])
-	#geocoding(adrs)
-	tab=conference_voyage_map("pimrc")
-	for i in tab:
+	geocoding("Fukuoka Japan")
+	
+	"""
+	conf_name = ["dis", "pimrc", "sss", "ecai", "ant", "idc", "jfsma", "safeprocess"]
+	tab = CONFERENCE_voyage_map(conf_name[0])
+	res = GEOCODER_conf(CONFERENCE_voyage_map(conf_name[0]))
+	#tab = conference_voyage_map(conf_name[1])
+	a = 1
+	for i in res:
+		print(a, i)
+		a+=1
 
-		print(geocoder_conf(i))
+	a = 1
+	for i in tab:
+		print(a, i)
+		a+=1
+	"""

@@ -12,7 +12,7 @@
 
 2) DESCRIPTION DETAILEE DES ROUTES BOTTLE (dans l'ordre du sujet)
 
-4) CONCLUSION & AVIS
+3) CONCLUSION & AVIS
 
 
 
@@ -24,7 +24,7 @@
 
 1)________________________________________________________________________________________________________
 Nous avons choisi de créer une route bottle par defaut (http://localhost:8080/) qui est un menu principal.
-Ce menu affiche plusieurs lien (href) pointant vers les différentes partie de l'API.
+Ce menu affiche plusieurs liens (href) pointant vers les différentes parties de l'API.
 On retrouve les liens suivants :
 
 - [Rechercher Auteur] 				qui redirige vers /auteur/qui
@@ -74,8 +74,8 @@ ________________________
 ROUTE 2 : /auteur/<name>
 
 Cette route affiche une page html contenant un tableau récapitulatif de l'auteur avec le nombre d'articles publiés, le nombre de conférences et le nombre de co-auteurs.
-Quand on clique sur chercher la fonction va automatiquement télécharger le fichier xml correspondant à l'auteur. Ce fichier xml sera la base pour une grande majorité des fonctionnalités de l'API.
-On retrouve aussi des liens vers les differentes partie de l'API qui concernent l'auteur.
+Quand on clique sur chercher, la fonction va automatiquement télécharger le fichier xml correspondant à l'auteur. Ce fichier xml sera la base pour une grande majorité des fonctionnalités de l'API.
+On retrouve aussi des liens vers les differentes parties de l'API qui concernent l'auteur.
 On ne peut pas par exemple naviguer au graphe du lip6 via la page de l'auteur, il faut retourner au menu principal pour acceder a la route /LIP6 (ou la saisir directement dans la barre d'addresse).
 
 
@@ -104,7 +104,7 @@ Cette fonction parcours le fichier xml de l'auteur et recupère tous les article
 _____________________________________________
 ROUTE 5 : /auteur/Conferences/synthese/<name>
 
-Cette route fait exactement la même chose que la route 3, elle présente une page html et un tableau des rang Core.
+Cette route fait exactement la même chose que la route 3, elle présente une page html et un tableau des rangs Core.
 Cette route peut prendre un peu de temps à s'afficher car la recherche du nom de la conférence sur le site Core peut donner un tableau de résultats très grand que l'on doit parcourir et tester tous les noms de conférences pour savoir si c'est la bonne.
 
 
@@ -113,8 +113,8 @@ ___________________________________
 ROUTE 6 : /auteur/Conference/<name>
 
 Cette route fait exactement la même chose que la route 4.
-Cette route est très rapide à s'afficher car on ne fait que parcourir le fichier source xml ce qui est trop rapide.
-On retrouve les mêmes lien de navigation que ceux de la route 4.
+Cette route est très rapide à s'afficher car on ne fait que parcourir le fichier source xml.
+On retrouve les mêmes liens de navigation que ceux de la route 4.
 
 
 
@@ -122,10 +122,10 @@ ____________________________________________
 ROUTE 7 : /auteur/Conferences/Voyages/<name>
 
 Cette route affiche une page html avec le nom de l'auteur et le nombre de lieux qui on été résoluts par geopy (par exemple 31/31 indique qu'il y a 31 lieux qui sont épinglés sur la carte sur les 31 qui sont présents dans le fichier de l'auteur).
-On retrouve aussi une aide disant de zoomer si des conférence ont eu lieu au même endroit. Pour éviter se problème de marqueur au même endroit, si un marqueur est déja placé a cet endroit, on place le marqueur au même endroit en ajoutant un random dans les coordonnée gps (~0.005 en longitude) pour éviter que les marqueur soit les uns sur les autres.
+On retrouve aussi une aide disant de zoomer si des conférence ont eu lieu au même endroit. Pour éviter se problème de marqueur au même endroit, si un marqueur est déja placé a cet endroit, on place le marqueur au même endroit en ajoutant un random dans les coordonnées gps (~0.005 en longitude) pour éviter que les marqueur soit les uns sur les autres.
 On retrouve aussi des liens de navigation vers le menu principal et la page de l'auteur.
 Cette route peut prendre beaucoup de temps à s'afficher à cauise du nombre de conférences a placer sur la carte, et du status de geopy.
-pour résoudre les problèmes de time out de geopy, on a créé une fonction qui fait un appel récursif et sendort si geopy retourne une exception de time out. 
+pour résoudre les problèmes de time out de geopy, on a créé une fonction qui fait un appel récursif et s'endort si geopy retourne une exception de time out. 
 
 
 
@@ -185,7 +185,7 @@ ROUTE BONUS : /LIP6/Graphe
 
 Cette route affiche, comme la route /LIP6 un graphe Networkx rendu au format PNG.
 Le graphe généré représente les deux auteurs par deux gros noeuds de couleur différente. Les membres du LIP6 qui on écrit avec un auteur qui a été saisie sont représenté par un noeud plus petit de la même couleur que l'auteur. Un trait entre deux noeud représente une relation de co-auteur.
-Tous les autres membres permanents du LIP6 sont représentés par des petits noeud gris.
+Tous les autres membres permanents du LIP6 sont représentés par des petits noeuds gris.
 
 
 
@@ -198,7 +198,7 @@ Tous les autres membres permanents du LIP6 sont représentés par des petits noe
 
 Les problèmes rencontrés:
 
-- Télécharger un fichier xml nous à posé des problèmes car ElementTreeXML crash à chaque code de caractère spéciaux comme par exemple '&123;'. On a donc du trouver un moyen de remplacer automatiquement les caractères spéciaux dans les fichier xml par leur caractères en utf-8 (car l'encodage sur dblp n'est pas le bon c'est de l'iso 8856)
+- Télécharger un fichier xml nous a posé des problèmes car ElementTreeXML crash à chaque code de caractères spéciaux comme par exemple '&123;'. On a donc du trouver un moyen de remplacer automatiquement les caractères spéciaux dans les fichiers xml par leur caractères en utf-8 (car l'encodage sur dblp n'est pas le bon c'est de l'iso 8856)
 
 - La partie graphe a été complexe, on a perdu beaucoup de temps à essayer d'installer la bibliothèque correctement et à générer un rendu propre. Nous avons, au final, opté pour la bibliothèque NetworkX.
 

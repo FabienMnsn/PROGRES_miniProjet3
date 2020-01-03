@@ -205,7 +205,7 @@ Les problèmes rencontrés:
 - Le sujet du projet n'est pas cohérent par certain moments, par exemple les urls ne sont jamais les mêmes une fois c'est en français une autre fois c'est en anglais. Nous avons opté dans la majorité des cas par le français. Il y a juste /auteurs/coauthors qui est en anglais.
 
 
-En conclusion c'est un projet très intérressant à réaliser mais qui nécessite selon nous une amélioration du sujet, que les questions soit plus clairement expliquées.
+En conclusion c'est un projet très intérressant à réaliser cependant le sujet n'est pas tout le temps clairement expliqué ce qui nous laisse une certaine liberté sur la mise en forme.
 
 
 			

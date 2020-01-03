@@ -4,6 +4,7 @@ import os
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
+from geopy.exc import GeocoderTimedOut
 from random import randint, uniform
 from time import sleep
 
@@ -73,7 +74,6 @@ def download_file(author_name, download_path, table_path):
 	table_path : string, chemin d'acces de la table html
 	"""
 	requested = requests.get(request_author_file_builder(author_name, table_path))
-	#print("---->DOWNLOAD :", request_author_file_builder(author_name, table_path))
 	file_name = download_path+"_"+author_name+".xml"
 	if(requested.status_code == 200):
 		with open(file_name, 'wb') as local_file:
@@ -82,8 +82,6 @@ def download_file(author_name, download_path, table_path):
 		local_file.close()
 		parse_file(file_name, download_path+author_name+".xml", "table_iso.txt")
 		os.remove(file_name)
-	#else:
-		#print("error", requested.status_code)
 	return requested.status_code
 
 
@@ -102,7 +100,6 @@ def create_dico_iso(table_file_path):
     @parma
     table_file_path : chemin d'accès du fichier source permettant de créer le dictionnaire (par simple lecture du fichier)
     """
-    #print("----Création du dictionnaire de référence")
     file = open(table_file_path, 'r', encoding='utf-8')
     line = file.readline()
     dict = {}
@@ -219,7 +216,6 @@ def xml_formater(input_file, output_file, dictionnaire_code):
     new_xml = open(output_file, 'w', encoding='utf-8')
     new_xml.write("<?xml version='1.0' encoding='UTF-8'?>\n")
 
-    #print("--------Ouverture de :", input_file, ", création de :", output_file)
     for line in xml:
         #on enleve le retour chariot a la fin de la ligne s'il y en a un
         line_ = cut_end(line)
@@ -238,13 +234,10 @@ def xml_formater(input_file, output_file, dictionnaire_code):
                 splited_line = split_char_code(line_)
                 new_line = replace_char(splited_line, dictio)
                 new_xml.write(new_line+"\n")
-                #print(line_)
-                #print(new_line)
             else:
                 new_xml.write(line_+"\n")
     new_xml.close()
     xml.close()
-    #print("--------Fermeture des fichiers", input_file, ", ", output_file)
 
 
 def parse_file(input_file_path, output_file_path, table_correspondance):
@@ -286,7 +279,6 @@ def liste_lip6(file_path):
 			name = membre.text
 			name_splited = name.split(' ')
 			nom = '-'.join(name_splited[:-1])
-			#print(nom)
 			res.append(name_splited[-1]+" "+nom)
 	return res
 
@@ -377,7 +369,6 @@ def get_rank_journal(journal_name):
 	r = requests.get(url) # , proxies=proxy)
 	soup = BeautifulSoup(r.content, "html.parser")
 	res = soup.find_all('tr')
-	#print(res)
 	for elem in res:
 		if(elem == res[0]):
 			continue
@@ -406,15 +397,12 @@ def search_line_journal(table_row, journal_name):
 	found = False
 	while (not(found)):		
 		if(name_splited[i_n] == "of" or name_splited[i_n] == "and" or name_splited[i_n] == "on"):
-			#print("---skiped", name_splited[i_n])
 			i_n += 1
 			continue
 		if(name_splited[i_n] == "The" or name_splited[i_n] == "the"):
-			#print("---skiped THE", name_splited[i_n])
 			i_n += 1
 			continue
 		if(journal_splited[i_j] in name_splited[i_n]):
-			#print("---"+journal_splited[i_j]+" in "+name_splited[i_n])
 			i_n +=1
 			i_j +=1
 		else:
@@ -545,7 +533,6 @@ def get_rank_conference(conference_name):
 		return ""
 	conference_name_concat = conference_name.replace(' ', '+')
 	url = "http://portal.core.edu.au/conf-ranks/?search="+conference_name_concat+"&by=all&source=all"
-	#print(url)
 	#proxy = {"https":"https://proxy.ufr-info-p6.jussieu.fr:3128"}
 	r = requests.get(url) # , proxies=proxy)
 	soup = BeautifulSoup(r.content, "html.parser")
@@ -577,10 +564,8 @@ def search_line_conference(table_row, conference_name):
 		if(name in conference_name):
 			return rank
 		if(conference_name[i] != name[i]):
-			#print(conference_name[i], "!=", name[i])
 			return ""
 		else:
-			#print(conference_name[i], "==", name[i])
 			i+=1
 		if(i == len(conference_name)):
 			return rank
@@ -639,6 +624,24 @@ def liste_detail_conference(file_path):
 	return tableau_conferences
 
 
+
+def GEOCODE(address):
+	"""
+	Retourne un objet geopy.location
+
+	@param
+	address : string, représentant une addresse
+	"""
+	try:
+		geolocator = Nominatim(user_agent="api")
+		return geolocator.geocode(address)
+	except GeocoderTimedOut:
+		print("EXCEPT : [ERROR TIMEOUT], NOW GOING TO SLEEP")
+		sleep(randint(0,2))
+		return GEOCODE(address)
+
+
+
 def get_lieux(conference_url):
 	"""
 	Retourne une liste de 2 elements ['Pays', 'Etat, 'Ville'] correspondant au lieu de conference
@@ -662,7 +665,6 @@ def get_lieux(conference_url):
 		element_splited_lieux = element_splited[1]
 		element_splited_lieux2 = element_splited_lieux.replace('\n', '')
 		a = element_splited_lieux2.replace(' ', '').split(',') 
-	#print(a)
 	return a
 		
 
@@ -698,18 +700,14 @@ def conf_voyages(file_path):
 	liste_conf = liste_resume_conference(file_path)
 	#liste_conf => [conf_name, annee, url]
 	if(len(liste_conf) <= 0):
-		print("error taille liste [conf_voyages()]")
 		return -1
 	else:
 		tab = []
 		i = 1
 		for elem in liste_conf:
 			if(len(elem) != 0):
-				#print(i, elem)
 				i+=1
 				tab.append([get_lieux(elem[2]), elem[0], elem[1]])
-		#for e in tab:
-			#print(e)
 		return tab
 
 
@@ -720,23 +718,25 @@ def address_to_gps(tab_conf_voyage):
     @param
     tab_conf_voyage : tab[], tableau contenant plusieurs elements de la forme : [ [Ville, Etat, Pays], Conf_name, annee]
     """
-    #print(len(tab_conf_voyage))
     res = []
-    geolocator = Nominatim(user_agent="api")
-
+    location_table = []
     for element in tab_conf_voyage:
         if(element[0] != None):
             adrs = clean_adrs(element[0])
-        #print(adrs)
-        location = geolocator.geocode(adrs)
+        adrs_split = adrs.split(' ')
+        if(adrs_split[-1] == "Japan"):
+        	#obligation de traiter ce cas car geopy bug sur cette chaine particulière...
+        	adrs_split[-1] = "Japon"
+        location = GEOCODE(' '.join(adrs_split))
         if(location != None):
-            res.append([element[0], [location.latitude, location.longitude], element[1], element[2]])
+        	coords = [location.latitude, location.longitude]
+        	if(coords in location_table):
+        		res.append([element[0], [location.latitude, location.longitude+uniform(-0.05,0.05)], element[1], element[2]])
+        	else:
+        		location_table.append(coords)
+        		res.append([element[0], [location.latitude, location.longitude], element[1], element[2]])
         else:
-            #print(element)
             continue
-    #print(len(res))
-    #for i in res:
-        #print(i)
     return res
 
 
@@ -764,7 +764,6 @@ def split_sub(string):
     @param
     string : chaine de mots collés
     """
-    #print(string)
     if(len(string) > 1):
         if(64 < ord(string[0]) < 91 and 64 < ord(string[-1]) < 91):
             return string
@@ -793,81 +792,6 @@ def geocoding(adrs):
 
 def conference_voyage_map(conf_name):
 	"""
-	Retourne une liste à 2D :[[Ville,Etat(si présent),Pays,Annee]......] 
-
-	@param
-	conf_name : nom de la conf a rechercher
-	"""
-	if(conf_name == ""):
-		return ""
-	conf_name=conf_name.lower()
-	url= "https://dblp.uni-trier.de/db/conf/"+conf_name
-	lieuxliste=[]
-	r = requests.get(url)
-	soup = BeautifulSoup(r.content, "html.parser")
-	res=soup.find_all('h2')
-
-	
-	for elem in res:
-		numero="rien"
-		stri=elem.contents
-		tab=stri[0].split(":")
-		tmp=tab[0].split(" ")
-		x=re.search("^([0-9]{1,2})(th|rd|st|nd)$",tmp[0])
-		if x :
-			num=tmp[0]
-			numero="oui"
-		annee=tmp[-1]
-		tmp=tab[1].split(",")
-		info=[]
-		for i in tmp:
-			info.append(i)
-
-		if numero=="oui":
-			info.append(num)
-			info.append(numero)
-		info.append(annee)	
-		lieuxliste.append(info)
-	return lieuxliste
-
-
-def geocoder_conf(tab):
-	"""
-	Retourne une liste de la forme [[[Ville,Etat(si présent),Pays,],[latitude,longitude],Année]]]
-
-	@param
-	tab: élément de la table retourné par la fonction conference_voyage_map 
-	"""
-	newtab=[]
-	for i in tab:
-		if tab[-2]=="oui":
-			if i==tab[-1] or i==tab[-2]  or i==tab[-3]:
-				
-				pass
-			else:
-				newtab.append(i)
-		else :	
-			if i==tab[-1]:
-				pass
-			else:
-				newtab.append(i)
-	res=[]
-	geolocator=Nominatim(user_agent="api")
-	location=geolocator.geocode(newtab)
-	
-	if(location!=None):
-		res.append([newtab,[location.latitude,location.longitude], tab[-1]])
-	else:
-		return "pb"
-	return res
-
-
-
-
-
-####	NOUVELLE VERSION	####
-def CONFERENCE_voyage_map(conf_name):
-	"""
 	Retourne une liste 2D ou chaque element est de la forme : [ ville, addrs, Annee, numero(opt)] 
 	avec : addrs = etat(opt)+pays 
 
@@ -889,7 +813,6 @@ def CONFERENCE_voyage_map(conf_name):
 		
 		for elem in res:
 			line_split = elem.text.split(':')
-			#print("ELEM ----> ",line_split)
 			#S'il n'y a pas de ':' dans le text on split selon les ','
 			if(len(line_split) < 2):
 				line_split = elem.text.split(',')
@@ -897,7 +820,6 @@ def CONFERENCE_voyage_map(conf_name):
 					print("ERROR dblp wrong text format", line_split)
 					continue
 				else:
-					#print("NEW SPLIT", line_split)
 					num_name_year = line_split[0].split(' ')
 					ville = line_split[1]
 					addrs = line_split[2]
@@ -914,7 +836,7 @@ def CONFERENCE_voyage_map(conf_name):
 						#will never go in this case
 						print("PB", num_name_year)
 						return -2
-			#S'il y a un ':' au milieu du text
+			#S'il y a un ':' au milieu du texte
 			else:
 				if(len(line_split[0]) == 0):
 					print("LINE SPLIT (0) VIDE")
@@ -942,7 +864,7 @@ def CONFERENCE_voyage_map(conf_name):
 
 
 
-def GEOCODER_conf(tab):
+def geocoder_conf(tab):
 	"""
 	Retourne une liste contenant des elements de la forme : [Ville, [latitude, longitude], Année, Numero]
 
@@ -961,14 +883,15 @@ def GEOCODER_conf(tab):
 			if(len(elem) == 3):
 				#pas de numero de conf
 				while(location == None and i < 10):
-					location = geolocator.geocode(elem[0]+''+elem[1])
+					location = GEOCODE(elem[0]+''+elem[1])
+					#location = geolocator.geocode(elem[0]+''+elem[1])
 					i+=1
 					sleep(randint(0,2))
 				i = 0
 				if(location != None):
 					coord = [location.latitude, location.longitude]
 					if(coord in location_list):
-						res.append([elem[0], [location.latitude, location.longitude+uniform(0.002,0.005)], elem[2]])
+						res.append([elem[0], [location.latitude, location.longitude+uniform(-0.05,0.05)], elem[2]])
 					else:
 						location_list.append([location.latitude, location.longitude])
 						#on a trouve les coord gps
@@ -979,14 +902,15 @@ def GEOCODER_conf(tab):
 			else:
 				#il y a un numero de conf
 				while(location == None and i < 10):
-					location = geolocator.geocode(elem[0]+''+elem[1])
+					#location = geolocator.geocode(elem[0]+''+elem[1])
+					location = GEOCODE(elem[0]+''+elem[1])
 					i+=1
-					sleep(randint(0,2))
+					#sleep(randint(0,2))
 				i = 0
 				if(location != None):
 					coord = [location.latitude, location.longitude]
 					if(coord in location_list):
-						res.append([elem[0], [location.latitude, location.longitude+uniform(0.02,0.05)], elem[2], elem[3]])
+						res.append([elem[0], [location.latitude, location.longitude+uniform(-0.05,0.05)], elem[2], elem[3]])
 					else:
 						location_list.append([location.latitude, location.longitude])
 						#on a trouve les coord gps
@@ -1107,19 +1031,22 @@ if __name__ == '__main__':
 	#adrs = clean_adrs(['LasPalmasdeGranCanaria', 'Spain'])
 	#geocoding("Tokyo Japan")
 	
-	
+	#location = GEOCODE("Tokyo Japon")
+	#print(location.latitude, location.longitude)
+
+	"""
 	conf_name = ["dis", "pimrc", "sss", "ecai", "ant", "idc", "jfsma", "safeprocess"]
 	tab = CONFERENCE_voyage_map(conf_name[0])
-	"""
+	
 	res = GEOCODER_conf(CONFERENCE_voyage_map(conf_name[0]))
 	#tab = conference_voyage_map(conf_name[1])
 	a = 1
 	for i in res:
 		print(a, i)
 		a+=1
-	"""
+	
 	a = 1
 	for i in tab:
 		print(a, i)
 		a+=1
-	
+	"""

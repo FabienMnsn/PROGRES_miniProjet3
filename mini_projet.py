@@ -36,7 +36,6 @@ def telecharge(author_name):
             #on doit donc vérifier qu'il s'agit bien d'un fichier d'auteur
             file = open("Auteurs/"+file_name, "r")
             file_content = file.readlines()
-            #print(file_content)
             if(len(file_content) > 30):
                 return "ok"
             else:
@@ -388,7 +387,6 @@ def conferences(name):
             pass
     m=max(t for t in taillekey)
 
-
     for j in range(m):
         stri+="<tr>"
         for k in keys:
@@ -472,10 +470,10 @@ def conference_voyage(name):
     author_name = name_split[1]+" "+name_h
     file_name = author_name+".xml"
     status = telecharge(author_name)
-    if(status=="ok"):
-        tab=utils_xml.conf_voyages("Auteurs/"+file_name)
+    if(status == "ok"):
+        tab = utils_xml.conf_voyages("Auteurs/"+file_name)
         gps = utils_xml.address_to_gps(tab)
-    elif(status=="erreur homonymes"):
+    elif(status == "erreur homonymes"):
         return {"title":"Erreur : il existe plusieurs auteurs ayants le même nom", "body":"<div>Aide : Veuillez préciser l'auteur en ajoutant '+0001' apres le nom de l'auteur, par exemple : 'Sens+0001 Pierre'.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
     else:
         return {"title":"Erreur : impossible de récupérer les informations de cette personne", "body":"<div>Aide : Vérifiez l'orthographe des nom et prénom de l'auteur et réessayez.</div><div><a href='http://localhost:8080/auteur/qui'>[Retour]</a></div>"}
@@ -499,9 +497,9 @@ def conference_voyage(name):
         annee = elem[3]
         folium.Marker(elem[1],
             popup=conf_name+' '+ville+' '+annee).add_to(map)
-    body = "<div><a href='http://localhost:8080/'>[Menu Principal]</a></div><div><a href='http://localhost:8080/auteur/"+name+"'>[Menu Auteur]</a></div>"
+    body = "<div>Plusieurs épingles peuvent se trouver au même endroit, zoomer permet de bien les distinguer.</div><div><a href='http://localhost:8080/'>[Menu Principal]</a></div><div><a href='http://localhost:8080/auteur/"+name+"'>[Menu Auteur]</a></div>"
     body += map.get_root().render()
-    return { "title":"Carte des lieux de conférence de : "+author_name, "body": body}
+    return { "title":"Carte des lieux de conférence de : "+author_name+" ("+str(len(gps))+"/"+str(len(tab))+" lieux trouvés)", "body": body}
 
 
 
@@ -592,8 +590,8 @@ Errors      : Aucune.
 @bottle.route("/Conference/Lieux/<conf>")
 @bottle.view("page.tpl")
 def conference_lieux(conf):
-    conf_tab = utils_xml.CONFERENCE_voyage_map(conf)
-    conf_location = utils_xml.GEOCODER_conf(conf_tab)
+    conf_tab = utils_xml.conference_voyage_map(conf)
+    conf_location = utils_xml.geocoder_conf(conf_tab)
 
     if(len(conf_tab) == 0):
         return {"title":"Erreur : saisie", "body":"<div>Aide : Nom de conference invalide.</div><div><a href='http://localhost:8080/Conference/Laquelle'>[Rechercher Conference]</a></div>"}
@@ -624,7 +622,7 @@ def conference_lieux(conf):
             annee = element[2]
             folium.Marker(element[1], popup=num+' conference, '+ville+', '+annee).add_to(map)
     
-    body = "<div><a href='http://localhost:8080/'>[Menu Principal]</a></div><div><a href='http://localhost:8080/Conference/Laquelle'>[Rechercher Conference]</a></div>"
+    body = "<div>Plusieurs épingles peuvent se trouver au même endroit, zoomer permet de bien les distinguer.</div><div><a href='http://localhost:8080/'>[Menu Principal]</a></div><div><a href='http://localhost:8080/Conference/Laquelle'>[Rechercher Conference]</a></div>"
     body += map.get_root().render()
 
     return {"title":"Carte de la conference "+conf+", ("+str(len(conf_location))+"/"+str(len(conf_tab))+" lieux trouvés)","body":body}
@@ -694,7 +692,10 @@ def Graphe():
     elif(status == -3):
         return {"title":"Erreur : Orthographe des noms incorrect ou auteurs absents des membres permanents du lip6", "body":"<div><a href='http://localhost:8080/'>[Menu Principal]</a></div><div><a href='http://localhost:8080/LIP6/auteurs'>[Retour à la saisie]</a></div>"}
 
+
 #--------------------------FIN FONCTION BOTTLE--------------------------
+
+
 
 if __name__ == '__main__':
     #--------------------------RUN BOTTLE--------------------------

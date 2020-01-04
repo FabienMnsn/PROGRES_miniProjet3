@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<lip6>
+<team name="ACASA">
+	<permanents>Bourgne Gauvain</permanents>
+	<permanents>Denis Christophe</permanents>
+	<permanents>Faucher Colette</permanents>
+	<permanents>Ganascia Jean-Gabriel</permanents>
+</team>
+<team name="ALMASTY">
+	<permanents>Bajard Jean-Claude</permanents>
+	<permanents>Vergnaud Damien</permanents>
+</team>
+<team name="ALSOC">
+	<permanents>Braunstein Cécile</permanents>
+	<permanents>Desbarbieux Jean-Lou</permanents>
+	<permanents>Drach-Temam Nathalie</permanents>
+	<permanents>Encrenaz Emmanuelle</permanents>
+	<permanents>Genius Daniela</permanents>
+	<permanents>Greiner Alain</permanents>
+	<permanents>Heydemann Karine</permanents>
+	<permanents>Lacassagne Lionel</permanents>
+	<permanents>Marchetti Olivier</permanents>
+	<permanents>Meunier Quentin</permanents>
+	<permanents>Munier Alix</permanents>
+	<permanents>Sheibanyrad Hamed</permanents>
+	<permanents>Wajsbürt Franck </permanents>
+</team>
+<team name="APR">
+	<permanents>Aubry Philippe</permanents>
+	<permanents>Bui-Xuan Binh-Minh</permanents>
+	<permanents>Chailloux Emmanuel</permanents>
+	<permanents>Demangeon Romain</permanents>
+	<permanents>Genitrini Antoine</permanents>
+	<permanents>Mairesse Jean</permanents>
+	<permanents>Manoury Pascal</permanents>
+	<permanents>Miné Antoine</permanents>
+	<permanents>Pelletier Maryse</permanents>
+	<permanents>Peschanski Frédéric</permanents>
+	<permanents>Queinnec Christian</permanents>
+	<permanents>Soria Michèle</permanents>
+	<permanents>Tierny Julie</permanents>
+	<permanents>Valibouze Annick </permanents>
+</team>
+<team name="BD">
+	<permanents>Amann Bernd</permanents>
+	<permanents>Baazizi Mohamed-Amine</permanents>
+	<permanents>Constantin Camélia</permanents>
+	<permanents>Doucet Anne</permanents>
+	<permanents>Gançarski Stéphane</permanents>
+	<permanents>Naacke Hubert</permanents>
+	<permanents>Piwowarski Benjamin</permanents>
+</team>
+<team name="CIAN">
+	<permanents>Aboushady Hassan</permanents>
+	<permanents>Bazargan Sabet Pirouz</permanents>
+	<permanents>Chotin Roselyne</permanents>
+	<permanents>Galayko Dimitri</permanents>
+	<permanents>Lecuyer Christophe</permanents>
+	<permanents>Louërat Marie-Minerve</permanents>
+	<permanents>Mehrez Habib</permanents>
+	<permanents>Pêcheux François</permanents>
+	<permanents>Porte Jacky</permanents>
+	<permanents>Stratigopoulos Haralampos</permanents>
+</team>
+<team name="ComplexNetworks">
+	<permanents>Alexandre Olivier</permanents>
+	<permanents>Danisch Maximilien</permanents>
+	<permanents>Gauthier Vincent</permanents>
+	<permanents>Latapy Matthieu</permanents>
+	<permanents>Magnien Clémence</permanents>
+	<permanents>Tabourier Lionel</permanents>
+</team>
+<team name="DECISION">
+	<permanents>Benabbou Nawal</permanents>
+	<permanents>Brézillon Patrick</permanents>
+	<permanents>Lust Thibaut</permanents>
+	<permanents>Minoux Michel</permanents>
+	<permanents>Ouzia Hacène</permanents>
+	<permanents>Perny Patrice</permanents>
+	<permanents>Spanjaard Olivier</permanents>
+	<permanents>Viappiani Paolo</permanents>
+	<permanents>Wuillemin Pierre-Henri</permanents>
+</team>
+<team name="DELYS">
+	<permanents>Arantes Luciana</permanents>
+	<permanents>Darche Philippe</permanents>
+	<permanents>Dubois Swan</permanents>
+	<permanents>Lejeune Jonathan</permanents>
+	<permanents>Makpangou Mesaac</permanents>
+	<permanents>Petit Franck</permanents>
+	<permanents>Sens Pierre</permanents>
+	<permanents>Shapiro Marc</permanents>
+	<permanents>Sopena Julien</permanents>
+</team>
+<team name="LFI">
+	<permanents>Bouchon-Meunier Bernadette</permanents>
+	<permanents>Gacôgne Louis</permanents>
+	<permanents>Lesot Marie-Jeanne</permanents>
+	<permanents>Marsala Christophe</permanents>
+	<permanents>Tollari Sabrina</permanents>
+	<permanents>Vittaut Jean-Noël</permanents>
+</team>
+<team name="MLIA">
+	<permanents>Baskiotis Nicolas</permanents>
+	<permanents>Cord Matthieu</permanents>
+	<permanents>Gallinari Patrick</permanents>
+	<permanents>Guigue Vincent</permanents>
+	<permanents>Lamprier Sylvain</permanents>
+	<permanents>Oyallon Edouard</permanents>
+	<permanents>Sahbi Hichem</permanents>
+	<permanents>Schwander Olivier</permanents>
+	<permanents>Soulier Laure</permanents>
+</team>
+<team name="MOCAH">
+	<permanents>Auzende Odette</permanents>
+	<permanents>Baron Monique</permanents>
+	<permanents>Bouchet François</permanents>
+	<permanents>Carron Thibault</permanents>
+	<permanents>Giroire Hélène</permanents>
+	<permanents>Labat Jean-Marc</permanents>
+	<permanents>Luengo Vanda</permanents>
+	<permanents>Muratet Mathieu</permanents>
+	<permanents>Yessad Amel</permanents>
+</team>
+<team name="MoVe">
+	<permanents>Baarir Souheib</permanents>
+	<permanents>Bendraou Reda</permanents>
+	<permanents>Bérard Béatrice</permanents>
+	<permanents>Besse Cédric</permanents>
+	<permanents>Dutheillet Claude</permanents>
+	<permanents>Gervais Marie-Pierre</permanents>
+	<permanents>Girault Claude</permanents>
+	<permanents>Hillah Lom Messan</permanents>
+	<permanents>Ilié Jean-Michel</permanents>
+	<permanents>Jaume Mathieu</permanents>
+	<permanents>Kordon Fabrice</permanents>
+	<permanents>Legond-Aubry Fabrice</permanents>
+	<permanents>Malenfant Jacques</permanents>
+	<permanents>Mounier Isabelle</permanents>
+	<permanents>Paviot-Adet Emmanuel</permanents>
+	<permanents>Perrot Jean-François</permanents>
+	<permanents>Poitrenaud Denis</permanents>
+	<permanents>Poizat Pascal</permanents>
+	<permanents>Pradat-Peyre Jean-François</permanents>
+	<permanents>Saint-James Emmanuel</permanents>
+	<permanents>Sznajder Nathalie</permanents>
+	<permanents>Thierry-Mieg Yann</permanents>
+	<permanents>Ziadi Tewfik</permanents>
+	<permanents>Ziane Mikal</permanents>
+</team>
+<team name="NPA">
+	<permanents>Baey Sébastien</permanents>
+	<permanents>Baynat Bruno</permanents>
+	<permanents>Blin Lélia</permanents>
+	<permanents>Dias de Amorim Marcelo</permanents>
+	<permanents>Fdida Serge</permanents>
+	<permanents>Fladenmuller Anne</permanents>
+	<permanents>Fourmaux Olivier</permanents>
+	<permanents>Friedman Timur</permanents>
+	<permanents>Giovanidis Anastasios</permanents>
+	<permanents>Malouch Naceur</permanents>
+	<permanents>Marzouki Meryem</permanents>
+	<permanents>Pau Giovanni</permanents>
+	<permanents>Potop-Butucaru Maria</permanents>
+	<permanents>Spathis Prométhée</permanents>
+	<permanents>Thai Kim Loan</permanents>
+	<permanents>Tixeuil Sébastien</permanents>
+</team>
+<team name="PEQUAN">
+	<permanents>Béréziat Dominique</permanents>
+	<permanents>Chesneaux Jean-Marie</permanents>
+	<permanents>Fortin Pierre</permanents>
+	<permanents>Graillat Stef</permanents>
+	<permanents>Hilaire Thibault</permanents>
+	<permanents>Jézéquel Fabienne</permanents>
+	<permanents>Lamotte Jean-Luc</permanents>
+	<permanents>Mary Théo</permanents>
+	<permanents>Ménissier-Morain Valérie</permanents>
+	<permanents>Mezzarobba Marc</permanents>
+	<permanents>Vignes Jean </permanents>
+</team>
+<team name="Phare">
+	<permanents>Kervella Brigitte</permanents>
+	<permanents>Nguyen Thi-Mai-Trang</permanents>
+	<permanents>Pujolle Guy</permanents>
+</team>
+<team name="PolSys">
+	<permanents>Berthomieu Jérémy</permanents>
+	<permanents>Faugère Jean-Charles</permanents>
+	<permanents>Lazard Daniel</permanents>
+	<permanents>Perret Ludovic</permanents>
+	<permanents>Safey El Din Mohab</permanents>
+</team>
+<team name="QI">
+	<permanents>Diamanti Eleni</permanents>
+	<permanents>Grosshans Frédéric</permanents>
+	<permanents>Kashefi Elham</permanents>
+	<permanents>Markham Damian</permanents>
+</team>
+<team name="RO">
+	<permanents>Angelopoulos Spyros</permanents>
+	<permanents>Bampis Evripidis</permanents>
+	<permanents>Chrétienne Philippe</permanents>
+	<permanents>Cohen-Addad Vincent</permanents>
+	<permanents>Delbot François</permanents>
+	<permanents>Doerr Carola</permanents>
+	<permanents>Dürr Christoph</permanents>
+	<permanents>Escoffier Bruno</permanents>
+	<permanents>Fouilhoux Pierre</permanents>
+	<permanents>Hanen Claire</permanents>
+	<permanents>Hyon Emmanuel</permanents>
+	<permanents>Pascual Fanny</permanents>
+</team>
+<team name="SMA">
+	<permanents>Abdallah Maha</permanents>
+	<permanents>Beynier Aurélie</permanents>
+	<permanents>Briot Jean-Pierre</permanents>
+	<permanents>Corruble Vincent</permanents>
+	<permanents>El Fallah Seghrouchni Amal</permanents>
+	<permanents>Herpson Cédric</permanents>
+	<permanents>Kant Jean-Daniel</permanents>
+	<permanents>Maudet Nicolas</permanents>
+</team>
+<team name="SYEL">
+	<permanents>Alexandre Annick</permanents>
+	<permanents>Denoulet Julien</permanents>
+	<permanents>Feruglio Sylvain</permanents>
+	<permanents>Granado Bertrand</permanents>
+	<permanents>Hachicha Khalil</permanents>
+	<permanents>Pinna Andrea</permanents>
+	<permanents>Vallette Farouk</permanents>
+</team>
+<team name="Whisper">
+	<permanents>Aponte Garcia Maria-Virginia</permanents>
+	<permanents>Dagand Pierre-Evariste</permanents>
+	<permanents>Folliot Bertil</permanents>
+	<permanents>Lawall Julia</permanents>
+	<permanents>Muller Gilles</permanents>
+</team>
+</lip6>

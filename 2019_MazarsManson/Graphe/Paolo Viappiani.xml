@@ -1,0 +1,601 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Paolo Viappiani" n="46">
+<person key="homepages/76/6477" mdate="2009-06-10">
+<author>Paolo Viappiani</author>
+</person>
+<r><inproceedings key="conf/aldt/NeflaOVB19" mdate="2019-10-10">
+<author>Ons Nefla</author>
+<author>Meltem Öztürk</author>
+<author>Paolo Viappiani</author>
+<author>Imène Brigui-Chtioui</author>
+<title>Interactive Elicitation of a Majority Rule Sorting Model with Maximum Margin Optimization.</title>
+<pages>141-157</pages>
+<year>2019</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2019</crossref>
+<url>db/conf/aldt/adt2019.html#NeflaOVB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rjcia/NapolitanoCV19" mdate="2019-06-28">
+<author>Beatrice Napolitano</author>
+<author>Olivier Cailloux</author>
+<author>Paolo Viappiani</author>
+<title>Simultaneous Elicitation of Committee and Voters' Preferences.</title>
+<pages>59-62</pages>
+<year>2019</year>
+<booktitle>RJCIA</booktitle>
+<crossref>conf/rjcia/2019</crossref>
+<url>db/conf/rjcia/rjcia2019.html#NapolitanoCV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/Viappiani18" mdate="2018-09-24">
+<author>Paolo Viappiani</author>
+<title>Positional Scoring Rules with Uncertain Weights.</title>
+<pages>306-320</pages>
+<year>2018</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2018</crossref>
+<url>db/conf/sum/sum2018.html#Viappiani18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ai/BenabbouPV17" mdate="2017-06-14">
+<author orcid="0000-0002-4589-4162">Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<author>Paolo Viappiani</author>
+<title>Incremental elicitation of Choquet capacities for multicriteria choice, ranking and sorting problems.</title>
+<pages>152-180</pages>
+<year>2017</year>
+<volume>246</volume>
+<journal>Artif. Intell.</journal>
+<url>db/journals/ai/ai246.html#BenabbouPV17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aldt/TesoPV17" mdate="2017-10-18">
+<author>Stefano Teso</author>
+<author>Andrea Passerini</author>
+<author>Paolo Viappiani</author>
+<title>Constructive Preference Elicitation for Multiple Users with Setwise Max-margin.</title>
+<pages>3-17</pages>
+<year>2017</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2017</crossref>
+<url>db/conf/aldt/adt2017.html#TesoPV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/GilbertBPSV17" mdate="2019-08-20">
+<author>Hugo Gilbert</author>
+<author>Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<author>Paolo Viappiani</author>
+<title>Incremental Decision Making Under Risk with the Weighted Expected Utility Model.</title>
+<pages>4588-4594</pages>
+<year>2017</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2017/640</ee>
+<crossref>conf/ijcai/2017</crossref>
+<url>db/conf/ijcai/ijcai2017.html#GilbertBPSV17</url>
+</inproceedings>
+</r>
+<r><article key="journals/amai/PigozziTV16" mdate="2017-05-28">
+<author>Gabriella Pigozzi</author>
+<author>Alexis Tsoukiàs</author>
+<author>Paolo Viappiani</author>
+<title>Preferences in artificial intelligence.</title>
+<pages>361-401</pages>
+<year>2016</year>
+<volume>77</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>3-4</number>
+<url>db/journals/amai/amai77.html#PigozziTV16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/TesoPV16" mdate="2019-08-20">
+<author>Stefano Teso</author>
+<author>Andrea Passerini</author>
+<author>Paolo Viappiani</author>
+<title>Constructive Preference Elicitation by Setwise Max-Margin Learning.</title>
+<pages>2067-2073</pages>
+<year>2016</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://www.ijcai.org/Abstract/16/295</ee>
+<crossref>conf/ijcai/2016</crossref>
+<url>db/conf/ijcai/ijcai2016.html#TesoPV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/BenabbouDPV16" mdate="2017-05-24">
+<author>Nawal Benabbou</author>
+<author>Serena Di Sabatino Di Diodoro</author>
+<author>Patrice Perny</author>
+<author>Paolo Viappiani</author>
+<title>Incremental Preference Elicitation in Multi-attribute Domains for Choice and Ranking with the Borda Count.</title>
+<pages>81-95</pages>
+<year>2016</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2016</crossref>
+<url>db/conf/sum/sum2016.html#BenabbouDPV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uai/GilbertZWVN16" mdate="2016-08-11">
+<author>Hugo Gilbert</author>
+<author>Bruno Zanuttini</author>
+<author>Paul Weng</author>
+<author>Paolo Viappiani</author>
+<author>Esther Nicart</author>
+<title>Model-Free Reinforcement Learning with Skew-Symmetric Bilinear Utilities.</title>
+<year>2016</year>
+<booktitle>UAI</booktitle>
+<crossref>conf/uai/2016</crossref>
+<url>db/conf/uai/uai2016.html#GilbertZWVN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uai/PernyVB16" mdate="2016-08-11">
+<author>Patrice Perny</author>
+<author>Paolo Viappiani</author>
+<author>Abdellah Boukhatem</author>
+<title>Incremental Preference Elicitation for Decision Making Under Risk with the Rank-Dependent Utility Model.</title>
+<year>2016</year>
+<booktitle>UAI</booktitle>
+<crossref>conf/uai/2016</crossref>
+<url>db/conf/uai/uai2016.html#PernyVB16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/TesoPV16" mdate="2018-08-13">
+<author>Stefano Teso</author>
+<author>Andrea Passerini</author>
+<author>Paolo Viappiani</author>
+<title>Constructive Preference Elicitation by Setwise Max-margin Learning.</title>
+<year>2016</year>
+<volume>abs/1604.06020</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.06020</ee>
+<url>db/journals/corr/corr1604.html#TesoPV16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aldt/GilbertSVW15" mdate="2017-05-23">
+<author>Hugo Gilbert</author>
+<author>Olivier Spanjaard</author>
+<author>Paolo Viappiani</author>
+<author>Paul Weng</author>
+<title>Reducing the Number of Queries in Interactive Value Iteration.</title>
+<pages>139-152</pages>
+<year>2015</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2015</crossref>
+<url>db/conf/aldt/adt2015.html#GilbertSVW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Viappiani15" mdate="2019-08-20">
+<author>Paolo Viappiani</author>
+<title>Characterization of Scoring Rules with Distances: Application to the Clustering of Rankings.</title>
+<pages>104-110</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/022</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#Viappiani15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/GilbertSVW15" mdate="2019-08-20">
+<author>Hugo Gilbert</author>
+<author>Olivier Spanjaard</author>
+<author>Paolo Viappiani</author>
+<author>Paul Weng</author>
+<title>Solving MDPs with Skew Symmetric Bilinear Utility Functions.</title>
+<pages>1989-1995</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/282</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#GilbertSVW15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ijcai/2015cpcr" mdate="2019-05-28">
+<editor>Dietmar Jannach</editor>
+<editor>Jérôme Mengin</editor>
+<editor>Bamshad Mobasher</editor>
+<editor>Andrea Passerini</editor>
+<editor>Paolo Viappiani</editor>
+<title>Proceedings of the IJCAI 2015 Joint Workshop on Constraints and Preferences for Configuration and Recommendation and Intelligent Techniques for Web Personalization co-located with the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 27, 2015.</title>
+<booktitle>CPCR+ITWP@IJCAI</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>1440</volume>
+<year>2015</year>
+<ee type="oa">http://ceur-ws.org/Vol-1440</ee>
+<url>db/conf/ijcai/cpcr2015.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/dmrs/Viappiani14" mdate="2019-05-28">
+<author>Paolo Viappiani</author>
+<title>Preference Modeling and Preference Elicitation: An Overview.</title>
+<pages>19-24</pages>
+<year>2014</year>
+<booktitle>DMRS</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1278/paper4.pdf</ee>
+<crossref>conf/dmrs/2014</crossref>
+<url>db/conf/dmrs/dmrs2014.html#Viappiani14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BenabbouPV14" mdate="2017-06-02">
+<author orcid="0000-0002-4589-4162">Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<author>Paolo Viappiani</author>
+<title>Incremental Elicitation of Choquet Capacities for Multicriteria Decision Making.</title>
+<pages>87-92</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BenabbouPV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/Viappiani14" mdate="2017-05-21">
+<author>Paolo Viappiani</author>
+<title>Aggregation of Uncertain Qualitative Preferences for a Group of Agents.</title>
+<pages>434-443</pages>
+<year>2014</year>
+<booktitle>IPMU (2)</booktitle>
+<crossref>conf/ipmu/2014-2</crossref>
+<url>db/conf/ipmu/ipmu2014-2.html#Viappiani14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aldt/Viappiani13" mdate="2017-05-23">
+<author>Paolo Viappiani</author>
+<title>Thompson Sampling for Bayesian Bandits with Resets.</title>
+<pages>399-410</pages>
+<year>2013</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2013</crossref>
+<url>db/conf/aldt/adt2013.html#Viappiani13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aldt/ViappianiK13" mdate="2017-05-23">
+<author>Paolo Viappiani</author>
+<author>Christian Kroer</author>
+<title>Robust Optimization of Recommendation Sets with the Maximin Utility Criterion.</title>
+<pages>411-424</pages>
+<year>2013</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2013</crossref>
+<url>db/conf/aldt/adt2013.html#ViappianiK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/TsoukiasV13" mdate="2018-11-06">
+<author>Alexis Tsoukiàs</author>
+<author>Paolo Viappiani</author>
+<title>Tutorial on preference handling.</title>
+<pages>497-498</pages>
+<year>2013</year>
+<booktitle>RecSys</booktitle>
+<crossref>conf/recsys/2013</crossref>
+<url>db/conf/recsys/recsys2013.html#TsoukiasV13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/scai/2013" mdate="2014-02-18">
+<editor>Manfred Jaeger</editor>
+<editor>Thomas Dyhre Nielsen</editor>
+<editor>Paolo Viappiani</editor>
+<title>Twelfth Scandinavian Conference on Artificial Intelligence, SCAI 2013, Aalborg, Denmark, November 20-22, 2013</title>
+<publisher>IOS Press</publisher>
+<year>2013</year>
+<series href="db/series/faia/index.html">Frontiers in Artificial Intelligence and Applications</series>
+<volume>257</volume>
+<isbn>978-1-61499-329-2</isbn>
+<isbn>978-1-61499-330-8</isbn>
+<booktitle>SCAI</booktitle>
+<url>db/conf/scai/scai2013.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/lion/Viappiani12" mdate="2017-05-26">
+<author>Paolo Viappiani</author>
+<title>Monte Carlo Methods for Preference Learning.</title>
+<pages>503-508</pages>
+<year>2012</year>
+<booktitle>LION</booktitle>
+<crossref>conf/lion/2012</crossref>
+<url>db/conf/lion/lion2012.html#Viappiani12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/ViappianiB11" mdate="2011-08-09">
+<author>Paolo Viappiani</author>
+<author>Craig Boutilier</author>
+<title>Recommendation Sets and Choice Queries: There Is No Exploration/Exploitation Tradeoff!</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ViappianiB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/ViappianiZHB11" mdate="2012-11-10">
+<author>Paolo Viappiani</author>
+<author>Sandra Zilles</author>
+<author>Howard J. Hamilton</author>
+<author>Craig Boutilier</author>
+<title>A Bayesian Concept Learning Approach to Crowdsourcing.</title>
+<year>2011</year>
+<booktitle>Interactive Decision Theory and Game Theory</booktitle>
+<crossref>conf/aaai/2011game</crossref>
+<url>db/conf/aaai/game2011.html#ViappianiZHB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aldt/ViappianiZHB11" mdate="2017-05-23">
+<author>Paolo Viappiani</author>
+<author>Sandra Zilles</author>
+<author>Howard J. Hamilton</author>
+<author>Craig Boutilier</author>
+<title>Learning Complex Concepts Using Crowdsourcing: A Bayesian Approach.</title>
+<pages>277-291</pages>
+<year>2011</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2011</crossref>
+<url>db/conf/aldt/adt2011.html#ViappianiZHB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ViappianiZHB11" mdate="2019-05-28">
+<author>Paolo Viappiani</author>
+<author>Sandra Zilles</author>
+<author>Howard J. Hamilton</author>
+<author>Craig Boutilier</author>
+<title>A Bayesian Concept Learning Approach to Crowdsourcing.</title>
+<year>2011</year>
+<booktitle>ITWP@IJCAI</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-756/paper05.pdf</ee>
+<crossref>conf/ijcai/2011itwp</crossref>
+<url>db/conf/ijcai/itwp2011.html#ViappianiZHB11</url>
+</inproceedings>
+</r>
+<r><incollection key="reference/rsh/PuFCZV11" mdate="2017-09-22">
+<author>Pearl Pu</author>
+<author>Boi Faltings</author>
+<author orcid="0000-0001-6260-3171">Li Chen 0009</author>
+<author>Jiyong Zhang</author>
+<author>Paolo Viappiani</author>
+<title>Usability Guidelines for Product Recommenders Based on Example Critiquing Research.</title>
+<pages>511-545</pages>
+<year>2011</year>
+<booktitle>Recommender Systems Handbook</booktitle>
+<crossref>reference/rsh/2011</crossref>
+<url>db/reference/rsh/rsh2011.html#PuFCZV11</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1110-0026" mdate="2018-08-13">
+<author>Boi Faltings</author>
+<author>Pearl Pu</author>
+<author>Paolo Viappiani</author>
+<title>Preference-based Search using Example-Critiquing with Suggestions</title>
+<ee type="oa">http://arxiv.org/abs/1110.0026</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1110.0026</volume>
+<url>db/journals/corr/corr1110.html#abs-1110-0026</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/BoutilierRV10" mdate="2019-07-18">
+<author>Craig Boutilier</author>
+<author>Kevin Regan 0001</author>
+<author>Paolo Viappiani</author>
+<title>Simultaneous Elicitation of Preference Features and Utility.</title>
+<year>2010</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2010</crossref>
+<url>db/conf/aaai/aaai2010.html#BoutilierRV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ViappianiB10" mdate="2014-12-10">
+<author>Paolo Viappiani</author>
+<author>Craig Boutilier</author>
+<title>Optimal Bayesian Recommendation Sets and Myopically Optimal Choice Query Sets.</title>
+<pages>2352-2360</pages>
+<year>2010</year>
+<booktitle>NIPS</booktitle>
+<crossref>conf/nips/2010</crossref>
+<url>db/conf/nips/nips2010.html#ViappianiB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/BoutilierRV09" mdate="2019-07-18">
+<author>Craig Boutilier</author>
+<author>Kevin Regan 0001</author>
+<author>Paolo Viappiani</author>
+<title>Online feature elicitation in interactive optimization.</title>
+<pages>73-80</pages>
+<year>2009</year>
+<booktitle>ICML</booktitle>
+<crossref>conf/icml/2009</crossref>
+<url>db/conf/icml/icml2009.html#BoutilierRV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ViappianiB09" mdate="2019-05-28">
+<author>Paolo Viappiani</author>
+<author>Craig Boutilier</author>
+<title>Optimal Set Recommendations Based on Regret.</title>
+<year>2009</year>
+<booktitle>ITWP</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-528/paper3.pdf</ee>
+<crossref>conf/ijcai/2009itwp</crossref>
+<url>db/conf/ijcai/itwp2009.html#ViappianiB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/ViappianiB09" mdate="2018-11-06">
+<author>Paolo Viappiani</author>
+<author>Craig Boutilier</author>
+<title>Regret-based optimal recommendation sets in conversational recommender systems.</title>
+<pages>101-108</pages>
+<year>2009</year>
+<booktitle>RecSys</booktitle>
+<crossref>conf/recsys/2009</crossref>
+<url>db/conf/recsys/recsys2009.html#ViappianiB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recsys/BoutilierRV09" mdate="2019-07-18">
+<author>Craig Boutilier</author>
+<author>Kevin Regan 0001</author>
+<author>Paolo Viappiani</author>
+<title>Preference elicitation with subjective features.</title>
+<pages>341-344</pages>
+<year>2009</year>
+<booktitle>RecSys</booktitle>
+<crossref>conf/recsys/2009</crossref>
+<url>db/conf/recsys/recsys2009.html#BoutilierRV09</url>
+</inproceedings>
+</r>
+<r><article key="journals/aicom/ViappianiPF08" mdate="2017-05-18">
+<author>Paolo Viappiani</author>
+<author>Pearl Pu</author>
+<author>Boi Faltings</author>
+<title>Preference-based search with adaptive recommendations.</title>
+<pages>155-175</pages>
+<year>2008</year>
+<volume>21</volume>
+<journal>AI Commun.</journal>
+<number>2-3</number>
+<url>db/journals/aicom/aicom21.html#ViappianiPF08</url>
+</article>
+</r>
+<r><article key="journals/aim/PeintnerVY08" mdate="2010-12-27">
+<author>Bart Peintner</author>
+<author>Paolo Viappiani</author>
+<author>Neil Yorke-Smith</author>
+<title>Preferences in Interactive Systems: Technical Challenges and Case Studies.</title>
+<pages>13-24</pages>
+<year>2008</year>
+<volume>29</volume>
+<journal>AI Magazine</journal>
+<number>4</number>
+<url>db/journals/aim/aim29.html#PeintnerVY08</url>
+</article>
+</r>
+<r><inproceedings key="conf/recsys/ViappianiPF07" mdate="2018-11-06">
+<author>Paolo Viappiani</author>
+<author>Pearl Pu</author>
+<author>Boi Faltings</author>
+<title>Conversational recommenders with adaptive suggestions.</title>
+<pages>89-96</pages>
+<year>2007</year>
+<crossref>conf/recsys/2007</crossref>
+<booktitle>RecSys</booktitle>
+<url>db/conf/recsys/recsys2007.html#ViappianiPF07</url>
+</inproceedings>
+</r>
+<r><article key="journals/jair/ViappianiFP06" mdate="2019-01-21">
+<author>Paolo Viappiani</author>
+<author>Boi Faltings</author>
+<author>Pearl Pu</author>
+<title>Preference-based Search using Example-Critiquing with Suggestions.</title>
+<pages>465-503</pages>
+<year>2006</year>
+<volume>27</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.2075</ee>
+<url>db/journals/jair/jair27.html#ViappianiFP06</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ViappianiFP06" mdate="2012-03-19">
+<author>Paolo Viappiani</author>
+<author>Boi Faltings</author>
+<author>Pearl Pu</author>
+<title>Evaluating Preference-based Search Tools: A Tale of Two Approaches.</title>
+<year>2006</year>
+<crossref>conf/aaai/2006</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai2006.html#ViappianiFP06</url>
+<pages>205-212</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/PuVF06" mdate="2018-11-06">
+<author>Pearl Pu</author>
+<author>Paolo Viappiani</author>
+<author>Boi Faltings</author>
+<title>Increasing user decision accuracy using suggestions.</title>
+<pages>121-130</pages>
+<year>2006</year>
+<crossref>conf/chi/2006</crossref>
+<booktitle>CHI</booktitle>
+<url>db/conf/chi/chi2006.html#PuVF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/ViappianiFP06" mdate="2017-05-21">
+<author>Paolo Viappiani</author>
+<author>Boi Faltings</author>
+<author>Pearl Pu</author>
+<title>The Lookahead Principle for Preference Elicitation: Experimental Results.</title>
+<pages>378-389</pages>
+<year>2006</year>
+<crossref>conf/fqas/2006</crossref>
+<booktitle>FQAS</booktitle>
+<url>db/conf/fqas/fqas2006.html#ViappianiFP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/ViappianiF06" mdate="2018-11-06">
+<author>Paolo Viappiani</author>
+<author>Boi Faltings</author>
+<title>Implementing example-based tools for preference-based search.</title>
+<pages>89-90</pages>
+<year>2006</year>
+<crossref>conf/icwe/2006</crossref>
+<booktitle>ICWE</booktitle>
+<url>db/conf/icwe/icwe2006.html#ViappianiF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/ViappianiF06" mdate="2017-05-25">
+<author>Paolo Viappiani</author>
+<author>Boi Faltings</author>
+<title>Design and Implementation of Preference-Based Search.</title>
+<pages>72-83</pages>
+<year>2006</year>
+<crossref>conf/wise/2006</crossref>
+<booktitle>WISE</booktitle>
+<url>db/conf/wise/wise2006.html#ViappianiF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iui/FaltingsPTV04" mdate="2018-11-06">
+<author>Boi Faltings</author>
+<author>Pearl Pu</author>
+<author>Marc Torrens</author>
+<author>Paolo Viappiani</author>
+<title>Designing example-critiquing interaction.</title>
+<pages>22-29</pages>
+<year>2004</year>
+<crossref>conf/iui/2004</crossref>
+<booktitle>IUI</booktitle>
+<url>db/conf/iui/iui2004.html#FaltingsPTV04</url>
+</inproceedings>
+</r>
+<coauthors n="35" nc="4">
+<co c="0"><na f="b/Benabbou:Nawal">Nawal Benabbou</na></co>
+<co c="0"><na f="b/Boukhatem:Abdellah">Abdellah Boukhatem</na></co>
+<co c="1"><na f="b/Boutilier:Craig">Craig Boutilier</na></co>
+<co c="0"><na f="b/Brigui=Chtioui:Im=egrave=ne">Imène Brigui-Chtioui</na></co>
+<co c="2"><na f="c/Cailloux:Olivier">Olivier Cailloux</na></co>
+<co c="0"><na f="c/Chen_0009:Li">Li Chen 0009</na></co>
+<co c="0"><na f="d/Diodoro:Serena_Di_Sabatino_Di">Serena Di Sabatino Di Diodoro</na></co>
+<co c="0"><na f="f/Faltings:Boi">Boi Faltings</na></co>
+<co c="0"><na f="g/Gilbert:Hugo">Hugo Gilbert</na></co>
+<co c="1"><na f="h/Hamilton:Howard_J=">Howard J. Hamilton</na></co>
+<co c="0"><na f="j/Jaeger:Manfred">Manfred Jaeger</na></co>
+<co c="0"><na f="j/Jannach:Dietmar">Dietmar Jannach</na></co>
+<co c="-1"><na f="k/Kroer:Christian">Christian Kroer</na></co>
+<co c="0"><na f="m/Mengin:J=eacute=r=ocirc=me">Jérôme Mengin</na></co>
+<co c="0"><na f="m/Mobasher:Bamshad">Bamshad Mobasher</na></co>
+<co c="2"><na f="n/Napolitano:Beatrice">Beatrice Napolitano</na></co>
+<co c="0"><na f="n/Nefla:Ons">Ons Nefla</na></co>
+<co c="0"><na f="n/Nicart:Esther">Esther Nicart</na></co>
+<co c="0" n="2"><na f="n/Nielsen:Thomas_D=">Thomas D. Nielsen</na><na>Thomas Dyhre Nielsen</na></co>
+<co c="0"><na f="=/=Ouml=zt=uuml=rk:Meltem">Meltem Öztürk</na></co>
+<co c="0"><na f="p/Passerini:Andrea">Andrea Passerini</na></co>
+<co c="3"><na f="p/Peintner:Bart">Bart Peintner</na></co>
+<co c="0"><na f="p/Perny:Patrice">Patrice Perny</na></co>
+<co c="0"><na f="p/Pigozzi:Gabriella">Gabriella Pigozzi</na></co>
+<co c="0"><na f="p/Pu:Pearl">Pearl Pu</na></co>
+<co c="1"><na f="r/Regan_0001:Kevin">Kevin Regan 0001</na></co>
+<co c="0"><na f="s/Spanjaard:Olivier">Olivier Spanjaard</na></co>
+<co c="0"><na f="t/Teso:Stefano">Stefano Teso</na></co>
+<co c="0"><na f="t/Torrens:Marc">Marc Torrens</na></co>
+<co c="0"><na f="t/Tsouki=agrave=s:Alexis">Alexis Tsoukiàs</na></co>
+<co c="0"><na f="w/Weng:Paul">Paul Weng</na></co>
+<co c="3"><na f="y/Yorke=Smith:Neil">Neil Yorke-Smith</na></co>
+<co c="0"><na f="z/Zanuttini:Bruno">Bruno Zanuttini</na></co>
+<co c="0"><na f="z/Zhang:Jiyong">Jiyong Zhang</na></co>
+<co c="1"><na f="z/Zilles:Sandra">Sandra Zilles</na></co>
+</coauthors>
+</dblpperson>
+

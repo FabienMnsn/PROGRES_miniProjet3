@@ -1,0 +1,568 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Gauvain Bourgne" n="40">
+<person key="homepages/05/5583" mdate="2009-06-10">
+<author>Gauvain Bourgne</author>
+</person>
+<r><inproceedings key="conf/prima/BourgneTSI19" mdate="2019-10-28">
+<author>Gauvain Bourgne</author>
+<author>Yutaro Totsuka</author>
+<author>Nicolas Schwind</author>
+<author>Katsumi Inoue</author>
+<title>Identifying Belief Sequences in a Network of Communicating Agents.</title>
+<pages>370-386</pages>
+<year>2019</year>
+<booktitle>PRIMA</booktitle>
+<crossref>conf/prima/2019</crossref>
+<url>db/conf/prima/prima2019.html#BourgneTSI19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ria/BerrebyBG18" mdate="2019-12-05">
+<author>Fiona Berreby</author>
+<author>Gauvain Bourgne</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Cadre déclaratif modulaire d'évaluation d'actions selon différents principes éthiques.</title>
+<pages>479-518</pages>
+<year>2018</year>
+<volume>32</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>4</number>
+<url>db/journals/ria/ria32.html#BerrebyBG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BerrebyBG18" mdate="2018-07-16">
+<author>Fiona Berreby</author>
+<author>Gauvain Bourgne</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Event-Based and Scenario-Based Causality for Computational Ethics.</title>
+<pages>147-155</pages>
+<year>2018</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2018</crossref>
+<url>db/conf/atal/aamas2018.html#BerrebyBG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miwai/LorthioirBI18" mdate="2018-11-09">
+<author>Guillaume Lorthioir</author>
+<author>Gauvain Bourgne</author>
+<author>Katsumi Inoue</author>
+<title>Identifying Goals of Agents by Learning from Observations.</title>
+<pages>125-138</pages>
+<year>2018</year>
+<booktitle>MIWAI</booktitle>
+<crossref>conf/miwai/2018</crossref>
+<url>db/conf/miwai/miwai2018.html#LorthioirBI18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prima/VeillonBS18" mdate="2018-10-24">
+<author>Lise-Marie Veillon</author>
+<author>Gauvain Bourgne</author>
+<author>Henry Soldano</author>
+<title>Better Collective Learning with Consistency Guarantees.</title>
+<pages>671-679</pages>
+<year>2018</year>
+<booktitle>PRIMA</booktitle>
+<crossref>conf/prima/2018</crossref>
+<url>db/conf/prima/prima2018.html#VeillonBS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BerrebyBG17" mdate="2017-05-11">
+<author>Fiona Berreby</author>
+<author>Gauvain Bourgne</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>A Declarative Modular Framework for Representing and Applying Ethical Principles.</title>
+<pages>96-104</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#BerrebyBG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccci/VeillonBS17" mdate="2017-09-18">
+<author>Lise-Marie Veillon</author>
+<author>Gauvain Bourgne</author>
+<author>Henry Soldano</author>
+<title>Effect of Network Topology on Neighbourhood-Aided Collective Learning.</title>
+<pages>202-211</pages>
+<year>2017</year>
+<booktitle>ICCCI (1)</booktitle>
+<crossref>conf/iccci/2017-1</crossref>
+<url>db/conf/iccci/iccci2017-1.html#VeillonBS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/VeillonBS17" mdate="2018-11-06">
+<author>Lise-Marie Veillon</author>
+<author>Gauvain Bourgne</author>
+<author>Henry Soldano</author>
+<title>Waves: a model of collective learning.</title>
+<pages>314-321</pages>
+<year>2017</year>
+<booktitle>WI</booktitle>
+<crossref>conf/webi/2017</crossref>
+<url>db/conf/webi/webi2017.html#VeillonBS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birthday/RodriguesSBR16" mdate="2019-10-19">
+<author orcid="0000-0002-9039-4570">Christophe Rodrigues</author>
+<author>Henry Soldano</author>
+<author>Gauvain Bourgne</author>
+<author>Céline Rouveirol</author>
+<title>Collaborative Online Learning of an Action Model.</title>
+<pages>300-319</pages>
+<year>2016</year>
+<booktitle>Solving Large Scale Learning Tasks</booktitle>
+<crossref>conf/birthday/2016morik</crossref>
+<url>db/conf/birthday/morik2016.html#RodriguesSBR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/RodriguesSBR16" mdate="2017-05-26">
+<author>Christophe Rodrigues</author>
+<author>Henry Soldano</author>
+<author>Gauvain Bourgne</author>
+<author>Céline Rouveirol</author>
+<title>Collaborative Decision in Multi-Agent Learning of Action Models.</title>
+<pages>640-647</pages>
+<year>2016</year>
+<booktitle>ICTAI</booktitle>
+<crossref>conf/ictai/2016</crossref>
+<url>db/conf/ictai/ictai2016.html#RodriguesSBR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/SchwindIBKM16" mdate="2019-08-20">
+<author>Nicolas Schwind</author>
+<author>Katsumi Inoue</author>
+<author>Gauvain Bourgne</author>
+<author>Sébastien Konieczny</author>
+<author>Pierre Marquis</author>
+<title>Is Promoting Beliefs Useful to Make Them Accepted in Networks of Agents?.</title>
+<pages>1237-1243</pages>
+<year>2016</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://www.ijcai.org/Abstract/16/179</ee>
+<crossref>conf/ijcai/2016</crossref>
+<url>db/conf/ijcai/ijcai2016.html#SchwindIBKM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcla/BoukhaledFBG15" mdate="2017-04-07">
+<author>Mohamed Amine Boukhaled</author>
+<author>Francesca Frontini</author>
+<author>Gauvain Bourgne</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Computational Study of Stylistics: A Clustering-Based Interestingness Measure for Extracting Relevant Syntactic Patterns.</title>
+<pages>45-62</pages>
+<year>2015</year>
+<volume>6</volume>
+<journal>Int. J. Comput. Linguistics Appl.</journal>
+<number>1</number>
+<url>db/journals/ijcla/ijcla6.html#BoukhaledFBG15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/BelloniBBBBCCEG15" mdate="2016-09-27">
+<author>Aline Belloni</author>
+<author>Alain Berger</author>
+<author>Olivier Boissier</author>
+<author>Grégory Bonnet</author>
+<author>Gauvain Bourgne</author>
+<author>Pierre-Antoine Chardel</author>
+<author>Jean-Pierre Cotton</author>
+<author>Nicolas Evreux</author>
+<author>Jean-Gabriel Ganascia</author>
+<author>Philippe Jaillon</author>
+<author>Bruno Mermet</author>
+<author>Gauthier Picard</author>
+<author>Bernard Rever</author>
+<author>Gaële Simon</author>
+<author>Thibault de Swarte</author>
+<author>Catherine Tessier</author>
+<author>François Vexler</author>
+<author>Robert Voyer</author>
+<author>Antoine Zimmermann</author>
+<title>Dealing with Ethical Conflicts in Autonomous Agents and Multi-Agent Systems.</title>
+<year>2015</year>
+<booktitle>AAAI Workshop: AI and Ethics</booktitle>
+<crossref>conf/aaai/2015ethics</crossref>
+<url>db/conf/aaai/ethics2015.html#BelloniBBBBCCEG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/SchwindIBKM15" mdate="2015-04-12">
+<author>Nicolas Schwind</author>
+<author>Katsumi Inoue</author>
+<author>Gauvain Bourgne</author>
+<author>Sébastien Konieczny</author>
+<author>Pierre Marquis</author>
+<title>Belief Revision Games.</title>
+<pages>1590-1596</pages>
+<year>2015</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2015</crossref>
+<url>db/conf/aaai/aaai2015.html#SchwindIBKM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ilp/RougnyYNBPIF15" mdate="2019-05-28">
+<author>Adrien Rougny</author>
+<author>Yoshitaka Yamamoto</author>
+<author>Hidetomo Nabeshima</author>
+<author>Gauvain Bourgne</author>
+<author>Anne Poupon</author>
+<author>Katsumi Inoue</author>
+<author>Christine Froidevaux</author>
+<title>Completing signaling networks by abductive reasoning with perturbation experiments.</title>
+<pages>95-100</pages>
+<year>2015</year>
+<booktitle>ILP (Late Breaking Papers)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1636/paper-09.pdf</ee>
+<crossref>conf/ilp/2015lbr</crossref>
+<url>db/conf/ilp/ilp2015lbp.html#RougnyYNBPIF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lpar/BerrebyBG15" mdate="2017-05-23">
+<author>Fiona Berreby</author>
+<author>Gauvain Bourgne</author>
+<author>Jean-Gabriel Ganascia</author>
+<title>Modelling Moral Reasoning and Ethical Responsibility with Logic Programming.</title>
+<pages>532-548</pages>
+<year>2015</year>
+<booktitle>LPAR</booktitle>
+<crossref>conf/lpar/2015</crossref>
+<url>db/conf/lpar/lpar2015.html#BerrebyBG15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ci/BourgneM14" mdate="2019-06-02">
+<author>Gauvain Bourgne</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<title>Designing Protocols for Abductive Hypothesis Refinement in Dynamic Multiagent Environments.</title>
+<pages>362-401</pages>
+<year>2014</year>
+<volume>30</volume>
+<journal>Computational Intelligence</journal>
+<number>2</number>
+<url>db/journals/ci/ci30.html#BourgneM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/RodriguesSBR14" mdate="2014-09-25">
+<author>Christophe Rodrigues</author>
+<author>Henry Soldano</author>
+<author>Gauvain Bourgne</author>
+<author>Céline Rouveirol</author>
+<title>A consistency based approach of action model learning in a community of agents.</title>
+<pages>1557-1558</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#RodriguesSBR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/RodriguesSBR14" mdate="2019-10-19">
+<author orcid="0000-0002-9039-4570">Christophe Rodrigues</author>
+<author orcid="0000-0001-8505-948X">Henry Soldano</author>
+<author>Gauvain Bourgne</author>
+<author>Céline Rouveirol</author>
+<title>Multi Agent Learning of Relational Action Models.</title>
+<pages>1087-1088</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#RodriguesSBR14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tplp/RibeiroIB13" mdate="2017-08-21">
+<author>Tony Ribeiro</author>
+<author>Katsumi Inoue</author>
+<author>Gauvain Bourgne</author>
+<title>Combining Answer Set Programs for Adaptive and Reactive Reasoning.</title>
+<year>2013</year>
+<volume>13</volume>
+<journal>TPLP</journal>
+<number>4-5-Online-Supplement</number>
+<url>db/journals/tplp/tplp13.html#RibeiroIB13</url>
+</article>
+</r>
+<r><inproceedings key="conf/aamas/BourgneIM12" mdate="2015-03-19">
+<author>Gauvain Bourgne</author>
+<author>Katsumi Inoue</author>
+<author>Nicolas Maudet</author>
+<title>Finding new consequences of an observation in a system of agents.</title>
+<pages>1223-1224</pages>
+<year>2012</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2012</crossref>
+<url>db/conf/atal/aamas2012.html#BourgneIM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaart/InoueBO11" mdate="2011-07-08">
+<author>Katsumi Inoue</author>
+<author>Gauvain Bourgne</author>
+<author>Takayuki Okamoto</author>
+<title>Complete Distributed Consequence Finding with Message Passing.</title>
+<pages>134-143</pages>
+<year>2011</year>
+<booktitle>ICAART (2)</booktitle>
+<crossref>conf/icaart/2011-2</crossref>
+<url>db/conf/icaart/icaart2011-2.html#InoueBO11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaart/InoueBO11a" mdate="2017-05-25">
+<author>Katsumi Inoue</author>
+<author>Gauvain Bourgne</author>
+<author>Takayuki Okamoto</author>
+<title>Distributed Consequence Finding: Partition-Based and Cooperative Approaches.</title>
+<pages>429-444</pages>
+<year>2011</year>
+<booktitle>ICAART (Revised Selected Papers)</booktitle>
+<crossref>conf/icaart/2011s</crossref>
+<url>db/conf/icaart/icaart2011s.html#InoueBO11a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/BourgneI11" mdate="2017-05-26">
+<author>Gauvain Bourgne</author>
+<author>Katsumi Inoue</author>
+<title>Partition-Based Consequence Finding.</title>
+<pages>641-648</pages>
+<year>2011</year>
+<booktitle>ICTAI</booktitle>
+<crossref>conf/ictai/2011</crossref>
+<url>db/conf/ictai/ictai2011.html#BourgneI11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/BourgneI10" mdate="2017-05-19">
+<author>Gauvain Bourgne</author>
+<author>Katsumi Inoue</author>
+<title>Query-Driven Coordination of Multiple Answer Sets.</title>
+<pages>40-59</pages>
+<year>2010</year>
+<booktitle>DALT</booktitle>
+<crossref>conf/dalt/2010</crossref>
+<url>db/conf/dalt/dalt2010.html#BourgneI10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BourgneSF10" mdate="2010-08-23">
+<author>Gauvain Bourgne</author>
+<author>Henry Soldano</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<title>Learning better together.</title>
+<pages>85-90</pages>
+<year>2010</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2010</crossref>
+<url>db/conf/ecai/ecai2010.html#BourgneSF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BourgneIM10" mdate="2017-05-24">
+<author>Gauvain Bourgne</author>
+<author>Katsumi Inoue</author>
+<author>Nicolas Maudet</author>
+<title>Abduction of distributed theories through local interactions.</title>
+<pages>901-906</pages>
+<year>2010</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2010</crossref>
+<url>db/conf/ecai/ecai2010.html#BourgneIM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lads/BourgneIM10" mdate="2017-05-19">
+<author>Gauvain Bourgne</author>
+<author>Katsumi Inoue</author>
+<author>Nicolas Maudet</author>
+<title>Towards Efficient Multi-agent Abduction Protocols.</title>
+<pages>19-38</pages>
+<year>2010</year>
+<booktitle>LADS</booktitle>
+<crossref>conf/lads/2010</crossref>
+<url>db/conf/lads/lads2010.html#BourgneIM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mallow/BourgneIM10" mdate="2019-05-28">
+<author>Gauvain Bourgne</author>
+<author>Katsumi Inoue</author>
+<author>Nicolas Maudet</author>
+<title>Towards Efficient Multi-Agent Abduction Protocols.</title>
+<year>2010</year>
+<booktitle>MALLOW</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-627/lads_5.pdf</ee>
+<crossref>conf/mallow/2010</crossref>
+<url>db/conf/mallow/mallow2010.html#BourgneIM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/japll/BourgneFM09" mdate="2019-06-02">
+<author>Gauvain Bourgne</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<title>Towards refinement of abductive or inductive hypotheses through propagation.</title>
+<pages>289-306</pages>
+<year>2009</year>
+<volume>7</volume>
+<journal>J. Applied Logic</journal>
+<number>3</number>
+<url>db/journals/japll/japll7.html#BourgneFM09</url>
+</article>
+</r>
+<r><inproceedings key="conf/iat/BourgneFS09" mdate="2017-05-23">
+<author>Gauvain Bourgne</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Henry Soldano</author>
+<title>Learning in a Fixed or Evolving Network of Agents.</title>
+<pages>549-556</pages>
+<year>2009</year>
+<booktitle>IAT</booktitle>
+<crossref>conf/iat/2009</crossref>
+<url>db/conf/iat/iat2009.html#BourgneFS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/BourgneBFS09" mdate="2017-05-26">
+<author>Gauvain Bourgne</author>
+<author>Dominique Bouthinon</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Henry Soldano</author>
+<title>Collaborative Concept Learning: Non Individualistic vs Individualistic Agents.</title>
+<pages>653-657</pages>
+<year>2009</year>
+<booktitle>ICTAI</booktitle>
+<crossref>conf/ictai/2009</crossref>
+<url>db/conf/ictai/ictai2009.html#BourgneBFS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dis/BourgneC08" mdate="2017-05-23">
+<author>Gauvain Bourgne</author>
+<author>Vincent Corruble</author>
+<title>A Framework for Knowledge Discovery in a Society of Agents.</title>
+<pages>172-184</pages>
+<year>2008</year>
+<booktitle>Discovery Science</booktitle>
+<crossref>conf/dis/2008</crossref>
+<url>db/conf/dis/dis2008.html#BourgneC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/BourgneMR08" mdate="2012-02-07">
+<author>Gauvain Bourgne</author>
+<author>Nicolas Maudet</author>
+<author>Guillaume Ravilly-Abadie</author>
+<title>Raisonnement hypothétique distribué sans connaissance commune.</title>
+<pages>213-222</pages>
+<year>2008</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2008</crossref>
+<url>db/conf/jfsma/jfsma2008.html#BourgneMR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prima/BourgneFMS08" mdate="2017-05-19">
+<author>Gauvain Bourgne</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Nicolas Maudet</author>
+<author>Henry Soldano</author>
+<title>Multiagent Incremental Learning in Networks.</title>
+<pages>109-120</pages>
+<year>2008</year>
+<booktitle>PRIMA</booktitle>
+<crossref>conf/prima/2008</crossref>
+<url>db/conf/prima/prima2008.html#BourgneFMS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BourgneFS07" mdate="2018-11-06">
+<author>Gauvain Bourgne</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Henry Soldano</author>
+<title>SMILE: Sound Multi-agent Incremental LEarning.</title>
+<pages>38</pages>
+<year>2007</year>
+<crossref>conf/atal/2007</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2007.html#BourgneFS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BourgneHMP07" mdate="2018-11-06">
+<author>Gauvain Bourgne</author>
+<author>Gaël Hette</author>
+<author>Nicolas Maudet</author>
+<author>Suzanne Pinson</author>
+<title>Hypotheses refinement under topological communication constraints.</title>
+<pages>239</pages>
+<year>2007</year>
+<crossref>conf/atal/2007</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2007.html#BourgneHMP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/BourgneMP06" mdate="2017-05-19">
+<author>Gauvain Bourgne</author>
+<author>Nicolas Maudet</author>
+<author>Suzanne Pinson</author>
+<title>When Agents Communicate Hypotheses in Critical Situations.</title>
+<pages>89-104</pages>
+<year>2006</year>
+<crossref>conf/dalt/2006</crossref>
+<booktitle>DALT</booktitle>
+<url>db/conf/dalt/dalt2006.html#BourgneMP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/BourgneMP06" mdate="2012-02-13">
+<author>Gauvain Bourgne</author>
+<author>Nicolas Maudet</author>
+<author>Suzanne Pinson</author>
+<title>Raffinement et propagation d'hypothèses entre agents.</title>
+<pages>163-166</pages>
+<year>2006</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2006</crossref>
+<url>db/conf/jfsma/jfsma2006.html#BourgneMP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eumas/BourgneMP05" mdate="2005-12-16">
+<author>Gauvain Bourgne</author>
+<author>Nicolas Maudet</author>
+<author>Suzanne Pinson</author>
+<title>Efficient Propagation of Uncertain Information (A rumor-based approach).</title>
+<pages>69-78</pages>
+<year>2005</year>
+<crossref>conf/eumas/2005</crossref>
+<booktitle>EUMAS</booktitle>
+<url>db/conf/eumas/eumas2005.html#BourgneMP05</url>
+</inproceedings>
+</r>
+<coauthors n="45" nc="1">
+<co c="0"><na f="b/Belloni:Aline">Aline Belloni</na></co>
+<co c="0"><na f="b/Berger:Alain">Alain Berger</na></co>
+<co c="0"><na f="b/Berreby:Fiona">Fiona Berreby</na></co>
+<co c="0"><na f="b/Boissier:Olivier">Olivier Boissier</na></co>
+<co c="0"><na f="b/Bonnet:Gr=eacute=gory">Grégory Bonnet</na></co>
+<co c="0"><na f="b/Boukhaled:Mohamed_Amine">Mohamed Amine Boukhaled</na></co>
+<co c="0"><na f="b/Bouthinon:Dominique">Dominique Bouthinon</na></co>
+<co c="0"><na f="c/Chardel:Pierre=Antoine">Pierre-Antoine Chardel</na></co>
+<co c="0"><na f="c/Corruble:Vincent">Vincent Corruble</na></co>
+<co c="0"><na f="c/Cotton:Jean=Pierre">Jean-Pierre Cotton</na></co>
+<co c="0"><na f="e/Evreux:Nicolas">Nicolas Evreux</na></co>
+<co c="0"><na f="f/Fallah=Seghrouchni:Amal_El">Amal El Fallah-Seghrouchni</na></co>
+<co c="0"><na f="f/Froidevaux:Christine">Christine Froidevaux</na></co>
+<co c="0"><na f="f/Frontini:Francesca">Francesca Frontini</na></co>
+<co c="0"><na f="g/Ganascia:Jean=Gabriel">Jean-Gabriel Ganascia</na></co>
+<co c="0"><na f="h/Hette:Ga=euml=l">Gaël Hette</na></co>
+<co c="0"><na f="i/Inoue:Katsumi">Katsumi Inoue</na></co>
+<co c="0"><na f="j/Jaillon:Philippe">Philippe Jaillon</na></co>
+<co c="0"><na f="k/Konieczny:S=eacute=bastien">Sébastien Konieczny</na></co>
+<co c="0"><na f="l/Lorthioir:Guillaume">Guillaume Lorthioir</na></co>
+<co c="0"><na f="m/Marquis:Pierre">Pierre Marquis</na></co>
+<co c="0"><na f="m/Maudet:Nicolas">Nicolas Maudet</na></co>
+<co c="0"><na f="m/Mermet:Bruno">Bruno Mermet</na></co>
+<co c="0"><na f="n/Nabeshima:Hidetomo">Hidetomo Nabeshima</na></co>
+<co c="0"><na f="o/Okamoto:Takayuki">Takayuki Okamoto</na></co>
+<co c="0"><na f="p/Picard:Gauthier">Gauthier Picard</na></co>
+<co c="0"><na f="p/Pinson:Suzanne">Suzanne Pinson</na></co>
+<co c="0"><na f="p/Poupon:Anne">Anne Poupon</na></co>
+<co c="0"><na f="r/Ravilly=Abadie:Guillaume">Guillaume Ravilly-Abadie</na></co>
+<co c="0"><na f="r/Rever:Bernard">Bernard Rever</na></co>
+<co c="0"><na f="r/Ribeiro:Tony">Tony Ribeiro</na></co>
+<co c="0"><na f="r/Rodrigues:Christophe">Christophe Rodrigues</na></co>
+<co c="0"><na f="r/Rougny:Adrien">Adrien Rougny</na></co>
+<co c="0"><na f="r/Rouveirol:C=eacute=line">Céline Rouveirol</na></co>
+<co c="0"><na f="s/Schwind:Nicolas">Nicolas Schwind</na></co>
+<co c="0"><na f="s/Simon:Ga=euml=le">Gaële Simon</na></co>
+<co c="0"><na f="s/Soldano:Henry">Henry Soldano</na></co>
+<co c="0"><na f="s/Swarte:Thibault_de">Thibault de Swarte</na></co>
+<co c="0"><na f="t/Tessier:Catherine">Catherine Tessier</na></co>
+<co c="0"><na f="t/Totsuka:Yutaro">Yutaro Totsuka</na></co>
+<co c="0"><na f="v/Veillon:Lise=Marie">Lise-Marie Veillon</na></co>
+<co c="0"><na f="v/Vexler:Fran=ccedil=ois">François Vexler</na></co>
+<co c="0"><na f="v/Voyer:Robert">Robert Voyer</na></co>
+<co c="0"><na f="y/Yamamoto:Yoshitaka">Yoshitaka Yamamoto</na></co>
+<co c="0"><na f="z/Zimmermann:Antoine">Antoine Zimmermann</na></co>
+</coauthors>
+</dblpperson>
+

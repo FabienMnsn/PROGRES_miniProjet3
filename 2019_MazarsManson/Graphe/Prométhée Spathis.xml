@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Prométhée Spathis" n="23">
+<person key="homepages/75/5725" mdate="2009-06-10">
+<author>Prométhée Spathis</author>
+</person>
+<r><article key="journals/comsur/BaronSAVA19" mdate="2019-04-12">
+<author orcid="0000-0002-7144-0674">Benjamin Baron</author>
+<author>Prométhée Spathis</author>
+<author orcid="0000-0003-3710-6805">Marcelo Dias de Amorim</author>
+<author>Yannis Viniotis</author>
+<author orcid="0000-0003-2803-300X">Mostafa H. Ammar</author>
+<title>Mobility as an Alternative Communication Channel: A Survey.</title>
+<pages>289-314</pages>
+<year>2019</year>
+<volume>21</volume>
+<journal>IEEE Communications Surveys and Tutorials</journal>
+<number>1</number>
+<url>db/journals/comsur/comsur21.html#BaronSAVA19</url>
+</article>
+</r>
+<r><article key="journals/jnca/BelouanasTSA19" mdate="2019-02-19">
+<author>Salah-Eddine Belouanas</author>
+<author>Kim Loan Thai</author>
+<author>Prométhée Spathis</author>
+<author>Marcelo Dias de Amorim</author>
+<title>Mobility-assisted offloading in centrally-coordinated cellular networks.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<volume>128</volume>
+<journal>J. Network and Computer Applications</journal>
+<url>db/journals/jnca/jnca128.html#BelouanasTSA19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-04587" mdate="2018-08-13">
+<author>Benjamin Baron</author>
+<author>Prométhée Spathis</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Yannis Viniotis</author>
+<author>Mostafa H. Ammar</author>
+<title>Mobility as an Alternative Communication Channel: A Survey.</title>
+<year>2018</year>
+<volume>abs/1802.04587</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.04587</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-04587</url>
+</article>
+</r>
+<r><article key="journals/adt/BelouanasBTSA17" mdate="2017-12-14">
+<author orcid="0000-0003-2872-4791">Salah-Eddine Belouanas</author>
+<author>Mehdi Bezahaf</author>
+<author>Kim Loan Thai</author>
+<author>Prométhée Spathis</author>
+<author>Marcelo Dias de Amorim</author>
+<title>Leveraging node gatherings to save cellular resources.</title>
+<pages>717-730</pages>
+<year>2017</year>
+<volume>72</volume>
+<journal>Annales des Télécommunications</journal>
+<number>11-12</number>
+<url>db/journals/adt/adt72.html#BelouanasBTSA17</url>
+</article>
+</r>
+<r><article key="journals/tnsm/BaronSRAVA17" mdate="2018-11-14">
+<author orcid="0000-0002-7144-0674">Benjamin Baron</author>
+<author>Prométhée Spathis</author>
+<author>Hervé Rivano</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Yannis Viniotis</author>
+<author>Mostafa H. Ammar</author>
+<title>Centrally Controlled Mass Data Offloading Using Vehicular Traffic.</title>
+<pages>401-415</pages>
+<year>2017</year>
+<volume>14</volume>
+<journal>IEEE Trans. Network and Service Management</journal>
+<number>2</number>
+<url>db/journals/tnsm/tnsm14.html#BaronSRAVA17</url>
+</article>
+</r>
+<r><book publtype="habil" key="books/hal/Spathis16" mdate="2017-09-30">
+<author>Prométhée Spathis</author>
+<title>Information Delivery: Past Struggles and New Directions.</title>
+<year>2016</year>
+<school>Pierre and Marie Curie University, Paris, France</school>
+</book>
+</r>
+<r><article key="journals/ton/BaronSRA16" mdate="2017-05-27">
+<author>Benjamin Baron</author>
+<author>Prométhée Spathis</author>
+<author>Hervé Rivano</author>
+<author>Marcelo Dias de Amorim</author>
+<title>Offloading Massive Data Onto Passenger Vehicles: Topology Simplification and Traffic Assignment.</title>
+<pages>3248-3261</pages>
+<year>2016</year>
+<volume>24</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>6</number>
+<url>db/journals/ton/ton24.html#BaronSRA16</url>
+</article>
+</r>
+<r><article key="journals/vcomm/BaronCSCADPV16" mdate="2018-11-14">
+<author>Benjamin Baron</author>
+<author>Miguel Elias M. Campista</author>
+<author>Prométhée Spathis</author>
+<author orcid="0000-0002-7789-3359">Luís Henrique Maciel Kosmalski Costa</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Otto Carlos M. B. Duarte</author>
+<author>Guy Pujolle</author>
+<author>Yannis Viniotis</author>
+<title>Virtualizing vehicular node resources: Feasibility study of virtual machine migration.</title>
+<pages>39-46</pages>
+<year>2016</year>
+<volume>4</volume>
+<journal>Vehicular Communications</journal>
+<url>db/journals/vcomm/vcomm4.html#BaronCSCADPV16</url>
+</article>
+</r>
+<r><inproceedings key="conf/mobicom/BaronSAA16" mdate="2017-03-14">
+<author>Benjamin Baron</author>
+<author>Prométhée Spathis</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Mostafa H. Ammar</author>
+<title>Cloud storage for mobile users using pre-positioned storage facilities.</title>
+<pages>11-16</pages>
+<year>2016</year>
+<booktitle>SmartObjects@MobiCom</booktitle>
+<crossref>conf/mobicom/2016smartobjects</crossref>
+<url>db/conf/mobicom/smartobjects2016.html#BaronSAA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/giis/SpathisBT15" mdate="2017-05-23">
+<author>Prométhée Spathis</author>
+<author>Salah-Eddine Belouanas</author>
+<author>Kim Loan Thai</author>
+<title>Leveraging replication in content-centric networks.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>GIIS</booktitle>
+<crossref>conf/giis/2015</crossref>
+<url>db/conf/giis/giis2015.html#SpathisBT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iswcs/BelouanasTSA15" mdate="2017-05-25">
+<author>Salah-Eddine Belouanas</author>
+<author>Kim Loan Thai</author>
+<author>Prométhée Spathis</author>
+<author>Marcelo Dias de Amorim</author>
+<title>SCoD: Saving cellular resources by delaying transmissions of popular content.</title>
+<pages>111-115</pages>
+<year>2015</year>
+<booktitle>ISWCS</booktitle>
+<crossref>conf/iswcs/2015</crossref>
+<url>db/conf/iswcs/iswcs2015.html#BelouanasTSA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adhocnets/BelouanasTSARD14" mdate="2017-05-19">
+<author>Salah-Eddine Belouanas</author>
+<author>Kim Loan Thai</author>
+<author>Prométhée Spathis</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Franck Rousseau</author>
+<author>Andrzej Duda</author>
+<title>Content Centricity in Constrained Cellular-Assisted D2D Communications.</title>
+<pages>134-145</pages>
+<year>2014</year>
+<booktitle>ADHOCNETS</booktitle>
+<crossref>conf/adhocnets/2014</crossref>
+<url>db/conf/adhocnets/adhocnets2014.html#BelouanasTSARD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/BaronSRA14" mdate="2017-05-21">
+<author>Benjamin Baron</author>
+<author>Prométhée Spathis</author>
+<author>Hervé Rivano</author>
+<author>Marcelo Dias de Amorim</author>
+<title>Vehicles as Big Data Carriers: Road Map Space Reduction and Efficient Data Assignment.</title>
+<pages>1-5</pages>
+<year>2014</year>
+<booktitle>VTC Fall</booktitle>
+<crossref>conf/vtc/2014f</crossref>
+<url>db/conf/vtc/vtc2014f.html#BaronSRA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wd/BaronSRAVC14" mdate="2017-05-25">
+<author>Benjamin Baron</author>
+<author>Prométhée Spathis</author>
+<author>Hervé Rivano</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Yannis Viniotis</author>
+<author>Joseph Clarke</author>
+<title>Software-defined vehicular backhaul.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>Wireless Days</booktitle>
+<crossref>conf/wd/2014</crossref>
+<url>db/conf/wd/wd2014.html#BaronSRAVC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aintec/SpathisGWF12" mdate="2018-11-06">
+<author>Prométhée Spathis</author>
+<author>Raul Adrian Gorcitz</author>
+<author>Ryuji Wakikawa</author>
+<author>Serge Fdida</author>
+<title>Dissecting dissemination in VANETs.</title>
+<pages>62-68</pages>
+<year>2012</year>
+<booktitle>AINTEC</booktitle>
+<crossref>conf/aintec/2012</crossref>
+<url>db/conf/aintec/aintec2012.html#SpathisGWF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vnc/GorcitzJSAWWCF12" mdate="2017-05-26">
+<author>Raul Adrian Gorcitz</author>
+<author>Yesid Jarma</author>
+<author>Prométhée Spathis</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Ryuji Wakikawa</author>
+<author>John Whitbeck</author>
+<author>Vania Conan</author>
+<author>Serge Fdida</author>
+<title>Vehicular carriers for big data transfers (Poster).</title>
+<pages>109-114</pages>
+<year>2012</year>
+<booktitle>VNC</booktitle>
+<crossref>conf/vnc/2012</crossref>
+<url>db/conf/vnc/vnc2012.html#GorcitzJSAWWCF12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieicet/DialloFS11" mdate="2018-09-29">
+<author>Mohamed Diallo</author>
+<author>Serge Fdida</author>
+<author>Prométhée Spathis</author>
+<title>Towards Extreme Scale Content-Based Networking for the Next Generation Internet.</title>
+<pages>2706-2714</pages>
+<year>2011</year>
+<volume>94-B</volume>
+<journal>IEICE Transactions</journal>
+<number>10</number>
+<url>db/journals/ieicet/ieicet94b.html#DialloFS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/aintec/SpathisG11" mdate="2018-11-06">
+<author>Prométhée Spathis</author>
+<author>Raul Adrian Gorcitz</author>
+<title>A data-driven analysis of YouTube community features.</title>
+<pages>12-18</pages>
+<year>2011</year>
+<booktitle>AINTEC</booktitle>
+<crossref>conf/aintec/2011</crossref>
+<url>db/conf/aintec/aintec2011.html#SpathisG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/GorcitzSAWF11" mdate="2017-05-24">
+<author>Raul Adrian Gorcitz</author>
+<author>Prométhée Spathis</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Ryuji Wakikawa</author>
+<author>Serge Fdida</author>
+<title>SERVUS: Reliable low-cost and disconnection-aware broadcasting in VANETs.</title>
+<pages>1760-1765</pages>
+<year>2011</year>
+<booktitle>IWCMC</booktitle>
+<crossref>conf/iwcmc/2011</crossref>
+<url>db/conf/iwcmc/iwcmc2011.html#GorcitzSAWF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/autonomics/BarouniS08" mdate="2018-11-26">
+<author>Yosra Barouni</author>
+<author>Prométhée Spathis</author>
+<title>Content-centric routing for the autonomic networks.</title>
+<pages>12</pages>
+<year>2008</year>
+<booktitle>Autonomics</booktitle>
+<crossref>conf/autonomics/2008</crossref>
+<url>db/conf/autonomics/autonomics2008.html#BarouniS08</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/SpathisT04" mdate="2017-05-20">
+<author>Prométhée Spathis</author>
+<author>Kim Loan Thai</author>
+<title>Multicast fiable : l'approche à soutien des routeurs.</title>
+<pages>733-761</pages>
+<year>2004</year>
+<volume>23</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>5-6</number>
+<url>db/journals/tsi/tsi23.html#SpathisT04</url>
+</article>
+</r>
+<r><inproceedings key="conf/rivf/SpathisT03" mdate="2005-12-14">
+<author>Prométhée Spathis</author>
+<author>Kim Loan Thai</author>
+<title>MAF: Un Protocole de Multicast Fiable.</title>
+<pages>1-6</pages>
+<year>2003</year>
+<crossref>conf/rivf/2003</crossref>
+<booktitle>RIVF</booktitle>
+<url>db/conf/rivf/rivf2003.html#SpathisT03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip6-2/HammiSZCST02" mdate="2005-12-14">
+<author>Rim Hammi</author>
+<author>Prométhée Spathis</author>
+<author>Dany Zebiane</author>
+<author>Ken Chen</author>
+<author>Ahmed Serhrouchni</author>
+<author>Kim Loan Thai</author>
+<title>Deployment and Experimentation of an active network at a: large scale: AMARRAGE.</title>
+<pages>141-152</pages>
+<year>2002</year>
+<crossref>conf/ifip6-2/2002</crossref>
+<booktitle>Net-Con</booktitle>
+<url>db/conf/ifip6-2/ifip6-2-2002.html#HammiSZCST02</url>
+</inproceedings>
+</r>
+<coauthors n="27" nc="1">
+<co c="0"><na f="a/Ammar:Mostafa_H=">Mostafa H. Ammar</na></co>
+<co c="0"><na f="a/Amorim:Marcelo_Dias_de">Marcelo Dias de Amorim</na></co>
+<co c="0"><na f="b/Baron:Benjamin">Benjamin Baron</na></co>
+<co c="-1"><na f="b/Barouni:Yosra">Yosra Barouni</na></co>
+<co c="0"><na f="b/Belouanas:Salah=Eddine">Salah-Eddine Belouanas</na></co>
+<co c="0"><na f="b/Bezahaf:Mehdi">Mehdi Bezahaf</na></co>
+<co c="0"><na f="c/Campista:Miguel_Elias_M=">Miguel Elias M. Campista</na></co>
+<co c="0"><na f="c/Chen:Ken">Ken Chen</na></co>
+<co c="0"><na f="c/Clarke:Joseph">Joseph Clarke</na></co>
+<co c="0"><na f="c/Conan:Vania">Vania Conan</na></co>
+<co c="0"><na f="c/Costa:Lu=iacute=s_Henrique_Maciel_Kosmalski">Luís Henrique Maciel Kosmalski Costa</na></co>
+<co c="0"><na f="d/Diallo:Mohamed">Mohamed Diallo</na></co>
+<co c="0" n="2"><na f="d/Duarte:Otto_Carlos_Muniz_Bandeira">Otto Carlos Muniz Bandeira Duarte</na><na>Otto Carlos M. B. Duarte</na></co>
+<co c="0"><na f="d/Duda:Andrzej">Andrzej Duda</na></co>
+<co c="0"><na f="f/Fdida:Serge">Serge Fdida</na></co>
+<co c="0"><na f="g/Gorcitz:Raul_Adrian">Raul Adrian Gorcitz</na></co>
+<co c="0"><na f="h/Hammi:Rim">Rim Hammi</na></co>
+<co c="0"><na f="j/Jarma:Yesid">Yesid Jarma</na></co>
+<co c="0"><na f="p/Pujolle:Guy">Guy Pujolle</na></co>
+<co c="0"><na f="r/Rivano:Herv=eacute=">Hervé Rivano</na></co>
+<co c="0"><na f="r/Rousseau:Franck">Franck Rousseau</na></co>
+<co c="0"><na f="s/Serhrouchni:Ahmed">Ahmed Serhrouchni</na></co>
+<co c="0"><na f="t/Thai:Kim_Loan">Kim Loan Thai</na></co>
+<co c="0"><na f="v/Viniotis:Yannis">Yannis Viniotis</na></co>
+<co c="0"><na f="w/Wakikawa:Ryuji">Ryuji Wakikawa</na></co>
+<co c="0"><na f="w/Whitbeck:John">John Whitbeck</na></co>
+<co c="0"><na f="z/Zebiane:Dany">Dany Zebiane</na></co>
+</coauthors>
+</dblpperson>
+

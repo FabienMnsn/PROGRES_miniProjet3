@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Camélia Constantin" n="24">
+<person key="homepages/32/4233" mdate="2009-06-10">
+<author>Camélia Constantin</author>
+</person>
+<r><inproceedings key="conf/hicss/ConstantinML19" mdate="2019-05-15">
+<author>Camélia Constantin</author>
+<author>Cédric du Mouza</author>
+<author>Yifan Li</author>
+<title>A Label-based Edge Partitioning for Multi-Layer Graphs.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<booktitle>HICSS</booktitle>
+<ee type="oa">http://hdl.handle.net/10125/59660</ee>
+<crossref>conf/hicss/2019</crossref>
+<url>db/conf/hicss/hicss2019.html#ConstantinML19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/GrossettiCMT18" mdate="2019-09-25">
+<author>Quentin Grossetti</author>
+<author>Camélia Constantin</author>
+<author>Cédric du Mouza</author>
+<author orcid="0000-0002-3502-151X">Nicolas Travers</author>
+<title>An Homophily-based Approach for Fast Post Recommendation on Twitter.</title>
+<pages>229-240</pages>
+<year>2018</year>
+<booktitle>EDBT</booktitle>
+<crossref>conf/edbt/2018</crossref>
+<url>db/conf/edbt/edbt2018.html#GrossettiCMT18</url>
+</inproceedings>
+</r>
+<r><article key="journals/isi/LiCM17" mdate="2017-11-14">
+<author>Yifan Li</author>
+<author>Camélia Constantin</author>
+<author>Cédric du Mouza</author>
+<title>Un partitionnement d'arêtes à base de blocs pour les algorithmes de marches aléatoires dans les grands graphes sociaux.</title>
+<pages>89-113</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>3</number>
+<url>db/journals/isi/isi22.html#LiCM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ssdbm/LiCM17" mdate="2018-11-06">
+<author>Yifan Li</author>
+<author>Camélia Constantin</author>
+<author>Cédric du Mouza</author>
+<title>SGVCut: A Vertex-Cut Partitioning Tool for Random Walks-based Computations over Social Network graphs.</title>
+<pages>39:1-39:4</pages>
+<year>2017</year>
+<booktitle>SSDBM</booktitle>
+<crossref>conf/ssdbm/2017</crossref>
+<url>db/conf/ssdbm/ssdbm2017.html#LiCM17</url>
+</inproceedings>
+</r>
+<r><article key="journals/isi/ConstantinDMG16" mdate="2017-05-28">
+<author>Camélia Constantin</author>
+<author>Ryadh Dahimene</author>
+<author>Cédric du Mouza</author>
+<author>Quentin Grossetti</author>
+<title>Recommandation contextuelle d'utilisateurs pour les plateformes de micro-blogging.</title>
+<pages>93-118</pages>
+<year>2016</year>
+<volume>21</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>3</number>
+<url>db/journals/isi/isi21.html#ConstantinDMG16</url>
+</article>
+</r>
+<r><article key="journals/jcst/ConstantinMLRS16" mdate="2017-05-28">
+<author>Camélia Constantin</author>
+<author>Cédric du Mouza</author>
+<author>Witold Litwin</author>
+<author>Philippe Rigaux</author>
+<author>Thomas J. E. Schwarz</author>
+<title>AS-Index: A Structure for String Search Using n-Grams and Algebraic Signatures.</title>
+<pages>147-166</pages>
+<year>2016</year>
+<volume>31</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>1</number>
+<url>db/journals/jcst/jcst31.html#ConstantinMLRS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/ConstantinDGM16" mdate="2017-05-21">
+<author>Camélia Constantin</author>
+<author>Ryadh Dahimene</author>
+<author>Quentin Grossetti</author>
+<author>Cédric du Mouza</author>
+<title>Finding Users of Interest in Micro-blogging Systems.</title>
+<pages>5-16</pages>
+<year>2016</year>
+<booktitle>EDBT</booktitle>
+<crossref>conf/edbt/2016</crossref>
+<url>db/conf/edbt/edbt2016.html#ConstantinDGM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/LiCM16" mdate="2017-05-25">
+<author>Yifan Li</author>
+<author>Camélia Constantin</author>
+<author>Cédric du Mouza</author>
+<title>A Block-Based Edge Partitioning for Random Walks Algorithms over Large Social Graphs.</title>
+<pages>275-289</pages>
+<year>2016</year>
+<booktitle>WISE (2)</booktitle>
+<crossref>conf/wise/2016-2</crossref>
+<url>db/conf/wise/wise2016-2.html#LiCM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/DahimeneCM14" mdate="2018-11-06">
+<author>Ryadh Dahimene</author>
+<author>Camélia Constantin</author>
+<author>Cédric du Mouza</author>
+<title>RecLand: A Recommender System for Social Networks.</title>
+<pages>2063-2065</pages>
+<year>2014</year>
+<booktitle>CIKM</booktitle>
+<crossref>conf/cikm/2014</crossref>
+<url>db/conf/cikm/cikm2014.html#DahimeneCM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/CaronACG14" mdate="2017-05-21">
+<author>Clément Caron</author>
+<author>Bernd Amann</author>
+<author>Camélia Constantin</author>
+<author>Patrick Giroux</author>
+<title>WePIGE: The WebLab Provenance Information Generator and Explorer.</title>
+<pages>664-667</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#CaronACG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/CaronACGS14" mdate="2017-05-25">
+<author>Clément Caron</author>
+<author>Bernd Amann</author>
+<author>Camélia Constantin</author>
+<author>Patrick Giroux</author>
+<author>André Santanchè</author>
+<title>Provenance-Based Quality Assessment and Inference in Data-Centric Workflow Executions.</title>
+<pages>130-147</pages>
+<year>2014</year>
+<booktitle>OTM Conferences</booktitle>
+<crossref>conf/otm/2014</crossref>
+<url>db/conf/otm/otm2014.html#CaronACGS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/AmannCCG13" mdate="2018-11-06">
+<author>Bernd Amann</author>
+<author>Camélia Constantin</author>
+<author>Clément Caron</author>
+<author>Patrick Giroux</author>
+<title>WebLab PROV: computing fine-grained provenance links for XML artifacts.</title>
+<pages>298-306</pages>
+<year>2013</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<crossref>conf/edbt/2013w</crossref>
+<url>db/conf/edbt/edbtw2013.html#AmannCCG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/ConstantinMRTT12" mdate="2018-11-06">
+<author>Camélia Constantin</author>
+<author>Cédric du Mouza</author>
+<author>Philippe Rigaux</author>
+<author>Virginie Thion-Goasdoué</author>
+<author orcid="0000-0002-3502-151X">Nicolas Travers</author>
+<title>A desktop interface over distributed document repositories.</title>
+<pages>606-609</pages>
+<year>2012</year>
+<booktitle>EDBT</booktitle>
+<crossref>conf/edbt/2012</crossref>
+<url>db/conf/edbt/edbt2012.html#ConstantinMRTT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismir/ConstantinMFR11" mdate="2011-12-06">
+<author>Camélia Constantin</author>
+<author>Cédric du Mouza</author>
+<author>Zoé Faget</author>
+<author>Philippe Rigaux</author>
+<title>The Melodic Signature Index for Fast Content-based Retrieval of Symbolic Scores Camelia Constantin.</title>
+<pages>363-368</pages>
+<year>2011</year>
+<booktitle>ISMIR</booktitle>
+<crossref>conf/ismir/2011</crossref>
+<url>db/conf/ismir/ismir2011.html#ConstantinMFR11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/LafayeGCG08" mdate="2017-05-20">
+<author>Julien Lafaye</author>
+<author>David Gross-Amblard</author>
+<author>Camélia Constantin</author>
+<author>Meryem Guerrouani</author>
+<title>Watermill: An Optimized Fingerprinting System for Databases under Constraints.</title>
+<pages>532-546</pages>
+<year>2008</year>
+<volume>20</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<url>db/journals/tkde/tkde20.html#LafayeGCG08</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/ConstantinA08" mdate="2018-11-06">
+<author>Camélia Constantin</author>
+<author>Bernd Amann</author>
+<title>Usage-based ranking of distributed XML data.</title>
+<pages>1008-1012</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#ConstantinA08</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Constantin07" mdate="2016-08-03">
+<author>Camélia Constantin</author>
+<title>Classement de Services et de Données par leur Utilsation. (Usage-based ranking of services and data).</title>
+<year>2007</year>
+<school>Pierre and Marie Curie University, Paris, France</school>
+</phdthesis>
+</r>
+<r><article key="journals/isi/ConstantinAG07" mdate="2017-05-28">
+<author>Camélia Constantin</author>
+<author>Bernd Amann</author>
+<author>David Gross-Amblard</author>
+<title>Un modèle de classement de services par contribution et utilité.</title>
+<pages>33-60</pages>
+<year>2007</year>
+<volume>12</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>1</number>
+<url>db/journals/isi/isi12.html#ConstantinAG07</url>
+</article>
+</r>
+<r><inproceedings key="conf/bda/ConstantinA07" mdate="2009-02-02">
+<author>Camélia Constantin</author>
+<author>Bernd Amann</author>
+<title>A collaborative caching policy based on path materialization scores.</title>
+<year>2007</year>
+<booktitle>BDA</booktitle>
+<crossref>conf/bda/2007</crossref>
+<url>db/conf/bda/bda2007.html#ConstantinA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/AmannC07" mdate="2017-05-25">
+<author>Bernd Amann</author>
+<author>Camélia Constantin</author>
+<title>Collaborative Cache Based on Path Scores.</title>
+<pages>87-98</pages>
+<year>2007</year>
+<crossref>conf/wise/2007</crossref>
+<booktitle>WISE</booktitle>
+<url>db/conf/wise/wise2007.html#AmannC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/ConstantinAG06" mdate="2006-09-14">
+<author>Camélia Constantin</author>
+<author>Bernd Amann</author>
+<author>David Gross-Amblard</author>
+<title>A Link-based Ranking Model for Services.</title>
+<year>2006</year>
+<crossref>conf/bda/2006</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2006.html#ConstantinAG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/ConstantinAG06" mdate="2017-05-25">
+<author>Camélia Constantin</author>
+<author>Bernd Amann</author>
+<author>David Gross-Amblard</author>
+<title>A Link-Based Ranking Model for Services.</title>
+<pages>327-344</pages>
+<year>2006</year>
+<crossref>conf/otm/2006-1</crossref>
+<booktitle>OTM Conferences (1)</booktitle>
+<url>db/conf/otm/otm2006-1.html#ConstantinAG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/ConstantinGG05" mdate="2006-07-05">
+<author>Camélia Constantin</author>
+<author>David Gross-Amblard</author>
+<author>Meryem Guerrouani</author>
+<title>Watermill: an optimized fingerprinting system for highly constrained data.</title>
+<year>2005</year>
+<crossref>conf/bda/2005</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2005.html#ConstantinGG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmsec/ConstantinGG05" mdate="2018-11-06">
+<author>Camélia Constantin</author>
+<author>David Gross-Amblard</author>
+<author>Meryem Guerrouani</author>
+<title>Watermill: an optimized fingerprinting system for highly constrained data.</title>
+<pages>143-155</pages>
+<year>2005</year>
+<crossref>conf/mmsec/2005</crossref>
+<booktitle>MMandSec</booktitle>
+<url>db/conf/mmsec/mmsec2005.html#ConstantinGG05</url>
+</inproceedings>
+</r>
+<coauthors n="17" nc="1">
+<co c="0"><na f="a/Amann:Bernd">Bernd Amann</na></co>
+<co c="0"><na f="c/Caron:Cl=eacute=ment">Clément Caron</na></co>
+<co c="0"><na f="d/Dahimene:Ryadh">Ryadh Dahimene</na></co>
+<co c="0"><na f="f/Faget:Zo=eacute=">Zoé Faget</na></co>
+<co c="0"><na f="g/Giroux:Patrick">Patrick Giroux</na></co>
+<co c="0"><na f="g/Gross=Amblard:David">David Gross-Amblard</na></co>
+<co c="0"><na f="g/Grossetti:Quentin">Quentin Grossetti</na></co>
+<co c="0"><na f="g/Guerrouani:Meryem">Meryem Guerrouani</na></co>
+<co c="0"><na f="l/Lafaye:Julien">Julien Lafaye</na></co>
+<co c="0"><na f="l/Li:Yifan">Yifan Li</na></co>
+<co c="0"><na f="l/Litwin:Witold">Witold Litwin</na></co>
+<co c="0"><na f="m/Mouza:C=eacute=dric_du">Cédric du Mouza</na></co>
+<co c="0"><na f="r/Rigaux:Philippe">Philippe Rigaux</na></co>
+<co c="0"><na f="s/Santanch=egrave=:Andr=eacute=">André Santanchè</na></co>
+<co c="0"><na f="s/Schwarz:Thomas_J=_E=">Thomas J. E. Schwarz</na></co>
+<co c="0" n="2"><na f="t/Thion:Virginie">Virginie Thion</na><na>Virginie Thion-Goasdoué</na></co>
+<co c="0"><na f="t/Travers:Nicolas">Nicolas Travers</na></co>
+</coauthors>
+</dblpperson>
+

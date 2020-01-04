@@ -1,0 +1,636 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Lélia Blin" n="49">
+<person key="homepages/b/LeliaBlin" mdate="2018-10-02">
+<author>Lélia Blin</author>
+<url>http://www.lami.univ-evry.fr/~lblin/</url>
+<url>https://orcid.org/0000-0003-0342-9243</url>
+</person>
+<r><article key="journals/tcs/BampasBCILPT19" mdate="2018-11-30">
+<author>Evangelos Bampas</author>
+<author>Lélia Blin</author>
+<author>Jurek Czyzowicz</author>
+<author>David Ilcinkas</author>
+<author>Arnaud Labourel</author>
+<author>Maria Potop-Butucaru</author>
+<author orcid="0000-0002-0948-7172">Sébastien Tixeuil</author>
+<title>On asynchronous rendezvous in general graphs.</title>
+<pages>80-90</pages>
+<year>2019</year>
+<volume>753</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs753.html#BampasBCILPT19</url>
+</article>
+</r>
+<r><inproceedings key="conf/wdag/BlinFB19" mdate="2019-10-12">
+<author>Lélia Blin</author>
+<author orcid="0000-0002-3994-0898">Laurent Feuilloley</author>
+<author>Gabriel Le Bouder</author>
+<title>Brief Announcement: Memory Lower Bounds for Self-Stabilization.</title>
+<pages>37:1-37:3</pages>
+<year>2019</year>
+<booktitle>DISC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.DISC.2019.37</ee>
+<crossref>conf/wdag/2019</crossref>
+<url>db/conf/wdag/disc2019.html#BlinFB19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-08563" mdate="2019-05-29">
+<author>Lélia Blin</author>
+<author>Laurent Feuilloley</author>
+<author>Gabriel Le Bouder</author>
+<title>Memory Lower Bounds for Self-Stabilization.</title>
+<year>2019</year>
+<volume>abs/1905.08563</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.08563</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-08563</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-08565" mdate="2019-05-29">
+<author>Lélia Blin</author>
+<author>Swan Dubois</author>
+<author>Laurent Feuilloley</author>
+<title>Silent MST approximation for tiny memory.</title>
+<year>2019</year>
+<volume>abs/1905.08565</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.08565</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-08565</url>
+</article>
+</r>
+<r><article key="journals/dc/BlinT18" mdate="2018-03-15">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Compact deterministic self-stabilizing leader election on a ring: the exponential advantage of being talkative.</title>
+<pages>139-166</pages>
+<year>2018</year>
+<volume>31</volume>
+<journal>Distributed Computing</journal>
+<number>2</number>
+<url>db/journals/dc/dc31.html#BlinT18</url>
+</article>
+</r>
+<r><article key="journals/jpdc/BlinBD18" mdate="2018-11-30">
+<author>Lélia Blin</author>
+<author>Fadwa Boubekeur</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<title>A self-stabilizing memory efficient algorithm for the minimum diameter spanning tree under an omnipotent daemon.</title>
+<pages>50-62</pages>
+<year>2018</year>
+<volume>117</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<url>db/journals/jpdc/jpdc117.html#BlinBD18</url>
+</article>
+</r>
+<r><inproceedings key="conf/latin/BlinT18" mdate="2018-04-11">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Compact Self-Stabilizing Leader Election for General Networks.</title>
+<pages>161-173</pages>
+<year>2018</year>
+<booktitle>LATIN</booktitle>
+<crossref>conf/latin/2018</crossref>
+<url>db/conf/latin/latin2018.html#BlinT18</url>
+</inproceedings>
+</r>
+<r><article key="journals/algorithmica/BlinBN17" mdate="2017-07-26">
+<author orcid="0000-0003-0342-9243">Lélia Blin</author>
+<author>Janna Burman</author>
+<author>Nicolas Nisse</author>
+<title>Exclusive Graph Searching.</title>
+<pages>942-969</pages>
+<year>2017</year>
+<volume>77</volume>
+<journal>Algorithmica</journal>
+<number>3</number>
+<url>db/journals/algorithmica/algorithmica77.html#BlinBN17</url>
+</article>
+</r>
+<r><inproceedings key="conf/wdag/BlinT17" mdate="2018-08-23">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief Announcement: Compact Self-Stabilizing Leader Election in Arbitrary Graphs.</title>
+<pages>43:1-43:3</pages>
+<year>2017</year>
+<booktitle>DISC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.DISC.2017.43</ee>
+<crossref>conf/wdag/2017</crossref>
+<url>db/conf/wdag/disc2017.html#BlinT17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BlinT17" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Compact Self-Stabilizing Leader Election for Arbitrary Networks.</title>
+<year>2017</year>
+<volume>abs/1702.07605</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.07605</ee>
+<url>db/journals/corr/corr1702.html#BlinT17</url>
+</article>
+</r>
+<r><article key="journals/cj/BlinPRT16" mdate="2017-05-20">
+<author>Lélia Blin</author>
+<author>Maria Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<author>Sébastien Tixeuil</author>
+<title>A New Self-Stabilizing Minimum Spanning Tree Construction with Loop-Free Property.</title>
+<pages>225-243</pages>
+<year>2016</year>
+<volume>59</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj59.html#BlinPRT16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/BlinF15" mdate="2017-05-21">
+<author>Lélia Blin</author>
+<author>Pierre Fraigniaud</author>
+<title>Space-Optimal Time-Efficient Silent Self-Stabilizing Constructions of Constrained Spanning Trees.</title>
+<pages>589-598</pages>
+<year>2015</year>
+<booktitle>ICDCS</booktitle>
+<crossref>conf/icdcs/2015</crossref>
+<url>db/conf/icdcs/icdcs2015.html#BlinF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/BlinBD15" mdate="2018-11-02">
+<author>Lélia Blin</author>
+<author>Fadwa Boubekeur</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<title>A Self-Stabilizing Memory Efficient Algorithm for the Minimum Diameter Spanning Tree under an Omnipotent Daemon.</title>
+<pages>1065-1074</pages>
+<year>2015</year>
+<booktitle>IPDPS</booktitle>
+<crossref>conf/ipps/2015</crossref>
+<url>db/conf/ipps/ipdps2015.html#BlinBD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/BoubekeurBLM15" mdate="2018-11-06">
+<author>Fadwa Boubekeur</author>
+<author>Lélia Blin</author>
+<author>Rémy Léone</author>
+<author>Paolo Medagliani</author>
+<title>Bounding Degrees on RPL.</title>
+<pages>123-130</pages>
+<year>2015</year>
+<booktitle>Q2SWinet@MSWiM</booktitle>
+<crossref>conf/mswim/2015q</crossref>
+<url>db/conf/mswim/q2swinet2015.html#BoubekeurBLM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BlinFP14" mdate="2017-05-25">
+<author>Lélia Blin</author>
+<author>Pierre Fraigniaud</author>
+<author>Boaz Patt-Shamir</author>
+<title>On Proof-Labeling Schemes versus Silent Self-stabilizing Algorithms.</title>
+<pages>18-32</pages>
+<year>2014</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2014</crossref>
+<url>db/conf/sss/sss2014.html#BlinFP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BlinF14" mdate="2015-11-20">
+<author>Lélia Blin</author>
+<author>Pierre Fraigniaud</author>
+<title>Space-Optimal Silent Self-stabilizing Spanning Tree Constructions Inspired by Proof-Labeling Schemes.</title>
+<pages>565-566</pages>
+<year>2014</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2014</crossref>
+<url>db/conf/wdag/disc2014.html#BlinF14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BlinT14" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Compact Deterministic Self-Stabilizing Leader Election: The Exponential Advantage of Being Talkative.</title>
+<year>2014</year>
+<volume>abs/1401.4972</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1401.4972</ee>
+<url>db/journals/corr/corr1401.html#BlinT14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BlinF14" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Pierre Fraigniaud</author>
+<title>Polynomial-Time Space-Optimal Silent Self-Stabilizing Minimum-Degree Spanning Tree Construction.</title>
+<year>2014</year>
+<volume>abs/1402.2496</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1402.2496</ee>
+<url>db/journals/corr/corr1402.html#BlinF14</url>
+</article>
+</r>
+<r><article key="journals/tcs/BlinPR13" mdate="2017-05-28">
+<author>Lélia Blin</author>
+<author>Maria Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<title>A super-stabilizing log(<i>n</i>)log(n)-approximation algorithm for dynamic Steiner trees.</title>
+<pages>90-112</pages>
+<year>2013</year>
+<volume>500</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs500.html#BlinPR13</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/BlinBN13" mdate="2017-05-26">
+<author>Lélia Blin</author>
+<author>Janna Burman</author>
+<author>Nicolas Nisse</author>
+<title>Exclusive Graph Searching.</title>
+<pages>181-192</pages>
+<year>2013</year>
+<booktitle>ESA</booktitle>
+<crossref>conf/esa/2013</crossref>
+<url>db/conf/esa/esa2013.html#BlinBN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/BlinT13" mdate="2018-11-06">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief announcement: deterministic self-stabilizing leader election with O(log log n)-bits.</title>
+<pages>125-127</pages>
+<year>2013</year>
+<booktitle>PODC</booktitle>
+<crossref>conf/podc/2013</crossref>
+<url>db/conf/podc/podc2013.html#BlinT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BlinT13" mdate="2017-05-19">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Compact Deterministic Self-stabilizing Leader Election - The Exponential Advantage of Being Talkative.</title>
+<pages>76-90</pages>
+<year>2013</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2013</crossref>
+<url>db/conf/wdag/disc2013.html#BlinT13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Blin13" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<title>Algorithmes auto-stabilisants pour la construction d'arbres couvrants et la gestion d'entités autonomes.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.2494</ee>
+<volume>abs/1310.2494</volume>
+<url>db/journals/corr/corr1310.html#Blin13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BlinDPR13" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Shlomi Dolev</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<title>Fast Self-Stabilizing Minimum Spanning Tree Construction Using Compact Nearest Common Ancestor Labeling Scheme.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1311.0798</ee>
+<volume>abs/1311.0798</volume>
+<url>db/journals/corr/corr1311.html#BlinDPR13</url>
+</article>
+</r>
+<r><inproceedings key="conf/wdag/BlinBN12" mdate="2017-05-19">
+<author>Lélia Blin</author>
+<author>Janna Burman</author>
+<author>Nicolas Nisse</author>
+<title>Brief Announcement: Distributed Exclusive and Perpetual Tree Searching.</title>
+<pages>403-404</pages>
+<year>2012</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2012</crossref>
+<url>db/conf/wdag/disc2012.html#BlinBN12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/tadds/2012" mdate="2012-12-18">
+<editor>Lélia Blin</editor>
+<editor>Yann Busnel</editor>
+<title>4th Workshop on Theoretical Aspects of Dynamic Distributed Systems, TADDS '12, Roma, Italy, December 17, 2012</title>
+<publisher>ACM</publisher>
+<booktitle>TADDS</booktitle>
+<year>2012</year>
+<isbn>978-1-4503-1849-5</isbn>
+<url>db/conf/tadds/tadds2012.html</url>
+</proceedings>
+</r>
+<r><book publtype="habil" key="books/hal/Blin11" mdate="2017-09-29">
+<author>Lélia Blin</author>
+<title>Algorithmes auto-stabilisants pour la construction d'arbres couvrants et la gestion d'entités autonomes. (Self-stabilizing algorithms for spanning tree construction and for the management of mobile entities).</title>
+<year>2011</year>
+<school>Pierre and Marie Curie University, Paris, France</school>
+</book>
+</r>
+<r><article key="journals/jpdc/BlinPR11" mdate="2017-05-26">
+<author>Lélia Blin</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<title>Self-stabilizing minimum degree spanning tree within one from the optimal degree.</title>
+<pages>438-449</pages>
+<year>2011</year>
+<volume>71</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<number>3</number>
+<url>db/journals/jpdc/jpdc71.html#BlinPR11</url>
+</article>
+</r>
+<r><article key="journals/cj/BlinLRT10" mdate="2017-05-20">
+<author>Lélia Blin</author>
+<author>Christian Laforest</author>
+<author>Stephane Rovedakis</author>
+<author>Nicolas Thibault</author>
+<title>Hardness Results and Heuristic for Multi-groups Interconnection.</title>
+<pages>1497-1507</pages>
+<year>2010</year>
+<volume>53</volume>
+<journal>Comput. J.</journal>
+<number>9</number>
+<url>db/journals/cj/cj53.html#BlinLRT10</url>
+</article>
+</r>
+<r><inproceedings key="conf/sss/BlinPRT10" mdate="2017-05-25">
+<author>Lélia Blin</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<author>Sébastien Tixeuil</author>
+<title>Loop-Free Super-Stabilizing Spanning Tree Construction.</title>
+<pages>50-64</pages>
+<year>2010</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2010</crossref>
+<url>db/conf/sss/sss2010.html#BlinPRT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BlinMPT10" mdate="2017-05-19">
+<author>Lélia Blin</author>
+<author>Alessia Milani</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Exclusive Perpetual Ring Exploration without Chirality.</title>
+<pages>312-327</pages>
+<year>2010</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2010</crossref>
+<url>db/conf/wdag/disc2010.html#BlinMPT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BlinDPR10" mdate="2017-05-19">
+<author>Lélia Blin</author>
+<author>Shlomi Dolev</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<title>Fast Self-stabilizing Minimum Spanning Tree Construction - Using Compact Nearest Common Ancestor Labeling Scheme.</title>
+<pages>480-494</pages>
+<year>2010</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2010</crossref>
+<url>db/conf/wdag/disc2010.html#BlinDPR10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3009" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Maria Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<author>Sébastien Tixeuil</author>
+<title>Universal Loop-Free Super-Stabilization</title>
+<ee type="oa">http://arxiv.org/abs/1006.3009</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3009</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3009</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3141" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Shlomi Dolev</author>
+<author>Maria Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<title>Fast Self-Stabilizing Minimum Spanning Tree Construction</title>
+<ee type="oa">http://arxiv.org/abs/1006.3141</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3141</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3141</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/BlinPR09" mdate="2017-05-24">
+<author>Lélia Blin</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<title>Self-stabilizing minimum-degree spanning tree within one from the optimal degree.</title>
+<pages>1-11</pages>
+<year>2009</year>
+<booktitle>IPDPS</booktitle>
+<crossref>conf/ipps/2009</crossref>
+<url>db/conf/ipps/ipdps2009.html#BlinPR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BlinPR09" mdate="2017-05-25">
+<author>Lélia Blin</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<title>A Superstabilizing log(<i>n</i>)-Approximation Algorithm for Dynamic Steiner Trees.</title>
+<pages>133-148</pages>
+<year>2009</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2009</crossref>
+<url>db/conf/sss/sss2009.html#BlinPR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BlinPRT09" mdate="2017-05-19">
+<author>Lélia Blin</author>
+<author>Maria Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<author>Sébastien Tixeuil</author>
+<title>A New Self-stabilizing Minimum Spanning Tree Construction with Loop-Free Property.</title>
+<pages>407-422</pages>
+<year>2009</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2009</crossref>
+<url>db/conf/wdag/disc2009.html#BlinPRT09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0902-3528" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<title>A Superstabilizing $\log(n)$-Approximation Algorithm for Dynamic Steiner Trees</title>
+<ee type="oa">http://arxiv.org/abs/0902.3528</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0902.3528</volume>
+<url>db/journals/corr/corr0902.html#abs-0902-3528</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0905-2287" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<author>Sébastien Tixeuil</author>
+<title>A New Self-Stabilizing Minimum Spanning Tree Construction with Loop-free Property</title>
+<ee type="oa">http://arxiv.org/abs/0905.2287</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0905.2287</volume>
+<url>db/journals/corr/corr0905.html#abs-0905-2287</url>
+</article>
+</r>
+<r><article key="journals/tcs/BlinFNV08" mdate="2017-05-28">
+<author>Lélia Blin</author>
+<author>Pierre Fraigniaud</author>
+<author>Nicolas Nisse</author>
+<author>Sandrine Vial</author>
+<title>Distributed chasing of network intruders.</title>
+<pages>12-37</pages>
+<year>2008</year>
+<volume>399</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs399.html#BlinFNV08</url>
+</article>
+</r>
+<r><inproceedings key="conf/opodis/BlinPT07" mdate="2017-05-17">
+<author>Lélia Blin</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>On the Self-stabilization of Mobile Robots in Graphs.</title>
+<pages>301-314</pages>
+<year>2007</year>
+<booktitle>OPODIS</booktitle>
+<crossref>conf/opodis/2007</crossref>
+<url>db/conf/opodis/opodis2007.html#BlinPT07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0708-0909" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>On the Self-stabilization of Mobile Robots in Graphs</title>
+<ee type="oa">http://arxiv.org/abs/0708.0909</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0708.0909</volume>
+<url>db/journals/corr/corr0708.html#abs-0708-0909</url>
+</article>
+</r>
+<r><article key="journals/ipl/AngelBBG06" mdate="2017-05-26">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Lélia Blin</author>
+<author>Laurent Gourvès</author>
+<title>Fair cost-sharing methods for the minimum spanning tree game.</title>
+<pages>29-35</pages>
+<year>2006</year>
+<volume>100</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl100.html#AngelBBG06</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/BailleBL06" mdate="2017-05-24">
+<author>Fabien Baille</author>
+<author>Lélia Blin</author>
+<author>Christian Laforest</author>
+<title>Distributed Approximation Allocation Resources Algorithm for Connecting Groups.</title>
+<pages>519-529</pages>
+<year>2006</year>
+<crossref>conf/europar/2006</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2006.html#BailleBL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/BlinFNV06" mdate="2017-05-21">
+<author>Lélia Blin</author>
+<author>Pierre Fraigniaud</author>
+<author>Nicolas Nisse</author>
+<author>Sandrine Vial</author>
+<title>Distributed Chasing of Network Intruders.</title>
+<pages>70-84</pages>
+<year>2006</year>
+<crossref>conf/sirocco/2006</crossref>
+<booktitle>SIROCCO</booktitle>
+<url>db/conf/sirocco/sirocco2006.html#BlinFNV06</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijfcs/BlinB04" mdate="2017-05-27">
+<author>Lélia Blin</author>
+<author>Franck Butelle</author>
+<title>The First Approximated Distributed Algorithm For The Minimum Degree Spanning Tree Problem On General Graphs.</title>
+<pages>507-516</pages>
+<year>2004</year>
+<volume>15</volume>
+<journal>Int. J. Found. Comput. Sci.</journal>
+<number>3</number>
+<url>db/journals/ijfcs/ijfcs15.html#BlinB04</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/BlinB03" mdate="2017-05-24">
+<author>Lélia Blin</author>
+<author>Franck Butelle</author>
+<title>The First Approximated Distributed Algorithm for the Minimum Degree Spanning Tree Problem on General Graphs.</title>
+<pages>161</pages>
+<year>2003</year>
+<crossref>conf/ipps/2003</crossref>
+<booktitle>IPDPS</booktitle>
+<url>db/conf/ipps/ipdps2003.html#BlinB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BlinCV03" mdate="2017-05-25">
+<author>Lélia Blin</author>
+<author>Alain Cournier</author>
+<author>Vincent Villain</author>
+<title>An Improved Snap-Stabilizing PIF Algorithm.</title>
+<pages>199-214</pages>
+<year>2003</year>
+<crossref>conf/sss/2003</crossref>
+<booktitle>Self-Stabilizing Systems</booktitle>
+<url>db/conf/sss/sss2003.html#BlinCV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/BlinB01" mdate="2005-09-26">
+<author>Lélia Blin</author>
+<author>Franck Butelle</author>
+<title>A Very Fast (Linear Time) Distributed Algorithm, on General Graphs, for the Minimum-Weight Spanning Tree.</title>
+<pages>113-124</pages>
+<year>2001</year>
+<crossref>conf/opodis/2001</crossref>
+<booktitle>OPODIS</booktitle>
+<url>db/conf/opodis/opodis01.html#BlinB01</url>
+</inproceedings>
+</r>
+<coauthors n="30" nc="1">
+<co c="0"><na f="a/Angel:Eric">Eric Angel</na></co>
+<co c="0"><na f="b/Baille:Fabien">Fabien Baille</na></co>
+<co c="0"><na f="b/Bampas:Evangelos">Evangelos Bampas</na></co>
+<co c="0"><na f="b/Bampis:Evripidis">Evripidis Bampis</na></co>
+<co c="0"><na f="b/Boubekeur:Fadwa">Fadwa Boubekeur</na></co>
+<co c="0"><na f="b/Bouder:Gabriel_Le">Gabriel Le Bouder</na></co>
+<co c="0"><na f="b/Burman:Janna">Janna Burman</na></co>
+<co c="-1"><na f="b/Busnel:Yann">Yann Busnel</na></co>
+<co c="-1"><na f="b/Butelle:Franck">Franck Butelle</na></co>
+<co c="0"><na f="c/Cournier:Alain">Alain Cournier</na></co>
+<co c="0"><na f="c/Czyzowicz:Jurek">Jurek Czyzowicz</na></co>
+<co c="0"><na f="d/Dolev:Shlomi">Shlomi Dolev</na></co>
+<co c="0"><na f="d/Dubois:Swan">Swan Dubois</na></co>
+<co c="0"><na f="f/Feuilloley:Laurent">Laurent Feuilloley</na></co>
+<co c="0"><na f="f/Fraigniaud:Pierre">Pierre Fraigniaud</na></co>
+<co c="0"><na f="g/Gourv=egrave=s:Laurent">Laurent Gourvès</na></co>
+<co c="0"><na f="i/Ilcinkas:David">David Ilcinkas</na></co>
+<co c="0"><na f="l/Labourel:Arnaud">Arnaud Labourel</na></co>
+<co c="0"><na f="l/Laforest:Christian">Christian Laforest</na></co>
+<co c="0"><na f="l/L=eacute=one:R=eacute=my">Rémy Léone</na></co>
+<co c="0"><na f="m/Medagliani:Paolo">Paolo Medagliani</na></co>
+<co c="0"><na f="m/Milani:Alessia">Alessia Milani</na></co>
+<co c="0"><na f="n/Nisse:Nicolas">Nicolas Nisse</na></co>
+<co c="0"><na f="p/Patt=Shamir:Boaz">Boaz Patt-Shamir</na></co>
+<co c="0" n="2"><na f="p/Potop=Butucaru:Maria">Maria Potop-Butucaru</na><na>Maria Gradinariu Potop-Butucaru</na></co>
+<co c="0"><na f="r/Rovedakis:Stephane">Stephane Rovedakis</na></co>
+<co c="0"><na f="t/Thibault:Nicolas">Nicolas Thibault</na></co>
+<co c="0"><na f="t/Tixeuil:S=eacute=bastien">Sébastien Tixeuil</na></co>
+<co c="0"><na f="v/Vial:Sandrine">Sandrine Vial</na></co>
+<co c="0"><na f="v/Villain:Vincent">Vincent Villain</na></co>
+</coauthors>
+</dblpperson>
+

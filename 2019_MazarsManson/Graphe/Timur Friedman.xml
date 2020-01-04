@@ -1,0 +1,1093 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Timur Friedman" n="72">
+<person key="homepages/62/609" mdate="2009-06-09">
+<author>Timur Friedman</author>
+</person>
+<r><inproceedings key="conf/icnp/FriedmanMSHR19" mdate="2019-11-05">
+<author>Timur Friedman</author>
+<author>Rick McGeer</author>
+<author>Berat Can Senel</author>
+<author>Matt Hemmings</author>
+<author>Glenn Ricart</author>
+<title>The EdgeNet System.</title>
+<pages>1-2</pages>
+<year>2019</year>
+<booktitle>ICNP</booktitle>
+<crossref>conf/icnp/2019</crossref>
+<url>db/conf/icnp/icnp2019.html#FriedmanMSHR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/VermeulenLFFM19" mdate="2019-09-25">
+<author>Kevin Vermeulen</author>
+<author>Burim Ljuma</author>
+<author>Olivier Fourmaux</author>
+<author>Timur Friedman</author>
+<author>Rick McGeer</author>
+<title>Internet measurements on EdgeNet.</title>
+<pages>915-916</pages>
+<year>2019</year>
+<booktitle>INFOCOM Workshops</booktitle>
+<crossref>conf/infocom/2019w</crossref>
+<url>db/conf/infocom/infocom2019w.html#VermeulenLFFM19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-02929" mdate="2019-02-01">
+<author>Mark Berman</author>
+<author>Timur Friedman</author>
+<author>Abhimanyu Gosain</author>
+<author>Kate Keahey</author>
+<author>Rick McGeer</author>
+<author>Ingrid Moerman</author>
+<author>Akihiro Nakao</author>
+<author>Lucas Nussbaum</author>
+<author>Kristin Rauschenbach</author>
+<author>Violet R. Syrotiuk</author>
+<author>Malathi Veeraraghavan</author>
+<author>Naoaki Yamanaka</author>
+<title>Report of the Third Global Experimentation for Future Internet (GEFI 2018) Workshop.</title>
+<year>2019</year>
+<volume>abs/1901.02929</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.02929</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-02929</url>
+</article>
+</r>
+<r><inproceedings key="conf/imc/VermeulenSFF18" mdate="2019-10-25">
+<author>Kevin Vermeulen</author>
+<author>Stephen D. Strowes</author>
+<author>Olivier Fourmaux</author>
+<author>Timur Friedman</author>
+<title>Multilevel MDA-Lite Paris Traceroute.</title>
+<pages>29-42</pages>
+<year>2018</year>
+<booktitle>Internet Measurement Conference</booktitle>
+<crossref>conf/imc/2018</crossref>
+<url>db/conf/imc/imc2018.html#VermeulenSFF18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-10070" mdate="2018-10-05">
+<author>Kevin Vermeulen</author>
+<author>Stephen D. Strowes</author>
+<author>Olivier Fourmaux</author>
+<author>Timur Friedman</author>
+<title>Multilevel MDA-Lite Paris Traceroute.</title>
+<year>2018</year>
+<volume>abs/1809.10070</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.10070</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-10070</url>
+</article>
+</r>
+<r><article key="journals/ccr/SchonwalderFP17" mdate="2019-09-16">
+<author orcid="0000-0001-8346-1555">Jürgen Schönwälder</author>
+<author>Timur Friedman</author>
+<author>Aiko Pras</author>
+<title>Using Networks to Teach About Networks (Report on Dagstuhl Seminar #17112).</title>
+<pages>40-44</pages>
+<year>2017</year>
+<volume>47</volume>
+<journal>Computer Communication Review</journal>
+<number>3</number>
+<url>db/journals/ccr/ccr47.html#SchonwalderFP17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/FriedmanPS17" mdate="2017-10-06">
+<author>Timur Friedman</author>
+<author>Aiko Pras</author>
+<author>Jürgen Schönwälder</author>
+<title>Using Networks to Teach About Networks (Dagstuhl Seminar 17112).</title>
+<pages>33-44</pages>
+<year>2017</year>
+<volume>7</volume>
+<journal>Dagstuhl Reports</journal>
+<number>3</number>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports7.html#FriedmanPS17</url>
+<ee type="oa">https://doi.org/10.4230/DagRep.7.3.33</ee>
+</article>
+</r>
+<r><article key="journals/jsac/CicaleseJRBAF16" mdate="2017-05-26">
+<author>Danilo Cicalese</author>
+<author>Diana Zeaiter Joumblatt</author>
+<author>Dario Rossi</author>
+<author>Marc-Olivier Buob</author>
+<author>Jordan Augé</author>
+<author>Timur Friedman</author>
+<title>Latency-Based Anycast Geolocation: Algorithms, Software, and Data Sets.</title>
+<pages>1889-1903</pages>
+<year>2016</year>
+<volume>34</volume>
+<journal>IEEE Journal on Selected Areas in Communications</journal>
+<number>6</number>
+<url>db/journals/jsac/jsac34.html#CicaleseJRBAF16</url>
+</article>
+</r>
+<r><article key="journals/ue/BaronKRSKFF15" mdate="2017-05-26">
+<author>Loïc Baron</author>
+<author>Radomir Klacza</author>
+<author>Mohammed Yasin Rahman</author>
+<author>Ciro Scognamiglio</author>
+<author>Nina Kurose</author>
+<author>Timur Friedman</author>
+<author>Serge Fdida</author>
+<title>OneLab Tutorial: A Single Portal to Heterogeneous Testbeds.</title>
+<pages>e4</pages>
+<year>2015</year>
+<volume>2</volume>
+<journal>EAI Endorsed Trans. Ubiquitous Environments</journal>
+<number>6</number>
+<url>db/journals/ue/ue2.html#BaronKRSKFF15</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/CicaleseAJFR15" mdate="2018-11-06">
+<author>Danilo Cicalese</author>
+<author>Jordan Augé</author>
+<author>Diana Joumblatt</author>
+<author>Timur Friedman</author>
+<author>Dario Rossi</author>
+<title>Characterizing IPv4 anycast adoption and deployment.</title>
+<pages>16:1-16:13</pages>
+<year>2015</year>
+<booktitle>CoNEXT</booktitle>
+<crossref>conf/conext/2015</crossref>
+<url>db/conf/conext/conext2015.html#CicaleseAJFR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/drcn/MazloumARF15" mdate="2017-05-25">
+<author>Riad Mazloum</author>
+<author>Jordan Augé</author>
+<author>Dario Rossi</author>
+<author>Timur Friedman</author>
+<title>Errors announcing 32-bit ASNs in BGP routes.</title>
+<pages>87-88</pages>
+<year>2015</year>
+<booktitle>DRCN</booktitle>
+<crossref>conf/drcn/2015</crossref>
+<url>db/conf/drcn/drcn2015.html#MazloumARF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/CicaleseAJRBF15" mdate="2017-05-16">
+<author>Danilo Cicalese</author>
+<author>Jordan Augé</author>
+<author>Diana Joumblatt</author>
+<author>Dario Rossi</author>
+<author>Marc-Olivier Buob</author>
+<author>Timur Friedman</author>
+<title>Lightweight anycast enumeration and geolocation.</title>
+<pages>1-2</pages>
+<year>2015</year>
+<booktitle>INFOCOM Workshops</booktitle>
+<crossref>conf/infocom/2015w</crossref>
+<url>db/conf/infocom/infocom2015w.html#CicaleseAJRBF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/BaronSRKCKFF15" mdate="2017-05-16">
+<author>Loïc Baron</author>
+<author>Ciro Scognamiglio</author>
+<author>Mohammed Yasin Rahman</author>
+<author>Radomir Klacza</author>
+<author>Danilo Cicalese</author>
+<author>Nina Kurose</author>
+<author>Timur Friedman</author>
+<author>Serge Fdida</author>
+<title>OneLab: Major computer networking testbeds open to the IEEE INFOCOM community.</title>
+<pages>3-4</pages>
+<year>2015</year>
+<booktitle>INFOCOM Workshops</booktitle>
+<crossref>conf/infocom/2015w</crossref>
+<url>db/conf/infocom/infocom2015w.html#BaronSRKCKFF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/CicaleseJRBAF15" mdate="2017-05-16">
+<author>Danilo Cicalese</author>
+<author>Diana Joumblatt</author>
+<author>Dario Rossi</author>
+<author>Marc-Olivier Buob</author>
+<author>Jordan Augé</author>
+<author>Timur Friedman</author>
+<title>A fistful of pings: Accurate and lightweight anycast enumeration and geolocation.</title>
+<pages>2776-2784</pages>
+<year>2015</year>
+<booktitle>INFOCOM</booktitle>
+<crossref>conf/infocom/2015</crossref>
+<url>db/conf/infocom/infocom2015.html#CicaleseJRBAF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/BaronBKRSKFF15" mdate="2018-11-06">
+<author>Loïc Baron</author>
+<author>Fadwa Boubekeur</author>
+<author>Radomir Klacza</author>
+<author>Mohammed Yasin Rahman</author>
+<author>Ciro Scognamiglio</author>
+<author>Nina Kurose</author>
+<author>Timur Friedman</author>
+<author>Serge Fdida</author>
+<title>Demo: OneLab: Major Computer Networking Testbeds for IoT and Wireless Experimentation.</title>
+<pages>199-200</pages>
+<year>2015</year>
+<booktitle>MobiCom</booktitle>
+<crossref>conf/mobicom/2015</crossref>
+<url>db/conf/mobicom/mobicom2015.html#BaronBKRSKFF15</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/AugePTABLRFF14" mdate="2017-05-18">
+<author>Jordan Augé</author>
+<author>Thierry Parmentelat</author>
+<author>Nicolas Turro</author>
+<author>Sandrine Avakian</author>
+<author>Loïc Baron</author>
+<author>Mohamed Amine Larabi</author>
+<author>Mohammed Yasin Rahman</author>
+<author>Timur Friedman</author>
+<author>Serge Fdida</author>
+<title>Tools to foster a global federation of testbeds.</title>
+<pages>205-220</pages>
+<year>2014</year>
+<volume>63</volume>
+<journal>Computer Networks</journal>
+<url>db/journals/cn/cn63.html#AugePTABLRFF14</url>
+</article>
+</r>
+<r><inproceedings key="conf/pam/MazloumBABRF14" mdate="2017-05-23">
+<author>Riad Mazloum</author>
+<author>Marc-Olivier Buob</author>
+<author>Jordan Augé</author>
+<author>Bruno Baynat</author>
+<author>Dario Rossi</author>
+<author>Timur Friedman</author>
+<title>Violation of Interdomain Routing Assumptions.</title>
+<pages>173-182</pages>
+<year>2014</year>
+<booktitle>PAM</booktitle>
+<crossref>conf/pam/2014</crossref>
+<url>db/conf/pam/pam2014.html#MazloumBABRF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pam/CasoriaRABFP14" mdate="2017-05-23">
+<author>Pellegrino Casoria</author>
+<author>Dario Rossi</author>
+<author>Jordan Augé</author>
+<author>Marc-Olivier Buob</author>
+<author>Timur Friedman</author>
+<author>Antonio Pescapè</author>
+<title>Distributed Active Measurement of Internet Queuing Delays.</title>
+<pages>278-280</pages>
+<year>2014</year>
+<booktitle>PAM</booktitle>
+<crossref>conf/pam/2014</crossref>
+<url>db/conf/pam/pam2014.html#CasoriaRABFP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/ChirichellaRTFP13" mdate="2017-04-28">
+<author>Chiara Chirichella</author>
+<author>Dario Rossi</author>
+<author>Claudio Testa</author>
+<author>Timur Friedman</author>
+<author>Antonio Pescapè</author>
+<title>Passive bufferbloat measurement exploiting transport layer information.</title>
+<pages>2963-2968</pages>
+<year>2013</year>
+<booktitle>GLOBECOM</booktitle>
+<crossref>conf/globecom/2013</crossref>
+<url>db/conf/globecom/globecom2013.html#ChirichellaRTFP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pam/BourgeauF13" mdate="2017-05-23">
+<author>Thomas Bourgeau</author>
+<author>Timur Friedman</author>
+<title>Efficient IP-Level Network Topology Capture.</title>
+<pages>11-20</pages>
+<year>2013</year>
+<booktitle>PAM</booktitle>
+<crossref>conf/pam/2013</crossref>
+<url>db/conf/pam/pam2013.html#BourgeauF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pam/ChirichellaRTFP13" mdate="2017-05-23">
+<author>Chiara Chirichella</author>
+<author>Dario Rossi</author>
+<author>Claudio Testa</author>
+<author>Timur Friedman</author>
+<author>Antonio Pescapè</author>
+<title>Remotely Gauging Upstream Bufferbloat Delays.</title>
+<pages>250-252</pages>
+<year>2013</year>
+<booktitle>PAM</booktitle>
+<crossref>conf/pam/2013</crossref>
+<url>db/conf/pam/pam2013.html#ChirichellaRTFP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/BourgeauF12" mdate="2018-11-21">
+<author>Thomas Bourgeau</author>
+<author>Timur Friedman</author>
+<title>Toward fast and efficient IP-level network topology capture.</title>
+<pages>5-6</pages>
+<year>2012</year>
+<booktitle>StudentWorkshop@CoNEXT</booktitle>
+<crossref>conf/conext/2012sw</crossref>
+<url>db/conf/conext/sw2012.html#BourgeauF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/p2p/ChirichellaRTFP12" mdate="2017-05-23">
+<author>Chiara Chirichella</author>
+<author>Dario Rossi</author>
+<author>Claudio Testa</author>
+<author>Timur Friedman</author>
+<author>Antonio Pescapè</author>
+<title>Inferring the buffering delay of remote BitTorrent peers under LEDBAT vs TCP.</title>
+<pages>77-78</pages>
+<year>2012</year>
+<booktitle>P2P</booktitle>
+<crossref>conf/p2p/2012</crossref>
+<url>db/conf/p2p/p2p2012.html#ChirichellaRTFP12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ton/AugustinFT11" mdate="2017-05-27">
+<author>Brice Augustin</author>
+<author>Timur Friedman</author>
+<author>Renata Teixeira</author>
+<title>Measuring multipath routing in the internet.</title>
+<pages>830-840</pages>
+<year>2011</year>
+<volume>19</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>3</number>
+<url>db/journals/ton/ton19.html#AugustinFT11</url>
+</article>
+</r>
+<r><inproceedings key="conf/servicewave/FriedmanG11" mdate="2018-11-02">
+<author>Timur Friedman</author>
+<author orcid="0000-0003-4496-8358">Anastasius Gavras</author>
+<title>FIRE OpenLab IP Testbed and Tool Demo.</title>
+<pages>323-324</pages>
+<year>2011</year>
+<booktitle>ServiceWave</booktitle>
+<crossref>conf/servicewave/2011</crossref>
+<url>db/conf/servicewave/servicewave2011.html#FriedmanG11</url>
+</inproceedings>
+</r>
+<r><article key="journals/ccr/claffyAABBDFFHLS10" mdate="2018-11-06">
+<author>kc claffy</author>
+<author>Emile Aben</author>
+<author>Jordan Augé</author>
+<author orcid="0000-0002-5005-7350">Robert Beverly</author>
+<author>Fabián E. Bustamante</author>
+<author>Benoit Donnet</author>
+<author>Timur Friedman</author>
+<author>Marina Fomenkov</author>
+<author>Péter Hága</author>
+<author>Matthew J. Luckie</author>
+<author>Yuval Shavitt</author>
+<title>The 2nd workshop on active internet measurements (AIMS-2) report.</title>
+<pages>53-58</pages>
+<year>2010</year>
+<volume>40</volume>
+<journal>Computer Communication Review</journal>
+<number>5</number>
+<url>db/journals/ccr/ccr40.html#claffyAABBDFFHLS10</url>
+</article>
+</r>
+<r><article key="journals/cn/DonnetBF10" mdate="2018-11-14">
+<author>Benoit Donnet</author>
+<author>Bruno Baynat</author>
+<author>Timur Friedman</author>
+<title>Improving retouched Bloom filter for trading off selected false positives against false negatives.</title>
+<pages>3373-3387</pages>
+<year>2010</year>
+<volume>54</volume>
+<journal>Computer Networks</journal>
+<number>18</number>
+<url>db/journals/cn/cn54.html#DonnetBF10</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/AntoniadisFFM10" mdate="2018-11-06">
+<author>Panayotis Antoniadis</author>
+<author>Serge Fdida</author>
+<author>Timur Friedman</author>
+<author>Vishal Misra</author>
+<title>Federation of virtualized infrastructures: sharing the value of diversity.</title>
+<pages>12</pages>
+<year>2010</year>
+<booktitle>CoNEXT</booktitle>
+<crossref>conf/conext/2010</crossref>
+<url>db/conf/conext/conext2010.html#AntoniadisFFM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/servicewave/FdidaFM10" mdate="2017-05-23">
+<author>Serge Fdida</author>
+<author>Timur Friedman</author>
+<author>Sophia MacKeith</author>
+<title>OneLab: Developing Future Internet Testbeds.</title>
+<pages>199-200</pages>
+<year>2010</year>
+<booktitle>ServiceWave</booktitle>
+<crossref>conf/servicewave/2010</crossref>
+<url>db/conf/servicewave/servicewave2010.html#FdidaFM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tridentcom/BourgeauAF10" mdate="2017-05-24">
+<author>Thomas Bourgeau</author>
+<author>Jordan Augé</author>
+<author>Timur Friedman</author>
+<title>TopHat: Supporting Experiments through Measurement Infrastructure Federation.</title>
+<pages>542-557</pages>
+<year>2010</year>
+<booktitle>TRIDENTCOM</booktitle>
+<crossref>conf/tridentcom/2010</crossref>
+<url>db/conf/tridentcom/tridentcom2010.html#BourgeauAF10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/cfi/2010" mdate="2016-01-19">
+<editor>Dongman Lee</editor>
+<editor>Serge Fdida</editor>
+<editor>Craig Partridge</editor>
+<editor>Yanghee Choi</editor>
+<editor>Timur Friedman</editor>
+<editor>Sue B. Moon</editor>
+<editor>Dipankar Raychaudhuri</editor>
+<title>Conference on the Future of the Internet 2010, CFI '10, Seoul, Republic of Korea, June 16-18, 2010</title>
+<publisher>ACM</publisher>
+<booktitle>CFI</booktitle>
+<year>2010</year>
+<isbn>978-1-4503-0230-2</isbn>
+<url>db/conf/cfi/cfi2010.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/infocom/VeitchATF09" mdate="2017-05-16">
+<author>Darryl Veitch</author>
+<author>Brice Augustin</author>
+<author>Renata Teixeira</author>
+<author>Timur Friedman</author>
+<title>Failure Control in Multipath Route Tracing.</title>
+<pages>1395-1403</pages>
+<year>2009</year>
+<booktitle>INFOCOM</booktitle>
+<crossref>conf/infocom/2009</crossref>
+<url>db/conf/infocom/infocom2009.html#VeitchATF09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-2733" mdate="2018-08-13">
+<author>Fabien Viger</author>
+<author>Brice Augustin</author>
+<author>Xavier Cuvellier</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<author>Timur Friedman</author>
+<author>Renata Teixeira</author>
+<title>Detection, Understanding, and Prevention of Traceroute Measurement Artifacts</title>
+<ee type="oa">http://arxiv.org/abs/0904.2733</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.2733</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-2733</url>
+</article>
+</r>
+<r><article key="journals/cn/VigerACMLFT08" mdate="2017-05-18">
+<author>Fabien Viger</author>
+<author>Brice Augustin</author>
+<author>Xavier Cuvellier</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<author>Timur Friedman</author>
+<author>Renata Teixeira</author>
+<title>Detection, understanding, and prevention of traceroute measurement artifacts.</title>
+<pages>998-1018</pages>
+<year>2008</year>
+<volume>52</volume>
+<journal>Computer Networks</journal>
+<number>5</number>
+<url>db/journals/cn/cn52.html#VigerACMLFT08</url>
+</article>
+</r>
+<r><article key="journals/jsac/ConanLF08" mdate="2018-11-02">
+<author>Vania Conan</author>
+<author orcid="0000-0002-4670-6389">Jeremie Leguay</author>
+<author>Timur Friedman</author>
+<title>Fixed point opportunistic routing in delay tolerant networks.</title>
+<pages>773-782</pages>
+<year>2008</year>
+<volume>26</volume>
+<journal>IEEE Journal on Selected Areas in Communications</journal>
+<number>5</number>
+<url>db/journals/jsac/jsac26.html#ConanLF08</url>
+</article>
+</r>
+<r><article key="journals/cn/LeguayLFS07" mdate="2018-11-30">
+<author orcid="0000-0002-4670-6389">Jeremie Leguay</author>
+<author>Matthieu Latapy</author>
+<author>Timur Friedman</author>
+<author>Kavé Salamatian</author>
+<title>Describing and simulating internet routes.</title>
+<pages>2067-2085</pages>
+<year>2007</year>
+<volume>51</volume>
+<journal>Computer Networks</journal>
+<number>8</number>
+<url>db/journals/cn/cn51.html#LeguayLFS07</url>
+</article>
+</r>
+<r><article key="journals/comsur/DonnetF07" mdate="2018-11-30">
+<author orcid="0000-0002-0651-3398">Benoit Donnet</author>
+<author>Timur Friedman</author>
+<title>Internet topology discovery: A survey.</title>
+<pages>56-69</pages>
+<year>2007</year>
+<volume>9</volume>
+<journal>IEEE Communications Surveys and Tutorials</journal>
+<number>1-4</number>
+<url>db/journals/comsur/comsur9.html#DonnetF07</url>
+</article>
+</r>
+<r><article key="journals/wicomm/LeguayFC07" mdate="2018-11-30">
+<author orcid="0000-0002-4670-6389">Jeremie Leguay</author>
+<author>Timur Friedman</author>
+<author>Vania Conan</author>
+<title>Evaluating MobySpace-based routing strategies in delay-tolerant networks.</title>
+<pages>1171-1182</pages>
+<year>2007</year>
+<volume>7</volume>
+<journal>Wireless Communications and Mobile Computing</journal>
+<number>10</number>
+<url>db/journals/wicomm/wicomm7.html#LeguayFC07</url>
+</article>
+</r>
+<r><inproceedings key="conf/autonomics/ConanLF07" mdate="2018-11-26">
+<author>Vania Conan</author>
+<author>Jeremie Leguay</author>
+<author>Timur Friedman</author>
+<title>Characterizing pairwise inter-contact patterns in delay tolerant networks.</title>
+<pages>19</pages>
+<year>2007</year>
+<booktitle>Autonomics</booktitle>
+<crossref>conf/autonomics/2007</crossref>
+<url>db/conf/autonomics/autonomics2007.html#ConanLF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/e2emon/AugustinFT07" mdate="2017-05-19">
+<author>Brice Augustin</author>
+<author>Timur Friedman</author>
+<author>Renata Teixeira</author>
+<title>Multipath tracing with Paris traceroute.</title>
+<pages>1-8</pages>
+<year>2007</year>
+<booktitle>E2EMON</booktitle>
+<crossref>conf/e2emon/2007</crossref>
+<url>db/conf/e2emon/e2emon2007.html#AugustinFT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imc/AugustinFT07" mdate="2018-11-06">
+<author>Brice Augustin</author>
+<author>Timur Friedman</author>
+<author>Renata Teixeira</author>
+<title>Measuring load-balanced paths in the internet.</title>
+<pages>149-160</pages>
+<year>2007</year>
+<booktitle>Internet Measurement Conference</booktitle>
+<crossref>conf/imc/2007</crossref>
+<url>db/conf/imc/imc2007.html#AugustinFT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/DonnetHFC07" mdate="2018-06-26">
+<author>Benoit Donnet</author>
+<author>Bradley Huffaker</author>
+<author>Timur Friedman</author>
+<author>Kimberly C. Claffy</author>
+<title>Increasing the Coverage of a Cooperative Internet Topology Discovery Algorithm.</title>
+<pages>738-748</pages>
+<year>2007</year>
+<crossref>conf/networking/2007</crossref>
+<booktitle>Networking</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-72606-7_63</ee>
+<url>db/conf/networking/networking2007.html#DonnetHFC07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/e2emon/2007" mdate="2019-10-16">
+<editor>Kamil Saraç</editor>
+<editor>Timur Friedman</editor>
+<title>Fifth IEEE/IFIP Workshop on End-to-End Monitoring Techniques and Services, E2EMON 2007, 21st May, 2007, Munich, Germany</title>
+<year>2007</year>
+<booktitle>E2EMON</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<isbn>1-4244-1289-7</isbn>
+<url>db/conf/e2emon/e2emon2007.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ccr/ClaffyCFSS06" mdate="2018-11-06">
+<author>Kimberly C. Claffy</author>
+<author>Mark Crovella</author>
+<author>Timur Friedman</author>
+<author>Colleen Shannon</author>
+<author>Neil Spring</author>
+<title>Community-oriented network measurement infrastructure (CONMI) workshop report.</title>
+<pages>41-48</pages>
+<year>2006</year>
+<volume>36</volume>
+<journal>Computer Communication Review</journal>
+<number>2</number>
+<url>db/journals/ccr/ccr36.html#ClaffyCFSS06</url>
+</article>
+</r>
+<r><article key="journals/jsac/DonnetRFC06" mdate="2017-05-26">
+<author>Benoit Donnet</author>
+<author>Philippe Raoult</author>
+<author>Timur Friedman</author>
+<author>Mark Crovella</author>
+<title>Deployment of an Algorithm for Large-Scale Topology Discovery.</title>
+<pages>2210-2220</pages>
+<year>2006</year>
+<volume>24</volume>
+<journal>IEEE Journal on Selected Areas in Communications</journal>
+<number>12</number>
+<url>db/journals/jsac/jsac24.html#DonnetRFC06</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/DonnetBF06" mdate="2018-11-06">
+<author orcid="0000-0002-0651-3398">Benoit Donnet</author>
+<author>Bruno Baynat</author>
+<author>Timur Friedman</author>
+<title>Retouched bloom filters: allowing networked applications to trade off selected false positives against false negatives.</title>
+<pages>13</pages>
+<year>2006</year>
+<booktitle>CoNEXT</booktitle>
+<crossref>conf/conext/2006</crossref>
+<url>db/conf/conext/conext2006.html#DonnetBF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/AugustinFT06" mdate="2018-11-06">
+<author>Brice Augustin</author>
+<author>Timur Friedman</author>
+<author>Renata Teixeira</author>
+<title>Exhaustive path tracing with Paris traceroute.</title>
+<pages>49</pages>
+<year>2006</year>
+<booktitle>CoNEXT</booktitle>
+<crossref>conf/conext/2006</crossref>
+<url>db/conf/conext/conext2006.html#AugustinFT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imc/AugustinCOVFLMT06" mdate="2018-11-06">
+<author>Brice Augustin</author>
+<author>Xavier Cuvellier</author>
+<author>Benjamin Orgogozo</author>
+<author>Fabien Viger</author>
+<author>Timur Friedman</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<author>Renata Teixeira</author>
+<title>Avoiding traceroute anomalies with Paris traceroute.</title>
+<pages>153-158</pages>
+<year>2006</year>
+<crossref>conf/imc/2006</crossref>
+<booktitle>Internet Measurement Conference</booktitle>
+<url>db/conf/imc/imc2006.html#AugustinCOVFLMT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/LeguayFC06" mdate="2018-11-02">
+<author orcid="0000-0002-4670-6389">Jeremie Leguay</author>
+<author>Timur Friedman</author>
+<author>Vania Conan</author>
+<title>Evaluating Mobility Pattern Space Routing for DTNs.</title>
+<year>2006</year>
+<crossref>conf/infocom/2006</crossref>
+<booktitle>INFOCOM</booktitle>
+<url>db/conf/infocom/infocom2006.html#LeguayFC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipom/DonnetHFC06" mdate="2018-11-02">
+<author orcid="0000-0002-0651-3398">Benoit Donnet</author>
+<author>Bradley Huffaker</author>
+<author>Timur Friedman</author>
+<author>Kimberly C. Claffy</author>
+<title>Evaluation of a Large-Scale Topology Discovery Algorithm.</title>
+<pages>193-204</pages>
+<year>2006</year>
+<crossref>conf/ipom/2006</crossref>
+<booktitle>IPOM</booktitle>
+<url>db/conf/ipom/ipom2006.html#DonnetHFC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/BenbadisLBAF06" mdate="2018-11-06">
+<author>Farid Benbadis</author>
+<author orcid="0000-0002-4670-6389">Jeremie Leguay</author>
+<author>Vincent Borrel</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Timur Friedman</author>
+<title>Millipede: a rollerblade positioning system.</title>
+<pages>117-118</pages>
+<year>2006</year>
+<booktitle>WINTECH</booktitle>
+<crossref>conf/mobicom/2006wintech</crossref>
+<url>db/conf/mobicom/wintech2006.html#BenbadisLBAF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/percom/LeguayF06" mdate="2018-11-02">
+<author orcid="0000-0002-4670-6389">Jeremie Leguay</author>
+<author>Timur Friedman</author>
+<title>QoS Routing in OLSR with Several Classes of Service.</title>
+<pages>420-425</pages>
+<year>2006</year>
+<crossref>conf/percom/2006w</crossref>
+<booktitle>PerCom Workshops</booktitle>
+<url>db/conf/percom/percomw2006.html#LeguayF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/LeguayLSFC06" mdate="2018-11-06">
+<author orcid="0000-0002-4670-6389">Jérémie Leguay</author>
+<author>Anders Lindgren</author>
+<author>James Scott</author>
+<author>Timur Friedman</author>
+<author>Jon Crowcroft</author>
+<title>Opportunistic content distribution in an urban setting.</title>
+<pages>205-212</pages>
+<year>2006</year>
+<booktitle>CHANTS@SIGCOMM</booktitle>
+<crossref>conf/sigcomm/2006chants</crossref>
+<url>db/conf/sigcomm/chants2006.html#LeguayLSFC06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0603062" mdate="2018-08-13">
+<author>Benoit Donnet</author>
+<author>Bradley Huffaker</author>
+<author>Timur Friedman</author>
+<author>Kimberly C. Claffy</author>
+<title>Implementation and Deployment of a Distributed Network Topology Discovery Algorithm</title>
+<ee type="oa">http://arxiv.org/abs/cs/0603062</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0603062</volume>
+<url>db/journals/corr/corr0603.html#abs-cs-0603062</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0604105" mdate="2018-08-13">
+<author>Farid Benbadis</author>
+<author>Jean-Jacques Puig</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Claude Chaudet</author>
+<author>Timur Friedman</author>
+<author>David Simplot-Ryl</author>
+<title>Jumps: Enhancing hop-count positioning in sensor networks using multiple coordinates</title>
+<ee type="oa">http://arxiv.org/abs/cs/0604105</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0604105</volume>
+<url>db/journals/corr/corr0604.html#abs-cs-0604105</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0605133" mdate="2018-08-13">
+<author>Benoit Donnet</author>
+<author>Philippe Raoult</author>
+<author>Timur Friedman</author>
+<title>Efficient Route Tracing from a Single Source</title>
+<ee type="oa">http://arxiv.org/abs/cs/0605133</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0605133</volume>
+<url>db/journals/corr/corr0605.html#abs-cs-0605133</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0607038" mdate="2018-08-13">
+<author>Benoit Donnet</author>
+<author>Bruno Baynat</author>
+<author>Timur Friedman</author>
+<title>Retouched Bloom Filters: Allowing Networked Applications to Flexibly Trade Off False Positives Against False Negatives</title>
+<ee type="oa">http://arxiv.org/abs/cs/0607038</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0607038</volume>
+<url>db/journals/corr/corr0607.html#abs-cs-0607038</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0609068" mdate="2018-08-13">
+<author>Vania Conan</author>
+<author>Jeremie Leguay</author>
+<author>Timur Friedman</author>
+<title>The heterogeneity of inter-contact time distributions: its importance for routing in delay tolerant networks</title>
+<ee type="oa">http://arxiv.org/abs/cs/0609068</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0609068</volume>
+<url>db/journals/corr/corr0609.html#abs-cs-0609068</url>
+</article>
+</r>
+<r><article key="journals/pe/DuffieldABFHTT05" mdate="2017-05-27">
+<author>Nick G. Duffield</author>
+<author>Vijay Arya</author>
+<author>R. Bellino</author>
+<author>Timur Friedman</author>
+<author>Joseph Horowitz</author>
+<author>Donald F. Towsley</author>
+<author>Thierry Turletti</author>
+<title>Network tomography from aggregate loss reports.</title>
+<pages>147-163</pages>
+<year>2005</year>
+<volume>62</volume>
+<journal>Perform. Eval.</journal>
+<number>1-4</number>
+<url>db/journals/pe/pe62.html#DuffieldABFHTT05</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifip6-6/DonnetF05" mdate="2018-11-30">
+<author orcid="0000-0002-0651-3398">Benoit Donnet</author>
+<author>Timur Friedman</author>
+<title>Topology Discovery Using an Address Prefix Based Stopping Rule.</title>
+<pages>119-130</pages>
+<year>2005</year>
+<booktitle>EUNICE</booktitle>
+<ee type="oa">https://doi.org/10.1007/0-387-31170-X_9</ee>
+<crossref>conf/ifip6-6/2005</crossref>
+<url>db/conf/ifip6-6/eunice2005.html#DonnetF05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/LeguayLFS05" mdate="2018-06-26">
+<author>Jeremie Leguay</author>
+<author>Matthieu Latapy</author>
+<author>Timur Friedman</author>
+<author>Kavé Salamatian</author>
+<title>Describing and Simulating Internet Routes.</title>
+<pages>659-670</pages>
+<year>2005</year>
+<crossref>conf/networking/2005</crossref>
+<booktitle>NETWORKING</booktitle>
+<ee type="oa">https://doi.org/10.1007/11422778_53</ee>
+<url>db/conf/networking/networking2005.html#LeguayLFS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pam/DonnetFC05" mdate="2018-11-02">
+<author orcid="0000-0002-0651-3398">Benoit Donnet</author>
+<author>Timur Friedman</author>
+<author>Mark Crovella</author>
+<title>Improved Algorithms for Network Topology Discovery.</title>
+<pages>149-162</pages>
+<year>2005</year>
+<crossref>conf/pam/2005</crossref>
+<booktitle>PAM</booktitle>
+<url>db/conf/pam/pam2005.html#DonnetFC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/DonnetRFC05" mdate="2018-11-06">
+<author orcid="0000-0002-0651-3398">Benoit Donnet</author>
+<author>Philippe Raoult</author>
+<author>Timur Friedman</author>
+<author>Mark Crovella</author>
+<title>Efficient algorithms for large-scale topology discovery.</title>
+<pages>327-338</pages>
+<year>2005</year>
+<crossref>conf/sigmetrics/2005</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<url>db/conf/sigmetrics/sigmetrics2005.html#DonnetRFC05</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0504040" mdate="2018-08-13">
+<author>Jeremie Leguay</author>
+<author>Timur Friedman</author>
+<author>Vania Conan</author>
+<title>DTN Routing in a Mobility Pattern Space</title>
+<ee type="oa">http://arxiv.org/abs/cs/0504040</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0504040</volume>
+<url>db/journals/corr/corr0504.html#abs-cs-0504040</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0511102" mdate="2018-08-13">
+<author>Jeremie Leguay</author>
+<author>Timur Friedman</author>
+<author>Vania Conan</author>
+<title>Evaluating Mobility Pattern Space Routing for DTNs</title>
+<ee type="oa">http://arxiv.org/abs/cs/0511102</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0511102</volume>
+<url>db/journals/corr/corr0511.html#abs-cs-0511102</url>
+</article>
+</r>
+<r><inproceedings key="conf/ict/FriedmanTK04" mdate="2017-05-23">
+<author>Timur Friedman</author>
+<author>Donald F. Towsley</author>
+<author>James F. Kurose</author>
+<title>Scalable End-to-End Multicast Tree Fault Isolation.</title>
+<pages>1347-1358</pages>
+<year>2004</year>
+<crossref>conf/ict/2004</crossref>
+<booktitle>ICT</booktitle>
+<url>db/conf/ict/ict2004.html#FriedmanTK04</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-NI-0411013" mdate="2018-08-13">
+<author>Benoit Donnet</author>
+<author>Philippe Raoult</author>
+<author>Timur Friedman</author>
+<author>Mark Crovella</author>
+<title>Efficient Algorithms for Large-Scale Topology Discovery</title>
+<ee type="oa">http://arxiv.org/abs/cs.NI/0411013</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.NI/0411013</volume>
+<url>db/journals/corr/corr0411.html#cs-NI-0411013</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-NI-0411051" mdate="2018-08-13">
+<author>Jeremie Leguay</author>
+<author>Matthieu Latapy</author>
+<author>Timur Friedman</author>
+<author>Kavé Salamatian</author>
+<title>Describing and Simulating Internet Routes</title>
+<ee type="oa">http://arxiv.org/abs/cs.NI/0411051</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.NI/0411051</volume>
+<url>db/journals/corr/corr0411.html#cs-NI-0411051</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/rfc/rfc3611" mdate="2019-05-14">
+<author>Timur Friedman</author>
+<author>Ramón Cáceres</author>
+<author>Alan Clark</author>
+<title>RTP Control Protocol Extended Reports (RTCP XR).</title>
+<year>2003</year>
+<pages>1-55</pages>
+<journal>RFC</journal>
+<volume>3611</volume>
+<month>November</month>
+<ee type="oa">https://doi.org/10.17487/RFC3611</ee>
+<url>db/journals/rfc/rfc3600-3699.html</url>
+</article>
+</r>
+<r><article key="journals/jsac/DuffieldHTWF02" mdate="2017-05-26">
+<author>Nick G. Duffield</author>
+<author>Joseph Horowitz</author>
+<author>Don Towsley</author>
+<author>Wei Wei 0001</author>
+<author>Timur Friedman</author>
+<title>Multicast-based loss inference with missing data.</title>
+<pages>700-713</pages>
+<year>2002</year>
+<volume>20</volume>
+<journal>IEEE Journal on Selected Areas in Communications</journal>
+<number>4</number>
+<url>db/journals/jsac/jsac20.html#DuffieldHTWF02</url>
+</article>
+</r>
+<r><inproceedings key="conf/infocom/CaceresDF02" mdate="2019-02-24">
+<author>Ramón Cáceres</author>
+<author>Nick G. Duffield</author>
+<author>Timur Friedman</author>
+<title>Impromptu Measurement Infrastructures using RTP.</title>
+<year>2002</year>
+<crossref>conf/infocom/2002</crossref>
+<booktitle>INFOCOM</booktitle>
+<url>db/conf/infocom/infocom2002.html#CaceresDF02</url>
+<pages>1490-1499</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/FriedmanT99" mdate="2019-02-24">
+<author>Timur Friedman</author>
+<author>Donald F. Towsley</author>
+<title>Multicast Session Membership Size Estimation.</title>
+<pages>965-972</pages>
+<year>1999</year>
+<crossref>conf/infocom/1999</crossref>
+<booktitle>INFOCOM</booktitle>
+<url>db/conf/infocom/infocom1999-2.html#FriedmanT99</url>
+</inproceedings>
+</r>
+<coauthors n="97" nc="1">
+<co c="0"><na f="a/Aben:Emile">Emile Aben</na></co>
+<co c="0"><na f="a/Amorim:Marcelo_Dias_de">Marcelo Dias de Amorim</na></co>
+<co c="0"><na f="a/Antoniadis:Panayotis">Panayotis Antoniadis</na></co>
+<co c="0"><na f="a/Arya:Vijay">Vijay Arya</na></co>
+<co c="0"><na f="a/Aug=eacute=:Jordan">Jordan Augé</na></co>
+<co c="0"><na f="a/Augustin:Brice">Brice Augustin</na></co>
+<co c="0"><na f="a/Avakian:Sandrine">Sandrine Avakian</na></co>
+<co c="0"><na f="b/Baron:Lo=iuml=c">Loïc Baron</na></co>
+<co c="0"><na f="b/Baynat:Bruno">Bruno Baynat</na></co>
+<co c="0"><na f="b/Bellino:R=">R. Bellino</na></co>
+<co c="0"><na f="b/Benbadis:Farid">Farid Benbadis</na></co>
+<co c="0"><na f="b/Berman:Mark">Mark Berman</na></co>
+<co c="0"><na f="b/Beverly:Robert">Robert Beverly</na></co>
+<co c="0"><na f="b/Borrel:Vincent">Vincent Borrel</na></co>
+<co c="0"><na f="b/Boubekeur:Fadwa">Fadwa Boubekeur</na></co>
+<co c="0"><na f="b/Bourgeau:Thomas">Thomas Bourgeau</na></co>
+<co c="0"><na f="b/Buob:Marc=Olivier">Marc-Olivier Buob</na></co>
+<co c="0"><na f="b/Bustamante:Fabi=aacute=n_E=">Fabián E. Bustamante</na></co>
+<co c="0"><na f="c/C=aacute=ceres:Ram=oacute=n">Ramón Cáceres</na></co>
+<co c="0"><na f="c/Casoria:Pellegrino">Pellegrino Casoria</na></co>
+<co c="0"><na f="c/Chaudet:Claude">Claude Chaudet</na></co>
+<co c="0"><na f="c/Chirichella:Chiara">Chiara Chirichella</na></co>
+<co c="0"><na f="c/Choi:Yanghee">Yanghee Choi</na></co>
+<co c="0"><na f="c/Cicalese:Danilo">Danilo Cicalese</na></co>
+<co c="0" n="2"><na f="c/Claffy:Kimberly_C=">Kimberly C. Claffy</na><na>kc claffy</na></co>
+<co c="0"><na f="c/Clark:Alan">Alan Clark</na></co>
+<co c="0"><na f="c/Conan:Vania">Vania Conan</na></co>
+<co c="0"><na f="c/Crovella:Mark">Mark Crovella</na></co>
+<co c="0"><na f="c/Crowcroft:Jon">Jon Crowcroft</na></co>
+<co c="0"><na f="c/Cuvellier:Xavier">Xavier Cuvellier</na></co>
+<co c="0"><na f="d/Donnet:Benoit">Benoit Donnet</na></co>
+<co c="0"><na f="d/Duffield:Nick_G=">Nick G. Duffield</na></co>
+<co c="0"><na f="f/Fdida:Serge">Serge Fdida</na></co>
+<co c="0"><na f="f/Fomenkov:Marina">Marina Fomenkov</na></co>
+<co c="0"><na f="f/Fourmaux:Olivier">Olivier Fourmaux</na></co>
+<co c="0"><na f="g/Gavras:Anastasius">Anastasius Gavras</na></co>
+<co c="0"><na f="g/Gosain:Abhimanyu">Abhimanyu Gosain</na></co>
+<co c="0"><na f="h/H=aacute=ga:P=eacute=ter">Péter Hága</na></co>
+<co c="0"><na f="h/Hemmings:Matt">Matt Hemmings</na></co>
+<co c="0"><na f="h/Horowitz:Joseph">Joseph Horowitz</na></co>
+<co c="0"><na f="h/Huffaker:Bradley">Bradley Huffaker</na></co>
+<co c="0" n="2"><na f="j/Joumblatt:Diana">Diana Joumblatt</na><na>Diana Zeaiter Joumblatt</na></co>
+<co c="0" n="2"><na f="k/Keahey:Katarzyna">Katarzyna Keahey</na><na>Kate Keahey</na></co>
+<co c="0"><na f="k/Klacza:Radomir">Radomir Klacza</na></co>
+<co c="0"><na f="k/Kurose:James_F=">James F. Kurose</na></co>
+<co c="0"><na f="k/Kurose:Nina">Nina Kurose</na></co>
+<co c="0"><na f="l/Larabi:Mohamed_Amine">Mohamed Amine Larabi</na></co>
+<co c="0"><na f="l/Latapy:Matthieu">Matthieu Latapy</na></co>
+<co c="0"><na f="l/Lee:Dongman">Dongman Lee</na></co>
+<co c="0" n="2"><na f="l/Leguay:Jeremie">Jeremie Leguay</na><na>Jérémie Leguay</na></co>
+<co c="0"><na f="l/Lindgren:Anders">Anders Lindgren</na></co>
+<co c="0"><na f="l/Ljuma:Burim">Burim Ljuma</na></co>
+<co c="0"><na f="l/Luckie:Matthew_J=">Matthew J. Luckie</na></co>
+<co c="0"><na f="m/MacKeith:Sophia">Sophia MacKeith</na></co>
+<co c="0"><na f="m/Magnien:Cl=eacute=mence">Clémence Magnien</na></co>
+<co c="0"><na f="m/Mazloum:Riad">Riad Mazloum</na></co>
+<co c="0"><na f="m/McGeer:Rick">Rick McGeer</na></co>
+<co c="0"><na f="m/Misra:Vishal">Vishal Misra</na></co>
+<co c="0"><na f="m/Moerman:Ingrid">Ingrid Moerman</na></co>
+<co c="0"><na f="m/Moon:Sue_B=">Sue B. Moon</na></co>
+<co c="0"><na f="n/Nakao:Akihiro">Akihiro Nakao</na></co>
+<co c="0"><na f="n/Nussbaum:Lucas">Lucas Nussbaum</na></co>
+<co c="0"><na f="o/Orgogozo:Benjamin">Benjamin Orgogozo</na></co>
+<co c="0"><na f="p/Parmentelat:Thierry">Thierry Parmentelat</na></co>
+<co c="0"><na f="p/Partridge:Craig">Craig Partridge</na></co>
+<co c="0"><na f="p/Pescap=egrave=:Antonio">Antonio Pescapè</na></co>
+<co c="0"><na f="p/Pras:Aiko">Aiko Pras</na></co>
+<co c="0"><na f="p/Puig:Jean=Jacques">Jean-Jacques Puig</na></co>
+<co c="0"><na f="r/Rahman:Mohammed_Yasin">Mohammed Yasin Rahman</na></co>
+<co c="0"><na f="r/Raoult:Philippe">Philippe Raoult</na></co>
+<co c="0"><na f="r/Rauschenbach:Kristin">Kristin Rauschenbach</na></co>
+<co c="0"><na f="r/Raychaudhuri:Dipankar">Dipankar Raychaudhuri</na></co>
+<co c="0"><na f="r/Ricart:Glenn">Glenn Ricart</na></co>
+<co c="0"><na f="r/Rossi:Dario">Dario Rossi</na></co>
+<co c="0"><na f="s/Salamatian:Kav=eacute=">Kavé Salamatian</na></co>
+<co c="-1"><na f="s/Sara=ccedil=:Kamil">Kamil Saraç</na></co>
+<co c="0"><na f="s/Sch=ouml=nw=auml=lder:J=uuml=rgen">Jürgen Schönwälder</na></co>
+<co c="0"><na f="s/Scognamiglio:Ciro">Ciro Scognamiglio</na></co>
+<co c="0"><na f="s/Scott:James">James Scott</na></co>
+<co c="0"><na f="s/Senel:Berat_Can">Berat Can Senel</na></co>
+<co c="0"><na f="s/Shannon:Colleen">Colleen Shannon</na></co>
+<co c="0"><na f="s/Shavitt:Yuval">Yuval Shavitt</na></co>
+<co c="0"><na f="s/Simplot=Ryl:David">David Simplot-Ryl</na></co>
+<co c="0"><na f="s/Spring:Neil">Neil Spring</na></co>
+<co c="0"><na f="s/Strowes:Stephen_D=">Stephen D. Strowes</na></co>
+<co c="0"><na f="s/Syrotiuk:Violet_R=">Violet R. Syrotiuk</na></co>
+<co c="0"><na f="t/Teixeira:Renata">Renata Teixeira</na></co>
+<co c="0"><na f="t/Testa:Claudio">Claudio Testa</na></co>
+<co c="0" n="2"><na f="t/Towsley:Don">Don Towsley</na><na>Donald F. Towsley</na></co>
+<co c="0"><na f="t/Turletti:Thierry">Thierry Turletti</na></co>
+<co c="0"><na f="t/Turro:Nicolas">Nicolas Turro</na></co>
+<co c="0"><na f="v/Veeraraghavan:Malathi">Malathi Veeraraghavan</na></co>
+<co c="0"><na f="v/Veitch:Darryl">Darryl Veitch</na></co>
+<co c="0"><na f="v/Vermeulen:Kevin">Kevin Vermeulen</na></co>
+<co c="0"><na f="v/Viger:Fabien">Fabien Viger</na></co>
+<co c="0"><na f="w/Wei_0001:Wei">Wei Wei 0001</na></co>
+<co c="0"><na f="y/Yamanaka:Naoaki">Naoaki Yamanaka</na></co>
+</coauthors>
+</dblpperson>
+

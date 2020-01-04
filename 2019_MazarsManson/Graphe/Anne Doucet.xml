@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Anne Doucet" n="35">
+<person key="homepages/d/AnneDoucet" mdate="2016-03-03">
+<author>Anne Doucet</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www-poleia.lip6.fr/~doucet/</url>
+</person>
+<r><article key="journals/jodl/SearaSBVVD12" mdate="2018-06-26">
+<author>Everton F. R. Seára</author>
+<author>Marcos Sfair Sunyé</author>
+<author orcid="0000-0001-6339-499X">Luis C. E. Bona</author>
+<author>Tiago Vignatti</author>
+<author>André Luís Vignatti</author>
+<author>Anne Doucet</author>
+<title>Extending OAI-PMH over structured P2P networks for digital preservation.</title>
+<pages>13-26</pages>
+<year>2012</year>
+<volume>12</volume>
+<journal>Int. J. on Digital Libraries</journal>
+<number>1</number>
+<url>db/journals/jodl/jodl12.html#SearaSBVVD12</url>
+</article>
+</r>
+<r><inproceedings key="conf/www/PehlivanDG11" mdate="2019-05-28">
+<author>Zeynep Pehlivan</author>
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<title>Changing Vision for Access to Web Archives.</title>
+<pages>41-48</pages>
+<year>2011</year>
+<booktitle>TWAW</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-707/TWAW2011-paper6.pdf</ee>
+<crossref>conf/www/2011ldow</crossref>
+<url>db/conf/www/twaw2011.html#PehlivanDG11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbt/2008damap" mdate="2008-06-17">
+<editor>Anne Doucet</editor>
+<editor>Stéphane Gançarski</editor>
+<editor>Esther Pacitti</editor>
+<title>Proceedings of the 2008 International Workshop on Data Management in Peer-to-Peer Systems, DaMaP 2008, Nantes, France, March 25, 2008</title>
+<year>2008</year>
+<booktitle>DaMaP</booktitle>
+<series href="db/series/aicps/index.html">ACM International Conference Proceeding Series</series>
+<publisher>ACM</publisher>
+<url>db/conf/edbt/damap2008.html</url>
+</proceedings>
+</r>
+<r><article key="journals/entcs/LumineauDG06" mdate="2017-05-28">
+<author>Nicolas Lumineau</author>
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<title>Thematic Schema Building for Mediation-based Peer-to-Peer Architecture.</title>
+<pages>21-36</pages>
+<year>2006</year>
+<volume>150</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<number>2</number>
+<url>db/journals/entcs/entcs150.html#LumineauDG06</url>
+</article>
+</r>
+<r><article key="journals/iajit/NoualiDD06" mdate="2006-01-30">
+<author>Nadia Nouali</author>
+<author>Habiba Drias</author>
+<author>Anne Doucet</author>
+<title>A Mobility-Aware Two-Phase Commit Protocol.</title>
+<pages>1-8</pages>
+<year>2006</year>
+<volume>3</volume>
+<journal>Int. Arab J. Inf. Technol.</journal>
+<number>1</number>
+<url>db/journals/iajit/iajit3.html#NoualiDD06</url>
+</article>
+</r>
+<r><article key="journals/iajit/NoualiDD06a" mdate="2006-04-26">
+<author>Nadia Nouali</author>
+<author>Habiba Drias</author>
+<author>Anne Doucet</author>
+<title>Protocols for Committing Mobile Transactions.</title>
+<pages>134-143</pages>
+<year>2006</year>
+<volume>3</volume>
+<journal>Int. Arab J. Inf. Technol.</journal>
+<number>2</number>
+<url>db/journals/iajit/iajit3.html#NoualiDD06a</url>
+</article>
+</r>
+<r><article key="journals/iee/GancarskiDH06" mdate="2017-06-06">
+<author>Alda Lopes Gançarski</author>
+<author>Anne Doucet</author>
+<author orcid="0000-0002-3208-0207">Pedro Rangel Henriques</author>
+<title>Attribute grammar-based interactive system to retrieve information from XML documents.</title>
+<pages>51-60</pages>
+<year>2006</year>
+<volume>153</volume>
+<journal>IEE Proceedings - Software</journal>
+<number>2</number>
+<url>db/journals/iee/iee-s153.html#GancarskiDH06</url>
+</article>
+</r>
+<r><inproceedings key="conf/adc/NoualiDD05" mdate="2019-07-25">
+<author>Nadia Nouali</author>
+<author>Anne Doucet</author>
+<author>Habiba Drias</author>
+<title>A Two-Phase Commit Protocol for Mobile Wireless Environment.</title>
+<pages>135-144</pages>
+<year>2005</year>
+<crossref>conf/adc/2005</crossref>
+<booktitle>ADC</booktitle>
+<url>db/conf/adc/adc2005.html#NoualiDD05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wec/NoualiDD05" mdate="2005-07-15">
+<author>Nadia Nouali</author>
+<author>Habiba Drias</author>
+<author>Anne Doucet</author>
+<title>Revisiting Distributed Protocols for Mobility at the Application Layer.</title>
+<pages>45-48</pages>
+<year>2005</year>
+<crossref>conf/wec/2005i</crossref>
+<booktitle>WEC (5)</booktitle>
+<url>db/conf/wec/wec2005i.html#NoualiDD05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/LumineauDD04" mdate="2006-07-04">
+<author>Nicolas Lumineau</author>
+<author>Anne Doucet</author>
+<author>Bruno Defude</author>
+<title>VENISE : Content-based Clustering for Data Sharing in Peer-to-Peer Architecture.</title>
+<pages>339-342</pages>
+<year>2004</year>
+<crossref>conf/bda/2004</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2004.html#LumineauDD04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsnw/LumineauDD04" mdate="2017-05-21">
+<author>Nicolas Lumineau</author>
+<author>Anne Doucet</author>
+<author>Bruno Defude</author>
+<title>Cluster Entries for Semantic Organization of Peer-to-Peer Network.</title>
+<pages>319-320</pages>
+<year>2004</year>
+<crossref>conf/icsnw/2004</crossref>
+<booktitle>ICSNW</booktitle>
+<url>db/conf/icsnw/icsnw2004.html#LumineauDD04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/LumineauD04" mdate="2004-09-21">
+<author>Nicolas Lumineau</author>
+<author>Anne Doucet</author>
+<title>Sharing Communities Experiences for Query Propagation in Peer-to-Peer Systems.</title>
+<pages>246-253</pages>
+<year>2004</year>
+<crossref>conf/ideas/2004</crossref>
+<booktitle>IDEAS</booktitle>
+<url>db/conf/ideas/ideas2004.html#LumineauD04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/DoucetL03" mdate="2003-09-17">
+<author>Anne Doucet</author>
+<author>Nicolas Lumineau</author>
+<title>A Collaborative Approach for Query Propagation in Peer-to-Peer Systems.</title>
+<pages>251-257</pages>
+<year>2003</year>
+<crossref>conf/semweb/2003swdb</crossref>
+<booktitle>SWDB</booktitle>
+<url>db/conf/semweb/swdb2003.html#DoucetL03</url>
+</inproceedings>
+</r>
+<r><article key="journals/isi/VachonD02" mdate="2017-05-28">
+<author>É. Vachon</author>
+<author>Anne Doucet</author>
+<title>Armitage, un entrepôt virtuel de vidéos orienté vers la validation de requêtes vidéos.</title>
+<pages>141-168</pages>
+<year>2002</year>
+<volume>7</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>5-6</number>
+<url>db/journals/isi/isi7.html#VachonD02</url>
+</article>
+</r>
+<r><inproceedings key="conf/coopis/DoucetGLR01" mdate="2017-05-25">
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<author>Claudia León</author>
+<author>Marta Rukoz</author>
+<title>Checking Integrity Constraints in Multidatabase Systems with Nested Transactions.</title>
+<pages>316-328</pages>
+<year>2001</year>
+<crossref>conf/coopis/2001</crossref>
+<booktitle>CoopIS</booktitle>
+<url>db/conf/coopis/coopis2001.html#DoucetGLR01</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/bda/2000" mdate="2018-06-22">
+<editor>Anne Doucet</editor>
+<title>16èmes Journées Bases de Données Avancées, BDA 2000, 24-27 octobre 2000, Blois, France, Actes (Informal Proceedings).</title>
+<booktitle>BDA</booktitle>
+<year>2000</year>
+<url>db/conf/bda/bda2000.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/fmldo/DoucetGLR99" mdate="2014-02-11">
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<author>Claudia León</author>
+<author>Marta Rukoz</author>
+<title>Nested Transactions with Integrity Constraints.</title>
+<pages>82-97</pages>
+<year>1999</year>
+<crossref>conf/fmldo/1999</crossref>
+<booktitle>FMLDO</booktitle>
+<url>db/conf/fmldo/fmldo99.html#DoucetGLR99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmldo/DoucetGLR99a" mdate="2017-05-19">
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<author>Claudia León</author>
+<author>Marta Rukoz</author>
+<title>Nested Transactions with Integrity Constraints.</title>
+<pages>130-149</pages>
+<year>1999</year>
+<crossref>conf/fmldo/1999lncs</crossref>
+<booktitle>FMLDO - Selected Papers</booktitle>
+<url>db/conf/fmldo/fmldoLNCS99.html#DoucetGLR99a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cdb/DoucetFGJM97" mdate="2017-05-22">
+<author>Anne Doucet</author>
+<author>Marie-Christine Fauvet</author>
+<author>Stéphane Gançarski</author>
+<author>Geneviève Jomier</author>
+<author>Sophie Monties</author>
+<title>Using Database Versions to Implement Temporal Integrity Constraints.</title>
+<pages>219-233</pages>
+<year>1997</year>
+<crossref>conf/cdb/1997</crossref>
+<booktitle>CDB</booktitle>
+<url>db/conf/cdb/cdb97.html#DoucetFGJM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/DoucetM97" mdate="2017-05-23">
+<author>Anne Doucet</author>
+<author>Sophie Monties</author>
+<pages>252-261</pages>
+<year>1997</year>
+<crossref>conf/dexa/1997</crossref>
+<booktitle>DEXA</booktitle>
+<url>db/conf/dexa/dexa97.html#DoucetM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/DoucetGJM96" mdate="2004-05-17">
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<author>Geneviève Jomier</author>
+<author>Sophie Monties</author>
+<pages>181-</pages>
+<year>1996</year>
+<crossref>conf/bda/1996</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda1996.html#DoucetGJM96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/DouchetGJM96" mdate="2017-05-22">
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<author>Geneviève Jomier</author>
+<author>Sophie Monties</author>
+<pages>56-73</pages>
+<year>1996</year>
+<crossref>conf/bncod/1996</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod96.html#DouchetGJM96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmldo/DoucetGJM96" mdate="2017-03-20">
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<author>Geneviève Jomier</author>
+<author>Sophie Monties</author>
+<title>Integrity Constraints and Versions.</title>
+<pages>25-39</pages>
+<year>1996</year>
+<crossref>conf/fmldo/1996</crossref>
+<booktitle>FMLDO</booktitle>
+<url>db/conf/fmldo/fmldo96.html#DoucetGJM96</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/BenzakenD95" mdate="2017-03-29">
+<author>Véronique Benzaken</author>
+<author>Anne Doucet</author>
+<title>Thémis: A Database Programming Language Handling Integrity Constraints</title>
+<journal>VLDB J.</journal>
+<volume>4</volume>
+<number>3</number>
+<year>1995</year>
+<pages>493-517</pages>
+<url>db/journals/vldb/vldb4.html#BenzakenD95</url>
+<cite label="Atkinson and Buneman 1987">journals/csur/AtkinsonB87</cite>
+<cite label="Benzaken and Doucet 1993">conf/dbpl/BenzakenD93</cite>
+<cite label="Benzaken et al. 1995">...</cite>
+<cite label="Benzaken et al. 1992">conf/pos/BenzakenLR92</cite>
+<cite label="Blaustein 1981">...</cite>
+<cite label="Bry et al. 1988">conf/edbt/BryDM88</cite>
+<cite label="Bry and Manthey 1986">conf/vldb/BryM86</cite>
+<cite label="Cardelli 1984">...</cite>
+<cite label="Cardelli 1987">journals/scp/Cardelli87</cite>
+<cite label="Cardelli 1988">conf/popl/Cardelli88</cite>
+<cite label="Cardelli and Wegner 1985">journals/csur/CardelliW85</cite>
+<cite label="Castagna 1995a">journals/toplas/Castagna95</cite>
+<cite label="Castagna 1995b">...</cite>
+<cite label="Castagna et al. 1995">journals/iandc/CastagnaGL95</cite>
+<cite label="Cousot and Cousot 1976">...</cite>
+<cite label="Gardarin and Melkanoff 1979">conf/vldb/GardarinM79</cite>
+<cite label="Hsu and Imielinski 1985">conf/sigmod/HsuI85</cite>
+<cite label="Hull et al. 1989">...</cite>
+<cite label="Kowalski et al. 1987">conf/vldb/KowalskiSS87</cite>
+<cite label="Martin 1991">...</cite>
+<cite label="Nicolas 1979">journals/acta/Nicolas82</cite>
+<cite label="Sheard and Stemple 1989">journals/tods/SheardS89</cite>
+<cite label="Stonebraker 1975">conf/sigmod/Stonebraker75</cite>
+<cite label="Weber et al. 1983">journals/is/WeberSK83</cite>
+</article>
+</r>
+<r><inproceedings key="conf/bda/BenzakenDS94" mdate="2004-05-12">
+<author>Véronique Benzaken</author>
+<author>Anne Doucet</author>
+<author>Xavier Schaefer</author>
+<title>Integrity constraint checking optimization based on abstract interpretation.</title>
+<year>1994</year>
+<crossref>conf/bda/1994</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda1994.html#BenzakenDS94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/Doucet94" mdate="2019-06-24">
+<author>Anne Doucet</author>
+<title>Persistent Systems Engineering.</title>
+<pages>477-478</pages>
+<cdrom>POS/1994/P477.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Doucet94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/BenzakenDP93" mdate="2004-05-11">
+<author>Véronique Benzaken</author>
+<author>Anne Doucet</author>
+<author>P.-Y. Policella</author>
+<title>Définition et Gestion de Constraintes d'Intégrité dans le Language Thémis.</title>
+<pages>425-</pages>
+<year>1993</year>
+<crossref>conf/bda/1993</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda1993.html#BenzakenDP93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/BenzakenD93" mdate="2012-09-18">
+<author>Véronique Benzaken</author>
+<author>Anne Doucet</author>
+<title>Thémis: a database programming language with integrity constraints.</title>
+<pages>243-262</pages>
+<cdrom>DBPL1993/P243.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#BenzakenD93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite label="BDM88">conf/edbt/BryDM88</cite>
+<cite label="BM86">conf/vldb/BryM86</cite>
+<cite label="Car84">...</cite>
+<cite label="GM79">conf/vldb/GardarinM79</cite>
+<cite label="HI85">conf/sigmod/HsuI85</cite>
+<cite label="HMS89">conf/dbpl/89</cite>
+<cite label="KSS87">conf/vldb/KowalskiSS87</cite>
+<cite label="LR89">conf/pods/LecluseR89</cite>
+<cite label="LR90">...</cite>
+<cite label="Mar91">...</cite>
+<cite label="Nic79">journals/acta/Nicolas82</cite>
+<cite label="SS89">journals/tods/SheardS89</cite>
+<cite label="Sto75">conf/sigmod/Stonebraker75</cite>
+<cite label="WSK83">journals/is/WeberSK83</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/BenzakenD92" mdate="2004-05-07">
+<author>Véronique Benzaken</author>
+<author>Anne Doucet</author>
+<title>Enforcement tests generation for integrity constraints cheching based on simplification methods in object-oriented database systems.</title>
+<pages>124-</pages>
+<year>1992</year>
+<crossref>conf/bda/1992</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda1992.html#BenzakenD92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/BorrasDP92" mdate="2019-08-03">
+<author>Patrick Borras</author>
+<author>Anne Doucet</author>
+<author>Patrick Pfeffer</author>
+<title>A Fully Integrated Programming Environment for an Object-Oriented Database.</title>
+<pages>33-47</pages>
+<year>1992</year>
+<crossref>conf/caise/92</crossref>
+<booktitle>CAiSE</booktitle>
+<url>db/conf/caise/caise92.html#BorrasDP92</url>
+</inproceedings>
+</r>
+<r><incollection key="books/mk/bancilhonDK92/BorrasDPT92" mdate="2019-08-04">
+<author>Patrick Borras</author>
+<author>Anne Doucet</author>
+<author>Patrick Pfeffer</author>
+<author>Didier Tallot</author>
+<title>The O2 Programming Environment.</title>
+<pages>508-522</pages>
+<year>1992</year>
+<crossref>books/mk/BancilhonDK92</crossref>
+<booktitle>Building an Object-Oriented Database System, The Story of O2</booktitle>
+<url>db/books/collections/o2.html#BorrasDPT92</url>
+</incollection>
+</r>
+<r><incollection key="books/mk/bancilhonDK92/DoucetP92" mdate="2019-08-04">
+<author>Anne Doucet</author>
+<author>Patrick Pfeffer</author>
+<title>Using a Database System to Implement a Debugger.</title>
+<pages>523-540</pages>
+<year>1992</year>
+<crossref>books/mk/BancilhonDK92</crossref>
+<booktitle>Building an Object-Oriented Database System, The Story of O2</booktitle>
+<url>db/books/collections/o2.html#DoucetP92</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/tools/DoucetAP91" mdate="2007-04-25">
+<author>Anne Doucet</author>
+<author>Gip Altair</author>
+<author>Patrick Pfeffer</author>
+<title>Database Programmers are Handcrafters: They Need Appropriate Tools.</title>
+<pages>103-116</pages>
+<year>1991</year>
+<crossref>conf/tools/5-1991</crossref>
+<booktitle>TOOLS (5)</booktitle>
+<url>db/conf/tools/tools05-1991.html#DoucetAP91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/BorrasDPT90" mdate="2004-05-07">
+<author>Patrick Borras</author>
+<author>Anne Doucet</author>
+<author>Patrick Pfeffer</author>
+<author>Didier Tallot</author>
+<title>OOPE, the O<sub>2</sub> programming environment.</title>
+<pages>159-</pages>
+<year>1990</year>
+<crossref>conf/bda/1990</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda1990.html#BorrasDPT90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ds/DoucetP90" mdate="2017-04-28">
+<author>Anne Doucet</author>
+<author>Patrick Pfeffer</author>
+<title>Using a Database System to Implement a Debugger.</title>
+<pages>225-242</pages>
+<year>1990</year>
+<crossref>conf/ds/90</crossref>
+<booktitle>DS-4</booktitle>
+<url>db/conf/ds/ds90.html#DoucetP90</url>
+</inproceedings>
+</r>
+<coauthors n="27" nc="4">
+<co c="1"><na f="a/Altair:Gip">Gip Altair</na></co>
+<co c="1"><na f="b/Benzaken:V=eacute=ronique">Véronique Benzaken</na></co>
+<co c="2" n="2"><na f="b/Bona:Luis_Carlos_Erpen_De">Luis Carlos Erpen De Bona</na><na>Luis C. E. Bona</na></co>
+<co c="1"><na f="b/Borras:Patrick">Patrick Borras</na></co>
+<co c="0"><na f="d/Defude:Bruno">Bruno Defude</na></co>
+<co c="3"><na f="d/Drias:Habiba">Habiba Drias</na></co>
+<co c="0"><na f="f/Fauvet:Marie=Christine">Marie-Christine Fauvet</na></co>
+<co c="0"><na f="g/Gan=ccedil=arski:Alda_Lopes">Alda Lopes Gançarski</na></co>
+<co c="0"><na f="g/Gan=ccedil=arski:St=eacute=phane">Stéphane Gançarski</na></co>
+<co c="0"><na f="h/Henriques:Pedro_Rangel">Pedro Rangel Henriques</na></co>
+<co c="0"><na f="j/Jomier:Genevi=egrave=ve">Geneviève Jomier</na></co>
+<co c="0"><na f="l/Le=oacute=n:Claudia">Claudia León</na></co>
+<co c="0"><na f="l/Lumineau:Nicolas">Nicolas Lumineau</na></co>
+<co c="0"><na f="m/Monties:Sophie">Sophie Monties</na></co>
+<co c="3" n="2"><na f="n/Nouali=Taboudjemat:Nadia">Nadia Nouali-Taboudjemat</na><na>Nadia Nouali</na></co>
+<co c="0"><na f="p/Pacitti:Esther">Esther Pacitti</na></co>
+<co c="0"><na f="p/Pehlivan:Zeynep">Zeynep Pehlivan</na></co>
+<co c="1"><na f="p/Pfeffer:Patrick">Patrick Pfeffer</na></co>
+<co c="1"><na f="p/Policella:P==Y=">P.-Y. Policella</na></co>
+<co c="0"><na f="r/Rukoz:Marta">Marta Rukoz</na></co>
+<co c="1"><na f="s/Schaefer:Xavier">Xavier Schaefer</na></co>
+<co c="2"><na f="s/Se=aacute=ra:Everton_F=_R=">Everton F. R. Seára</na></co>
+<co c="2"><na f="s/Suny=eacute=:Marcos_Sfair">Marcos Sfair Sunyé</na></co>
+<co c="1"><na f="t/Tallot:Didier">Didier Tallot</na></co>
+<co c="-1"><na f="v/Vachon:=Eacute==">É. Vachon</na></co>
+<co c="2"><na f="v/Vignatti:Andr=eacute=_Lu=iacute=s">André Luís Vignatti</na></co>
+<co c="2"><na f="v/Vignatti:Tiago">Tiago Vignatti</na></co>
+</coauthors>
+</dblpperson>
+

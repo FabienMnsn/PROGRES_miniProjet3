@@ -1,0 +1,911 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Patrice Perny" n="71">
+<person key="homepages/01/3393" mdate="2009-06-10">
+<author>Patrice Perny</author>
+</person>
+<r><article key="journals/algorithmica/LescaMP19" mdate="2019-01-18">
+<author orcid="0000-0002-2128-1337">Julien Lesca</author>
+<author>Michel Minoux</author>
+<author>Patrice Perny</author>
+<title>The Fair OWA One-to-One Assignment Problem: NP-Hardness and Polynomial Time Special Cases.</title>
+<pages>98-123</pages>
+<year>2019</year>
+<volume>81</volume>
+<journal>Algorithmica</journal>
+<number>1</number>
+<url>db/journals/algorithmica/algorithmica81.html#LescaMP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/BourdacheP19" mdate="2019-09-25">
+<author>Nadjet Bourdache</author>
+<author>Patrice Perny</author>
+<title>Active Preference Learning Based on Generalized Gini Functions: Application to the Multiagent Knapsack Problem.</title>
+<pages>7741-7748</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#BourdacheP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aldt/BenabbouLLP19" mdate="2019-10-10">
+<author>Nawal Benabbou</author>
+<author>Cassandre Leroy</author>
+<author>Thibaut Lust</author>
+<author>Patrice Perny</author>
+<title>Combining Local Search and Elicitation for Multi-Objective Combinatorial Optimization.</title>
+<pages>1-16</pages>
+<year>2019</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2019</crossref>
+<url>db/conf/aldt/adt2019.html#BenabbouLLP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/MartinP19" mdate="2019-08-20">
+<author>Hugo Martin</author>
+<author>Patrice Perny</author>
+<title>BiOWA for Preference Aggregation with Bipolar Scales: Application to Fair Optimization in Combinatorial Domains.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/252</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#MartinP19</url>
+<pages>1822-1828</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BourdachePS19" mdate="2019-08-20">
+<author>Nadjet Bourdache</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>Incremental Elicitation of Rank-Dependent Aggregation Functions based on Bayesian Linear Regression.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/280</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#BourdachePS19</url>
+<pages>2023-2029</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/MartinP19" mdate="2019-12-02">
+<author>Hugo Martin</author>
+<author>Patrice Perny</author>
+<title>Computational Models for Cumulative Prospect Theory: Application to the Knapsack Problem Under Risk.</title>
+<pages>52-65</pages>
+<year>2019</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2019</crossref>
+<url>db/conf/sum/sum2019.html#MartinP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/BourdachePS19" mdate="2019-12-02">
+<author>Nadjet Bourdache</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>Active Preference Elicitation by Bayesian Updating on Optimality Polyhedra.</title>
+<pages>93-106</pages>
+<year>2019</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2019</crossref>
+<url>db/conf/sum/sum2019.html#BourdachePS19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ai/BenabbouPV17" mdate="2017-06-14">
+<author orcid="0000-0002-4589-4162">Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<author>Paolo Viappiani</author>
+<title>Incremental elicitation of Choquet capacities for multicriteria choice, ranking and sorting problems.</title>
+<pages>152-180</pages>
+<year>2017</year>
+<volume>246</volume>
+<journal>Artif. Intell.</journal>
+<url>db/journals/ai/ai246.html#BenabbouPV17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aldt/BourdacheP17" mdate="2017-10-18">
+<author>Nadjet Bourdache</author>
+<author>Patrice Perny</author>
+<title>Anytime Algorithms for Adaptive Robust Optimization with OWA and WOWA.</title>
+<pages>93-107</pages>
+<year>2017</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2017</crossref>
+<url>db/conf/aldt/adt2017.html#BourdacheP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/LescaPY17" mdate="2017-05-11">
+<author>Julien Lesca</author>
+<author>Patrice Perny</author>
+<author>Makoto Yokoo</author>
+<title>Coalition Structure Generation and CS-core: Results on the Tractability Frontier for games represented by MC-nets.</title>
+<pages>308-316</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#LescaPY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BenabbouP17" mdate="2019-08-20">
+<author>Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<title>Adaptive Elicitation of Preferences under Uncertainty in Sequential Decision Making Problems.</title>
+<pages>4566-4572</pages>
+<year>2017</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2017/637</ee>
+<crossref>conf/ijcai/2017</crossref>
+<url>db/conf/ijcai/ijcai2017.html#BenabbouP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/GilbertBPSV17" mdate="2019-08-20">
+<author>Hugo Gilbert</author>
+<author>Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<author>Paolo Viappiani</author>
+<title>Incremental Decision Making Under Risk with the Weighted Expected Utility Model.</title>
+<pages>4588-4594</pages>
+<year>2017</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2017/640</ee>
+<crossref>conf/ijcai/2017</crossref>
+<url>db/conf/ijcai/ijcai2017.html#GilbertBPSV17</url>
+</inproceedings>
+</r>
+<r><article key="journals/amai/IsmailiP16" mdate="2017-05-28">
+<author>Anisse Ismaili</author>
+<author>Patrice Perny</author>
+<title>Computational social choice for coordination in agent networks.</title>
+<pages>335-359</pages>
+<year>2016</year>
+<volume>77</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>3-4</number>
+<url>db/journals/amai/amai77.html#IsmailiP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/BenabbouP16" mdate="2017-05-24">
+<author>Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<title>Solving Multi-Agent Knapsack Problems Using Incremental Approval Voting.</title>
+<pages>1318-1326</pages>
+<year>2016</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2016</crossref>
+<url>db/conf/ecai/ecai2016.html#BenabbouP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/OudghiriPSH16" mdate="2017-05-24">
+<author>Soufiane Drissi Oudghiri</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<author>Mohamed Hachimi</author>
+<title>Using the Sugeno Integral in Optimal Assignment Problems with Qualitative Utilities.</title>
+<pages>1406-1413</pages>
+<year>2016</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2016</crossref>
+<url>db/conf/ecai/ecai2016.html#OudghiriPSH16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/BenabbouDPV16" mdate="2017-05-24">
+<author>Nawal Benabbou</author>
+<author>Serena Di Sabatino Di Diodoro</author>
+<author>Patrice Perny</author>
+<author>Paolo Viappiani</author>
+<title>Incremental Preference Elicitation in Multi-attribute Domains for Choice and Ranking with the Borda Count.</title>
+<pages>81-95</pages>
+<year>2016</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2016</crossref>
+<url>db/conf/sum/sum2016.html#BenabbouDPV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uai/PernyVB16" mdate="2016-08-11">
+<author>Patrice Perny</author>
+<author>Paolo Viappiani</author>
+<author>Abdellah Boukhatem</author>
+<title>Incremental Preference Elicitation for Decision Making Under Risk with the Rank-Dependent Utility Model.</title>
+<year>2016</year>
+<booktitle>UAI</booktitle>
+<crossref>conf/uai/2016</crossref>
+<url>db/conf/uai/uai2016.html#PernyVB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/BenabbouP15" mdate="2015-04-12">
+<author>Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<title>Incremental Weight Elicitation for Multiobjective State Space Search.</title>
+<pages>1093-1099</pages>
+<year>2015</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2015</crossref>
+<url>db/conf/aaai/aaai2015.html#BenabbouP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aldt/BenabbouP15" mdate="2017-06-01">
+<author orcid="0000-0002-4589-4162">Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<title>On Possibly Optimal Tradeoffs in Multicriteria Spanning Tree Problems.</title>
+<pages>322-337</pages>
+<year>2015</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2015</crossref>
+<url>db/conf/aldt/adt2015.html#BenabbouP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BenabbouP15" mdate="2019-08-20">
+<author>Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<title>Combining Preference Elicitation and Search in Multiobjective State-Space Graphs.</title>
+<pages>297-303</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/048</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#BenabbouP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/GoldsmithLMP14" mdate="2014-07-31">
+<author>Judy Goldsmith</author>
+<author>Jérôme Lang</author>
+<author>Nicholas Mattei</author>
+<author>Patrice Perny</author>
+<title>Voting with Rank Dependent Scoring Rules.</title>
+<pages>698-704</pages>
+<year>2014</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2014</crossref>
+<url>db/conf/aaai/aaai2014.html#GoldsmithLMP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/IsmailiBMP14" mdate="2014-09-25">
+<author>Anisse Ismaili</author>
+<author>Evripidis Bampis</author>
+<author>Nicolas Maudet</author>
+<author>Patrice Perny</author>
+<title>How the number of strategies impacts the likelihood of equilibria in random graphical games.</title>
+<pages>285-292</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#IsmailiBMP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BenabbouPV14" mdate="2017-06-02">
+<author orcid="0000-0002-4589-4162">Nawal Benabbou</author>
+<author>Patrice Perny</author>
+<author>Paolo Viappiani</author>
+<title>Incremental Elicitation of Choquet Capacities for Multicriteria Decision Making.</title>
+<pages>87-92</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BenabbouPV14</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/LescaMP13" mdate="2017-05-28">
+<author>Julien Lesca</author>
+<author>Michel Minoux</author>
+<author>Patrice Perny</author>
+<title>Compact versus noncompact LP formulations for minimizing convex Choquet integrals.</title>
+<pages>184-199</pages>
+<year>2013</year>
+<volume>161</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>1-2</number>
+<url>db/journals/dam/dam161.html#LescaMP13</url>
+</article>
+</r>
+<r><article key="journals/ijitdm/OgryczakPW13" mdate="2017-06-06">
+<author orcid="0000-0002-3923-4053">Wlodzimierz Ogryczak</author>
+<author>Patrice Perny</author>
+<author>Paul Weng</author>
+<title>A Compromise Programming Approach to multiobjective Markov Decision Processes.</title>
+<pages>1021-1054</pages>
+<year>2013</year>
+<volume>12</volume>
+<journal>International Journal of Information Technology and Decision Making</journal>
+<number>5</number>
+<url>db/journals/ijitdm/ijitdm12.html#OgryczakPW13</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/PernyWGH13" mdate="2013-12-17">
+<author>Patrice Perny</author>
+<author>Paul Weng</author>
+<author>Judy Goldsmith</author>
+<author>Josiah Hanna</author>
+<title>Approximation of Lorenz-Optimal Solutions in Multiobjective Markov Decision Processes.</title>
+<year>2013</year>
+<booktitle>AAAI (Late-Breaking Developments)</booktitle>
+<crossref>conf/aaai/2013late</crossref>
+<url>db/conf/aaai/late2013.html#PernyWGH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/IsmailiBMP13" mdate="2013-06-28">
+<author>Anisse Ismaili</author>
+<author>Evripidis Bampis</author>
+<author>Nicolas Maudet</author>
+<author>Patrice Perny</author>
+<title>A study on the stability and efficiency of graphical games with unbounded treewidth.</title>
+<pages>263-270</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#IsmailiBMP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/GalandLP13" mdate="2019-08-20">
+<author>Lucie Galand</author>
+<author>Julien Lesca</author>
+<author>Patrice Perny</author>
+<title>Dominance Rules for the Choquet Integral in Multiobjective Dynamic Programming.</title>
+<year>2013</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/13/087</ee>
+<crossref>conf/ijcai/2013</crossref>
+<url>db/conf/ijcai/ijcai2013.html#GalandLP13</url>
+<pages>538-544</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socs/GalandIPS13" mdate="2013-08-20">
+<author>Lucie Galand</author>
+<author>Anisse Ismaili</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>Bidirectional Preference-Based Search for State Space Graph Problems.</title>
+<year>2013</year>
+<booktitle>SOCS</booktitle>
+<crossref>conf/socs/2013</crossref>
+<url>db/conf/socs/socs2013.html#GalandIPS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uai/PernyWGH13" mdate="2014-09-26">
+<author>Patrice Perny</author>
+<author>Paul Weng</author>
+<author>Judy Goldsmith</author>
+<author>Josiah Hanna</author>
+<title>Approximation of Lorenz-Optimal Solutions in Multiobjective Markov Decision Processes.</title>
+<year>2013</year>
+<booktitle>UAI</booktitle>
+<crossref>conf/uai/2013</crossref>
+<url>db/conf/uai/uai2013.html#PernyWGH13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/aldt/2013" mdate="2019-05-14">
+<editor>Patrice Perny</editor>
+<editor>Marc Pirlot</editor>
+<editor>Alexis Tsoukiàs</editor>
+<title>Algorithmic Decision Theory - Third International Conference, ADT 2013, Bruxelles, Belgium, November 12-14, 2013, Proceedings</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8176</volume>
+<isbn>978-3-642-41574-6</isbn>
+<booktitle>ADT</booktitle>
+<url>db/conf/aldt/adt2013.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-6694" mdate="2018-08-13">
+<author>Hélène Fargier</author>
+<author>Patrice Perny</author>
+<title>Qualitative Models for Decision Under Uncertainty without the Commensurability Assumption</title>
+<ee type="oa">http://arxiv.org/abs/1301.6694</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.6694</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-6694</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PernyWGH13" mdate="2018-08-13">
+<author>Patrice Perny</author>
+<author>Paul Weng</author>
+<author>Judy Goldsmith</author>
+<author>Josiah Hanna</author>
+<title>Approximation of Lorenz-Optimal Solutions in Multiobjective Markov Decision Processes.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.6856</ee>
+<volume>abs/1309.6856</volume>
+<url>db/journals/corr/corr1309.html#PernyWGH13</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/JeantetPS12" mdate="2012-08-16">
+<author>Gildas Jeantet</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>Sequential Decision Making with Rank Dependent Utility: A Minimax Regret Approach.</title>
+<year>2012</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2012</crossref>
+<url>db/conf/aaai/aaai2012.html#JeantetPS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/LescaP12" mdate="2017-05-24">
+<author>Julien Lesca</author>
+<author>Patrice Perny</author>
+<title>Almost-truthful Mechanisms for Fair Social Choice Functions.</title>
+<pages>522-527</pages>
+<year>2012</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2012</crossref>
+<url>db/conf/ecai/ecai2012.html#LescaP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdai/OgryczakPW12" mdate="2017-06-04">
+<author orcid="0000-0002-3923-4053">Wlodzimierz Ogryczak</author>
+<author>Patrice Perny</author>
+<author>Paul Weng</author>
+<title>On WOWA Rank Reversal.</title>
+<pages>66-77</pages>
+<year>2012</year>
+<booktitle>MDAI</booktitle>
+<crossref>conf/mdai/2012</crossref>
+<url>db/conf/mdai/mdai2012.html#OgryczakPW12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1206-5244" mdate="2018-08-13">
+<author>Lucie Galand</author>
+<author>Patrice Perny</author>
+<title>Search for Choquet-optimal paths under uncertainty</title>
+<ee type="oa">http://arxiv.org/abs/1206.5244</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1206.5244</volume>
+<url>db/journals/corr/corr1206.html#abs-1206-5244</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1212-2496" mdate="2018-08-13">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>An Axiomatic Approach to Robustness in Search Problems with Multiple Scenarios</title>
+<ee type="oa">http://arxiv.org/abs/1212.2496</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1212.2496</volume>
+<url>db/journals/corr/corr1212.html#abs-1212-2496</url>
+</article>
+</r>
+<r><article key="journals/ai/GonzalesPD11" mdate="2017-05-27">
+<author>Christophe Gonzales</author>
+<author>Patrice Perny</author>
+<author>Jean-Philippe Dubus</author>
+<title>Decision making with multiple objectives using GAI networks.</title>
+<pages>1153-1179</pages>
+<year>2011</year>
+<volume>175</volume>
+<journal>Artif. Intell.</journal>
+<number>7-8</number>
+<url>db/journals/ai/ai175.html#GonzalesPD11</url>
+</article>
+</r>
+<r><inproceedings key="conf/aldt/OgryczakPW11" mdate="2017-06-01">
+<author orcid="0000-0002-3923-4053">Wlodzimierz Ogryczak</author>
+<author>Patrice Perny</author>
+<author>Paul Weng</author>
+<title>On Minimizing Ordered Weighted Regrets in Multiobjective Markov Decision Processes.</title>
+<pages>190-204</pages>
+<year>2011</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2011</crossref>
+<url>db/conf/aldt/adt2011.html#OgryczakPW11</url>
+</inproceedings>
+</r>
+<r><article key="journals/eor/GalandPS10" mdate="2017-05-27">
+<author>Lucie Galand</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>Choquet-based optimisation in multiobjective shortest path and spanning tree problems.</title>
+<pages>303-315</pages>
+<year>2010</year>
+<volume>204</volume>
+<journal>European Journal of Operational Research</journal>
+<number>2</number>
+<url>db/journals/eor/eor204.html#GalandPS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/GoldenP10" mdate="2018-11-30">
+<author>Boris Golden</author>
+<author>Patrice Perny</author>
+<title>Infinite order Lorenz dominance for fair multiagent optimization.</title>
+<pages>383-390</pages>
+<year>2010</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2010</crossref>
+<url>db/conf/atal/aamas2010.html#GoldenP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/LescaP10" mdate="2017-05-24">
+<author>Julien Lesca</author>
+<author>Patrice Perny</author>
+<title>LP Solvable Models for Multiagent Fair Allocation Problems.</title>
+<pages>393-398</pages>
+<year>2010</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2010</crossref>
+<url>db/conf/ecai/ecai2010.html#LescaP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/PernyW10" mdate="2017-05-24">
+<author>Patrice Perny</author>
+<author>Paul Weng</author>
+<title>On Finding Compromise Solutions in Multiobjective Markov Decision Processes.</title>
+<pages>969-970</pages>
+<year>2010</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2010</crossref>
+<url>db/conf/ecai/ecai2010.html#PernyW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aldt/DubusGP09" mdate="2017-05-23">
+<author>Jean-Philippe Dubus</author>
+<author>Christophe Gonzales</author>
+<author>Patrice Perny</author>
+<title>Choquet Optimization Using GAI Networks for Multiagent/Multicriteria Decision-Making.</title>
+<pages>377-389</pages>
+<year>2009</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2009</crossref>
+<url>db/conf/aldt/adt2009.html#DubusGP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/DubusGP09" mdate="2019-08-20">
+<author>Jean-Philippe Dubus</author>
+<author>Christophe Gonzales</author>
+<author>Patrice Perny</author>
+<title>Fast Recommendations using GAI Models.</title>
+<pages>1896-1901</pages>
+<year>2009</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/09/Papers/314.pdf</ee>
+<crossref>conf/ijcai/2009</crossref>
+<url>db/conf/ijcai/ijcai2009.html#DubusGP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/DubusGP09a" mdate="2019-08-20">
+<author>Jean-Philippe Dubus</author>
+<author>Christophe Gonzales</author>
+<author>Patrice Perny</author>
+<title>Multiobjective Optimization using GAI Models.</title>
+<pages>1902-1907</pages>
+<year>2009</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/09/Papers/315.pdf</ee>
+<crossref>conf/ijcai/2009</crossref>
+<url>db/conf/ijcai/ijcai2009.html#DubusGP09a</url>
+</inproceedings>
+</r>
+<r><incollection key="books/wi/09/BouyssouMP09" mdate="2019-07-17">
+<author>Denis Bouyssou</author>
+<author>Thierry Marchant</author>
+<author>Patrice Perny</author>
+<title>Social Choice Theory and Multicriteria Decision Aiding.</title>
+<pages>779-810</pages>
+<year>2009</year>
+<booktitle>Decision-making Process</booktitle>
+<crossref>books/wi/09/BDPP2009</crossref>
+<url>db/books/collections/BDPP2009.html#BouyssouMP09</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/aaai/GonzalesPQ08" mdate="2012-12-10">
+<author>Christophe Gonzales</author>
+<author>Patrice Perny</author>
+<author>Sergio Queiroz</author>
+<title>Preference Aggregation with Graphical Utility Models.</title>
+<pages>1037-1042</pages>
+<year>2008</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2008</crossref>
+<url>db/conf/aaai/aaai2008.html#GonzalesPQ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/PernyS08" mdate="2017-05-24">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>Near Admissible Algorithms for Multiobjective Search.</title>
+<pages>490-494</pages>
+<year>2008</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2008</crossref>
+<url>db/conf/ecai/ecai2008.html#PernyS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mcdm/GalandPS08" mdate="2017-05-23">
+<author>Lucie Galand</author>
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>A Branch and Bound Algorithm for Choquet Optimization in Multicriteria Problems.</title>
+<pages>355-365</pages>
+<year>2008</year>
+<booktitle>MCDM</booktitle>
+<crossref>conf/mcdm/2008</crossref>
+<url>db/conf/mcdm/mcdm2008.html#GalandPS08</url>
+</inproceedings>
+</r>
+<r><article key="journals/ai/DuboisFP07" mdate="2017-05-27">
+<author>Didier Dubois</author>
+<author>Hélène Fargier</author>
+<author>Patrice Perny</author>
+<title>Corrigendum to "Qualitative decision theory with preference relations and comparative uncertainty: an axiomatic approach" [Artificial Intelligence 148 (1-2) (2003) 219-260].</title>
+<pages>361-362</pages>
+<year>2007</year>
+<volume>171</volume>
+<journal>Artif. Intell.</journal>
+<number>5-6</number>
+<url>db/journals/ai/ai171.html#DuboisFP07</url>
+</article>
+</r>
+<r><article key="journals/ria/GonzalesPQ07" mdate="2017-05-27">
+<author>Christophe Gonzales</author>
+<author>Patrice Perny</author>
+<author>Sergio Queiroz</author>
+<title>Réseaux GAI pour la prise de décision.</title>
+<pages>555-587</pages>
+<year>2007</year>
+<volume>21</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>4</number>
+<url>db/journals/ria/ria21.html#GonzalesPQ07</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/PernySS07" mdate="2019-08-20">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<author>Louis-Xavier Storme</author>
+<title>State Space Search for Risk-Averse Agents.</title>
+<pages>2353-2358</pages>
+<year>2007</year>
+<crossref>conf/ijcai/2007</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/07/Papers/379.pdf</ee>
+<url>db/conf/ijcai/ijcai2007.html#PernySS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uai/GalandP07" mdate="2015-05-06">
+<author>Lucie Galand</author>
+<author>Patrice Perny</author>
+<title>Search for Choquet-optimal paths under uncertainty.</title>
+<pages>125-132</pages>
+<year>2007</year>
+<booktitle>UAI</booktitle>
+<crossref>conf/uai/2007</crossref>
+<url>db/conf/uai/uai2007.html#GalandP07</url>
+</inproceedings>
+</r>
+<r><article key="journals/anor/PernySS06" mdate="2017-05-27">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<author>Louis-Xavier Storme</author>
+<title>A decision-theoretic approach to robust optimization in multivalued graphs.</title>
+<pages>317-341</pages>
+<year>2006</year>
+<volume>147</volume>
+<journal>Annals OR</journal>
+<number>1</number>
+<url>db/journals/anor/anor147.html#PernySS06</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/GalandP06" mdate="2012-03-13">
+<author>Lucie Galand</author>
+<author>Patrice Perny</author>
+<title>Search for Compromise Solutions in Multiobjective State Space Graphs.</title>
+<pages>93-97</pages>
+<year>2006</year>
+<crossref>conf/ecai/2006</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2006.html#GalandP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/PernyR06" mdate="2006-10-25">
+<author>Patrice Perny</author>
+<author>Antoine Rolland</author>
+<title>Reference-Dependent Qualitative Models for Decision Making Under Uncertainty.</title>
+<pages>422-426</pages>
+<year>2006</year>
+<crossref>conf/ecai/2006</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2006.html#PernyR06</url>
+</inproceedings>
+</r>
+<r><article key="journals/eor/PernyT05" mdate="2017-05-27">
+<author>Patrice Perny</author>
+<author>Alexis Tsoukiàs</author>
+<title>Decision analysis and artificial intelligence: Feature cluster from the XIX EURO Summer Institute, Toulouse, France, 9-21/9/2001.</title>
+<pages>579-581</pages>
+<year>2005</year>
+<volume>160</volume>
+<journal>European Journal of Operational Research</journal>
+<number>3</number>
+<url>db/journals/eor/eor160.html#PernyT05</url>
+</article>
+</r>
+<r><article key="journals/eor/PernyS05" mdate="2017-05-27">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>A preference-based approach to spanning trees and shortest paths problems****.</title>
+<pages>584-601</pages>
+<year>2005</year>
+<volume>162</volume>
+<journal>European Journal of Operational Research</journal>
+<number>3</number>
+<url>db/journals/eor/eor162.html#PernyS05</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/PernySW05" mdate="2019-08-20">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<author>Paul Weng</author>
+<title>Algebraic Markov Decision Processes.</title>
+<pages>1372-1377</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1677.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PernySW05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kr/GonzalesP04" mdate="2012-12-13">
+<author>Christophe Gonzales</author>
+<author>Patrice Perny</author>
+<title>GAI Networks for Utility Elicitation.</title>
+<pages>224-234</pages>
+<year>2004</year>
+<crossref>conf/kr/2004</crossref>
+<booktitle>KR</booktitle>
+<url>db/conf/kr/kr2004.html#GonzalesP04</url>
+</inproceedings>
+</r>
+<r><article key="journals/ai/DuboisFP03" mdate="2017-05-27">
+<author>Didier Dubois</author>
+<author>Hélène Fargier</author>
+<author>Patrice Perny</author>
+<title>Qualitative decision theory with preference relations and comparative uncertainty: An axiomatic approach.</title>
+<pages>219-260</pages>
+<year>2003</year>
+<volume>148</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai148.html#DuboisFP03</url>
+</article>
+</r>
+<r><article key="journals/ijis/DuboisFPP03" mdate="2017-05-27">
+<author>Didier Dubois</author>
+<author>Hélène Fargier</author>
+<author>Patrice Perny</author>
+<author>Henri Prade</author>
+<title>A characterization of generalized concordance rules in multicriteria decision making.</title>
+<pages>751-774</pages>
+<year>2003</year>
+<volume>18</volume>
+<journal>Int. J. Intell. Syst.</journal>
+<number>7</number>
+<url>db/journals/ijis/ijis18.html#DuboisFPP03</url>
+</article>
+</r>
+<r><inproceedings key="conf/uai/PernyS03" mdate="2015-05-06">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>An Axiomatic Approach to Robustness in Search Problems with Multiple Scenarios.</title>
+<pages>469-476</pages>
+<year>2003</year>
+<crossref>conf/uai/2003</crossref>
+<booktitle>UAI</booktitle>
+<url>db/conf/uai/uai2003.html#PernyS03</url>
+</inproceedings>
+</r>
+<r><article key="journals/fodm/GrabischDLP02" mdate="2017-05-20">
+<author>Michel Grabisch</author>
+<author>Jacques Duchêne</author>
+<author>Frédéric Lino</author>
+<author>Patrice Perny</author>
+<title>Subjective Evaluation of Discomfort in Sitting Positions.</title>
+<pages>287-312</pages>
+<year>2002</year>
+<volume>1</volume>
+<journal>FO and DM</journal>
+<number>3</number>
+<url>db/journals/fodm/fodm1.html#GrabischDLP02</url>
+</article>
+</r>
+<r><article key="journals/jacm/DuboisFPP02" mdate="2018-11-06">
+<author>Didier Dubois</author>
+<author>Hélène Fargier</author>
+<author>Henri Prade</author>
+<author>Patrice Perny</author>
+<title>Qualitative decision theory: from savage's axioms to nonmonotonic reasoning.</title>
+<pages>455-495</pages>
+<year>2002</year>
+<volume>49</volume>
+<journal>J. ACM</journal>
+<number>4</number>
+<url>db/journals/jacm/jacm49.html#DuboisFPP02</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/PernyS02" mdate="2012-12-11">
+<author>Patrice Perny</author>
+<author>Olivier Spanjaard</author>
+<title>On Preference-Based Search in State Space Graphs.</title>
+<pages>751-756</pages>
+<year>2002</year>
+<crossref>conf/aaai/2002</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai2002.html#PernyS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kr/DuboisFP02" mdate="2003-07-22">
+<author>Didier Dubois</author>
+<author>Hélène Fargier</author>
+<author>Patrice Perny</author>
+<title>On the Limitations of Ordinal Approaches to Decision-making.</title>
+<pages>133-146</pages>
+<year>2002</year>
+<crossref>conf/kr/2002</crossref>
+<booktitle>KR</booktitle>
+<url>db/conf/kr/kr2002.html#DuboisFP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uai/FargierP99" mdate="2015-05-06">
+<author>Hélène Fargier</author>
+<author>Patrice Perny</author>
+<title>Qualitative Models for Decision Under Uncertainty without the Commensurability Assumption.</title>
+<pages>188-195</pages>
+<year>1999</year>
+<crossref>conf/uai/1999</crossref>
+<booktitle>UAI</booktitle>
+<url>db/conf/uai/uai1999.html#FargierP99</url>
+</inproceedings>
+</r>
+<r><article key="journals/anor/Perny98" mdate="2018-02-17">
+<author>Patrice Perny</author>
+<title>Multicriteria filtering methods based onconcordance and non-discordance principles.</title>
+<pages>137-165</pages>
+<year>1998</year>
+<volume>80</volume>
+<journal>Annals OR</journal>
+<url>db/journals/anor/anor80.html#Perny98</url>
+</article>
+</r>
+<coauthors n="42" nc="2">
+<co c="0"><na f="b/Bampis:Evripidis">Evripidis Bampis</na></co>
+<co c="0"><na f="b/Benabbou:Nawal">Nawal Benabbou</na></co>
+<co c="0"><na f="b/Boukhatem:Abdellah">Abdellah Boukhatem</na></co>
+<co c="0"><na f="b/Bourdache:Nadjet">Nadjet Bourdache</na></co>
+<co c="0"><na f="b/Bouyssou:Denis">Denis Bouyssou</na></co>
+<co c="0"><na f="d/Diodoro:Serena_Di_Sabatino_Di">Serena Di Sabatino Di Diodoro</na></co>
+<co c="0"><na f="d/Dubois:Didier">Didier Dubois</na></co>
+<co c="1"><na f="d/Dubus:Jean=Philippe">Jean-Philippe Dubus</na></co>
+<co c="0"><na f="d/Duch=ecirc=ne:Jacques">Jacques Duchêne</na></co>
+<co c="0"><na f="f/Fargier:H=eacute=l=egrave=ne">Hélène Fargier</na></co>
+<co c="0"><na f="g/Galand:Lucie">Lucie Galand</na></co>
+<co c="0"><na f="g/Gilbert:Hugo">Hugo Gilbert</na></co>
+<co c="-1"><na f="g/Golden:Boris">Boris Golden</na></co>
+<co c="0"><na f="g/Goldsmith:Judy">Judy Goldsmith</na></co>
+<co c="1"><na f="g/Gonzales:Christophe">Christophe Gonzales</na></co>
+<co c="0"><na f="g/Grabisch:Michel">Michel Grabisch</na></co>
+<co c="0"><na f="h/Hachimi:Mohamed">Mohamed Hachimi</na></co>
+<co c="0"><na f="h/Hanna:Josiah">Josiah Hanna</na></co>
+<co c="0"><na f="i/Ismaili:Anisse">Anisse Ismaili</na></co>
+<co c="0"><na f="j/Jeantet:Gildas">Gildas Jeantet</na></co>
+<co c="0"><na f="l/Lang:J=eacute=r=ocirc=me">Jérôme Lang</na></co>
+<co c="0"><na f="l/Leroy:Cassandre">Cassandre Leroy</na></co>
+<co c="0"><na f="l/Lesca:Julien">Julien Lesca</na></co>
+<co c="0"><na f="l/Lino:Fr=eacute=d=eacute=ric">Frédéric Lino</na></co>
+<co c="0"><na f="l/Lust:Thibaut">Thibaut Lust</na></co>
+<co c="0"><na f="m/Marchant:Thierry">Thierry Marchant</na></co>
+<co c="-1"><na f="m/Martin:Hugo">Hugo Martin</na></co>
+<co c="0"><na f="m/Mattei:Nicholas">Nicholas Mattei</na></co>
+<co c="0"><na f="m/Maudet:Nicolas">Nicolas Maudet</na></co>
+<co c="0"><na f="m/Minoux:Michel">Michel Minoux</na></co>
+<co c="0"><na f="o/Ogryczak:Wlodzimierz">Wlodzimierz Ogryczak</na></co>
+<co c="0"><na f="o/Oudghiri:Soufiane_Drissi">Soufiane Drissi Oudghiri</na></co>
+<co c="0"><na f="p/Pirlot:Marc">Marc Pirlot</na></co>
+<co c="0"><na f="p/Prade:Henri">Henri Prade</na></co>
+<co c="1"><na f="q/Queiroz:Sergio">Sergio Queiroz</na></co>
+<co c="0"><na f="r/Rolland:Antoine">Antoine Rolland</na></co>
+<co c="0"><na f="s/Spanjaard:Olivier">Olivier Spanjaard</na></co>
+<co c="0"><na f="s/Storme:Louis=Xavier">Louis-Xavier Storme</na></co>
+<co c="0"><na f="t/Tsouki=agrave=s:Alexis">Alexis Tsoukiàs</na></co>
+<co c="0"><na f="v/Viappiani:Paolo">Paolo Viappiani</na></co>
+<co c="0"><na f="w/Weng:Paul">Paul Weng</na></co>
+<co c="0"><na f="y/Yokoo:Makoto">Makoto Yokoo</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Cécile Braunstein" n="11">
+<person key="homepages/50/623" mdate="2009-06-09">
+<author>Cécile Braunstein</author>
+</person>
+<r><inproceedings key="conf/icfem/BraunsteinHHHPSH14" mdate="2018-11-02">
+<author>Cécile Braunstein</author>
+<author orcid="0000-0001-7349-8872">Anne Elisabeth Haxthausen</author>
+<author>Wen-ling Huang</author>
+<author>Felix Hübner</author>
+<author>Jan Peleska 0001</author>
+<author>Uwe Schulze</author>
+<author>Linh Vu Hong</author>
+<title>Complete Model-Based Equivalence Class Testing for the ETCS Ceiling Speed Monitor.</title>
+<pages>380-395</pages>
+<year>2014</year>
+<booktitle>ICFEM</booktitle>
+<crossref>conf/icfem/2014</crossref>
+<url>db/conf/icfem/icfem2014.html#BraunsteinHHHPSH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/AlwiBE12a" mdate="2019-03-06">
+<author>Syed Hussein Syed Alwi</author>
+<author>Cécile Braunstein</author>
+<author>Emmanuelle Encrenaz</author>
+<title>Efficient Refinement Strategy Exploiting Component Properties in a CEGAR Process.</title>
+<pages>17-36</pages>
+<year>2012</year>
+<booktitle>FDL (Selected Papers)</booktitle>
+<crossref>conf/fdl/2012s</crossref>
+<url>db/conf/fdl/fdl2012s.html#AlwiBE12a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/AlwiBE12" mdate="2017-04-30">
+<author>Syed Hussein Syed Alwi</author>
+<author>Cécile Braunstein</author>
+<author>Emmanuelle Encrenaz</author>
+<title>An efficient refinement strategy exploiting component properties in a cegar process.</title>
+<pages>27-34</pages>
+<year>2012</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2012</crossref>
+<url>db/conf/fdl/fdl2012.html#AlwiBE12</url>
+</inproceedings>
+</r>
+<r><article key="journals/fmsd/BaarirBEIMPY11" mdate="2017-05-27">
+<author>Souheib Baarir</author>
+<author>Cécile Braunstein</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Jean-Michel Ilié</author>
+<author>Isabelle Mounier</author>
+<author>Denis Poitrenaud</author>
+<author>Sana Younès</author>
+<title>Feasibility analysis for robustness quantification by symbolic model checking.</title>
+<pages>165-184</pages>
+<year>2011</year>
+<volume>39</volume>
+<journal>Formal Methods in System Design</journal>
+<number>2</number>
+<url>db/journals/fmsd/fmsd39.html#BaarirBEIMPY11</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/SulflowFBKD09" mdate="2017-05-23">
+<author>André Sülflow</author>
+<author>Görschwin Fey</author>
+<author>Cécile Braunstein</author>
+<author>Ulrich Kühne</author>
+<author>Rolf Drechsler</author>
+<title>Increasing the accuracy of SAT-based debugging.</title>
+<pages>1326-1331</pages>
+<year>2009</year>
+<booktitle>DATE</booktitle>
+<crossref>conf/date/2009</crossref>
+<url>db/conf/date/date2009.html#SulflowFBKD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dft/BaarirBCEILMPP09" mdate="2017-05-17">
+<author>Souheib Baarir</author>
+<author>Cécile Braunstein</author>
+<author>Renaud Clavel</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Jean-Michel Ilié</author>
+<author>Régis Leveugle</author>
+<author>Isabelle Mounier</author>
+<author>Laurence Pierre</author>
+<author>Denis Poitrenaud</author>
+<title>Complementary Formal Approaches for Dependability Analysis.</title>
+<pages>331-339</pages>
+<year>2009</year>
+<booktitle>DFT</booktitle>
+<crossref>conf/dft/2009</crossref>
+<url>db/conf/dft/dft2009.html#BaarirBCEILMPP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mbmv/SulflowFBKD09" mdate="2012-06-28">
+<author>André Sülflow</author>
+<author>Görschwin Fey</author>
+<author>Cécile Braunstein</author>
+<author>Ulrich Kühne</author>
+<author>Rolf Drechsler</author>
+<title>Increasing the Accuracy of SAT-based Debugging.</title>
+<pages>47-56</pages>
+<year>2009</year>
+<booktitle>MBMV</booktitle>
+<crossref>conf/mbmv/2009</crossref>
+<url>db/conf/mbmv/mbmv2009.html#SulflowFBKD09</url>
+</inproceedings>
+</r>
+<r><article key="journals/sttt/BraunsteinE07" mdate="2017-05-18">
+<author>Cécile Braunstein</author>
+<author>Emmanuelle Encrenaz</author>
+<title>CTL-property Transformations along an Incremental Design Process.</title>
+<pages>77-88</pages>
+<year>2007</year>
+<volume>9</volume>
+<journal>STTT</journal>
+<number>1</number>
+<url>db/journals/sttt/sttt9.html#BraunsteinE07</url>
+</article>
+</r>
+<r><inproceedings key="conf/acsd/BraunsteinE07" mdate="2017-05-25">
+<author>Cécile Braunstein</author>
+<author>Emmanuelle Encrenaz</author>
+<title>Using CTL formulae as component abstraction in a design and verification flow.</title>
+<pages>80-89</pages>
+<year>2007</year>
+<crossref>conf/acsd/2007</crossref>
+<booktitle>ACSD</booktitle>
+<url>db/conf/acsd/acsd2007.html#BraunsteinE07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/BraunsteinE06" mdate="2017-05-25">
+<author>Cécile Braunstein</author>
+<author>Emmanuelle Encrenaz</author>
+<title>Formalizing the Incremental Design and Verification Process of a Pipelined Protocol Converter.</title>
+<pages>103-109</pages>
+<year>2006</year>
+<crossref>conf/rsp/2006</crossref>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<url>db/conf/rsp/rsp2006.html#BraunsteinE06</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/BraunsteinE05" mdate="2017-05-28">
+<author>Cécile Braunstein</author>
+<author>Emmanuelle Encrenaz</author>
+<title>CTL-Property Transformations Along an Incremental Design Process.</title>
+<pages>263-278</pages>
+<year>2005</year>
+<volume>128</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<number>6</number>
+<url>db/journals/entcs/entcs128.html#BraunsteinE05</url>
+</article>
+</r>
+<coauthors n="20" nc="1">
+<co c="0"><na f="a/Alwi:Syed_Hussein_Syed">Syed Hussein Syed Alwi</na></co>
+<co c="0"><na f="b/Baarir:Souheib">Souheib Baarir</na></co>
+<co c="0"><na f="c/Clavel:Renaud">Renaud Clavel</na></co>
+<co c="0"><na f="d/Drechsler:Rolf">Rolf Drechsler</na></co>
+<co c="0" n="2"><na f="e/Encrenaz=Tiph=egrave=ne:Emmanuelle">Emmanuelle Encrenaz-Tiphène</na><na>Emmanuelle Encrenaz</na></co>
+<co c="0"><na f="f/Fey:G=ouml=rschwin">Görschwin Fey</na></co>
+<co c="0"><na f="h/Haxthausen:Anne_Elisabeth">Anne Elisabeth Haxthausen</na></co>
+<co c="0"><na f="h/Hong:Linh_Vu">Linh Vu Hong</na></co>
+<co c="0"><na f="h/Huang:Wen=ling">Wen-ling Huang</na></co>
+<co c="0"><na f="h/H=uuml=bner:Felix">Felix Hübner</na></co>
+<co c="0"><na f="i/Ili=eacute=:Jean=Michel">Jean-Michel Ilié</na></co>
+<co c="0"><na f="k/K=uuml=hne:Ulrich">Ulrich Kühne</na></co>
+<co c="0"><na f="l/Leveugle:R=eacute=gis">Régis Leveugle</na></co>
+<co c="0"><na f="m/Mounier:Isabelle">Isabelle Mounier</na></co>
+<co c="0"><na f="p/Peleska_0001:Jan">Jan Peleska 0001</na></co>
+<co c="0"><na f="p/Pierre:Laurence">Laurence Pierre</na></co>
+<co c="0"><na f="p/Poitrenaud:Denis">Denis Poitrenaud</na></co>
+<co c="0"><na f="s/Schulze:Uwe">Uwe Schulze</na></co>
+<co c="0"><na f="s/S=uuml=lflow:Andr=eacute=">André Sülflow</na></co>
+<co c="0"><na f="y/Youn=egrave=s:Sana">Sana Younès</na></co>
+</coauthors>
+</dblpperson>
+

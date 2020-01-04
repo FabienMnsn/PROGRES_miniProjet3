@@ -1,0 +1,510 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Naceur Malouch" n="36">
+<person key="homepages/61/2796" mdate="2009-06-09">
+<author>Naceur Malouch</author>
+</person>
+<r><inproceedings key="conf/aiccsa/MejriTMK17" mdate="2018-03-23">
+<author>Safa Mejri</author>
+<author>Haifa Touati</author>
+<author>Naceur Malouch</author>
+<author>Farouk Kamoun</author>
+<title>Hop-by-Hop Congestion Control for Named Data Networks.</title>
+<pages>114-119</pages>
+<year>2017</year>
+<booktitle>AICCSA</booktitle>
+<crossref>conf/aiccsa/2017</crossref>
+<url>db/conf/aiccsa/aiccsa2017.html#MejriTMK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/AbdelfattahM17" mdate="2017-10-11">
+<author>Amr Abdelfattah</author>
+<author>Naceur Malouch</author>
+<title>Modeling and performance analysis of Wi-Fi networks coexisting with LTE-U.</title>
+<pages>1-9</pages>
+<year>2017</year>
+<booktitle>INFOCOM</booktitle>
+<crossref>conf/infocom/2017</crossref>
+<url>db/conf/infocom/infocom2017.html#AbdelfattahM17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tmc/Lertsinsrubtavee16" mdate="2017-05-28">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<title>Hybrid Spectrum Sharing through Adaptive Spectrum Handoff and Selection.</title>
+<pages>2781-2793</pages>
+<year>2016</year>
+<volume>15</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>11</number>
+<url>db/journals/tmc/tmc15.html#Lertsinsrubtavee16</url>
+</article>
+</r>
+<r><inproceedings key="conf/wimob/AbdelfattahM16" mdate="2017-05-21">
+<author>Amr Abdelfattah</author>
+<author>Naceur Malouch</author>
+<title>Studying the impact of LTE-U on Wi-Fi downlink performance.</title>
+<pages>1-9</pages>
+<year>2016</year>
+<booktitle>WiMob</booktitle>
+<crossref>conf/wimob/2016</crossref>
+<url>db/conf/wimob/wimob2016.html#AbdelfattahM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/LertsinsrubtaveeMF14" mdate="2019-02-22">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Hybrid spectrum sharing through adaptive spectrum handoff for cognitive radio networks.</title>
+<pages>1-9</pages>
+<year>2014</year>
+<booktitle>Networking</booktitle>
+<crossref>conf/networking/2014</crossref>
+<url>db/conf/networking/networking2014.html#LertsinsrubtaveeMF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/LertsinsrubtaveeMF13" mdate="2017-05-16">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Efficient dynamic spectrum sharing through rate compensation and spectrum handoff.</title>
+<pages>19-20</pages>
+<year>2013</year>
+<booktitle>INFOCOM</booktitle>
+<crossref>conf/infocom/2013</crossref>
+<url>db/conf/infocom/infocom2013.html#LertsinsrubtaveeMF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/LertsinsrubtaveeMF13a" mdate="2017-05-16">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Efficient dynamic spectrum sharing through rate compensation and spectrum handoff.</title>
+<pages>85-86</pages>
+<year>2013</year>
+<booktitle>INFOCOM Workshops</booktitle>
+<crossref>conf/infocom/2013w</crossref>
+<url>db/conf/infocom/infocom2013w.html#LertsinsrubtaveeMF13a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wowmom/LertsinsrubtaveeMFK13" mdate="2017-05-26">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<author>Kanchana Kanchanasut</author>
+<title>Spectrum sharing and impact on spectrum handoff in multi-channel cognitive radio networks.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>WOWMOM</booktitle>
+<crossref>conf/wowmom/2013</crossref>
+<url>db/conf/wowmom/wowmom2013.html#LertsinsrubtaveeMFK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icccn/LertsinsrubtaveeMF12" mdate="2017-05-17">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Controlling Spectrum Handoff with a Delay Requirement in Cognitive Radio Networks.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>ICCCN</booktitle>
+<crossref>conf/icccn/2012</crossref>
+<url>db/conf/icccn/icccn2012.html#LertsinsrubtaveeMF12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcnis/Masria11" mdate="2015-05-26">
+<author>Ali El Masri</author>
+<author>Naceur Malouch</author>
+<author>Hicham Khalife</author>
+<title>A Fuzzy-based Routing Strategy for Multihop Cognitive Radio Networks.</title>
+<year>2011</year>
+<volume>3</volume>
+<journal>IJCNIS</journal>
+<number>1</number>
+<url>db/journals/ijcnis/ijcnis3.html#Masria11</url>
+</article>
+</r>
+<r><article key="journals/ijcnis/PoctavekMK11" mdate="2015-05-26">
+<author>Jan Poctavek</author>
+<author>Naceur Malouch</author>
+<author>Hicham Khalife</author>
+<title>Throughput Parameter Optimization of Adaptive ARQ/HARQ Scheme.</title>
+<year>2011</year>
+<volume>3</volume>
+<journal>IJCNIS</journal>
+<number>1</number>
+<url>db/journals/ijcnis/ijcnis3.html#PoctavekMK11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icumt/LertsinsrubtaveeMF11" mdate="2017-04-30">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Spectrum handoff strategy using cumulative probability in cognitive radio networks.</title>
+<pages>1-7</pages>
+<year>2011</year>
+<booktitle>ICUMT</booktitle>
+<crossref>conf/icumt/2011</crossref>
+<url>db/conf/icumt/icumt2011.html#LertsinsrubtaveeMF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobiwac/ChellyM11" mdate="2018-11-06">
+<author>Bayrem Chelly</author>
+<author>Naceur Malouch</author>
+<title>Optimizing movement and connectivity in mobile networks with partial cooperativeness.</title>
+<pages>117-124</pages>
+<year>2011</year>
+<booktitle>MOBIWAC</booktitle>
+<crossref>conf/mobiwac/2011</crossref>
+<url>db/conf/mobiwac/mobiwac2011.html#ChellyM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/NahleM11" mdate="2018-06-26">
+<author>Salim Nahle</author>
+<author>Naceur Malouch</author>
+<title>Fast-Converging Scheduling and Routing Algorithms for WiMAX Mesh Networks.</title>
+<pages>238-249</pages>
+<year>2011</year>
+<booktitle>Networking (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-20798-3_18</ee>
+<crossref>conf/networking/2011-2</crossref>
+<url>db/conf/networking/networking2011-2.html#NahleM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/Lertsinsrubtavee10" mdate="2018-11-21">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Spectrum handoff strategies for multiple channels cognitive radio network.</title>
+<pages>20:1-20:2</pages>
+<year>2010</year>
+<booktitle>StudentWorkshop@CoNEXT</booktitle>
+<crossref>conf/conext/2010sw</crossref>
+<url>db/conf/conext/sw2010.html#Lertsinsrubtavee10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/ToKM10" mdate="2017-05-25">
+<author>Ba-Lam To</author>
+<author>Hicham Khalife</author>
+<author>Naceur Malouch</author>
+<title>A general framework for assisted power control in Cognitive Radio Networks.</title>
+<pages>1648-1653</pages>
+<year>2010</year>
+<booktitle>PIMRC</booktitle>
+<crossref>conf/pimrc/2010</crossref>
+<url>db/conf/pimrc/pimrc2010.html#ToKM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/network/KhalifeMF09" mdate="2017-05-18">
+<author>Hicham Khalife</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Multihop cognitive radio networks: to route or not to route.</title>
+<pages>20-25</pages>
+<year>2009</year>
+<volume>23</volume>
+<journal>IEEE Network</journal>
+<number>4</number>
+<url>db/journals/network/network23.html#KhalifeMF09</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/NahleM09" mdate="2017-05-23">
+<author>Salim Nahle</author>
+<author>Naceur Malouch</author>
+<title>Graph-Based Approach for Enhancing Capacity and Fairness in Wireless Mesh Networks.</title>
+<pages>1-7</pages>
+<year>2009</year>
+<booktitle>GLOBECOM</booktitle>
+<crossref>conf/globecom/2009</crossref>
+<url>db/conf/globecom/globecom2009.html#NahleM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/LeguayKSCM09" mdate="2018-11-02">
+<author orcid="0000-0002-4670-6389">Jeremie Leguay</author>
+<author>Hicham Khalife</author>
+<author>Georgios Sotiropoulos</author>
+<author>Vania Conan</author>
+<author>Naceur Malouch</author>
+<title>Non Disruptive Data Services Towards Real-Time Traffic in Wireless Ad Hoc Networks.</title>
+<pages>1-5</pages>
+<year>2009</year>
+<booktitle>ICC</booktitle>
+<crossref>conf/icc/2009</crossref>
+<url>db/conf/icc/icc2009.html#LeguayKSCM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secon/ManfrediKMZZ09" mdate="2017-05-24">
+<author>Victoria Manfredi</author>
+<author>Jim Kurose</author>
+<author>Naceur Malouch</author>
+<author>Chun Zhang</author>
+<author>Michael Zink</author>
+<title>Separation of Sensor Control and Data in Closed-Loop Sensor Networks.</title>
+<pages>1-9</pages>
+<year>2009</year>
+<booktitle>SECON</booktitle>
+<crossref>conf/secon/2009</crossref>
+<url>db/conf/secon/secon2009.html#ManfrediKMZZ09</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcom/AltmanBM08" mdate="2017-05-28">
+<author>Eitan Altman</author>
+<author>Tamer Basar</author>
+<author>Naceur Malouch</author>
+<title>The Role of Information Update in Flow Control.</title>
+<pages>1331-1342</pages>
+<year>2008</year>
+<volume>56</volume>
+<journal>IEEE Trans. Communications</journal>
+<number>8</number>
+<url>db/journals/tcom/tcom56.html#AltmanBM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/KhalifeAMK08" mdate="2017-05-23">
+<author>Hicham Khalife</author>
+<author>Satyajeet Ahuja</author>
+<author>Naceur Malouch</author>
+<author>Marwan Krunz</author>
+<title>Probabilistic Path Selection in Opportunistic Cognitive Radio Networks.</title>
+<pages>4861-4865</pages>
+<year>2008</year>
+<booktitle>GLOBECOM</booktitle>
+<crossref>conf/globecom/2008</crossref>
+<url>db/conf/globecom/globecom2008.html#KhalifeAMK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/new2an/NahleM08" mdate="2017-05-26">
+<author>Salim Nahle</author>
+<author>Naceur Malouch</author>
+<title>Placement Algorithms for WiMAX Mesh Network.</title>
+<pages>37-48</pages>
+<year>2008</year>
+<booktitle>NEW2AN</booktitle>
+<crossref>conf/new2an/2008</crossref>
+<url>db/conf/new2an/new2an2008.html#NahleM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/NahleM08" mdate="2017-05-25">
+<author>Salim Nahle</author>
+<author>Naceur Malouch</author>
+<title>Joint routing and scheduling for maximizing fair throughput in WiMAX mesh network.</title>
+<pages>1-5</pages>
+<year>2008</year>
+<booktitle>PIMRC</booktitle>
+<crossref>conf/pimrc/2008</crossref>
+<url>db/conf/pimrc/pimrc2008.html#NahleM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wimob/ChellyM08" mdate="2017-05-21">
+<author>Bayrem Chelly</author>
+<author>Naceur Malouch</author>
+<title>Movement and Connectivity Algorithms for Location-Based Mobile Social Networks.</title>
+<pages>190-195</pages>
+<year>2008</year>
+<booktitle>WiMob</booktitle>
+<crossref>conf/wimob/2008</crossref>
+<url>db/conf/wimob/wimob2008.html#ChellyM08</url>
+</inproceedings>
+</r>
+<r><article key="journals/icl/NahleIDM07" mdate="2017-05-20">
+<author>Salim Nahle</author>
+<author>Luigi Iannone</author>
+<author>Benoit Donnet</author>
+<author>Naceur Malouch</author>
+<title>On the construction of wimax mesh tree.</title>
+<pages>967-969</pages>
+<year>2007</year>
+<volume>11</volume>
+<journal>IEEE Communications Letters</journal>
+<number>12</number>
+<url>db/journals/icl/icl11.html#NahleIDM07</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/NahleM07" mdate="2018-11-06">
+<author>Salim Nahle</author>
+<author>Naceur Malouch</author>
+<title>Fairness enhancement in wireless mesh networks.</title>
+<pages>30</pages>
+<year>2007</year>
+<booktitle>CoNEXT</booktitle>
+<crossref>conf/conext/2007</crossref>
+<url>db/conf/conext/conext2007.html#NahleM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/new2an/JeneyLDSGBBCCMSB07" mdate="2017-05-26">
+<author>Gábor Jeney</author>
+<author>Catherine Lamy-Bergot</author>
+<author>Xavier Desurmont</author>
+<author>Rafael Lopez da Silva</author>
+<author>Rodrigo Álvarez García-Sanchidrián</author>
+<author>Michel Bonte</author>
+<author>Marion Berbineau</author>
+<author>Márton Csapodi</author>
+<author>Olivier Cantineau</author>
+<author>Naceur Malouch</author>
+<author>David Sanz</author>
+<author>Jean-Luc Bruyelle</author>
+<title>Communications Challenges in the Celtic-BOSS Project.</title>
+<pages>431-442</pages>
+<year>2007</year>
+<crossref>conf/new2an/2007</crossref>
+<booktitle>NEW2AN</booktitle>
+<url>db/conf/new2an/new2an2007.html#JeneyLDSGBBCCMSB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/KhalifeMM07" mdate="2017-05-25">
+<author>Hicham Khalife</author>
+<author>Saoucene Mahfoudh</author>
+<author>Naceur Malouch</author>
+<title>A Hop-by-Hop Node Failure Control Protocol for Wireless Ad Hoc Networks: Towards MAC Layer Control.</title>
+<pages>1-5</pages>
+<year>2007</year>
+<booktitle>PIMRC</booktitle>
+<crossref>conf/pimrc/2007</crossref>
+<url>db/conf/pimrc/pimrc2007.html#KhalifeMM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/KhalifeM06" mdate="2017-05-25">
+<author>Hicham Khalife</author>
+<author>Naceur Malouch</author>
+<title>Interaction Between Hidden Node Collisions and Congestions in Multihop Wireless Ad-hoc Networks.</title>
+<pages>3947-3952</pages>
+<year>2006</year>
+<booktitle>ICC</booktitle>
+<crossref>conf/icc/2006</crossref>
+<url>db/conf/icc/icc2006.html#KhalifeM06</url>
+</inproceedings>
+</r>
+<r><article key="journals/pe/XiaLSZM05" mdate="2018-03-07">
+<author>Cathy H. Xia</author>
+<author>Zhen Liu 0001</author>
+<author>Mark S. Squillante</author>
+<author>Li Zhang 0002</author>
+<author>Naceur Malouch</author>
+<title>Web traffic modeling at finer time scales and performance implications.</title>
+<pages>181-201</pages>
+<year>2005</year>
+<volume>61</volume>
+<journal>Perform. Eval.</journal>
+<number>2-3</number>
+<url>db/journals/pe/pe61.html#XiaLSZM05</url>
+</article>
+</r>
+<r><inproceedings key="conf/networking/AltmanBM04" mdate="2017-05-26">
+<author>Eitan Altman</author>
+<author>Tamer Basar</author>
+<author>Naceur Malouch</author>
+<title>The Role of Information Update in Flow Control.</title>
+<pages>562-573</pages>
+<year>2004</year>
+<crossref>conf/networking/2004</crossref>
+<booktitle>NETWORKING</booktitle>
+<url>db/conf/networking/networking2004.html#AltmanBM04</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmetrics/XiaLSZM02" mdate="2018-11-06">
+<author>Cathy H. Xia</author>
+<author>Zhen Liu 0001</author>
+<author>Mark S. Squillante</author>
+<author>Li Zhang 0002</author>
+<author>Naceur Malouch</author>
+<title>Traffic modeling and performance analysis of commercial web sites.</title>
+<pages>32-34</pages>
+<year>2002</year>
+<volume>30</volume>
+<journal>SIGMETRICS Performance Evaluation Review</journal>
+<number>3</number>
+<url>db/journals/sigmetrics/sigmetrics30.html#XiaLSZM02</url>
+</article>
+</r>
+<r><inproceedings key="conf/asian/LiuSXYZMD02" mdate="2018-03-07">
+<author>Zhen Liu 0001</author>
+<author>Mark S. Squillante</author>
+<author>Cathy H. Xia</author>
+<author>S. Yu</author>
+<author>Li Zhang 0002</author>
+<author>Naceur Malouch</author>
+<author>Paul Dantzig</author>
+<title>Analysis of Caching Mechanisms from Sporting Event Web Sites.</title>
+<pages>76-86</pages>
+<year>2002</year>
+<crossref>conf/asian/2002</crossref>
+<booktitle>ASIAN</booktitle>
+<url>db/conf/asian/asian2002.html#LiuSXYZMD02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/MalouchL02" mdate="2018-03-19">
+<author>Naceur Malouch</author>
+<author>Zhen Liu 0001</author>
+<title>Performance analysis of TCP with RIO routers.</title>
+<pages>1623-1627</pages>
+<year>2002</year>
+<booktitle>GLOBECOM</booktitle>
+<crossref>conf/globecom/2002</crossref>
+<url>db/conf/globecom/globecom2002.html#MalouchL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/LiuSXY0MD02" mdate="2018-03-07">
+<author>Zhen Liu 0001</author>
+<author>Mark S. Squillante</author>
+<author>Cathy H. Xia</author>
+<author>S.-Z. Yu</author>
+<author>Li Zhang 0002</author>
+<author>Naceur Malouch</author>
+<author>Paul Dantzig</author>
+<title>Analysis of measurement data from sporting event Web sites.</title>
+<pages>2543-2547</pages>
+<year>2002</year>
+<booktitle>GLOBECOM</booktitle>
+<crossref>conf/globecom/2002</crossref>
+<url>db/conf/globecom/globecom2002.html#LiuSXY0MD02</url>
+</inproceedings>
+</r>
+<coauthors n="45" nc="3">
+<co c="-1"><na f="a/Abdelfattah:Amr">Amr Abdelfattah</na></co>
+<co c="0"><na f="a/Ahuja:Satyajeet">Satyajeet Ahuja</na></co>
+<co c="0"><na f="a/Altman:Eitan">Eitan Altman</na></co>
+<co c="0"><na f="b/Basar:Tamer">Tamer Basar</na></co>
+<co c="0"><na f="b/Berbineau:Marion">Marion Berbineau</na></co>
+<co c="0"><na f="b/Bonte:Michel">Michel Bonte</na></co>
+<co c="0"><na f="b/Bruyelle:Jean=Luc">Jean-Luc Bruyelle</na></co>
+<co c="0"><na f="c/Cantineau:Olivier">Olivier Cantineau</na></co>
+<co c="-1"><na f="c/Chelly:Bayrem">Bayrem Chelly</na></co>
+<co c="0"><na f="c/Conan:Vania">Vania Conan</na></co>
+<co c="0"><na f="c/Csapodi:M=aacute=rton">Márton Csapodi</na></co>
+<co c="1"><na f="d/Dantzig:Paul">Paul Dantzig</na></co>
+<co c="0"><na f="d/Desurmont:Xavier">Xavier Desurmont</na></co>
+<co c="0"><na f="d/Donnet:Benoit">Benoit Donnet</na></co>
+<co c="0"><na f="f/Fdida:Serge">Serge Fdida</na></co>
+<co c="0"><na f="g/Garc=iacute=a=Sanchidri=aacute=n:Rodrigo_=Aacute=lvarez">Rodrigo Álvarez García-Sanchidrián</na></co>
+<co c="0"><na f="i/Iannone:Luigi">Luigi Iannone</na></co>
+<co c="0"><na f="j/Jeney:G=aacute=bor">Gábor Jeney</na></co>
+<co c="2"><na f="k/Kamoun:Farouk">Farouk Kamoun</na></co>
+<co c="0"><na f="k/Kanchanasut:Kanchana">Kanchana Kanchanasut</na></co>
+<co c="0"><na f="k/Khalife:Hicham">Hicham Khalife</na></co>
+<co c="0"><na f="k/Krunz:Marwan">Marwan Krunz</na></co>
+<co c="1" n="2"><na f="k/Kurose:James_F=">James F. Kurose</na><na>Jim Kurose</na></co>
+<co c="0"><na f="l/Lamy=Bergot:Catherine">Catherine Lamy-Bergot</na></co>
+<co c="0"><na f="l/Leguay:Jeremie">Jeremie Leguay</na></co>
+<co c="0"><na f="l/Lertsinsrubtavee:Adisorn">Adisorn Lertsinsrubtavee</na></co>
+<co c="1"><na f="l/Liu_0001:Zhen">Zhen Liu 0001</na></co>
+<co c="0"><na f="m/Mahfoudh:Saoucene">Saoucene Mahfoudh</na></co>
+<co c="1"><na f="m/Manfredi:Victoria">Victoria Manfredi</na></co>
+<co c="0"><na f="m/Masri:Ali_El">Ali El Masri</na></co>
+<co c="2"><na f="m/Mejri:Safa">Safa Mejri</na></co>
+<co c="0"><na f="n/Nahle:Salim">Salim Nahle</na></co>
+<co c="0"><na f="p/Poctavek:Jan">Jan Poctavek</na></co>
+<co c="0"><na f="s/Sanz:David">David Sanz</na></co>
+<co c="0"><na f="s/Silva:Rafael_Lopez_da">Rafael Lopez da Silva</na></co>
+<co c="0"><na f="s/Sotiropoulos:Georgios">Georgios Sotiropoulos</na></co>
+<co c="1"><na f="s/Squillante:Mark_S=">Mark S. Squillante</na></co>
+<co c="0"><na f="t/To:Ba=Lam">Ba-Lam To</na></co>
+<co c="2"><na f="t/Touati:Haifa">Haifa Touati</na></co>
+<co c="1"><na f="x/Xia:Cathy_H=">Cathy H. Xia</na></co>
+<co c="1"><na f="y/Yu:S=">S. Yu</na></co>
+<co c="1"><na f="y/Yu:S==Z=">S.-Z. Yu</na></co>
+<co c="1"><na f="z/Zhang:Chun">Chun Zhang</na></co>
+<co c="1"><na f="z/Zhang_0002:Li">Li Zhang 0002</na></co>
+<co c="1"><na f="z/Zink:Michael">Michael Zink</na></co>
+</coauthors>
+</dblpperson>
+

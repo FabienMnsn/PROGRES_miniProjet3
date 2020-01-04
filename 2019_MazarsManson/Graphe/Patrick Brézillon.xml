@@ -1,0 +1,1681 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Patrick Brézillon" n="132">
+<person key="homepages/b/PatrickBrezillon" mdate="2018-10-02">
+<author>Patrick Brézillon</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www-poleia.lip6.fr/~brezil/</url>
+<url>https://orcid.org/0000-0003-4009-2934</url>
+</person>
+<r><article key="journals/eswa/GarciaB18" mdate="2018-02-27">
+<author>Kimberly García</author>
+<author>Patrick Brézillon</author>
+<title>Model visualization: Combining context-based graph and tree representations.</title>
+<pages>103-114</pages>
+<year>2018</year>
+<volume>99</volume>
+<journal>Expert Syst. Appl.</journal>
+<url>db/journals/eswa/eswa99.html#GarciaB18</url>
+</article>
+</r>
+<r><article key="journals/isf/GarciaMDB18" mdate="2019-10-19">
+<author>Kimberly García</author>
+<author orcid="0000-0002-4897-7756">Sonia Mendoza</author>
+<author>Dominique Decouchant</author>
+<author>Patrick Brézillon</author>
+<title>Facilitating resource sharing and selection in ubiquitous multi-user environments.</title>
+<pages>1075-1095</pages>
+<year>2018</year>
+<volume>20</volume>
+<journal>Information Systems Frontiers</journal>
+<number>5</number>
+<url>db/journals/isf/isf20.html#GarciaMDB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/context/GarciaB17" mdate="2017-07-26">
+<author>Kimberly García</author>
+<author orcid="0000-0003-4009-2934">Patrick Brézillon</author>
+<title>From a Contextual Graph to a Tree Representation.</title>
+<pages>27-40</pages>
+<year>2017</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2017</crossref>
+<url>db/conf/context/context2017.html#GarciaB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/Brezillon17" mdate="2017-07-26">
+<author orcid="0000-0003-4009-2934">Patrick Brézillon</author>
+<title>Contextual Modeling of Group Activity.</title>
+<pages>113-126</pages>
+<year>2017</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2017</crossref>
+<url>db/conf/context/context2017.html#Brezillon17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/GarciaB17a" mdate="2017-07-26">
+<author>Kimberly García</author>
+<author orcid="0000-0003-4009-2934">Patrick Brézillon</author>
+<title>Contextual Graphs for Modeling Group Interaction.</title>
+<pages>151-164</pages>
+<year>2017</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2017</crossref>
+<url>db/conf/context/context2017.html#GarciaB17a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/FanHB17" mdate="2017-07-26">
+<author>Xiaoliang Fan</author>
+<author>Baoqin He</author>
+<author orcid="0000-0003-4009-2934">Patrick Brézillon</author>
+<title>Context-Aware Big Data Analytics and Visualization for City-Wide Traffic Accidents.</title>
+<pages>395-405</pages>
+<year>2017</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2017</crossref>
+<url>db/conf/context/context2017.html#FanHB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/TahirB17" mdate="2017-07-26">
+<author>Hassane Tahir</author>
+<author orcid="0000-0003-4009-2934">Patrick Brézillon</author>
+<title>Improving Defect Tracking Using Shared Context.</title>
+<pages>498-509</pages>
+<year>2017</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2017</crossref>
+<url>db/conf/context/context2017.html#TahirB17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/context/2017" mdate="2019-05-14">
+<editor>Patrick Brézillon</editor>
+<editor>Roy M. Turner</editor>
+<editor>Carlo Penco</editor>
+<title>Modeling and Using Context - 10th International and Interdisciplinary Conference, CONTEXT 2017, Paris, France, June 20-23, 2017, Proceedings</title>
+<booktitle>CONTEXT</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10257</volume>
+<isbn>978-3-319-57836-1</isbn>
+<isbn>978-3-319-57837-8</isbn>
+<url>db/conf/context/context2017.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijait/GonzalezSNBHB15" mdate="2019-12-18">
+<author>Avelino J. Gonzalez</author>
+<author>Brian Sherwell</author>
+<author>Johann Nguyen</author>
+<author>Brian C. Becker</author>
+<author>Victor Chou Hung</author>
+<author>Patrick Brézillon</author>
+<title>A Knowledge Preservation and Re-Use Tool Based on Context-Driven Reasoning.</title>
+<year>2015</year>
+<volume>24</volume>
+<journal>International Journal on Artificial Intelligence Tools</journal>
+<number>5</number>
+<url>db/journals/ijait/ijait24.html#GonzalezSNBHB15</url>
+<pages>1550020:1-1550020:28</pages>
+</article>
+</r>
+<r><inproceedings key="conf/context/Brezillon15" mdate="2017-05-23">
+<author>Patrick Brézillon</author>
+<title>Modeling Expert Knowledge and Reasoning in Context.</title>
+<pages>18-31</pages>
+<year>2015</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2015</crossref>
+<url>db/conf/context/context2015.html#Brezillon15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/GarciaB15" mdate="2017-05-23">
+<author>Kimberly García</author>
+<author>Patrick Brézillon</author>
+<title>A Contextual Model of Turns for Group Work.</title>
+<pages>243-256</pages>
+<year>2015</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2015</crossref>
+<url>db/conf/context/context2015.html#GarciaB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/KabilBK15" mdate="2017-05-23">
+<author>Alexandre Kabil</author>
+<author>Patrick Brézillon</author>
+<author>Sébastien Kubicki</author>
+<title>Contextual Interfaces for Operator-Simulator Interaction.</title>
+<pages>483-488</pages>
+<year>2015</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2015</crossref>
+<url>db/conf/context/context2015.html#KabilBK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/FanHZCBF15" mdate="2019-09-16">
+<author>Xiaoliang Fan</author>
+<author>Yakun Hu</author>
+<author orcid="0000-0002-6585-2656">Ruisheng Zhang</author>
+<author>Wenbo Chen</author>
+<author>Patrick Brézillon</author>
+<title>Modeling Temporal Effectiveness for Context-Aware Web Services Recommendation.</title>
+<pages>225-232</pages>
+<year>2015</year>
+<booktitle>ICWS</booktitle>
+<crossref>conf/icws/2015</crossref>
+<url>db/conf/icws/icws2015.html#FanHZCBF15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ker/MostefaouiYB14" mdate="2017-11-09">
+<author>Ghita Kouadri Mostéfaoui</author>
+<author>Muhammad Younas 0001</author>
+<author>Patrick Brézillon</author>
+<title>Introduction to the special issue on service provisioning in the Web and Mobile environments.</title>
+<pages>132-133</pages>
+<year>2014</year>
+<volume>29</volume>
+<journal>Knowledge Eng. Review</journal>
+<number>2</number>
+<url>db/journals/ker/ker29.html#MostefaouiYB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifip8-3/BrezillonAC14" mdate="2017-05-24">
+<author>Patrick Brézillon</author>
+<author>Elham Attieh</author>
+<author>Frédérique Capron</author>
+<title>Modeling Glocal Search in a Decision-Making Process.</title>
+<pages>80-91</pages>
+<year>2014</year>
+<booktitle>DSS</booktitle>
+<crossref>conf/ifip8-3/2014</crossref>
+<url>db/conf/ifip8-3/dss2014.html#BrezillonAC14</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/14/GonzalezB14" mdate="2017-05-16">
+<author>Avelino J. Gonzalez</author>
+<author>Patrick Brézillon</author>
+<title>Introduction.</title>
+<pages>1-5</pages>
+<year>2014</year>
+<booktitle>Context in Computing</booktitle>
+<crossref>books/sp/BG2014</crossref>
+<url>db/books/collections/BG2014.html#GonzalezB14</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/14/Brezillon14" mdate="2017-05-16">
+<author>Patrick Brézillon</author>
+<title>Context-Centered Tools for Intelligent Assistant Systems.</title>
+<pages>97-110</pages>
+<year>2014</year>
+<booktitle>Context in Computing</booktitle>
+<crossref>books/sp/BG2014</crossref>
+<url>db/books/collections/BG2014.html#Brezillon14</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/14/Brezillon14a" mdate="2017-05-16">
+<author>Patrick Brézillon</author>
+<title>Representing Experience-Based Reasoning by Contextual Graphs.</title>
+<pages>509-521</pages>
+<year>2014</year>
+<booktitle>Context in Computing</booktitle>
+<crossref>books/sp/BG2014</crossref>
+<url>db/books/collections/BG2014.html#Brezillon14a</url>
+</incollection>
+</r>
+<r><incollection key="series/sci/Brezillon14" mdate="2017-05-16">
+<author>Patrick Brézillon</author>
+<title>A Context-Centered Architecture for Intelligent Assistant Systems.</title>
+<pages>103-127</pages>
+<year>2014</year>
+<booktitle>Innovations in Intelligent Machines (4)</booktitle>
+<crossref>series/sci/2014-514</crossref>
+<url>db/series/sci/sci514.html#Brezillon14</url>
+</incollection>
+</r>
+<r><proceedings key="books/sp/BG2014" mdate="2017-05-16">
+<editor>Patrick Brézillon</editor>
+<editor>Avelino J. Gonzalez</editor>
+<title>Context in Computing - A Cross-Disciplinary Approach for Modeling the Real World</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<isbn>978-1-4939-1886-7</isbn>
+<url>db/books/collections/BG2014.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/ifip8-3/2014" mdate="2014-11-17">
+<editor>Gloria E. Phillips-Wren</editor>
+<editor>Sven Carlsson</editor>
+<editor>Ana Respício</editor>
+<editor>Patrick Brézillon</editor>
+<title>DSS 2.0 - Supporting Decision Making with New Technologies, Proceedings of the IFIP TC8/Working Group 8.3 Conference, Université Pierre et Marie Curie, Paris, France, June 2014</title>
+<publisher>IOS Press</publisher>
+<year>2014</year>
+<series href="db/series/faia/index.html">Frontiers in Artificial Intelligence and Applications</series>
+<volume>261</volume>
+<isbn>978-1-61499-398-8</isbn>
+<isbn>978-1-61499-399-5</isbn>
+<booktitle>DSS</booktitle>
+<url>db/conf/ifip8-3/dss2014.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jds/BrezillonA13" mdate="2017-05-26">
+<author>Patrick Brézillon</author>
+<author>Anissa Aroua</author>
+<title>Representation of real-time decision-making by contextual graphs based simulation.</title>
+<pages>28-42</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>Journal of Decision Systems</journal>
+<number>1</number>
+<url>db/journals/jds/jds22.html#BrezillonA13</url>
+</article>
+</r>
+<r><inproceedings key="conf/context/ParkerHGBP13" mdate="2017-05-23">
+<author>Jeanne E. Parker</author>
+<author>Debra L. Hollister</author>
+<author>Avelino J. Gonzalez</author>
+<author>Patrick Brézillon</author>
+<author>Shane T. Parker</author>
+<title>Looking for a Synergy between Human and Artificial Cognition.</title>
+<pages>45-58</pages>
+<year>2013</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2013</crossref>
+<url>db/conf/context/context2013.html#ParkerHGBP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/HegartyBA13" mdate="2019-10-19">
+<author>John Hegarty</author>
+<author>Patrick Brézillon</author>
+<author orcid="0000-0001-5895-8981">Frédéric Adam</author>
+<title>The Role of Context in Practice-Based Organizational Learning and Performance Improvement.</title>
+<pages>59-72</pages>
+<year>2013</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2013</crossref>
+<url>db/conf/context/context2013.html#HegartyBA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/Brezillon13" mdate="2017-05-23">
+<author>Patrick Brézillon</author>
+<title>Context-Based Development of Experience Bases.</title>
+<pages>87-100</pages>
+<year>2013</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2013</crossref>
+<url>db/conf/context/context2013.html#Brezillon13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/AttiehCB13" mdate="2017-05-23">
+<author>Elham Attieh</author>
+<author>Frédérique Capron</author>
+<author>Patrick Brézillon</author>
+<title>Context-Based Modeling of an Anatomo-Cyto-Pathology Department Workflow for Quality Control.</title>
+<pages>235-247</pages>
+<year>2013</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2013</crossref>
+<url>db/conf/context/context2013.html#AttiehCB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/TahirB13" mdate="2017-05-23">
+<author>Hassane Tahir</author>
+<author>Patrick Brézillon</author>
+<title>Contextual Graphs Platform as a Basis for Designing a Context-Based Intelligent Assistant System.</title>
+<pages>259-273</pages>
+<year>2013</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2013</crossref>
+<url>db/conf/context/context2013.html#TahirB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/FanZB13" mdate="2019-09-16">
+<author>Xiaoliang Fan</author>
+<author orcid="0000-0002-6585-2656">Ruisheng Zhang</author>
+<author>Patrick Brézillon</author>
+<title>Investigating the Feasibility of Making Contexts Explicit in Designing Cloud Workflow.</title>
+<pages>2121-2128</pages>
+<year>2013</year>
+<booktitle>IPDPS Workshops</booktitle>
+<crossref>conf/ipps/2013w</crossref>
+<url>db/conf/ipps/ipdps2013w.html#FanZB13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/context/2013" mdate="2019-05-14">
+<editor>Patrick Brézillon</editor>
+<editor>Patrick Blackburn</editor>
+<editor>Richard Dapoigny</editor>
+<title>Modeling and Using Context - 8th International and Interdisciplinary Conference, CONTEXT 2013, Annecy, France, October 28 -31, 2013, Proceedings</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8175</volume>
+<isbn>978-3-642-40971-4</isbn>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context2013.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/ifip8-3/Brezillon12" mdate="2017-05-24">
+<author>Patrick Brézillon</author>
+<title>Modeling Activity Management Instead of Task Realization.</title>
+<pages>51-62</pages>
+<year>2012</year>
+<booktitle>DSS</booktitle>
+<crossref>conf/ifip8-3/2012</crossref>
+<url>db/conf/ifip8-3/dss2012.html#Brezillon12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip8-3/TahirB12" mdate="2017-05-24">
+<author>Hassane Tahir</author>
+<author>Patrick Brézillon</author>
+<title>Individual decision making based on a shared context.</title>
+<pages>63-74</pages>
+<year>2012</year>
+<booktitle>DSS</booktitle>
+<crossref>conf/ifip8-3/2012</crossref>
+<url>db/conf/ifip8-3/dss2012.html#TahirB12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ker/Brezillon11" mdate="2017-05-28">
+<author>Patrick Brézillon</author>
+<title>From expert systems to context-based intelligent assistant systems: a testimony.</title>
+<pages>19-24</pages>
+<year>2011</year>
+<volume>26</volume>
+<journal>Knowledge Eng. Review</journal>
+<number>1</number>
+<url>db/journals/ker/ker26.html#Brezillon11</url>
+</article>
+</r>
+<r><inproceedings key="conf/context/Brezillon11" mdate="2017-05-23">
+<author>Patrick Brézillon</author>
+<title>Contextualization of Scientific Workflows.</title>
+<pages>40-53</pages>
+<year>2011</year>
+<booktitle>CONTEXT</booktitle>
+<crossref>conf/context/2011</crossref>
+<url>db/conf/context/context2011.html#Brezillon11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscwd/FanZB11" mdate="2019-09-16">
+<author>Xiaoliang Fan</author>
+<author orcid="0000-0002-6585-2656">Ruisheng Zhang</author>
+<author>Patrick Brézillon</author>
+<title>Contextualizing scientific workflows in cooperative design.</title>
+<pages>17-22</pages>
+<year>2011</year>
+<booktitle>CSCWD</booktitle>
+<crossref>conf/cscwd/2011</crossref>
+<url>db/conf/cscwd/cscwd2011.html#FanZB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscwd/TahirB11" mdate="2017-05-24">
+<author>Hassane Tahir</author>
+<author>Patrick Brézillon</author>
+<title>Procedure contextualization based on collaborative database administration.</title>
+<pages>34-41</pages>
+<year>2011</year>
+<booktitle>CSCWD</booktitle>
+<crossref>conf/cscwd/2011</crossref>
+<url>db/conf/cscwd/cscwd2011.html#TahirB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscwd/Brezillon11" mdate="2017-05-24">
+<author>Patrick Brézillon</author>
+<title>Explaining for sharing context in communities.</title>
+<pages>819-826</pages>
+<year>2011</year>
+<booktitle>CSCWD</booktitle>
+<crossref>conf/cscwd/2011</crossref>
+<url>db/conf/cscwd/cscwd2011.html#Brezillon11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/TahirB11" mdate="2017-05-17">
+<author>Hassane Tahir</author>
+<author>Patrick Brézillon</author>
+<title>A shared context approach for supporting experts in data ETL (Extraction, Transformation and Loading) processes.</title>
+<pages>720-725</pages>
+<year>2011</year>
+<booktitle>ISDA</booktitle>
+<crossref>conf/isda/2011</crossref>
+<url>db/conf/isda/isda2011.html#TahirB11</url>
+</inproceedings>
+</r>
+<r><book key="series/anis/2011-13" mdate="2017-05-16">
+<editor>Frada Burstein</editor>
+<editor>Patrick Brézillon</editor>
+<editor>Arkady B. Zaslavsky</editor>
+<title>Supporting Real Time Decision-Making - The Role of Context in Decision Support on the Move</title>
+<volume>13</volume>
+<year>2011</year>
+<isbn>978-1-4419-7405-1</isbn>
+<series href="db/series/anis/index.html">Annals of Information Systems</series>
+<publisher>Springer</publisher>
+<url>db/series/anis/anis13.html</url>
+</book>
+</r>
+<r><article key="journals/ijkedm/BrezillonB10" mdate="2017-05-18">
+<author>Patrick Brézillon</author>
+<author>Juliette Brézillon</author>
+<title>Knowledge modelling in context for intelligent car driving self-training system to improve careful, conscientious and contextualised drive.</title>
+<pages>2-19</pages>
+<year>2010</year>
+<volume>1</volume>
+<journal>IJKEDM</journal>
+<number>1</number>
+<url>db/journals/ijkedm/ijkedm1.html#BrezillonB10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifip8-3/FanBZL10" mdate="2019-09-16">
+<author>Xiaoliang Fan</author>
+<author>Patrick Brézillon</author>
+<author orcid="0000-0002-6585-2656">Ruisheng Zhang</author>
+<author>Lian Li</author>
+<title>Context-oriented scientific workflow system and its application in virtual screening.</title>
+<pages>335-345</pages>
+<year>2010</year>
+<booktitle>DSS</booktitle>
+<crossref>conf/ifip8-3/2010</crossref>
+<url>db/conf/ifip8-3/dss2010.html#FanBZL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip8-3/BrezillonP10" mdate="2017-05-24">
+<author>Patrick Brézillon</author>
+<author>Jean-Charles Pomerol</author>
+<title>Framing decision making at two levels.</title>
+<pages>358-368</pages>
+<year>2010</year>
+<booktitle>DSS</booktitle>
+<crossref>conf/ifip8-3/2010</crossref>
+<url>db/conf/ifip8-3/dss2010.html#BrezillonP10</url>
+</inproceedings>
+</r>
+<r><incollection key="series/anis/Brezillon10" mdate="2017-05-16">
+<author>Patrick Brézillon</author>
+<title>A Contextual Methodology for Modelling Real-Time Decision-Making Support.</title>
+<pages>65-88</pages>
+<year>2010</year>
+<booktitle>Supporting Real Time Decision-Making</booktitle>
+<crossref>series/anis/2011-13</crossref>
+<url>db/series/anis/anis13.html#Brezillon10</url>
+</incollection>
+</r>
+<r><incollection key="series/anis/CartonAB10" mdate="2019-10-19">
+<author>Fergal Carton</author>
+<author orcid="0000-0001-5895-8981">Frédéric Adam</author>
+<author>Patrick Brézillon</author>
+<title>Why Real-Time Transaction Processing Fails to Capture the Context Required for Decision Support.</title>
+<pages>221-236</pages>
+<year>2010</year>
+<booktitle>Supporting Real Time Decision-Making</booktitle>
+<crossref>series/anis/2011-13</crossref>
+<url>db/series/anis/anis13.html#CartonAB10</url>
+</incollection>
+</r>
+<r><article key="journals/ijdsst/BrezillonBP09" mdate="2017-05-20">
+<author>Patrick Brézillon</author>
+<author>Juliette Brézillon</author>
+<author>Jean-Charles Pomerol</author>
+<title>Context-Based Methodology for Decision Making: Application to Car Driving.</title>
+<pages>1-20</pages>
+<year>2009</year>
+<volume>1</volume>
+<journal>IJDSST</journal>
+<number>3</number>
+<url>db/journals/ijdsst/ijdsst1.html#BrezillonBP09</url>
+</article>
+</r>
+<r><article key="journals/ria/BrezillonLT09" mdate="2017-06-15">
+<author>Patrick Brézillon</author>
+<author>Laure Léger</author>
+<author orcid="0000-0003-0604-1412">Charles Tijus</author>
+<title>Modeling user search on a website by contextual graphs.</title>
+<pages>467-484</pages>
+<year>2009</year>
+<volume>23</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>4</number>
+<url>db/journals/ria/ria23.html#BrezillonLT09</url>
+</article>
+</r>
+<r><inproceedings key="conf/cscwd/Brezillon09" mdate="2017-05-24">
+<author>Patrick Brézillon</author>
+<title>Explaining for developing a shared context in collaborative design.</title>
+<pages>72-77</pages>
+<year>2009</year>
+<booktitle>CSCWD</booktitle>
+<crossref>conf/cscwd/2009</crossref>
+<url>db/conf/cscwd/cscwd2009.html#Brezillon09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rivf/TijusPLB09" mdate="2017-06-15">
+<author orcid="0000-0003-0604-1412">Charles Tijus</author>
+<author>Sébastien Poitrenaud</author>
+<author>Laure Léger</author>
+<author>Patrick Brézillon</author>
+<title>Counterfactual Based Innovation: A Galois Lattice Approach of Creative Thinking.</title>
+<pages>1-4</pages>
+<year>2009</year>
+<booktitle>RIVF</booktitle>
+<crossref>conf/rivf/2009</crossref>
+<url>db/conf/rivf/rivf2009.html#TijusPLB09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/iticse/2009" mdate="2009-11-30">
+<editor>Patrick Brézillon</editor>
+<editor>Ingrid Russell</editor>
+<editor>Jean-Marc Labat</editor>
+<title>Proceedings of the 14th Annual SIGCSE Conference on Innovation and Technology in Computer Science Education, ITiCSE 2009, Paris, France, July 6-9, 2009</title>
+<booktitle>ITiCSE</booktitle>
+<publisher>ACM</publisher>
+<year>2009</year>
+<isbn>978-1-60558-381-5</isbn>
+<url>db/conf/iticse/iticse2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/isem/BrezillonB08" mdate="2017-05-18">
+<author>Patrick Brézillon</author>
+<author>Juliette Brézillon</author>
+<title>Context-sensitive decision support systems in road safety.</title>
+<pages>279-293</pages>
+<year>2008</year>
+<volume>6</volume>
+<journal>Inf. Syst. E-Business Management</journal>
+<number>3</number>
+<url>db/journals/isem/isem6.html#BrezillonB08</url>
+</article>
+</r>
+<r><article key="journals/jds/BrezillonZ08" mdate="2017-05-26">
+<author>Patrick Brézillon</author>
+<author>Pascale Zaraté</author>
+<title>Group decison Making.</title>
+<pages>11-26</pages>
+<year>2008</year>
+<volume>17</volume>
+<journal>Journal of Decision Systems</journal>
+<number>1</number>
+<url>db/journals/jds/jds17.html#BrezillonZ08</url>
+</article>
+</r>
+<r><article key="journals/jds/BrezillonBPP08" mdate="2017-05-26">
+<author>Patrick Brézillon</author>
+<author>Marcos R. S. Borges</author>
+<author>José A. Pino</author>
+<author>Jean-Charles Pomerol</author>
+<title>Context and Awareness in Group Work Lessons. Learned from Three Case Studies.</title>
+<pages>27-40</pages>
+<year>2008</year>
+<volume>17</volume>
+<journal>Journal of Decision Systems</journal>
+<number>1</number>
+<url>db/journals/jds/jds17.html#BrezillonBPP08</url>
+</article>
+</r>
+<r><article key="journals/ker/GonzalezB08" mdate="2017-05-28">
+<author>Avelino J. Gonzalez</author>
+<author>Patrick Brézillon</author>
+<title>Comparing two context-driven approaches for representation of human tactical behavior.</title>
+<pages>295-315</pages>
+<year>2008</year>
+<volume>23</volume>
+<journal>Knowledge Eng. Review</journal>
+<number>3</number>
+<url>db/journals/ker/ker23.html#GonzalezB08</url>
+</article>
+</r>
+<r><article key="journals/ria/BrezillonB08" mdate="2017-05-27">
+<author>Patrick Brézillon</author>
+<author>Juliette Brézillon</author>
+<title>Contextualized Task Modeling.</title>
+<pages>531-548</pages>
+<year>2008</year>
+<volume>22</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>5</number>
+<url>db/journals/ria/ria22.html#BrezillonB08</url>
+</article>
+</r>
+<r><article key="journals/ria/VieiraBST08" mdate="2009-11-30">
+<author>Vaninha Vieira</author>
+<author>Patrick Brézillon</author>
+<author>Ana Carolina Salgado</author>
+<author>Patricia Azevedo Tedesco</author>
+<title>A Context-Oriented Model for Domain-Independent Context Management.</title>
+<pages>609-627</pages>
+<year>2008</year>
+<volume>22</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>5</number>
+<url>db/journals/ria/ria22.html#VieiraBST08</url>
+</article>
+</r>
+<r><inproceedings key="conf/ejc/BrezillonBT08" mdate="2017-06-15">
+<author>Juliette Brézillon</author>
+<author>Patrick Brézillon</author>
+<author orcid="0000-0003-0604-1412">Charles Tijus</author>
+<title>3C-Drive: New Model for Driver's Auto Evaluation.</title>
+<pages>154-165</pages>
+<year>2008</year>
+<booktitle>EJC</booktitle>
+<crossref>conf/ejc/2008</crossref>
+<url>db/conf/ejc/ejc2008.html#BrezillonBT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/exact/Brezillon08" mdate="2010-01-15">
+<author>Patrick Brézillon</author>
+<title>Explaining for Contextualizing and Contextualizing for Explaining: A role in collaborative work.</title>
+<pages>1-12</pages>
+<year>2008</year>
+<booktitle>ExaCt</booktitle>
+<crossref>conf/exact/2008</crossref>
+<url>db/conf/exact/exact2008.html#Brezillon08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip8-3/Brezillon08" mdate="2012-03-14">
+<author>Patrick Brézillon</author>
+<title>Context in the Collaborative Building of an Answer to a Question.</title>
+<pages>28-39</pages>
+<year>2008</year>
+<booktitle>CDM</booktitle>
+<crossref>conf/ifip8-3/2008</crossref>
+<url>db/conf/ifip8-3/cdm2008.html#Brezillon08</url>
+</inproceedings>
+</r>
+<r><article key="journals/dss/BorgesBPP07" mdate="2017-06-14">
+<author orcid="0000-0002-2992-3429">Marcos R. S. Borges</author>
+<author>Patrick Brézillon</author>
+<author>José A. Pino</author>
+<author>Jean-Charles Pomerol</author>
+<title>Dealing with the effects of context mismatch in group work.</title>
+<pages>1692-1706</pages>
+<year>2007</year>
+<volume>43</volume>
+<journal>Decision Support Systems</journal>
+<number>4</number>
+<url>db/journals/dss/dss43.html#BorgesBPP07</url>
+</article>
+</r>
+<r><inproceedings key="conf/context/Brezillon07" mdate="2017-05-23">
+<author>Patrick Brézillon</author>
+<title>Context Modeling: Task Model and Practice Model.</title>
+<pages>122-135</pages>
+<year>2007</year>
+<crossref>conf/context/2007</crossref>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context2007.html#Brezillon07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/BrezillonB07" mdate="2017-05-23">
+<author>Juliette Brézillon</author>
+<author>Patrick Brézillon</author>
+<title>Context Modeling: Context as a Dressing of a Focus.</title>
+<pages>136-149</pages>
+<year>2007</year>
+<crossref>conf/context/2007</crossref>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context2007.html#BrezillonB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/VieiraTSB07" mdate="2017-05-23">
+<author>Vaninha Vieira</author>
+<author>Patricia Azevedo Tedesco</author>
+<author>Ana Carolina Salgado</author>
+<author>Patrick Brézillon</author>
+<title>Investigating the Specifics of Contextual Elements Management: The CEManTIKA Approach.</title>
+<pages>493-506</pages>
+<year>2007</year>
+<crossref>conf/context/2007</crossref>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context2007.html#VieiraTSB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/BrezillonBAT07" mdate="2008-01-14">
+<author>Juliette Brézillon</author>
+<author>Patrick Brézillon</author>
+<author>Thierry Artières</author>
+<author>Charles Tijus</author>
+<title>Context-Based Intelligent Educational System for Car Drivers.</title>
+<pages>403-406</pages>
+<year>2007</year>
+<crossref>conf/iceis/2007-2</crossref>
+<booktitle>ICEIS (2)</booktitle>
+<url>db/conf/iceis/iceis2007-2.html#BrezillonBAT07</url>
+</inproceedings>
+</r>
+<r><article key="journals/cai/SantoroB06" mdate="2010-12-15">
+<author>Patrick Brézillon</author>
+<author>Flávia Maria Santoro</author>
+<title>The Role of Shared Context in Group Storytelling.</title>
+<year>2006</year>
+<volume>25</volume>
+<journal>Computers and Artificial Intelligence</journal>
+<number>6</number>
+<url>db/journals/cai/cai25.html#SantoroB06</url>
+<pages>497-522</pages>
+</article>
+</r>
+<r><article key="journals/entcs/MostefaouiB06" mdate="2017-05-28">
+<author>Ghita Kouadri Mostéfaoui</author>
+<author>Patrick Brézillon</author>
+<title>Context-Based Constraints in Security: Motivations and First Approach.</title>
+<pages>85-100</pages>
+<year>2006</year>
+<volume>146</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/entcs/entcs146.html#MostefaouiB06</url>
+</article>
+</r>
+<r><inproceedings key="conf/cscwd/SantoroBA06" mdate="2017-05-24">
+<author>Flávia Maria Santoro</author>
+<author>Patrick Brézillon</author>
+<author>Renata Mendes de Araujo</author>
+<title>Context Dynamics in Software Engineering Process.</title>
+<pages>377-388</pages>
+<year>2006</year>
+<crossref>conf/cscwd/2006lncs</crossref>
+<booktitle>CSCWD (Selected Papers)</booktitle>
+<url>db/conf/cscwd/cscwd2006lncs.html#SantoroBA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieaaie/BrezillonG06" mdate="2017-05-19">
+<author>Patrick Brézillon</author>
+<author>Avelino J. Gonzalez</author>
+<title>Tale of Two Context-Based Formalisms for Representing Human Knowledge.</title>
+<pages>137-145</pages>
+<year>2006</year>
+<crossref>conf/ieaaie/2006</crossref>
+<booktitle>IEA/AIE</booktitle>
+<url>db/conf/ieaaie/ieaaie2006.html#BrezillonG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieaaie/Brezillon06" mdate="2017-05-19">
+<author>Patrick Brézillon</author>
+<title>Some Characteristics of Context.</title>
+<pages>146-154</pages>
+<year>2006</year>
+<crossref>conf/ieaaie/2006</crossref>
+<booktitle>IEA/AIE</booktitle>
+<url>db/conf/ieaaie/ieaaie2006.html#Brezillon06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wmash/MostefaouiB06" mdate="2018-11-06">
+<author>Ghita Kouadri Mostéfaoui</author>
+<author>Patrick Brézillon</author>
+<title>Human-centric network security management: a comprehensive helper.</title>
+<pages>47-52</pages>
+<year>2006</year>
+<booktitle>WMASH</booktitle>
+<crossref>conf/wmash/2006</crossref>
+<url>db/conf/wmash/wmash2006.html#MostefaouiB06</url>
+</inproceedings>
+</r>
+<r><article key="journals/jds/GachetB05" mdate="2017-05-26">
+<author>Alexandre Gachet</author>
+<author>Patrick Brézillon</author>
+<title>Organizational Structures and Decision Making Processes. A Multi-Level Model.</title>
+<pages>9-37</pages>
+<year>2005</year>
+<volume>14</volume>
+<journal>Journal of Decision Systems</journal>
+<number>1-2</number>
+<url>db/journals/jds/jds14.html#GachetB05</url>
+</article>
+</r>
+<r><article key="journals/ria/BrezillonA05" mdate="2019-09-25">
+<author>Patrick Brézillon</author>
+<author orcid="0000-0002-8674-1728">Renata Mendes de Araujo</author>
+<title>Reinforcing Shared Context to Improve Collaboration.</title>
+<pages>537-556</pages>
+<year>2005</year>
+<volume>19</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>3</number>
+<url>db/journals/ria/ria19.html#BrezillonA05</url>
+</article>
+</r>
+<r><article key="journals/ria/GachetB05" mdate="2017-05-27">
+<author>Alexandre Gachet</author>
+<author>Patrick Brézillon</author>
+<title>A Context-Based Representation of Knowledge Flows in Dynamic Organizations.</title>
+<pages>557-574</pages>
+<year>2005</year>
+<volume>19</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>3</number>
+<url>db/journals/ria/ria19.html#GachetB05</url>
+</article>
+</r>
+<r><article key="journals/ria/Brezillon05" mdate="2017-05-27">
+<author>Patrick Brézillon</author>
+<title>Contextualizations in a Social Network. Context in Social networks and virtual communities.</title>
+<pages>575-594</pages>
+<year>2005</year>
+<volume>19</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>3</number>
+<url>db/journals/ria/ria19.html#Brezillon05</url>
+</article>
+</r>
+<r><inproceedings key="conf/context/BazireB05" mdate="2017-05-23">
+<author>Mary Bazire</author>
+<author>Patrick Brézillon</author>
+<title>Understanding Context Before Using It.</title>
+<pages>29-40</pages>
+<year>2005</year>
+<crossref>conf/context/2005</crossref>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context2005.html#BazireB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/BazireBLT05" mdate="2019-05-28">
+<author>Mary Bazire</author>
+<author>Patrick Brézillon</author>
+<author>Brigitte Cambon de Lavalette</author>
+<author>Charles Tijus</author>
+<title>Gaps between rules and uses of the road.</title>
+<year>2005</year>
+<crossref>conf/context/2005w</crossref>
+<booktitle>CONTEXT Workshop on Safety and Context</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-158/3.pdf</ee>
+<url>db/conf/context/context2005w.html#BazireBLT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/Brezillon05" mdate="2017-05-23">
+<author>Patrick Brézillon</author>
+<title>Task-Realization Models in Contextual Graphs.</title>
+<pages>55-68</pages>
+<year>2005</year>
+<crossref>conf/context/2005</crossref>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context2005.html#Brezillon05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/SiebraSTB05" mdate="2017-05-23">
+<author>Sandra de Albuquerque Siebra</author>
+<author>Ana Carolina Salgado</author>
+<author>Patricia Azevedo Tedesco</author>
+<author>Patrick Brézillon</author>
+<title>Identifying the Interaction Context in CSCLE.</title>
+<pages>464-475</pages>
+<year>2005</year>
+<crossref>conf/context/2005</crossref>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context2005.html#SiebraSTB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/criwg/SantoroB05" mdate="2017-05-19">
+<author>Flávia Maria Santoro</author>
+<author>Patrick Brézillon</author>
+<title>Developing Shared Context Within Group Stories.</title>
+<pages>232-247</pages>
+<year>2005</year>
+<crossref>conf/criwg/2005</crossref>
+<booktitle>CRIWG</booktitle>
+<url>db/conf/criwg/criwg2005.html#SantoroB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscwd/SantoroBA05" mdate="2017-06-02">
+<author>Flávia Maria Santoro</author>
+<author>Patrick Brézillon</author>
+<author orcid="0000-0002-8674-1728">Renata Mendes de Araujo</author>
+<title>Management of shared context dynamics in software design.</title>
+<pages>134-139</pages>
+<year>2005</year>
+<booktitle>CSCWD (1)</booktitle>
+<crossref>conf/cscwd/2005-1</crossref>
+<url>db/conf/cscwd/cscwd2005-1.html#SantoroBA05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/SantoroB05" mdate="2017-05-24">
+<author>Flávia Maria Santoro</author>
+<author>Patrick Brézillon</author>
+<title>Group Storytelling Approach to Collect Contextualized Shared Knowledge.</title>
+<pages>388-392</pages>
+<year>2005</year>
+<crossref>conf/dexaw/2005</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<url>db/conf/dexaw/dexaw2005.html#SantoroB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/BrezillonT05" mdate="2014-04-27">
+<author>Patrick Brézillon</author>
+<author>Charles Tijus</author>
+<title>Représentation contextualisée des pratiques des utilisateurs.</title>
+<pages>81-88</pages>
+<year>2005</year>
+<booktitle>EGC (Ateliers)</booktitle>
+<crossref>conf/f-egc/2005w</crossref>
+<url>db/conf/f-egc/egc2005w.html#BrezillonT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/Brezillon05" mdate="2012-12-13">
+<author>Patrick Brézillon</author>
+<title>Role of Context in Social Networks.</title>
+<pages>20-25</pages>
+<year>2005</year>
+<crossref>conf/flairs/2005</crossref>
+<booktitle>FLAIRS Conference</booktitle>
+<url>db/conf/flairs/flairs2005.html#Brezillon05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/GachetB05" mdate="2012-12-13">
+<author>Alexandre Gachet</author>
+<author>Patrick Brézillon</author>
+<title>A Context-based Representation of Organizational Structures.</title>
+<pages>26-31</pages>
+<year>2005</year>
+<crossref>conf/flairs/2005</crossref>
+<booktitle>FLAIRS Conference</booktitle>
+<url>db/conf/flairs/flairs2005.html#GachetB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/AraujoB05" mdate="2012-12-13">
+<author>Renata Mendes de Araujo</author>
+<author>Patrick Brézillon</author>
+<title>Context-based Modeling of Group Work.</title>
+<pages>812-813</pages>
+<year>2005</year>
+<crossref>conf/flairs/2005</crossref>
+<booktitle>FLAIRS Conference</booktitle>
+<url>db/conf/flairs/flairs2005.html#AraujoB05</url>
+</inproceedings>
+</r>
+<r><article key="journals/cai/Brezillon04" mdate="2010-12-15">
+<author>Patrick Brézillon</author>
+<title>Context and Virtual Communities In a Firm.</title>
+<year>2004</year>
+<volume>23</volume>
+<journal>Computers and Artificial Intelligence</journal>
+<number>2</number>
+<url>db/journals/cai/cai23.html#Brezillon04</url>
+<pages>115-131</pages>
+</article>
+</r>
+<r><inproceedings key="conf/cscwd/BorgesBPP04" mdate="2017-05-24">
+<author>Marcos R. S. Borges</author>
+<author>Patrick Brézillon</author>
+<author>José A. Pino</author>
+<author>Jean-Charles Pomerol</author>
+<title>Groupware System Design and the Context Concept.</title>
+<pages>45-54</pages>
+<year>2004</year>
+<crossref>conf/cscwd/2004</crossref>
+<booktitle>CSCWD (Selected papers)</booktitle>
+<url>db/conf/cscwd/cscwd2004.html#BorgesBPP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/BrezillonBPP04" mdate="2012-12-13">
+<author>Patrick Brézillon</author>
+<author>Marcos R. S. Borges</author>
+<author>José A. Pino</author>
+<author>Jean-Charles Pomerol</author>
+<title>Context-Based Awareness in Group Work.</title>
+<year>2004</year>
+<crossref>conf/flairs/2004</crossref>
+<booktitle>FLAIRS Conference</booktitle>
+<url>db/conf/flairs/flairs2004.html#BrezillonBPP04</url>
+<pages>575-580</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/BrezillonM04" mdate="2012-12-13">
+<author>Patrick Brézillon</author>
+<author>E. Marquois</author>
+<title>Context-Based Representation of the Task/Method Paradigm.</title>
+<year>2004</year>
+<crossref>conf/flairs/2004</crossref>
+<booktitle>FLAIRS Conference</booktitle>
+<url>db/conf/flairs/flairs2004.html#BrezillonM04</url>
+<pages>581-586</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/MostefaouiB04" mdate="2012-12-13">
+<author>Ghita Kouadri Mostéfaoui</author>
+<author>Patrick Brézillon</author>
+<title>A Context-Based Approach of Security Policies.</title>
+<year>2004</year>
+<crossref>conf/flairs/2004</crossref>
+<booktitle>FLAIRS Conference</booktitle>
+<url>db/conf/flairs/flairs2004.html#MostefaouiB04</url>
+<pages>594-598</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icps/MostefaouiPB04" mdate="2017-05-24">
+<author>Ghita Kouadri Mostéfaoui</author>
+<author>Jacques Pasquier-Rocha</author>
+<author>Patrick Brézillon</author>
+<title>Context-Aware Computing: A Guide for the Pervasive Computing Community.</title>
+<pages>39-48</pages>
+<year>2004</year>
+<crossref>conf/icps/2004</crossref>
+<booktitle>ICPS</booktitle>
+<url>db/conf/icps/icps2004.html#MostefaouiPB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/percom/MostefaouiB04" mdate="2017-05-23">
+<author>Ghita Kouadri Mostéfaoui</author>
+<author>Patrick Brézillon</author>
+<title>Modeling Context-Based Security Policies with Contextual Graphs.</title>
+<pages>28-32</pages>
+<year>2004</year>
+<crossref>conf/percom/2004w</crossref>
+<booktitle>PerCom Workshops</booktitle>
+<url>db/conf/percom/percomw2004.html#MostefaouiB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/percom/BrezillonM04" mdate="2017-05-23">
+<author>Patrick Brézillon</author>
+<author>Ghita Kouadri Mostéfaoui</author>
+<title>Context-Based Security Policies: A New Modeling Approach.</title>
+<pages>154-158</pages>
+<year>2004</year>
+<crossref>conf/percom/2004w</crossref>
+<booktitle>PerCom Workshops</booktitle>
+<url>db/conf/percom/percomw2004.html#BrezillonM04</url>
+</inproceedings>
+</r>
+<r><article key="journals/expert/Brezillon03" mdate="2017-05-26">
+<author>Patrick Brézillon</author>
+<title>Focusing on Context in Human-Centered Computing.</title>
+<pages>62-66</pages>
+<year>2003</year>
+<volume>18</volume>
+<journal>IEEE Intelligent Systems</journal>
+<number>3</number>
+<url>db/journals/expert/expert18.html#Brezillon03</url>
+</article>
+</r>
+<r><article key="journals/jds/AdamBC03" mdate="2019-10-19">
+<author orcid="0000-0001-5895-8981">Frédéric Adam</author>
+<author>Patrick Brézillon</author>
+<author>Jean-Claude Courbon</author>
+<title>Editorial.</title>
+<pages>119-121</pages>
+<year>2003</year>
+<volume>12</volume>
+<journal>Journal of Decision Systems</journal>
+<number>2</number>
+<url>db/journals/jds/jds12.html#AdamBC03</url>
+</article>
+</r>
+<r><article key="journals/jds/BrezillonN03" mdate="2017-05-26">
+<author>Patrick Brézillon</author>
+<author>Ricardo Naveiro</author>
+<title>Knowledge and Context in Design for a Collaborative Decision Making.</title>
+<pages>253-270</pages>
+<year>2003</year>
+<volume>12</volume>
+<journal>Journal of Decision Systems</journal>
+<number>3-4</number>
+<url>db/journals/jds/jds12.html#BrezillonN03</url>
+</article>
+</r>
+<r><article key="journals/ker/Brezillon03" mdate="2017-05-28">
+<author>Patrick Brézillon</author>
+<title>Representation of procedures and practices in contextual graphs.</title>
+<pages>147-174</pages>
+<year>2003</year>
+<volume>18</volume>
+<journal>Knowledge Eng. Review</journal>
+<number>2</number>
+<url>db/journals/ker/ker18.html#Brezillon03</url>
+</article>
+</r>
+<r><inproceedings key="conf/context/Brezillon03" mdate="2017-05-23">
+<author>Patrick Brézillon</author>
+<title>Context Dynamic and Explanation in Contextual Graphs.</title>
+<pages>94-106</pages>
+<year>2003</year>
+<crossref>conf/context/2003</crossref>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context2003.html#Brezillon03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/GanetBT03" mdate="2017-05-23">
+<author>Leslie Ganet</author>
+<author>Patrick Brézillon</author>
+<author>Charles Tijus</author>
+<title>Explanation as Contextual Categorization.</title>
+<pages>142-153</pages>
+<year>2003</year>
+<crossref>conf/context/2003</crossref>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context2003.html#GanetBT03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/MostefaouiB03" mdate="2017-05-23">
+<author>Ghita Kouadri Mostéfaoui</author>
+<author>Patrick Brézillon</author>
+<title>A Generic Framework for Context-Based Distributed Authorizations.</title>
+<pages>204-217</pages>
+<year>2003</year>
+<crossref>conf/context/2003</crossref>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context2003.html#MostefaouiB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/PomerolB03" mdate="2017-05-23">
+<author>Jean-Charles Pomerol</author>
+<author>Patrick Brézillon</author>
+<title>Context Proceduralization in Decision Making.</title>
+<pages>491-498</pages>
+<year>2003</year>
+<crossref>conf/context/2003</crossref>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context2003.html#PomerolB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/criwg/BrezillonAP03" mdate="2019-10-19">
+<author>Patrick Brézillon</author>
+<author orcid="0000-0001-5895-8981">Frédéric Adam</author>
+<author>Jean-Charles Pomerol</author>
+<title>Supporting Complex Decision Making Processes with Collaborative Applications - A Case Study.</title>
+<pages>261-276</pages>
+<year>2003</year>
+<crossref>conf/criwg/2003</crossref>
+<booktitle>CRIWG</booktitle>
+<url>db/conf/criwg/criwg2003.html#BrezillonAP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hicss/Brezillon03" mdate="2017-05-23">
+<author>Patrick Brézillon</author>
+<title>Individual and Team Contexts in a Design Process.</title>
+<pages>27</pages>
+<year>2003</year>
+<crossref>conf/hicss/2003</crossref>
+<booktitle>HICSS</booktitle>
+<url>db/conf/hicss/hicss2003-1.html#Brezillon03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hicss/Brezillon03a" mdate="2017-05-23">
+<author>Patrick Brézillon</author>
+<title>Context-Based Intelligent Assistant Systems: A Discussion Based on the Analysis of Two Projects.</title>
+<pages>83</pages>
+<year>2003</year>
+<crossref>conf/hicss/2003</crossref>
+<booktitle>HICSS</booktitle>
+<url>db/conf/hicss/hicss2003-3.html#Brezillon03a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hicss/Brezillon03b" mdate="2017-05-23">
+<author>Patrick Brézillon</author>
+<title>Using Context for Supporting Users Efficiently.</title>
+<pages>127</pages>
+<year>2003</year>
+<crossref>conf/hicss/2003</crossref>
+<booktitle>HICSS</booktitle>
+<url>db/conf/hicss/hicss2003-5.html#Brezillon03b</url>
+</inproceedings>
+</r>
+<r><article key="journals/eor/BrezillonPP02" mdate="2017-05-27">
+<author>Patrick Brézillon</author>
+<author>Laurent Pasquier</author>
+<author>Jean-Charles Pomerol</author>
+<title>Reasoning with contextual graphs.</title>
+<pages>290-298</pages>
+<year>2002</year>
+<volume>136</volume>
+<journal>European Journal of Operational Research</journal>
+<number>2</number>
+<url>db/journals/eor/eor136.html#BrezillonPP02</url>
+</article>
+</r>
+<r><article key="journals/jmis/PomerolBP02" mdate="2015-07-30">
+<author>Jean-Charles Pomerol</author>
+<author>Patrick Brézillon</author>
+<author>Laurent Pasquier</author>
+<title>Operational Knowledge Representation for Practical Decision-Making.</title>
+<pages>101-116</pages>
+<year>2002</year>
+<volume>18</volume>
+<journal>J. of Management Information Systems</journal>
+<number>4</number>
+<url>db/journals/jmis/jmis18.html#PomerolBP02</url>
+</article>
+</r>
+<r><article key="journals/dn/NaveiroBF01" mdate="2019-04-12">
+<author>Ricardo Naveiro</author>
+<author>Patrick Brézillon</author>
+<author>Romir Souza Filho</author>
+<title>Contextual Knowledge in Design: the SisPro project.</title>
+<pages>115-134</pages>
+<year>2001</year>
+<volume>5</volume>
+<journal>Document Numérique</journal>
+<number>3-4</number>
+<url>db/journals/dn/dn5.html#NaveiroBF01</url>
+</article>
+</r>
+<r><article key="journals/jds/HumpreysB01" mdate="2017-05-26">
+<author>Patrick Humpreys</author>
+<author>Patrick Brézillon</author>
+<title>Editorial.</title>
+<pages>127-132</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>Journal of Decision Systems</journal>
+<number>2</number>
+<url>db/journals/jds/jds10.html#HumpreysB01</url>
+</article>
+</r>
+<r><article key="journals/jds/BrezillonP01" mdate="2017-05-26">
+<author>Patrick Brézillon</author>
+<author>Jean-Charles Pomerol</author>
+<title>Modeling and Using Context for System Development: Lessons from Experience.</title>
+<pages>265-288</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>Journal of Decision Systems</journal>
+<number>2</number>
+<url>db/journals/jds/jds10.html#BrezillonP01</url>
+</article>
+</r>
+<r><inproceedings key="conf/context/PomerolB01" mdate="2017-05-23">
+<author>Jean-Charles Pomerol</author>
+<author>Patrick Brézillon</author>
+<title>About Some Relationships between Knowledge and Context.</title>
+<pages>461-464</pages>
+<year>2001</year>
+<crossref>conf/context/2001</crossref>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context2001.html#PomerolB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hicss/PomerolBP01" mdate="2017-05-23">
+<author>Jean-Charles Pomerol</author>
+<author>Patrick Brézillon</author>
+<author>Laurent Pasquier</author>
+<title>Operational Knowledge Representation for Practical Decision Making.</title>
+<year>2001</year>
+<crossref>conf/hicss/2001</crossref>
+<booktitle>HICSS</booktitle>
+<url>db/conf/hicss/hicss2001-3.html#PomerolBP01</url>
+</inproceedings>
+</r>
+<r><article key="journals/aim/DrabbleCTAWAFFFFCSABMGMSCCSBPTT00" mdate="2010-12-29">
+<author>Brian Drabble</author>
+<author>Laurent Chaudron</author>
+<author>Catherine Tessier</author>
+<author>Sue Abu-Hakima</author>
+<author>Steven Willmott</author>
+<author>Jim Austin</author>
+<author>Boi Faltings</author>
+<author>Eugene C. Freuder</author>
+<author>Gerhard Friedrich</author>
+<author>Alex Alves Freitas</author>
+<author>Ulises Cortés</author>
+<author>Miquel Sànchez-Marrè</author>
+<author>David W. Aha</author>
+<author>Irma Becerra-Fernandez</author>
+<author>Héctor Muñoz-Avila</author>
+<author>Aditya Ghose</author>
+<author>Tim Menzies</author>
+<author>Ken Satoh</author>
+<author>Mary Elaine Califf</author>
+<author>Michael T. Cox</author>
+<author>Sandip Sen</author>
+<author>Patrick Brézillon</author>
+<author>Jean-Charles Pomerol</author>
+<author>Roy M. Turner</author>
+<author>Elise H. Turner</author>
+<title>Reports on the AAAI 1999 Workshop Program.</title>
+<pages>95-100</pages>
+<year>2000</year>
+<volume>21</volume>
+<journal>AI Magazine</journal>
+<number>1</number>
+<url>db/journals/aim/aim21.html#DrabbleCTAWAFFFFCSABMGMSCCSBPTT00</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbia/BrezillonPP00" mdate="2017-05-17">
+<author>Patrick Brézillon</author>
+<author>Laurent Pasquier</author>
+<author>Jean-Charles Pomerol</author>
+<title>Representing Operational Knowledge by Contextual Graphs.</title>
+<pages>245-258</pages>
+<year>2000</year>
+<crossref>conf/sbia/2000</crossref>
+<booktitle>IBERAMIA-SBIA</booktitle>
+<url>db/conf/sbia/sbia2000.html#BrezillonPP00</url>
+</inproceedings>
+</r>
+<r><article key="journals/cai/Brezillon99" mdate="2007-05-15">
+<author>Patrick Brézillon</author>
+<title>Context in Artificial Intelligence: I. A Survey of the Literature.</title>
+<year>1999</year>
+<volume>18</volume>
+<journal>Computers and Artificial Intelligence</journal>
+<number>4</number>
+<url>db/journals/cai/cai18.html#Brezillon99</url>
+</article>
+</r>
+<r><article key="journals/cai/Brezillon99a" mdate="2007-05-15">
+<author>Patrick Brézillon</author>
+<title>Context in Artificial Intelligence II. Key Elements of Contexts.</title>
+<year>1999</year>
+<volume>18</volume>
+<journal>Computers and Artificial Intelligence</journal>
+<number>5</number>
+<url>db/journals/cai/cai18.html#Brezillon99a</url>
+</article>
+</r>
+<r><article key="journals/ker/Brezillon99" mdate="2014-05-03">
+<author>Patrick Brézillon</author>
+<title>Context in problem solving: a survey.</title>
+<pages>47-80</pages>
+<year>1999</year>
+<volume>14</volume>
+<journal>Knowledge Eng. Review</journal>
+<number>1</number>
+<url>db/journals/ker/ker14.html#Brezillon99</url>
+</article>
+</r>
+<r><inproceedings key="conf/context/PomerolB99" mdate="2017-05-23">
+<author>Jean-Charles Pomerol</author>
+<author>Patrick Brézillon</author>
+<title>Dynamics between Contextual Knowledge and Proceduralized Context.</title>
+<pages>284-295</pages>
+<year>1999</year>
+<crossref>conf/context/1999</crossref>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context1999.html#PomerolB99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/PasquierBP99" mdate="2017-05-23">
+<author>Laurent Pasquier</author>
+<author>Patrick Brézillon</author>
+<author>Jean-Charles Pomerol</author>
+<title>Context and Decision Graphs for Incident Management on a Subway Line.</title>
+<pages>499-502</pages>
+<year>1999</year>
+<crossref>conf/context/1999</crossref>
+<booktitle>CONTEXT</booktitle>
+<url>db/conf/context/context1999.html#PasquierBP99</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/context/1999" mdate="2019-05-14">
+<editor>Paolo Bouquet</editor>
+<editor orcid="0000-0003-4812-1031">Luciano Serafini</editor>
+<editor>Patrick Brézillon</editor>
+<editor>Massimo Benerecetti</editor>
+<editor>F. Castellani</editor>
+<title>Modeling and Using Context, Second International and Interdisciplinary Conference, CONTEXT'99, Trento, Italy, September 1999, Proceedings</title>
+<booktitle>CONTEXT</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1688</volume>
+<publisher>Springer</publisher>
+<year>1999</year>
+<isbn>3-540-66432-7</isbn>
+<url>db/conf/context/context1999.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijmms/BreZillon98" mdate="2017-05-20">
+<author>Patrick Brézillon</author>
+<title>Introduction to the Special Issue "Using context in applications".</title>
+<pages>303-305</pages>
+<year>1998</year>
+<volume>48</volume>
+<journal>Int. J. Hum.-Comput. Stud.</journal>
+<number>3</number>
+<url>db/journals/ijmms/ijmms48.html#BreZillon98</url>
+</article>
+</r>
+<r><article key="journals/ijmms/BrezillonPS98" mdate="2017-05-20">
+<author>Patrick Brézillon</author>
+<author>Jean-Charles Pomerol</author>
+<author>I. Saker</author>
+<title>Contextual and contextualized knowledge: an application in subway control.</title>
+<pages>357-373</pages>
+<year>1998</year>
+<volume>48</volume>
+<journal>Int. J. Hum.-Comput. Stud.</journal>
+<number>3</number>
+<url>db/journals/ijmms/ijmms48.html#BrezillonPS98</url>
+</article>
+</r>
+<r><article key="journals/kbs/Brezillon98" mdate="2017-05-28">
+<author>Patrick Brézillon</author>
+<title>Successes and failures of KBSs in real-world applications: Report on the international conference.</title>
+<pages>253-257</pages>
+<year>1998</year>
+<volume>10</volume>
+<journal>Knowl.-Based Syst.</journal>
+<number>4</number>
+<url>db/journals/kbs/kbs10.html#Brezillon98</url>
+</article>
+</r>
+<r><article key="journals/ker/BrezillonC98" mdate="2014-05-04">
+<author>Patrick Brézillon</author>
+<author>Marcos Cavalcanti</author>
+<title>Modeling and using context.</title>
+<pages>185-194</pages>
+<year>1998</year>
+<volume>13</volume>
+<journal>Knowledge Eng. Review</journal>
+<number>2</number>
+<url>db/journals/ker/ker13.html#BrezillonC98</url>
+</article>
+</r>
+<r><article key="journals/ker/BrezillonC98a" mdate="2014-05-04">
+<author>Patrick Brézillon</author>
+<author>Marcos Cavalcanti</author>
+<title>Modeling and using context.</title>
+<pages>185-194</pages>
+<year>1998</year>
+<volume>13</volume>
+<journal>Knowledge Eng. Review</journal>
+<number>2</number>
+<url>db/journals/ker/ker13.html#BrezillonC98a</url>
+</article>
+</r>
+<r><inproceedings key="conf/hicss/PomerolB98" mdate="2017-05-23">
+<author>Jean-Charles Pomerol</author>
+<author>Patrick Brézillon</author>
+<title>From DSSs to Cooperative Systems: Some Hard Problems Still Remain.</title>
+<pages>64-71</pages>
+<year>1998</year>
+<crossref>conf/hicss/1998</crossref>
+<booktitle>HICSS (5)</booktitle>
+<url>db/conf/hicss/hicss1998-5.html#PomerolB98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip8-3/BrezillonP98" mdate="2003-03-21">
+<author>Patrick Brézillon</author>
+<author>Jean-Charles Pomerol</author>
+<title>Using contextual information in decision making.</title>
+<pages>158-173</pages>
+<year>1998</year>
+<crossref>conf/ifip8-3/1998</crossref>
+<booktitle>Context Sensitive Decision Support Systems</booktitle>
+<url>db/conf/ifip8-3/ifip8-3-1998.html#BrezillonP98</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ifip8-3/1998" mdate="2003-03-21">
+<editor>Dina Berkeley</editor>
+<editor>George R. Widmeyer</editor>
+<editor>Patrick Brézillon</editor>
+<editor>Vladislav Rajkovic</editor>
+<title>Context Sensitive Decision Support Systems, IFIP TC8/WG8.3 International Conference on Context Sensitive Decision Support Systems, 13-15 July 1998, Bled, Slovenia</title>
+<booktitle>Context Sensitive Decision Support Systems</booktitle>
+<series href="db/series/ifip/index.html">IFIP Conference Proceedings</series>
+<volume>111</volume>
+<publisher>Chapman and Hall</publisher>
+<year>1998</year>
+<isbn>0-412-83740-4</isbn>
+<url>db/conf/ifip8-3/ifip8-3-1998.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/hicss/PomerolB97" mdate="2017-05-23">
+<author>Jean-Charles Pomerol</author>
+<author>Patrick Brézillon</author>
+<title>Organizational experiences with multicriteria decision support systems : problems and issues.</title>
+<pages>320-327</pages>
+<year>1997</year>
+<crossref>conf/hicss/1997</crossref>
+<booktitle>HICSS (3)</booktitle>
+<url>db/conf/hicss/hicss1997-3.html#PomerolB97</url>
+</inproceedings>
+</r>
+<r><article key="journals/aim/BrezillonA95" mdate="2010-12-29">
+<author>Patrick Brézillon</author>
+<author>Suhayya Abu-Hakima</author>
+<title>Using Knowledge in Its Context: Report on the IJCAI-93 Workshop.</title>
+<pages>87-91</pages>
+<year>1995</year>
+<volume>16</volume>
+<journal>AI Magazine</journal>
+<number>1</number>
+<url>db/journals/aim/aim16.html#BrezillonA95</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurovav/VicatBN93" mdate="2002-06-18">
+<author>Catherine Vicat</author>
+<author>Patrick Brézillon</author>
+<author>Christian Nottola</author>
+<title>Knowledge Validation in the Building of a KBS.</title>
+<pages>311-323</pages>
+<year>1993</year>
+<crossref>conf/eurovav/1993</crossref>
+<booktitle>EUROVAV</booktitle>
+<url>db/conf/eurovav/eurovav1993.html#VicatBN93</url>
+</inproceedings>
+</r>
+<r><article key="journals/expert/BauB92" mdate="2017-05-26">
+<author>Dong-Yih Bau</author>
+<author>Patrick Brézillon</author>
+<title>Model-Based Diagnosis of Power-Station Control Systems.</title>
+<pages>36-44</pages>
+<year>1992</year>
+<volume>7</volume>
+<journal>IEEE Expert</journal>
+<number>1</number>
+<url>db/journals/expert/expert7.html#BauB92</url>
+</article>
+</r>
+<r><inproceedings key="conf/ieaaie/BrezillonBHM90" mdate="2019-07-19">
+<author>Patrick Brézillon</author>
+<author>Dong-Yih Bau</author>
+<author>Alain Hertz</author>
+<author>A. P. Fauquembergue Maizener</author>
+<title>Elaboration of the SEPT Expert System as the Coupling of a Simulator and a Diagnostician.</title>
+<pages>54-60</pages>
+<year>1990</year>
+<crossref>conf/ieaaie/1990-1</crossref>
+<booktitle>IEA/AIE (Vol. 1)</booktitle>
+<url>db/conf/ieaaie/ieaaie1990-1.html#BrezillonBHM90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbcs/Brezillon89" mdate="2017-05-19">
+<author>Patrick Brézillon</author>
+<title>Interpretation and Rule Packet in Expert Systems. Application to the SEPT Expert System.</title>
+<pages>78-87</pages>
+<year>1989</year>
+<crossref>conf/kbcs/1989</crossref>
+<booktitle>KBCS</booktitle>
+<url>db/conf/kbcs/kbcs1989.html#Brezillon89</url>
+</inproceedings>
+</r>
+<coauthors n="102" nc="11">
+<co c="0"><na f="a/Abu=Hakima:Sue">Sue Abu-Hakima</na></co>
+<co c="-1"><na f="a/Abu=Hakima:Suhayya">Suhayya Abu-Hakima</na></co>
+<co c="0"><na f="a/Adam:Fr=eacute=d=eacute=ric">Frédéric Adam</na></co>
+<co c="0"><na f="a/Aha:David_W=">David W. Aha</na></co>
+<co c="0"><na f="a/Araujo:Renata_Mendes_de">Renata Mendes de Araujo</na></co>
+<co c="-1"><na f="a/Aroua:Anissa">Anissa Aroua</na></co>
+<co c="0"><na f="a/Arti=egrave=res:Thierry">Thierry Artières</na></co>
+<co c="8"><na f="a/Attieh:Elham">Elham Attieh</na></co>
+<co c="0"><na f="a/Austin:Jim">Jim Austin</na></co>
+<co c="5"><na f="b/Bau:Dong=Yih">Dong-Yih Bau</na></co>
+<co c="0"><na f="b/Bazire:Mary">Mary Bazire</na></co>
+<co c="0" n="2"><na f="b/Becerra:Irma">Irma Becerra</na><na>Irma Becerra-Fernandez</na></co>
+<co c="1"><na f="b/Becker:Brian_C=">Brian C. Becker</na></co>
+<co c="3"><na f="b/Benerecetti:Massimo">Massimo Benerecetti</na></co>
+<co c="0"><na f="b/Berkeley:Dina">Dina Berkeley</na></co>
+<co c="0"><na f="b/Blackburn:Patrick">Patrick Blackburn</na></co>
+<co c="0"><na f="b/Borges:Marcos_R=_S=">Marcos R. S. Borges</na></co>
+<co c="3"><na f="b/Bouquet:Paolo">Paolo Bouquet</na></co>
+<co c="0"><na f="b/Br=eacute=zillon:Juliette">Juliette Brézillon</na></co>
+<co c="0"><na f="b/Burstein:Frada">Frada Burstein</na></co>
+<co c="0"><na f="c/Califf:Mary_Elaine">Mary Elaine Califf</na></co>
+<co c="8"><na f="c/Capron:Fr=eacute=d=eacute=rique">Frédérique Capron</na></co>
+<co c="0"><na f="c/Carlsson:Sven">Sven Carlsson</na></co>
+<co c="0"><na f="c/Carton:Fergal">Fergal Carton</na></co>
+<co c="3"><na f="c/Castellani:F=">F. Castellani</na></co>
+<co c="-1"><na f="c/Cavalcanti:Marcos">Marcos Cavalcanti</na></co>
+<co c="0"><na f="c/Chaudron:Laurent">Laurent Chaudron</na></co>
+<co c="2"><na f="c/Chen:Wenbo">Wenbo Chen</na></co>
+<co c="0"><na f="c/Cort=eacute=s:Ulises">Ulises Cortés</na></co>
+<co c="0"><na f="c/Courbon:Jean=Claude">Jean-Claude Courbon</na></co>
+<co c="0"><na f="c/Cox:Michael_T=">Michael T. Cox</na></co>
+<co c="0"><na f="d/Dapoigny:Richard">Richard Dapoigny</na></co>
+<co c="4"><na f="d/Decouchant:Dominique">Dominique Decouchant</na></co>
+<co c="0"><na f="d/Drabble:Brian">Brian Drabble</na></co>
+<co c="0"><na f="f/Faltings:Boi">Boi Faltings</na></co>
+<co c="2"><na f="f/Fan:Xiaoliang">Xiaoliang Fan</na></co>
+<co c="10"><na f="f/Filho:Romir_Souza">Romir Souza Filho</na></co>
+<co c="0"><na f="f/Freitas:Alex_Alves">Alex Alves Freitas</na></co>
+<co c="0"><na f="f/Freuder:Eugene_C=">Eugene C. Freuder</na></co>
+<co c="0"><na f="f/Friedrich:Gerhard">Gerhard Friedrich</na></co>
+<co c="-1"><na f="g/Gachet:Alexandre">Alexandre Gachet</na></co>
+<co c="0"><na f="g/Ganet:Leslie">Leslie Ganet</na></co>
+<co c="4"><na f="g/Garc=iacute=a:Kimberly">Kimberly García</na></co>
+<co c="0" n="2"><na f="g/Ghose:Aditya_K=">Aditya K. Ghose</na><na>Aditya Ghose</na></co>
+<co c="1"><na f="g/Gonzalez:Avelino_J=">Avelino J. Gonzalez</na></co>
+<co c="2"><na f="h/He:Baoqin">Baoqin He</na></co>
+<co c="0"><na f="h/Hegarty:John">John Hegarty</na></co>
+<co c="5"><na f="h/Hertz:Alain">Alain Hertz</na></co>
+<co c="1"><na f="h/Hollister:Debra_L=">Debra L. Hollister</na></co>
+<co c="2"><na f="h/Hu:Yakun">Yakun Hu</na></co>
+<co c="-1"><na f="h/Humpreys:Patrick">Patrick Humpreys</na></co>
+<co c="1"><na f="h/Hung:Victor_Chou">Victor Chou Hung</na></co>
+<co c="9"><na f="k/Kabil:Alexandre">Alexandre Kabil</na></co>
+<co c="9"><na f="k/Kubicki:S=eacute=bastien">Sébastien Kubicki</na></co>
+<co c="0"><na f="l/Labat:Jean=Marc">Jean-Marc Labat</na></co>
+<co c="0"><na f="l/Lavalette:Brigitte_Cambon_de">Brigitte Cambon de Lavalette</na></co>
+<co c="0"><na f="l/L=eacute=ger:Laure">Laure Léger</na></co>
+<co c="2"><na f="l/Li:Lian">Lian Li</na></co>
+<co c="5"><na f="m/Maizener:A=_P=_Fauquembergue">A. P. Fauquembergue Maizener</na></co>
+<co c="-1"><na f="m/Marquois:E=">E. Marquois</na></co>
+<co c="4"><na f="m/Mendoza:Sonia">Sonia Mendoza</na></co>
+<co c="0"><na f="m/Menzies:Tim">Tim Menzies</na></co>
+<co c="6"><na f="m/Most=eacute=faoui:Ghita_Kouadri">Ghita Kouadri Mostéfaoui</na></co>
+<co c="0" n="2"><na f="m/Mu=ntilde=oz=Avila:Hector">Hector Muñoz-Avila</na><na>Héctor Muñoz-Avila</na></co>
+<co c="10"><na f="n/Naveiro:Ricardo">Ricardo Naveiro</na></co>
+<co c="1"><na f="n/Nguyen:Johann">Johann Nguyen</na></co>
+<co c="7"><na f="n/Nottola:Christian">Christian Nottola</na></co>
+<co c="1"><na f="p/Parker:Jeanne_E=">Jeanne E. Parker</na></co>
+<co c="1"><na f="p/Parker:Shane_T=">Shane T. Parker</na></co>
+<co c="0"><na f="p/Pasquier:Laurent">Laurent Pasquier</na></co>
+<co c="6"><na f="p/Pasquier=Rocha:Jacques">Jacques Pasquier-Rocha</na></co>
+<co c="0"><na f="p/Penco:Carlo">Carlo Penco</na></co>
+<co c="0"><na f="p/Phillips=Wren:Gloria_E=">Gloria E. Phillips-Wren</na></co>
+<co c="0"><na f="p/Pino:Jos=eacute=_A=">José A. Pino</na></co>
+<co c="0"><na f="p/Poitrenaud:S=eacute=bastien">Sébastien Poitrenaud</na></co>
+<co c="0"><na f="p/Pomerol:Jean=Charles">Jean-Charles Pomerol</na></co>
+<co c="0"><na f="r/Rajkovic:Vladislav">Vladislav Rajkovic</na></co>
+<co c="0"><na f="r/Resp=iacute=cio:Ana">Ana Respício</na></co>
+<co c="0"><na f="r/Russell:Ingrid">Ingrid Russell</na></co>
+<co c="0"><na f="s/Saker:I=">I. Saker</na></co>
+<co c="0"><na f="s/Salgado:Ana_Carolina">Ana Carolina Salgado</na></co>
+<co c="0"><na f="s/S=agrave=nchez=Marr=egrave=:Miquel">Miquel Sànchez-Marrè</na></co>
+<co c="0"><na f="s/Santoro:Fl=aacute=via_Maria">Flávia Maria Santoro</na></co>
+<co c="0"><na f="s/Satoh:Ken">Ken Satoh</na></co>
+<co c="0"><na f="s/Sen:Sandip">Sandip Sen</na></co>
+<co c="3"><na f="s/Serafini:Luciano">Luciano Serafini</na></co>
+<co c="1"><na f="s/Sherwell:Brian">Brian Sherwell</na></co>
+<co c="0"><na f="s/Siebra:Sandra_de_Albuquerque">Sandra de Albuquerque Siebra</na></co>
+<co c="-1"><na f="t/Tahir:Hassane">Hassane Tahir</na></co>
+<co c="0" n="2"><na f="t/Tedesco:Patr=iacute=cia_C=_A=_R=">Patrícia C. A. R. Tedesco</na><na>Patricia Azevedo Tedesco</na></co>
+<co c="0"><na f="t/Tessier:Catherine">Catherine Tessier</na></co>
+<co c="0"><na f="t/Tijus:Charles">Charles Tijus</na></co>
+<co c="0"><na f="t/Turner:Elise_H=">Elise H. Turner</na></co>
+<co c="0"><na f="t/Turner:Roy_M=">Roy M. Turner</na></co>
+<co c="7"><na f="v/Vicat:Catherine">Catherine Vicat</na></co>
+<co c="0"><na f="v/Vieira:Vaninha">Vaninha Vieira</na></co>
+<co c="0"><na f="w/Widmeyer:George_R=">George R. Widmeyer</na></co>
+<co c="0"><na f="w/Willmott:Steven">Steven Willmott</na></co>
+<co c="6"><na f="y/Younas_0001:Muhammad">Muhammad Younas 0001</na></co>
+<co c="-1"><na f="z/Zarat=eacute=:Pascale">Pascale Zaraté</na></co>
+<co c="0"><na f="z/Zaslavsky:Arkady_B=">Arkady B. Zaslavsky</na></co>
+<co c="2"><na f="z/Zhang:Ruisheng">Ruisheng Zhang</na></co>
+</coauthors>
+</dblpperson>
+

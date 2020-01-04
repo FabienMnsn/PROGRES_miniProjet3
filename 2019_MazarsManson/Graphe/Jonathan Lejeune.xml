@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Jonathan Lejeune" n="16">
+<person key="homepages/115/6296" mdate="2012-06-20">
+<author>Jonathan Lejeune</author>
+</person>
+<r><article key="journals/fgcs/AlsharaABLPL18" mdate="2019-10-19">
+<author orcid="0000-0002-2727-6985">Zakarea Alshara</author>
+<author>Frederico Alvares</author>
+<author orcid="0000-0002-5987-2175">Hugo Brunelière</author>
+<author>Jonathan Lejeune</author>
+<author orcid="0000-0002-4546-9027">Charles Prud'homme</author>
+<author>Thomas Ledoux</author>
+<title>CoMe4ACloud: An end-to-end framework for autonomic Cloud systems.</title>
+<pages>339-354</pages>
+<year>2018</year>
+<volume>86</volume>
+<journal>Future Generation Comp. Syst.</journal>
+<url>db/journals/fgcs/fgcs86.html#AlsharaABLPL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/closer/BruneliereAALL18" mdate="2018-04-30">
+<author>Hugo Brunelière</author>
+<author>Zakarea Alshara</author>
+<author>Frederico Alvares</author>
+<author>Jonathan Lejeune</author>
+<author>Thomas Ledoux</author>
+<title>A Model-based Architecture for Autonomic and Heterogeneous Cloud Systems.</title>
+<pages>201-212</pages>
+<year>2018</year>
+<booktitle>CLOSER</booktitle>
+<crossref>conf/closer/2018</crossref>
+<url>db/conf/closer/closer2018.html#BruneliereAALL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cnsm/FraysseLSS18" mdate="2019-12-18">
+<author>Guillaume Fraysse</author>
+<author>Jonathan Lejeune</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens 0001</author>
+<title>Mapping the allocation of resources for 5G slices to the k-MUTEX with n instances of m resources problem.</title>
+<pages>318-322</pages>
+<year>2018</year>
+<booktitle>CNSM</booktitle>
+<crossref>conf/cnsm/2018</crossref>
+<url>db/conf/cnsm/cnsm2018.html#FraysseLSS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icin/FraysseYLSS18" mdate="2019-12-18">
+<author>Guillaume Fraysse</author>
+<author>Imen Grida Ben Yahia</author>
+<author>Jonathan Lejeune</author>
+<author>Pierre Sens 0001</author>
+<author>Julien Sopena</author>
+<title>Towards multi-SDN services: Dangers of concurrent resource allocation from multiple providers.</title>
+<pages>1-5</pages>
+<year>2018</year>
+<booktitle>ICIN</booktitle>
+<crossref>conf/icin/2018</crossref>
+<url>db/conf/icin/icin2018.html#FraysseYLSS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/closer/LejeuneAL17" mdate="2017-06-14">
+<author>Jonathan Lejeune</author>
+<author>Frederico Alvares</author>
+<author>Thomas Ledoux</author>
+<title>Towards a Generic Autonomic Model to Manage Cloud Services.</title>
+<pages>147-158</pages>
+<year>2017</year>
+<booktitle>CLOSER</booktitle>
+<crossref>conf/closer/2017</crossref>
+<url>db/conf/closer/closer2017.html#LejeuneAL17</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/SerranoBKOLLSAS16" mdate="2019-12-18">
+<author>Damián Serrano</author>
+<author>Sara Bouchenak</author>
+<author>Yousri Kouki</author>
+<author>Frederico Alvares de Oliveira Jr.</author>
+<author>Thomas Ledoux</author>
+<author>Jonathan Lejeune</author>
+<author>Julien Sopena</author>
+<author>Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>SLA guarantees for cloud services.</title>
+<pages>233-246</pages>
+<year>2016</year>
+<volume>54</volume>
+<journal>Future Generation Comp. Syst.</journal>
+<url>db/journals/fgcs/fgcs54.html#SerranoBKOLLSAS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcit/AbidiBCLNS16" mdate="2017-05-26">
+<author>Leila Abidi</author>
+<author>Souha Bejaoui</author>
+<author>Christophe Cérin</author>
+<author>Jonathan Lejeune</author>
+<author>Yanik Ngoko</author>
+<author>Walid Saad</author>
+<title>Data Management for the RedisDG Scientific Workflow Engine.</title>
+<pages>599-606</pages>
+<year>2016</year>
+<booktitle>CIT</booktitle>
+<crossref>conf/IEEEcit/2016</crossref>
+<url>db/conf/IEEEcit/IEEEcit2016.html#AbidiBCLNS16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jpdc/LejeuneASS15" mdate="2019-12-18">
+<author>Jonathan Lejeune</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens 0001</author>
+<title>A fair starvation-free prioritized mutual exclusion algorithm for distributed systems.</title>
+<pages>13-29</pages>
+<year>2015</year>
+<volume>83</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<url>db/journals/jpdc/jpdc83.html#LejeuneASS15</url>
+</article>
+</r>
+<r><article key="journals/tsi/LejeuneASS15" mdate="2019-12-18">
+<author>Jonathan Lejeune</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens 0001</author>
+<title>Allouer efficacement des ressources dans un environnement distribué.</title>
+<pages>79-100</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>1-2</number>
+<url>db/journals/tsi/tsi34.html#LejeuneASS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccac/DupontLOL15" mdate="2017-05-23">
+<author>Simon Dupont</author>
+<author>Jonathan Lejeune</author>
+<author>Frederico Alvares de Oliveira Jr.</author>
+<author>Thomas Ledoux</author>
+<title>Experimental Analysis on Autonomic Strategies for Cloud Elasticity.</title>
+<pages>81-92</pages>
+<year>2015</year>
+<booktitle>ICCAC</booktitle>
+<crossref>conf/iccac/2015</crossref>
+<url>db/conf/iccac/iccac2015.html#DupontLOL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/LejeuneASS15" mdate="2019-12-18">
+<author>Jonathan Lejeune</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens 0001</author>
+<title>Reducing Synchronization Cost in Distributed Multi-resource Allocation Problem.</title>
+<pages>540-549</pages>
+<year>2015</year>
+<booktitle>ICPP</booktitle>
+<crossref>conf/icpp/2015</crossref>
+<url>db/conf/icpp/icpp2015.html#LejeuneASS15</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Lejeune14" mdate="2016-06-30">
+<author>Jonathan Lejeune</author>
+<title>Algorithmique distribuée d'exclusion mutuelle : vers une gestion efficace des ressources. (Distributed mutual exclusion algorithmic : toward an efficient resource management).</title>
+<year>2014</year>
+<school>Pierre and Marie Curie University, France</school>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/ccgrid/SerranoBKLLSAS13" mdate="2019-12-18">
+<author>Damián Serrano</author>
+<author>Sara Bouchenak</author>
+<author>Yousri Kouki</author>
+<author>Thomas Ledoux</author>
+<author>Jonathan Lejeune</author>
+<author>Julien Sopena</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Pierre Sens 0001</author>
+<title>Towards QoS-Oriented SLA Guarantees for Online Cloud Services.</title>
+<pages>50-57</pages>
+<year>2013</year>
+<booktitle>CCGRID</booktitle>
+<crossref>conf/ccgrid/2013</crossref>
+<url>db/conf/ccgrid/ccgrid2013.html#SerranoBKLLSAS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/LejeuneASS13" mdate="2019-12-18">
+<author>Jonathan Lejeune</author>
+<author>Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens 0001</author>
+<pages>290-299</pages>
+<year>2013</year>
+<booktitle>ICPP</booktitle>
+<crossref>conf/icpp/2013</crossref>
+<url>db/conf/icpp/icpp2013.html#LejeuneASS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/ArantesBCCCLPMPSSS12" mdate="2019-12-18">
+<author>Luciana Arantes</author>
+<author>Alysson Neves Bessani</author>
+<author>Vinicius V. Cogo</author>
+<author>Miguel Correia 0001</author>
+<author>Pedro Costa</author>
+<author>Jonathan Lejeune</author>
+<author>M. Piffaretti</author>
+<author>Olivier Marin</author>
+<author>Marcelo Pasin</author>
+<author>Pierre Sens 0001</author>
+<author>F. Silva</author>
+<author>Julien Sopena</author>
+<title>Vers une plate-forme MapReduce tolérant les fautes byzantines.</title>
+<pages>1079-1099</pages>
+<year>2012</year>
+<volume>31</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>8-10</number>
+<url>db/journals/tsi/tsi31.html#ArantesBCCCLPMPSSS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccgrid/LejeuneASS12" mdate="2019-12-18">
+<author>Jonathan Lejeune</author>
+<author orcid="0000-0002-0938-2004">Luciana Arantes</author>
+<author>Julien Sopena</author>
+<author>Pierre Sens 0001</author>
+<title>Service Level Agreement for Distributed Mutual Exclusion in Cloud Computing.</title>
+<pages>180-187</pages>
+<year>2012</year>
+<booktitle>CCGRID</booktitle>
+<crossref>conf/ccgrid/2012</crossref>
+<url>db/conf/ccgrid/ccgrid2012.html#LejeuneASS12</url>
+</inproceedings>
+</r>
+<coauthors n="28" nc="2">
+<co c="1"><na f="a/Abidi:Leila">Leila Abidi</na></co>
+<co c="0"><na f="a/Alshara:Zakarea">Zakarea Alshara</na></co>
+<co c="0"><na f="a/Alvares:Frederico">Frederico Alvares</na></co>
+<co c="0"><na f="a/Arantes:Luciana">Luciana Arantes</na></co>
+<co c="1"><na f="b/Bejaoui:Souha">Souha Bejaoui</na></co>
+<co c="0"><na f="b/Bessani:Alysson_Neves">Alysson Neves Bessani</na></co>
+<co c="0"><na f="b/Bouchenak:Sara">Sara Bouchenak</na></co>
+<co c="0"><na f="b/Bruneli=egrave=re:Hugo">Hugo Brunelière</na></co>
+<co c="1"><na f="c/C=eacute=rin:Christophe">Christophe Cérin</na></co>
+<co c="0"><na f="c/Cogo:Vinicius_V=">Vinicius V. Cogo</na></co>
+<co c="0"><na f="c/Correia_0001:Miguel">Miguel Correia 0001</na></co>
+<co c="0"><na f="c/Costa:Pedro">Pedro Costa</na></co>
+<co c="0"><na f="d/Dupont:Simon">Simon Dupont</na></co>
+<co c="0"><na f="f/Fraysse:Guillaume">Guillaume Fraysse</na></co>
+<co c="0"><na f="k/Kouki:Yousri">Yousri Kouki</na></co>
+<co c="0"><na f="l/Ledoux:Thomas">Thomas Ledoux</na></co>
+<co c="0"><na f="m/Marin:Olivier">Olivier Marin</na></co>
+<co c="1"><na f="n/Ngoko:Yanik">Yanik Ngoko</na></co>
+<co c="0"><na f="o/Oliveira_Jr=:Frederico_Alvares_de">Frederico Alvares de Oliveira Jr.</na></co>
+<co c="0"><na f="p/Pasin:Marcelo">Marcelo Pasin</na></co>
+<co c="0"><na f="p/Piffaretti:M=">M. Piffaretti</na></co>
+<co c="0"><na f="p/Prud=homme:Charles">Charles Prud'homme</na></co>
+<co c="1"><na f="s/Saad:Walid">Walid Saad</na></co>
+<co c="0"><na f="s/Sens_0001:Pierre">Pierre Sens 0001</na></co>
+<co c="0"><na f="s/Serrano:Dami=aacute=n">Damián Serrano</na></co>
+<co c="0"><na f="s/Silva:F=">F. Silva</na></co>
+<co c="0"><na f="s/Sopena:Julien">Julien Sopena</na></co>
+<co c="0"><na f="y/Yahia:Imen_Grida_Ben">Imen Grida Ben Yahia</na></co>
+</coauthors>
+</dblpperson>
+

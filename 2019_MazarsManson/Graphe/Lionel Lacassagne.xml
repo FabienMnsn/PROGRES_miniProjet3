@@ -1,0 +1,905 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Lionel Lacassagne" n="62">
+<person key="homepages/81/3164" mdate="2009-06-09">
+<author>Lionel Lacassagne</author>
+</person>
+<r><article key="journals/fgcs/HagguiTLSO18" mdate="2018-08-29">
+<author>Olfa Haggui</author>
+<author>Claude Tadonki</author>
+<author>Lionel Lacassagne</author>
+<author>Fatma Sayadi</author>
+<author>Bouraoui Ouni</author>
+<title>Harris corner detection on a NUMA manycore.</title>
+<pages>442-452</pages>
+<year>2018</year>
+<volume>88</volume>
+<journal>Future Generation Comp. Syst.</journal>
+<url>db/journals/fgcs/fgcs88.html#HagguiTLSO18</url>
+</article>
+</r>
+<r><article key="journals/jrtip/CabaretLE18" mdate="2018-06-06">
+<author>Laurent Cabaret</author>
+<author>Lionel Lacassagne</author>
+<author>Daniel Etiemble</author>
+<title>Parallel Light Speed Labeling: an efficient connected component algorithm for labeling and analysis on multi-core processors.</title>
+<pages>173-196</pages>
+<year>2018</year>
+<volume>15</volume>
+<journal>J. Real-Time Image Processing</journal>
+<number>1</number>
+<url>db/journals/jrtip/jrtip15.html#CabaretLE18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasip/PetretoHKRFGBML18" mdate="2019-01-08">
+<author>Andrea Petreto</author>
+<author>Arthur Hennequin</author>
+<author>Thomas Koehler</author>
+<author>Thomas Romera</author>
+<author>Yohan Fargeix</author>
+<author>Boris Gaillard</author>
+<author>Manuel Bouyer</author>
+<author>Quentin L. Meunier</author>
+<author>Lionel Lacassagne</author>
+<title>Energy and Execution Time Comparison of Optical Flow Algorithms on SIMD and GPU Architectures.</title>
+<pages>25-30</pages>
+<year>2018</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2018</crossref>
+<url>db/conf/dasip/dasip2018.html#PetretoHKRFGBML18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/HennequinLCM18" mdate="2019-01-09">
+<author>Arthur Hennequin</author>
+<author>Lionel Lacassagne</author>
+<author>Laurent Cabaret</author>
+<author>Quentin L. Meunier</author>
+<title>A new Direct Connected Component Labeling and Analysis Algorithms for GPUs.</title>
+<pages>76-81</pages>
+<year>2018</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2018</crossref>
+<url>db/conf/dasip/dasip2018.html#HennequinLCM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/LemaitreCL18" mdate="2018-11-06">
+<author>Florian Lemaitre</author>
+<author>Benjamin Couturier</author>
+<author>Lionel Lacassagne</author>
+<title>Small SIMD Matrices for CERN High Throughput Computing.</title>
+<pages>1:1-1:8</pages>
+<year>2018</year>
+<booktitle>WPMVP@PPoPP</booktitle>
+<crossref>conf/ppopp/2018wpmvp</crossref>
+<url>db/conf/ppopp/wpmvp2018.html#LemaitreCL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/MercadierDLM18" mdate="2018-11-06">
+<author>Darius Mercadier</author>
+<author>Pierre-Évariste Dagand</author>
+<author>Lionel Lacassagne</author>
+<author>Gilles Muller</author>
+<title>Usuba: Optimizing and Trustworthy Bitslicing Compiler.</title>
+<pages>4:1-4:8</pages>
+<year>2018</year>
+<booktitle>WPMVP@PPoPP</booktitle>
+<crossref>conf/ppopp/2018wpmvp</crossref>
+<url>db/conf/ppopp/wpmvp2018.html#MercadierDLM18</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/LemaitreCL17" mdate="2017-09-26">
+<author>Florian Lemaitre</author>
+<author>Benjamin Couturier</author>
+<author>Lionel Lacassagne</author>
+<title>Cholesky factorization on SIMD multi-core architectures.</title>
+<pages>1-15</pages>
+<year>2017</year>
+<volume>79</volume>
+<journal>Journal of Systems Architecture - Embedded Systems Design</journal>
+<url>db/journals/jsa/jsa79.html#LemaitreCL17</url>
+</article>
+</r>
+<r><article key="journals/jvcir/GouiffesTL17" mdate="2017-11-29">
+<author>Michèle Gouiffès</author>
+<author>Andrés Romero Mier y Terán</author>
+<author>Lionel Lacassagne</author>
+<title>Color enhanced local binary patterns in covariance matrices descriptors (ELBCM).</title>
+<pages>447-458</pages>
+<year>2017</year>
+<volume>49</volume>
+<journal>J. Visual Communication and Image Representation</journal>
+<url>db/journals/jvcir/jvcir49.html#GouiffesTL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipta/CabaretLE17" mdate="2018-03-14">
+<author>Laurent Cabaret</author>
+<author>Lionel Lacassagne</author>
+<author>Daniel Etiemble</author>
+<title>Distanceless label propagation: An efficient direct connected component labeling algorithm for GPUs.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>IPTA</booktitle>
+<crossref>conf/ipta/2017</crossref>
+<url>db/conf/ipta/ipta2017.html#CabaretLE17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parco/ManzanaresIRBL17" mdate="2018-03-08">
+<author>Carlos Carrascal Manzanares</author>
+<author>Alexandre Imperiale</author>
+<author>Gilles Rougeron</author>
+<author>Vincent Bergeaud</author>
+<author>Lionel Lacassagne</author>
+<title>A Fast Implementation of a Spectral Finite Elements Method on CPU and GPU Applied to Ultrasound Propagation.</title>
+<pages>339-348</pages>
+<year>2017</year>
+<booktitle>PARCO</booktitle>
+<crossref>conf/parco/2017</crossref>
+<url>db/conf/parco/parco2017.html#ManzanaresIRBL17</url>
+</inproceedings>
+</r>
+<r><article key="journals/mva/AbdallahGL16" mdate="2017-05-17">
+<author>Ahmed Chamseddine Ben Abdallah</author>
+<author>Michèle Gouiffès</author>
+<author>Lionel Lacassagne</author>
+<title>A modular system for global and local abnormal event detection and categorization in videos.</title>
+<pages>463-481</pages>
+<year>2016</year>
+<volume>27</volume>
+<journal>Mach. Vis. Appl.</journal>
+<number>4</number>
+<url>db/journals/mva/mva27.html#AbdallahGL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasip/LemaitreL16" mdate="2017-05-21">
+<author>Florian Lemaitre</author>
+<author>Lionel Lacassagne</author>
+<title>Batched Cholesky factorization for tiny matrices.</title>
+<pages>130-137</pages>
+<year>2016</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2016</crossref>
+<url>db/conf/dasip/dasip2016.html#LemaitreL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/StecheleKLHD16" mdate="2017-05-21">
+<author>Walter Stechele</author>
+<author>Tomasz Kryjak</author>
+<author>Lionel Lacassagne</author>
+<author>Dominique Houzet</author>
+<author>Martin Danek</author>
+<title>Special session 1 automotive parallel computing challenges - architectures, applications and tricks.</title>
+<pages>161</pages>
+<year>2016</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2016</crossref>
+<url>db/conf/dasip/dasip2016.html#StecheleKLHD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/LacassagneCEHP16" mdate="2018-11-06">
+<author>Lionel Lacassagne</author>
+<author>Laurent Cabaret</author>
+<author>Daniel Etiemble</author>
+<author>Farouk Hebache</author>
+<author>Andrea Petreto</author>
+<title>A new SIMD iterative connected component labeling algorithm.</title>
+<pages>1:1-1:8</pages>
+<year>2016</year>
+<booktitle>WPMVP@PPoPP</booktitle>
+<crossref>conf/ppopp/2016wpmvp</crossref>
+<url>db/conf/ppopp/wpmvp2016.html#LacassagneCEHP16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jrtip/LaguzetTGLE15" mdate="2017-05-20">
+<author>Florence Laguzet</author>
+<author>Andrés Romero Mier y Terán</author>
+<author>Michèle Gouiffès</author>
+<author>Lionel Lacassagne</author>
+<author>Daniel Etiemble</author>
+<title>Color tracking with contextual switching: real-time implementation on CPU.</title>
+<pages>403-422</pages>
+<year>2015</year>
+<volume>10</volume>
+<journal>J. Real-Time Image Processing</journal>
+<number>2</number>
+<url>db/journals/jrtip/jrtip10.html#LaguzetTGLE15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/CabaretLE15" mdate="2017-05-25">
+<author>Laurent Cabaret</author>
+<author>Lionel Lacassagne</author>
+<author>Daniel Etiemble</author>
+<title>Parallel light speed labeling: An efficient connected component labeling algorithm for multi-core processors.</title>
+<pages>3486-3489</pages>
+<year>2015</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2015</crossref>
+<url>db/conf/icip/icip2015.html#CabaretLE15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ejasp/TeranLGZ14" mdate="2019-06-02">
+<author>Andrés Romero Mier y Terán</author>
+<author>Lionel Lacassagne</author>
+<author>Michèle Gouiffès</author>
+<author>Ali Hassan Zahraee</author>
+<title>Covariance tracking: architecture optimizations for embedded systems.</title>
+<pages>175</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>EURASIP J. Adv. Sig. Proc.</journal>
+<ee type="oa">https://doi.org/10.1186/1687-6180-2014-175</ee>
+<url>db/journals/ejasp/ejasp2014.html#TeranLGZ14</url>
+</article>
+</r>
+<r><article key="journals/jpdc/EsterieFGLL14" mdate="2017-05-26">
+<author>Pierre Estérie</author>
+<author>Joël Falcou</author>
+<author>Mathias Gaunard</author>
+<author>Jean-Thierry Lapresté</author>
+<author>Lionel Lacassagne</author>
+<title>The numerical template toolbox: A modern C++ design for scientific computing.</title>
+<pages>3240-3253</pages>
+<year>2014</year>
+<volume>74</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<number>12</number>
+<url>db/journals/jpdc/jpdc74.html#EsterieFGLL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasip/CabaretLO14" mdate="2017-05-21">
+<author>Laurent Cabaret</author>
+<author>Lionel Lacassagne</author>
+<author>Louiza Oudni</author>
+<title>A review of world's fastest connected component labeling algorithms: Speed and energy estimation.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2014</crossref>
+<url>db/conf/dasip/dasip2014.html#CabaretLO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/LacassagneEZDV14" mdate="2018-11-06">
+<author>Lionel Lacassagne</author>
+<author>Daniel Etiemble</author>
+<author>Ali Hassan Zahraee</author>
+<author>Alain Dominguez</author>
+<author>Pascal Vezolle</author>
+<title>High level transforms for SIMD and low-level computer vision algorithms.</title>
+<pages>49-56</pages>
+<year>2014</year>
+<booktitle>WPMVP@PPoPP</booktitle>
+<crossref>conf/ppopp/2014wpmvp</crossref>
+<url>db/conf/ppopp/wpmvp2014.html#LacassagneEZDV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sips/CabaretL14" mdate="2017-05-21">
+<author>Laurent Cabaret</author>
+<author>Lionel Lacassagne</author>
+<title>What is the world's fastest connected component labeling algorithm?</title>
+<pages>97-102</pages>
+<year>2014</year>
+<booktitle>SiPS</booktitle>
+<crossref>conf/sips/2014</crossref>
+<url>db/conf/sips/sips2014.html#CabaretL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/GorgonL13" mdate="2017-04-30">
+<author>Marek Gorgon</author>
+<author>Lionel Lacassagne</author>
+<title>Session 3 (special session): Visual scene analysis in 2D and 3D.</title>
+<pages>79</pages>
+<year>2013</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2013</crossref>
+<url>db/conf/dasip/dasip2013.html#GorgonL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/TeranLZG13" mdate="2017-04-30">
+<author>Andrés Romero Mier y Terán</author>
+<author>Lionel Lacassagne</author>
+<author>Ali Hassan Zahraee</author>
+<author>Michèle Gouiffès</author>
+<title>Real-time covariance tracking algorithm for embedded systems.</title>
+<pages>104-111</pages>
+<year>2013</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2013</crossref>
+<url>db/conf/dasip/dasip2013.html#TeranLZG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mirage/RomeroGL13" mdate="2018-11-06">
+<author>Andrés Romero Mier y Terán</author>
+<author>Michèle Gouiffès</author>
+<author>Lionel Lacassagne</author>
+<title>Enhanced local binary covariance matrices (ELBCM) for texture analysis and object tracking.</title>
+<pages>10:1-10:8</pages>
+<year>2013</year>
+<booktitle>MIRAGE</booktitle>
+<crossref>conf/mirage/2013</crossref>
+<url>db/conf/mirage/mirage2013.html#RomeroGL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/patmos/YeLFECF13" mdate="2017-05-26">
+<author>H. Ye</author>
+<author>Lionel Lacassagne</author>
+<author>Joël Falcou</author>
+<author>Daniel Etiemble</author>
+<author>Laurent Cabaret</author>
+<author>O. Florent</author>
+<title>High level tranforms toreduce energy consumption of signal and image processing operators.</title>
+<pages>247-254</pages>
+<year>2013</year>
+<booktitle>PATMOS</booktitle>
+<crossref>conf/patmos/2013</crossref>
+<url>db/conf/patmos/patmos2013.html#YeLFECF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/accv/RomeroGL12" mdate="2017-05-21">
+<author>Andrés Romero Mier y Terán</author>
+<author>Michèle Gouiffès</author>
+<author>Lionel Lacassagne</author>
+<title>Covariance Descriptor Multiple Object Tracking and Re-identification with Colorspace Evaluation.</title>
+<pages>400-411</pages>
+<year>2012</year>
+<booktitle>ACCV Workshops (2)</booktitle>
+<crossref>conf/accv/2012-w2</crossref>
+<url>db/conf/accv/accv2012-w2.html#RomeroGL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/LambertPGBLI12" mdate="2017-04-30">
+<author>Jason Lambert</author>
+<author>Antoine Pedron</author>
+<author>Guillaume Gens</author>
+<author>Franck Bimbard</author>
+<author>Lionel Lacassagne</author>
+<author>Ekaterina Iakovleva</author>
+<title>Performance evaluation of total focusing method on GPP and GPU.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2012</crossref>
+<url>db/conf/dasip/dasip2012.html#LambertPGBLI12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/YeLECFRF12" mdate="2017-04-30">
+<author>H. Ye</author>
+<author>Lionel Lacassagne</author>
+<author>Daniel Etiemble</author>
+<author>Laurent Cabaret</author>
+<author>Joel Falcou</author>
+<author>Andrés Romero Mier y Terán</author>
+<author>O. Florent</author>
+<title>Impact of high level transforms on high level synthesis for motion detection algorithm.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2012</crossref>
+<url>db/conf/dasip/dasip2012.html#YeLECFRF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icisp/TadonkiLDD12" mdate="2019-12-27">
+<author>Claude Tadonki</author>
+<author>Lionel Lacassagne</author>
+<author orcid="0000-0003-2946-854X">Elwardani Dadi</author>
+<author>El Mostafa Daoudi</author>
+<title>Accelerator-Based implementation of the Harris Algorithm.</title>
+<pages>485-492</pages>
+<year>2012</year>
+<booktitle>ICISP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-31254-0_55</ee>
+<crossref>conf/icisp/2012</crossref>
+<url>db/conf/icisp/icisp2012.html#TadonkiLDD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/TabiaGL12" mdate="2017-04-30">
+<author>Hedi Tabia</author>
+<author>Michèle Gouiffès</author>
+<author>Lionel Lacassagne</author>
+<title>Motion histogram quantification for human action recognition.</title>
+<pages>2404-2407</pages>
+<year>2012</year>
+<booktitle>ICPR</booktitle>
+<crossref>conf/icpr/2012</crossref>
+<url>db/conf/icpr/icpr2012.html#TabiaGL12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jrtip/LacassagneZ11" mdate="2017-05-20">
+<author>Lionel Lacassagne</author>
+<author>Bertrand Zavidovique</author>
+<title>Light speed labeling: efficient connected component labeling on RISC architectures.</title>
+<pages>117-135</pages>
+<year>2011</year>
+<volume>6</volume>
+<journal>J. Real-Time Image Processing</journal>
+<number>2</number>
+<url>db/journals/jrtip/jrtip6.html#LacassagneZ11</url>
+</article>
+</r>
+<r><article key="journals/thipeac/SaidaniLFTB11" mdate="2017-05-26">
+<author>Tarik Saidani</author>
+<author>Lionel Lacassagne</author>
+<author>Joel Falcou</author>
+<author>Claude Tadonki</author>
+<author>Samir Bouaziz</author>
+<title>Parallelization Schemes for Memory Optimization on the Cell Processor: A Case Study on the Harris Corner Detector.</title>
+<pages>177-200</pages>
+<year>2011</year>
+<volume>3</volume>
+<journal>Trans. HiPEAC</journal>
+<crossref>journals/thipeac/2011-3</crossref>
+<url>db/journals/thipeac/thipeac3.html#SaidaniLFTB11</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasip/PeetersVSL11" mdate="2017-05-21">
+<author>Julien Peeters</author>
+<author>Nicolas Ventroux</author>
+<author>Tanguy Sassolas</author>
+<author>Lionel Lacassagne</author>
+<title>A systemc TLM framework for distributed simulation of complex systems with unpredictable communication.</title>
+<pages>12-19</pages>
+<year>2011</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2011</crossref>
+<url>db/conf/dasip/dasip2011.html#PeetersVSL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/PedronLBB11" mdate="2017-05-21">
+<author>Antoine Pedron</author>
+<author>Lionel Lacassagne</author>
+<author>Franck Bimbard</author>
+<author>Stéphane Le Berre</author>
+<title>Parallelization of an ultrasound reconstruction algorithm for non destructive testing on multicore CPU and GPU.</title>
+<pages>347-</pages>
+<year>2011</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2011</crossref>
+<url>db/conf/dasip/dasip2011.html#PedronLBB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsipa/RomeroGL11" mdate="2017-05-24">
+<author>Andrés Romero Mier y Terán</author>
+<author>Michèle Gouiffès</author>
+<author>Lionel Lacassagne</author>
+<title>Feature points tracking adaptive to saturation.</title>
+<pages>277-282</pages>
+<year>2011</year>
+<booktitle>ICSIPA</booktitle>
+<crossref>conf/icsipa/2011</crossref>
+<url>db/conf/icsipa/icsipa2011.html#RomeroGL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsipa/LaguzetGLE11" mdate="2017-05-24">
+<author>Florence Laguzet</author>
+<author>Michèle Gouiffès</author>
+<author>Lionel Lacassagne</author>
+<author>Daniel Etiemble</author>
+<title>Automatic color space switching for robust tracking.</title>
+<pages>295-300</pages>
+<year>2011</year>
+<booktitle>ICSIPA</booktitle>
+<crossref>conf/icsipa/2011</crossref>
+<url>db/conf/icsipa/icsipa2011.html#LaguzetGLE11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parco/PedronLBBRB11" mdate="2017-05-26">
+<author>Antoine Pedron</author>
+<author>Lionel Lacassagne</author>
+<author>Victor Barbillon</author>
+<author>Franck Bimbard</author>
+<author>Gilles Rougeron</author>
+<author>Stéphane Le Berre</author>
+<title>Performance Analysis of an Ultrasound Reconstruction Algorithm for Non Destructive Testing.</title>
+<pages>261-268</pages>
+<year>2011</year>
+<booktitle>PARCO</booktitle>
+<crossref>conf/parco/2011</crossref>
+<url>db/conf/parco/parco2011.html#PedronLBBRB11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tds/PedronLSCLG10" mdate="2019-10-22">
+<author>Antoine Pedron</author>
+<author>Florence Laguzet</author>
+<author>Tarik Saidani</author>
+<author orcid="0000-0003-0061-3395">Pierre Courbin</author>
+<author>Lionel Lacassagne</author>
+<author>Michèle Gouiffès</author>
+<title>Parallélisation d'opérateurs de TI : multi-curs, Cell ou GPU ?</title>
+<pages>161-187</pages>
+<year>2010</year>
+<volume>27</volume>
+<journal>Traitement du Signal</journal>
+<number>2</number>
+<url>db/journals/tds/tds27.html#PedronLSCLG10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/GouiffesLL10" mdate="2017-05-25">
+<author>Michèle Gouiffès</author>
+<author>Florence Laguzet</author>
+<author>Lionel Lacassagne</author>
+<title>Projection-histograms for mean-shift tracking.</title>
+<pages>4617-4620</pages>
+<year>2010</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2010</crossref>
+<url>db/conf/icip/icip2010.html#GouiffesLL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/GouiffesLL10" mdate="2017-05-24">
+<author>Michèle Gouiffès</author>
+<author>Florence Laguzet</author>
+<author>Lionel Lacassagne</author>
+<title>Color Connectedness Degree for Mean-Shift Tracking.</title>
+<pages>4561-4564</pages>
+<year>2010</year>
+<booktitle>ICPR</booktitle>
+<crossref>conf/icpr/2010</crossref>
+<url>db/conf/icpr/icpr2010.html#GouiffesLL10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jrtip/LacassagneMDM09" mdate="2017-05-20">
+<author>Lionel Lacassagne</author>
+<author>Antoine Manzanera</author>
+<author>Julien Denoulet</author>
+<author>Alain Mérigot</author>
+<title>High performance motion detection: some trends toward new embedded architectures for vision systems.</title>
+<pages>127-146</pages>
+<year>2009</year>
+<volume>4</volume>
+<journal>J. Real-Time Image Processing</journal>
+<number>2</number>
+<url>db/journals/jrtip/jrtip4.html#LacassagneMDM09</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEpact/SaidaniFTLE09" mdate="2017-05-22">
+<author>Tarik Saidani</author>
+<author>Joel Falcou</author>
+<author>Claude Tadonki</author>
+<author>Lionel Lacassagne</author>
+<author>Daniel Etiemble</author>
+<title>Algorithmic Skeletons within an Embedded Domain Specific Language for the CELL Processor.</title>
+<pages>67-76</pages>
+<year>2009</year>
+<booktitle>PACT</booktitle>
+<crossref>conf/IEEEpact/2009</crossref>
+<url>db/conf/IEEEpact/pact2009.html#SaidaniFTLE09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/LacassagneZ09" mdate="2017-05-25">
+<author>Lionel Lacassagne</author>
+<author>Bertrand Zavidovique</author>
+<title>Light Speed Labeling for RISC architectures.</title>
+<pages>3245-3248</pages>
+<year>2009</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2009</crossref>
+<url>db/conf/icip/icip2009.html#LacassagneZ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/LacassagneMD09" mdate="2017-05-25">
+<author>Lionel Lacassagne</author>
+<author>Antoine Manzanera</author>
+<author>Antoine Dupret</author>
+<title>Motion detection: Fast and robust algorithms for embedded systems.</title>
+<pages>3265-3268</pages>
+<year>2009</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2009</crossref>
+<url>db/conf/icip/icip2009.html#LacassagneMD09</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcsa/ElouardiBDLKR08" mdate="2011-05-13">
+<author>Abdelhafid Elouardi</author>
+<author>Samir Bouaziz</author>
+<author>Antoine Dupret</author>
+<author>Lionel Lacassagne</author>
+<author>Jacques-Olivier Klein</author>
+<author>Roger Reynaud</author>
+<title>A Smart Architecture for Low-Level Image Computing.</title>
+<pages>1-19</pages>
+<year>2008</year>
+<volume>5</volume>
+<journal>IJCSA</journal>
+<number>3a</number>
+<url>db/journals/ijcsa/ijcsa5.html#ElouardiBDLKR08</url>
+</article>
+</r>
+<r><article key="journals/ijcsa/SaidaniFLB08" mdate="2010-06-11">
+<author>Tarik Saidani</author>
+<author>Joel Falcou</author>
+<author>Lionel Lacassagne</author>
+<author>Samir Bouaziz</author>
+<title>Altivec Vector Unit Customization for Embedded Systems.</title>
+<pages>20-32</pages>
+<year>2008</year>
+<volume>5</volume>
+<journal>IJCSA</journal>
+<number>3a</number>
+<url>db/journals/ijcsa/ijcsa5.html#SaidaniFLB08</url>
+</article>
+</r>
+<r><article key="journals/ejes/CheemaLH07" mdate="2019-06-02">
+<author>Muhammad Omer Cheema</author>
+<author>Lionel Lacassagne</author>
+<author>Omar Hammami</author>
+<title>System-Platforms-Based SystemC TLM Design of Image Processing Chains for Embedded Applications.</title>
+<year>2007</year>
+<volume>2007</volume>
+<journal>EURASIP J. Emb. Sys.</journal>
+<ee type="oa">https://doi.org/10.1155/2007/71043</ee>
+<url>db/journals/ejes/ejes2007.html#CheemaLH07</url>
+</article>
+</r>
+<r><article key="journals/tim/ElouardiBDLKR07" mdate="2018-11-30">
+<author>Abdelhafid Elouardi</author>
+<author>Samir Bouaziz</author>
+<author>Antoine Dupret</author>
+<author>Lionel Lacassagne</author>
+<author orcid="0000-0002-6923-5276">Jacques-Olivier Klein</author>
+<author orcid="0000-0001-5703-1367">Roger Reynaud</author>
+<title>Image Processing Vision Systems: Standard Image Sensors Versus Retinas.</title>
+<pages>1675-1687</pages>
+<year>2007</year>
+<volume>56</volume>
+<journal>IEEE Trans. Instrumentation and Measurement</journal>
+<number>5</number>
+<url>db/journals/tim/tim56.html#ElouardiBDLKR07</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/VerdantDMVL07" mdate="2017-05-25">
+<author>Arnaud Verdant</author>
+<author>Antoine Dupret</author>
+<author>Hervé Mathias</author>
+<author>Patrick Villard</author>
+<author>Lionel Lacassagne</author>
+<title>Adaptive Multiresolution for Low Power CMOS Image Sensor.</title>
+<pages>185-188</pages>
+<year>2007</year>
+<booktitle>ICIP (5)</booktitle>
+<crossref>conf/icip/2007</crossref>
+<url>db/conf/icip/icip2007-5.html#VerdantDMVL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispa/SaidaniLBK07" mdate="2017-05-21">
+<author>Tarik Saidani</author>
+<author>Lionel Lacassagne</author>
+<author>Samir Bouaziz</author>
+<author>Taj Muhammad Khan</author>
+<title>Parallelization Strategies for the Points of Interests Algorithm on the Cell Processor.</title>
+<pages>104-112</pages>
+<year>2007</year>
+<crossref>conf/ispa/2007</crossref>
+<booktitle>ISPA</booktitle>
+<url>db/conf/ispa/ispa2007.html#SaidaniLBK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sitis/VermeulenML07" mdate="2017-05-23">
+<author>Olivier Vermeulen</author>
+<author>Antoine Manzanera</author>
+<author>Lionel Lacassagne</author>
+<title>Ultra Fast Grey Scale Face Detection Using Vector SIMD Programming.</title>
+<pages>585-592</pages>
+<year>2007</year>
+<booktitle>SITIS</booktitle>
+<crossref>conf/sitis/2007</crossref>
+<url>db/conf/sitis/sitis2007.html#VermeulenML07</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/EtiembleL05" mdate="2017-05-20">
+<author>Daniel Etiemble</author>
+<author>Lionel Lacassagne</author>
+<title>Des flottants 16 bits sur microprocesseurs d'usage général pour images et multimédia.</title>
+<pages>645-665</pages>
+<year>2005</year>
+<volume>24</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>6</number>
+<url>db/journals/tsi/tsi24.html#EtiembleL05</url>
+</article>
+</r>
+<r><inproceedings key="conf/camp/KleinLMMD05" mdate="2017-05-21">
+<author>Jacques-Olivier Klein</author>
+<author>Lionel Lacassagne</author>
+<author>Hervé Mathias</author>
+<author>Sebastien Moutault</author>
+<author>Antoine Dupret</author>
+<title>Low Power Image Processing: Analog Versus Digital Comparison.</title>
+<pages>111-115</pages>
+<year>2005</year>
+<crossref>conf/camp/2005</crossref>
+<booktitle>CAMP</booktitle>
+<url>db/conf/camp/camp2005.html#KleinLMMD05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/camp/LacassagneEK05" mdate="2017-05-21">
+<author>Lionel Lacassagne</author>
+<author>Daniel Etiemble</author>
+<author>S. A. Ould Kablia</author>
+<title>16-bit Floating Point Instructions for Embedded Multimedia Applications.</title>
+<pages>198-203</pages>
+<year>2005</year>
+<crossref>conf/camp/2005</crossref>
+<booktitle>CAMP</booktitle>
+<url>db/conf/camp/camp2005.html#LacassagneEK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/camp/DenouletMLM05" mdate="2017-05-21">
+<author>Julien Denoulet</author>
+<author>Ghilès Mostafaoui</author>
+<author>Lionel Lacassagne</author>
+<author>Alain Mérigot</author>
+<title>Implementing Motion Markov Detection on General Purpose Processor and Associative Mesh.</title>
+<pages>288-293</pages>
+<year>2005</year>
+<crossref>conf/camp/2005</crossref>
+<booktitle>CAMP</booktitle>
+<url>db/conf/camp/camp2005.html#DenouletMLM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/estimedia/EtiembleBL05" mdate="2017-05-25">
+<author>Daniel Etiemble</author>
+<author>Samir Bouaziz</author>
+<author>Lionel Lacassagne</author>
+<title>Customizing 16-bit FP Instructions on a NIOS II Processor for FPGA Image and Media Processing.</title>
+<pages>61-66</pages>
+<year>2005</year>
+<crossref>conf/estimedia/2005</crossref>
+<booktitle>ESTImedia</booktitle>
+<url>db/conf/estimedia/estimedia2005.html#EtiembleBL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/EtiembleL04" mdate="2017-05-19">
+<author>Daniel Etiemble</author>
+<author>Lionel Lacassagne</author>
+<title>16-Bit FP Sub-Word Parallelism to Facilitate Compiler Vectorization and Improve Performance of Image and Media Processing.</title>
+<pages>540-547</pages>
+<year>2004</year>
+<crossref>conf/icpp/2004</crossref>
+<booktitle>ICPP</booktitle>
+<url>db/conf/icpp/icpp2004.html#EtiembleL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/AchardDL00" mdate="2017-05-24">
+<author>Catherine Achard</author>
+<author>Jean Devars</author>
+<author>Lionel Lacassagne</author>
+<title>Object Image Retrieval with Image Compactness Vectors.</title>
+<pages>4271-4274</pages>
+<year>2000</year>
+<crossref>conf/icpr/2000</crossref>
+<booktitle>ICPR</booktitle>
+<url>db/conf/icpr/icpr2000-4.html#AchardDL00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LohierLG99" mdate="2017-05-19">
+<author>Frantz Lohier</author>
+<author>Lionel Lacassagne</author>
+<author>Patrick Garda</author>
+<title>A generic methodology for the software managing of caches in multi-processors DSP architectures.</title>
+<pages>1905-1908</pages>
+<year>1999</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/1999</crossref>
+<url>db/conf/icassp/icassp1999.html#LohierLG99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iciap/LacassagneMG99" mdate="2017-05-19">
+<author>Lionel Lacassagne</author>
+<author>Maurice Milgram</author>
+<author>Patrick Garda</author>
+<title>Motion Detection, Labeling, Data Association And Tracking, in Real-Time on RISC Computer.</title>
+<pages>520-525</pages>
+<year>1999</year>
+<crossref>conf/iciap/1999</crossref>
+<booktitle>ICIAP</booktitle>
+<url>db/conf/iciap/iciap1999.html#LacassagneMG99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwann/GranadoLG99" mdate="2017-05-23">
+<author>Bertrand Granado</author>
+<author>Lionel Lacassagne</author>
+<author>Patrick Garda</author>
+<title>Can General Purpose Micro-processors Simulate Neural Networks in Real-Time?</title>
+<pages>21-29</pages>
+<year>1999</year>
+<crossref>conf/iwann/1999-2</crossref>
+<booktitle>IWANN (2)</booktitle>
+<url>db/conf/iwann/iwann1999-2.html#GranadoLG99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LacassagneLG98" mdate="2017-05-19">
+<author>Lionel Lacassagne</author>
+<author>Frantz Lohier</author>
+<author>Patrick Garda</author>
+<title>Real time execution of optimal edge detectors on RISC and DSP processors.</title>
+<pages>3101-3104</pages>
+<year>1998</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/1998</crossref>
+<url>db/conf/icassp/icassp1998.html#LacassagneLG98</url>
+</inproceedings>
+</r>
+<coauthors n="83" nc="3">
+<co c="0"><na f="a/Abdallah:Ahmed_Chamseddine_Ben">Ahmed Chamseddine Ben Abdallah</na></co>
+<co c="0"><na f="a/Achard:Catherine">Catherine Achard</na></co>
+<co c="0"><na f="b/Barbillon:Victor">Victor Barbillon</na></co>
+<co c="0"><na f="b/Bergeaud:Vincent">Vincent Bergeaud</na></co>
+<co c="0"><na f="b/Berre:St=eacute=phane_Le">Stéphane Le Berre</na></co>
+<co c="0"><na f="b/Bimbard:Franck">Franck Bimbard</na></co>
+<co c="0"><na f="b/Bouaziz:Samir">Samir Bouaziz</na></co>
+<co c="0"><na f="b/Bouyer:Manuel">Manuel Bouyer</na></co>
+<co c="0"><na f="c/Cabaret:Laurent">Laurent Cabaret</na></co>
+<co c="0"><na f="c/Cheema:Muhammad_Omer">Muhammad Omer Cheema</na></co>
+<co c="0"><na f="c/Courbin:Pierre">Pierre Courbin</na></co>
+<co c="2"><na f="c/Couturier:Benjamin">Benjamin Couturier</na></co>
+<co c="0"><na f="d/Dadi:Elwardani">Elwardani Dadi</na></co>
+<co c="1"><na f="d/Dagand:Pierre==Eacute=variste">Pierre-Évariste Dagand</na></co>
+<co c="0"><na f="d/Danek:Martin">Martin Danek</na></co>
+<co c="0"><na f="d/Daoudi:El_Mostafa">El Mostafa Daoudi</na></co>
+<co c="0"><na f="d/Denoulet:Julien">Julien Denoulet</na></co>
+<co c="0"><na f="d/Devars:Jean">Jean Devars</na></co>
+<co c="0"><na f="d/Dominguez:Alain">Alain Dominguez</na></co>
+<co c="0"><na f="d/Dupret:Antoine">Antoine Dupret</na></co>
+<co c="0"><na f="e/Elouardi:Abdelhafid">Abdelhafid Elouardi</na></co>
+<co c="0"><na f="e/Est=eacute=rie:Pierre">Pierre Estérie</na></co>
+<co c="0"><na f="e/Etiemble:Daniel">Daniel Etiemble</na></co>
+<co c="0" n="2"><na f="f/Falcou:Jo=euml=l">Joël Falcou</na><na>Joel Falcou</na></co>
+<co c="0"><na f="f/Fargeix:Yohan">Yohan Fargeix</na></co>
+<co c="0"><na f="f/Florent:O=">O. Florent</na></co>
+<co c="0"><na f="g/Gaillard:Boris">Boris Gaillard</na></co>
+<co c="0"><na f="g/Garda:Patrick">Patrick Garda</na></co>
+<co c="0"><na f="g/Gaunard:Mathias">Mathias Gaunard</na></co>
+<co c="0"><na f="g/Gens:Guillaume">Guillaume Gens</na></co>
+<co c="0"><na f="g/Gorgon:Marek">Marek Gorgon</na></co>
+<co c="0"><na f="g/Gouiff=egrave=s:Mich=egrave=le">Michèle Gouiffès</na></co>
+<co c="0"><na f="g/Granado:Bertrand">Bertrand Granado</na></co>
+<co c="0"><na f="h/Haggui:Olfa">Olfa Haggui</na></co>
+<co c="0"><na f="h/Hammami:Omar">Omar Hammami</na></co>
+<co c="0"><na f="h/Hebache:Farouk">Farouk Hebache</na></co>
+<co c="0"><na f="h/Hennequin:Arthur">Arthur Hennequin</na></co>
+<co c="0"><na f="h/Houzet:Dominique">Dominique Houzet</na></co>
+<co c="0"><na f="i/Iakovleva:Ekaterina">Ekaterina Iakovleva</na></co>
+<co c="0"><na f="i/Imperiale:Alexandre">Alexandre Imperiale</na></co>
+<co c="0"><na f="k/Kablia:S=_A=_Ould">S. A. Ould Kablia</na></co>
+<co c="0"><na f="k/Khan:Taj_Muhammad">Taj Muhammad Khan</na></co>
+<co c="0"><na f="k/Klein:Jacques=Olivier">Jacques-Olivier Klein</na></co>
+<co c="0"><na f="k/Koehler:Thomas">Thomas Koehler</na></co>
+<co c="0"><na f="k/Kryjak:Tomasz">Tomasz Kryjak</na></co>
+<co c="0"><na f="l/Laguzet:Florence">Florence Laguzet</na></co>
+<co c="0"><na f="l/Lambert:Jason">Jason Lambert</na></co>
+<co c="0"><na f="l/Laprest=eacute=:Jean=Thierry">Jean-Thierry Lapresté</na></co>
+<co c="2"><na f="l/Lemaitre:Florian">Florian Lemaitre</na></co>
+<co c="0"><na f="l/Lohier:Frantz">Frantz Lohier</na></co>
+<co c="0"><na f="m/Manzanares:Carlos_Carrascal">Carlos Carrascal Manzanares</na></co>
+<co c="0"><na f="m/Manzanera:Antoine">Antoine Manzanera</na></co>
+<co c="0"><na f="m/Mathias:Herv=eacute=">Hervé Mathias</na></co>
+<co c="1"><na f="m/Mercadier:Darius">Darius Mercadier</na></co>
+<co c="0"><na f="m/M=eacute=rigot:Alain">Alain Mérigot</na></co>
+<co c="0"><na f="m/Meunier:Quentin_L=">Quentin L. Meunier</na></co>
+<co c="0"><na f="m/Milgram:Maurice">Maurice Milgram</na></co>
+<co c="0"><na f="m/Mostafaoui:Ghil=egrave=s">Ghilès Mostafaoui</na></co>
+<co c="0"><na f="m/Moutault:Sebastien">Sebastien Moutault</na></co>
+<co c="1"><na f="m/Muller:Gilles">Gilles Muller</na></co>
+<co c="0"><na f="o/Oudni:Louiza">Louiza Oudni</na></co>
+<co c="0"><na f="o/Ouni:Bouraoui">Bouraoui Ouni</na></co>
+<co c="0"><na f="p/Pedron:Antoine">Antoine Pedron</na></co>
+<co c="0"><na f="p/Peeters:Julien">Julien Peeters</na></co>
+<co c="0"><na f="p/Petreto:Andrea">Andrea Petreto</na></co>
+<co c="0"><na f="r/Reynaud:Roger">Roger Reynaud</na></co>
+<co c="0"><na f="r/Romera:Thomas">Thomas Romera</na></co>
+<co c="0"><na f="r/Rougeron:Gilles">Gilles Rougeron</na></co>
+<co c="0"><na f="s/Saidani:Tarik">Tarik Saidani</na></co>
+<co c="0"><na f="s/Sassolas:Tanguy">Tanguy Sassolas</na></co>
+<co c="0"><na f="s/Sayadi:Fatma">Fatma Sayadi</na></co>
+<co c="0"><na f="s/Stechele:Walter">Walter Stechele</na></co>
+<co c="0"><na f="t/Tabia:Hedi">Hedi Tabia</na></co>
+<co c="0"><na f="t/Tadonki:Claude">Claude Tadonki</na></co>
+<co c="0"><na f="t/Ter=aacute=n:Andr=eacute=s_Romero_Mier_y">Andrés Romero Mier y Terán</na></co>
+<co c="0"><na f="v/Ventroux:Nicolas">Nicolas Ventroux</na></co>
+<co c="0"><na f="v/Verdant:Arnaud">Arnaud Verdant</na></co>
+<co c="0"><na f="v/Vermeulen:Olivier">Olivier Vermeulen</na></co>
+<co c="0"><na f="v/Vezolle:Pascal">Pascal Vezolle</na></co>
+<co c="0"><na f="v/Villard:Patrick">Patrick Villard</na></co>
+<co c="0"><na f="y/Ye:H=">H. Ye</na></co>
+<co c="0"><na f="z/Zahraee:Ali_Hassan">Ali Hassan Zahraee</na></co>
+<co c="0"><na f="z/Zavidovique:Bertrand">Bertrand Zavidovique</na></co>
+</coauthors>
+</dblpperson>
+

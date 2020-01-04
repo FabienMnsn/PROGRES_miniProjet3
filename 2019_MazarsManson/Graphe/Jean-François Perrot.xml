@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Jean-François Perrot" n="23">
+<person key="homepages/79/4051" mdate="2009-06-10">
+<author>Jean-François Perrot</author>
+</person>
+<r><article key="journals/cl/DemeyerP09" mdate="2019-09-25">
+<author orcid="0000-0002-4463-2945">Serge Demeyer</author>
+<author>Jean-François Perrot</author>
+<title>Guest Editor Introduction.</title>
+<pages>1</pages>
+<year>2009</year>
+<volume>35</volume>
+<journal>Computer Languages, Systems and Structures</journal>
+<number>1</number>
+<url>db/journals/cl/cl35.html#DemeyerP09</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/Nguyen-DucGMPBD08" mdate="2018-11-30">
+<author>Minh Nguyen-Duc</author>
+<author>Zahia Guessoum</author>
+<author>Olivier Marin</author>
+<author>Jean-François Perrot</author>
+<author>Jean-Pierre Briot</author>
+<author>Vu Duong</author>
+<title>Towards a reliable air traffic control.</title>
+<pages>101-104</pages>
+<year>2008</year>
+<booktitle>AAMAS (Industry Track)</booktitle>
+<crossref>conf/atal/2008ind</crossref>
+<url>db/conf/atal/aamas2008ind.html#Nguyen-DucGMPBD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/RazaviMAP07" mdate="2017-03-23">
+<author>Reza Razavi</author>
+<author>Kirill Mechitov</author>
+<author>Gul A. Agha</author>
+<author>Jean-François Perrot</author>
+<title>Ambiance: A Mobile Agent Platform for End-User Programmable Ambient Systems.</title>
+<pages>81-106</pages>
+<year>2007</year>
+<booktitle>AITamI@IJCAI (best papers)</booktitle>
+<crossref>conf/ijcai/2007aitami</crossref>
+<url>db/conf/ijcai/aitami2007.html#RazaviMAP07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/smalltalk/2007icdl" mdate="2008-06-10">
+<editor>Serge Demeyer</editor>
+<editor>Jean-François Perrot</editor>
+<title>Proceedings of the 2007 International Conference on Dynamic Languages (ICDL 2007), organised in conjunction with the 15th International Smalltalk Joint Conference 2007, Lugano, Switzerland, 25-31 August 2007</title>
+<booktitle>ICDL</booktitle>
+<publisher>ACM</publisher>
+<year>2007</year>
+<url>db/conf/smalltalk/icdl2007.html</url>
+<isbn>978-1-60558-084-5</isbn>
+<series href="db/series/aicps/index.html">ACM International Conference Proceeding Series</series>
+<volume>286</volume>
+</proceedings>
+</r>
+<r><inproceedings key="conf/oopsla/RazaviMSAP06" mdate="2018-11-06">
+<author>Reza Razavi</author>
+<author>Kirill Mechitov</author>
+<author>Sameer Sundresh</author>
+<author>Gul Agha</author>
+<author>Jean-François Perrot</author>
+<title>Ambiance: adaptive object model-based platform for macroprogramming sensor networks.</title>
+<pages>663-664</pages>
+<year>2006</year>
+<crossref>conf/oopsla/2006c</crossref>
+<booktitle>OOPSLA Companion</booktitle>
+<url>db/conf/oopsla/oopsla2006c.html#RazaviMSAP06</url>
+</inproceedings>
+</r>
+<r><article key="journals/cl/RazaviBYPJ05" mdate="2017-05-18">
+<author>Reza Razavi</author>
+<author>Noury Bouraqadi</author>
+<author>Joseph W. Yoder</author>
+<author>Jean-François Perrot</author>
+<author>Ralph E. Johnson</author>
+<title>Language support for adaptive object-models using metaclasses.</title>
+<pages>199-218</pages>
+<year>2005</year>
+<volume>31</volume>
+<journal>Computer Languages, Systems and Structures</journal>
+<number>3-4</number>
+<url>db/journals/cl/cl31.html#RazaviBYPJ05</url>
+</article>
+</r>
+<r><inproceedings key="conf/mmas/RazaviPG04" mdate="2017-05-25">
+<author>Reza Razavi</author>
+<author>Jean-François Perrot</author>
+<author>Nicolas Guelfi</author>
+<title>Adaptive Modeling: An Approach and a Method for Implementing Adaptive Agents.</title>
+<pages>136-148</pages>
+<year>2004</year>
+<crossref>conf/mmas/2004</crossref>
+<booktitle>MMAS</booktitle>
+<url>db/conf/mmas/mmas2004.html#RazaviPG04</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/BlainGPT03" mdate="2006-03-03">
+<author>Gilles Blain</author>
+<author>Zahia Guessoum</author>
+<author>Jean-François Perrot</author>
+<author>Arnaud Thiefaine</author>
+<title>Génération de systèmes multi-agents à partir de modèles.</title>
+<pages>107-111</pages>
+<year>2003</year>
+<volume>22</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>4</number>
+<url>db/journals/tsi/tsi22.html#BlainGPT03</url>
+</article>
+</r>
+<r><inproceedings key="conf/inforsid/LesueurGSBP99" mdate="2014-08-07">
+<author>Bruno Lesueur</author>
+<author>Zahia Guessoum</author>
+<author>Gerson Sunyé</author>
+<author>Gilles Blain</author>
+<author>Jean-François Perrot</author>
+<title>La métaphore du dossier.</title>
+<pages>279-299</pages>
+<year>1999</year>
+<crossref>conf/inforsid/1999</crossref>
+<booktitle>INFORSID</booktitle>
+<url>db/conf/inforsid/inforsid1999.html#LesueurGSBP99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/PachetP94" mdate="2007-02-23">
+<author>François Pachet</author>
+<author>Jean-François Perrot</author>
+<title>Rule firing with metarules.</title>
+<pages>322-329</pages>
+<year>1994</year>
+<crossref>conf/seke/1994</crossref>
+<booktitle>SEKE</booktitle>
+<url>db/conf/seke/seke1994.html#PachetP94</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/tools/13-1994" mdate="2017-10-30">
+<editor>Boris Magnusson</editor>
+<editor>Bertrand Meyer 0001</editor>
+<editor>Jean-Marc Nerson</editor>
+<editor>Jean-François Perrot</editor>
+<title>TOOLS 1994: 13th International Conference on Technology of Object-Oriented Languages and Systems, Versailles, France, Europe.</title>
+<booktitle>TOOLS (13)</booktitle>
+<year>1994</year>
+<publisher>Prentice Hall</publisher>
+<isbn>0-13-350539-1</isbn>
+<url>db/conf/tools/tools13-1994.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/tools/10-1993" mdate="2017-10-30">
+<editor>Boris Magnusson</editor>
+<editor>Bertrand Meyer 0001</editor>
+<editor>Jean-François Perrot</editor>
+<title>TOOLS 1993: 10th International Conference on Technology of Object-Oriented Languages and Systems, Versailles, France, Europe.</title>
+<year>1993</year>
+<publisher>Prentice Hall</publisher>
+<isbn>0-13-097114-6</isbn>
+<booktitle>TOOLS (10)</booktitle>
+<url>db/conf/tools/tools10-1993.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/tools/Perrot92" mdate="2007-03-19">
+<author>Jean-François Perrot</author>
+<title>Rule-Based Object-Oriented Programming.</title>
+<pages>423</pages>
+<year>1992</year>
+<crossref>conf/tools/7-1992</crossref>
+<booktitle>TOOLS (7)</booktitle>
+<url>db/conf/tools/tools07-1992.html#Perrot92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoop/WolinskiP91" mdate="2017-05-20">
+<author>Francis Wolinski</author>
+<author>Jean-François Perrot</author>
+<title>Representation of Complex Objects: Multiple Facets with Part-Whole Hierarchies.</title>
+<pages>288-306</pages>
+<year>1991</year>
+<crossref>conf/ecoop/1991</crossref>
+<booktitle>ECOOP</booktitle>
+<url>db/conf/ecoop/ecoop91.html#WolinskiP91</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/Perrot78" mdate="2017-05-28">
+<author>Jean-François Perrot</author>
+<title>Varietes de Langages et Operations.</title>
+<pages>197-210</pages>
+<year>1978</year>
+<volume>7</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs7.html#Perrot78</url>
+</article>
+</r>
+<r><article key="journals/acta/Perrot77" mdate="2017-05-28">
+<author>Jean-François Perrot</author>
+<title>Monoïdes syntactiques des langages algébriques.</title>
+<journal>Acta Inf.</journal>
+<volume>7</volume>
+<year>1977</year>
+<pages>399-413</pages>
+<url>db/journals/acta/acta7.html#Perrot77</url>
+</article>
+</r>
+<r><inproceedings key="conf/fct/Perrot77" mdate="2019-08-06">
+<author>Jean-François Perrot</author>
+<title>On the Theory of Syntactic Monoids for Rational Languages.</title>
+<pages>152-165</pages>
+<year>1977</year>
+<crossref>conf/fct/1977</crossref>
+<booktitle>FCT</booktitle>
+<url>db/conf/fct/fct77.html#Perrot77</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip/PerrotS77" mdate="2019-07-26">
+<author>Jean-François Perrot</author>
+<author>Jacques Sakarovitch</author>
+<title>A Theory of Syntactic Monoids for Context-Free Languages.</title>
+<pages>69-72</pages>
+<year>1977</year>
+<crossref>conf/ifip/1977</crossref>
+<booktitle>IFIP Congress</booktitle>
+<url>db/conf/ifip/ifip1977.html#PerrotS77</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tcs/Perrot77" mdate="2017-05-19">
+<author>Jean-François Perrot</author>
+<title>Informationque et algébre la theorie des codes a longueur variable.</title>
+<pages>27-44</pages>
+<year>1977</year>
+<crossref>conf/tcs/1977</crossref>
+<booktitle>Theoretical Computer Science</booktitle>
+<url>db/conf/tcs/tcs1977.html#Perrot77</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/automata/PerrotS75" mdate="2017-05-19">
+<author>Jean-François Perrot</author>
+<author>Jacques Sakarovitch</author>
+<title>Langages algébriques déterministes et groupes abeliens.</title>
+<pages>20-30</pages>
+<year>1975</year>
+<crossref>conf/automata/1975</crossref>
+<booktitle>Automata Theory and Formal Languages</booktitle>
+<url>db/conf/automata/automata1975.html#PerrotS75</url>
+</inproceedings>
+</r>
+<r><phdthesis key="books/daglib/0012791" mdate="2011-03-23">
+<author>Jean-François Perrot</author>
+<title>Contribution a l'etude des monoides syntactiques et de certains groupes associes aux automates finis.</title>
+<school>Univ. Paris VI</school>
+<year>1972</year>
+</phdthesis>
+</r>
+<r><article key="journals/acta/PerrinP71" mdate="2017-05-28">
+<author>Dominique Perrin</author>
+<author>Jean-François Perrot</author>
+<title>Congruences et Automorphismes des Automates Finis.</title>
+<journal>Acta Inf.</journal>
+<volume>1</volume>
+<year>1971</year>
+<pages>159-172</pages>
+<url>db/journals/acta/acta1.html#PerrinP71</url>
+</article>
+</r>
+<r><inproceedings key="conf/stoc/Perrot70" mdate="2018-11-06">
+<title>On The Relationship between Finite Automata, Finite Monoids, and Prefix Codes</title>
+<author>Jean-François Perrot</author>
+<pages>217-220</pages>
+<crossref>conf/stoc/STOC2</crossref>
+<year>1970</year>
+<booktitle>STOC</booktitle>
+<url>db/conf/stoc/stoc70.html#Perrot70</url>
+</inproceedings>
+</r>
+<coauthors n="25" nc="3">
+<co c="1" n="2"><na f="a/Agha:Gul_A=">Gul A. Agha</na><na>Gul Agha</na></co>
+<co c="0"><na f="b/Blain:Gilles">Gilles Blain</na></co>
+<co c="1"><na f="b/Bouraqadi:Noury">Noury Bouraqadi</na></co>
+<co c="0"><na f="b/Briot:Jean=Pierre">Jean-Pierre Briot</na></co>
+<co c="-1"><na f="d/Demeyer:Serge">Serge Demeyer</na></co>
+<co c="0"><na f="d/Duong:Vu">Vu Duong</na></co>
+<co c="1"><na f="g/Guelfi:Nicolas">Nicolas Guelfi</na></co>
+<co c="0"><na f="g/Guessoum:Zahia">Zahia Guessoum</na></co>
+<co c="1"><na f="j/Johnson:Ralph_E=">Ralph E. Johnson</na></co>
+<co c="0"><na f="l/Lesueur:Bruno">Bruno Lesueur</na></co>
+<co c="2"><na f="m/Magnusson:Boris">Boris Magnusson</na></co>
+<co c="0"><na f="m/Marin:Olivier">Olivier Marin</na></co>
+<co c="1"><na f="m/Mechitov:Kirill">Kirill Mechitov</na></co>
+<co c="2"><na f="m/Meyer_0001:Bertrand">Bertrand Meyer 0001</na></co>
+<co c="2"><na f="n/Nerson:Jean=Marc">Jean-Marc Nerson</na></co>
+<co c="0"><na f="n/Nguyen=Duc:Minh">Minh Nguyen-Duc</na></co>
+<co c="0"><na f="p/Pachet:Fran=ccedil=ois">François Pachet</na></co>
+<co c="-1"><na f="p/Perrin:Dominique">Dominique Perrin</na></co>
+<co c="1"><na f="r/Razavi:Reza">Reza Razavi</na></co>
+<co c="-1"><na f="s/Sakarovitch:Jacques">Jacques Sakarovitch</na></co>
+<co c="1"><na f="s/Sundresh:Sameer">Sameer Sundresh</na></co>
+<co c="0"><na f="s/Suny=eacute=:Gerson">Gerson Sunyé</na></co>
+<co c="0"><na f="t/Thiefaine:Arnaud">Arnaud Thiefaine</na></co>
+<co c="-1"><na f="w/Wolinski:Francis">Francis Wolinski</na></co>
+<co c="1"><na f="y/Yoder:Joseph_W=">Joseph W. Yoder</na></co>
+</coauthors>
+</dblpperson>
+

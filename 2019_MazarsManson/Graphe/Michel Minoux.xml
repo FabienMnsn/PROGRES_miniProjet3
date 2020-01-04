@@ -1,0 +1,954 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Michel Minoux" n="73">
+<person key="homepages/38/228" mdate="2009-06-08">
+<author>Michel Minoux</author>
+</person>
+<r><article key="journals/algorithmica/LescaMP19" mdate="2019-01-18">
+<author orcid="0000-0002-2128-1337">Julien Lesca</author>
+<author>Michel Minoux</author>
+<author>Patrice Perny</author>
+<title>The Fair OWA One-to-One Assignment Problem: NP-Hardness and Polynomial Time Special Cases.</title>
+<pages>98-123</pages>
+<year>2019</year>
+<volume>81</volume>
+<journal>Algorithmica</journal>
+<number>1</number>
+<url>db/journals/algorithmica/algorithmica81.html#LescaMP19</url>
+</article>
+</r>
+<r><article key="journals/cn/NguyenMF19" mdate="2019-02-09">
+<author>Thi-Minh Nguyen</author>
+<author>Michel Minoux</author>
+<author>Serge Fdida</author>
+<title>Optimizing resource utilization in NFV dynamic systems: New exact and heuristic approaches.</title>
+<pages>129-141</pages>
+<year>2019</year>
+<volume>148</volume>
+<journal>Computer Networks</journal>
+<url>db/journals/cn/cn148.html#NguyenMF19</url>
+</article>
+</r>
+<r><article key="journals/jgo/MinouxZ19" mdate="2019-11-07">
+<author>Michel Minoux</author>
+<author orcid="0000-0001-8600-3541">Riadh Zorgati</author>
+<title>Sharp upper and lower bounds for maximum likelihood solutions to random Gaussian bilateral inequality systems.</title>
+<pages>735-766</pages>
+<year>2019</year>
+<volume>75</volume>
+<journal>J. Global Optimization</journal>
+<number>3</number>
+<url>db/journals/jgo/jgo75.html#MinouxZ19</url>
+</article>
+</r>
+<r><article key="journals/eor/KhaledMMMC18" mdate="2017-11-06">
+<author>Oumaima Khaled</author>
+<author>Michel Minoux</author>
+<author orcid="0000-0001-8574-3337">Vincent Mousseau</author>
+<author>Stéphane Michel</author>
+<author>Xavier Ceugniet</author>
+<title>A compact optimization model for the tail assignment problem.</title>
+<pages>548-557</pages>
+<year>2018</year>
+<volume>264</volume>
+<journal>European Journal of Operational Research</journal>
+<number>2</number>
+<url>db/journals/eor/eor264.html#KhaledMMMC18</url>
+</article>
+</r>
+<r><article key="journals/disopt/NguyenMNNS17" mdate="2019-10-19">
+<author orcid="0000-0001-5742-0901">Dang Phuong Nguyen</author>
+<author>Michel Minoux</author>
+<author>Viet Hung Nguyen</author>
+<author>Thanh Hai Nguyen</author>
+<author orcid="0000-0003-4720-9269">Renaud Sirdey</author>
+<title>Improved compact formulations for a wide class of graph partitioning problems in sparse graphs.</title>
+<pages>175-188</pages>
+<year>2017</year>
+<volume>25</volume>
+<journal>Discrete Optimization</journal>
+<url>db/journals/disopt/disopt25.html#NguyenMNNS17</url>
+</article>
+</r>
+<r><article key="journals/jgo/MinouxZ17" mdate="2017-07-14">
+<author>Michel Minoux</author>
+<author>Riadh Zorgati</author>
+<title>Global probability maximization for a Gaussian bilateral inequality in polynomial time.</title>
+<pages>879-898</pages>
+<year>2017</year>
+<volume>68</volume>
+<journal>J. Global Optimization</journal>
+<number>4</number>
+<url>db/journals/jgo/jgo68.html#MinouxZ17</url>
+</article>
+</r>
+<r><article key="journals/networks/NguyenMN17" mdate="2017-11-06">
+<author>Viet Hung Nguyen</author>
+<author>Michel Minoux</author>
+<author orcid="0000-0001-5742-0901">Dang Phuong Nguyen</author>
+<title>Reduced-size formulations for metric and cut polyhedra in sparse graphs.</title>
+<pages>142-150</pages>
+<year>2017</year>
+<volume>69</volume>
+<journal>Networks</journal>
+<number>1</number>
+<url>db/journals/networks/networks69.html#NguyenMN17</url>
+</article>
+</r>
+<r><article key="journals/oms/NguyenM17" mdate="2017-06-26">
+<author>Viet Hung Nguyen</author>
+<author>Michel Minoux</author>
+<title>Improved linearized models for graph partitioning problem under capacity constraints.</title>
+<pages>892-903</pages>
+<year>2017</year>
+<volume>32</volume>
+<journal>Optimization Methods and Software</journal>
+<number>4</number>
+<url>db/journals/oms/oms32.html#NguyenM17</url>
+</article>
+</r>
+<r><article key="journals/candie/BoujelbenGM16" mdate="2017-05-18">
+<author>Mouna Kchaou Boujelben</author>
+<author>Céline Gicquel</author>
+<author>Michel Minoux</author>
+<title>A MILP model and heuristic approach for facility location under multiple operational constraints.</title>
+<pages>446-461</pages>
+<year>2016</year>
+<volume>98</volume>
+<journal>Computers and Industrial Engineering</journal>
+<url>db/journals/candie/candie98.html#BoujelbenGM16</url>
+</article>
+</r>
+<r><article key="journals/endm/NguyenMN16" mdate="2017-05-27">
+<author>Viet Hung Nguyen</author>
+<author>Michel Minoux</author>
+<author>Dang Phuong Nguyen</author>
+<title>Improved compact formulations for metric and cut polyhedra.</title>
+<pages>125-132</pages>
+<year>2016</year>
+<volume>52</volume>
+<journal>Electronic Notes in Discrete Mathematics</journal>
+<url>db/journals/endm/endm52.html#NguyenMN16</url>
+</article>
+</r>
+<r><article key="journals/ol/NguyenMNNS16" mdate="2019-10-19">
+<author orcid="0000-0001-5742-0901">Dang Phuong Nguyen</author>
+<author>Michel Minoux</author>
+<author>Viet Hung Nguyen</author>
+<author>Thanh Hai Nguyen</author>
+<author orcid="0000-0003-4720-9269">Renaud Sirdey</author>
+<title>Stochastic graph partitioning: quadratic versus SOCP formulations.</title>
+<pages>1505-1518</pages>
+<year>2016</year>
+<volume>10</volume>
+<journal>Optimization Letters</journal>
+<number>7</number>
+<url>db/journals/ol/ol10.html#NguyenMNNS16</url>
+</article>
+</r>
+<r><article key="journals/cor/GicquelM15" mdate="2017-05-18">
+<author>Céline Gicquel</author>
+<author>Michel Minoux</author>
+<title>Multi-product valid inequalities for the discrete lot-sizing and scheduling problem.</title>
+<pages>12-20</pages>
+<year>2015</year>
+<volume>54</volume>
+<journal>Computers and OR</journal>
+<url>db/journals/cor/cor54.html#GicquelM15</url>
+</article>
+</r>
+<r><article key="journals/ol/IbrahimMM15" mdate="2017-05-20">
+<author>Mamane Souley Ibrahim</author>
+<author>Nelson Maculan</author>
+<author>Michel Minoux</author>
+<title>Valid inequalities and lifting procedures for the shortest path problem in digraphs with negative cycles.</title>
+<pages>345-357</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Optimization Letters</journal>
+<number>2</number>
+<url>db/journals/ol/ol9.html#IbrahimMM15</url>
+</article>
+</r>
+<r><article key="journals/cor/BoujelbenGM14" mdate="2017-05-18">
+<author>Mouna Kchaou Boujelben</author>
+<author>Céline Gicquel</author>
+<author>Michel Minoux</author>
+<title>A distribution network design problem in the automotive industry: MIP formulation and heuristics.</title>
+<pages>16-28</pages>
+<year>2014</year>
+<volume>52</volume>
+<journal>Computers and OR</journal>
+<url>db/journals/cor/cor52.html#BoujelbenGM14</url>
+</article>
+</r>
+<r><article key="journals/eor/GicquelLM14" mdate="2017-05-27">
+<author>Céline Gicquel</author>
+<author>Abdel Lisser</author>
+<author>Michel Minoux</author>
+<title>An evaluation of semidefinite programming based approaches for discrete lot-sizing problems.</title>
+<pages>498-507</pages>
+<year>2014</year>
+<volume>237</volume>
+<journal>European Journal of Operational Research</journal>
+<number>2</number>
+<url>db/journals/eor/eor237.html#GicquelLM14</url>
+</article>
+</r>
+<r><article key="journals/rairo/Minoux14" mdate="2017-05-26">
+<author>Michel Minoux</author>
+<title>Two-stage robust optimization, state-space representable uncertainty and applications.</title>
+<pages>455-475</pages>
+<year>2014</year>
+<volume>48</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>4</number>
+<url>db/journals/rairo/rairo48.html#Minoux14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icores/GicquelM14a" mdate="2019-05-07">
+<author>Céline Gicquel</author>
+<author>Michel Minoux</author>
+<title>Solving to Optimality a Discrete Lot-Sizing Problem Thanks to Multi-product Multi-period Valid Inequalities.</title>
+<pages>237-250</pages>
+<year>2014</year>
+<booktitle>ICORES (Selected Papers)</booktitle>
+<crossref>conf/icores/2014s</crossref>
+<url>db/conf/icores/icores2014s.html#GicquelM14a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icores/GicquelM14" mdate="2017-05-23">
+<author>Céline Gicquel</author>
+<author>Michel Minoux</author>
+<title>New Multi-product Valid Inequalities for a Discrete Lot-sizing Problem.</title>
+<pages>355-362</pages>
+<year>2014</year>
+<booktitle>ICORES</booktitle>
+<crossref>conf/icores/2014</crossref>
+<url>db/conf/icores/icores2014.html#GicquelM14</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/LescaMP13" mdate="2017-05-28">
+<author>Julien Lesca</author>
+<author>Michel Minoux</author>
+<author>Patrice Perny</author>
+<title>Compact versus noncompact LP formulations for minimizing convex Choquet integrals.</title>
+<pages>184-199</pages>
+<year>2013</year>
+<volume>161</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>1-2</number>
+<url>db/journals/dam/dam161.html#LescaMP13</url>
+</article>
+</r>
+<r><article key="journals/cor/GicquelHMC12" mdate="2017-05-18">
+<author>Céline Gicquel</author>
+<author>L. Hege</author>
+<author>Michel Minoux</author>
+<author>W. van Canneyt</author>
+<title>A discrete time exact solution approach for a complex hybrid flow-shop scheduling problem with limited-wait constraints.</title>
+<pages>629-636</pages>
+<year>2012</year>
+<volume>39</volume>
+<journal>Computers and OR</journal>
+<number>3</number>
+<url>db/journals/cor/cor39.html#GicquelHMC12</url>
+</article>
+</r>
+<r><article key="journals/ol/GicquelWM12" mdate="2017-05-20">
+<author>Céline Gicquel</author>
+<author>Laurence A. Wolsey</author>
+<author>Michel Minoux</author>
+<title>On discrete lot-sizing and scheduling on identical parallel machines.</title>
+<pages>545-557</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Optimization Letters</journal>
+<number>3</number>
+<url>db/journals/ol/ol6.html#GicquelWM12</url>
+</article>
+</r>
+<r><article key="journals/ol/Minoux12" mdate="2017-05-20">
+<author>Michel Minoux</author>
+<title>Two-stage robust LP with ellipsoidal right-hand side uncertainty is NP-hard.</title>
+<pages>1463-1475</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Optimization Letters</journal>
+<number>7</number>
+<url>db/journals/ol/ol6.html#Minoux12</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscopt/BonamiNKM12" mdate="2017-05-23">
+<author>Pierre Bonami</author>
+<author>Viet Hung Nguyen</author>
+<author>Michel Klein</author>
+<author>Michel Minoux</author>
+<title>On the Solution of a Graph Partitioning Problem under Capacity Constraints.</title>
+<pages>285-296</pages>
+<year>2012</year>
+<booktitle>ISCO</booktitle>
+<crossref>conf/iscopt/2012</crossref>
+<url>db/conf/iscopt/isco2012.html#BonamiNKM12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jgo/Minoux11" mdate="2017-05-17">
+<author>Michel Minoux</author>
+<title>On 2-stage robust LP with RHS uncertainty: complexity results and applications.</title>
+<pages>521-537</pages>
+<year>2011</year>
+<volume>49</volume>
+<journal>J. Global Optimization</journal>
+<number>3</number>
+<url>db/journals/jgo/jgo49.html#Minoux11</url>
+</article>
+</r>
+<r><inproceedings key="conf/inoc/BouhtouMM11" mdate="2017-05-25">
+<author>Mustapha Bouhtou</author>
+<author>Jean-Robin Medori</author>
+<author>Michel Minoux</author>
+<title>Mixed Integer Programming Model for Pricing in Telecommunication.</title>
+<pages>626-630</pages>
+<year>2011</year>
+<booktitle>INOC</booktitle>
+<crossref>conf/inoc/2011</crossref>
+<url>db/conf/inoc/inoc2011.html#BouhtouMM11</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/Minoux10" mdate="2017-05-28">
+<author>Michel Minoux</author>
+<title>Robust network optimization under polyhedral demand uncertainty is NP-hard.</title>
+<pages>597-603</pages>
+<year>2010</year>
+<volume>158</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>5</number>
+<url>db/journals/dam/dam158.html#Minoux10</url>
+</article>
+</r>
+<r><article key="journals/dam/MinouxO10" mdate="2017-05-28">
+<author>Michel Minoux</author>
+<author>Hacene Ouzia</author>
+<title>DRL*: A hierarchy of strong block-decomposable linear relaxations for 0-1 MIPs.</title>
+<pages>2031-2048</pages>
+<year>2010</year>
+<volume>158</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>18</number>
+<url>db/journals/dam/dam158.html#MinouxO10</url>
+</article>
+</r>
+<r><article key="journals/endm/MinouxO10" mdate="2017-05-27">
+<author>Michel Minoux</author>
+<author>Hacene Ouzia</author>
+<title>Using DRL* relaxations for quadratically constrained pseudoboolean optimization: application to robust Min-Cut.</title>
+<pages>1217-1224</pages>
+<year>2010</year>
+<volume>36</volume>
+<journal>Electronic Notes in Discrete Mathematics</journal>
+<url>db/journals/endm/endm36.html#MinouxO10</url>
+</article>
+</r>
+<r><article key="journals/eor/GicquelMMD10" mdate="2017-05-27">
+<author>Céline Gicquel</author>
+<author>N. Miègeville</author>
+<author>Michel Minoux</author>
+<author>Yves Dallery</author>
+<title>Optimizing glass coating lines: MIP model and valid inequalities.</title>
+<pages>747-755</pages>
+<year>2010</year>
+<volume>202</volume>
+<journal>European Journal of Operational Research</journal>
+<number>3</number>
+<url>db/journals/eor/eor202.html#GicquelMMD10</url>
+</article>
+</r>
+<r><article key="journals/itor/SaharidisMI10" mdate="2017-05-26">
+<author>Georgios K. D. Saharidis</author>
+<author>Michel Minoux</author>
+<author>Marianthi G. Ierapetritou</author>
+<title>Accelerating Benders method using covering cut bundle generation.</title>
+<pages>221-237</pages>
+<year>2010</year>
+<volume>17</volume>
+<journal>ITOR</journal>
+<number>2</number>
+<url>db/journals/itor/itor17.html#SaharidisMI10</url>
+</article>
+</r>
+<r><article key="journals/aor/Minoux09" mdate="2010-12-07">
+<author>Michel Minoux</author>
+<title>Solving some Multistage Robust Decision Problems with Huge Implicitly Defined Scenario Trees.</title>
+<pages>1-18</pages>
+<year>2009</year>
+<volume>4</volume>
+<journal>Algorithmic Operations Research</journal>
+<number>1</number>
+<url>db/journals/aor/aor4.html#Minoux09</url>
+</article>
+</r>
+<r><article key="journals/cce/SaharidisMD09" mdate="2017-05-28">
+<author>Georgios K. D. Saharidis</author>
+<author>Michel Minoux</author>
+<author>Yves Dallery</author>
+<title>Scheduling of loading and unloading of crude oil in a refinery using event-based discrete time formulation.</title>
+<pages>1413-1426</pages>
+<year>2009</year>
+<volume>33</volume>
+<journal>Computers and Chemical Engineering</journal>
+<number>8</number>
+<url>db/journals/cce/cce33.html#SaharidisMD09</url>
+</article>
+</r>
+<r><article key="journals/cor/GicquelMMD09" mdate="2017-05-18">
+<author>Céline Gicquel</author>
+<author>N. Miègeville</author>
+<author>Michel Minoux</author>
+<author>Yves Dallery</author>
+<title>Discrete lot sizing and scheduling using product decomposition into attributes.</title>
+<pages>2690-2698</pages>
+<year>2009</year>
+<volume>36</volume>
+<journal>Computers and OR</journal>
+<number>9</number>
+<url>db/journals/cor/cor36.html#GicquelMMD09</url>
+</article>
+</r>
+<r><article key="journals/itor/IbrahimMM09" mdate="2017-05-26">
+<author>M. S. Ibrahim</author>
+<author>Nelson Maculan</author>
+<author>Michel Minoux</author>
+<title>A strong flow-based formulation for the shortest path problem in digraphs with negative cycles.</title>
+<pages>361-369</pages>
+<year>2009</year>
+<volume>16</volume>
+<journal>ITOR</journal>
+<number>3</number>
+<url>db/journals/itor/itor16.html#IbrahimMM09</url>
+</article>
+</r>
+<r><article key="journals/ol/Minoux09" mdate="2017-05-20">
+<author>Michel Minoux</author>
+<title>On robust maximum flow with polyhedral uncertainty sets.</title>
+<pages>367-376</pages>
+<year>2009</year>
+<volume>3</volume>
+<journal>Optimization Letters</journal>
+<number>3</number>
+<url>db/journals/ol/ol3.html#Minoux09</url>
+</article>
+</r>
+<r><article key="journals/orl/GicquelMD09" mdate="2017-05-27">
+<author>Céline Gicquel</author>
+<author>Michel Minoux</author>
+<author>Yves Dallery</author>
+<title>On the discrete lot-sizing and scheduling problem with sequence-dependent changeover times.</title>
+<pages>32-36</pages>
+<year>2009</year>
+<volume>37</volume>
+<journal>Oper. Res. Lett.</journal>
+<number>1</number>
+<url>db/journals/orl/orl37.html#GicquelMD09</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/opt/MinouxM09" mdate="2017-07-12">
+<author>Michel Minoux</author>
+<author>P. Mavrocordatos</author>
+<title>Maximum Constraint Satisfaction: Relaxations and Upper Bounds.</title>
+<pages>1981-1991</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Optimization</booktitle>
+<crossref>reference/opt/2009</crossref>
+<url>db/reference/opt/opt2009.html#MinouxM09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/opt/Minoux09" mdate="2017-07-12">
+<author>Michel Minoux</author>
+<title>Robust Linear Programming with Right-Hand-Side Uncertainty, Duality and Applications.</title>
+<pages>3317-3327</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Optimization</booktitle>
+<crossref>reference/opt/2009</crossref>
+<url>db/reference/opt/opt2009.html#Minoux09</url>
+</incollection>
+</r>
+<r><article key="journals/fss/GondranM07" mdate="2017-05-28">
+<author>Michel Gondran</author>
+<author>Michel Minoux</author>
+<title>Dioïds and semirings: Links to fuzzy sets and other applications.</title>
+<pages>1273-1294</pages>
+<year>2007</year>
+<volume>158</volume>
+<journal>Fuzzy Sets and Systems</journal>
+<number>12</number>
+<url>db/journals/fss/fss158.html#GondranM07</url>
+</article>
+</r>
+<r><article key="journals/networks/BouhtouEM07" mdate="2017-05-28">
+<author>Mustapha Bouhtou</author>
+<author>Guillaume Erbs</author>
+<author>Michel Minoux</author>
+<title>Joint optimization of pricing and resource allocation in competitive telecommunications networks.</title>
+<pages>37-49</pages>
+<year>2007</year>
+<volume>50</volume>
+<journal>Networks</journal>
+<number>1</number>
+<url>db/journals/networks/networks50.html#BouhtouEM07</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusflat/Minoux07" mdate="2013-04-18">
+<author>Michel Minoux</author>
+<title>Semirings, Dioids and Their Links to Fuzzy Sets and Other Applications.</title>
+<pages>25-25</pages>
+<year>2007</year>
+<booktitle>EUSFLAT Conf. (1)</booktitle>
+<crossref>conf/eusflat/2007-1</crossref>
+<url>db/conf/eusflat/eusflat2007-1.html#Minoux07</url>
+</inproceedings>
+</r>
+<r><article key="journals/eor/ZeghalM06" mdate="2017-05-27">
+<author>F. M. Zeghal</author>
+<author>Michel Minoux</author>
+<title>Modeling and solving a Crew Assignment Problem in air transportation.</title>
+<pages>187-209</pages>
+<year>2006</year>
+<volume>175</volume>
+<journal>European Journal of Operational Research</journal>
+<number>1</number>
+<url>db/journals/eor/eor175.html#ZeghalM06</url>
+</article>
+</r>
+<r><article key="journals/orl/BonamiM06" mdate="2017-05-27">
+<author>Pierre Bonami</author>
+<author>Michel Minoux</author>
+<title>Exact MAX-2SAT solution via lift-and-project closure.</title>
+<pages>387-393</pages>
+<year>2006</year>
+<volume>34</volume>
+<journal>Oper. Res. Lett.</journal>
+<number>4</number>
+<url>db/journals/orl/orl34.html#BonamiM06</url>
+</article>
+</r>
+<r><article key="journals/siamjo/TuyMH06" mdate="2017-05-27">
+<author>Hoang Tuy</author>
+<author>Michel Minoux</author>
+<author>N. T. Hoai-Phuong</author>
+<title>Discrete Monotonic Optimization with Application to a Discrete Location Problem.</title>
+<pages>78-97</pages>
+<year>2006</year>
+<volume>17</volume>
+<journal>SIAM Journal on Optimization</journal>
+<number>1</number>
+<url>db/journals/siamjo/siamjo17.html#TuyMH06</url>
+</article>
+</r>
+<r><incollection key="books/daglib/p/Minoux06" mdate="2017-05-16">
+<author>Michel Minoux</author>
+<title>Multicommodity Network Flow Models and Algorithms in Telecommunications.</title>
+<pages>163-184</pages>
+<year>2006</year>
+<booktitle>Handbook of Optimization in Telecommunications</booktitle>
+<crossref>books/daglib/0016906</crossref>
+<url>db/books/collections/RP2006.html#Minoux06</url>
+</incollection>
+</r>
+<r><article key="journals/disopt/BonamiM05" mdate="2017-05-28">
+<author>Pierre Bonami</author>
+<author>Michel Minoux</author>
+<title>Using rank-1 lift-and-project closures to generate cuts for 0-1 MIPs, a computational investigation.</title>
+<pages>288-307</pages>
+<year>2005</year>
+<volume>2</volume>
+<journal>Discrete Optimization</journal>
+<number>4</number>
+<url>db/journals/disopt/disopt2.html#BonamiM05</url>
+</article>
+</r>
+<r><article key="journals/dam/Minoux04" mdate="2017-05-28">
+<author>Michel Minoux</author>
+<title>Polynomial approximation schemes and exact algorithms for optimum curve segmentation problems.</title>
+<pages>158-172</pages>
+<year>2004</year>
+<volume>144</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>1-2</number>
+<url>db/journals/dam/dam144.html#Minoux04</url>
+</article>
+</r>
+<r><article key="journals/heuristics/GabrelKM03" mdate="2017-05-18">
+<author>Virginie Gabrel</author>
+<author>Arnaud Knippel</author>
+<author>Michel Minoux</author>
+<title>A Comparison of Heuristics for the Discrete Cost Multicommodity Network Optimization Problem.</title>
+<pages>429-445</pages>
+<year>2003</year>
+<volume>9</volume>
+<journal>J. Heuristics</journal>
+<number>5</number>
+<url>db/journals/heuristics/heuristics9.html#GabrelKM03</url>
+</article>
+</r>
+<r><article key="journals/orl/GabrelM02" mdate="2017-05-27">
+<author>Virginie Gabrel</author>
+<author>Michel Minoux</author>
+<title>A scheme for exact separation of extended cover inequalities and application to multidimensional knapsack problems.</title>
+<pages>252-264</pages>
+<year>2002</year>
+<volume>30</volume>
+<journal>Oper. Res. Lett.</journal>
+<number>4</number>
+<url>db/journals/orl/orl30.html#GabrelM02</url>
+</article>
+</r>
+<r><article key="journals/anor/Minoux01" mdate="2017-05-27">
+<author>Michel Minoux</author>
+<title>Discrete Cost Multicommodity Network Optimization Problems and Exact Solution Methods.</title>
+<pages>19-46</pages>
+<year>2001</year>
+<volume>106</volume>
+<journal>Annals OR</journal>
+<number>1-4</number>
+<url>db/journals/anor/anor106.html#Minoux01</url>
+</article>
+</r>
+<r><article key="journals/tcad/PistoriusLM00" mdate="2017-05-20">
+<author>Joachim Pistorius</author>
+<author>Edmée Legai</author>
+<author>Michel Minoux</author>
+<title>PartGen: a generator of very large circuits to benchmark thepartitioning of FPGAs.</title>
+<pages>1314-1321</pages>
+<year>2000</year>
+<volume>19</volume>
+<journal>IEEE Trans. on CAD of Integrated Circuits and Systems</journal>
+<number>11</number>
+<url>db/journals/tcad/tcad19.html#PistoriusLM00</url>
+</article>
+</r>
+<r><article key="journals/dam/BorosHMR99" mdate="2018-11-14">
+<author orcid="0000-0001-8206-3168">Endre Boros</author>
+<author>Peter L. Hammer</author>
+<author>Michel Minoux</author>
+<author>David J. Rader Jr.</author>
+<title>Optimal Cell Flipping to Minimize Channel Density in VLSI Design and Pseudo-Boolean Optimization.</title>
+<pages>69-88</pages>
+<year>1999</year>
+<volume>90</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>1-3</number>
+<url>db/journals/dam/dam90.html#BorosHMR99</url>
+</article>
+</r>
+<r><article key="journals/dm/Minoux99" mdate="2017-05-28">
+<author>Michel Minoux</author>
+<title>A generalization of the all minors tree theorem to semirings.</title>
+<pages>139-150</pages>
+<year>1999</year>
+<volume>199</volume>
+<journal>Discrete Mathematics</journal>
+<number>1-3</number>
+<url>db/journals/dm/dm199.html#Minoux99</url>
+</article>
+</r>
+<r><article key="journals/orl/GabrelKM99" mdate="2017-05-27">
+<author>Virginie Gabrel</author>
+<author>Arnaud Knippel</author>
+<author>Michel Minoux</author>
+<title>Exact solution of multicommodity network optimization problems with general step cost functions.</title>
+<pages>15-23</pages>
+<year>1999</year>
+<volume>25</volume>
+<journal>Oper. Res. Lett.</journal>
+<number>1</number>
+<url>db/journals/orl/orl25.html#GabrelKM99</url>
+</article>
+</r>
+<r><inproceedings key="conf/ispd/PistoriusLM99" mdate="2018-11-06">
+<author>Joachim Pistorius</author>
+<author>Edmée Legai</author>
+<author>Michel Minoux</author>
+<title>Generation of very large circuits to benchmark the partitioning of FPGA.</title>
+<pages>67-73</pages>
+<year>1999</year>
+<crossref>conf/ispd/1999</crossref>
+<booktitle>ISPD</booktitle>
+<url>db/conf/ispd/ispd1999.html#PistoriusLM99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cata/Rahim-SarwaryEMB98" mdate="2007-06-18">
+<author>Fahim Rahim-Sarwary</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Michel Minoux</author>
+<author>Rajesh K. Bawa</author>
+<title>Modular model checking of VLSI designs described in VHDL.</title>
+<pages>368-371</pages>
+<year>1998</year>
+<crossref>conf/cata/1998</crossref>
+<booktitle>Computers and Their Applications</booktitle>
+<url>db/conf/cata/cata1998.html#Rahim-SarwaryEMB98</url>
+</inproceedings>
+</r>
+<r><article key="journals/dm/Minoux97" mdate="2017-05-28">
+<author>Michel Minoux</author>
+<title>Bideterminants, arborescences and extension of the Matrix-Tree theorem to semirings.</title>
+<pages>191-200</pages>
+<year>1997</year>
+<volume>171</volume>
+<journal>Discrete Mathematics</journal>
+<number>1-3</number>
+<url>db/journals/dm/dm171.html#Minoux97</url>
+</article>
+</r>
+<r><article key="journals/anor/Minoux95" mdate="2018-04-30">
+<author>Michel Minoux</author>
+<title>On some large-scale LP relaxations for the Graph Partitioning Problem and their optimal solutions.</title>
+<pages>141-154</pages>
+<year>1995</year>
+<volume>58</volume>
+<journal>Annals OR</journal>
+<number>3</number>
+<url>db/journals/anor/anor58.html#Minoux95</url>
+</article>
+</r>
+<r><article key="journals/na/DoduEM94" mdate="2017-05-18">
+<author>J. C. Dodu</author>
+<author>T. Eve</author>
+<author>Michel Minoux</author>
+<title>Implementation of a proximal algorithm for linearly constrained nonsmooth optimization problems and computational results.</title>
+<pages>245-273</pages>
+<year>1994</year>
+<volume>6</volume>
+<journal>Numerical Algorithms</journal>
+<number>2</number>
+<url>db/journals/na/na6.html#DoduEM94</url>
+</article>
+</r>
+<r><article key="journals/amai/Minoux92" mdate="2017-05-28">
+<author>Michel Minoux</author>
+<title>The Unique Horn-Satisfiability Problem and Quadratic Boolean Equations.</title>
+<pages>253-266</pages>
+<year>1992</year>
+<volume>6</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>1-3</number>
+<url>db/journals/amai/amai6.html#Minoux92</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/BarkaouiM92" mdate="2017-05-20">
+<author>Kamel Barkaoui</author>
+<author>Michel Minoux</author>
+<title>A Polynomial-Time Graph Algorithm to Decide Liveness of Some Basic Classes of Bounded Petri Nets.</title>
+<pages>62-75</pages>
+<year>1992</year>
+<crossref>conf/apn/1992</crossref>
+<booktitle>Application and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn92.html#BarkaouiM92</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/MinouxB90" mdate="2017-05-28">
+<author>Michel Minoux</author>
+<author>Kamel Barkaoui</author>
+<title>Deadlocks and traps in Petri nets as Horn-satisfiability solutions and some related polynomially solvable problems.</title>
+<pages>195-210</pages>
+<year>1990</year>
+<volume>29</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>2-3</number>
+<url>db/journals/dam/dam29.html#MinouxB90</url>
+</article>
+</r>
+<r><article key="journals/mp/Minoux89" mdate="2017-05-27">
+<author>Michel Minoux</author>
+<title>Solving combinatorial problems with combined Min-Max-Min-Sum objective and applications.</title>
+<pages>361-372</pages>
+<year>1989</year>
+<volume>45</volume>
+<journal>Math. Program.</journal>
+<number>1-3</number>
+<url>db/journals/mp/mp45.html#Minoux89</url>
+</article>
+</r>
+<r><article key="journals/networks/Minoux89" mdate="2017-05-28">
+<author>Michel Minoux</author>
+<title>Networks synthesis and optimum network design problems: Models, solution methods and applications.</title>
+<pages>313-360</pages>
+<year>1989</year>
+<volume>19</volume>
+<journal>Networks</journal>
+<number>3</number>
+<url>db/journals/networks/networks19.html#Minoux89</url>
+</article>
+</r>
+<r><article key="journals/networks/LessardRM89" mdate="2017-05-28">
+<author>Réjean Lessard</author>
+<author>Jean-Marc Rousseau</author>
+<author>Michel Minoux</author>
+<title>A new algorithm for general matching problems using network flow subproblems.</title>
+<pages>459-479</pages>
+<year>1989</year>
+<volume>19</volume>
+<journal>Networks</journal>
+<number>4</number>
+<url>db/journals/networks/networks19.html#LessardRM89</url>
+</article>
+</r>
+<r><article key="journals/prl/CoxMMR89" mdate="2017-05-28">
+<author>Pedro Cox</author>
+<author>Henri Maître</author>
+<author>Michel Minoux</author>
+<author>Celso C. Ribeiro</author>
+<title>Optimal matching of convex polygons.</title>
+<pages>327-334</pages>
+<year>1989</year>
+<volume>9</volume>
+<journal>Pattern Recognition Letters</journal>
+<number>5</number>
+<url>db/journals/prl/prl9.html#CoxMMR89</url>
+</article>
+</r>
+<r><article key="journals/ipl/Minoux88" mdate="2017-05-26">
+<author>Michel Minoux</author>
+<title>LTUR: A Simplified Linear-Time Unit Resolution Algorithm for Horn Formulae and Computer Implementation.</title>
+<pages>1-12</pages>
+<year>1988</year>
+<volume>29</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl29.html#Minoux88</url>
+</article>
+</r>
+<r><article key="journals/tsp/JaumardMS88" mdate="2017-05-18">
+<author>Brigitte Jaumard</author>
+<author>Michel Minoux</author>
+<author>Pierre Siohan</author>
+<title>Finite precision design of FIR digital filters using a convexity property.</title>
+<pages>407-411</pages>
+<year>1988</year>
+<volume>36</volume>
+<journal>IEEE Trans. Acoustics, Speech, and Signal Processing</journal>
+<number>3</number>
+<url>db/journals/tsp/tsp36.html#JaumardMS88</url>
+</article>
+</r>
+<r><article key="journals/ipl/JaumardM86" mdate="2017-05-26">
+<author>Brigitte Jaumard</author>
+<author>Michel Minoux</author>
+<title>An Efficient Algorithm for the Transitive Closure and a Linear Worst-Case Complexity Result for a Class of Sparse Graphs.</title>
+<pages>163-169</pages>
+<year>1986</year>
+<volume>22</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl22.html#JaumardM86</url>
+</article>
+</r>
+<r><article key="journals/mp/HansenJM86" mdate="2017-05-27">
+<author>Pierre Hansen</author>
+<author>Brigitte Jaumard</author>
+<author>Michel Minoux</author>
+<title>A linear expected-time algorithm for deriving all logical conclusions implied by a set of boolean inequalities.</title>
+<pages>223-231</pages>
+<year>1986</year>
+<volume>34</volume>
+<journal>Math. Program.</journal>
+<number>2</number>
+<url>db/journals/mp/mp34.html#HansenJM86</url>
+</article>
+</r>
+<r><article key="journals/dam/RibeiroM85" mdate="2017-05-28">
+<author>Celso C. Ribeiro</author>
+<author>Michel Minoux</author>
+<title>A heuristic approach to hard constrained shortest path problems.</title>
+<pages>125-137</pages>
+<year>1985</year>
+<volume>10</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>2</number>
+<url>db/journals/dam/dam10.html#RibeiroM85</url>
+</article>
+</r>
+<r><article key="journals/dam/BillionnetM85" mdate="2017-05-28">
+<author>Alain Billionnet</author>
+<author>Michel Minoux</author>
+<title>Maximizing a supermodular pseudoboolean function: A polynomial algorithm for supermodular cubic functions.</title>
+<pages>1-11</pages>
+<year>1985</year>
+<volume>12</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>1</number>
+<url>db/journals/dam/dam12.html#BillionnetM85</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifip7/Minoux75" mdate="2017-05-19">
+<author>Michel Minoux</author>
+<title>Optimisation et Planification de Réseaux de Télécommunications.</title>
+<pages>419-430</pages>
+<year>1975</year>
+<crossref>conf/ifip7/1975-1</crossref>
+<booktitle>Optimization Techniques</booktitle>
+<url>db/conf/ifip7/ifip7-1975-1.html#Minoux75</url>
+</inproceedings>
+</r>
+<coauthors n="59" nc="11">
+<co c="-1"><na f="b/Barkaoui:Kamel">Kamel Barkaoui</na></co>
+<co c="4"><na f="b/Bawa:Rajesh_K=">Rajesh K. Bawa</na></co>
+<co c="-1"><na f="b/Billionnet:Alain">Alain Billionnet</na></co>
+<co c="1"><na f="b/Bonami:Pierre">Pierre Bonami</na></co>
+<co c="0"><na f="b/Boros:Endre">Endre Boros</na></co>
+<co c="3"><na f="b/Bouhtou:Mustapha">Mustapha Bouhtou</na></co>
+<co c="0"><na f="b/Boujelben:Mouna_Kchaou">Mouna Kchaou Boujelben</na></co>
+<co c="0"><na f="c/Canneyt:W=_van">W. van Canneyt</na></co>
+<co c="2"><na f="c/Ceugniet:Xavier">Xavier Ceugniet</na></co>
+<co c="0"><na f="c/Cox:Pedro">Pedro Cox</na></co>
+<co c="0"><na f="d/Dallery:Yves">Yves Dallery</na></co>
+<co c="6"><na f="d/Dodu:J=_C=">J. C. Dodu</na></co>
+<co c="4" n="2"><na f="e/Encrenaz=Tiph=egrave=ne:Emmanuelle">Emmanuelle Encrenaz-Tiphène</na><na>Emmanuelle Encrenaz</na></co>
+<co c="3"><na f="e/Erbs:Guillaume">Guillaume Erbs</na></co>
+<co c="6"><na f="e/Eve:T=">T. Eve</na></co>
+<co c="5"><na f="f/Fdida:Serge">Serge Fdida</na></co>
+<co c="10"><na f="g/Gabrel:Virginie">Virginie Gabrel</na></co>
+<co c="0"><na f="g/Gicquel:C=eacute=line">Céline Gicquel</na></co>
+<co c="-1"><na f="g/Gondran:Michel">Michel Gondran</na></co>
+<co c="0"><na f="h/Hammer:Peter_L=">Peter L. Hammer</na></co>
+<co c="0"><na f="h/Hansen:Pierre">Pierre Hansen</na></co>
+<co c="0"><na f="h/Hege:L=">L. Hege</na></co>
+<co c="0"><na f="h/Hoai=Phuong:N=_T=">N. T. Hoai-Phuong</na></co>
+<co c="0"><na f="i/Ibrahim:M=_S=">M. S. Ibrahim</na></co>
+<co c="0"><na f="i/Ibrahim:Mamane_Souley">Mamane Souley Ibrahim</na></co>
+<co c="0"><na f="i/Ierapetritou:Marianthi_G=">Marianthi G. Ierapetritou</na></co>
+<co c="0"><na f="j/Jaumard:Brigitte">Brigitte Jaumard</na></co>
+<co c="2"><na f="k/Khaled:Oumaima">Oumaima Khaled</na></co>
+<co c="1"><na f="k/Klein:Michel">Michel Klein</na></co>
+<co c="10"><na f="k/Knippel:Arnaud">Arnaud Knippel</na></co>
+<co c="9"><na f="l/Legai:Edm=eacute=e">Edmée Legai</na></co>
+<co c="7"><na f="l/Lesca:Julien">Julien Lesca</na></co>
+<co c="8"><na f="l/Lessard:R=eacute=jean">Réjean Lessard</na></co>
+<co c="0"><na f="l/Lisser:Abdel">Abdel Lisser</na></co>
+<co c="0"><na f="m/Maculan:Nelson">Nelson Maculan</na></co>
+<co c="0"><na f="m/Ma=icirc=tre:Henri">Henri Maître</na></co>
+<co c="-1"><na f="m/Mavrocordatos:P=">P. Mavrocordatos</na></co>
+<co c="3"><na f="m/Medori:Jean=Robin">Jean-Robin Medori</na></co>
+<co c="2"><na f="m/Michel:St=eacute=phane">Stéphane Michel</na></co>
+<co c="0"><na f="m/Mi=egrave=geville:N=">N. Miègeville</na></co>
+<co c="2"><na f="m/Mousseau:Vincent">Vincent Mousseau</na></co>
+<co c="1"><na f="n/Nguyen:Dang_Phuong">Dang Phuong Nguyen</na></co>
+<co c="1"><na f="n/Nguyen:Thanh_Hai">Thanh Hai Nguyen</na></co>
+<co c="5"><na f="n/Nguyen:Thi=Minh">Thi-Minh Nguyen</na></co>
+<co c="1"><na f="n/Nguyen:Viet_Hung">Viet Hung Nguyen</na></co>
+<co c="0"><na f="o/Ouzia:Hacene">Hacene Ouzia</na></co>
+<co c="7"><na f="p/Perny:Patrice">Patrice Perny</na></co>
+<co c="9"><na f="p/Pistorius:Joachim">Joachim Pistorius</na></co>
+<co c="0"><na f="r/Rader_Jr=:David_J=">David J. Rader Jr.</na></co>
+<co c="4"><na f="r/Rahim=Sarwary:Fahim">Fahim Rahim-Sarwary</na></co>
+<co c="0"><na f="r/Ribeiro:Celso_C=">Celso C. Ribeiro</na></co>
+<co c="8"><na f="r/Rousseau:Jean=Marc">Jean-Marc Rousseau</na></co>
+<co c="0"><na f="s/Saharidis:Georgios_K=_D=">Georgios K. D. Saharidis</na></co>
+<co c="0"><na f="s/Siohan:Pierre">Pierre Siohan</na></co>
+<co c="1"><na f="s/Sirdey:Renaud">Renaud Sirdey</na></co>
+<co c="0"><na f="t/Tuy:Hoang">Hoang Tuy</na></co>
+<co c="0"><na f="w/Wolsey:Laurence_A=">Laurence A. Wolsey</na></co>
+<co c="-1"><na f="z/Zeghal:F=_M=">F. M. Zeghal</na></co>
+<co c="0"><na f="z/Zorgati:Riadh">Riadh Zorgati</na></co>
+</coauthors>
+</dblpperson>
+

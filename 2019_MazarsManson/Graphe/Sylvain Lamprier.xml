@@ -1,0 +1,659 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Sylvain Lamprier" n="50">
+<person key="homepages/28/4095" mdate="2009-06-10">
+<author>Sylvain Lamprier</author>
+</person>
+<r><article key="journals/datamine/LamprierGG19" mdate="2019-10-19">
+<author orcid="0000-0002-2508-922X">Sylvain Lamprier</author>
+<author>Thibault Gisselbrecht</author>
+<author>Patrick Gallinari</author>
+<title>Contextual bandits with hidden contexts: a focused data capture from social media streams.</title>
+<pages>1853-1893</pages>
+<year>2019</year>
+<volume>33</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>6</number>
+<url>db/journals/datamine/datamine33.html#LamprierGG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/emnlp/ScialomLPS19" mdate="2019-12-12">
+<author>Thomas Scialom</author>
+<author>Sylvain Lamprier</author>
+<author>Benjamin Piwowarski</author>
+<author>Jacopo Staiano</author>
+<title>Answers Unite! Unsupervised Metrics for Reinforced Summarization Models.</title>
+<pages>3244-3254</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1320</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#ScialomLPS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/Lamprier19" mdate="2019-06-11">
+<author>Sylvain Lamprier</author>
+<title>A Recurrent Neural Cascade-based Model for Continuous-Time Diffusion.</title>
+<pages>3632-3641</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lamprier19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Lamprier19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iconip/DelasallesLD19" mdate="2019-12-19">
+<author orcid="0000-0002-1571-9910">Edouard Delasalles</author>
+<author>Sylvain Lamprier</author>
+<author>Ludovic Denoyer</author>
+<title>Dynamic Neural Language Models.</title>
+<pages>282-294</pages>
+<year>2019</year>
+<booktitle>ICONIP (3)</booktitle>
+<crossref>conf/iconip/2019-3</crossref>
+<url>db/conf/iconip/iconip2019-3.html#DelasallesLD19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-01610" mdate="2019-09-16">
+<author>Thomas Scialom</author>
+<author>Sylvain Lamprier</author>
+<author>Benjamin Piwowarski</author>
+<author>Jacopo Staiano</author>
+<title>Answers Unite! Unsupervised Metrics for Reinforced Summarization Models.</title>
+<year>2019</year>
+<volume>abs/1909.01610</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.01610</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-01610</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-04985" mdate="2019-09-17">
+<author>Edouard Delasalles</author>
+<author>Sylvain Lamprier</author>
+<author>Ludovic Denoyer</author>
+<title>Learning Dynamic Author Representations with Temporal Language Models.</title>
+<year>2019</year>
+<volume>abs/1909.04985</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.04985</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-04985</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-04929" mdate="2019-12-02">
+<author>Vincent Grari</author>
+<author>Boris Ruf</author>
+<author>Sylvain Lamprier</author>
+<author>Marcin Detyniecki</author>
+<title>Fairness-Aware Neural Réyni Minimization for Continuous Features.</title>
+<year>2019</year>
+<volume>abs/1911.04929</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.04929</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-04929</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-05369" mdate="2019-12-02">
+<author>Vincent Grari</author>
+<author>Boris Ruf</author>
+<author>Sylvain Lamprier</author>
+<author>Marcin Detyniecki</author>
+<title>Fair Adversarial Gradient Tree Boosting.</title>
+<year>2019</year>
+<volume>abs/1911.05369</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.05369</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-05369</url>
+</article>
+</r>
+<r><article key="journals/dn/BourigaultLG18" mdate="2019-07-26">
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Détection de sources de diffusion par apprentissage de représentations distribuées.</title>
+<pages>11-31</pages>
+<year>2018</year>
+<volume>21</volume>
+<journal>Document Numérique</journal>
+<number>3</number>
+<url>db/journals/dn/dn21.html#BourigaultLG18</url>
+</article>
+</r>
+<r><article key="journals/jmlr/LamprierGG18" mdate="2019-07-10">
+<author>Sylvain Lamprier</author>
+<author>Thibault Gisselbrecht</author>
+<author>Patrick Gallinari</author>
+<title>Profile-Based Bandit with Unknown Profiles.</title>
+<year>2018</year>
+<volume>19</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v19/17-693.html</ee>
+<url>db/journals/jmlr/jmlr19.html#LamprierGG18</url>
+<pages>53:1-53:40</pages>
+</article>
+</r>
+<r><inproceedings key="conf/coria/DelasallesLD18" mdate="2018-10-26">
+<author>Edouard Delasalles</author>
+<author>Sylvain Lamprier</author>
+<author>Ludovic Denoyer</author>
+<title>Apprentissage de l'évolution langagière dans des communautés d'auteurs.</title>
+<year>2018</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2018</crossref>
+<url>db/conf/coria/coria2018.html#DelasallesLD18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-10962" mdate="2019-01-02">
+<author>Sylvain Lamprier</author>
+<title>A Variational Topological Neural Model for Cascade-based Diffusion in Networks.</title>
+<year>2018</year>
+<volume>abs/1812.10962</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.10962</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-10962</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/BourigaultLG17" mdate="2017-05-08">
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage de représentation pour la détection de source dans les réseaux sociaux.</title>
+<pages>235-250</pages>
+<year>2017</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2017</crossref>
+<url>db/conf/coria/coria2017.html#BourigaultLG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/LamprierGG17" mdate="2018-01-02">
+<author>Sylvain Lamprier</author>
+<author>Thibault Gisselbrecht</author>
+<author>Patrick Gallinari</author>
+<title>Variational Thompson Sampling for Relational Recurrent Bandits.</title>
+<pages>405-421</pages>
+<year>2017</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<crossref>conf/pkdd/2017-2</crossref>
+<url>db/conf/pkdd/pkdd2017-2.html#LamprierGG17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/coria/2017" mdate="2018-10-26">
+<editor>Jian-Yun Nie</editor>
+<editor>Sylvain Lamprier</editor>
+<title>COnférence en Recherche d'Informations et Applications - CORIA 2017, 14th French Information Retrieval Conference, Marseille, France, March 29-31, 2017. Proceedings.</title>
+<booktitle>CORIA</booktitle>
+<publisher>ARIA</publisher>
+<year>2017</year>
+<isbn>978-2-9556434-0-2</isbn>
+<url>db/conf/coria/coria2017.html</url>
+</proceedings>
+</r>
+<r><article key="journals/dn/GisselbrechtLG16" mdate="2017-05-27">
+<author>Thibault Gisselbrecht</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Collecte ciblée à partir de flux de données en ligne dans les médias sociaux. Une approche de bandit contextuel.</title>
+<pages>11-30</pages>
+<year>2016</year>
+<volume>19</volume>
+<journal>Document Numérique</journal>
+<number>2-3</number>
+<url>db/journals/dn/dn19.html#GisselbrechtLG16</url>
+</article>
+</r>
+<r><article key="journals/dn/BourigaultLG16" mdate="2017-05-27">
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage de représentations pour la modélisation de processus de diffusion dans les réseaux sociaux.</title>
+<pages>31-52</pages>
+<year>2016</year>
+<volume>19</volume>
+<journal>Document Numérique</journal>
+<number>2-3</number>
+<url>db/journals/dn/dn19.html#BourigaultLG16</url>
+</article>
+</r>
+<r><article key="journals/snam/LamprierBG16" mdate="2017-05-27">
+<author>Sylvain Lamprier</author>
+<author>Simon Bourigault</author>
+<author>Patrick Gallinari</author>
+<title>Influence learning for cascade diffusion models: focus on partial orders of infections.</title>
+<pages>93:1-93:16</pages>
+<year>2016</year>
+<volume>6</volume>
+<journal>Social Netw. Analys. Mining</journal>
+<number>1</number>
+<url>db/journals/snam/snam6.html#LamprierBG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/GisselbrechtLG16" mdate="2017-05-08">
+<author>Thibault Gisselbrecht</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Bandit contextuel pour la capture de données temps réel sur les médias sociaux.</title>
+<pages>57-72</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#GisselbrechtLG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/BourigaultLG16" mdate="2017-05-08">
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage de représentations probabilistes pour la prédiction de diffusions d'informations sur les réseaux sociaux.</title>
+<pages>89-104</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#BourigaultLG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/DespresLP16" mdate="2017-05-08">
+<author>Nicolas Desprès</author>
+<author>Sylvain Lamprier</author>
+<author>Benjamin Piwowarski</author>
+<title>Apprentissage de modèles de langue neuronaux pour la recherche d'information.</title>
+<pages>717-732</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#DespresLP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/GisselbrechtLG16" mdate="2016-05-22">
+<author>Thibault Gisselbrecht</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Dynamic Data Capture from Social Media Streams: A Contextual Bandit Approach.</title>
+<pages>131-140</pages>
+<year>2016</year>
+<booktitle>ICWSM</booktitle>
+<crossref>conf/icwsm/2016</crossref>
+<url>db/conf/icwsm/icwsm2016.html#GisselbrechtLG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/BourigaultLG16" mdate="2017-05-22">
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Learning Distributed Representations of Users for Source Detection in Online Social Networks.</title>
+<pages>265-281</pages>
+<year>2016</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<crossref>conf/pkdd/2016-2</crossref>
+<url>db/conf/pkdd/pkdd2016-2.html#BourigaultLG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/GisselbrechtLG16" mdate="2017-05-22">
+<author>Thibault Gisselbrecht</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Linear Bandits in Unknown Environments.</title>
+<pages>282-298</pages>
+<year>2016</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<crossref>conf/pkdd/2016-2</crossref>
+<url>db/conf/pkdd/pkdd2016-2.html#GisselbrechtLG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/BourigaultLG16" mdate="2018-11-06">
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Representation Learning for Information Diffusion through Social Networks: an Embedded Cascade Model.</title>
+<pages>573-582</pages>
+<year>2016</year>
+<booktitle>WSDM</booktitle>
+<crossref>conf/wsdm/2016</crossref>
+<url>db/conf/wsdm/wsdm2016.html#BourigaultLG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/dn/GisselbrechtDGL15" mdate="2017-05-27">
+<author>Thibault Gisselbrecht</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<author>Sylvain Lamprier</author>
+<title>Apprentissage en temps réel pour la collecte d'information dans les réseaux sociaux.</title>
+<pages>39-58</pages>
+<year>2015</year>
+<volume>18</volume>
+<journal>Document Numérique</journal>
+<number>2-3</number>
+<url>db/journals/dn/dn18.html#GisselbrechtDGL15</url>
+</article>
+</r>
+<r><article key="journals/infsof/LamprierBZH15" mdate="2017-05-17">
+<author>Sylvain Lamprier</author>
+<author>Nicolas Baskiotis</author>
+<author>Tewfik Ziadi</author>
+<author>Lom-Messan Hillah</author>
+<title>The CARE platform for the analysis of behavior model inference techniques.</title>
+<pages>32-50</pages>
+<year>2015</year>
+<volume>60</volume>
+<journal>Information and Software Technology</journal>
+<url>db/journals/infsof/infsof60.html#LamprierBZH15</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/LamprierBG15" mdate="2018-11-06">
+<author>Sylvain Lamprier</author>
+<author>Simon Bourigault</author>
+<author>Patrick Gallinari</author>
+<title>Extracting Diffusion Channels from Real-World Social Data: a Delay-Agnostic Learning of Transmission Probabilities.</title>
+<pages>178-185</pages>
+<year>2015</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2015</crossref>
+<url>db/conf/asunam/asonam2015.html#LamprierBG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/GisselbrechtDGL15" mdate="2017-05-08">
+<author>Thibault Gisselbrecht</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<author>Sylvain Lamprier</author>
+<title>Apprentissage en temps réel pour la collecte d'information dans les réseaux sociaux.</title>
+<pages>7-22</pages>
+<year>2015</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2015</crossref>
+<url>db/conf/coria/coria2015.html#GisselbrechtDGL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/GisselbrechtLG15" mdate="2017-05-26">
+<author>Thibault Gisselbrecht</author>
+<author>Sylvain Lamprier</author>
+<author>Patrick Gallinari</author>
+<title>Policies for Contextual Bandit Problems with Count Payoffs.</title>
+<pages>542-549</pages>
+<year>2015</year>
+<booktitle>ICTAI</booktitle>
+<crossref>conf/ictai/2015</crossref>
+<url>db/conf/ictai/ictai2015.html#GisselbrechtLG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/GisselbrechtDGL15" mdate="2015-06-12">
+<author>Thibault Gisselbrecht</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<author>Sylvain Lamprier</author>
+<title>WhichStreams: A Dynamic Approach for Focused Data Capture from Large Social Media.</title>
+<pages>130-139</pages>
+<year>2015</year>
+<booktitle>ICWSM</booktitle>
+<crossref>conf/icwsm/2015</crossref>
+<url>db/conf/icwsm/icwsm2015.html#GisselbrechtDGL15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PiwowarskiLD15" mdate="2018-08-13">
+<author>Benjamin Piwowarski</author>
+<author>Sylvain Lamprier</author>
+<author>Nicolas Desprès</author>
+<title>Parameterized Neural Network Language Models for Information Retrieval.</title>
+<year>2015</year>
+<volume>abs/1510.01562</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1510.01562</ee>
+<url>db/journals/corr/corr1510.html#PiwowarskiLD15</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/BourigaultLDG14" mdate="2017-05-08">
+<author>Simon Bourigault</author>
+<author>Cédric Lagnier</author>
+<author>Sylvain Lamprier</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Apprentissage de représentation pour la diffusion d'Information dans les réseaux sociaux.</title>
+<pages>155-170</pages>
+<year>2014</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2014</crossref>
+<url>db/conf/coria/coria2014.html#BourigaultLDG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/LamprierZBH14" mdate="2017-05-26">
+<author>Sylvain Lamprier</author>
+<author>Tewfik Ziadi</author>
+<author>Nicolas Baskiotis</author>
+<author>Lom-Messan Hillah</author>
+<title>Exact and Efficient Temporal Steering of Software Behavioral Model Inference.</title>
+<pages>166-175</pages>
+<year>2014</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2014</crossref>
+<url>db/conf/iceccs/iceccs2014.html#LamprierZBH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/BourigaultLLDG14" mdate="2018-11-06">
+<author>Simon Bourigault</author>
+<author>Cédric Lagnier</author>
+<author>Sylvain Lamprier</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Learning social network embeddings for predicting information diffusion.</title>
+<pages>393-402</pages>
+<year>2014</year>
+<booktitle>WSDM</booktitle>
+<crossref>conf/wsdm/2014</crossref>
+<url>db/conf/wsdm/wsdm2014.html#BourigaultLLDG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/LagnierBLDG13" mdate="2019-07-25">
+<author>Cédric Lagnier</author>
+<author>Simon Bourigault</author>
+<author>Sylvain Lamprier</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Learning Information Spread in Content Networks.</title>
+<year>2014</year>
+<crossref>conf/iclr/2014w</crossref>
+<booktitle>ICLR (Workshop Poster)</booktitle>
+<ee type="oa">http://arxiv.org/abs/1312.6169</ee>
+<url>db/conf/iclr/iclr2014w.html#LagnierBLDG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/LamprierBZH13" mdate="2017-05-26">
+<author>Sylvain Lamprier</author>
+<author>Nicolas Baskiotis</author>
+<author>Tewfik Ziadi</author>
+<author>Lom-Messan Hillah</author>
+<title>CARE: A Platform for Reliable Comparison and Analysis of Reverse-Engineering Techniques.</title>
+<pages>252-255</pages>
+<year>2013</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2013</crossref>
+<url>db/conf/iceccs/iceccs2013.html#LamprierBZH13</url>
+</inproceedings>
+</r>
+<r><article key="journals/dn/LamprierALS10" mdate="2017-05-27">
+<author>Sylvain Lamprier</author>
+<author>Tassadit Amghar</author>
+<author>Bernard Levrat</author>
+<author>Frédéric Saubion</author>
+<title>Organiser les résultats d'une recherche d'information. Clustering, répartition de l'information et facilité d'accès.</title>
+<pages>9-39</pages>
+<year>2010</year>
+<volume>13</volume>
+<journal>Document Numérique</journal>
+<number>1</number>
+<url>db/journals/dn/dn13.html#LamprierALS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/LamprierASL10" mdate="2018-11-06">
+<author>Sylvain Lamprier</author>
+<author>Tassadit Amghar</author>
+<author>Frédéric Saubion</author>
+<author>Bernard Levrat</author>
+<title>Traveling among clusters: a way to reconsider the benefits of the cluster hypothesis.</title>
+<pages>1774-1780</pages>
+<year>2010</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2010</crossref>
+<url>db/conf/sac/sac2010.html#LamprierASL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LamprierASL10a" mdate="2018-11-06">
+<author>Sylvain Lamprier</author>
+<author>Tassadit Amghar</author>
+<author>Frédéric Saubion</author>
+<author>Bernard Levrat</author>
+<title>Query-oriented clustering: a multi-objective approach.</title>
+<pages>1789-1795</pages>
+<year>2010</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2010</crossref>
+<url>db/conf/sac/sac2010.html#LamprierASL10a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/LamprierALS09" mdate="2017-05-08">
+<author>Sylvain Lamprier</author>
+<author>Tassadit Amghar</author>
+<author>Bernard Levrat</author>
+<author>Frédéric Saubion</author>
+<title>Clustering en recherche d'information : concentration vs distribution de l'information pertinente.</title>
+<pages>115-130</pages>
+<year>2009</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2009</crossref>
+<url>db/conf/coria/coria2009.html#LamprierALS09</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Lamprier08" mdate="2016-07-15">
+<author>Sylvain Lamprier</author>
+<title>Vers la conception de documents composites : extraction et organisation de l'information pertinente. (Toward composite documents conception : extraction and organisation of relevant information).</title>
+<year>2008</year>
+<school>University of Angers, France</school>
+</phdthesis>
+</r>
+<r><article key="journals/aai/LamprierALS08" mdate="2017-05-17">
+<author>Sylvain Lamprier</author>
+<author>Tassadit Amghar</author>
+<author>Bernard Levrat</author>
+<author>Frédéric Saubion</author>
+<title>Toward a More Global and Coherent Segmentation of Texts.</title>
+<pages>208-234</pages>
+<year>2008</year>
+<volume>22</volume>
+<journal>Applied Artificial Intelligence</journal>
+<number>3</number>
+<url>db/journals/aai/aai22.html#LamprierALS08</url>
+</article>
+</r>
+<r><article key="journals/jucs/LamprierALS08" mdate="2017-05-17">
+<author>Sylvain Lamprier</author>
+<author>Tassadit Amghar</author>
+<author>Bernard Levrat</author>
+<author>Frédéric Saubion</author>
+<title>Using an Evolving Thematic Clustering in a Text Segmentation Process.</title>
+<pages>178-192</pages>
+<year>2008</year>
+<volume>14</volume>
+<journal>J. UCS</journal>
+<number>2</number>
+<url>db/journals/jucs/jucs14.html#LamprierALS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/aimsa/LamprierALS08" mdate="2017-05-21">
+<author>Sylvain Lamprier</author>
+<author>Tassadit Amghar</author>
+<author>Bernard Levrat</author>
+<author>Frédéric Saubion</author>
+<title>Using Text Segmentation to Enhance the Cluster Hypothesis.</title>
+<pages>69-82</pages>
+<year>2008</year>
+<booktitle>AIMSA</booktitle>
+<crossref>conf/aimsa/2008</crossref>
+<url>db/conf/aimsa/aimsa2008.html#LamprierALS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aimsa/LamprierALS08a" mdate="2017-05-21">
+<author>Sylvain Lamprier</author>
+<author>Tassadit Amghar</author>
+<author>Bernard Levrat</author>
+<author>Frédéric Saubion</author>
+<title>Thematic Segment Retrieval Revisited.</title>
+<pages>157-166</pages>
+<year>2008</year>
+<booktitle>AIMSA</booktitle>
+<crossref>conf/aimsa/2008</crossref>
+<url>db/conf/aimsa/aimsa2008.html#LamprierALS08a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/LamprierALS07" mdate="2017-09-18">
+<author>Sylvain Lamprier</author>
+<author>Tassadit Amghar</author>
+<author>Bernard Levrat</author>
+<author>Frédéric Saubion</author>
+<title>Document Length Normalization by Statistical Regression.</title>
+<pages>11-18</pages>
+<year>2007</year>
+<crossref>conf/ictai/2007-2</crossref>
+<booktitle>ICTAI (2)</booktitle>
+<url>db/conf/ictai/ictai2007-2.html#LamprierALS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/LamprierALS07a" mdate="2017-09-18">
+<author>Sylvain Lamprier</author>
+<author>Tassadit Amghar</author>
+<author>Bernard Levrat</author>
+<author>Frédéric Saubion</author>
+<title>On Evaluation Methodologies for Text Segmentation Algorithms.</title>
+<pages>19-26</pages>
+<year>2007</year>
+<crossref>conf/ictai/2007-2</crossref>
+<booktitle>ICTAI (2)</booktitle>
+<url>db/conf/ictai/ictai2007-2.html#LamprierALS07a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/LamprierALS07" mdate="2019-08-20">
+<author>Sylvain Lamprier</author>
+<author>Tassadit Amghar</author>
+<author>Bernard Levrat</author>
+<author>Frédéric Saubion</author>
+<title>SegGen: A Genetic Algorithm for Linear Text Segmentation.</title>
+<pages>1647-1652</pages>
+<year>2007</year>
+<crossref>conf/ijcai/2007</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/07/Papers/266.pdf</ee>
+<url>db/conf/ijcai/ijcai2007.html#LamprierALS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LamprierALS07" mdate="2018-11-06">
+<author>Sylvain Lamprier</author>
+<author>Tassadit Amghar</author>
+<author>Bernard Levrat</author>
+<author>Frédéric Saubion</author>
+<title>ClassStruggle: a clustering based text segmentation.</title>
+<pages>600-604</pages>
+<year>2007</year>
+<crossref>conf/sac/2007</crossref>
+<booktitle>SAC</booktitle>
+<url>db/conf/sac/sac2007.html#LamprierALS07</url>
+</inproceedings>
+</r>
+<coauthors n="20" nc="2">
+<co c="1"><na f="a/Amghar:Tassadit">Tassadit Amghar</na></co>
+<co c="0"><na f="b/Baskiotis:Nicolas">Nicolas Baskiotis</na></co>
+<co c="0"><na f="b/Bourigault:Simon">Simon Bourigault</na></co>
+<co c="0"><na f="d/Delasalles:Edouard">Edouard Delasalles</na></co>
+<co c="0"><na f="d/Denoyer:Ludovic">Ludovic Denoyer</na></co>
+<co c="0"><na f="d/Despr=egrave=s:Nicolas">Nicolas Desprès</na></co>
+<co c="0"><na f="d/Detyniecki:Marcin">Marcin Detyniecki</na></co>
+<co c="0"><na f="g/Gallinari:Patrick">Patrick Gallinari</na></co>
+<co c="0"><na f="g/Gisselbrecht:Thibault">Thibault Gisselbrecht</na></co>
+<co c="0"><na f="g/Grari:Vincent">Vincent Grari</na></co>
+<co c="0"><na f="h/Hillah:Lom=Messan">Lom-Messan Hillah</na></co>
+<co c="0"><na f="l/Lagnier:C=eacute=dric">Cédric Lagnier</na></co>
+<co c="1"><na f="l/Levrat:Bernard">Bernard Levrat</na></co>
+<co c="0"><na f="n/Nie:Jian=Yun">Jian-Yun Nie</na></co>
+<co c="0"><na f="p/Piwowarski:Benjamin">Benjamin Piwowarski</na></co>
+<co c="0"><na f="r/Ruf:Boris">Boris Ruf</na></co>
+<co c="1"><na f="s/Saubion:Fr=eacute=d=eacute=ric">Frédéric Saubion</na></co>
+<co c="0"><na f="s/Scialom:Thomas">Thomas Scialom</na></co>
+<co c="0"><na f="s/Staiano:Jacopo">Jacopo Staiano</na></co>
+<co c="0"><na f="z/Ziadi:Tewfik">Tewfik Ziadi</na></co>
+</coauthors>
+</dblpperson>
+

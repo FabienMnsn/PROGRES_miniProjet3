@@ -1,0 +1,653 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Stéphane Gançarski" n="49">
+<person key="homepages/g/StephaneGancarski" mdate="2016-03-03">
+<author>Stéphane Gançarski</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www-poleia.lip6.fr/%7Egancarsk/index.html</url>
+</person>
+<r><inproceedings key="conf/adbis/SanojaG17" mdate="2017-09-15">
+<author>Andrés Sanoja</author>
+<author>Stéphane Gançarski</author>
+<title>Migrating Web Archives from HTML4 to HTML5: A Block-Based Approach and Its Evaluation.</title>
+<pages>375-393</pages>
+<year>2017</year>
+<booktitle>ADBIS</booktitle>
+<crossref>conf/adbis/2017</crossref>
+<url>db/conf/adbis/adbis2017.html#SanojaG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/LawTGC15" mdate="2017-05-08">
+<author>Marc Teva Law</author>
+<author>Nicolas Thome</author>
+<author>Stéphane Gançarski</author>
+<author>Matthieu Cord</author>
+<title>Apprentissage de métrique appliqué à la détection de changement de page Web et aux attributs relatifs.</title>
+<pages>223-238</pages>
+<year>2015</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2015</crossref>
+<url>db/conf/coria/coria2015.html#LawTGC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/SanojaG15" mdate="2018-11-06">
+<author>Andrés Sanoja</author>
+<author>Stéphane Gançarski</author>
+<title>Web page segmentation evaluation.</title>
+<pages>753-760</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#SanojaG15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PehlivanPG13" mdate="2018-08-13">
+<author>Zeynep Pehlivan</author>
+<author>Benjamin Piwowarski</author>
+<author>Stéphane Gançarski</author>
+<title>Diversification Based Static Index Pruning - Application to Temporal Collections.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1308.4839</ee>
+<volume>abs/1308.4839</volume>
+<url>db/journals/corr/corr1308.html#PehlivanPG13</url>
+</article>
+</r>
+<r><article key="journals/jodl/SaadG12" mdate="2017-05-17">
+<author>Myriam Ben Saad</author>
+<author>Stéphane Gançarski</author>
+<title>Archiving the web using page changes patterns: a case study.</title>
+<pages>33-49</pages>
+<year>2012</year>
+<volume>13</volume>
+<journal>Int. J. on Digital Libraries</journal>
+<number>1</number>
+<url>db/journals/jodl/jodl13.html#SaadG12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbmi/LawGTG12" mdate="2019-07-24">
+<author>Marc T. Law</author>
+<author>Carlos Sureda Gutierrez</author>
+<author>Nicolas Thome</author>
+<author>Stéphane Gançarski</author>
+<title>Structural and visual similarity learning for Web page archiving.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>CBMI</booktitle>
+<crossref>conf/cbmi/2012</crossref>
+<url>db/conf/cbmi/cbmi2012.html#LawGTG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/LawTGC12" mdate="2018-11-06">
+<author>Marc Teva Law</author>
+<author>Nicolas Thome</author>
+<author>Stéphane Gançarski</author>
+<author>Matthieu Cord</author>
+<title>Structural and visual comparisons for web page archiving.</title>
+<pages>117-120</pages>
+<year>2012</year>
+<booktitle>ACM Symposium on Document Engineering</booktitle>
+<crossref>conf/doceng/2012</crossref>
+<url>db/conf/doceng/doceng2012.html#LawTGC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/SaadG11" mdate="2017-05-26">
+<author>Myriam Ben Saad</author>
+<author>Stéphane Gançarski</author>
+<title>Improving the Quality of Web Archives through the Importance of Changes.</title>
+<pages>394-409</pages>
+<year>2011</year>
+<booktitle>DEXA (1)</booktitle>
+<crossref>conf/dexa/2011-1</crossref>
+<url>db/conf/dexa/dexa2011-1.html#SaadG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ercimdl/SaadPG11" mdate="2017-05-26">
+<author>Myriam Ben Saad</author>
+<author>Zeynep Pehlivan</author>
+<author>Stéphane Gançarski</author>
+<title>Coherence-Oriented Crawling and Navigation Using Patterns for Web Archives.</title>
+<pages>421-433</pages>
+<year>2011</year>
+<booktitle>TPDL</booktitle>
+<crossref>conf/ercimdl/2011</crossref>
+<url>db/conf/ercimdl/tpdl2011.html#SaadPG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcdl/SaadG11" mdate="2018-11-06">
+<author>Myriam Ben Saad</author>
+<author>Stéphane Gançarski</author>
+<title>Archiving the web using page changes patterns: a case study.</title>
+<pages>113-122</pages>
+<year>2011</year>
+<booktitle>JCDL</booktitle>
+<crossref>conf/jcdl/2011</crossref>
+<url>db/conf/jcdl/jcdl2011.html#SaadG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/PehlivanDG11" mdate="2019-05-28">
+<author>Zeynep Pehlivan</author>
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<title>Changing Vision for Access to Web Archives.</title>
+<pages>41-48</pages>
+<year>2011</year>
+<booktitle>TWAW</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-707/TWAW2011-paper6.pdf</ee>
+<crossref>conf/www/2011ldow</crossref>
+<url>db/conf/www/twaw2011.html#PehlivanDG11</url>
+</inproceedings>
+</r>
+<r><article key="journals/isi/SarrNG10" mdate="2019-10-19">
+<author orcid="0000-0001-8581-6081">Idrissa Sarr</author>
+<author>Hubert Naacke</author>
+<author>Stéphane Gançarski</author>
+<title>Routage décentralisé de transactions avec gestion des pannes dans un réseau à large échelle.</title>
+<pages>87-111</pages>
+<year>2010</year>
+<volume>15</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>1</number>
+<url>db/journals/isi/isi15.html#SarrNG10</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbkda/SarrNG10" mdate="2019-10-19">
+<author orcid="0000-0001-8581-6081">Idrissa Sarr</author>
+<author>Hubert Naacke</author>
+<author>Stéphane Gançarski</author>
+<title>Failure-Tolerant Transaction Routing at Large Scale.</title>
+<pages>165-172</pages>
+<year>2010</year>
+<booktitle>DBKDA</booktitle>
+<crossref>conf/dbkda/2010</crossref>
+<url>db/conf/dbkda/dbkda2010.html#SarrNG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/PehlivanSG10" mdate="2017-05-26">
+<author>Zeynep Pehlivan</author>
+<author>Myriam Ben Saad</author>
+<author>Stéphane Gançarski</author>
+<title>Vi-DIFF: Understanding Web Pages Changes.</title>
+<pages>1-15</pages>
+<year>2010</year>
+<booktitle>DEXA (1)</booktitle>
+<crossref>conf/dexa/2010-1</crossref>
+<url>db/conf/dexa/dexa2010-1.html#PehlivanSG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbtw/SaadG10" mdate="2018-11-06">
+<author>Myriam Ben Saad</author>
+<author>Stéphane Gançarski</author>
+<title>Using visual pages analysis for optimizing web archiving.</title>
+<year>2010</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<crossref>conf/edbtw/2010</crossref>
+<url>db/conf/edbtw/edbtw2010.html#SaadG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/SarrNG10" mdate="2019-10-19">
+<author orcid="0000-0001-8581-6081">Idrissa Sarr</author>
+<author>Hubert Naacke</author>
+<author>Stéphane Gançarski</author>
+<title>TransPeer: adaptive distributed transaction monitoring for Web2.0 applications.</title>
+<pages>423-430</pages>
+<year>2010</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2010</crossref>
+<url>db/conf/sac/sac2010.html#SarrNG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vecpar/SarrNG08" mdate="2019-10-19">
+<author orcid="0000-0001-8581-6081">Idrissa Sarr</author>
+<author>Hubert Naacke</author>
+<author>Stéphane Gançarski</author>
+<title>DTR: Distributed Transaction Routing in a Large Scale Network.</title>
+<pages>521-531</pages>
+<year>2008</year>
+<booktitle>VECPAR</booktitle>
+<crossref>conf/vecpar/2008</crossref>
+<url>db/conf/vecpar/vecpar2008.html#SarrNG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wstst/BerrabahGCP08" mdate="2018-11-06">
+<author>Djamel Berrabah</author>
+<author>Stéphane Gançarski</author>
+<author>Sarah Kaddour Chikh</author>
+<author>Cécile Le Pape</author>
+<title>Optimistic path-based concurrency control over XML documents.</title>
+<pages>390-396</pages>
+<year>2008</year>
+<booktitle>CSTST</booktitle>
+<crossref>conf/wstst/2008</crossref>
+<url>db/conf/wstst/cstst2008.html#BerrabahGCP08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbt/2008damap" mdate="2008-06-17">
+<editor>Anne Doucet</editor>
+<editor>Stéphane Gançarski</editor>
+<editor>Esther Pacitti</editor>
+<title>Proceedings of the 2008 International Workshop on Data Management in Peer-to-Peer Systems, DaMaP 2008, Nantes, France, March 25, 2008</title>
+<year>2008</year>
+<booktitle>DaMaP</booktitle>
+<series href="db/series/aicps/index.html">ACM International Conference Proceeding Series</series>
+<publisher>ACM</publisher>
+<url>db/conf/edbt/damap2008.html</url>
+</proceedings>
+</r>
+<r><article key="journals/is/GancarskiNPV07" mdate="2017-05-20">
+<author>Stéphane Gançarski</author>
+<author>Hubert Naacke</author>
+<author>Esther Pacitti</author>
+<author>Patrick Valduriez</author>
+<title>The leganet system: Freshness-aware transaction routing in a database cluster.</title>
+<pages>320-343</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>Inf. Syst.</journal>
+<number>2</number>
+<url>db/journals/is/is32.html#GancarskiNPV07</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexaw/GancarskiPG07" mdate="2017-05-24">
+<author>Stéphane Gançarski</author>
+<author>Cécile Le Pape</author>
+<author>Alda Lopes Gançarski</author>
+<title>Freshness Control of XML Documents for Query Load Balancing.</title>
+<pages>35-39</pages>
+<year>2007</year>
+<crossref>conf/dexaw/2007</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<url>db/conf/dexaw/dexaw2007.html#GancarskiPG07</url>
+</inproceedings>
+</r>
+<r><article key="journals/cleiej/GancarskiLNRS06" mdate="2019-05-21">
+<author>Stéphane Gançarski</author>
+<author>Claudia León</author>
+<author>Hubert Naacke</author>
+<author>Marta Rukoz</author>
+<author>Pablo Santini</author>
+<title>Integrity Constraint Checking in Distributed Nested Transactions over a Database Cluster.</title>
+<year>2006</year>
+<volume>9</volume>
+<journal>CLEI Electron. J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.9.2.2</ee>
+<url>db/journals/cleiej/cleiej9.html#GancarskiLNRS06</url>
+</article>
+</r>
+<r><article key="journals/entcs/LumineauDG06" mdate="2017-05-28">
+<author>Nicolas Lumineau</author>
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<title>Thematic Schema Building for Mediation-based Peer-to-Peer Architecture.</title>
+<pages>21-36</pages>
+<year>2006</year>
+<volume>150</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<number>2</number>
+<url>db/journals/entcs/entcs150.html#LumineauDG06</url>
+</article>
+</r>
+<r><inproceedings key="conf/vecpar/PapeG06" mdate="2017-05-26">
+<author>Cécile Le Pape</author>
+<author>Stéphane Gançarski</author>
+<title>Replica Refresh Strategies in a Database Cluster.</title>
+<pages>679-691</pages>
+<year>2006</year>
+<crossref>conf/vecpar/2006</crossref>
+<booktitle>VECPAR</booktitle>
+<url>db/conf/vecpar/vecpar2006.html#PapeG06</url>
+</inproceedings>
+</r>
+<r><article key="journals/jdim/PapeGV05" mdate="2011-01-25">
+<author>Cécile Le Pape</author>
+<author>Stéphane Gançarski</author>
+<author>Patrick Valduriez</author>
+<title>Data Quality Management in a Database Cluster with Lazy Replication.</title>
+<pages>82-87</pages>
+<year>2005</year>
+<volume>3</volume>
+<journal>JDIM</journal>
+<number>2</number>
+<url>db/journals/jdim/jdim3.html#PapeGV05</url>
+</article>
+</r>
+<r><inproceedings key="conf/bda/PapeGV05" mdate="2006-07-05">
+<author>Cécile Le Pape</author>
+<author>Stéphane Gançarski</author>
+<author>Patrick Valduriez</author>
+<title>Replica Refresh Strategies in a Database Cluster.</title>
+<year>2005</year>
+<crossref>conf/bda/2005</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2005.html#PapeGV05</url>
+</inproceedings>
+</r>
+<r><article key="journals/isi/PapeG04" mdate="2017-05-28">
+<author>Cécile Le Pape</author>
+<author>Stéphane Gançarski</author>
+<title>Fraîcheur et validité de données répliquées dans des environnements transactionnels.</title>
+<pages>163-183</pages>
+<year>2004</year>
+<volume>9</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>5-6</number>
+<url>db/journals/isi/isi9.html#PapeG04</url>
+</article>
+</r>
+<r><article key="journals/sigmod/BernardBBCCDFGGMPRSV04" mdate="2019-10-19">
+<author>Guy Bernard</author>
+<author>Jalel Ben-Othman</author>
+<author>Luc Bouganim</author>
+<author>Gérôme Canals</author>
+<author>Sophie Chabridon</author>
+<author orcid="0000-0001-7637-973X">Bruno Defude</author>
+<author>Jean Ferrié</author>
+<author>Stéphane Gançarski</author>
+<author>Rachid Guerraoui</author>
+<author>Pascal Molli</author>
+<author>Philippe Pucheral</author>
+<author>Claudia Roncancio</author>
+<author>Patricia Serrano-Alvarado</author>
+<author>Patrick Valduriez</author>
+<title>Mobile Databases: a Selection of Open Issues and Research Directions.</title>
+<pages>78-83</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Record</journal>
+<number>2</number>
+<url>db/journals/sigmod/sigmod33.html#BernardBBCCDFGGMPRSV04</url>
+</article>
+</r>
+<r><inproceedings key="conf/bda/PapeGV04" mdate="2006-07-04">
+<author>Cécile Le Pape</author>
+<author>Stéphane Gançarski</author>
+<author>Patrick Valduriez</author>
+<title>Refresco: Improving Query Performance through Freshness Control in a Database Cluster.</title>
+<pages>153-173</pages>
+<year>2004</year>
+<crossref>conf/bda/2004</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2004.html#PapeGV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/GancarskiPNSV04" mdate="2006-07-04">
+<author>Stéphane Gançarski</author>
+<author>Cécile Le Pape</author>
+<author>Hubert Naacke</author>
+<author>Imen Sebei</author>
+<author>Patrick Valduriez</author>
+<title>The Leganet prototype : Managing Autonomous Databases in a Cluster System.</title>
+<pages>347-350</pages>
+<year>2004</year>
+<crossref>conf/bda/2004</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2004.html#GancarskiPNSV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coopis/PapeGV04" mdate="2017-05-25">
+<author>Cécile Le Pape</author>
+<author>Stéphane Gançarski</author>
+<author>Patrick Valduriez</author>
+<title>Refresco: Improving Query Performance Through Freshness Control in a Database Cluster.</title>
+<pages>174-193</pages>
+<year>2004</year>
+<crossref>conf/coopis/2004-1</crossref>
+<booktitle>CoopIS/DOA/ODBASE (1)</booktitle>
+<url>db/conf/coopis/coopis2004-1.html#PapeGV04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/PapeGV03" mdate="2017-05-25">
+<author>Cécile Le Pape</author>
+<author>Stéphane Gançarski</author>
+<author>Patrick Valduriez</author>
+<title>Trading Freshness for Performance in a Cluster of Replicated Databases.</title>
+<pages>14-15</pages>
+<year>2003</year>
+<crossref>conf/otm/2003</crossref>
+<booktitle>OTM Workshops</booktitle>
+<url>db/conf/otm/otm2003.html#PapeGV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/GancarskiNPV02" mdate="2006-09-13">
+<author>Stéphane Gançarski</author>
+<author>Hubert Naacke</author>
+<author>Esther Pacitti</author>
+<author>Patrick Valduriez</author>
+<title>Parallel Processing with Autonomous Databases in a Cluster System.</title>
+<year>2002</year>
+<crossref>conf/bda/2002</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2002.html#GancarskiNPV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coopis/GancarskiNPV02" mdate="2017-05-25">
+<author>Stéphane Gançarski</author>
+<author>Hubert Naacke</author>
+<author>Esther Pacitti</author>
+<author>Patrick Valduriez</author>
+<title>Parallel Processing with Autonomous Databases in a Cluster System.</title>
+<pages>410-428</pages>
+<year>2002</year>
+<crossref>conf/coopis/2002</crossref>
+<booktitle>CoopIS/DOA/ODBASE</booktitle>
+<url>db/conf/coopis/coopis2002.html#GancarskiNPV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdas/GancarskiNV02" mdate="2004-01-05">
+<author>Stéphane Gançarski</author>
+<author>Hubert Naacke</author>
+<author>Patrick Valduriez</author>
+<title>Load Balancing of Autonomous Applications and Databases in a Cluster System.</title>
+<pages>159-170</pages>
+<year>2002</year>
+<crossref>conf/wdas/2002</crossref>
+<booktitle>WDAS</booktitle>
+<url>db/conf/wdas/wdas2002.html#GancarskiNV02</url>
+</inproceedings>
+</r>
+<r><article key="journals/dke/GancarskiJ01" mdate="2017-05-20">
+<author>Stéphane Gançarski</author>
+<author>Geneviève Jomier</author>
+<pages>29-53</pages>
+<year>2001</year>
+<volume>36</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>1</number>
+<url>db/journals/dke/dke36.html#GancarskiJ01</url>
+</article>
+</r>
+<r><inproceedings key="conf/coopis/DoucetGLR01" mdate="2017-05-25">
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<author>Claudia León</author>
+<author>Marta Rukoz</author>
+<title>Checking Integrity Constraints in Multidatabase Systems with Nested Transactions.</title>
+<pages>316-328</pages>
+<year>2001</year>
+<crossref>conf/coopis/2001</crossref>
+<booktitle>CoopIS</booktitle>
+<url>db/conf/coopis/coopis2001.html#DoucetGLR01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/GancarskiLR00" mdate="2006-09-13">
+<author>Stéphane Gançarski</author>
+<author>Claudia León</author>
+<author>Marta Rukoz</author>
+<title>Vérification de contraintes dans les transactions imbriquées réparties.</title>
+<year>2000</year>
+<crossref>conf/bda/2000</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda2000.html#GancarskiLR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/Gancarski99" mdate="2017-05-24">
+<author>Stéphane Gançarski</author>
+<title>Database Versions to Represent Bitemporal Databases.</title>
+<pages>832-841</pages>
+<year>1999</year>
+<crossref>conf/dexa/1999</crossref>
+<booktitle>DEXA</booktitle>
+<url>db/conf/dexa/dexa99.html#Gancarski99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmldo/DoucetGLR99" mdate="2014-02-11">
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<author>Claudia León</author>
+<author>Marta Rukoz</author>
+<title>Nested Transactions with Integrity Constraints.</title>
+<pages>82-97</pages>
+<year>1999</year>
+<crossref>conf/fmldo/1999</crossref>
+<booktitle>FMLDO</booktitle>
+<url>db/conf/fmldo/fmldo99.html#DoucetGLR99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmldo/DoucetGLR99a" mdate="2017-05-19">
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<author>Claudia León</author>
+<author>Marta Rukoz</author>
+<title>Nested Transactions with Integrity Constraints.</title>
+<pages>130-149</pages>
+<year>1999</year>
+<crossref>conf/fmldo/1999lncs</crossref>
+<booktitle>FMLDO - Selected Papers</booktitle>
+<url>db/conf/fmldo/fmldoLNCS99.html#DoucetGLR99a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cdb/DoucetFGJM97" mdate="2017-05-22">
+<author>Anne Doucet</author>
+<author>Marie-Christine Fauvet</author>
+<author>Stéphane Gançarski</author>
+<author>Geneviève Jomier</author>
+<author>Sophie Monties</author>
+<title>Using Database Versions to Implement Temporal Integrity Constraints.</title>
+<pages>219-233</pages>
+<year>1997</year>
+<crossref>conf/cdb/1997</crossref>
+<booktitle>CDB</booktitle>
+<url>db/conf/cdb/cdb97.html#DoucetFGJM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/GancarskiJ96" mdate="2004-05-17">
+<author>Stéphane Gançarski</author>
+<author>Geneviève Jomier</author>
+<pages>161-180</pages>
+<year>1996</year>
+<crossref>conf/bda/1996</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda1996.html#GancarskiJ96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/DoucetGJM96" mdate="2004-05-17">
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<author>Geneviève Jomier</author>
+<author>Sophie Monties</author>
+<pages>181-</pages>
+<year>1996</year>
+<crossref>conf/bda/1996</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda1996.html#DoucetGJM96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/DouchetGJM96" mdate="2017-05-22">
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<author>Geneviève Jomier</author>
+<author>Sophie Monties</author>
+<pages>56-73</pages>
+<year>1996</year>
+<crossref>conf/bncod/1996</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod96.html#DouchetGJM96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmldo/DoucetGJM96" mdate="2017-03-20">
+<author>Anne Doucet</author>
+<author>Stéphane Gançarski</author>
+<author>Geneviève Jomier</author>
+<author>Sophie Monties</author>
+<title>Integrity Constraints and Versions.</title>
+<pages>25-39</pages>
+<year>1996</year>
+<crossref>conf/fmldo/1996</crossref>
+<booktitle>FMLDO</booktitle>
+<url>db/conf/fmldo/fmldo96.html#DoucetGJM96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/GancarskiJZ95" mdate="2014-11-24">
+<author>Stéphane Gançarski</author>
+<author>Geneviève Jomier</author>
+<author>M. Zamfiroiu</author>
+<pages>247-256</pages>
+<year>1995</year>
+<crossref>conf/dexaw/1995</crossref>
+<booktitle>DEXA Workshop</booktitle>
+<url>db/conf/dexaw/dexaw95.html#GancarskiJZ95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/GancarskiJ94" mdate="2004-05-12">
+<author>Stéphane Gançarski</author>
+<author>Geneviève Jomier</author>
+<title>Un Formalisme pour la Gestion de Versions d'Entités dans leur Contexte.</title>
+<year>1994</year>
+<crossref>conf/bda/1994</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda1994.html#GancarskiJ94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/GancarskiJ94" mdate="2017-05-20">
+<author>Stéphane Gançarski</author>
+<author>Geneviève Jomier</author>
+<title>Managing Entity Versions within their Contexts: A Formal Approach.</title>
+<pages>400-409</pages>
+<year>1994</year>
+<crossref>conf/dexa/1994</crossref>
+<booktitle>DEXA</booktitle>
+<url>db/conf/dexa/dexa94.html#GancarskiJ94</url>
+</inproceedings>
+</r>
+<coauthors n="38" nc="2">
+<co c="0"><na f="b/Ben=Othman:Jalel">Jalel Ben-Othman</na></co>
+<co c="0"><na f="b/Bernard:Guy">Guy Bernard</na></co>
+<co c="0"><na f="b/Berrabah:Djamel">Djamel Berrabah</na></co>
+<co c="0"><na f="b/Bouganim:Luc">Luc Bouganim</na></co>
+<co c="0"><na f="c/Canals:G=eacute=r=ocirc=me">Gérôme Canals</na></co>
+<co c="0"><na f="c/Chabridon:Sophie">Sophie Chabridon</na></co>
+<co c="0"><na f="c/Chikh:Sarah_Kaddour">Sarah Kaddour Chikh</na></co>
+<co c="1"><na f="c/Cord:Matthieu">Matthieu Cord</na></co>
+<co c="0"><na f="d/Defude:Bruno">Bruno Defude</na></co>
+<co c="0"><na f="d/Doucet:Anne">Anne Doucet</na></co>
+<co c="0"><na f="f/Fauvet:Marie=Christine">Marie-Christine Fauvet</na></co>
+<co c="0"><na f="f/Ferri=eacute=:Jean">Jean Ferrié</na></co>
+<co c="0"><na f="g/Gan=ccedil=arski:Alda_Lopes">Alda Lopes Gançarski</na></co>
+<co c="0"><na f="g/Guerraoui:Rachid">Rachid Guerraoui</na></co>
+<co c="1"><na f="g/Gutierrez:Carlos_Sureda">Carlos Sureda Gutierrez</na></co>
+<co c="0"><na f="j/Jomier:Genevi=egrave=ve">Geneviève Jomier</na></co>
+<co c="1" n="2"><na f="l/Law:Marc_T=">Marc T. Law</na><na>Marc Teva Law</na></co>
+<co c="0"><na f="l/Le=oacute=n:Claudia">Claudia León</na></co>
+<co c="0"><na f="l/Lumineau:Nicolas">Nicolas Lumineau</na></co>
+<co c="0"><na f="m/Molli:Pascal">Pascal Molli</na></co>
+<co c="0"><na f="m/Monties:Sophie">Sophie Monties</na></co>
+<co c="0"><na f="n/Naacke:Hubert">Hubert Naacke</na></co>
+<co c="0"><na f="p/Pacitti:Esther">Esther Pacitti</na></co>
+<co c="0"><na f="p/Pape:C=eacute=cile_Le">Cécile Le Pape</na></co>
+<co c="0"><na f="p/Pehlivan:Zeynep">Zeynep Pehlivan</na></co>
+<co c="0"><na f="p/Piwowarski:Benjamin">Benjamin Piwowarski</na></co>
+<co c="0"><na f="p/Pucheral:Philippe">Philippe Pucheral</na></co>
+<co c="0"><na f="r/Roncancio:Claudia">Claudia Roncancio</na></co>
+<co c="0"><na f="r/Rukoz:Marta">Marta Rukoz</na></co>
+<co c="0"><na f="s/Saad:Myriam_Ben">Myriam Ben Saad</na></co>
+<co c="-1"><na f="s/Sanoja:Andr=eacute=s">Andrés Sanoja</na></co>
+<co c="0"><na f="s/Santini:Pablo">Pablo Santini</na></co>
+<co c="0"><na f="s/Sarr:Idrissa">Idrissa Sarr</na></co>
+<co c="0"><na f="s/Sebei:Imen">Imen Sebei</na></co>
+<co c="0"><na f="s/Serrano=Alvarado:Patricia">Patricia Serrano-Alvarado</na></co>
+<co c="1"><na f="t/Thome:Nicolas">Nicolas Thome</na></co>
+<co c="0"><na f="v/Valduriez:Patrick">Patrick Valduriez</na></co>
+<co c="0"><na f="z/Zamfiroiu:M=">M. Zamfiroiu</na></co>
+</coauthors>
+</dblpperson>
+

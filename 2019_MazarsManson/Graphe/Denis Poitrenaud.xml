@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Denis Poitrenaud" n="30">
+<person key="homepages/10/683" mdate="2016-03-03">
+<author>Denis Poitrenaud</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www.lip6.fr/actualite/personnes-fiche.php?nom=Poitrenaud</url>
+</person>
+<r><inproceedings key="conf/icfem/PoitrenaudR19" mdate="2019-10-28">
+<author>Denis Poitrenaud</author>
+<author>Etienne Renault</author>
+<title>Combining Parallel Emptiness Checks with Partial Order Reductions.</title>
+<pages>370-386</pages>
+<year>2019</year>
+<booktitle>ICFEM</booktitle>
+<crossref>conf/icfem/2019</crossref>
+<url>db/conf/icfem/icfem2019.html#PoitrenaudR19</url>
+</inproceedings>
+</r>
+<r><article key="journals/sttt/RenaultDKP17" mdate="2017-11-06">
+<author>Etienne Renault</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Fabrice Kordon</author>
+<author>Denis Poitrenaud</author>
+<title>Variations on parallel explicit emptiness checks for generalized Büchi automata.</title>
+<pages>653-673</pages>
+<year>2017</year>
+<volume>19</volume>
+<journal>STTT</journal>
+<number>6</number>
+<url>db/journals/sttt/sttt19.html#RenaultDKP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/atva/Duret-LutzKPR16" mdate="2017-09-16">
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Fabrice Kordon</author>
+<author>Denis Poitrenaud</author>
+<author>Etienne Renault</author>
+<title>Heuristics for Checking Liveness Properties with Partial Order Reductions.</title>
+<pages>340-356</pages>
+<year>2016</year>
+<booktitle>ATVA</booktitle>
+<crossref>conf/atva/2016</crossref>
+<url>db/conf/atva/atva2016.html#Duret-LutzKPR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/RenaultDKP15" mdate="2019-08-20">
+<author>Etienne Renault</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Fabrice Kordon</author>
+<author>Denis Poitrenaud</author>
+<title>Parallel Explicit Model Checking for Generalized Büchi Automata.</title>
+<pages>613-627</pages>
+<year>2015</year>
+<booktitle>TACAS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-46681-0_56</ee>
+<crossref>conf/tacas/2015</crossref>
+<url>db/conf/tacas/tacas2015.html#RenaultDKP15</url>
+</inproceedings>
+</r>
+<r><article key="journals/fuin/CouvreurPW13" mdate="2017-05-20">
+<author>Jean-Michel Couvreur</author>
+<author>Denis Poitrenaud</author>
+<author>Pascal Weil</author>
+<title>Branching Processes of General Petri Nets.</title>
+<pages>31-58</pages>
+<year>2013</year>
+<volume>122</volume>
+<journal>Fundam. Inform.</journal>
+<number>1-2</number>
+<url>db/journals/fuin/fuin122.html#CouvreurPW13</url>
+</article>
+</r>
+<r><inproceedings key="conf/lpar/RenaultDKP13" mdate="2017-09-16">
+<author>Etienne Renault</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Fabrice Kordon</author>
+<author>Denis Poitrenaud</author>
+<title>Three SCC-Based Emptiness Checks for Generalized Büchi Automata.</title>
+<pages>668-682</pages>
+<year>2013</year>
+<booktitle>LPAR</booktitle>
+<crossref>conf/lpar/2013</crossref>
+<url>db/conf/lpar/lpar2013.html#RenaultDKP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/RenaultDKP13" mdate="2017-09-16">
+<author>Etienne Renault</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Fabrice Kordon</author>
+<author>Denis Poitrenaud</author>
+<title>Strength-Based Decomposition of the Property Büchi Automaton for Faster Model Checking.</title>
+<pages>580-593</pages>
+<year>2013</year>
+<booktitle>TACAS</booktitle>
+<crossref>conf/tacas/2013</crossref>
+<url>db/conf/tacas/tacas2013.html#RenaultDKP13</url>
+</inproceedings>
+</r>
+<r><article key="journals/fmsd/BaarirBEIMPY11" mdate="2017-05-27">
+<author>Souheib Baarir</author>
+<author>Cécile Braunstein</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Jean-Michel Ilié</author>
+<author>Isabelle Mounier</author>
+<author>Denis Poitrenaud</author>
+<author>Sana Younès</author>
+<title>Feasibility analysis for robustness quantification by symbolic model checking.</title>
+<pages>165-184</pages>
+<year>2011</year>
+<volume>39</volume>
+<journal>Formal Methods in System Design</journal>
+<number>2</number>
+<url>db/journals/fmsd/fmsd39.html#BaarirBEIMPY11</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/CouvreurPW11" mdate="2017-05-26">
+<author>Jean-Michel Couvreur</author>
+<author>Denis Poitrenaud</author>
+<author>Pascal Weil</author>
+<title>Branching Processes of General Petri Nets.</title>
+<pages>129-148</pages>
+<year>2011</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2011</crossref>
+<url>db/conf/apn/pn2011.html#CouvreurPW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atva/Duret-LutzKPT11" mdate="2018-11-02">
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Kais Klai</author>
+<author>Denis Poitrenaud</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<title>Self-Loop Aggregation Product - A New Hybrid Approach to On-the-Fly LTL Model Checking.</title>
+<pages>336-350</pages>
+<year>2011</year>
+<booktitle>ATVA</booktitle>
+<crossref>conf/atva/2011</crossref>
+<url>db/conf/atva/atva2011.html#Duret-LutzKPT11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1106-5700" mdate="2018-08-13">
+<author>Alexandre Duret-Lutz</author>
+<author>Kais Klai</author>
+<author>Denis Poitrenaud</author>
+<author>Yann Thierry-Mieg</author>
+<title>Combining Explicit and Symbolic Approaches for Better On-the-Fly LTL Model Checking</title>
+<ee type="oa">http://arxiv.org/abs/1106.5700</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1106.5700</volume>
+<url>db/journals/corr/corr1106.html#abs-1106-5700</url>
+</article>
+</r>
+<r><inproceedings key="conf/atva/Duret-LutzPC09" mdate="2017-09-16">
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Denis Poitrenaud</author>
+<author>Jean-Michel Couvreur</author>
+<title>On-the-fly Emptiness Check of Transition-Based Streett Automata.</title>
+<pages>213-227</pages>
+<year>2009</year>
+<booktitle>ATVA</booktitle>
+<crossref>conf/atva/2009</crossref>
+<url>db/conf/atva/atva2009.html#Duret-LutzPC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dft/BaarirBCEILMPP09" mdate="2017-05-17">
+<author>Souheib Baarir</author>
+<author>Cécile Braunstein</author>
+<author>Renaud Clavel</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Jean-Michel Ilié</author>
+<author>Régis Leveugle</author>
+<author>Isabelle Mounier</author>
+<author>Laurence Pierre</author>
+<author>Denis Poitrenaud</author>
+<title>Complementary Formal Approaches for Dependability Analysis.</title>
+<pages>331-339</pages>
+<year>2009</year>
+<booktitle>DFT</booktitle>
+<crossref>conf/dft/2009</crossref>
+<url>db/conf/dft/dft2009.html#BaarirBCEILMPP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/Thierry-MiegPHK09" mdate="2018-11-02">
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Denis Poitrenaud</author>
+<author>Alexandre Hamez</author>
+<author>Fabrice Kordon</author>
+<title>Hierarchical Set Decision Diagrams and Regular Models.</title>
+<pages>1-15</pages>
+<year>2009</year>
+<booktitle>TACAS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-00768-2_1</ee>
+<crossref>conf/tacas/2009</crossref>
+<url>db/conf/tacas/tacas2009.html#Thierry-MiegPHK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/KlaiP08" mdate="2017-05-26">
+<author>Kais Klai</author>
+<author>Denis Poitrenaud</author>
+<title>MC-SOG: An LTL Model Checker Based on Symbolic Observation Graphs.</title>
+<pages>288-306</pages>
+<year>2008</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2008</crossref>
+<url>db/conf/apn/pn2008.html#KlaiP08</url>
+</inproceedings>
+</r>
+<r><article key="journals/acta/HaddadP07" mdate="2017-05-28">
+<author>Serge Haddad</author>
+<author>Denis Poitrenaud</author>
+<title>Recursive Petri nets.</title>
+<pages>463-508</pages>
+<year>2007</year>
+<volume>44</volume>
+<journal>Acta Inf.</journal>
+<number>7-8</number>
+<url>db/journals/acta/acta44.html#HaddadP07</url>
+</article>
+</r>
+<r><inproceedings key="conf/spin/CouvreurDP05" mdate="2017-09-16">
+<author>Jean-Michel Couvreur</author>
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Denis Poitrenaud</author>
+<title>On-the-Fly Emptiness Checks for Generalized Büchi Automata.</title>
+<pages>169-184</pages>
+<year>2005</year>
+<crossref>conf/spin/2005</crossref>
+<booktitle>SPIN</booktitle>
+<url>db/conf/spin/spin2005.html#CouvreurDP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/Thierry-MiegIP04" mdate="2018-11-02">
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Jean-Michel Ilié</author>
+<author>Denis Poitrenaud</author>
+<title>A Symbolic Symbolic State Space Representation.</title>
+<pages>276-291</pages>
+<year>2004</year>
+<crossref>conf/forte/2004</crossref>
+<booktitle>FORTE</booktitle>
+<url>db/conf/forte/forte2004.html#Thierry-MiegIP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/Duret-LutzP04" mdate="2017-09-16">
+<author orcid="0000-0002-6623-2512">Alexandre Duret-Lutz</author>
+<author>Denis Poitrenaud</author>
+<title>SPOT: An Extensible Model Checking Library Using Transition-Based Generalized Büchi Automata.</title>
+<pages>76-83</pages>
+<year>2004</year>
+<crossref>conf/mascots/2004</crossref>
+<booktitle>MASCOTS</booktitle>
+<url>db/conf/mascots/mascots2004.html#Duret-LutzP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/CouvreurEPPW02" mdate="2017-05-26">
+<author>Jean-Michel Couvreur</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Emmanuel Paviot-Adet</author>
+<author>Denis Poitrenaud</author>
+<author>Pierre-André Wacrenier</author>
+<title>Data Decision Diagrams for Petri Net Analysis.</title>
+<pages>101-120</pages>
+<year>2002</year>
+<crossref>conf/apn/2002</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn2002.html#CouvreurEPPW02</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppl/ArantesPSF01" mdate="2019-12-18">
+<author>Luciana Bezerra Arantes</author>
+<author>Denis Poitrenaud</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<author>Bertil Folliot</author>
+<title>The Barrier-Lock Clock: A Scalable Synchronization-Oriented Logical Clock.</title>
+<pages>65-76</pages>
+<year>2001</year>
+<volume>11</volume>
+<journal>Parallel Processing Letters</journal>
+<number>1</number>
+<url>db/journals/ppl/ppl11.html#ArantesPSF01</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/CouvreurGP01" mdate="2017-05-26">
+<author>Jean-Michel Couvreur</author>
+<author>Sébastien Grivet</author>
+<author>Denis Poitrenaud</author>
+<title>Unfolding of Products of Symmetrical Petri Nets.</title>
+<pages>121-143</pages>
+<year>2001</year>
+<crossref>conf/apn/2001</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn2001.html#CouvreurGP01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/HaddadP01" mdate="2017-05-25">
+<author>Serge Haddad</author>
+<author>Denis Poitrenaud</author>
+<title>Checking Linear Temporal Formulas on Sequential Recursive Petri Nets.</title>
+<pages>198-205</pages>
+<year>2001</year>
+<crossref>conf/time/2001</crossref>
+<booktitle>TIME</booktitle>
+<url>db/conf/time/time2001.html#HaddadP01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/advis/BoufenaraBBP00" mdate="2017-05-24">
+<author>Sabine Boufenara</author>
+<author>Zizette Boufriche-Boufaïda</author>
+<author>Mahmoud Boufaïda</author>
+<author>Denis Poitrenaud</author>
+<title>Multimedia Information Systems: Towards a Design Methodology Based on Spatio-Temporal Relations, Petri Nets, and ECA Rules.</title>
+<pages>384-397</pages>
+<year>2000</year>
+<crossref>conf/advis/2000</crossref>
+<booktitle>ADVIS</booktitle>
+<url>db/conf/advis/advis2000.html#BoufenaraBBP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/CouvreurGP00" mdate="2019-08-06">
+<author>Jean-Michel Couvreur</author>
+<author>Sébastien Grivet</author>
+<author>Denis Poitrenaud</author>
+<title>Designing a LTL Model-Checker Based on Unfolding Graphs.</title>
+<pages>123-145</pages>
+<year>2000</year>
+<crossref>conf/apn/2000</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn2000.html#CouvreurGP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/PoitrenaudP00" mdate="2019-08-06">
+<author>Denis Poitrenaud</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Pre- and Post-agglomerations for LTL Model Checking.</title>
+<pages>387-408</pages>
+<year>2000</year>
+<crossref>conf/apn/2000</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn2000.html#PoitrenaudP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/HaddadP99" mdate="2017-05-24">
+<author>Serge Haddad</author>
+<author>Denis Poitrenaud</author>
+<title>Theoretical Aspects of Recursive Petri Nets.</title>
+<pages>228-247</pages>
+<year>1999</year>
+<crossref>conf/apn/1999</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn99.html#HaddadP99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/CouvreurP99" mdate="2017-05-24">
+<author>Jean-Michel Couvreur</author>
+<author>Denis Poitrenaud</author>
+<title>Detection of Illegal Behaviors Based on Unfoldings.</title>
+<pages>364-383</pages>
+<year>1999</year>
+<crossref>conf/apn/1999</crossref>
+<booktitle>ICATPN</booktitle>
+<url>db/conf/apn/icatpn99.html#CouvreurP99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/CouvreurP96" mdate="2002-01-03">
+<author>Jean-Michel Couvreur</author>
+<author>Denis Poitrenaud</author>
+<title>Model Checking Based on Occurrence Net Graph.</title>
+<pages>380-395</pages>
+<year>1996</year>
+<crossref>conf/forte/1996</crossref>
+<booktitle>FORTE</booktitle>
+<url>db/conf/forte/forte1996.html#CouvreurP96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/BrganP95" mdate="2017-05-20">
+<author>Robert Brgan</author>
+<author>Denis Poitrenaud</author>
+<title>An Efficient Algorithm for the Computation of Stubborn Sets of Well Formed Petri Nets.</title>
+<pages>121-140</pages>
+<year>1995</year>
+<crossref>conf/apn/1995</crossref>
+<booktitle>Application and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn95.html#BrganP95</url>
+</inproceedings>
+</r>
+<coauthors n="29" nc="2">
+<co c="1" n="2"><na f="a/Arantes:Luciana">Luciana Arantes</na><na>Luciana Bezerra Arantes</na></co>
+<co c="0"><na f="b/Baarir:Souheib">Souheib Baarir</na></co>
+<co c="0"><na f="b/Boufa=iuml=da:Mahmoud">Mahmoud Boufaïda</na></co>
+<co c="0"><na f="b/Boufenara:Sabine">Sabine Boufenara</na></co>
+<co c="0"><na f="b/Boufriche=Boufa=iuml=da:Zizette">Zizette Boufriche-Boufaïda</na></co>
+<co c="0"><na f="b/Braunstein:C=eacute=cile">Cécile Braunstein</na></co>
+<co c="-1"><na f="b/Brgan:Robert">Robert Brgan</na></co>
+<co c="0"><na f="c/Clavel:Renaud">Renaud Clavel</na></co>
+<co c="0"><na f="c/Couvreur:Jean=Michel">Jean-Michel Couvreur</na></co>
+<co c="0"><na f="d/Duret=Lutz:Alexandre">Alexandre Duret-Lutz</na></co>
+<co c="0" n="2"><na f="e/Encrenaz=Tiph=egrave=ne:Emmanuelle">Emmanuelle Encrenaz-Tiphène</na><na>Emmanuelle Encrenaz</na></co>
+<co c="1"><na f="f/Folliot:Bertil">Bertil Folliot</na></co>
+<co c="0"><na f="g/Grivet:S=eacute=bastien">Sébastien Grivet</na></co>
+<co c="0"><na f="h/Haddad:Serge">Serge Haddad</na></co>
+<co c="0"><na f="h/Hamez:Alexandre">Alexandre Hamez</na></co>
+<co c="0"><na f="i/Ili=eacute=:Jean=Michel">Jean-Michel Ilié</na></co>
+<co c="0"><na f="k/Klai:Kais">Kais Klai</na></co>
+<co c="0"><na f="k/Kordon:Fabrice">Fabrice Kordon</na></co>
+<co c="0"><na f="l/Leveugle:R=eacute=gis">Régis Leveugle</na></co>
+<co c="0"><na f="m/Mounier:Isabelle">Isabelle Mounier</na></co>
+<co c="0"><na f="p/Paviot=Adet:Emmanuel">Emmanuel Paviot-Adet</na></co>
+<co c="0"><na f="p/Pierre:Laurence">Laurence Pierre</na></co>
+<co c="0"><na f="p/Pradat=Peyre:Jean=Fran=ccedil=ois">Jean-François Pradat-Peyre</na></co>
+<co c="0"><na f="r/Renault:Etienne">Etienne Renault</na></co>
+<co c="1"><na f="s/Sens_0001:Pierre">Pierre Sens 0001</na></co>
+<co c="0"><na f="t/Thierry=Mieg:Yann">Yann Thierry-Mieg</na></co>
+<co c="0"><na f="w/Wacrenier:Pierre=Andr=eacute=">Pierre-André Wacrenier</na></co>
+<co c="0"><na f="w/Weil:Pascal">Pascal Weil</na></co>
+<co c="0"><na f="y/Youn=egrave=s:Sana">Sana Younès</na></co>
+</coauthors>
+</dblpperson>
+

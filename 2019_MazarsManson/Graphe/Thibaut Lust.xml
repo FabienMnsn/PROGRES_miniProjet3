@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Thibaut Lust" n="29">
+<person key="homepages/98/5129" mdate="2009-06-10">
+<author>Thibaut Lust</author>
+</person>
+<r><inproceedings key="conf/aldt/BenabbouLLP19" mdate="2019-10-10">
+<author>Nawal Benabbou</author>
+<author>Cassandre Leroy</author>
+<author>Thibaut Lust</author>
+<author>Patrice Perny</author>
+<title>Combining Local Search and Elicitation for Multi-Objective Combinatorial Optimization.</title>
+<pages>1-16</pages>
+<year>2019</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2019</crossref>
+<url>db/conf/aldt/adt2019.html#BenabbouLLP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socs/BenabbouL19" mdate="2019-07-17">
+<author>Nawal Benabbou</author>
+<author>Thibaut Lust</author>
+<title>A General Interactive Approach for Solving Multi-Objective Combinatorial Optimization Problems with Imprecise Preferences.</title>
+<pages>164-165</pages>
+<year>2019</year>
+<booktitle>SOCS</booktitle>
+<crossref>conf/socs/2019</crossref>
+<url>db/conf/socs/socs2019.html#BenabbouL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/BenabbouL19" mdate="2019-12-02">
+<author>Nawal Benabbou</author>
+<author>Thibaut Lust</author>
+<title>An Interactive Polyhedral Approach for Multi-objective Combinatorial Optimization with Incomplete Preference Information.</title>
+<pages>221-235</pages>
+<year>2019</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2019</crossref>
+<url>db/conf/sum/sum2019.html#BenabbouL19</url>
+</inproceedings>
+</r>
+<r><article key="journals/networks/CostaLKS18" mdate="2019-09-16">
+<author orcid="0000-0002-6324-6556">Luciano Costa</author>
+<author orcid="0000-0001-8433-518X">Thibaut Lust</author>
+<author orcid="0000-0002-7982-1068">Raphael Kramer</author>
+<author>Anand Subramanian</author>
+<title>A two-phase Pareto local search heuristic for the bi-objective pollution-routing problem.</title>
+<pages>311-336</pages>
+<year>2018</year>
+<volume>72</volume>
+<journal>Networks</journal>
+<number>3</number>
+<url>db/journals/networks/networks72.html#CostaLKS18</url>
+</article>
+</r>
+<r><article key="journals/tec/JaszkiewiczL18" mdate="2018-11-02">
+<author orcid="0000-0002-8337-888X">Andrzej Jaszkiewicz</author>
+<author orcid="0000-0001-8433-518X">Thibaut Lust</author>
+<title>ND-Tree-Based Update: A Fast Algorithm for the Dynamic Nondominance Problem.</title>
+<pages>778-791</pages>
+<year>2018</year>
+<volume>22</volume>
+<journal>IEEE Trans. Evolutionary Computation</journal>
+<number>5</number>
+<url>db/journals/tec/tec22.html#JaszkiewiczL18</url>
+</article>
+</r>
+<r><article key="journals/anor/JaszkiewiczL17" mdate="2017-07-26">
+<author orcid="0000-0002-8337-888X">Andrzej Jaszkiewicz</author>
+<author>Thibaut Lust</author>
+<title>Proper balance between search towards and along Pareto front: biobjective TSP case study.</title>
+<pages>111-130</pages>
+<year>2017</year>
+<volume>254</volume>
+<journal>Annals OR</journal>
+<number>1-2</number>
+<url>db/journals/anor/anor254.html#JaszkiewiczL17</url>
+</article>
+</r>
+<r><article key="journals/cor/CoelhoOCCFGRSTL17" mdate="2017-08-29">
+<author>Vitor Nazário Coelho</author>
+<author>Thays A. Oliveira</author>
+<author>Igor Machado Coelho</author>
+<author>Bruno N. Coelho</author>
+<author>Peter J. Fleming</author>
+<author>Frederico G. Guimarães</author>
+<author orcid="0000-0003-3174-3432">Helena Ramalhinho Dias Lourenço</author>
+<author>Marcone J. F. Souza</author>
+<author>El-Ghazali Talbi</author>
+<author>Thibaut Lust</author>
+<title>Generic Pareto local search metaheuristic for optimization of targeted offers in a bi-objective direct marketing campaign.</title>
+<pages>578-587</pages>
+<year>2017</year>
+<volume>78</volume>
+<journal>Computers and OR</journal>
+<url>db/journals/cor/cor78.html#CoelhoOCCFGRSTL17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/JaszkiewiczL16" mdate="2018-08-13">
+<author>Andrzej Jaszkiewicz</author>
+<author>Thibaut Lust</author>
+<title>ND-Tree: a Fast Online Algorithm for Updating a Pareto Archive and its Application in Many-objective Pareto Local Search.</title>
+<year>2016</year>
+<volume>abs/1603.04798</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.04798</ee>
+<url>db/journals/corr/corr1603.html#JaszkiewiczL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aldt/Lust15" mdate="2017-05-23">
+<author>Thibaut Lust</author>
+<title>Choquet Integral Versus Weighted Sum in Multicriteria Decision Contexts.</title>
+<pages>288-304</pages>
+<year>2015</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2015</crossref>
+<url>db/conf/aldt/adt2015.html#Lust15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aldt/GalandL15" mdate="2017-05-23">
+<author>Lucie Galand</author>
+<author>Thibaut Lust</author>
+<title>Exact Methods for Computing All Lorenz Optimal Solutions to Biobjective Problems.</title>
+<pages>305-321</pages>
+<year>2015</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2015</crossref>
+<url>db/conf/aldt/adt2015.html#GalandL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/GalandL15" mdate="2015-05-15">
+<author>Lucie Galand</author>
+<author>Thibaut Lust</author>
+<title>Multiagent Fair Optimization with Lorenz Dominance.</title>
+<pages>1895-1896</pages>
+<year>2015</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2015</crossref>
+<url>db/conf/atal/aamas2015.html#GalandL15</url>
+</inproceedings>
+</r>
+<r><article key="journals/heuristics/LustT14" mdate="2017-05-18">
+<author>Thibaut Lust</author>
+<author>Daniel Tuyttens</author>
+<title>Variable and large neighborhood search to solve the multiobjective set covering problem.</title>
+<pages>165-188</pages>
+<year>2014</year>
+<volume>20</volume>
+<journal>J. Heuristics</journal>
+<number>2</number>
+<url>db/journals/heuristics/heuristics20.html#LustT14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipmu/LustR14" mdate="2017-05-21">
+<author>Thibaut Lust</author>
+<author>Antoine Rolland</author>
+<title>2-additive Choquet Optimal Solutions in Multiobjective Optimization Problems.</title>
+<pages>256-265</pages>
+<year>2014</year>
+<booktitle>IPMU (1)</booktitle>
+<crossref>conf/ipmu/2014-1</crossref>
+<url>db/conf/ipmu/ipmu2014-1.html#LustR14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LustMA14" mdate="2018-08-13">
+<author>Thibaut Lust</author>
+<author>Nadine Meskens</author>
+<author>Mario Ahues</author>
+<title>Predicting academic success in Belgium and France Comparison and integration of variables related to student behavior.</title>
+<year>2014</year>
+<volume>abs/1408.4955</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1408.4955</ee>
+<url>db/journals/corr/corr1408.html#LustMA14</url>
+</article>
+</r>
+<r><article key="journals/cor/LustR13" mdate="2017-05-18">
+<author>Thibaut Lust</author>
+<author>Antoine Rolland</author>
+<title>Choquet optimal set in biobjective combinatorial optimization.</title>
+<pages>2260-2269</pages>
+<year>2013</year>
+<volume>40</volume>
+<journal>Computers and OR</journal>
+<number>10</number>
+<url>db/journals/cor/cor40.html#LustR13</url>
+</article>
+</r>
+<r><inproceedings key="conf/miwai/LustR13" mdate="2017-05-22">
+<author>Thibaut Lust</author>
+<author>Antoine Rolland</author>
+<title>On the Computation of Choquet Optimal Solutions in Multicriteria Decision Contexts.</title>
+<pages>131-142</pages>
+<year>2013</year>
+<booktitle>MIWAI</booktitle>
+<crossref>conf/miwai/2013</crossref>
+<url>db/conf/miwai/miwai2013.html#LustR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/taai/LustT13" mdate="2019-01-08">
+<author>Thibaut Lust</author>
+<author>Daniel Tuyttens</author>
+<title>Two-Phase Pareto Local Search to Solve the Biobjective Set Covering Problem.</title>
+<pages>397-402</pages>
+<year>2013</year>
+<booktitle>TAAI</booktitle>
+<crossref>conf/taai/2013</crossref>
+<url>db/conf/taai/taai2013.html#LustT13</url>
+</inproceedings>
+</r>
+<r><article key="journals/endm/CoelhoSCGLC12" mdate="2017-08-29">
+<author>Vitor Nazário Coelho</author>
+<author>Marcone J. F. Souza</author>
+<author>Igor Machado Coelho</author>
+<author orcid="0000-0001-9238-8839">Frederico G. Guimarães</author>
+<author>Thibaut Lust</author>
+<author>R. C. Cruz</author>
+<title>Multi-objective approaches for the open-pit mining operational planning problem.</title>
+<pages>233-240</pages>
+<year>2012</year>
+<volume>39</volume>
+<journal>Electronic Notes in Discrete Mathematics</journal>
+<url>db/journals/endm/endm39.html#CoelhoSCGLC12</url>
+</article>
+</r>
+<r><article key="journals/itor/LustT12" mdate="2017-05-26">
+<author>Thibaut Lust</author>
+<author>Jacques Teghem</author>
+<title>The multiobjective multidimensional knapsack problem: a survey and a new approach.</title>
+<pages>495-520</pages>
+<year>2012</year>
+<volume>19</volume>
+<journal>ITOR</journal>
+<number>4</number>
+<url>db/journals/itor/itor19.html#LustT12</url>
+</article>
+</r>
+<r><inproceedings key="conf/emo/LustTT11" mdate="2017-05-23">
+<author>Thibaut Lust</author>
+<author>Jacques Teghem</author>
+<author>Daniel Tuyttens</author>
+<title>Very Large-Scale Neighborhood Search for Solving Multiobjective Combinatorial Optimization Problems.</title>
+<pages>254-268</pages>
+<year>2011</year>
+<booktitle>EMO</booktitle>
+<crossref>conf/emo/2011</crossref>
+<url>db/conf/emo/emo2011.html#LustTT11</url>
+</inproceedings>
+</r>
+<r><article key="journals/cor/LustJ10" mdate="2018-11-30">
+<author>Thibaut Lust</author>
+<author orcid="0000-0002-8337-888X">Andrzej Jaszkiewicz</author>
+<title>Speed-up techniques for solving large-scale biobjective TSP.</title>
+<pages>521-533</pages>
+<year>2010</year>
+<volume>37</volume>
+<journal>Computers and OR</journal>
+<number>3</number>
+<url>db/journals/cor/cor37.html#LustJ10</url>
+</article>
+</r>
+<r><article key="journals/heuristics/LustT10" mdate="2017-05-18">
+<author>Thibaut Lust</author>
+<author>Jacques Teghem</author>
+<title>Two-phase Pareto local search for the biobjective traveling salesman problem.</title>
+<pages>475-510</pages>
+<year>2010</year>
+<volume>16</volume>
+<journal>J. Heuristics</journal>
+<number>3</number>
+<url>db/journals/heuristics/heuristics16.html#LustT10</url>
+</article>
+</r>
+<r><incollection key="series/sci/LustT10" mdate="2017-05-16">
+<author>Thibaut Lust</author>
+<author>Jacques Teghem</author>
+<title>The Multiobjective Traveling Salesman Problem: A Survey and a New Approach.</title>
+<pages>119-141</pages>
+<year>2010</year>
+<booktitle>Advances in Multi-Objective Nature Inspired Computing</booktitle>
+<crossref>series/sci/2010-272</crossref>
+<url>db/series/sci/sci272.html#LustT10</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-1031" mdate="2018-08-13">
+<author>Thibaut Lust</author>
+<author>Jacques Teghem</author>
+<title>Multiobjective decomposition of integer matrices: application to radiotherapy</title>
+<ee type="oa">http://arxiv.org/abs/1006.1031</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.1031</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-1031</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1007-4063" mdate="2018-08-13">
+<author>Thibaut Lust</author>
+<author>Jacques Teghem</author>
+<title>The multiobjective multidimensional knapsack problem: a survey and a new approach</title>
+<ee type="oa">http://arxiv.org/abs/1007.4063</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1007.4063</volume>
+<url>db/journals/corr/corr1007.html#abs-1007-4063</url>
+</article>
+</r>
+<r><article key="journals/eor/LustRR09" mdate="2017-09-07">
+<author>Thibaut Lust</author>
+<author>Olivier Roux 0001</author>
+<author>Fouad Riane</author>
+<title>Exact and heuristic methods for the selective maintenance problem.</title>
+<pages>1166-1177</pages>
+<year>2009</year>
+<volume>197</volume>
+<journal>European Journal of Operational Research</journal>
+<number>3</number>
+<url>db/journals/eor/eor197.html#LustRR09</url>
+</article>
+</r>
+<r><inproceedings key="conf/emo/LustT09" mdate="2017-05-23">
+<author>Thibaut Lust</author>
+<author>Jacques Teghem</author>
+<title>Multiobjective Decomposition of Positive Integer Matrix: Application to Radiotherapy.</title>
+<pages>335-349</pages>
+<year>2009</year>
+<booktitle>EMO</booktitle>
+<crossref>conf/emo/2009</crossref>
+<url>db/conf/emo/emo2009.html#LustT09</url>
+</inproceedings>
+</r>
+<r><article key="journals/rairo/LustT08" mdate="2017-05-26">
+<author>Thibaut Lust</author>
+<author>Jacques Teghem</author>
+<title>MEMOTS: a memetic algorithm integrating tabu search for combinatorial multiobjective optimization.</title>
+<pages>3-33</pages>
+<year>2008</year>
+<volume>42</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>1</number>
+<url>db/journals/rairo/rairo42.html#LustT08</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/Lust08" mdate="2018-11-06">
+<author>Thibaut Lust</author>
+<title>Speed-up techniques for solving large-scale bTSP with the Two-Phase Pareto Local Search.</title>
+<pages>761-762</pages>
+<year>2008</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2008</crossref>
+<url>db/conf/gecco/gecco2008.html#Lust08</url>
+</inproceedings>
+</r>
+<coauthors n="25" nc="3">
+<co c="0"><na f="a/Ahues:Mario">Mario Ahues</na></co>
+<co c="1"><na f="b/Benabbou:Nawal">Nawal Benabbou</na></co>
+<co c="0"><na f="c/Coelho:Bruno_N=">Bruno N. Coelho</na></co>
+<co c="0"><na f="c/Coelho:Igor_Machado">Igor Machado Coelho</na></co>
+<co c="0"><na f="c/Coelho:Vitor_Naz=aacute=rio">Vitor Nazário Coelho</na></co>
+<co c="2"><na f="c/Costa:Luciano">Luciano Costa</na></co>
+<co c="0"><na f="c/Cruz:R=_C=">R. C. Cruz</na></co>
+<co c="0"><na f="f/Fleming:Peter_J=">Peter J. Fleming</na></co>
+<co c="1"><na f="g/Galand:Lucie">Lucie Galand</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Frederico_G=">Frederico G. Guimarães</na></co>
+<co c="0"><na f="j/Jaszkiewicz:Andrzej">Andrzej Jaszkiewicz</na></co>
+<co c="2"><na f="k/Kramer:Raphael">Raphael Kramer</na></co>
+<co c="1"><na f="l/Leroy:Cassandre">Cassandre Leroy</na></co>
+<co c="0" n="2"><na f="l/Louren=ccedil=o:Helena_R=">Helena R. Lourenço</na><na>Helena Ramalhinho Dias Lourenço</na></co>
+<co c="0"><na f="m/Meskens:Nadine">Nadine Meskens</na></co>
+<co c="0"><na f="o/Oliveira:Thays_A=">Thays A. Oliveira</na></co>
+<co c="1"><na f="p/Perny:Patrice">Patrice Perny</na></co>
+<co c="0"><na f="r/Riane:Fouad">Fouad Riane</na></co>
+<co c="1"><na f="r/Rolland:Antoine">Antoine Rolland</na></co>
+<co c="0"><na f="r/Roux_0001:Olivier">Olivier Roux 0001</na></co>
+<co c="0"><na f="s/Souza:Marcone_J=_F=">Marcone J. F. Souza</na></co>
+<co c="2"><na f="s/Subramanian:Anand">Anand Subramanian</na></co>
+<co c="0"><na f="t/Talbi:El=Ghazali">El-Ghazali Talbi</na></co>
+<co c="0"><na f="t/Teghem:Jacques">Jacques Teghem</na></co>
+<co c="0"><na f="t/Tuyttens:Daniel">Daniel Tuyttens</na></co>
+</coauthors>
+</dblpperson>
+

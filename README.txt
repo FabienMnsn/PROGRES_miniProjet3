@@ -3,6 +3,9 @@
 +--------------------+
 
 
+
+
+
 +--------------------+
 | TABLE DES MATIERES |
 +--------------------+
@@ -13,6 +16,7 @@
 2) DESCRIPTION DETAILEE DES ROUTES BOTTLE (dans l'ordre du sujet)
 
 3) CONCLUSION & AVIS
+
 
 
 
@@ -37,15 +41,17 @@ Le dernier lien (/LIP6/auteurs) est une fonctionnalité en plus qui n'est pas de
 Pour plus d'informations sur la fonction, cherchez la section dédiée à cette fonction.
 
 
-2)_________________________________________________________
-Toutes les fonctions qui font le gros du travail à savoir :
-- télécharger et traiter un fichier xml
-- chercher les publications
-- chercher les conférences
-- chercher les coautheurs
-- récupérer le rang Core 
-se trouvent dans le fichier 'utils_xml.py'.
-Le programme principal bottle se trouve dans le fichier 'mini_projet.py'.
+2)_______________________________________________________________________________________________________________
+Toutes les fonctions qui font le gros du travail sur les fichiers XML se trouvent dans le fichier 'utils_xml.py'.
+Toutes les fonctions concernant la création des deux graphes sont dans le fichier 'graphe.py'.
+Le programme principal bottle se trouve dans le fichier 'mini_projet_main.py'.
+
+
+3)_______________________________________________________________
+Le répertoire "Auteur/" contient tous les fichiers xml des auteurs. Attention il contient aussi le fichier "lip6.xml" qui regroupe tous les membres permanents du LIP6 calssés par équipes.
+Le répertoire "Graphe/" contient tous les fichiers xml des memebres permanents du LIP. Ces fichiers servent à crééer le graphe complet du LIP6.
+
+
 
 
 
@@ -69,7 +75,6 @@ Cette route bottle gère les erreurs suivantes:
 - S'il existe un homonyme ayant le même nom, on affiche une page d'erreur affichant "il existe plusieurs auteurs ayants le même nom", une indication d'aide et un lien de retour vers la saisie.
 
 
-
 ________________________
 ROUTE 2 : /auteur/<name>
 
@@ -77,7 +82,6 @@ Cette route affiche une page html contenant un tableau récapitulatif de l'auteu
 Quand on clique sur chercher, la fonction va automatiquement télécharger le fichier xml correspondant à l'auteur. Ce fichier xml sera la base pour une grande majorité des fonctionnalités de l'API.
 On retrouve aussi des liens vers les differentes parties de l'API qui concernent l'auteur.
 On ne peut pas par exemple naviguer au graphe du lip6 via la page de l'auteur, il faut retourner au menu principal pour acceder a la route /LIP6 (ou la saisir directement dans la barre d'addresse).
-
 
 
 __________________________________________
@@ -90,7 +94,6 @@ On retrouve des liens de navigations vers le menu principal, vers la page de l'a
 Il arrive que des publications se retrouvent dans la catégorie "Unranked" alors qu'elle ont un rang sur le site core. cela est du au fait que les noms des journaux ne sont pas exactement les mêmes sur le site dblp et sur le site Core. Il peut y avoir des abréviations d'un mot qui fausse la recherche sur le site Core.
 
 
-
 _________________________________
 ROUTE 4 : /auteur/Journals/<name>
 
@@ -100,13 +103,11 @@ On retrouve aussi des liens vers les autre partie de l'API : un lien vers le men
 Cette fonction parcours le fichier xml de l'auteur et recupère tous les articles publiés.
 
 
-
 _____________________________________________
 ROUTE 5 : /auteur/Conferences/synthese/<name>
 
 Cette route fait exactement la même chose que la route 3, elle présente une page html et un tableau des rangs Core.
 Cette route peut prendre un peu de temps à s'afficher car la recherche du nom de la conférence sur le site Core peut donner un tableau de résultats très grand que l'on doit parcourir et tester tous les noms de conférences pour savoir si c'est la bonne.
-
 
 
 ___________________________________
@@ -115,7 +116,6 @@ ROUTE 6 : /auteur/Conference/<name>
 Cette route fait exactement la même chose que la route 4.
 Cette route est très rapide à s'afficher car on ne fait que parcourir le fichier source xml.
 On retrouve les mêmes liens de navigation que ceux de la route 4.
-
 
 
 ____________________________________________
@@ -128,7 +128,6 @@ Cette route peut prendre beaucoup de temps à s'afficher à cauise du nombre de 
 pour résoudre les problèmes de time out de geopy, on a créé une fonction qui fait un appel récursif et s'endort si geopy retourne une exception de time out. 
 
 
-
 __________________________________
 ROUTE 8 : /auteur/coauthors:<name>
 
@@ -136,7 +135,6 @@ Cette route affiche une page html contenant un tableau avec une seule colonne av
 Le titre du tableau affiche le nombre totalk de co-auteurs.
 Cette route est très rapide en temps d'execution car on ne fait que parcourir le fichier xml source.
 Au-dessus du tableau on retouve des liens pour naviguer vers le menu principal et la page de l'auteur.
-
 
 
 ______________________________
@@ -148,13 +146,11 @@ Cette page propose aussi des lien de navigation vers le menu principal et vers l
 Un bouton 'Chercher' permet de valider la saisie et de lancer la recherche.
 
 
-
 ____________________________
 ROUTE 10 : /Conference/Lieux
 
 Cette route affiche en titre le nom de la conférence (l'acronyme) avec un indicateur du nombre d'épingles placées avec geopy et une carte du monde avec des épingles. On retrouve aussi des liens de navigation vers le menu principal et vers la saisie d'un acronyme d'une conférence.
 Cette route peut prendre un peut de temps a charger si il y beaucoup d'épingles a placer car il y a un sleep() dans l'appel a geopy pour gérer le cas du TimeOut.
-
 
 
 ________________
@@ -168,6 +164,7 @@ Nous avons donc utilisé une autre bibliothèque 'Networkx' qui permet de faire 
 Cette route génère un graphe en objets networkx puis grâce à pyplot, l'enregistre au format png. On affiche ensuite le fichier générer sur la page. Chaque appel à la route /LIP6 regénère le graphe. La disposition des noeuds est aléatoire.
 Pour générer le graphe nous avons utilisé un fichier XML contenant toutes les équipes du LIP6 et dans chaque équipe on retrouve tous les membres permanents.
 Nous avons écrit se fichier XML avec un code de script python.
+Il peut manquer quelques membres dans le graphe cela est du à dblp qui propose des fichier xml erronés que l'on ne peut pas traiter et que l'on doit ignorer.
 
 
 
@@ -177,7 +174,6 @@ ROUTE BONUS : /LIP6/auteurs
 Cette route est une route bonus. Nous avons décidé d'ajouter cette route car elle nous semble pertinente.
 Cette route affiche une page html avec un formulaire de saisie qui demande de saisir deux noms d'auteurs.
 Elle fait le lien avec la route /LIP6/Graphe qui est une route statique.
-
 
 
 __________________________

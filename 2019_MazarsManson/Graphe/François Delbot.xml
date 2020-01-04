@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="François Delbot" n="10">
+<person key="homepages/31/1016" mdate="2009-06-09">
+<author>François Delbot</author>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-1909-02843" mdate="2019-09-18">
+<author>Valentin Bouquet</author>
+<author>François Delbot</author>
+<author>Christophe Picouleau</author>
+<title>On the vertices belonging to all, some, none minimum dominating set.</title>
+<year>2019</year>
+<volume>abs/1909.02843</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.02843</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-02843</url>
+</article>
+</r>
+<r><inproceedings key="conf/or/BouquetCDCP18" mdate="2019-09-16">
+<author>Valentin Bouquet</author>
+<author>Kymble Christophe</author>
+<author>François Delbot</author>
+<author>Gaétan Le Chat</author>
+<author>Jean-François Pradat-Peyre</author>
+<title>Minimum Dominating Set and Maximum Independent Set for Evaluation of EU Funding Polices in Collaboration Networks.</title>
+<pages>243-249</pages>
+<year>2018</year>
+<booktitle>OR</booktitle>
+<crossref>conf/or/2018</crossref>
+<url>db/conf/or/or2018.html#BouquetCDCP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/DelbotLR14" mdate="2017-05-17">
+<author>François Delbot</author>
+<author>Christian Laforest</author>
+<author>Stephane Rovedakis</author>
+<title>Self-stabilizing Algorithms for Connected Vertex Cover and Clique Decomposition Problems.</title>
+<pages>307-322</pages>
+<year>2014</year>
+<booktitle>OPODIS</booktitle>
+<crossref>conf/opodis/2014</crossref>
+<url>db/conf/opodis/opodis2014.html#DelbotLR14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DelbotLR14" mdate="2018-08-13">
+<author>François Delbot</author>
+<author>Christian Laforest</author>
+<author>Stephane Rovedakis</author>
+<title>Self-stabilizing algorithms for Connected Vertex Cover and Clique decomposition problems.</title>
+<year>2014</year>
+<volume>abs/1408.2116</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1408.2116</ee>
+<url>db/journals/corr/corr1408.html#DelbotLR14</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwoca/DelbotLP13" mdate="2017-05-17">
+<author>François Delbot</author>
+<author>Christian Laforest</author>
+<author>Raksmey Phan</author>
+<title>New Approximation Algorithms for the Vertex Cover Problem.</title>
+<pages>438-442</pages>
+<year>2013</year>
+<booktitle>IWOCA</booktitle>
+<crossref>conf/iwoca/2013</crossref>
+<url>db/conf/iwoca/iwoca2013.html#DelbotLP13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/BirmeleDLT11" mdate="2017-05-20">
+<author>Etienne Birmelé</author>
+<author>François Delbot</author>
+<author>Christian Laforest</author>
+<author>Nicolas Thibault</author>
+<title>Analyse du nombre de perturbations lors du maintien d'un arbre de connexion de faible diamètre.</title>
+<pages>781-808</pages>
+<year>2011</year>
+<volume>30</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>7</number>
+<url>db/journals/tsi/tsi30.html#BirmeleDLT11</url>
+</article>
+</r>
+<r><article key="journals/jea/DelbotL10" mdate="2018-11-28">
+<author>François Delbot</author>
+<author>Christian Laforest</author>
+<title>Analytical and experimental comparison of six algorithms for the vertex cover problem.</title>
+<year>2010</year>
+<volume>15</volume>
+<journal>ACM Journal of Experimental Algorithmics</journal>
+<url>db/journals/jea/jea15.html#DelbotL10</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Delbot09" mdate="2016-07-14">
+<author>François Delbot</author>
+<title>Au delà de l'évaluation en pire cas : comparaison et évaluation en moyenne de processus d'optimisation pour le problème du vertex cover et des arbres de connexion de groupes dynamiques. (Beyond the worst case evaluation: Comparison and average evaluation of optimization processes in the case of the vertex cover problem and trees connecting groups).</title>
+<year>2009</year>
+<school>University of Évry Val d'Essonne, France</school>
+</phdthesis>
+</r>
+<r><article key="journals/ipl/BirmeleDL09" mdate="2017-05-26">
+<author>Etienne Birmelé</author>
+<author>François Delbot</author>
+<author>Christian Laforest</author>
+<title>Mean analysis of an online algorithm for the vertex cover problem.</title>
+<pages>436-439</pages>
+<year>2009</year>
+<volume>109</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>9</number>
+<url>db/journals/ipl/ipl109.html#BirmeleDL09</url>
+</article>
+</r>
+<r><article key="journals/ipl/DelbotL08" mdate="2017-05-26">
+<author>François Delbot</author>
+<author>Christian Laforest</author>
+<title>A better list heuristic for vertex cover.</title>
+<pages>125-127</pages>
+<year>2008</year>
+<volume>107</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3-4</number>
+<url>db/journals/ipl/ipl107.html#DelbotL08</url>
+</article>
+</r>
+<coauthors n="10" nc="2">
+<co c="0"><na f="b/Birmel=eacute=:Etienne">Etienne Birmelé</na></co>
+<co c="1"><na f="b/Bouquet:Valentin">Valentin Bouquet</na></co>
+<co c="1"><na f="c/Chat:Ga=eacute=tan_Le">Gaétan Le Chat</na></co>
+<co c="1"><na f="c/Christophe:Kymble">Kymble Christophe</na></co>
+<co c="0"><na f="l/Laforest:Christian">Christian Laforest</na></co>
+<co c="0"><na f="p/Phan:Raksmey">Raksmey Phan</na></co>
+<co c="1"><na f="p/Picouleau:Christophe">Christophe Picouleau</na></co>
+<co c="1"><na f="p/Pradat=Peyre:Jean=Fran=ccedil=ois">Jean-François Pradat-Peyre</na></co>
+<co c="0"><na f="r/Rovedakis:Stephane">Stephane Rovedakis</na></co>
+<co c="0"><na f="t/Thibault:Nicolas">Nicolas Thibault</na></co>
+</coauthors>
+</dblpperson>
+

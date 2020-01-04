@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Mathieu Muratet" n="13">
+<person key="homepages/93/9260" mdate="2011-03-25">
+<author>Mathieu Muratet</author>
+</person>
+<r><inproceedings key="conf/ectel/GuinebertYML19" mdate="2019-09-09">
+<author>Mathieu Guinebert</author>
+<author>Amel Yessad</author>
+<author>Mathieu Muratet</author>
+<author>Vanda Luengo</author>
+<title>Automatic Detection of Peer Interactions in Multi-player Learning Games.</title>
+<pages>349-361</pages>
+<year>2019</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2019</crossref>
+<url>db/conf/ectel/ectel2019.html#GuinebertYML19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/GuinebertYML17" mdate="2017-09-05">
+<author>Mathieu Guinebert</author>
+<author>Amel Yessad</author>
+<author>Mathieu Muratet</author>
+<author>Vanda Luengo</author>
+<title>An Ontology for Describing Scenarios of Multi-players Learning Games: Toward an Automatic Detection of Group Interactions.</title>
+<pages>410-415</pages>
+<year>2017</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2017</crossref>
+<url>db/conf/ectel/ectel2017.html#GuinebertYML17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/MuratetYC16" mdate="2017-05-24">
+<author>Mathieu Muratet</author>
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<title>Framework for Learner Assessment in Learning Games.</title>
+<pages>622-626</pages>
+<year>2016</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2016</crossref>
+<url>db/conf/ectel/ectel2016.html#MuratetYC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwl/MuratetYC16" mdate="2017-05-25">
+<author>Mathieu Muratet</author>
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<title>Understanding Learners' Behaviors in Serious Games.</title>
+<pages>195-205</pages>
+<year>2016</year>
+<booktitle>ICWL</booktitle>
+<crossref>conf/icwl/2016</crossref>
+<url>db/conf/icwl/icwl2016.html#MuratetYC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icchp/PopescuVMGVVHELBCHB14" mdate="2017-05-19">
+<author>Cristina Popescu</author>
+<author>Nadine Vigouroux</author>
+<author>Mathieu Muratet</author>
+<author>Julie Guillot</author>
+<author>Petra Vlad</author>
+<author>Frédéric Vella</author>
+<author>Jawad Hajjam</author>
+<author>Sylvie Ervé</author>
+<author>Nathalie Louis</author>
+<author>Julie Brin</author>
+<author>Joseph Colineau</author>
+<author>Thierry Hobé</author>
+<author>Loïc Brimant</author>
+<title>EyeSchool: An Educational Assistive Technology for People with Disabilities - Passing from Single Actors to Multiple-Actor Environment.</title>
+<pages>210-217</pages>
+<year>2014</year>
+<booktitle>ICCHP (2)</booktitle>
+<crossref>conf/icchp/2014-2</crossref>
+<url>db/conf/icchp/icchp2014-2.html#PopescuVMGVVHELBCHB14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijlt/MuratetDTV12" mdate="2017-05-09">
+<author>Mathieu Muratet</author>
+<author>Élisabeth Delozanne</author>
+<author>Patrice Torguet</author>
+<author>Fabienne Viallet</author>
+<title>Addressing teachers' concerns about the ProgandPlay serious game with context adaptation.</title>
+<pages>419-433</pages>
+<year>2012</year>
+<volume>7</volume>
+<journal>IJLT</journal>
+<number>4</number>
+<url>db/journals/ijlt/ijlt7.html#MuratetDTV12</url>
+</article>
+</r>
+<r><inproceedings key="conf/its/MuratetDTV12" mdate="2017-05-21">
+<author>Mathieu Muratet</author>
+<author>Élisabeth Delozanne</author>
+<author>Patrice Torguet</author>
+<author>Fabienne Viallet</author>
+<title>Serious Game and Students' Learning Motivation: Effect of Context Using ProgandPlay.</title>
+<pages>123-128</pages>
+<year>2012</year>
+<booktitle>ITS</booktitle>
+<crossref>conf/its/2012</crossref>
+<url>db/conf/its/its2012.html#MuratetDTV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/ThomasLMY12" mdate="2017-05-21">
+<author>Pradeepa Thomas</author>
+<author>Jean-Marc Labat</author>
+<author>Mathieu Muratet</author>
+<author>Amel Yessad</author>
+<title>How to Evaluate Competencies in Game-Based Learning Systems Automatically?</title>
+<pages>168-173</pages>
+<year>2012</year>
+<booktitle>ITS</booktitle>
+<crossref>conf/its/2012</crossref>
+<url>db/conf/its/its2012.html#ThomasLMY12</url>
+</inproceedings>
+</r>
+<r><article key="journals/cgf/MuratetTVJ11" mdate="2017-05-26">
+<author>Mathieu Muratet</author>
+<author>Patrice Torguet</author>
+<author>Fabienne Viallet</author>
+<author>Jean-Pierre Jessel</author>
+<title>Experimental Feedback on ProgandPlay: A Serious Game for Programming Practice.</title>
+<pages>61-73</pages>
+<year>2011</year>
+<volume>30</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>1</number>
+<url>db/journals/cgf/cgf30.html#MuratetTVJ11</url>
+</article>
+</r>
+<r><article key="journals/ria/MuratetTVJ11" mdate="2017-05-27">
+<author>Mathieu Muratet</author>
+<author>Patrice Torguet</author>
+<author>Fabienne Viallet</author>
+<author>Jean-Pierre Jessel</author>
+<title>Évaluation d'un jeu sérieux pour l'apprentissage de la programmation.</title>
+<pages>175-202</pages>
+<year>2011</year>
+<volume>25</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>2</number>
+<url>db/journals/ria/ria25.html#MuratetTVJ11</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Muratet10" mdate="2016-07-11">
+<author>Mathieu Muratet</author>
+<title>Conception, réalisation et évaluation d'un jeu sérieux de stratégie temps réel pour l'apprentissage des fondamentaux de la programmation. (Conception, Implementation and Evaluation of a Real Time Strategy Serious Game Dedicated to Introduce Programming Fundamentals).</title>
+<year>2010</year>
+<school>Paul Sabatier University, Toulouse, France</school>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/eurographics/MuratetTVJ10" mdate="2017-05-21">
+<author>Mathieu Muratet</author>
+<author>Patrice Torguet</author>
+<author>Fabienne Viallet</author>
+<author>Jean-Pierre Jessel</author>
+<title>Experimental Feedback on Prog and Play, a Serious Game for Programming Practice.</title>
+<pages>41-48</pages>
+<year>2010</year>
+<booktitle>Eurographics (Education Papers)</booktitle>
+<crossref>conf/eurographics/2010education</crossref>
+<url>db/conf/eurographics/eg-education2010.html#MuratetTVJ10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcgt/MuratetTJV09" mdate="2018-11-24">
+<author>Mathieu Muratet</author>
+<author orcid="0000-0002-0444-6654">Patrice Torguet</author>
+<author>Jean-Pierre Jessel</author>
+<author>Fabienne Viallet</author>
+<title>Towards a Serious Game to Help Students Learn Computer Programming.</title>
+<year>2009</year>
+<volume>2009</volume>
+<journal>Int. J. Computer Games Technology</journal>
+<ee type="oa">https://doi.org/10.1155/2009/470590</ee>
+<url>db/journals/ijcgt/ijcgt2009.html#MuratetTJV09</url>
+<pages>470590:1-470590:12</pages>
+</article>
+</r>
+<coauthors n="22" nc="3">
+<co c="0"><na f="b/Brimant:Lo=iuml=c">Loïc Brimant</na></co>
+<co c="0"><na f="b/Brin:Julie">Julie Brin</na></co>
+<co c="1"><na f="c/Carron:Thibault">Thibault Carron</na></co>
+<co c="0"><na f="c/Colineau:Joseph">Joseph Colineau</na></co>
+<co c="2"><na f="d/Delozanne:=Eacute=lisabeth">Élisabeth Delozanne</na></co>
+<co c="0"><na f="e/Erv=eacute=:Sylvie">Sylvie Ervé</na></co>
+<co c="0"><na f="g/Guillot:Julie">Julie Guillot</na></co>
+<co c="1"><na f="g/Guinebert:Mathieu">Mathieu Guinebert</na></co>
+<co c="0"><na f="h/Hajjam:Jawad">Jawad Hajjam</na></co>
+<co c="0"><na f="h/Hob=eacute=:Thierry">Thierry Hobé</na></co>
+<co c="2"><na f="j/Jessel:Jean=Pierre">Jean-Pierre Jessel</na></co>
+<co c="1"><na f="l/Labat:Jean=Marc">Jean-Marc Labat</na></co>
+<co c="0"><na f="l/Louis:Nathalie">Nathalie Louis</na></co>
+<co c="1"><na f="l/Luengo:Vanda">Vanda Luengo</na></co>
+<co c="0"><na f="p/Popescu:Cristina">Cristina Popescu</na></co>
+<co c="1"><na f="t/Thomas:Pradeepa">Pradeepa Thomas</na></co>
+<co c="2"><na f="t/Torguet:Patrice">Patrice Torguet</na></co>
+<co c="0"><na f="v/Vella:Fr=eacute=d=eacute=ric">Frédéric Vella</na></co>
+<co c="2"><na f="v/Viallet:Fabienne">Fabienne Viallet</na></co>
+<co c="0"><na f="v/Vigouroux:Nadine">Nadine Vigouroux</na></co>
+<co c="0"><na f="v/Vlad:Petra">Petra Vlad</na></co>
+<co c="1"><na f="y/Yessad:Amel">Amel Yessad</na></co>
+</coauthors>
+</dblpperson>
+

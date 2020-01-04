@@ -1,0 +1,2614 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Serge Fdida" n="179">
+<person key="homepages/35/4858" mdate="2009-06-10">
+<author>Serge Fdida</author>
+</person>
+<r><article key="journals/cm/MontpetitFW19" mdate="2019-07-26">
+<author>Marie-José Montpetit</author>
+<author>Serge Fdida</author>
+<author>Jianping Wang 0001</author>
+<title>Future Internet: Architectures and Protocols.</title>
+<pages>12</pages>
+<year>2019</year>
+<volume>57</volume>
+<journal>IEEE Communications Magazine</journal>
+<number>7</number>
+<url>db/journals/cm/cm57.html#MontpetitFW19</url>
+</article>
+</r>
+<r><article key="journals/cn/NguyenMF19" mdate="2019-02-09">
+<author>Thi-Minh Nguyen</author>
+<author>Michel Minoux</author>
+<author>Serge Fdida</author>
+<title>Optimizing resource utilization in NFV dynamic systems: New exact and heuristic approaches.</title>
+<pages>129-141</pages>
+<year>2019</year>
+<volume>148</volume>
+<journal>Computer Networks</journal>
+<url>db/journals/cn/cn148.html#NguyenMF19</url>
+</article>
+</r>
+<r><article key="journals/ton/NguyenGRF19" mdate="2019-07-05">
+<author orcid="0000-0002-8882-4404">Thi-Minh Nguyen</author>
+<author orcid="0000-0003-4540-9793">André Girard</author>
+<author orcid="0000-0002-1915-243X">Catherine Rosenberg</author>
+<author>Serge Fdida</author>
+<title>Routing via Functions in Virtual Networks: The Curse of Choices.</title>
+<pages>1192-1205</pages>
+<year>2019</year>
+<volume>27</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>3</number>
+<url>db/journals/ton/ton27.html#NguyenGRF19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-04467" mdate="2018-08-13">
+<author>Loïc Baron</author>
+<author>Radomir Klacza</author>
+<author>Pauline Gaudet-Chardonnet</author>
+<author>Amira Bradai</author>
+<author>Ciro Scognamiglio</author>
+<author>Serge Fdida</author>
+<title>Next generation portal for federated testbeds MySlice v2: from prototype to production.</title>
+<year>2018</year>
+<volume>abs/1806.04467</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.04467</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-04467</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/PhamNFB17" mdate="2019-09-25">
+<author orcid="0000-0001-9994-5773">Tuan-Minh Pham</author>
+<author>Thi-Thuy-Lien Nguyen</author>
+<author>Serge Fdida</author>
+<author>Huynh Thi Thanh Binh</author>
+<title>Online load balancing for Network Functions Virtualization.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>ICC</booktitle>
+<crossref>conf/icc/2017</crossref>
+<url>db/conf/icc/icc2017.html#PhamNFB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netsoft/NguyenFP17" mdate="2019-09-25">
+<author>Thi-Minh Nguyen</author>
+<author>Serge Fdida</author>
+<author orcid="0000-0001-9994-5773">Tuan-Minh Pham</author>
+<title>A comprehensive resource management and placement for network function virtualization.</title>
+<pages>1-9</pages>
+<year>2017</year>
+<booktitle>NetSoft</booktitle>
+<crossref>conf/netsoft/2017</crossref>
+<url>db/conf/netsoft/netsoft2017.html#NguyenFP17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PhamNFB17" mdate="2018-08-13">
+<author>Tuan-Minh Pham</author>
+<author>Thi-Thuy-Lien Nguyen</author>
+<author>Serge Fdida</author>
+<author>Huynh Thi Thanh Binh</author>
+<title>Online Load Balancing for Network Functions Virtualization.</title>
+<year>2017</year>
+<volume>abs/1702.07219</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.07219</ee>
+<url>db/journals/corr/corr1702.html#PhamNFB17</url>
+</article>
+</r>
+<r><article key="journals/monet/TseXPFRM16" mdate="2017-06-22">
+<author>Rita Tse</author>
+<author>Yubin Xiao</author>
+<author orcid="0000-0003-2216-7170">Giovanni Pau 0001</author>
+<author>Serge Fdida</author>
+<author>Marco Roccetti</author>
+<author>Gustavo Marfia</author>
+<title>Sensing Pollution on Online Social Networks: A Transportation Perspective.</title>
+<pages>688-707</pages>
+<year>2016</year>
+<volume>21</volume>
+<journal>MONET</journal>
+<number>4</number>
+<url>db/journals/monet/monet21.html#TseXPFRM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciss/HuSKSDF16" mdate="2017-11-30">
+<author>Xinyi Hu</author>
+<author>Yuquan Shan</author>
+<author>George Kesidis</author>
+<author>Saswati Sarkar</author>
+<author>R. Dhar</author>
+<author>Serge Fdida</author>
+<title>Multiperiod subscription pricing for cellular wireless entrants.</title>
+<pages>326-330</pages>
+<year>2016</year>
+<booktitle>CISS</booktitle>
+<crossref>conf/ciss/2016</crossref>
+<url>db/conf/ciss/ciss2016.html#HuSKSDF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interiot/ZieglerFVW16" mdate="2018-12-19">
+<author>Sébastien Ziegler</author>
+<author>Serge Fdida</author>
+<author>César Viho</author>
+<author>Thomas Watteyne</author>
+<title>F-Interop - Online Platform of Interoperability and Performance Tests for the Internet of Things.</title>
+<pages>49-55</pages>
+<year>2016</year>
+<booktitle>InterIoT/SaSeIoT</booktitle>
+<crossref>conf/interiot/2016</crossref>
+<url>db/conf/interiot/interiot2016.html#ZieglerFVW16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ue/BaronKRSKFF15" mdate="2017-05-26">
+<author>Loïc Baron</author>
+<author>Radomir Klacza</author>
+<author>Mohammed Yasin Rahman</author>
+<author>Ciro Scognamiglio</author>
+<author>Nina Kurose</author>
+<author>Timur Friedman</author>
+<author>Serge Fdida</author>
+<title>OneLab Tutorial: A Single Portal to Heterogeneous Testbeds.</title>
+<pages>e4</pages>
+<year>2015</year>
+<volume>2</volume>
+<journal>EAI Endorsed Trans. Ubiquitous Environments</journal>
+<number>6</number>
+<url>db/journals/ue/ue2.html#BaronKRSKFF15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloudcomp/ChoumasKLKSKMSY15" mdate="2017-05-25">
+<author>Kostas Choumas</author>
+<author>Thanasis Korakis</author>
+<author>Hyunwoo Lee</author>
+<author>Donghyun Kim</author>
+<author>Junho Suh</author>
+<author>Ted Taekyoung Kwon</author>
+<author>Pedro Martinez-Julia</author>
+<author>Antonio F. Skarmeta</author>
+<author>Taewan You</author>
+<author>Loïc Baron</author>
+<author>Serge Fdida</author>
+<author>JongWon Kim</author>
+<title>Enabling SDN Experimentation with Wired and Wireless Resources: The SmartFIRE Facility.</title>
+<pages>280-290</pages>
+<year>2015</year>
+<booktitle>CloudComp</booktitle>
+<crossref>conf/cloudcomp/2015</crossref>
+<url>db/conf/cloudcomp/cloudcomp2015.html#ChoumasKLKSKMSY15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/KesidisMGF15" mdate="2019-07-26">
+<author>George Kesidis</author>
+<author>Douglas Mercer</author>
+<author>Christopher Griffin 0001</author>
+<author>Serge Fdida</author>
+<title>Roaming charges for customers of cellular-wireless entrant providers.</title>
+<pages>1-5</pages>
+<year>2015</year>
+<booktitle>INFOCOM Workshops</booktitle>
+<crossref>conf/infocom/2015w</crossref>
+<url>db/conf/infocom/infocom2015w.html#KesidisMGF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/BaronSRKCKFF15" mdate="2017-05-16">
+<author>Loïc Baron</author>
+<author>Ciro Scognamiglio</author>
+<author>Mohammed Yasin Rahman</author>
+<author>Radomir Klacza</author>
+<author>Danilo Cicalese</author>
+<author>Nina Kurose</author>
+<author>Timur Friedman</author>
+<author>Serge Fdida</author>
+<title>OneLab: Major computer networking testbeds open to the IEEE INFOCOM community.</title>
+<pages>3-4</pages>
+<year>2015</year>
+<booktitle>INFOCOM Workshops</booktitle>
+<crossref>conf/infocom/2015w</crossref>
+<url>db/conf/infocom/infocom2015w.html#BaronSRKCKFF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/PesaventoGPBF15" mdate="2018-11-06">
+<author>Davide Pesavento</author>
+<author>Giulio Grassi</author>
+<author orcid="0000-0003-2216-7170">Giovanni Pau 0001</author>
+<author>Paramvir Bahl</author>
+<author>Serge Fdida</author>
+<title>Demo: Car-Fi: Opportunistic V2I by Exploiting Dual-Access Wi-Fi Networks.</title>
+<pages>173-175</pages>
+<year>2015</year>
+<booktitle>MobiCom</booktitle>
+<crossref>conf/mobicom/2015</crossref>
+<url>db/conf/mobicom/mobicom2015.html#PesaventoGPBF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/BaronBKRSKFF15" mdate="2018-11-06">
+<author>Loïc Baron</author>
+<author>Fadwa Boubekeur</author>
+<author>Radomir Klacza</author>
+<author>Mohammed Yasin Rahman</author>
+<author>Ciro Scognamiglio</author>
+<author>Nina Kurose</author>
+<author>Timur Friedman</author>
+<author>Serge Fdida</author>
+<title>Demo: OneLab: Major Computer Networking Testbeds for IoT and Wireless Experimentation.</title>
+<pages>199-200</pages>
+<year>2015</year>
+<booktitle>MobiCom</booktitle>
+<crossref>conf/mobicom/2015</crossref>
+<url>db/conf/mobicom/mobicom2015.html#BaronBKRSKFF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wowmom/GrassiPP0F15" mdate="2017-06-22">
+<author>Giulio Grassi</author>
+<author>Davide Pesavento</author>
+<author orcid="0000-0003-2216-7170">Giovanni Pau 0001</author>
+<author>Lixia Zhang 0001</author>
+<author>Serge Fdida</author>
+<title>Navigo: Interest forwarding by geolocations in vehicular Named Data Networking.</title>
+<pages>1-10</pages>
+<year>2015</year>
+<booktitle>WOWMOM</booktitle>
+<crossref>conf/wowmom/2015</crossref>
+<url>db/conf/wowmom/wowmom2015.html#GrassiPP0F15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/mobicom/2015" mdate="2017-06-22">
+<editor>Serge Fdida</editor>
+<editor>Giovanni Pau 0001</editor>
+<editor>Sneha Kumar Kasera</editor>
+<editor>Heather Zheng</editor>
+<title>Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, MobiCom 2015, Paris, France, September 7-11, 2015</title>
+<publisher>ACM</publisher>
+<booktitle>MobiCom</booktitle>
+<year>2015</year>
+<isbn>978-1-4503-3619-2</isbn>
+<url>db/conf/mobicom/mobicom2015.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GrassiPP0F15" mdate="2018-08-13">
+<author>Giulio Grassi</author>
+<author>Davide Pesavento</author>
+<author>Giovanni Pau 0001</author>
+<author>Lixia Zhang 0001</author>
+<author>Serge Fdida</author>
+<title>Navigo: Interest Forwarding by Geolocations in Vehicular Named Data Networking.</title>
+<year>2015</year>
+<volume>abs/1503.01713</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1503.01713</ee>
+<url>db/journals/corr/corr1503.html#GrassiPP0F15</url>
+</article>
+</r>
+<r><article key="journals/cn/AugePTABLRFF14" mdate="2017-05-18">
+<author>Jordan Augé</author>
+<author>Thierry Parmentelat</author>
+<author>Nicolas Turro</author>
+<author>Sandrine Avakian</author>
+<author>Loïc Baron</author>
+<author>Mohamed Amine Larabi</author>
+<author>Mohammed Yasin Rahman</author>
+<author>Timur Friedman</author>
+<author>Serge Fdida</author>
+<title>Tools to foster a global federation of testbeds.</title>
+<pages>205-220</pages>
+<year>2014</year>
+<volume>63</volume>
+<journal>Computer Networks</journal>
+<url>db/journals/cn/cn63.html#AugePTABLRFF14</url>
+</article>
+</r>
+<r><article key="journals/jisa/TatarAFA14" mdate="2019-06-02">
+<author>Alexandru-Florin Tatar</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<author>Panayotis Antoniadis</author>
+<title>A survey on predicting the popularity of web content.</title>
+<year>2014</year>
+<pages>8:1-8:20</pages>
+<volume>5</volume>
+<journal>J. Internet Services and Applications</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13174-014-0008-y</ee>
+<url>db/journals/jisa/jisa5.html#TatarAFA14</url>
+</article>
+</r>
+<r><article key="journals/snam/TatarAAF14" mdate="2017-05-27">
+<author>Alexandru-Florin Tatar</author>
+<author>Panayotis Antoniadis</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>From popularity prediction to ranking online news.</title>
+<year>2014</year>
+<volume>4</volume>
+<journal>Social Netw. Analys. Mining</journal>
+<number>1</number>
+<url>db/journals/snam/snam4.html#TatarAAF14</url>
+<pages>174</pages>
+</article>
+</r>
+<r><inproceedings key="conf/networking/LertsinsrubtaveeMF14" mdate="2019-02-22">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Hybrid spectrum sharing through adaptive spectrum handoff for cognitive radio networks.</title>
+<pages>1-9</pages>
+<year>2014</year>
+<booktitle>Networking</booktitle>
+<crossref>conf/networking/2014</crossref>
+<url>db/conf/networking/networking2014.html#LertsinsrubtaveeMF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/WillnerACSMASFB14" mdate="2019-09-16">
+<author orcid="0000-0002-8615-4902">Alexander Willner</author>
+<author>Stephan Albrecht</author>
+<author>Stefan Covaci</author>
+<author>Florian Schreiner 0001</author>
+<author>Thomas Magedanz</author>
+<author>Susanna Avessta</author>
+<author>Ciro Scognamiglio</author>
+<author>Serge Fdida</author>
+<author>Udo Bub</author>
+<title>FanTaaStic: Sustainable management of Future Internet testbed federations.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>NOMS</booktitle>
+<crossref>conf/noms/2014</crossref>
+<url>db/conf/noms/noms2014.html#WillnerACSMASFB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wons/TatarPACF14" mdate="2017-05-17">
+<author>Alexandru-Florin Tatar</author>
+<author>Tiphaine Phe-Neau</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Vania Conan</author>
+<author>Serge Fdida</author>
+<title>Beyond contact predictions in mobile opportunistic networks.</title>
+<pages>65-72</pages>
+<year>2014</year>
+<booktitle>WONS</booktitle>
+<crossref>conf/wons/2014</crossref>
+<url>db/conf/wons/wons2014.html#TatarPACF14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KesidisMGF14" mdate="2019-07-26">
+<author>George Kesidis</author>
+<author>Douglas Mercer</author>
+<author>Christopher Griffin 0001</author>
+<author>Serge Fdida</author>
+<title>Roaming charges for customers of cellular-wireless entrant and incumbent providers.</title>
+<year>2014</year>
+<volume>abs/1409.6281</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1409.6281</ee>
+<url>db/journals/corr/corr1409.html#KesidisMGF14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TseXPRFM14" mdate="2018-08-13">
+<author>Rita Tse</author>
+<author>Yubin Xiao</author>
+<author>Giovanni Pau 0001</author>
+<author>Marco Roccetti</author>
+<author>Serge Fdida</author>
+<author>Gustavo Marfia</author>
+<title>On the Feasibility of Social Network-based Pollution Sensing in ITSs.</title>
+<year>2014</year>
+<volume>abs/1411.6573</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1411.6573</ee>
+<url>db/journals/corr/corr1411.html#TseXPRFM14</url>
+</article>
+</r>
+<r><article key="journals/cn/VieiraRBF13" mdate="2017-06-05">
+<author>Fabio R. J. Vieira</author>
+<author>José Ferreira de Rezende</author>
+<author orcid="0000-0003-1010-7170">Valmir Carneiro Barbosa</author>
+<author>Serge Fdida</author>
+<title>Local heuristic for the refinement of multi-path routing in wireless mesh networks.</title>
+<pages>273-285</pages>
+<year>2013</year>
+<volume>57</volume>
+<journal>Computer Networks</journal>
+<number>1</number>
+<url>db/journals/cn/cn57.html#VieiraRBF13</url>
+</article>
+</r>
+<r><article key="journals/cn/DialloSFFT13" mdate="2017-05-18">
+<author>Mohamed Diallo</author>
+<author>Vasilis Sourlas</author>
+<author>Paris Flegkas</author>
+<author>Serge Fdida</author>
+<author>Leandros Tassiulas</author>
+<title>A content-based publish/subscribe framework for large-scale content delivery.</title>
+<pages>924-943</pages>
+<year>2013</year>
+<volume>57</volume>
+<journal>Computer Networks</journal>
+<number>4</number>
+<url>db/journals/cn/cn57.html#DialloSFFT13</url>
+</article>
+</r>
+<r><article key="journals/comcom/RehmaniVKF13" mdate="2017-06-05">
+<author orcid="0000-0002-3565-7390">Mubashir Husain Rehmani</author>
+<author>Aline Carneiro Viana</author>
+<author>Hicham Khalife</author>
+<author>Serge Fdida</author>
+<title>SURF: A distributed channel selection strategy for data dissemination in multi-hop cognitive radio networks.</title>
+<pages>1172-1185</pages>
+<year>2013</year>
+<volume>36</volume>
+<journal>Computer Communications</journal>
+<number>10-11</number>
+<url>db/journals/comcom/comcom36.html#RehmaniVKF13</url>
+</article>
+</r>
+<r><article key="journals/ejwcn/AntoniadisFGJK13" mdate="2019-07-26">
+<author>Panayotis Antoniadis</author>
+<author>Serge Fdida</author>
+<author>Christopher Griffin 0001</author>
+<author>Youngmi Jin</author>
+<author>George Kesidis</author>
+<title>Distributed medium access control with conditionally altruistic users.</title>
+<pages>202</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>EURASIP J. Wireless Comm. and Networking</journal>
+<ee type="oa">https://doi.org/10.1186/1687-1499-2013-202</ee>
+<url>db/journals/ejwcn/ejwcn2013.html#AntoniadisFGJK13</url>
+</article>
+</r>
+<r><inproceedings key="conf/infocom/LertsinsrubtaveeMF13" mdate="2017-05-16">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Efficient dynamic spectrum sharing through rate compensation and spectrum handoff.</title>
+<pages>19-20</pages>
+<year>2013</year>
+<booktitle>INFOCOM</booktitle>
+<crossref>conf/infocom/2013</crossref>
+<url>db/conf/infocom/infocom2013.html#LertsinsrubtaveeMF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/LertsinsrubtaveeMF13a" mdate="2017-05-16">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Efficient dynamic spectrum sharing through rate compensation and spectrum handoff.</title>
+<pages>85-86</pages>
+<year>2013</year>
+<booktitle>INFOCOM Workshops</booktitle>
+<crossref>conf/infocom/2013w</crossref>
+<url>db/conf/infocom/infocom2013w.html#LertsinsrubtaveeMF13a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/PhamFA13" mdate="2017-04-29">
+<author>Tuan-Minh Pham</author>
+<author>Serge Fdida</author>
+<author>Panayotis Antoniadis</author>
+<title>Pricing in Information-Centric Network interconnection.</title>
+<pages>1-9</pages>
+<year>2013</year>
+<booktitle>Networking</booktitle>
+<crossref>conf/networking/2013</crossref>
+<url>db/conf/networking/networking2013.html#PhamFA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socialcom/KocakKPF13" mdate="2017-06-15">
+<author>Fatih Kocak</author>
+<author>George Kesidis</author>
+<author orcid="0000-0001-9994-5773">Tuan-Minh Pham</author>
+<author>Serge Fdida</author>
+<title>The Effect of Caching on a Model of Content and Access Provider Revenues in Information-centric Networks.</title>
+<pages>45-50</pages>
+<year>2013</year>
+<booktitle>SocialCom</booktitle>
+<crossref>conf/socialcom/2013</crossref>
+<url>db/conf/socialcom/socialcom2013.html#KocakKPF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wd/RegganiWAFCF13" mdate="2017-09-16">
+<author>Ahlem Reggani</author>
+<author>John Whitbeck</author>
+<author>Marcelo Dias de Amorim</author>
+<author orcid="0000-0003-1604-0915">Mauro Fonseca</author>
+<author>Vania Conan</author>
+<author>Serge Fdida</author>
+<title>Mobility trace breeding.</title>
+<pages>1-3</pages>
+<year>2013</year>
+<booktitle>Wireless Days</booktitle>
+<crossref>conf/wd/2013</crossref>
+<url>db/conf/wd/wd2013.html#RegganiWAFCF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wowmom/LertsinsrubtaveeMFK13" mdate="2017-05-26">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<author>Kanchana Kanchanasut</author>
+<title>Spectrum sharing and impact on spectrum handoff in multi-channel cognitive radio networks.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>WOWMOM</booktitle>
+<crossref>conf/wowmom/2013</crossref>
+<url>db/conf/wowmom/wowmom2013.html#LertsinsrubtaveeMFK13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-1942" mdate="2018-08-13">
+<author>Fatih Kocak</author>
+<author>George Kesidis</author>
+<author>Tuan-Minh Pham</author>
+<author>Serge Fdida</author>
+<title>The effect of caching on a model of content and access provider revenues in information-centric networks</title>
+<ee type="oa">http://arxiv.org/abs/1304.1942</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.1942</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-1942</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GriffinKAF13" mdate="2019-07-26">
+<author>Christopher Griffin 0001</author>
+<author>George Kesidis</author>
+<author>Panayotis Antoniadis</author>
+<author>Serge Fdida</author>
+<title>Modeling and Control of Rare Segments in BitTorrent with Epidemic Dynamics.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1306.3160</ee>
+<volume>abs/1306.3160</volume>
+<url>db/journals/corr/corr1306.html#GriffinKAF13</url>
+</article>
+</r>
+<r><article key="journals/cn/BezahafIAF12" mdate="2017-05-18">
+<author>Mehdi Bezahaf</author>
+<author>Luigi Iannone</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>An experimental evaluation of cross-layer routing in a wireless mesh backbone.</title>
+<pages>1568-1583</pages>
+<year>2012</year>
+<volume>56</volume>
+<journal>Computer Networks</journal>
+<number>5</number>
+<url>db/journals/cn/cn56.html#BezahafIAF12</url>
+</article>
+</r>
+<r><article key="journals/cn/VieiraRBF12" mdate="2017-06-05">
+<author>Fabio R. J. Vieira</author>
+<author>José Ferreira de Rezende</author>
+<author orcid="0000-0003-1010-7170">Valmir Carneiro Barbosa</author>
+<author>Serge Fdida</author>
+<title>Scheduling links for heavy traffic on interfering routes in wireless mesh networks.</title>
+<pages>1584-1598</pages>
+<year>2012</year>
+<volume>56</volume>
+<journal>Computer Networks</journal>
+<number>5</number>
+<url>db/journals/cn/cn56.html#VieiraRBF12</url>
+</article>
+</r>
+<r><article key="journals/cn/PhamF12" mdate="2017-06-05">
+<author orcid="0000-0001-9994-5773">Tuan-Minh Pham</author>
+<author>Serge Fdida</author>
+<title>DTN support for news dissemination in an urban area.</title>
+<pages>2276-2291</pages>
+<year>2012</year>
+<volume>56</volume>
+<journal>Computer Networks</journal>
+<number>9</number>
+<url>db/journals/cn/cn56.html#PhamF12</url>
+</article>
+</r>
+<r><inproceedings key="conf/adhocnets/AntoniadisFGJK12" mdate="2019-07-26">
+<author>Panayotis Antoniadis</author>
+<author>Serge Fdida</author>
+<author>Christopher Griffin 0001</author>
+<author>Youngmi Jin</author>
+<author>George Kesidis</author>
+<title>Distributed Medium Access Control with Dynamic Altruism.</title>
+<pages>29-42</pages>
+<year>2012</year>
+<booktitle>ADHOCNETS</booktitle>
+<crossref>conf/adhocnets/2012</crossref>
+<url>db/conf/adhocnets/adhocnets2012.html#AntoniadisFGJK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aintec/SpathisGWF12" mdate="2018-11-06">
+<author>Prométhée Spathis</author>
+<author>Raul Adrian Gorcitz</author>
+<author>Ryuji Wakikawa</author>
+<author>Serge Fdida</author>
+<title>Dissecting dissemination in VANETs.</title>
+<pages>62-68</pages>
+<year>2012</year>
+<booktitle>AINTEC</booktitle>
+<crossref>conf/aintec/2012</crossref>
+<url>db/conf/aintec/aintec2012.html#SpathisGWF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asunam/TatarAAF12" mdate="2017-05-23">
+<author>Alexandru-Florin Tatar</author>
+<author>Panayotis Antoniadis</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>Ranking News Articles Based on Popularity Prediction.</title>
+<pages>106-110</pages>
+<year>2012</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2012</crossref>
+<url>db/conf/asunam/asonam2012.html#TatarAAF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icccn/LertsinsrubtaveeMF12" mdate="2017-05-17">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Controlling Spectrum Handoff with a Delay Requirement in Cognitive Radio Networks.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>ICCCN</booktitle>
+<crossref>conf/icccn/2012</crossref>
+<url>db/conf/icccn/icccn2012.html#LertsinsrubtaveeMF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/RozhnovaF12" mdate="2017-05-16">
+<author>Natalya Rozhnova</author>
+<author>Serge Fdida</author>
+<title>An effective hop-by-hop Interest shaping mechanism for CCN communications.</title>
+<pages>322-327</pages>
+<year>2012</year>
+<booktitle>INFOCOM Workshops</booktitle>
+<crossref>conf/infocom/2012w</crossref>
+<url>db/conf/infocom/infocom2012w.html#RozhnovaF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tridentcom/SallentAMBFRASCT12" mdate="2019-09-04">
+<author orcid="0000-0002-8232-6180">Sebastià Sallent</author>
+<author>Antônio Abelém</author>
+<author>Iara Machado</author>
+<author>Leonardo Bergesio</author>
+<author>Serge Fdida</author>
+<author>José Ferreira de Rezende</author>
+<author>Siamak Azodolmolky</author>
+<author>Marcos Salvador</author>
+<author>Leandro Neumann Ciuffo</author>
+<author>Leandros Tassiulas</author>
+<title>FIBRE Project: Brazil and Europe Unite Forces and Testbeds for the Internet of the Future.</title>
+<pages>372</pages>
+<year>2012</year>
+<booktitle>TRIDENTCOM</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-35576-9_33</ee>
+<ee type="oa">http://eudl.eu/doi/10.1007/978-3-642-35576-9_33</ee>
+<crossref>conf/tridentcom/2012</crossref>
+<url>db/conf/tridentcom/tridentcom2012.html#SallentAMBFRASCT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vnc/GorcitzJSAWWCF12" mdate="2017-05-26">
+<author>Raul Adrian Gorcitz</author>
+<author>Yesid Jarma</author>
+<author>Prométhée Spathis</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Ryuji Wakikawa</author>
+<author>John Whitbeck</author>
+<author>Vania Conan</author>
+<author>Serge Fdida</author>
+<title>Vehicular carriers for big data transfers (Poster).</title>
+<pages>109-114</pages>
+<year>2012</year>
+<booktitle>VNC</booktitle>
+<crossref>conf/vnc/2012</crossref>
+<url>db/conf/vnc/vnc2012.html#GorcitzJSAWWCF12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/cfi/2012" mdate="2014-06-06">
+<editor>Dongman Lee</editor>
+<editor>Joe Touch</editor>
+<editor>Serge Fdida</editor>
+<title>7th International Conference on Future Internet Technologies, CFI '12, Seoul, Republic of Korea, September 11 - 12, 2012</title>
+<publisher>ACM</publisher>
+<booktitle>CFI</booktitle>
+<year>2012</year>
+<isbn>978-1-4503-1690-3</isbn>
+<url>db/conf/cfi/cfi2012.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-1905" mdate="2018-08-13">
+<author>Fabio R. J. Vieira</author>
+<author>José Ferreira de Rezende</author>
+<author>Valmir Carneiro Barbosa</author>
+<author>Serge Fdida</author>
+<title>Local heuristic for the refinement of multi-path routing in wireless mesh networks</title>
+<ee type="oa">http://arxiv.org/abs/1203.1905</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.1905</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-1905</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1204-4847" mdate="2019-07-26">
+<author>Panayotis Antoniadis</author>
+<author>Serge Fdida</author>
+<author>Christopher Griffin 0001</author>
+<author>Youngmi Jin</author>
+<author>George Kesidis</author>
+<title>CSMA Local Area Networking under Dynamic Altruism</title>
+<ee type="oa">http://arxiv.org/abs/1204.4847</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1204.4847</volume>
+<url>db/journals/corr/corr1204.html#abs-1204-4847</url>
+</article>
+</r>
+<r><article key="journals/adhoc/BezahafIAF11" mdate="2017-05-20">
+<author>Mehdi Bezahaf</author>
+<author>Luigi Iannone</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>LORD: Tracking mobile clients in a real mesh.</title>
+<pages>1461-1475</pages>
+<year>2011</year>
+<volume>9</volume>
+<journal>Ad Hoc Networks</journal>
+<number>8</number>
+<url>db/journals/adhoc/adhoc9.html#BezahafIAF11</url>
+</article>
+</r>
+<r><article key="journals/comcom/ContiCFJKLMMMUZ11" mdate="2019-02-28">
+<author orcid="0000-0003-4097-4064">Marco Conti</author>
+<author>Song Chong</author>
+<author>Serge Fdida</author>
+<author>Weijia Jia</author>
+<author>Holger Karl</author>
+<author>Ying-Dar Lin</author>
+<author>Petri Mähönen</author>
+<author>Martin Maier 0001</author>
+<author orcid="0000-0001-5947-5850">Refik Molva</author>
+<author orcid="0000-0001-6251-6836">Steve Uhlig</author>
+<author orcid="0000-0001-6190-5020">Moshe Zukerman</author>
+<title>Research challenges towards the Future Internet.</title>
+<pages>2115-2134</pages>
+<year>2011</year>
+<volume>34</volume>
+<journal>Computer Communications</journal>
+<number>18</number>
+<url>db/journals/comcom/comcom34.html#ContiCFJKLMMMUZ11</url>
+</article>
+</r>
+<r><article key="journals/ieicet/DialloFS11" mdate="2018-09-29">
+<author>Mohamed Diallo</author>
+<author>Serge Fdida</author>
+<author>Prométhée Spathis</author>
+<title>Towards Extreme Scale Content-Based Networking for the Next Generation Internet.</title>
+<pages>2706-2714</pages>
+<year>2011</year>
+<volume>94-B</volume>
+<journal>IEICE Transactions</journal>
+<number>10</number>
+<url>db/journals/ieicet/ieicet94b.html#DialloFS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/adhocnets/RehmaniVKF11" mdate="2017-05-29">
+<author orcid="0000-0002-3565-7390">Mubashir Husain Rehmani</author>
+<author>Aline Carneiro Viana</author>
+<author>Hicham Khalife</author>
+<author>Serge Fdida</author>
+<title>Improving Data Dissemination in Multi-hop Cognitive Radio Ad-Hoc Networks.</title>
+<pages>117-130</pages>
+<year>2011</year>
+<booktitle>ADHOCNETS</booktitle>
+<crossref>conf/adhocnets/2011</crossref>
+<url>db/conf/adhocnets/adhocnets2011.html#RehmaniVKF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cogart/RehmaniVKF11" mdate="2018-11-06">
+<author orcid="0000-0002-3565-7390">Mubashir Husain Rehmani</author>
+<author>Aline Carneiro Viana</author>
+<author>Hicham Khalife</author>
+<author>Serge Fdida</author>
+<title>Activity pattern impact of primary radio nodes on channel selection strategies.</title>
+<pages>36</pages>
+<year>2011</year>
+<booktitle>CogART</booktitle>
+<crossref>conf/cogart/2011</crossref>
+<url>db/conf/cogart/cogart2011.html#RehmaniVKF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/DialloFSFT11" mdate="2017-05-25">
+<author>Mohamed Diallo</author>
+<author>Serge Fdida</author>
+<author>Vasilis Sourlas</author>
+<author>Paris Flegkas</author>
+<author>Leandros Tassiulas</author>
+<title>Leveraging Caching for Internet-Scale Content-Based Publish/Subscribe Networks.</title>
+<pages>1-5</pages>
+<year>2011</year>
+<booktitle>ICC</booktitle>
+<crossref>conf/icc/2011</crossref>
+<url>db/conf/icc/icc2011.html#DialloFSFT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/GriffinKAF11" mdate="2019-07-26">
+<author>Christopher Griffin 0001</author>
+<author>George Kesidis</author>
+<author>Panayotis Antoniadis</author>
+<author>Serge Fdida</author>
+<title>An Epidemic Model of Bit Torrent with Control.</title>
+<pages>1-6</pages>
+<year>2011</year>
+<booktitle>ICC</booktitle>
+<crossref>conf/icc/2011</crossref>
+<url>db/conf/icc/icc2011.html#GriffinKAF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icumt/LertsinsrubtaveeMF11" mdate="2017-04-30">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Spectrum handoff strategy using cumulative probability in cognitive radio networks.</title>
+<pages>1-7</pages>
+<year>2011</year>
+<booktitle>ICUMT</booktitle>
+<crossref>conf/icumt/2011</crossref>
+<url>db/conf/icumt/icumt2011.html#LertsinsrubtaveeMF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/GorcitzSAWF11" mdate="2017-05-24">
+<author>Raul Adrian Gorcitz</author>
+<author>Prométhée Spathis</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Ryuji Wakikawa</author>
+<author>Serge Fdida</author>
+<title>SERVUS: Reliable low-cost and disconnection-aware broadcasting in VANETs.</title>
+<pages>1760-1765</pages>
+<year>2011</year>
+<booktitle>IWCMC</booktitle>
+<crossref>conf/iwcmc/2011</crossref>
+<url>db/conf/iwcmc/iwcmc2011.html#GorcitzSAWF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/PhamF11" mdate="2018-06-26">
+<author orcid="0000-0001-9994-5773">Tuan-Minh Pham</author>
+<author>Serge Fdida</author>
+<title>DTN Support for News Dissemination in an Urban Area.</title>
+<pages>120-133</pages>
+<year>2011</year>
+<booktitle>Networking (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-20757-0_10</ee>
+<crossref>conf/networking/2011-1</crossref>
+<url>db/conf/networking/networking2011-1.html#PhamF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wims/TatarLALAF11" mdate="2018-11-06">
+<author>Alexandru-Florin Tatar</author>
+<author orcid="0000-0002-4670-6389">Jeremie Leguay</author>
+<author>Panayotis Antoniadis</author>
+<author>Arnaud Limbourg</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>Predicting the popularity of online articles based on user comments.</title>
+<pages>67</pages>
+<year>2011</year>
+<booktitle>WIMS</booktitle>
+<crossref>conf/wims/2011</crossref>
+<url>db/conf/wims/wims2011.html#TatarLALAF11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1106-1590" mdate="2018-08-13">
+<author>Fabio R. J. Vieira</author>
+<author>José Ferreira de Rezende</author>
+<author>Valmir Carneiro Barbosa</author>
+<author>Serge Fdida</author>
+<title>Scheduling links for heavy traffic on interfering routes in wireless mesh networks</title>
+<ee type="oa">http://arxiv.org/abs/1106.1590</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1106.1590</volume>
+<url>db/journals/corr/corr1106.html#abs-1106-1590</url>
+</article>
+</r>
+<r><article key="journals/monet/BottaCSPVF10" mdate="2018-11-30">
+<author orcid="0000-0002-3365-1446">Alessio Botta</author>
+<author>Roberto Canonico</author>
+<author>Giovanni Di Stasi</author>
+<author>Antonio Pescapè</author>
+<author>Giorgio Ventre</author>
+<author>Serge Fdida</author>
+<title>Integration of 3G Connectivity in PlanetLab Europe.</title>
+<pages>344-355</pages>
+<year>2010</year>
+<volume>15</volume>
+<journal>MONET</journal>
+<number>3</number>
+<url>db/journals/monet/monet15.html#BottaCSPVF10</url>
+</article>
+</r>
+<r><article key="journals/pe/BeginBBWF10" mdate="2017-05-27">
+<author>Thomas Begin</author>
+<author>Alexandre Brandwajn</author>
+<author>Bruno Baynat</author>
+<author>Bernd E. Wolfinger</author>
+<author>Serge Fdida</author>
+<title>High-level approach to modeling of observed system behavior.</title>
+<pages>386-405</pages>
+<year>2010</year>
+<volume>67</volume>
+<journal>Perform. Eval.</journal>
+<number>5</number>
+<url>db/journals/pe/pe67.html#BeginBBWF10</url>
+</article>
+</r>
+<r><inproceedings key="conf/adhocnets/BezahafIAF10" mdate="2017-05-19">
+<author>Mehdi Bezahaf</author>
+<author>Luigi Iannone</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>Insights into the Routing Stability of a Multi-hop Wireless Testbed - (Invited Paper).</title>
+<pages>82-97</pages>
+<year>2010</year>
+<booktitle>ADHOCNETS</booktitle>
+<crossref>conf/adhocnets/2010</crossref>
+<url>db/conf/adhocnets/adhocnets2010.html#BezahafIAF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/AntoniadisFFM10" mdate="2018-11-06">
+<author>Panayotis Antoniadis</author>
+<author>Serge Fdida</author>
+<author>Timur Friedman</author>
+<author>Vishal Misra</author>
+<title>Federation of virtualized infrastructures: sharing the value of diversity.</title>
+<pages>12</pages>
+<year>2010</year>
+<booktitle>CoNEXT</booktitle>
+<crossref>conf/conext/2010</crossref>
+<url>db/conf/conext/conext2010.html#AntoniadisFFM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/Lertsinsrubtavee10" mdate="2018-11-21">
+<author>Adisorn Lertsinsrubtavee</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Spectrum handoff strategies for multiple channels cognitive radio network.</title>
+<pages>20:1-20:2</pages>
+<year>2010</year>
+<booktitle>StudentWorkshop@CoNEXT</booktitle>
+<crossref>conf/conext/2010sw</crossref>
+<url>db/conf/conext/sw2010.html#Lertsinsrubtavee10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/DialloF10" mdate="2018-11-06">
+<author>Mohamed Diallo</author>
+<author>Serge Fdida</author>
+<title>IOA-CBR: information overload-aware content-based routing.</title>
+<pages>85-86</pages>
+<year>2010</year>
+<booktitle>DEBS</booktitle>
+<crossref>conf/debs/2010</crossref>
+<url>db/conf/debs/debs2010.html#DialloF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/BelblidiaALCCF10" mdate="2018-11-14">
+<author>Nadjet Belblidia</author>
+<author>Marcelo Dias de Amorim</author>
+<author orcid="0000-0002-4670-6389">Jeremie Leguay</author>
+<author>Vania Conan</author>
+<author orcid="0000-0002-7013-0121">Jon Crowcroft</author>
+<author>Serge Fdida</author>
+<title>Contact surround in opportunistic networks.</title>
+<pages>2499-2504</pages>
+<year>2010</year>
+<booktitle>PIMRC</booktitle>
+<crossref>conf/pimrc/2010</crossref>
+<url>db/conf/pimrc/pimrc2010.html#BelblidiaALCCF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/servicewave/FdidaFM10" mdate="2017-05-23">
+<author>Serge Fdida</author>
+<author>Timur Friedman</author>
+<author>Sophia MacKeith</author>
+<title>OneLab: Developing Future Internet Testbeds.</title>
+<pages>199-200</pages>
+<year>2010</year>
+<booktitle>ServiceWave</booktitle>
+<crossref>conf/servicewave/2010</crossref>
+<url>db/conf/servicewave/servicewave2010.html#FdidaFM10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/cfi/2010" mdate="2016-01-19">
+<editor>Dongman Lee</editor>
+<editor>Serge Fdida</editor>
+<editor>Craig Partridge</editor>
+<editor>Yanghee Choi</editor>
+<editor>Timur Friedman</editor>
+<editor>Sue B. Moon</editor>
+<editor>Dipankar Raychaudhuri</editor>
+<title>Conference on the Future of the Internet 2010, CFI '10, Seoul, Republic of Korea, June 16-18, 2010</title>
+<publisher>ACM</publisher>
+<booktitle>CFI</booktitle>
+<year>2010</year>
+<isbn>978-1-4503-0230-2</isbn>
+<url>db/conf/cfi/cfi2010.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1007-0123" mdate="2018-08-13">
+<author>Mubashir Husain Rehmani</author>
+<author>Aline Carneiro Viana</author>
+<author>Hicham Khalife</author>
+<author>Serge Fdida</author>
+<title>Adaptive and occupancy-based channel selection for unreliable cognitive radio networks</title>
+<ee type="oa">http://arxiv.org/abs/1007.0123</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1007.0123</volume>
+<url>db/journals/corr/corr1007.html#abs-1007-0123</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1007-0126" mdate="2018-08-13">
+<author>Mubashir Husain Rehmani</author>
+<author>Aline Carneiro Viana</author>
+<author>Hicham Khalife</author>
+<author>Serge Fdida</author>
+<title>A Cognitive Radio Based Internet Access Framework for Disaster Response Network Deployment</title>
+<ee type="oa">http://arxiv.org/abs/1007.0126</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1007.0126</volume>
+<url>db/journals/corr/corr1007.html#abs-1007-0126</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1007-0128" mdate="2018-08-13">
+<author>Mubashir Husain Rehmani</author>
+<author>Aline Carneiro Viana</author>
+<author>Hicham Khalife</author>
+<author>Serge Fdida</author>
+<title>Toward Reliable Contention-aware Data Dissemination in Multi-hop Cognitive Radio Ad Hoc Networks</title>
+<ee type="oa">http://arxiv.org/abs/1007.0128</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1007.0128</volume>
+<url>db/journals/corr/corr1007.html#abs-1007-0128</url>
+</article>
+</r>
+<r><article key="journals/network/KhalifeMF09" mdate="2017-05-18">
+<author>Hicham Khalife</author>
+<author>Naceur Malouch</author>
+<author>Serge Fdida</author>
+<title>Multihop cognitive radio networks: to route or not to route.</title>
+<pages>20-25</pages>
+<year>2009</year>
+<volume>23</volume>
+<journal>IEEE Network</journal>
+<number>4</number>
+<url>db/journals/network/network23.html#KhalifeMF09</url>
+</article>
+</r>
+<r><article key="journals/ton/BorrelLAF09" mdate="2009-07-28">
+<author>Vincent Borrel</author>
+<author>Franck Legendre</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>SIMPS: using sociology for personal mobility.</title>
+<pages>831-842</pages>
+<year>2009</year>
+<volume>17</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>3</number>
+<url>db/journals/ton/ton17.html#BorrelLAF09</url>
+</article>
+</r>
+<r><inproceedings key="conf/aintec/PhamF09" mdate="2018-11-06">
+<author orcid="0000-0001-9994-5773">Tuan-Minh Pham</author>
+<author>Serge Fdida</author>
+<title>Delay estimation of a user-preferred content distribution scheme in disruption tolerant networks.</title>
+<pages>3-10</pages>
+<year>2009</year>
+<booktitle>AINTEC</booktitle>
+<crossref>conf/aintec/2009</crossref>
+<url>db/conf/aintec/aintec2009.html#PhamF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/BezahafAFI09" mdate="2018-11-21">
+<author>Mehdi Bezahaf</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<author>Luigi Iannone</author>
+<title>Practical DHT-based location service for wireless mesh networks.</title>
+<pages>47-48</pages>
+<year>2009</year>
+<booktitle>StudentWorkshop@CoNEXT</booktitle>
+<crossref>conf/conext/2009sw</crossref>
+<url>db/conf/conext/sw2009.html#BezahafAFI09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/DialloF09" mdate="2018-11-06">
+<author>Mohamed Diallo</author>
+<author>Serge Fdida</author>
+<title>Avalanche: towards a scalable content-based Pub/Sub network service.</title>
+<year>2009</year>
+<booktitle>DEBS</booktitle>
+<crossref>conf/debs/2009</crossref>
+<url>db/conf/debs/debs2009.html#DialloF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qshine/BezahafIAF09" mdate="2017-05-22">
+<author>Mehdi Bezahaf</author>
+<author>Luigi Iannone</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>Transparent and Distributed Localization of Mobile Users in Wireless Mesh Networks.</title>
+<pages>513-529</pages>
+<year>2009</year>
+<booktitle>QSHINE</booktitle>
+<crossref>conf/qshine/2009</crossref>
+<url>db/conf/qshine/qshine2009.html#BezahafIAF09</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/RazafindralamboGIF08" mdate="2017-05-18">
+<author>Tahiry Razafindralambo</author>
+<author>Isabelle Guérin Lassous</author>
+<author>Luigi Iannone</author>
+<author>Serge Fdida</author>
+<title>Dynamic and distributed packet aggregation to solve the performance anomaly in 802.11 wireless networks.</title>
+<pages>77-95</pages>
+<year>2008</year>
+<volume>52</volume>
+<journal>Computer Networks</journal>
+<number>1</number>
+<url>db/journals/cn/cn52.html#RazafindralamboGIF08</url>
+</article>
+</r>
+<r><inproceedings key="conf/aintec/FdidaD08" mdate="2018-11-06">
+<author>Serge Fdida</author>
+<author>Mohamed Diallo</author>
+<title>The network is a database.</title>
+<pages>1-6</pages>
+<year>2008</year>
+<booktitle>AINTEC</booktitle>
+<crossref>conf/aintec/2008</crossref>
+<url>db/conf/aintec/aintec2008.html#FdidaD08</url>
+</inproceedings>
+</r>
+<r><article key="journals/ccr/SpyropoulosFK07" mdate="2018-11-06">
+<author>Thrasyvoulos Spyropoulos</author>
+<author>Serge Fdida</author>
+<author>Scott Kirkpatrick</author>
+<title>Future internet: fundamentals and measurement.</title>
+<pages>101-106</pages>
+<year>2007</year>
+<volume>37</volume>
+<journal>Computer Communication Review</journal>
+<number>2</number>
+<url>db/journals/ccr/ccr37.html#SpyropoulosFK07</url>
+</article>
+</r>
+<r><article key="journals/ccr/GavrasKFMP07" mdate="2018-11-06">
+<author orcid="0000-0003-4496-8358">Anastasius Gavras</author>
+<author>Arto Karila</author>
+<author>Serge Fdida</author>
+<author>Martin May</author>
+<author>Martin Potts</author>
+<title>Future internet research and experimentation: the FIRE initiative.</title>
+<pages>89-92</pages>
+<year>2007</year>
+<volume>37</volume>
+<journal>Computer Communication Review</journal>
+<number>3</number>
+<url>db/journals/ccr/ccr37.html#GavrasKFMP07</url>
+</article>
+</r>
+<r><article key="journals/ejwcn/IannoneKF07" mdate="2019-06-02">
+<author>Luigi Iannone</author>
+<author>Konstantin Kabassanov</author>
+<author>Serge Fdida</author>
+<title>Evaluation of Cross-Layer Rate-Aware Routing in a Wireless Mesh Network Test Bed.</title>
+<year>2007</year>
+<volume>2007</volume>
+<journal>EURASIP J. Wireless Comm. and Networking</journal>
+<ee type="oa">https://doi.org/10.1155/2007/86510</ee>
+<url>db/journals/ejwcn/ejwcn2007.html#IannoneKF07</url>
+</article>
+</r>
+<r><article key="journals/sigmetrics/BeginBBWF07" mdate="2018-11-06">
+<author>Thomas Begin</author>
+<author>Alexandre Brandwajn</author>
+<author>Bruno Baynat</author>
+<author>Bernd E. Wolfinger</author>
+<author>Serge Fdida</author>
+<title>High-level approach to modeling of observed system behavior.</title>
+<pages>34-36</pages>
+<year>2007</year>
+<volume>35</volume>
+<journal>SIGMETRICS Performance Evaluation Review</journal>
+<number>3</number>
+<url>db/journals/sigmetrics/sigmetrics35.html#BeginBBWF07</url>
+</article>
+</r>
+<r><inproceedings key="conf/aintec/AbdesslemIAOSF07" mdate="2017-05-26">
+<author>Fehmi Ben Abdesslem</author>
+<author>Luigi Iannone</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Katia Obraczka</author>
+<author>Ignacio Solis</author>
+<author>Serge Fdida</author>
+<title>A Prototyping Environment for Wireless Multihop Networks.</title>
+<pages>33-47</pages>
+<year>2007</year>
+<crossref>conf/aintec/2007</crossref>
+<booktitle>AINTEC</booktitle>
+<url>db/conf/aintec/aintec2007.html#AbdesslemIAOSF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/epew/BeginBBWF07" mdate="2017-05-24">
+<author>Thomas Begin</author>
+<author>Alexandre Brandwajn</author>
+<author>Bruno Baynat</author>
+<author>Bernd E. Wolfinger</author>
+<author>Serge Fdida</author>
+<title>Towards an Automatic Modeling Tool for Observed System Behavior.</title>
+<pages>200-212</pages>
+<year>2007</year>
+<crossref>conf/epew/2007</crossref>
+<booktitle>EPEW</booktitle>
+<url>db/conf/epew/epew2007.html#BeginBBWF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pam/GueyeUF07" mdate="2017-05-23">
+<author>Bamba Gueye</author>
+<author>Steve Uhlig</author>
+<author>Serge Fdida</author>
+<title>Investigating the Imprecision of IP Block-Based Geolocation.</title>
+<pages>237-240</pages>
+<year>2007</year>
+<crossref>conf/pam/2007</crossref>
+<booktitle>PAM</booktitle>
+<url>db/conf/pam/pam2007.html#GueyeUF07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/aintec/2007" mdate="2019-05-14">
+<editor>Serge Fdida</editor>
+<editor>Kazunori Sugiura</editor>
+<title>Sustainable Internet, Third Asian Internet Engineering Conference, AINTEC 2007, Phuket, Thailand, November 27-29, 2007, Proceedings</title>
+<booktitle>AINTEC</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4866</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-76808-1</isbn>
+<url>db/conf/aintec/aintec2007.html</url>
+</proceedings>
+</r>
+<r><article key="journals/comcom/FdidaA06" mdate="2017-05-26">
+<author>Serge Fdida</author>
+<author>Arturo Azcorra</author>
+<title>Networks of Excellence.</title>
+<pages>539</pages>
+<year>2006</year>
+<volume>29</volume>
+<journal>Computer Communications</journal>
+<number>5</number>
+<url>db/journals/comcom/comcom29.html#FdidaA06</url>
+</article>
+</r>
+<r><article key="journals/network/LegendreBAF06" mdate="2017-05-18">
+<author>Franck Legendre</author>
+<author>Vincent Borrel</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>Reconsidering microscopic mobility modeling for self-organizing networks.</title>
+<pages>4-12</pages>
+<year>2006</year>
+<volume>20</volume>
+<journal>IEEE Network</journal>
+<number>6</number>
+<url>db/journals/network/network20.html#LegendreBAF06</url>
+</article>
+</r>
+<r><article key="journals/telsys/IannoneF06" mdate="2017-05-28">
+<author>Luigi Iannone</author>
+<author>Serge Fdida</author>
+<title>Evaluating a cross-layer approach for routing in Wireless Mesh Networks.</title>
+<pages>173-193</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>Telecommunication Systems</journal>
+<number>2-3</number>
+<url>db/journals/telsys/telsys31.html#IannoneF06</url>
+</article>
+</r>
+<r><article key="journals/ton/CostaFD06" mdate="2006-09-01">
+<author>Luís Henrique Maciel Kosmalski Costa</author>
+<author>Serge Fdida</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<title>Incremental service deployment using the hop-by-hop multicast routing protocol.</title>
+<pages>543-556</pages>
+<year>2006</year>
+<volume>14</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>3</number>
+<url>db/journals/ton/ton14.html#CostaFD06</url>
+</article>
+</r>
+<r><article key="journals/ton/GueyeZCF06" mdate="2019-01-16">
+<author>Bamba Gueye</author>
+<author>Artur Ziviani</author>
+<author>Mark Crovella</author>
+<author>Serge Fdida</author>
+<title>Constraint-based geolocation of internet hosts.</title>
+<pages>1219-1232</pages>
+<year>2006</year>
+<volume>14</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>6</number>
+<url>db/journals/ton/ton14.html#GueyeZCF06</url>
+</article>
+</r>
+<r><article key="journals/tpds/VianaAVFR06" mdate="2017-05-27">
+<author>Aline Carneiro Viana</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Yannis Viniotis</author>
+<author>Serge Fdida</author>
+<author>José Ferreira de Rezende</author>
+<title>Twins: A Dual Addressing Space Representation for Self-Organizing Networks.</title>
+<pages>1468-1481</pages>
+<year>2006</year>
+<volume>17</volume>
+<journal>IEEE Trans. Parallel Distrib. Syst.</journal>
+<number>12</number>
+<url>db/journals/tpds/tpds17.html#VianaAVFR06</url>
+</article>
+</r>
+<r><article key="journals/wc/AmorimBFSV06" mdate="2019-09-16">
+<author>Marcelo Dias de Amorim</author>
+<author>Farid Benbadis</author>
+<author>Serge Fdida</author>
+<author orcid="0000-0002-5186-842X">Mihail L. Sichitiu</author>
+<author>Yannis Viniotis</author>
+<title>Dissecting the routing architecture of self-organizing networks.</title>
+<pages>98-104</pages>
+<year>2006</year>
+<volume>13</volume>
+<journal>IEEE Wireless Commun.</journal>
+<number>6</number>
+<url>db/journals/wc/wc13.html#AmorimBFSV06</url>
+</article>
+</r>
+<r><inproceedings key="conf/aintec/LegendreBAF06" mdate="2017-05-26">
+<author>Franck Legendre</author>
+<author>Vincent Borrel</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>Modeling Mobility with Behavioral Rules: The Case of Incident and Emergency Situations.</title>
+<pages>186-205</pages>
+<year>2006</year>
+<crossref>conf/aintec/2006</crossref>
+<booktitle>AINTEC</booktitle>
+<url>db/conf/aintec/aintec2006.html#LegendreBAF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mass/IannoneKF06" mdate="2017-05-23">
+<author>Luigi Iannone</author>
+<author>Konstantin Kabassanov</author>
+<author>Serge Fdida</author>
+<title>Wireless Mesh Network Testbed Demo.</title>
+<pages>582-585</pages>
+<year>2006</year>
+<booktitle>MASS</booktitle>
+<crossref>conf/mass/2006</crossref>
+<url>db/conf/mass/mass2006.html#IannoneKF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/IannoneKF06" mdate="2018-11-06">
+<author>Luigi Iannone</author>
+<author>Konstantin Kabassanov</author>
+<author>Serge Fdida</author>
+<title>The meshDVNet wireless mesh network test-bed.</title>
+<pages>107-108</pages>
+<year>2006</year>
+<booktitle>WINTECH</booktitle>
+<crossref>conf/mobicom/2006wintech</crossref>
+<url>db/conf/mobicom/wintech2006.html#IannoneKF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobihoc/IannoneKF06" mdate="2018-11-06">
+<author>Luigi Iannone</author>
+<author>Konstantin Kabassanov</author>
+<author>Serge Fdida</author>
+<title>The real gain of cross-layer routing in wireless mesh networks.</title>
+<pages>15-22</pages>
+<year>2006</year>
+<booktitle>REALMAN@MobiHoc</booktitle>
+<crossref>conf/mobihoc/2006realman</crossref>
+<url>db/conf/mobihoc/realman2006.html#IannoneKF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobihoc/IannoneKF06a" mdate="2018-11-06">
+<author>Luigi Iannone</author>
+<author>Konstantin Kabassanov</author>
+<author>Serge Fdida</author>
+<title>The real gain of cross-layer routing in wireless mesh networks.</title>
+<pages>110-112</pages>
+<year>2006</year>
+<booktitle>REALMAN@MobiHoc</booktitle>
+<crossref>conf/mobihoc/2006realman</crossref>
+<url>db/conf/mobihoc/realman2006.html#IannoneKF06a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/RazafindralamboLIF06" mdate="2018-11-06">
+<author>Tahiry Razafindralambo</author>
+<author>Isabelle Guérin Lassous</author>
+<author>Luigi Iannone</author>
+<author>Serge Fdida</author>
+<title>Dynamic packet aggregation to solve performance anomaly in 802.11 wireless networks.</title>
+<pages>247-254</pages>
+<year>2006</year>
+<crossref>conf/mswim/2006</crossref>
+<booktitle>MSWiM</booktitle>
+<url>db/conf/mswim/mswim2006.html#RazafindralamboLIF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/GueyeUZF06" mdate="2018-06-26">
+<author>Bamba Gueye</author>
+<author orcid="0000-0001-6251-6836">Steve Uhlig</author>
+<author orcid="0000-0001-9326-8214">Artur Ziviani</author>
+<author>Serge Fdida</author>
+<title>Leveraging Buffering Delay Estimation for Geolocation of Internet Hosts.</title>
+<pages>319-330</pages>
+<year>2006</year>
+<crossref>conf/networking/2006</crossref>
+<booktitle>Networking</booktitle>
+<ee type="oa">https://doi.org/10.1007/11753810_27</ee>
+<url>db/conf/networking/networking2006.html#GueyeUZF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/percom/AbdesslemIAKF06" mdate="2017-05-23">
+<author>Fehmi Ben Abdesslem</author>
+<author>Luigi Iannone</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Konstantin Kabassanov</author>
+<author>Serge Fdida</author>
+<title>On the feasibility of power control in current IEEE 802.11 devices.</title>
+<pages>468-473</pages>
+<year>2006</year>
+<crossref>conf/percom/2006w</crossref>
+<booktitle>PerCom Workshops</booktitle>
+<url>db/conf/percom/percomw2006.html#AbdesslemIAKF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/BenbadisAF06" mdate="2017-05-25">
+<author>Farid Benbadis</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>The Effect of Locality on Coordinate Dissemination.</title>
+<pages>1-5</pages>
+<year>2006</year>
+<booktitle>PIMRC</booktitle>
+<crossref>conf/pimrc/2006</crossref>
+<url>db/conf/pimrc/pimrc2006.html#BenbadisAF06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0607097" mdate="2018-08-13">
+<author>Tahiry Razafindralambo</author>
+<author>Isabelle Guérin Lassous</author>
+<author>Luigi Iannone</author>
+<author>Serge Fdida</author>
+<title>Dynamic Packet Aggregation to Solve Performance Anomaly in 802.11 Wireless Networks</title>
+<ee type="oa">http://arxiv.org/abs/cs/0607097</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0607097</volume>
+<url>db/journals/corr/corr0607.html#abs-cs-0607097</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0610078" mdate="2018-08-13">
+<author>Fehmi Ben Abdesslem</author>
+<author>Luigi Iannone</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Katia Obraczka</author>
+<author>Ignacio Solis</author>
+<author>Serge Fdida</author>
+<title>Rapid Prototyping over IEEE 802.11</title>
+<ee type="oa">http://arxiv.org/abs/cs/0610078</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0610078</volume>
+<url>db/journals/corr/corr0610.html#abs-cs-0610078</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0612045" mdate="2018-08-13">
+<author>Vincent Borrel</author>
+<author>Franck Legendre</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>SIMPS: Using Sociology for Personal Mobility</title>
+<ee type="oa">http://arxiv.org/abs/cs/0612045</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0612045</volume>
+<url>db/journals/corr/corr0612.html#abs-cs-0612045</url>
+</article>
+</r>
+<r><article key="journals/adhoc/VianaAFR05" mdate="2017-05-20">
+<author>Aline Carneiro Viana</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<author>José Ferreira de Rezende</author>
+<title>Self-organization in spontaneous networks: the approach of DHT-based routing protocols.</title>
+<pages>589-606</pages>
+<year>2005</year>
+<volume>3</volume>
+<journal>Ad Hoc Networks</journal>
+<number>5</number>
+<url>db/journals/adhoc/adhoc3.html#VianaAFR05</url>
+</article>
+</r>
+<r><article key="journals/ahswn/GoberZTAHF05" mdate="2017-12-07">
+<author>Peter Gober</author>
+<author>Artur Ziviani</author>
+<author>Petia Todorova</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Philipp Hünerberg</author>
+<author>Serge Fdida</author>
+<title>Topology Control and Localization in Wireless Ad Hoc and Sensor Networks.</title>
+<year>2005</year>
+<volume>1</volume>
+<journal>Ad Hoc and Sensor Wireless Networks</journal>
+<number>4</number>
+<url>db/journals/ahswn/ahswn1.html#GoberZTAHF05</url>
+<pages>301-321</pages>
+</article>
+</r>
+<r><article key="journals/cn/ZivianiFRD05" mdate="2017-06-14">
+<author orcid="0000-0001-9326-8214">Artur Ziviani</author>
+<author>Serge Fdida</author>
+<author>José Ferreira de Rezende</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<title>Improving the accuracy of measurement-based geographic location of Internet hosts.</title>
+<pages>503-523</pages>
+<year>2005</year>
+<volume>47</volume>
+<journal>Computer Networks</journal>
+<number>4</number>
+<url>db/journals/cn/cn47.html#ZivianiFRD05</url>
+</article>
+</r>
+<r><article key="journals/icl/BorrelAF05" mdate="2017-05-20">
+<author>Vincent Borrel</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>A preferential attachment gathering mobility model.</title>
+<pages>900-902</pages>
+<year>2005</year>
+<volume>9</volume>
+<journal>IEEE Communications Letters</journal>
+<number>10</number>
+<url>db/journals/icl/icl9.html#BorrelAF05</url>
+</article>
+</r>
+<r><article key="journals/icl/ZivianiFRD05" mdate="2017-06-14">
+<author orcid="0000-0001-9326-8214">Artur Ziviani</author>
+<author>Serge Fdida</author>
+<author>José Ferreira de Rezende</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<title>A TCP-tailored approach to location management in mobile ad hoc networks.</title>
+<pages>1043-1045</pages>
+<year>2005</year>
+<volume>9</volume>
+<journal>IEEE Communications Letters</journal>
+<number>12</number>
+<url>db/journals/icl/icl9.html#ZivianiFRD05</url>
+</article>
+</r>
+<r><article key="journals/mta/ZivianiWRDF05" mdate="2017-06-14">
+<author orcid="0000-0001-9326-8214">Artur Ziviani</author>
+<author>Bernd E. Wolfinger</author>
+<author>José Ferreira de Rezende</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<author>Serge Fdida</author>
+<title>Joint Adoption of QoS Schemes for MPEG Streams.</title>
+<pages>59-80</pages>
+<year>2005</year>
+<volume>26</volume>
+<journal>Multimedia Tools Appl.</journal>
+<number>1</number>
+<url>db/journals/mta/mta26.html#ZivianiWRDF05</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/IannoneF05" mdate="2018-11-06">
+<author>Luigi Iannone</author>
+<author>Serge Fdida</author>
+<title>MRS: a simple cross-layer heuristic to improve throughput capacity in wireless mesh networks.</title>
+<pages>21-30</pages>
+<year>2005</year>
+<booktitle>CoNEXT</booktitle>
+<crossref>conf/conext/2005</crossref>
+<url>db/conf/conext/conext2005.html#IannoneF05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icn/LochinAF05" mdate="2017-05-24">
+<author>Emmanuel Lochin</author>
+<author>Pascal Anelli</author>
+<author>Serge Fdida</author>
+<title>AIMD Penalty Shaper to Enforce Assured Service for TCP Flows.</title>
+<pages>275-283</pages>
+<year>2005</year>
+<crossref>conf/icn/2005-2</crossref>
+<booktitle>ICN (2)</booktitle>
+<url>db/conf/icn/icn2005-2.html#LochinAF05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobihoc/VianaAFVR05" mdate="2018-11-06">
+<author>Aline Carneiro Viana</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<author>Yannis Viniotis</author>
+<author>José Ferreira de Rezende</author>
+<title>Easily-managed and topology-independent location service for self-organizing networks.</title>
+<pages>193-204</pages>
+<year>2005</year>
+<crossref>conf/mobihoc/2005</crossref>
+<booktitle>MobiHoc</booktitle>
+<url>db/conf/mobihoc/mobihoc2005.html#VianaAFVR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/LochinAF05" mdate="2018-06-26">
+<author>Emmanuel Lochin</author>
+<author>Pascal Anelli</author>
+<author>Serge Fdida</author>
+<title>Penalty Shaper to Enforce Assured Service for TCP Flows.</title>
+<pages>1108-1119</pages>
+<year>2005</year>
+<crossref>conf/networking/2005</crossref>
+<booktitle>NETWORKING</booktitle>
+<ee type="oa">https://doi.org/10.1007/11422778_89</ee>
+<url>db/conf/networking/networking2005.html#LochinAF05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/BenbadisAF05" mdate="2018-06-26">
+<author>Farid Benbadis</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>ELIP: Embedded Location Information Protocol.</title>
+<pages>1156-1167</pages>
+<year>2005</year>
+<crossref>conf/networking/2005</crossref>
+<booktitle>NETWORKING</booktitle>
+<ee type="oa">https://doi.org/10.1007/11422778_93</ee>
+<url>db/conf/networking/networking2005.html#BenbadisAF05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wac/BorrelAF05" mdate="2018-06-26">
+<author>Vincent Borrel</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>On Natural Mobility Models.</title>
+<pages>243-253</pages>
+<year>2005</year>
+<crossref>conf/wac/2005</crossref>
+<booktitle>WAC</booktitle>
+<ee type="oa">https://doi.org/10.1007/11687818_20</ee>
+<url>db/conf/wac/wac2005.html#BorrelAF05</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/conext/2005" mdate="2008-04-28">
+<editor>Michel Diaz</editor>
+<editor>Arturo Azcorra</editor>
+<editor>Philippe Owezarski</editor>
+<editor>Serge Fdida</editor>
+<title>Proceedings of the 2005 ACM Conference on Emerging Network Experiment and Technology, CoNEXT 2005, Toulouse, France, October 24-27, 2005</title>
+<booktitle>CoNEXT</booktitle>
+<publisher>ACM</publisher>
+<year>2005</year>
+<url>db/conf/conext/conext2005.html</url>
+<isbn>1-59593-197-X</isbn>
+</proceedings>
+</r>
+<r><article key="journals/cn/VidaCF04" mdate="2017-05-18">
+<author>Rolland Vida</author>
+<author>Luís Henrique Maciel Kosmalski Costa</author>
+<author>Serge Fdida</author>
+<title>Mobile hop-by-hop multicast routing.</title>
+<pages>789-812</pages>
+<year>2004</year>
+<volume>44</volume>
+<journal>Computer Networks</journal>
+<number>6</number>
+<url>db/journals/cn/cn44.html#VidaCF04</url>
+</article>
+</r>
+<r><article key="journals/tsi/LochinAFGACL04" mdate="2017-05-20">
+<author>Emmanuel Lochin</author>
+<author>Pascal Anelli</author>
+<author>Serge Fdida</author>
+<author>Fabien Garcia</author>
+<author>Guillaume Auriol</author>
+<author>Christophe Chassot</author>
+<author>André Lozes</author>
+<title>Évaluation de la différenciation de services dans l'internet.</title>
+<pages>675-699</pages>
+<year>2004</year>
+<volume>23</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>5-6</number>
+<url>db/journals/tsi/tsi23.html#LochinAFGACL04</url>
+</article>
+</r>
+<r><article key="journals/winet/CostaAF04" mdate="2008-09-12">
+<author>Luís Henrique Maciel Kosmalski Costa</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>Reducing Latency and Overhead of Route Repair with Controlled Flooding.</title>
+<pages>347-358</pages>
+<year>2004</year>
+<volume>10</volume>
+<journal>Wireless Networks</journal>
+<number>4</number>
+<url>db/journals/winet/winet10.html#CostaAF04</url>
+</article>
+</r>
+<r><article key="journals/winet/VianaAFR04" mdate="2017-05-27">
+<author>Aline Carneiro Viana</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<author>José Ferreira de Rezende</author>
+<title>An Underlay Strategy for Indirect Routing.</title>
+<pages>747-758</pages>
+<year>2004</year>
+<volume>10</volume>
+<journal>Wireless Networks</journal>
+<number>6</number>
+<url>db/journals/winet/winet10.html#VianaAFR04</url>
+</article>
+</r>
+<r><inproceedings key="conf/hsnmc/GueyeZFRD04" mdate="2017-05-21">
+<author>Bamba Gueye</author>
+<author>Artur Ziviani</author>
+<author>Serge Fdida</author>
+<author>José Ferreira de Rezende</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<title>Two-Tier Geographic Location of Internet Hosts.</title>
+<pages>730-739</pages>
+<year>2004</year>
+<crossref>conf/hsnmc/2004</crossref>
+<booktitle>HSNMC</booktitle>
+<url>db/conf/hsnmc/hsnmc2004.html#GueyeZFRD04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imc/GueyeZCF04" mdate="2018-11-06">
+<author>Bamba Gueye</author>
+<author>Artur Ziviani</author>
+<author>Mark Crovella</author>
+<author>Serge Fdida</author>
+<title>Constraint-based geolocation of internet hosts.</title>
+<pages>288-293</pages>
+<year>2004</year>
+<crossref>conf/imc/2004</crossref>
+<booktitle>Internet Measurement Conference</booktitle>
+<url>db/conf/imc/imc2004.html#GueyeZCF04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mwcn/LegendreAF04" mdate="2018-06-26">
+<author>Franck Legendre</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>Context-Aware Inter-Networking for Wireless Networks.</title>
+<pages>383-394</pages>
+<year>2004</year>
+<crossref>conf/mwcn/2004</crossref>
+<booktitle>MWCN</booktitle>
+<ee type="oa">https://doi.org/10.1007/0-387-23150-1_33</ee>
+<url>db/conf/mwcn/mwcn2004.html#LegendreAF04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pam/ZivianiFRD04" mdate="2017-05-23">
+<author>Artur Ziviani</author>
+<author>Serge Fdida</author>
+<author>José Ferreira de Rezende</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<title>Toward a Measurement-Based Geographic Location Service.</title>
+<pages>43-52</pages>
+<year>2004</year>
+<crossref>conf/pam/2004</crossref>
+<booktitle>PAM</booktitle>
+<url>db/conf/pam/pam2004.html#ZivianiFRD04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wac/LegendreAF04" mdate="2018-06-26">
+<author>Franck Legendre</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<title>Some Requirements for Autonomic Routing in Self-organizing Networks.</title>
+<pages>13-24</pages>
+<year>2004</year>
+<crossref>conf/wac/2004</crossref>
+<booktitle>WAC</booktitle>
+<ee type="oa">https://doi.org/10.1007/11520184_2</ee>
+<url>db/conf/wac/wac2004.html#LegendreAF04</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/SailerF03" mdate="2017-05-18">
+<author>Anca Dracinschi Sailer</author>
+<author>Serge Fdida</author>
+<title>Generic congestion control.</title>
+<pages>211-225</pages>
+<year>2003</year>
+<volume>41</volume>
+<journal>Computer Networks</journal>
+<number>2</number>
+<url>db/journals/cn/cn41.html#SailerF03</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/ZivianiFRD03" mdate="2017-05-23">
+<author>Artur Ziviani</author>
+<author>Serge Fdida</author>
+<author>José Ferreira de Rezende</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<title>Demographic placement for Internet host location.</title>
+<pages>3813-3817</pages>
+<year>2003</year>
+<booktitle>GLOBECOM</booktitle>
+<crossref>conf/globecom/2003</crossref>
+<url>db/conf/globecom/globecom2003.html#ZivianiFRD03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icon/ZivianiFRD03" mdate="2017-05-24">
+<author>Artur Ziviani</author>
+<author>Serge Fdida</author>
+<author>José Ferreira de Rezende</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<title>Similarity models for Internet host location.</title>
+<pages>81-86</pages>
+<year>2003</year>
+<booktitle>ICON</booktitle>
+<crossref>conf/icon/2003</crossref>
+<url>db/conf/icon/icon2003.html#ZivianiFRD03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/percom/VianaAFR03" mdate="2017-05-23">
+<author>Aline Carneiro Viana</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Serge Fdida</author>
+<author>José Ferreira de Rezende</author>
+<title>Indirect Routing Using Distributed Location Information.</title>
+<pages>224-</pages>
+<year>2003</year>
+<crossref>conf/percom/2003</crossref>
+<booktitle>PerCom</booktitle>
+<url>db/conf/percom/percom2003.html#VianaAFR03</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/CostaFD02" mdate="2017-05-18">
+<author>Luís Henrique Maciel Kosmalski Costa</author>
+<author>Serge Fdida</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<title>Developing scalable protocols for three-metric QoS routing.</title>
+<pages>713-727</pages>
+<year>2002</year>
+<volume>39</volume>
+<journal>Computer Networks</journal>
+<number>6</number>
+<url>db/journals/cn/cn39.html#CostaFD02</url>
+</article>
+</r>
+<r><inproceedings key="conf/ngc/VidaCF02" mdate="2004-09-09">
+<author>Rolland Vida</author>
+<author>Luís Henrique Maciel Kosmalski Costa</author>
+<author>Serge Fdida</author>
+<title>M-HBH - Efficient Mobility Management in Multicast.</title>
+<pages>105-112</pages>
+<year>2002</year>
+<crossref>conf/ngc/2002</crossref>
+<booktitle>Networked Group Communication</booktitle>
+<url>db/conf/ngc/ngc2002.html#VidaCF02</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/CostaFD01" mdate="2006-09-01">
+<author>Luís Henrique Maciel Kosmalski Costa</author>
+<author>Serge Fdida</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<title>Analyzing the effects of asymmetric unicast routes on multicast routing protocols.</title>
+<pages>5-15</pages>
+<year>2001</year>
+<volume>7</volume>
+<journal>J. Braz. Comp. Soc.</journal>
+<number>2</number>
+<url>db/journals/jbcs/jbcs7.html#CostaFD01</url>
+</article>
+</r>
+<r><inproceedings key="conf/dser/BaurensCDFRV01" mdate="2017-05-23">
+<author>B. Baurens</author>
+<author>Luis Costa</author>
+<author>Anca Dracinschi Sailer</author>
+<author>Serge Fdida</author>
+<author>Vincent Roca</author>
+<author>Rolland Vida</author>
+<title>Communications.</title>
+<pages>153-176</pages>
+<year>2001</year>
+<crossref>conf/dser/2001</crossref>
+<booktitle>Cooperative Environments for Distributed Systems Engineering</booktitle>
+<url>db/conf/dser/dser2001.html#BaurensCDFRV01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/CostaFD01" mdate="2017-05-25">
+<author>Luís Henrique Maciel Kosmalski Costa</author>
+<author>Serge Fdida</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<title>A scalable algorithm for link-state QoS-based routing with three metrics.</title>
+<pages>2603-2607</pages>
+<year>2001</year>
+<booktitle>ICC</booktitle>
+<crossref>conf/icc/2001</crossref>
+<url>db/conf/icc/icc2001.html#CostaFD01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/BrandauerIDZFM01" mdate="2019-03-20">
+<author>Christof Brandauer</author>
+<author>Gianluca Iannaccone</author>
+<author>Christophe Diot</author>
+<author>Thomas Ziegler 0001</author>
+<author>Serge Fdida</author>
+<author>Martin May</author>
+<title>Comparison of Tail Drop and Active Queue Management Performance for Bulk-Data and Web-Like Internet Traffic.</title>
+<pages>122-129</pages>
+<year>2001</year>
+<crossref>conf/iscc/2001</crossref>
+<booktitle>ISCC</booktitle>
+<url>db/conf/iscc/iscc2001.html#BrandauerIDZFM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/CostaFD01" mdate="2017-05-25">
+<author>Luís Henrique Maciel Kosmalski Costa</author>
+<author>Serge Fdida</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<title>Enabling the Progressive Multicast Service Deployment.</title>
+<pages>178-183</pages>
+<year>2001</year>
+<crossref>conf/iscc/2001</crossref>
+<booktitle>ISCC</booktitle>
+<url>db/conf/iscc/iscc2001.html#CostaFD01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwdc/SalamatianF01" mdate="2017-05-21">
+<author>Kavé Salamatian</author>
+<author>Serge Fdida</author>
+<title>Measurement Based Modeling of Quality of Service in the Internet: A Methodological Approach.</title>
+<pages>158-174</pages>
+<year>2001</year>
+<crossref>conf/iwdc/2001</crossref>
+<booktitle>IWDC</booktitle>
+<url>db/conf/iwdc/iwdc2001.html#SalamatianF01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwqos/ZieglerBF01" mdate="2019-03-20">
+<author>Thomas Ziegler 0001</author>
+<author>Christof Brandauer</author>
+<author>Serge Fdida</author>
+<title>A Quantitative Model for the Parameter Setting of RED with TCP Traffic.</title>
+<pages>202-216</pages>
+<year>2001</year>
+<crossref>conf/iwqos/2001</crossref>
+<booktitle>IWQoS</booktitle>
+<url>db/conf/iwqos/iwqos2001.html#ZieglerBF01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/proms/DiazCCFHMMOVW01" mdate="2019-10-19">
+<author>Michel Diaz</author>
+<author>Roberto Canonico</author>
+<author>Luis Costa</author>
+<author>Serge Fdida</author>
+<author orcid="0000-0001-6052-0559">David Hutchison</author>
+<author>Laurent Mathy</author>
+<author>Andreas Meissner</author>
+<author>Stéphane Owezarski</author>
+<author>Rolland Vida</author>
+<author>Lars C. Wolf</author>
+<title>GCAP: A New Multimedia Multicast Architecture for QoS.</title>
+<pages>103-115</pages>
+<year>2001</year>
+<crossref>conf/proms/2001</crossref>
+<booktitle>PROMS</booktitle>
+<url>db/conf/proms/proms2001.html#DiazCCFHMMOVW01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/CostaFD01" mdate="2019-08-03">
+<author>Luís Henrique Maciel Kosmalski Costa</author>
+<author>Serge Fdida</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<title>Hop by hop multicast routing protocol.</title>
+<pages>249-259</pages>
+<year>2001</year>
+<crossref>conf/sigcomm/2001</crossref>
+<booktitle>SIGCOMM</booktitle>
+<url>db/conf/sigcomm/sigcomm2001.html#CostaFD01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icccn/ZieglerFBH00" mdate="2019-03-20">
+<author>Thomas Ziegler 0001</author>
+<author>Serge Fdida</author>
+<author>Christof Brandauer</author>
+<author>Bernhard Hechenleitner</author>
+<title>Stability of RED with two-way TCP traffic.</title>
+<pages>214-219</pages>
+<year>2000</year>
+<booktitle>ICCCN</booktitle>
+<crossref>conf/icccn/2000</crossref>
+<url>db/conf/icccn/icccn2000.html#ZieglerFBH00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lcn/DracinschiF00" mdate="2017-05-26">
+<author>Anca Dracinschi Sailer</author>
+<author>Serge Fdida</author>
+<title>Efficient Congestion Avoidance Mechanism.</title>
+<pages>228-237</pages>
+<year>2000</year>
+<crossref>conf/lcn/2000</crossref>
+<booktitle>LCN</booktitle>
+<url>db/conf/lcn/lcn2000.html#DracinschiF00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/ZieglerF00" mdate="2019-03-20">
+<author>Thomas Ziegler 0001</author>
+<author>Serge Fdida</author>
+<title>A Distributed Mechanism for Identification and Discrimination of Non-TCP-friendly Flows in the Internet.</title>
+<pages>763-775</pages>
+<year>2000</year>
+<crossref>conf/networking/2000</crossref>
+<booktitle>NETWORKING</booktitle>
+<url>db/conf/networking/networking2000.html#ZieglerF00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/CostaFD00" mdate="2017-05-24">
+<author>Luís Henrique Maciel Kosmalski Costa</author>
+<author>Serge Fdida</author>
+<author>Otto Carlos Muniz Bandeira Duarte</author>
+<title>Distance-Vector QoS-Based Routing with Three Metrics.</title>
+<pages>847-858</pages>
+<year>2000</year>
+<crossref>conf/networking/2000</crossref>
+<booktitle>NETWORKING</booktitle>
+<url>db/conf/networking/networking2000.html#CostaFD00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ngc/Fdida00" mdate="2002-01-03">
+<author>Serge Fdida</author>
+<title>Congestion control (panel session).</title>
+<pages>69</pages>
+<year>2000</year>
+<crossref>conf/ngc/2000</crossref>
+<booktitle>Networked Group Communication</booktitle>
+<url>db/conf/ngc/ngc2000.html#Fdida00</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/networking/2000" mdate="2019-05-14">
+<editor>Guy Pujolle</editor>
+<editor>Harry G. Perros</editor>
+<editor>Serge Fdida</editor>
+<editor>Ulf Körner</editor>
+<editor>Ioannis Stavrakakis</editor>
+<title>NETWORKING 2000, Broadband Communications, High Performance Networking, and Performance of Communication Networks, IFIP-TC6 / European Commission International Conference, Paris, France, May 14-19, 2000, Proceedings</title>
+<booktitle>NETWORKING</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1815</volume>
+<publisher>Springer</publisher>
+<year>2000</year>
+<isbn>3-540-67506-X</isbn>
+<url>db/conf/networking/networking2000.html</url>
+</proceedings>
+</r>
+<r><article key="journals/telsys/FourmauxF99" mdate="2017-05-28">
+<author>Olivier Fourmaux</author>
+<author>Serge Fdida</author>
+<title>Multicast for RSVP switching: An extended multicast model with QoS for label swapping in an IP over ATM environment.</title>
+<pages>85-104</pages>
+<year>1999</year>
+<volume>11</volume>
+<journal>Telecommunication Systems</journal>
+<number>1-2</number>
+<url>db/journals/telsys/telsys11.html#FourmauxF99</url>
+</article>
+</r>
+<r><inproceedings key="conf/broadband/ZieglerFH99" mdate="2019-03-20">
+<author>Thomas Ziegler 0001</author>
+<author>Serge Fdida</author>
+<author>Ulrich Hofmann 0001</author>
+<title>RED+ Gateways for Identification and Discrimination of Unfriendly Best-Effort Flows in the Internet.</title>
+<pages>27-38</pages>
+<year>1999</year>
+<crossref>conf/broadband/1999</crossref>
+<booktitle>Broadband Communications</booktitle>
+<url>db/conf/broadband/broadband1999.html#ZieglerFH99</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ngc/1999" mdate="2019-05-14">
+<editor orcid="0000-0003-2483-1565">Luigi Rizzo</editor>
+<editor>Serge Fdida</editor>
+<title>Networked Group Communication, First International COST264 Workshop, NGC'99, Pisa, Italy, November 17-20, 1999, Proceedings</title>
+<booktitle>Networked Group Communication</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1736</volume>
+<publisher>Springer</publisher>
+<year>1999</year>
+<isbn>3-540-66782-2</isbn>
+<url>db/conf/ngc/ngc1999.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/anss/PhamBF98" mdate="2017-05-21">
+<author>C. D. Pham</author>
+<author>H. Brunst</author>
+<author>Serge Fdida</author>
+<title>How Can We Study Large and Complex Systems.</title>
+<pages>126-134</pages>
+<year>1998</year>
+<crossref>conf/anss/1998</crossref>
+<booktitle>Annual Simulation Symposium</booktitle>
+<url>db/conf/anss/anss1998.html#PhamBF98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecmast/RomanoDRF98" mdate="2018-11-02">
+<author orcid="0000-0002-5876-0382">Simon Pietro Romano</author>
+<author>Christophe Deleuze</author>
+<author>José Ferreira de Rezende</author>
+<author>Serge Fdida</author>
+<title>Integrated QoS Architectue for IP Switching.</title>
+<pages>312-325</pages>
+<year>1998</year>
+<crossref>conf/ecmast/1998</crossref>
+<booktitle>ECMAST</booktitle>
+<url>db/conf/ecmast/ecmast1998.html#RomanoDRF98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pads/PhamBF98" mdate="2017-05-26">
+<author>C. D. Pham</author>
+<author>H. Brunst</author>
+<author>Serge Fdida</author>
+<title>Conservative Simulation of Load-Balanced Routing in a Large ATM Network model.</title>
+<pages>142-149</pages>
+<year>1998</year>
+<crossref>conf/pads/1998</crossref>
+<booktitle>Workshop on Parallel and Distributed Simulation</booktitle>
+<url>db/conf/pads/pads1998.html#PhamBF98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atmn/MoretFFG97" mdate="2002-01-03">
+<author>Yan Moret</author>
+<author>Serge Fdida</author>
+<author>A. Fichou</author>
+<author>C. Galand</author>
+<title>Evaluation of the ER Algorithm ERAQLES in Different ABR Environments.</title>
+<pages>396-410</pages>
+<year>1997</year>
+<crossref>conf/atmn/1997</crossref>
+<booktitle>Modelling and Evaluation of ATM Networks</booktitle>
+<url>db/conf/atmn/atmn1997.html#MoretFFG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/PhamEF97" mdate="2017-05-23">
+<author>C. D. Pham</author>
+<author>J. Essmeyer</author>
+<author>Serge Fdida</author>
+<title>Simulation of a Routing Algorithm Using Distributed Simulation Techniques.</title>
+<pages>1001-1008</pages>
+<year>1997</year>
+<crossref>conf/europar/1997</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar97.html#PhamEF97</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ecmast/1997" mdate="2019-05-14">
+<editor>Serge Fdida</editor>
+<editor>Michele Morganti</editor>
+<title>Multimedia Applications, Services and Techniques - ECMAST '97, Second European Conference, Milan, Italy, May 21-23, 1997, Proceedings</title>
+<booktitle>ECMAST</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1242</volume>
+<publisher>Springer</publisher>
+<year>1997</year>
+<isbn>3-540-63078-3</isbn>
+<url>db/conf/ecmast/ecmast1997.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/anss/PhamF96" mdate="2017-05-21">
+<author>C. D. Pham</author>
+<author>Serge Fdida</author>
+<title>Length-based Blocking Strategy and Local Estimations in Distributed Simulation: A Case Study.</title>
+<pages>97-106</pages>
+<year>1996</year>
+<crossref>conf/anss/1996</crossref>
+<booktitle>Annual Simulation Symposium</booktitle>
+<url>db/conf/anss/anss1996.html#PhamF96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/phsn/RezendeMFH96" mdate="2007-12-03">
+<author>José Ferreira de Rezende</author>
+<author>Andreas Mauthe</author>
+<author>Serge Fdida</author>
+<author>David Hutchison</author>
+<title>Fully reliable multicast in heterogeneous environments.</title>
+<pages>121-133</pages>
+<year>1996</year>
+<crossref>conf/phsn/1996</crossref>
+<booktitle>Protocols for High-Speed Networks</booktitle>
+<url>db/conf/phsn/phsn1996.html#RezendeMFH96</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dcsp/1995" mdate="2002-01-03">
+<editor>Serge Fdida</editor>
+<editor>Raif O. Onvural</editor>
+<title>Data Communications and their Performance, Proceedings of the Sixth IFIP WG6.3 Conference on Performance of Computer Networks, Istanbul, Turkey, 1995</title>
+<booktitle>Data Communications and their Performance</booktitle>
+<series href="db/series/ifip/index.html">IFIP Conference Proceedings</series>
+<volume>36</volume>
+<publisher>Chapman and Hall</publisher>
+<year>1996</year>
+<isbn>0-412-73250-5</isbn>
+<url>db/conf/dcsp/dcsp1995.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/cost/RezendeFMH95" mdate="2019-10-19">
+<author>José Ferreira de Rezende</author>
+<author>Serge Fdida</author>
+<author orcid="0000-0002-8727-9440">Andreas Mauthe</author>
+<author orcid="0000-0001-6052-0559">David Hutchison</author>
+<title>M-Connection Service: A Multicast Service for Distributed Multimedia Applications.</title>
+<pages>40-60</pages>
+<year>1995</year>
+<crossref>conf/cost/1995</crossref>
+<booktitle>COST 237 Workshop</booktitle>
+<url>db/conf/cost/cost1995.html#RezendeFMH95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagstuhl/Fdida95" mdate="2002-08-21">
+<author>Serge Fdida</author>
+<title>Multimedia transport protocol and multicast communication.</title>
+<pages>225-246</pages>
+<year>1995</year>
+<crossref>conf/dagstuhl/1995net</crossref>
+<booktitle>High-Speed Networking for Multimedia Applications</booktitle>
+<url>db/conf/dagstuhl/net1995.html#Fdida95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dcsp/PhamF95" mdate="2002-01-03">
+<author>C. D. Pham</author>
+<author>Serge Fdida</author>
+<title>The Statistically Correct Approach to Distributed Simulation of ATM Networks.</title>
+<pages>352-366</pages>
+<year>1995</year>
+<crossref>conf/dcsp/1995</crossref>
+<booktitle>Data Communications and their Performance</booktitle>
+<url>db/conf/dcsp/dcsp1995.html#PhamF95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/RocheF94" mdate="2019-02-24">
+<author>Christian Roche</author>
+<author>Serge Fdida</author>
+<title>A Dynamic Resource Management Mechanism for LAN Interconnections across High-Speed Networks.</title>
+<pages>884-891</pages>
+<year>1994</year>
+<crossref>conf/infocom/1994</crossref>
+<booktitle>INFOCOM</booktitle>
+<url>db/conf/infocom/infocom1994-2.html#RocheF94</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/hpn/1994" mdate="2002-01-03">
+<editor>Serge Fdida</editor>
+<title>High Performance Networking V, Proceedings of the IFIP TC6/WG6.4 Fifth International Conference on High Performance Networking, Grenoble, France, 27 June - 1 July, 1994</title>
+<booktitle>HPN</booktitle>
+<series href="db/series/ifip/transactions.html">IFIP Transactions</series>
+<volume>C-26</volume>
+<publisher>North-Holland</publisher>
+<year>1994</year>
+<isbn>0-444-82023-X</isbn>
+<url>db/conf/hpn/hpn1994.html</url>
+</proceedings>
+</r>
+<r><article key="journals/comcom/SantosoF93" mdate="2017-05-26">
+<author>Harry Santoso</author>
+<author>Serge Fdida</author>
+<title>Frame relay: a solution for high bandwidth networking.</title>
+<pages>432-439</pages>
+<year>1993</year>
+<volume>16</volume>
+<journal>Computer Communications</journal>
+<number>7</number>
+<url>db/journals/comcom/comcom16.html#SantosoF93</url>
+</article>
+</r>
+<r><inproceedings key="conf/atmn/MarkFS93" mdate="2002-01-07">
+<author>Jon W. Mark</author>
+<author>Serge Fdida</author>
+<author>Harry Santoso</author>
+<title>Congestion Avoidance in an Interconnection Network: Approximate Analysis.</title>
+<pages>325-340</pages>
+<year>1993</year>
+<crossref>conf/atmn/1993</crossref>
+<booktitle>Modelling and Evaluation of ATM Networks</booktitle>
+<url>db/conf/atmn/atmn1993.html#MarkFS93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bi/DahanFZ93" mdate="2002-03-08">
+<author>Sophie Dahan</author>
+<author>Serge Fdida</author>
+<author>Simon Znaty</author>
+<title>Congestion Management of LANs Interconnection across SMDS.</title>
+<pages>247-259</pages>
+<year>1993</year>
+<crossref>conf/bi/1993</crossref>
+<booktitle>Broadband Islands</booktitle>
+<url>db/conf/bi/bi1993.html#DahanFZ93</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/TowsleyFS92" mdate="2017-05-18">
+<author>Donald F. Towsley</author>
+<author>Serge Fdida</author>
+<author>Harry Santoso</author>
+<title>Congestion Avoidance in High-Speed Interconnection Systems.</title>
+<pages>185-195</pages>
+<year>1992</year>
+<volume>24</volume>
+<journal>Computer Networks and ISDN Systems</journal>
+<number>2</number>
+<url>db/journals/cn/cn24.html#TowsleyFS92</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpn/SantosoF92" mdate="2002-01-04">
+<author>Harry Santoso</author>
+<author>Serge Fdida</author>
+<title>Transport Layer Multicast: An Enhancement for XTP Bucket Error Control.</title>
+<pages>333-349</pages>
+<year>1992</year>
+<crossref>conf/hpn/1992</crossref>
+<booktitle>HPN</booktitle>
+<url>db/conf/hpn/hpn1992.html#SantosoF92</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcom/FdidaPW90" mdate="2017-05-28">
+<author>Serge Fdida</author>
+<author>Harry G. Perros</author>
+<author>Andrzej Wilk</author>
+<title>Semaphore queues: modeling multilayered window flow control mechanisms.</title>
+<pages>309-317</pages>
+<year>1990</year>
+<volume>38</volume>
+<journal>IEEE Trans. Communications</journal>
+<number>3</number>
+<url>db/journals/tcom/tcom38.html#FdidaPW90</url>
+</article>
+</r>
+<r><article key="journals/sigmetrics/KornerFPS88" mdate="2018-11-06">
+<author>Ulf Körner</author>
+<author>Serge Fdida</author>
+<author>Harry G. Perros</author>
+<author>Gerald W. Shapiro</author>
+<title>End to End Delays in a Catenet Environment.</title>
+<pages>20-28</pages>
+<year>1988</year>
+<volume>15</volume>
+<journal>SIGMETRICS Performance Evaluation Review</journal>
+<number>3-4</number>
+<url>db/journals/sigmetrics/sigmetrics15.html#KornerFPS88</url>
+</article>
+</r>
+<r><article key="journals/jss/FdidaMP86" mdate="2017-05-28">
+<author>Serge Fdida</author>
+<author>D. Mailles</author>
+<author>Guy Pujolle</author>
+<title>Queueing systems with resource sharing.</title>
+<pages>23-29</pages>
+<year>1986</year>
+<volume>6</volume>
+<journal>Journal of Systems and Software</journal>
+<number>1-2</number>
+<url>db/journals/jss/jss6.html#FdidaMP86</url>
+</article>
+</r>
+<coauthors n="208" nc="4">
+<co c="0"><na f="a/Abdesslem:Fehmi_Ben">Fehmi Ben Abdesslem</na></co>
+<co c="0" n="2"><na f="a/Abel=eacute=m:Ant=ocirc=nio_J=_G=">Antônio J. G. Abelém</na><na>Antônio Abelém</na></co>
+<co c="0"><na f="a/Albrecht:Stephan">Stephan Albrecht</na></co>
+<co c="0"><na f="a/Amorim:Marcelo_Dias_de">Marcelo Dias de Amorim</na></co>
+<co c="0"><na f="a/Anelli:Pascal">Pascal Anelli</na></co>
+<co c="0"><na f="a/Antoniadis:Panayotis">Panayotis Antoniadis</na></co>
+<co c="0"><na f="a/Aug=eacute=:Jordan">Jordan Augé</na></co>
+<co c="0"><na f="a/Auriol:Guillaume">Guillaume Auriol</na></co>
+<co c="0"><na f="a/Avakian:Sandrine">Sandrine Avakian</na></co>
+<co c="0"><na f="a/Avessta:Susanna">Susanna Avessta</na></co>
+<co c="0"><na f="a/Azcorra:Arturo">Arturo Azcorra</na></co>
+<co c="0"><na f="a/Azodolmolky:Siamak">Siamak Azodolmolky</na></co>
+<co c="0"><na f="b/Bahl:Paramvir">Paramvir Bahl</na></co>
+<co c="0"><na f="b/Barbosa:Valmir_Carneiro">Valmir Carneiro Barbosa</na></co>
+<co c="0"><na f="b/Baron:Lo=iuml=c">Loïc Baron</na></co>
+<co c="0"><na f="b/Baurens:B=">B. Baurens</na></co>
+<co c="0"><na f="b/Baynat:Bruno">Bruno Baynat</na></co>
+<co c="0"><na f="b/Begin:Thomas">Thomas Begin</na></co>
+<co c="0"><na f="b/Belblidia:Nadjet">Nadjet Belblidia</na></co>
+<co c="0"><na f="b/Benbadis:Farid">Farid Benbadis</na></co>
+<co c="0"><na f="b/Bergesio:Leonardo">Leonardo Bergesio</na></co>
+<co c="0"><na f="b/Bezahaf:Mehdi">Mehdi Bezahaf</na></co>
+<co c="0"><na f="b/Binh:Huynh_Thi_Thanh">Huynh Thi Thanh Binh</na></co>
+<co c="0"><na f="b/Borrel:Vincent">Vincent Borrel</na></co>
+<co c="0"><na f="b/Botta:Alessio">Alessio Botta</na></co>
+<co c="0"><na f="b/Boubekeur:Fadwa">Fadwa Boubekeur</na></co>
+<co c="0"><na f="b/Bradai:Amira">Amira Bradai</na></co>
+<co c="0"><na f="b/Brandauer:Christof">Christof Brandauer</na></co>
+<co c="0"><na f="b/Brandwajn:Alexandre">Alexandre Brandwajn</na></co>
+<co c="2"><na f="b/Brunst:H=">H. Brunst</na></co>
+<co c="0"><na f="b/Bub:Udo">Udo Bub</na></co>
+<co c="0"><na f="c/Canonico:Roberto">Roberto Canonico</na></co>
+<co c="0"><na f="c/Chassot:Christophe">Christophe Chassot</na></co>
+<co c="0"><na f="c/Choi:Yanghee">Yanghee Choi</na></co>
+<co c="0"><na f="c/Chong:Song">Song Chong</na></co>
+<co c="0" n="2"><na f="c/Choumas:Konstantinos">Konstantinos Choumas</na><na>Kostas Choumas</na></co>
+<co c="0"><na f="c/Cicalese:Danilo">Danilo Cicalese</na></co>
+<co c="0"><na f="c/Ciuffo:Leandro_Neumann">Leandro Neumann Ciuffo</na></co>
+<co c="0"><na f="c/Conan:Vania">Vania Conan</na></co>
+<co c="0"><na f="c/Conti:Marco">Marco Conti</na></co>
+<co c="0"><na f="c/Costa:Luis">Luis Costa</na></co>
+<co c="0"><na f="c/Costa:Lu=iacute=s_Henrique_Maciel_Kosmalski">Luís Henrique Maciel Kosmalski Costa</na></co>
+<co c="0"><na f="c/Covaci:Stefan">Stefan Covaci</na></co>
+<co c="0"><na f="c/Crovella:Mark">Mark Crovella</na></co>
+<co c="0"><na f="c/Crowcroft:Jon">Jon Crowcroft</na></co>
+<co c="3"><na f="d/Dahan:Sophie">Sophie Dahan</na></co>
+<co c="0"><na f="d/Deleuze:Christophe">Christophe Deleuze</na></co>
+<co c="0"><na f="d/Dhar:R=">R. Dhar</na></co>
+<co c="0"><na f="d/Diallo:Mohamed">Mohamed Diallo</na></co>
+<co c="0"><na f="d/Diaz:Michel">Michel Diaz</na></co>
+<co c="0"><na f="d/Diot:Christophe">Christophe Diot</na></co>
+<co c="0"><na f="d/Duarte:Otto_Carlos_Muniz_Bandeira">Otto Carlos Muniz Bandeira Duarte</na></co>
+<co c="2"><na f="e/Essmeyer:J=">J. Essmeyer</na></co>
+<co c="1"><na f="f/Fichou:A=">A. Fichou</na></co>
+<co c="0"><na f="f/Flegkas:Paris">Paris Flegkas</na></co>
+<co c="0"><na f="f/Fonseca:Mauro">Mauro Fonseca</na></co>
+<co c="0"><na f="f/Fourmaux:Olivier">Olivier Fourmaux</na></co>
+<co c="0"><na f="f/Friedman:Timur">Timur Friedman</na></co>
+<co c="1"><na f="g/Galand:C=">C. Galand</na></co>
+<co c="0"><na f="g/Garcia:Fabien">Fabien Garcia</na></co>
+<co c="0"><na f="g/Gaudet=Chardonnet:Pauline">Pauline Gaudet-Chardonnet</na></co>
+<co c="0"><na f="g/Gavras:Anastasius">Anastasius Gavras</na></co>
+<co c="0"><na f="g/Girard:Andr=eacute=">André Girard</na></co>
+<co c="0"><na f="g/Gober:Peter">Peter Gober</na></co>
+<co c="0"><na f="g/Gorcitz:Raul_Adrian">Raul Adrian Gorcitz</na></co>
+<co c="0"><na f="g/Grassi:Giulio">Giulio Grassi</na></co>
+<co c="0"><na f="g/Griffin_0001:Christopher">Christopher Griffin 0001</na></co>
+<co c="0"><na f="g/Gueye:Bamba">Bamba Gueye</na></co>
+<co c="0"><na f="h/Hechenleitner:Bernhard">Bernhard Hechenleitner</na></co>
+<co c="0"><na f="h/Hofmann_0001:Ulrich">Ulrich Hofmann 0001</na></co>
+<co c="0"><na f="h/Hu:Xinyi">Xinyi Hu</na></co>
+<co c="0"><na f="h/H=uuml=nerberg:Philipp">Philipp Hünerberg</na></co>
+<co c="0"><na f="h/Hutchison:David">David Hutchison</na></co>
+<co c="0"><na f="i/Iannaccone:Gianluca">Gianluca Iannaccone</na></co>
+<co c="0"><na f="i/Iannone:Luigi">Luigi Iannone</na></co>
+<co c="0"><na f="j/Jarma:Yesid">Yesid Jarma</na></co>
+<co c="0"><na f="j/Jia:Weijia">Weijia Jia</na></co>
+<co c="0"><na f="j/Jin:Youngmi">Youngmi Jin</na></co>
+<co c="0"><na f="k/Kabassanov:Konstantin">Konstantin Kabassanov</na></co>
+<co c="0"><na f="k/Kanchanasut:Kanchana">Kanchana Kanchanasut</na></co>
+<co c="0"><na f="k/Karila:Arto">Arto Karila</na></co>
+<co c="0"><na f="k/Karl:Holger">Holger Karl</na></co>
+<co c="0"><na f="k/Kasera:Sneha_Kumar">Sneha Kumar Kasera</na></co>
+<co c="0"><na f="k/Kesidis:George">George Kesidis</na></co>
+<co c="0"><na f="k/Khalife:Hicham">Hicham Khalife</na></co>
+<co c="0"><na f="k/Kim:Donghyun">Donghyun Kim</na></co>
+<co c="0"><na f="k/Kim:JongWon">JongWon Kim</na></co>
+<co c="0"><na f="k/Kirkpatrick:Scott">Scott Kirkpatrick</na></co>
+<co c="0"><na f="k/Klacza:Radomir">Radomir Klacza</na></co>
+<co c="0"><na f="k/Kocak:Fatih">Fatih Kocak</na></co>
+<co c="0"><na f="k/Korakis:Thanasis">Thanasis Korakis</na></co>
+<co c="0"><na f="k/K=ouml=rner:Ulf">Ulf Körner</na></co>
+<co c="0"><na f="k/Kurose:Nina">Nina Kurose</na></co>
+<co c="0"><na f="k/Kwon:Ted_Taekyoung">Ted Taekyoung Kwon</na></co>
+<co c="0"><na f="l/Larabi:Mohamed_Amine">Mohamed Amine Larabi</na></co>
+<co c="0"><na f="l/Lassous:Isabelle_Gu=eacute=rin">Isabelle Guérin Lassous</na></co>
+<co c="0"><na f="l/Lee:Dongman">Dongman Lee</na></co>
+<co c="0"><na f="l/Lee:Hyunwoo">Hyunwoo Lee</na></co>
+<co c="0"><na f="l/Legendre:Franck">Franck Legendre</na></co>
+<co c="0"><na f="l/Leguay:Jeremie">Jeremie Leguay</na></co>
+<co c="0"><na f="l/Lertsinsrubtavee:Adisorn">Adisorn Lertsinsrubtavee</na></co>
+<co c="0"><na f="l/Limbourg:Arnaud">Arnaud Limbourg</na></co>
+<co c="0"><na f="l/Lin:Ying=Dar">Ying-Dar Lin</na></co>
+<co c="0"><na f="l/Lochin:Emmanuel">Emmanuel Lochin</na></co>
+<co c="0"><na f="l/Lozes:Andr=eacute=">André Lozes</na></co>
+<co c="0"><na f="m/Machado:Iara">Iara Machado</na></co>
+<co c="0"><na f="m/MacKeith:Sophia">Sophia MacKeith</na></co>
+<co c="0"><na f="m/Magedanz:Thomas">Thomas Magedanz</na></co>
+<co c="0"><na f="m/M=auml=h=ouml=nen:Petri">Petri Mähönen</na></co>
+<co c="0"><na f="m/Maier_0001:Martin">Martin Maier 0001</na></co>
+<co c="0"><na f="m/Mailles:D=">D. Mailles</na></co>
+<co c="0"><na f="m/Malouch:Naceur">Naceur Malouch</na></co>
+<co c="0"><na f="m/Marfia:Gustavo">Gustavo Marfia</na></co>
+<co c="0"><na f="m/Mark:Jon_W=">Jon W. Mark</na></co>
+<co c="0"><na f="m/Martinez=Julia:Pedro">Pedro Martinez-Julia</na></co>
+<co c="0"><na f="m/Mathy:Laurent">Laurent Mathy</na></co>
+<co c="0"><na f="m/Mauthe:Andreas">Andreas Mauthe</na></co>
+<co c="0"><na f="m/May:Martin">Martin May</na></co>
+<co c="0"><na f="m/Meissner:Andreas">Andreas Meissner</na></co>
+<co c="0"><na f="m/Mercer:Douglas">Douglas Mercer</na></co>
+<co c="0"><na f="m/Minoux:Michel">Michel Minoux</na></co>
+<co c="0"><na f="m/Misra:Vishal">Vishal Misra</na></co>
+<co c="0"><na f="m/Molva:Refik">Refik Molva</na></co>
+<co c="0"><na f="m/Montpetit:Marie=Jos=eacute=">Marie-José Montpetit</na></co>
+<co c="0"><na f="m/Moon:Sue_B=">Sue B. Moon</na></co>
+<co c="1"><na f="m/Moret:Yan">Yan Moret</na></co>
+<co c="-1"><na f="m/Morganti:Michele">Michele Morganti</na></co>
+<co c="0"><na f="n/Nguyen:Thi=Minh">Thi-Minh Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Thi=Thuy=Lien">Thi-Thuy-Lien Nguyen</na></co>
+<co c="0"><na f="o/Obraczka:Katia">Katia Obraczka</na></co>
+<co c="0"><na f="o/Onvural:Raif_O=">Raif O. Onvural</na></co>
+<co c="0"><na f="o/Owezarski:Philippe">Philippe Owezarski</na></co>
+<co c="0"><na f="o/Owezarski:St=eacute=phane">Stéphane Owezarski</na></co>
+<co c="0"><na f="p/Parmentelat:Thierry">Thierry Parmentelat</na></co>
+<co c="0"><na f="p/Partridge:Craig">Craig Partridge</na></co>
+<co c="0"><na f="p/Pau_0001:Giovanni">Giovanni Pau 0001</na></co>
+<co c="0"><na f="p/Perros:Harry_G=">Harry G. Perros</na></co>
+<co c="0"><na f="p/Pesavento:Davide">Davide Pesavento</na></co>
+<co c="0"><na f="p/Pescap=egrave=:Antonio">Antonio Pescapè</na></co>
+<co c="2"><na f="p/Pham:C=_D=">C. D. Pham</na></co>
+<co c="0"><na f="p/Pham:Tuan=Minh">Tuan-Minh Pham</na></co>
+<co c="0"><na f="p/Phe=Neau:Tiphaine">Tiphaine Phe-Neau</na></co>
+<co c="0"><na f="p/Potts:Martin">Martin Potts</na></co>
+<co c="0"><na f="p/Pujolle:Guy">Guy Pujolle</na></co>
+<co c="0"><na f="r/Rahman:Mohammed_Yasin">Mohammed Yasin Rahman</na></co>
+<co c="0"><na f="r/Raychaudhuri:Dipankar">Dipankar Raychaudhuri</na></co>
+<co c="0"><na f="r/Razafindralambo:Tahiry">Tahiry Razafindralambo</na></co>
+<co c="0"><na f="r/Reggani:Ahlem">Ahlem Reggani</na></co>
+<co c="0"><na f="r/Rehmani:Mubashir_Husain">Mubashir Husain Rehmani</na></co>
+<co c="0"><na f="r/Rezende:Jos=eacute=_Ferreira_de">José Ferreira de Rezende</na></co>
+<co c="0"><na f="r/Rizzo:Luigi">Luigi Rizzo</na></co>
+<co c="0"><na f="r/Roca:Vincent">Vincent Roca</na></co>
+<co c="0"><na f="r/Roccetti:Marco">Marco Roccetti</na></co>
+<co c="-1"><na f="r/Roche:Christian">Christian Roche</na></co>
+<co c="0"><na f="r/Romano:Simon_Pietro">Simon Pietro Romano</na></co>
+<co c="0"><na f="r/Rosenberg:Catherine">Catherine Rosenberg</na></co>
+<co c="-1"><na f="r/Rozhnova:Natalya">Natalya Rozhnova</na></co>
+<co c="0"><na f="s/Sailer:Anca_Dracinschi">Anca Dracinschi Sailer</na></co>
+<co c="0"><na f="s/Salamatian:Kav=eacute=">Kavé Salamatian</na></co>
+<co c="0"><na f="s/Sallent:Sebasti=agrave=">Sebastià Sallent</na></co>
+<co c="0"><na f="s/Salvador:Marcos">Marcos Salvador</na></co>
+<co c="0"><na f="s/Santoso:Harry">Harry Santoso</na></co>
+<co c="0"><na f="s/Sarkar:Saswati">Saswati Sarkar</na></co>
+<co c="0"><na f="s/Schreiner_0001:Florian">Florian Schreiner 0001</na></co>
+<co c="0"><na f="s/Scognamiglio:Ciro">Ciro Scognamiglio</na></co>
+<co c="0"><na f="s/Shan:Yuquan">Yuquan Shan</na></co>
+<co c="0"><na f="s/Shapiro:Gerald_W=">Gerald W. Shapiro</na></co>
+<co c="0"><na f="s/Sichitiu:Mihail_L=">Mihail L. Sichitiu</na></co>
+<co c="0"><na f="s/Skarmeta:Antonio_F=">Antonio F. Skarmeta</na></co>
+<co c="0"><na f="s/Solis:Ignacio">Ignacio Solis</na></co>
+<co c="0"><na f="s/Sourlas:Vasilis">Vasilis Sourlas</na></co>
+<co c="0"><na f="s/Spathis:Prom=eacute=th=eacute=e">Prométhée Spathis</na></co>
+<co c="0"><na f="s/Spyropoulos:Thrasyvoulos">Thrasyvoulos Spyropoulos</na></co>
+<co c="0"><na f="s/Stasi:Giovanni_Di">Giovanni Di Stasi</na></co>
+<co c="0"><na f="s/Stavrakakis:Ioannis">Ioannis Stavrakakis</na></co>
+<co c="-1"><na f="s/Sugiura:Kazunori">Kazunori Sugiura</na></co>
+<co c="0"><na f="s/Suh:Junho">Junho Suh</na></co>
+<co c="0"><na f="t/Tassiulas:Leandros">Leandros Tassiulas</na></co>
+<co c="0"><na f="t/Tatar:Alexandru=Florin">Alexandru-Florin Tatar</na></co>
+<co c="0"><na f="t/Todorova:Petia">Petia Todorova</na></co>
+<co c="0" n="2"><na f="t/Touch:Joseph_D=">Joseph D. Touch</na><na>Joe Touch</na></co>
+<co c="0" n="2"><na f="t/Towsley:Don">Don Towsley</na><na>Donald F. Towsley</na></co>
+<co c="0"><na f="t/Tse:Rita">Rita Tse</na></co>
+<co c="0"><na f="t/Turro:Nicolas">Nicolas Turro</na></co>
+<co c="0"><na f="u/Uhlig:Steve">Steve Uhlig</na></co>
+<co c="0"><na f="v/Ventre:Giorgio">Giorgio Ventre</na></co>
+<co c="0"><na f="v/Viana:Aline_Carneiro">Aline Carneiro Viana</na></co>
+<co c="0"><na f="v/Vida:Rolland">Rolland Vida</na></co>
+<co c="0"><na f="v/Vieira:Fabio_R=_J=">Fabio R. J. Vieira</na></co>
+<co c="0"><na f="v/Viho:C=eacute=sar">César Viho</na></co>
+<co c="0"><na f="v/Viniotis:Yannis">Yannis Viniotis</na></co>
+<co c="0"><na f="w/Wakikawa:Ryuji">Ryuji Wakikawa</na></co>
+<co c="0"><na f="w/Wang_0001:Jianping">Jianping Wang 0001</na></co>
+<co c="0"><na f="w/Watteyne:Thomas">Thomas Watteyne</na></co>
+<co c="0"><na f="w/Whitbeck:John">John Whitbeck</na></co>
+<co c="0"><na f="w/Wilk:Andrzej">Andrzej Wilk</na></co>
+<co c="0"><na f="w/Willner:Alexander">Alexander Willner</na></co>
+<co c="0"><na f="w/Wolf:Lars_C=">Lars C. Wolf</na></co>
+<co c="0"><na f="w/Wolfinger:Bernd_E=">Bernd E. Wolfinger</na></co>
+<co c="0"><na f="x/Xiao:Yubin">Yubin Xiao</na></co>
+<co c="0"><na f="y/You:Taewan">Taewan You</na></co>
+<co c="0"><na f="z/Zhang_0001:Lixia">Lixia Zhang 0001</na></co>
+<co c="0" n="2"><na f="z/Zheng_0001:Haitao">Haitao Zheng 0001</na><na>Heather Zheng</na></co>
+<co c="0"><na f="z/Ziegler:S=eacute=bastien">Sébastien Ziegler</na></co>
+<co c="0"><na f="z/Ziegler_0001:Thomas">Thomas Ziegler 0001</na></co>
+<co c="0"><na f="z/Ziviani:Artur">Artur Ziviani</na></co>
+<co c="3"><na f="z/Znaty:Simon">Simon Znaty</na></co>
+<co c="0"><na f="z/Zukerman:Moshe">Moshe Zukerman</na></co>
+</coauthors>
+</dblpperson>
+

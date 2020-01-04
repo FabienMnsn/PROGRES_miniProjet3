@@ -1,0 +1,1053 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Benjamin Piwowarski" n="78">
+<person key="homepages/15/2146" mdate="2018-10-17">
+<author>Benjamin Piwowarski</author>
+<url>http://www.bpiwowar.net/</url>
+<url>https://scholar.google.com/citations?user=RP4lPE8AAAAJ</url>
+<url>https://dl.acm.org/author_page.cfm?id=81100646985</url>
+<url>https://twitter.com/bpiwowar</url>
+<note type="affiliation">University Pierre et Marie Curie (UPMC), LIP6, France</note>
+</person>
+<r><inproceedings key="conf/acl/SimonGP19" mdate="2019-08-19">
+<author>Étienne Simon</author>
+<author>Vincent Guigue</author>
+<author>Benjamin Piwowarski</author>
+<title>Unsupervised Information Extraction: Regularizing Discriminative Approaches with Relation Distribution Losses.</title>
+<pages>1378-1387</pages>
+<year>2019</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P19-1133/</ee>
+<crossref>conf/acl/2019-1</crossref>
+<url>db/conf/acl/acl2019-1.html#SimonGP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/ScialomPS19" mdate="2019-08-19">
+<author>Thomas Scialom</author>
+<author>Benjamin Piwowarski</author>
+<author>Jacopo Staiano</author>
+<title>Self-Attention Architectures for Answer-Agnostic Neural Question Generation.</title>
+<pages>6027-6032</pages>
+<year>2019</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/P19-1604/</ee>
+<crossref>conf/acl/2019-1</crossref>
+<url>db/conf/acl/acl2019-1.html#ScialomPS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/BordesZSPG19" mdate="2019-03-29">
+<author>Patrick Bordes</author>
+<author>Eloi Zablocki</author>
+<author>Laure Soulier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Un modèle multimodal d'apprentissage de représentations de phrases qui préserve la sémantique visuelle.</title>
+<year>2019</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2019</crossref>
+<url>db/conf/coria/coria2019.html#BordesZSPG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/ScialomPS19" mdate="2019-03-29">
+<author>Thomas Scialom</author>
+<author>Benjamin Piwowarski</author>
+<author>Jacopo Staiano</author>
+<title>Architecture basée sur les mécanismes d'attention: le cas de la génération de questions neuronales.</title>
+<year>2019</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2019</crossref>
+<url>db/conf/coria/coria2019.html#ScialomPS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/BordesZSPG19" mdate="2019-12-12">
+<author>Patrick Bordes</author>
+<author>Eloi Zablocki</author>
+<author>Laure Soulier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Incorporating Visual Semantics into Sentence Representations within a Grounded Space.</title>
+<pages>696-707</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1064</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#BordesZSPG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ScialomLPS19" mdate="2019-12-12">
+<author>Thomas Scialom</author>
+<author>Sylvain Lamprier</author>
+<author>Benjamin Piwowarski</author>
+<author>Jacopo Staiano</author>
+<title>Answers Unite! Unsupervised Metrics for Reinforced Summarization Models.</title>
+<pages>3244-3254</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1320</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#ScialomLPS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/ZablockiBSPG19" mdate="2019-06-11">
+<author>Eloi Zablocki</author>
+<author>Patrick Bordes</author>
+<author>Laure Soulier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Context-Aware Zero-Shot Learning for Object Recognition.</title>
+<pages>7292-7303</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zablocki19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZablockiBSPG19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigir/2019" mdate="2019-07-21">
+<editor>Benjamin Piwowarski</editor>
+<editor>Max Chevalier</editor>
+<editor>Éric Gaussier</editor>
+<editor>Yoelle Maarek</editor>
+<editor>Jian-Yun Nie</editor>
+<editor>Falk Scholer</editor>
+<title>Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2019, Paris, France, July 21-25, 2019.</title>
+<publisher>ACM</publisher>
+<booktitle>SIGIR</booktitle>
+<year>2019</year>
+<isbn>978-1-4503-6172-9</isbn>
+<url>db/conf/sigir/sigir2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-12638" mdate="2019-05-02">
+<author>Eloi Zablocki</author>
+<author>Patrick Bordes</author>
+<author>Benjamin Piwowarski</author>
+<author>Laure Soulier</author>
+<author>Patrick Gallinari</author>
+<title>Context-Aware Zero-Shot Learning for Object Recognition.</title>
+<year>2019</year>
+<volume>abs/1904.12638</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.12638</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-12638</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-01610" mdate="2019-09-16">
+<author>Thomas Scialom</author>
+<author>Sylvain Lamprier</author>
+<author>Benjamin Piwowarski</author>
+<author>Jacopo Staiano</author>
+<title>Answers Unite! Unsupervised Metrics for Reinforced Summarization Models.</title>
+<year>2019</year>
+<volume>abs/1909.01610</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.01610</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-01610</url>
+</article>
+</r>
+<r><article key="journals/asc/RinconTESPG18" mdate="2019-06-02">
+<author orcid="0000-0003-4491-5889">Alejandro Lopez Rincon</author>
+<author orcid="0000-0001-5895-4809">Alberto Paolo Tonda</author>
+<author orcid="0000-0002-4440-2904">Mohamed Elati</author>
+<author>Olivier Schwander</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Evolutionary optimization of convolutional neural networks for cancer miRNA biomarkers classification.</title>
+<pages>91-100</pages>
+<year>2018</year>
+<volume>65</volume>
+<journal>Appl. Soft Comput.</journal>
+<url>db/journals/asc/asc65.html#RinconTESPG18</url>
+</article>
+</r>
+<r><article key="journals/tkdd/SantosPDG18" mdate="2018-11-21">
+<author>Ludovic Dos Santos</author>
+<author>Benjamin Piwowarski</author>
+<author>Ludovic Denoyer</author>
+<author>Patrick Gallinari</author>
+<title>Representation Learning for Classification in Heterogeneous Graphs with Application to Social Networks.</title>
+<pages>62:1-62:33</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>TKDD</journal>
+<number>5</number>
+<url>db/journals/tkdd/tkdd12.html#SantosPDG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ZablockiPSG18" mdate="2018-10-22">
+<author>Eloi Zablocki</author>
+<author>Benjamin Piwowarski</author>
+<author>Laure Soulier</author>
+<author>Patrick Gallinari</author>
+<title>Learning Multi-Modal Word Representation Grounded in Visual Context.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZablockiPSG18</url>
+<pages>5626-5633</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/TiteuxPG18" mdate="2018-10-26">
+<author>Hadrien Titeux</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Représentations Gaussiennes pour le Filtrage Collaboratif.</title>
+<year>2018</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2018</crossref>
+<url>db/conf/coria/coria2018.html#TiteuxPG18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ecir/2018" mdate="2019-05-14">
+<editor orcid="0000-0002-6080-8170">Gabriella Pasi</editor>
+<editor>Benjamin Piwowarski</editor>
+<editor>Leif Azzopardi</editor>
+<editor>Allan Hanbury</editor>
+<title>Advances in Information Retrieval - 40th European Conference on IR Research, ECIR 2018, Grenoble, France, March 26-29, 2018, Proceedings</title>
+<booktitle>ECIR</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10772</volume>
+<isbn>978-3-319-76940-0</isbn>
+<isbn>978-3-319-76941-7</isbn>
+<url>db/conf/ecir/ecir2018.html</url>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/PehcevskiP18" mdate="2019-02-14">
+<author>Jovan Pehcevski</author>
+<author>Benjamin Piwowarski</author>
+<title>Evaluation Metrics for Structured Text Retrieval.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/e2.html#PehcevskiP18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/PehcevskiP18a" mdate="2019-02-14">
+<author>Jovan Pehcevski</author>
+<author>Benjamin Piwowarski</author>
+<title>Specificity.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/s2.html#PehcevskiP18a</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/clef/ZablockiBSPG17" mdate="2019-05-28">
+<author>Eloi Zablocki</author>
+<author>Patrick Bordes</author>
+<author>Laure Soulier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>LIP6@CLEF2017: Multi-Modal Spatial Role Labeling using Word Embeddings.</title>
+<year>2017</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1866/paper_76.pdf</ee>
+<crossref>conf/clef/2017w</crossref>
+<url>db/conf/clef/clef2017w.html#ZablockiBSPG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/SantosPG17" mdate="2018-11-06">
+<author>Ludovic Dos Santos</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Gaussian Embeddings for Collaborative Filtering.</title>
+<pages>1065-1068</pages>
+<year>2017</year>
+<booktitle>SIGIR</booktitle>
+<crossref>conf/sigir/2017</crossref>
+<url>db/conf/sigir/sigir2017.html#SantosPG17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-03483" mdate="2018-08-13">
+<author>Eloi Zablocki</author>
+<author>Benjamin Piwowarski</author>
+<author>Laure Soulier</author>
+<author>Patrick Gallinari</author>
+<title>Learning Multi-Modal Word Representation Grounded in Visual Context.</title>
+<year>2017</year>
+<volume>abs/1711.03483</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.03483</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-03483</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/Piwowarski16" mdate="2016-03-29">
+<author>Benjamin Piwowarski</author>
+<title>Texte et Représentation en Recherche d'Information.</title>
+<pages>3</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#Piwowarski16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/KraljevicBPG16" mdate="2017-05-08">
+<author>Zeljko Kraljevic</author>
+<author>Nicolas Baskiotis</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Représentation temporelle des mots : application au clustering de micro-blogs.</title>
+<pages>531-544</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#KraljevicBPG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/DespresLP16" mdate="2017-05-08">
+<author>Nicolas Desprès</author>
+<author>Sylvain Lamprier</author>
+<author>Benjamin Piwowarski</author>
+<title>Apprentissage de modèles de langue neuronaux pour la recherche d'information.</title>
+<pages>717-732</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#DespresLP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/SantosPG16" mdate="2017-05-22">
+<author>Ludovic Dos Santos</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Multilabel Classification on Heterogeneous Graphs with Gaussian Embeddings.</title>
+<pages>606-622</pages>
+<year>2016</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<crossref>conf/pkdd/2016-2</crossref>
+<url>db/conf/pkdd/pkdd2016-2.html#SantosPG16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SinghP16" mdate="2018-08-13">
+<author>Gaurav Singh</author>
+<author>Benjamin Piwowarski</author>
+<title>Efficient Document Indexing Using Pivot Tree.</title>
+<year>2016</year>
+<volume>abs/1605.06693</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1605.06693</ee>
+<url>db/journals/corr/corr1605.html#SinghP16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Piwowarski16" mdate="2018-08-13">
+<author>Benjamin Piwowarski</author>
+<title>Learning Term Weights for Ad-hoc Retrieval.</title>
+<year>2016</year>
+<volume>abs/1606.04223</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.04223</ee>
+<url>db/journals/corr/corr1606.html#Piwowarski16</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/GauthierPG15" mdate="2018-11-06">
+<author>Luc-Aurélien Gauthier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Leveraging Rating Behavior to Predict Negative Social Ties.</title>
+<pages>623-628</pages>
+<year>2015</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2015</crossref>
+<url>db/conf/asunam/asonam2015.html#GauthierPG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/SantosPG15" mdate="2019-05-28">
+<author>Ludovic Dos Santos</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Graph Based Method Approach to the ImageCLEF2015 Task1 - Image Annotation.</title>
+<year>2015</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1391/159-CR.pdf</ee>
+<crossref>conf/clef/2015w</crossref>
+<url>db/conf/clef/clef2015w.html#SantosPG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/GauthierPG15" mdate="2017-05-08">
+<author>Luc-Aurélien Gauthier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Polarité des jugements et des interactions pour le filtrage collaboratif et la prédiction de liens sociaux.</title>
+<pages>139-154</pages>
+<year>2015</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2015</crossref>
+<url>db/conf/coria/coria2015.html#GauthierPG15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PiwowarskiLD15" mdate="2018-08-13">
+<author>Benjamin Piwowarski</author>
+<author>Sylvain Lamprier</author>
+<author>Nicolas Desprès</author>
+<title>Parameterized Neural Network Language Models for Information Retrieval.</title>
+<year>2015</year>
+<volume>abs/1510.01562</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1510.01562</ee>
+<url>db/journals/corr/corr1510.html#PiwowarskiLD15</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/GauthierPG14" mdate="2017-05-08">
+<author>Luc-Aurélien Gauthier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Filtrage collaboratif et intégration de la polarité des jugements.</title>
+<pages>11-26</pages>
+<year>2014</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2014</crossref>
+<url>db/conf/coria/coria2014.html#GauthierPG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jda/DupretP13" mdate="2017-05-28">
+<author>Georges Dupret</author>
+<author>Benjamin Piwowarski</author>
+<title>Model Based Comparison of Discounted Cumulative Gain and Average Precision.</title>
+<pages>49-62</pages>
+<year>2013</year>
+<volume>18</volume>
+<journal>J. Discrete Algorithms</journal>
+<url>db/journals/jda/jda18.html#DupretP13</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/Piwowarski13" mdate="2017-05-08">
+<author>Benjamin Piwowarski</author>
+<title>Méthodologie pour une représentation multi-dimensionnelle des documents.</title>
+<pages>227-236</pages>
+<year>2013</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2013</crossref>
+<url>db/conf/coria/coria2013.html#Piwowarski13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictir/MelucciP13" mdate="2018-11-06">
+<author>Massimo Melucci</author>
+<author>Benjamin Piwowarski</author>
+<title>Quantum Mechanics and Information Retrieval: From Theory to Application.</title>
+<pages>1</pages>
+<year>2013</year>
+<booktitle>ICTIR</booktitle>
+<crossref>conf/ictir/2013</crossref>
+<url>db/conf/ictir/ictir2013.html#MelucciP13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PehlivanPG13" mdate="2018-08-13">
+<author>Zeynep Pehlivan</author>
+<author>Benjamin Piwowarski</author>
+<author>Stéphane Gançarski</author>
+<title>Diversification Based Static Index Pruning - Application to Temporal Collections.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1308.4839</ee>
+<volume>abs/1308.4839</volume>
+<url>db/journals/corr/corr1308.html#PehlivanPG13</url>
+</article>
+</r>
+<r><article key="journals/jasis/PiwowarskiAL12" mdate="2017-05-28">
+<author>Benjamin Piwowarski</author>
+<author>Massih-Reza Amini</author>
+<author>Mounia Lalmas</author>
+<title>On using a quantum physics formalism for multidocument summarization.</title>
+<pages>865-888</pages>
+<year>2012</year>
+<volume>63</volume>
+<journal>JASIST</journal>
+<number>5</number>
+<url>db/journals/jasis/jasis63.html#PiwowarskiAL12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-6005" mdate="2018-08-13">
+<author>Benjamin Piwowarski</author>
+<title>The Kernel Quantum Probabilities (KQP) Library</title>
+<ee type="oa">http://arxiv.org/abs/1203.6005</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.6005</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-6005</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1209-4479" mdate="2018-08-13">
+<author>Benjamin Piwowarski</author>
+<author>Georges Dupret</author>
+<author>Mounia Lalmas</author>
+<title>Beyond Cumulated Gain and Average Precision: Including Willingness and Expectation in the User Model</title>
+<ee type="oa">http://arxiv.org/abs/1209.4479</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1209.4479</volume>
+<url>db/journals/corr/corr1209.html#abs-1209-4479</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecir/FrommholzPLR11" mdate="2017-05-21">
+<author>Ingo Frommholz</author>
+<author>Benjamin Piwowarski</author>
+<author>Mounia Lalmas</author>
+<author>Keith van Rijsbergen</author>
+<title>Processing Queries in Session in a Quantum-Inspired IR Framework.</title>
+<pages>751-754</pages>
+<year>2011</year>
+<booktitle>ECIR</booktitle>
+<crossref>conf/ecir/2011</crossref>
+<url>db/conf/ecir/ecir2011.html#FrommholzPLR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictir/ZucconPA11" mdate="2018-11-02">
+<author orcid="0000-0003-0271-5563">Guido Zuccon</author>
+<author>Benjamin Piwowarski</author>
+<author>Leif Azzopardi</author>
+<title>On the use of Complex Numbers in Quantum Models for Information Retrieval.</title>
+<pages>346-350</pages>
+<year>2011</year>
+<booktitle>ICTIR</booktitle>
+<crossref>conf/ictir/2011</crossref>
+<url>db/conf/ictir/ictir2011.html#ZucconPA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iir/CaputoPL11" mdate="2019-05-28">
+<author>Annalina Caputo</author>
+<author>Benjamin Piwowarski</author>
+<author>Mounia Lalmas</author>
+<title>A Query Algebra for Quantum Information Retrieval.</title>
+<year>2011</year>
+<booktitle>IIR</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-704/19.pdf</ee>
+<crossref>conf/iir/2011</crossref>
+<url>db/conf/iir/iir2011.html#CaputoPL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/MoshfeghiPJ11" mdate="2018-11-06">
+<author>Yashar Moshfeghi</author>
+<author>Benjamin Piwowarski</author>
+<author orcid="0000-0001-9228-1759">Joemon M. Jose</author>
+<title>Handling data sparsity in collaborative filtering using emotion and semantic based features.</title>
+<pages>625-634</pages>
+<year>2011</year>
+<booktitle>SIGIR</booktitle>
+<crossref>conf/sigir/2011</crossref>
+<url>db/conf/sigir/sigir2011.html#MoshfeghiPJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaaifs/SongLRFPWZZBAABHHMR10" mdate="2019-12-16">
+<author>Dawei Song 0001</author>
+<author>Mounia Lalmas</author>
+<author>Keith van Rijsbergen</author>
+<author>Ingo Frommholz</author>
+<author>Benjamin Piwowarski</author>
+<author>Jun Wang 0012</author>
+<author>Peng Zhang 0002</author>
+<author>Guido Zuccon</author>
+<author>Peter Bruza</author>
+<author>Sachi Arafat</author>
+<author>Leif Azzopardi</author>
+<author>Emanuele Di Buccio</author>
+<author>Alvaro Francisco Huertas-Rosero</author>
+<author>Yuexian Hou</author>
+<author>Massimo Melucci</author>
+<author>Stefan Rueger</author>
+<title>How Quantum Theory Is Developing the Field of Information Retrieval.</title>
+<year>2010</year>
+<booktitle>AAAI Fall Symposium: Quantum Informatics for Cognitive, Social, and Semantic Processes</booktitle>
+<crossref>conf/aaaifs/2010-8</crossref>
+<url>db/conf/aaaifs/aaaifs2010-08.html#SongLRFPWZZBAABHHMR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/airs/SushmitaPL10" mdate="2019-11-28">
+<author>Shanu Sushmita</author>
+<author>Benjamin Piwowarski</author>
+<author>Mounia Lalmas</author>
+<title>Dynamics of Genre and Domain Intents.</title>
+<pages>399-409</pages>
+<year>2010</year>
+<booktitle>AIRS</booktitle>
+<crossref>conf/airs/2010</crossref>
+<url>db/conf/airs/airs2010.html#SushmitaPL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/PiwowarskiFLR10" mdate="2018-11-06">
+<author>Benjamin Piwowarski</author>
+<author>Ingo Frommholz</author>
+<author>Mounia Lalmas</author>
+<author>Keith van Rijsbergen</author>
+<title>What can quantum theory bring to information retrieval.</title>
+<pages>59-68</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#PiwowarskiFLR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/PiwowarskiFMLR10" mdate="2017-05-21">
+<author>Benjamin Piwowarski</author>
+<author>Ingo Frommholz</author>
+<author>Yashar Moshfeghi</author>
+<author>Mounia Lalmas</author>
+<author>Keith van Rijsbergen</author>
+<title>Filtering Documents with Subspaces.</title>
+<pages>615-618</pages>
+<year>2010</year>
+<booktitle>ECIR</booktitle>
+<crossref>conf/ecir/2010</crossref>
+<url>db/conf/ecir/ecir2010.html#PiwowarskiFMLR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiix/FrommholzLPLIR10" mdate="2018-11-06">
+<author orcid="0000-0002-5622-5132">Ingo Frommholz</author>
+<author orcid="0000-0002-3622-2698">Birger Larsen</author>
+<author>Benjamin Piwowarski</author>
+<author>Mounia Lalmas</author>
+<author>Peter Ingwersen</author>
+<author>Keith van Rijsbergen</author>
+<title>Supporting polyrepresentation in a quantum-inspired geometrical retrieval framework.</title>
+<pages>115-124</pages>
+<year>2010</year>
+<booktitle>IIiX</booktitle>
+<crossref>conf/iiix/2010</crossref>
+<url>db/conf/iiix/iiix2010.html#FrommholzLPLIR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/riao/PiwowarskiLFR10" mdate="2011-04-21">
+<author>Benjamin Piwowarski</author>
+<author>Mounia Lalmas</author>
+<author>Ingo Frommholz</author>
+<author>Keith van Rijsbergen</author>
+<title>Exploring a multidimensional representation of documents and queries.</title>
+<pages>57-60</pages>
+<year>2010</year>
+<booktitle>RIAO</booktitle>
+<crossref>conf/riao/2010</crossref>
+<url>db/conf/riao/riao2010.html#PiwowarskiLFR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/DupretP10" mdate="2018-11-06">
+<author>Georges Dupret</author>
+<author>Benjamin Piwowarski</author>
+<title>A user behavior model for average precision and its generalization to graded judgments.</title>
+<pages>531-538</pages>
+<year>2010</year>
+<booktitle>SIGIR</booktitle>
+<crossref>conf/sigir/2010</crossref>
+<url>db/conf/sigir/sigir2010.html#DupretP10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1002-3238" mdate="2018-08-13">
+<author>Benjamin Piwowarski</author>
+<author>Ingo Frommholz</author>
+<author>Mounia Lalmas</author>
+<author>Keith van Rijsbergen</author>
+<ee type="oa">http://arxiv.org/abs/1002.3238</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1002.3238</volume>
+<url>db/journals/corr/corr1002.html#abs-1002-3238</url>
+</article>
+</r>
+<r><article key="journals/ijar/Fernandez-LunaHP09" mdate="2017-06-06">
+<author orcid="0000-0002-0366-4545">Juan M. Fernández-Luna</author>
+<author orcid="0000-0002-9970-7705">Juan F. Huete</author>
+<author>Benjamin Piwowarski</author>
+<title>Introduction to the special issue on Graphical Models and Information Retrieval.</title>
+<pages>929-931</pages>
+<year>2009</year>
+<volume>50</volume>
+<journal>Int. J. Approx. Reasoning</journal>
+<number>7</number>
+<url>db/journals/ijar/ijar50.html#Fernandez-LunaHP09</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecir/MoshfeghiAPJ09" mdate="2017-06-02">
+<author>Yashar Moshfeghi</author>
+<author>Deepak Agarwal</author>
+<author>Benjamin Piwowarski</author>
+<author orcid="0000-0001-9228-1759">Joemon M. Jose</author>
+<title>Movie Recommender: Semantically Enriched Unified Relevance Model for Rating Prediction in Collaborative Filtering.</title>
+<pages>54-65</pages>
+<year>2009</year>
+<booktitle>ECIR</booktitle>
+<crossref>conf/ecir/2009</crossref>
+<url>db/conf/ecir/ecir2009.html#MoshfeghiAPJ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictir/PiwowarskiL09" mdate="2017-05-25">
+<author>Benjamin Piwowarski</author>
+<author>Mounia Lalmas</author>
+<title>A Quantum-Based Model for Interactive Information Retrieval.</title>
+<pages>224-231</pages>
+<year>2009</year>
+<booktitle>ICTIR</booktitle>
+<crossref>conf/ictir/2009</crossref>
+<url>db/conf/ictir/ictir2009.html#PiwowarskiL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qi/PiwowarskiL09" mdate="2017-05-21">
+<author>Benjamin Piwowarski</author>
+<author>Mounia Lalmas</author>
+<title>Structured Information Retrieval and Quantum Theory.</title>
+<pages>289-298</pages>
+<year>2009</year>
+<booktitle>QI</booktitle>
+<crossref>conf/qi/2009</crossref>
+<url>db/conf/qi/qi2009.html#PiwowarskiL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/PiwowarskiDJ09" mdate="2018-11-06">
+<author>Benjamin Piwowarski</author>
+<author>Georges Dupret</author>
+<author>Rosie Jones</author>
+<title>Mining user web search activity with layered bayesian networks or how to capture a click in its context.</title>
+<pages>162-171</pages>
+<year>2009</year>
+<booktitle>WSDM</booktitle>
+<crossref>conf/wsdm/2009</crossref>
+<url>db/conf/wsdm/wsdm2009.html#PiwowarskiDJ09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/PehcevskiP09" mdate="2017-07-12">
+<author>Jovan Pehcevski</author>
+<author>Benjamin Piwowarski</author>
+<title>Evaluation Metrics for Structured Text Retrieval.</title>
+<pages>1015-1024</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/e.html#PehcevskiP09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/PehcevskiP09a" mdate="2017-07-12">
+<author>Jovan Pehcevski</author>
+<author>Benjamin Piwowarski</author>
+<title>Specificity.</title>
+<pages>2747-2748</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/s.html#PehcevskiP09a</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0906-4026" mdate="2018-08-13">
+<author>Benjamin Piwowarski</author>
+<author>Mounia Lalmas</author>
+<ee type="oa">http://arxiv.org/abs/0906.4026</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0906.4026</volume>
+<url>db/journals/corr/corr0906.html#abs-0906-4026</url>
+</article>
+</r>
+<r><article key="journals/tois/PiwowarskiTL08" mdate="2018-11-06">
+<author>Benjamin Piwowarski</author>
+<author orcid="0000-0003-1253-7123">Andrew Trotman</author>
+<author>Mounia Lalmas</author>
+<title>Sound and complete relevance assessment for XML retrieval.</title>
+<year>2008</year>
+<volume>27</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>1</number>
+<url>db/journals/tois/tois27.html#PiwowarskiTL08</url>
+<pages>1:1-1:37</pages>
+</article>
+</r>
+<r><inproceedings key="conf/sigir/DupretP08" mdate="2018-11-06">
+<author>Georges Dupret</author>
+<author>Benjamin Piwowarski</author>
+<title>A user browsing model to predict search engine click data from past observations.</title>
+<pages>331-338</pages>
+<year>2008</year>
+<booktitle>SIGIR</booktitle>
+<crossref>conf/sigir/2008</crossref>
+<url>db/conf/sigir/sigir2008.html#DupretP08</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigir/Fernandez-LunaPH07" mdate="2018-11-06">
+<author>Juan M. Fernández-Luna</author>
+<author>Benjamin Piwowarski</author>
+<author>Juan F. Huete</author>
+<title>Information retrieval and applications of graphical models (IRGM 2007).</title>
+<pages>89-96</pages>
+<year>2007</year>
+<volume>41</volume>
+<journal>SIGIR Forum</journal>
+<number>2</number>
+<url>db/journals/sigir/sigir41.html#Fernandez-LunaPH07</url>
+</article>
+</r>
+<r><article key="journals/tois/PiwowarskiGD07" mdate="2018-11-06">
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<author>Georges Dupret</author>
+<title>Precision recall with user modeling (PRUM): Application to structured information retrieval.</title>
+<year>2007</year>
+<volume>25</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>1</number>
+<url>db/journals/tois/tois25.html#PiwowarskiGD07</url>
+<pages>1</pages>
+</article>
+</r>
+<r><inproceedings key="conf/aied/MoteletBPP07" mdate="2012-03-14">
+<author>Olivier Motelet</author>
+<author>Nelson Baloian</author>
+<author>Benjamin Piwowarski</author>
+<author>José A. Pino</author>
+<title>Taking advantage of the Semantics of a Lesson Graph based on Learning Objects.</title>
+<pages>459-466</pages>
+<year>2007</year>
+<booktitle>AIED</booktitle>
+<crossref>conf/aied/2007</crossref>
+<url>db/conf/aied/aied2007.html#MoteletBPP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/PiwowarskiZ07" mdate="2018-11-06">
+<author>Benjamin Piwowarski</author>
+<author>Hugo Zaragoza</author>
+<title>Predictive user click models based on click-through history.</title>
+<pages>175-182</pages>
+<year>2007</year>
+<crossref>conf/cikm/2007</crossref>
+<booktitle>CIKM</booktitle>
+<url>db/conf/cikm/cikm2007.html#PiwowarskiZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spire/MoteletPDPB07" mdate="2017-05-24">
+<author>Olivier Motelet</author>
+<author>Benjamin Piwowarski</author>
+<author>Georges Dupret</author>
+<author>José A. Pino</author>
+<author>Nelson Baloian</author>
+<title>Enhancing Educational-Material Retrieval Using Authored-Lesson Metadata.</title>
+<pages>254-263</pages>
+<year>2007</year>
+<crossref>conf/spire/2007</crossref>
+<booktitle>SPIRE</booktitle>
+<url>db/conf/spire/spire2007.html#MoteletPDPB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/LalmasKKPPR06" mdate="2017-05-26">
+<author>Mounia Lalmas</author>
+<author>Gabriella Kazai</author>
+<author>Jaap Kamps</author>
+<author>Jovan Pehcevski</author>
+<author>Benjamin Piwowarski</author>
+<author>Stephen Robertson</author>
+<title>INEX 2006 Evaluation Measures.</title>
+<pages>20-34</pages>
+<year>2006</year>
+<crossref>conf/inex/2006</crossref>
+<booktitle>INEX</booktitle>
+<url>db/conf/inex/inex2006.html#LalmasKKPPR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/PiwowarskiD06" mdate="2018-11-06">
+<author>Benjamin Piwowarski</author>
+<author>Georges Dupret</author>
+<title>Evaluation in (XML) information retrieval: expected precision-recall with user modelling (EPRUM).</title>
+<pages>260-267</pages>
+<year>2006</year>
+<crossref>conf/sigir/2006</crossref>
+<booktitle>SIGIR</booktitle>
+<url>db/conf/sigir/sigir2006.html#PiwowarskiD06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spire/DupretP06" mdate="2017-05-24">
+<author>Georges Dupret</author>
+<author>Benjamin Piwowarski</author>
+<title>Principal Components for Automatic Term Hierarchy Building.</title>
+<pages>37-48</pages>
+<year>2006</year>
+<crossref>conf/spire/2006</crossref>
+<booktitle>SPIRE</booktitle>
+<url>db/conf/spire/spire2006.html#DupretP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spire/DupretPHM06" mdate="2017-05-24">
+<author>Georges Dupret</author>
+<author>Benjamin Piwowarski</author>
+<author>Carlos A. Hurtado</author>
+<author>Marcelo Mendoza</author>
+<title>A Statistical Model of Query Log Generation.</title>
+<pages>217-228</pages>
+<year>2006</year>
+<crossref>conf/spire/2006</crossref>
+<booktitle>SPIRE</booktitle>
+<url>db/conf/spire/spire2006.html#DupretPHM06</url>
+</inproceedings>
+</r>
+<r><article key="journals/ir/PiwowarskiG05" mdate="2017-05-27">
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>A Bayesian Framework for XML Information Retrieval: Searching and Learning with the INEX Collection.</title>
+<pages>655-681</pages>
+<year>2005</year>
+<volume>8</volume>
+<journal>Inf. Retr.</journal>
+<number>4</number>
+<url>db/journals/ir/ir8.html#PiwowarskiG05</url>
+</article>
+</r>
+<r><inproceedings key="conf/ewmf/BastDMP05" mdate="2019-05-31">
+<author>H. Bast 0001</author>
+<author>Georges Dupret</author>
+<author>Debapriyo Majumdar</author>
+<author>Benjamin Piwowarski</author>
+<title>Discovering a Term Taxonomy from Term Similarities Using Principal Component Analysis.</title>
+<pages>103-120</pages>
+<year>2005</year>
+<crossref>conf/ewmf/2005</crossref>
+<booktitle>EWMF/KDO</booktitle>
+<url>db/conf/ewmf/ewmf2005.html#BastDMP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/Piwowarski05" mdate="2017-05-26">
+<author>Benjamin Piwowarski</author>
+<title>EPRUM Metrics and INEX 2005.</title>
+<pages>30-42</pages>
+<year>2005</year>
+<crossref>conf/inex/2005</crossref>
+<booktitle>INEX</booktitle>
+<url>db/conf/inex/inex2005.html#Piwowarski05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/PiwowarskiL04" mdate="2018-11-06">
+<author>Benjamin Piwowarski</author>
+<author>Mounia Lalmas</author>
+<title>Providing consistent and exhaustive relevance assessments for XML retrieval evaluation.</title>
+<pages>361-370</pages>
+<year>2004</year>
+<crossref>conf/cikm/2004</crossref>
+<booktitle>CIKM</booktitle>
+<url>db/conf/cikm/cikm2004.html#PiwowarskiL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/PiwowarskiL04" mdate="2017-05-08">
+<author>Benjamin Piwowarski</author>
+<author>Mounia Lalmas</author>
+<title>Interface pour l'évaluation de systèmes de recherche sur des documents XML.</title>
+<pages>109-120</pages>
+<year>2004</year>
+<crossref>conf/coria/2004</crossref>
+<booktitle>CORIA</booktitle>
+<url>db/conf/coria/coria2004.html#PiwowarskiL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/VittautPG04" mdate="2017-05-26">
+<author>Jean-Noël Vittaut</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>An Algebra for Structured Queries in Bayesian Networks.</title>
+<pages>100-112</pages>
+<year>2004</year>
+<crossref>conf/inex/2004</crossref>
+<booktitle>INEX</booktitle>
+<url>db/conf/inex/inex2004.html#VittautPG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tdm/PiwowarskiG04" mdate="2007-02-28">
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>An Algebra for Probabilistic XML Retrieval.</title>
+<pages>65-72</pages>
+<year>2004</year>
+<crossref>conf/tdm/2004</crossref>
+<booktitle>TDM</booktitle>
+<url>db/conf/tdm/tdm2004.html#PiwowarskiG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mldm/PiwowarskiG03" mdate="2017-05-17">
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>A Machine Learning Model for Information Retrieval with Structured Documents.</title>
+<pages>425-438</pages>
+<year>2003</year>
+<crossref>conf/mldm/2003</crossref>
+<booktitle>MLDM</booktitle>
+<url>db/conf/mldm/mldm2003.html#PiwowarskiG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inex/PiwowarskiFG02" mdate="2005-01-12">
+<author>Benjamin Piwowarski</author>
+<author>Georges-Etienne Faure</author>
+<author>Patrick Gallinari</author>
+<title>Bayesian Networks and INEX.</title>
+<pages>149-154</pages>
+<year>2002</year>
+<crossref>conf/inex/2002</crossref>
+<booktitle>INEX Workshop</booktitle>
+<url>db/conf/inex/inex2002.html#PiwowarskiFG02</url>
+</inproceedings>
+</r>
+<coauthors n="72" nc="2">
+<co c="0"><na f="a/Agarwal:Deepak">Deepak Agarwal</na></co>
+<co c="0"><na f="a/Amini:Massih=Reza">Massih-Reza Amini</na></co>
+<co c="0"><na f="a/Arafat:Sachi">Sachi Arafat</na></co>
+<co c="0"><na f="a/Azzopardi:Leif">Leif Azzopardi</na></co>
+<co c="0"><na f="b/Baloian:Nelson">Nelson Baloian</na></co>
+<co c="0"><na f="b/Baskiotis:Nicolas">Nicolas Baskiotis</na></co>
+<co c="0" n="2"><na f="b/Bast:Hannah">Hannah Bast</na><na>H. Bast 0001</na></co>
+<co c="0"><na f="b/Bordes:Patrick">Patrick Bordes</na></co>
+<co c="0"><na f="b/Bruza:Peter">Peter Bruza</na></co>
+<co c="0"><na f="b/Buccio:Emanuele_Di">Emanuele Di Buccio</na></co>
+<co c="0"><na f="c/Caputo:Annalina">Annalina Caputo</na></co>
+<co c="0"><na f="c/Chevalier:Max">Max Chevalier</na></co>
+<co c="0"><na f="d/Denoyer:Ludovic">Ludovic Denoyer</na></co>
+<co c="0"><na f="d/Despr=egrave=s:Nicolas">Nicolas Desprès</na></co>
+<co c="0"><na f="d/Dupret:Georges">Georges Dupret</na></co>
+<co c="0"><na f="e/Elati:Mohamed">Mohamed Elati</na></co>
+<co c="0"><na f="f/Faure:Georges=Etienne">Georges-Etienne Faure</na></co>
+<co c="0"><na f="f/Fern=aacute=ndez=Luna:Juan_M=">Juan M. Fernández-Luna</na></co>
+<co c="0"><na f="f/Frommholz:Ingo">Ingo Frommholz</na></co>
+<co c="0"><na f="g/Gallinari:Patrick">Patrick Gallinari</na></co>
+<co c="1"><na f="g/Gan=ccedil=arski:St=eacute=phane">Stéphane Gançarski</na></co>
+<co c="0"><na f="g/Gaussier:=Eacute=ric">Éric Gaussier</na></co>
+<co c="0"><na f="g/Gauthier:Luc=Aur=eacute=lien">Luc-Aurélien Gauthier</na></co>
+<co c="0"><na f="g/Guigue:Vincent">Vincent Guigue</na></co>
+<co c="0"><na f="h/Hanbury:Allan">Allan Hanbury</na></co>
+<co c="0"><na f="h/Hou:Yuexian">Yuexian Hou</na></co>
+<co c="0"><na f="h/Huertas=Rosero:Alvaro_Francisco">Alvaro Francisco Huertas-Rosero</na></co>
+<co c="0"><na f="h/Huete:Juan_F=">Juan F. Huete</na></co>
+<co c="0"><na f="h/Hurtado:Carlos_A=">Carlos A. Hurtado</na></co>
+<co c="0"><na f="i/Ingwersen:Peter">Peter Ingwersen</na></co>
+<co c="0"><na f="j/Jones:Rosie">Rosie Jones</na></co>
+<co c="0"><na f="j/Jose:Joemon_M=">Joemon M. Jose</na></co>
+<co c="0"><na f="k/Kamps:Jaap">Jaap Kamps</na></co>
+<co c="0"><na f="k/Kazai:Gabriella">Gabriella Kazai</na></co>
+<co c="0"><na f="k/Kraljevic:Zeljko">Zeljko Kraljevic</na></co>
+<co c="0"><na f="l/Lalmas:Mounia">Mounia Lalmas</na></co>
+<co c="0"><na f="l/Lamprier:Sylvain">Sylvain Lamprier</na></co>
+<co c="0"><na f="l/Larsen:Birger">Birger Larsen</na></co>
+<co c="0"><na f="m/Maarek:Yoelle">Yoelle Maarek</na></co>
+<co c="0"><na f="m/Majumdar:Debapriyo">Debapriyo Majumdar</na></co>
+<co c="0"><na f="m/Melucci:Massimo">Massimo Melucci</na></co>
+<co c="0"><na f="m/Mendoza:Marcelo">Marcelo Mendoza</na></co>
+<co c="0"><na f="m/Moshfeghi:Yashar">Yashar Moshfeghi</na></co>
+<co c="0"><na f="m/Motelet:Olivier">Olivier Motelet</na></co>
+<co c="0"><na f="n/Nie:Jian=Yun">Jian-Yun Nie</na></co>
+<co c="0"><na f="p/Pasi:Gabriella">Gabriella Pasi</na></co>
+<co c="0"><na f="p/Pehcevski:Jovan">Jovan Pehcevski</na></co>
+<co c="1"><na f="p/Pehlivan:Zeynep">Zeynep Pehlivan</na></co>
+<co c="0"><na f="p/Pino:Jos=eacute=_A=">José A. Pino</na></co>
+<co c="0" n="2"><na f="r/Rijsbergen:C=_J=_van">C. J. van Rijsbergen</na><na>Keith van Rijsbergen</na></co>
+<co c="0"><na f="r/Rincon:Alejandro_Lopez">Alejandro Lopez Rincon</na></co>
+<co c="0" n="2"><na f="r/Robertson:Stephen_E=">Stephen E. Robertson</na><na>Stephen Robertson</na></co>
+<co c="0" n="2"><na f="r/R=uuml=ger:Stefan_M=">Stefan M. Rüger</na><na>Stefan Rueger</na></co>
+<co c="0"><na f="s/Santos:Ludovic_Dos">Ludovic Dos Santos</na></co>
+<co c="0"><na f="s/Scholer:Falk">Falk Scholer</na></co>
+<co c="0"><na f="s/Schwander:Olivier">Olivier Schwander</na></co>
+<co c="0"><na f="s/Scialom:Thomas">Thomas Scialom</na></co>
+<co c="0"><na f="s/Simon:=Eacute=tienne">Étienne Simon</na></co>
+<co c="-1"><na f="s/Singh:Gaurav">Gaurav Singh</na></co>
+<co c="0"><na f="s/Song_0001:Dawei">Dawei Song 0001</na></co>
+<co c="0"><na f="s/Soulier:Laure">Laure Soulier</na></co>
+<co c="0"><na f="s/Staiano:Jacopo">Jacopo Staiano</na></co>
+<co c="0"><na f="s/Sushmita:Shanu">Shanu Sushmita</na></co>
+<co c="0"><na f="t/Titeux:Hadrien">Hadrien Titeux</na></co>
+<co c="0"><na f="t/Tonda:Alberto_Paolo">Alberto Paolo Tonda</na></co>
+<co c="0"><na f="t/Trotman:Andrew">Andrew Trotman</na></co>
+<co c="0"><na f="v/Vittaut:Jean=No=euml=l">Jean-Noël Vittaut</na></co>
+<co c="0"><na f="w/Wang_0012:Jun">Jun Wang 0012</na></co>
+<co c="0"><na f="z/Zablocki:Eloi">Eloi Zablocki</na></co>
+<co c="0"><na f="z/Zaragoza:Hugo">Hugo Zaragoza</na></co>
+<co c="0"><na f="z/Zhang_0002:Peng">Peng Zhang 0002</na></co>
+<co c="0"><na f="z/Zuccon:Guido">Guido Zuccon</na></co>
+</coauthors>
+</dblpperson>
+

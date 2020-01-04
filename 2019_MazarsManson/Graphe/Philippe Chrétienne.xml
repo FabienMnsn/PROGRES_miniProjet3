@@ -1,0 +1,477 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Philippe Chrétienne" n="37">
+<person key="homepages/47/5483" mdate="2009-06-10">
+<author>Philippe Chrétienne</author>
+</person>
+<r><article key="journals/dam/ChretienneQ18" mdate="2018-06-01">
+<author orcid="0000-0002-4507-5757">Philippe Chrétienne</author>
+<author>Alain Quilliot</author>
+<title>A polynomial algorithm for the homogeneously non-idling scheduling problem of unit-time independent jobs on identical parallel machines.</title>
+<pages>132-139</pages>
+<year>2018</year>
+<volume>243</volume>
+<journal>Discrete Applied Mathematics</journal>
+<url>db/journals/dam/dam243.html#ChretienneQ18</url>
+</article>
+</r>
+<r><article key="journals/eor/BendottiCFQ17" mdate="2017-12-28">
+<author orcid="0000-0001-6350-3316">Pascale Bendotti</author>
+<author orcid="0000-0002-4507-5757">Philippe Chrétienne</author>
+<author>Pierre Fouilhoux</author>
+<author>Alain Quilliot</author>
+<title>Anchored reactive and proactive solutions to the CPM-scheduling problem.</title>
+<pages>67-74</pages>
+<year>2017</year>
+<volume>261</volume>
+<journal>European Journal of Operational Research</journal>
+<number>1</number>
+<url>db/journals/eor/eor261.html#BendottiCFQ17</url>
+</article>
+</r>
+<r><article key="journals/anor/Chretienne16" mdate="2017-05-27">
+<author>Philippe Chrétienne</author>
+<title>On scheduling with the non-idling constraint.</title>
+<pages>301-319</pages>
+<year>2016</year>
+<volume>240</volume>
+<journal>Annals OR</journal>
+<number>1</number>
+<url>db/journals/anor/anor240.html#Chretienne16</url>
+</article>
+</r>
+<r><article key="journals/rairo/BlogowskiCP15" mdate="2017-05-26">
+<author>Alexandre Blogowski</author>
+<author>Philippe Chrétienne</author>
+<author>Fanny Pascual</author>
+<title>Network sharing by two mobile operators: beyond competition, cooperation.</title>
+<pages>635-650</pages>
+<year>2015</year>
+<volume>49</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>3</number>
+<url>db/journals/rairo/rairo49.html#BlogowskiCP15</url>
+</article>
+</r>
+<r><article key="journals/4or/Chretienne14" mdate="2017-05-26">
+<author>Philippe Chrétienne</author>
+<title>On scheduling with the non-idling constraint.</title>
+<pages>101-121</pages>
+<year>2014</year>
+<volume>12</volume>
+<journal>4OR</journal>
+<number>2</number>
+<url>db/journals/4or/4or12.html#Chretienne14</url>
+</article>
+</r>
+<r><article key="journals/dam/ChretienneFGS14" mdate="2017-05-28">
+<author>Philippe Chrétienne</author>
+<author>Pierre Fouilhoux</author>
+<author>Éric Gourdin</author>
+<author>Jean-Mathieu Segura</author>
+<title>The location-dispatching problem: Polyhedral results and content delivery network design.</title>
+<pages>68-85</pages>
+<year>2014</year>
+<volume>164</volume>
+<journal>Discrete Applied Mathematics</journal>
+<url>db/journals/dam/dam164.html#ChretienneFGS14</url>
+</article>
+</r>
+<r><article key="journals/disopt/Chretienne14" mdate="2017-05-28">
+<author>Philippe Chrétienne</author>
+<title>A polynomial algorithm for the two-connections variant of the tree p-median problem.</title>
+<pages>1-16</pages>
+<year>2014</year>
+<volume>14</volume>
+<journal>Discrete Optimization</journal>
+<url>db/journals/disopt/disopt14.html#Chretienne14</url>
+</article>
+</r>
+<r><article key="journals/dam/QuilliotC13" mdate="2017-05-28">
+<author>Alain Quilliot</author>
+<author>Philippe Chrétienne</author>
+<title>Homogeneously non-idling schedules of unit-time jobs on identical parallel machines.</title>
+<pages>1586-1597</pages>
+<year>2013</year>
+<volume>161</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>10-11</number>
+<url>db/journals/dam/dam161.html#QuilliotC13</url>
+</article>
+</r>
+<r><incollection key="series/sci/QuilliotCB13" mdate="2017-05-16">
+<author>Alain Quilliot</author>
+<author>Philippe Chrétienne</author>
+<author>Benoit Bernay</author>
+<title>Homogeneous Non Idling Problems: Models and Algorithms.</title>
+<pages>115-134</pages>
+<year>2013</year>
+<booktitle>Recent Advances in Computational Optimization</booktitle>
+<crossref>series/sci/2013-470</crossref>
+<url>db/series/sci/sci470.html#QuilliotCB13</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/fedcsis/QuilliotC12" mdate="2014-06-04">
+<author>Alain Quilliot</author>
+<author>Philippe Chrétienne</author>
+<title>The Hogeneous Non Idling Scheduling Problem.</title>
+<pages>447-454</pages>
+<year>2012</year>
+<booktitle>FedCSIS</booktitle>
+<crossref>conf/fedcsis/2012</crossref>
+<url>db/conf/fedcsis/fedcsis2012.html#QuilliotC12</url>
+</inproceedings>
+</r>
+<r><article key="journals/scheduling/ChretienneHK11" mdate="2017-06-08">
+<author>Philippe Chrétienne</author>
+<author orcid="0000-0003-0183-8772">Öncü Hazir</author>
+<author>Safia Kedad-Sidhoum</author>
+<title>Integrated batch sizing and scheduling on a single machine.</title>
+<pages>541-555</pages>
+<year>2011</year>
+<volume>14</volume>
+<journal>J. Scheduling</journal>
+<number>6</number>
+<url>db/journals/scheduling/scheduling14.html#ChretienneHK11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cipls/LiberalinoDQKC11" mdate="2018-11-02">
+<author>Heitor Liberalino</author>
+<author orcid="0000-0001-6522-7343">Christophe Duhamel</author>
+<author>Alain Quilliot</author>
+<author>Safia Kedad-Sidhoum</author>
+<author>Philippe Chrétienne</author>
+<title>The integrated lot-sizing and vehicle routing problem.</title>
+<pages>47-52</pages>
+<year>2011</year>
+<booktitle>CIPLS</booktitle>
+<crossref>conf/cipls/2011</crossref>
+<url>db/conf/cipls/cipls2011.html#LiberalinoDQKC11</url>
+</inproceedings>
+</r>
+<r><article key="journals/endm/ChretienneFGS10" mdate="2017-05-27">
+<author>Philippe Chrétienne</author>
+<author>Pierre Fouilhoux</author>
+<author>Éric Gourdin</author>
+<author>Jean-Mathieu Segura</author>
+<title>The Location-Dispatching Problem: polyhedral results and Content Delivery Network Design.</title>
+<pages>867-874</pages>
+<year>2010</year>
+<volume>36</volume>
+<journal>Electronic Notes in Discrete Mathematics</journal>
+<url>db/journals/endm/endm36.html#ChretienneFGS10</url>
+</article>
+</r>
+<r><article key="journals/dam/Meng-GerardCBS09" mdate="2017-05-28">
+<author>J. Meng-Gérard</author>
+<author>Philippe Chrétienne</author>
+<author>Philippe Baptiste</author>
+<author>Francis Sourd</author>
+<title>On maximizing the profit of a satellite launcher: Selecting and scheduling tasks with time windows and setups.</title>
+<pages>3656-3664</pages>
+<year>2009</year>
+<volume>157</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>17</number>
+<url>db/journals/dam/dam157.html#Meng-GerardCBS09</url>
+</article>
+</r>
+<r><article key="journals/dam/Chretienne08" mdate="2017-05-28">
+<author>Philippe Chrétienne</author>
+<title>On single-machine scheduling without intermediate delays.</title>
+<pages>2543-2550</pages>
+<year>2008</year>
+<volume>156</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>13</number>
+<url>db/journals/dam/dam156.html#Chretienne08</url>
+</article>
+</r>
+<r><article key="journals/eor/VatinlenCCM08" mdate="2017-05-27">
+<author>Benedicte Vatinlen</author>
+<author>Fabrice Chauvet</author>
+<author>Philippe Chrétienne</author>
+<author>Philippe Mahey</author>
+<title>Simple bounds and greedy algorithms for decomposing a flow into a minimal set of paths.</title>
+<pages>1390-1401</pages>
+<year>2008</year>
+<volume>185</volume>
+<journal>European Journal of Operational Research</journal>
+<number>3</number>
+<url>db/journals/eor/eor185.html#VatinlenCCM08</url>
+</article>
+</r>
+<r><article key="journals/disopt/FaureCGS07" mdate="2017-05-28">
+<author>Nathalie Faure</author>
+<author>Philippe Chrétienne</author>
+<author>Éric Gourdin</author>
+<author>Francis Sourd</author>
+<title>Biclique completion problems for multicast network design.</title>
+<pages>360-377</pages>
+<year>2007</year>
+<volume>4</volume>
+<journal>Discrete Optimization</journal>
+<number>3-4</number>
+<url>db/journals/disopt/disopt4.html#FaureCGS07</url>
+</article>
+</r>
+<r><article key="journals/dam/Chretienne06" mdate="2017-05-28">
+<author>Philippe Chrétienne</author>
+<title>Preface.</title>
+<pages>2041-2042</pages>
+<year>2006</year>
+<volume>154</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>15</number>
+<url>db/journals/dam/dam154.html#Chretienne06</url>
+</article>
+</r>
+<r><article key="journals/eor/Chretienne06" mdate="2017-05-27">
+<author>Philippe Chrétienne</author>
+<title>Peter Brucker, Scheduling Algorithms (fourth ed.), Osnabrück University, Springer (2003).</title>
+<pages>658-661</pages>
+<year>2006</year>
+<volume>168</volume>
+<journal>European Journal of Operational Research</journal>
+<number>2</number>
+<url>db/journals/eor/eor168.html#Chretienne06</url>
+</article>
+</r>
+<r><article key="journals/tcs/Sourd03" mdate="2017-05-28">
+<author>Philippe Chrétienne</author>
+<author>Francis Sourd</author>
+<title>PERT scheduling with convex cost functions.</title>
+<pages>145-164</pages>
+<year>2003</year>
+<volume>292</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/tcs/tcs292.html#Sourd03</url>
+</article>
+</r>
+<r><article key="journals/eor/MokotoffC02" mdate="2017-05-27">
+<author>Ethel Mokotoff</author>
+<author>Philippe Chrétienne</author>
+<title>A cutting plane algorithm for the unrelated parallel machine scheduling problem.</title>
+<pages>515-525</pages>
+<year>2002</year>
+<volume>141</volume>
+<journal>European Journal of Operational Research</journal>
+<number>3</number>
+<url>db/journals/eor/eor141.html#MokotoffC02</url>
+</article>
+</r>
+<r><article key="journals/rairo/Chretienne01" mdate="2017-05-26">
+<author>Philippe Chrétienne</author>
+<title>Minimizing the Earliness and Tardiness Cost of a Sequence of Tasks on a Single Machine.</title>
+<pages>165-187</pages>
+<year>2001</year>
+<volume>35</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>2</number>
+<url>db/journals/rairo/rairo35.html#Chretienne01</url>
+</article>
+</r>
+<r><article key="journals/pc/Chretienne00" mdate="2017-05-27">
+<author>Philippe Chrétienne</author>
+<title>On Graham's bound for cyclic scheduling.</title>
+<pages>1163-1174</pages>
+<year>2000</year>
+<volume>26</volume>
+<journal>Parallel Computing</journal>
+<number>9</number>
+<url>db/journals/pc/pc26.html#Chretienne00</url>
+</article>
+</r>
+<r><article key="journals/rairo/TayachiCM00" mdate="2017-05-26">
+<author>Dalila Tayachi</author>
+<author>Philippe Chrétienne</author>
+<author>Khaled Mellouli</author>
+<title>Une méthode tabou pour l'ordonnancement multiprocesseur avec délais de communication.</title>
+<pages>467-485</pages>
+<year>2000</year>
+<volume>34</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>4</number>
+<url>db/journals/rairo/rairo34.html#TayachiCM00</url>
+</article>
+</r>
+<r><article key="journals/dam/Chretienne99" mdate="2017-05-28">
+<author>Philippe Chrétienne</author>
+<title>List Schedules for Cyclic Scheduling.</title>
+<pages>141-159</pages>
+<year>1999</year>
+<volume>94</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>1-3</number>
+<url>db/journals/dam/dam94.html#Chretienne99</url>
+</article>
+</r>
+<r><article key="journals/eor/SourdC99" mdate="2017-05-27">
+<author>Francis Sourd</author>
+<author>Philippe Chrétienne</author>
+<title>Fiber-to-object assignment heuristics.</title>
+<pages>1-14</pages>
+<year>1999</year>
+<volume>117</volume>
+<journal>European Journal of Operational Research</journal>
+<number>1</number>
+<url>db/journals/eor/eor117.html#SourdC99</url>
+</article>
+</r>
+<r><article key="journals/dam/Chretienne94" mdate="2017-05-28">
+<author>Philippe Chrétienne</author>
+<title>Tree Scheduling with Communication Delays.</title>
+<pages>129-141</pages>
+<year>1994</year>
+<volume>49</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>1-3</number>
+<url>db/journals/dam/dam49.html#Chretienne94</url>
+</article>
+</r>
+<r><inproceedings key="conf/parco/ColinC93" mdate="2006-07-14">
+<author>Jean-Yves Colin</author>
+<author>Philippe Chrétienne</author>
+<title>Grain Size and Communication Channels on Distributed Memory Multiprocessors.</title>
+<pages>281-286</pages>
+<year>1993</year>
+<crossref>conf/parco/1993</crossref>
+<booktitle>PARCO</booktitle>
+<url>db/conf/parco/parco1993.html#ColinC93</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/Chretienne91" mdate="2017-05-28">
+<author>Philippe Chrétienne</author>
+<title>The basic cyclic scheduling problem with deadlines.</title>
+<pages>109-123</pages>
+<year>1991</year>
+<volume>30</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>2-3</number>
+<url>db/journals/dam/dam30.html#Chretienne91</url>
+</article>
+</r>
+<r><article key="journals/ior/ColinC91" mdate="2017-05-27">
+<author>Jean-Yves Colin</author>
+<author>Philippe Chrétienne</author>
+<title>C.P.M. Scheduling with Small Communication Delays and Task Duplication.</title>
+<pages>680-684</pages>
+<year>1991</year>
+<volume>39</volume>
+<journal>Operations Research</journal>
+<number>4</number>
+<url>db/journals/ior/ior39.html#ColinC91</url>
+</article>
+</r>
+<r><inproceedings key="conf/edmcc/ChretienneL91" mdate="2017-05-19">
+<author>Philippe Chrétienne</author>
+<author>Françoise Lamour</author>
+<title>Mapping Graphs onto a Partially Reconfigurable Architecture.</title>
+<pages>73-79</pages>
+<year>1991</year>
+<crossref>conf/edmcc/1991</crossref>
+<booktitle>EDMCC</booktitle>
+<url>db/conf/edmcc/edmcc1991.html#ChretienneL91</url>
+</inproceedings>
+</r>
+<r><article key="journals/pami/LandraudAC89" mdate="2017-05-17">
+<author>Anne M. Landraud</author>
+<author>Jean-François Avril</author>
+<author>Philippe Chrétienne</author>
+<title>An Algorithm for Finding a Common Structure Shared by a Family of Strings.</title>
+<pages>890-895</pages>
+<year>1989</year>
+<volume>11</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>8</number>
+<url>db/journals/pami/pami11.html#LandraudAC89</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/CarlierC87" mdate="2017-05-19">
+<author>J. Carlier</author>
+<author>Philippe Chrétienne</author>
+<title>Timed Petri net schedules.</title>
+<pages>62-84</pages>
+<year>1987</year>
+<crossref>conf/apn/1987</crossref>
+<booktitle>European Workshop on Applications and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn1987.html#CarlierC87</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/QuichaudC87" mdate="2017-05-19">
+<author>D. Quichaud</author>
+<author>Philippe Chrétienne</author>
+<title>Performance Evaluation of Interpreted Bipolar Synchronization Schemes Using G. E. R. T..</title>
+<pages>343-370</pages>
+<year>1987</year>
+<crossref>conf/apn/1987</crossref>
+<booktitle>European Workshop on Applications and Theory of Petri Nets</booktitle>
+<url>db/conf/apn/apn1987.html#QuichaudC87</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/Chretienne86" mdate="2017-05-28">
+<author>Philippe Chrétienne</author>
+<title>Timed petri nets: A solution to the minimum-time-reachability problem between two states of a timed-event graph.</title>
+<pages>95-101</pages>
+<year>1986</year>
+<volume>6</volume>
+<journal>Journal of Systems and Software</journal>
+<number>1-2</number>
+<url>db/journals/jss/jss6.html#Chretienne86</url>
+</article>
+</r>
+<r><inproceedings key="conf/pnpm/Chretienne85" mdate="2002-05-29">
+<author>Philippe Chrétienne</author>
+<title>Timed Event Graphs: A Complete Study of Their Controlled Executions.</title>
+<pages>47-54</pages>
+<year>1985</year>
+<crossref>conf/pnpm/1985</crossref>
+<booktitle>PNPM</booktitle>
+<url>db/conf/pnpm/pnpm1985.html#Chretienne85</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/CarlierCG84" mdate="2017-05-19">
+<author>J. Carlier</author>
+<author>Philippe Chrétienne</author>
+<author>Claude Girault</author>
+<title>Modelling scheduling problems with timed Petri nets.</title>
+<pages>62-82</pages>
+<year>1984</year>
+<crossref>conf/apn/1984</crossref>
+<booktitle>European Workshop on Applications and Theory in Petri Nets</booktitle>
+<url>db/conf/apn/apn1984.html#CarlierCG84</url>
+</inproceedings>
+</r>
+<coauthors n="29" nc="4">
+<co c="3"><na f="a/Avril:Jean=Fran=ccedil=ois">Jean-François Avril</na></co>
+<co c="0"><na f="b/Baptiste:Philippe">Philippe Baptiste</na></co>
+<co c="0"><na f="b/Bendotti:Pascale">Pascale Bendotti</na></co>
+<co c="0"><na f="b/Bernay:Benoit">Benoit Bernay</na></co>
+<co c="0"><na f="b/Blogowski:Alexandre">Alexandre Blogowski</na></co>
+<co c="1"><na f="c/Carlier:J=">J. Carlier</na></co>
+<co c="0"><na f="c/Chauvet:Fabrice">Fabrice Chauvet</na></co>
+<co c="-1"><na f="c/Colin:Jean=Yves">Jean-Yves Colin</na></co>
+<co c="0"><na f="d/Duhamel:Christophe">Christophe Duhamel</na></co>
+<co c="0"><na f="f/Faure:Nathalie">Nathalie Faure</na></co>
+<co c="0"><na f="f/Fouilhoux:Pierre">Pierre Fouilhoux</na></co>
+<co c="1"><na f="g/Girault:Claude">Claude Girault</na></co>
+<co c="0"><na f="g/Gourdin:=Eacute=ric">Éric Gourdin</na></co>
+<co c="0"><na f="h/Hazir:=Ouml=nc=uuml=">Öncü Hazir</na></co>
+<co c="0"><na f="k/Kedad=Sidhoum:Safia">Safia Kedad-Sidhoum</na></co>
+<co c="-1"><na f="l/Lamour:Fran=ccedil=oise">Françoise Lamour</na></co>
+<co c="3"><na f="l/Landraud:Anne_M=">Anne M. Landraud</na></co>
+<co c="0"><na f="l/Liberalino:Heitor">Heitor Liberalino</na></co>
+<co c="0"><na f="m/Mahey:Philippe">Philippe Mahey</na></co>
+<co c="2"><na f="m/Mellouli:Khaled">Khaled Mellouli</na></co>
+<co c="0"><na f="m/Meng=G=eacute=rard:J=">J. Meng-Gérard</na></co>
+<co c="-1"><na f="m/Mokotoff:Ethel">Ethel Mokotoff</na></co>
+<co c="0"><na f="p/Pascual:Fanny">Fanny Pascual</na></co>
+<co c="-1"><na f="q/Quichaud:D=">D. Quichaud</na></co>
+<co c="0"><na f="q/Quilliot:Alain">Alain Quilliot</na></co>
+<co c="0"><na f="s/Segura:Jean=Mathieu">Jean-Mathieu Segura</na></co>
+<co c="0"><na f="s/Sourd:Francis">Francis Sourd</na></co>
+<co c="2"><na f="t/Tayachi:Dalila">Dalila Tayachi</na></co>
+<co c="0"><na f="v/Vatinlen:Benedicte">Benedicte Vatinlen</na></co>
+</coauthors>
+</dblpperson>
+

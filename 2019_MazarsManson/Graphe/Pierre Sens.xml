@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Pierre Sens">
+<homonyms n="2">
+<h f="s/Sens_0001:Pierre"><person key="homepages/10/216-1" mdate="2019-12-18">
+<author>Pierre Sens 0001</author>
+<note type="affiliation">Sorbonne Université, CNRS (LIP6), Inria, Paris, France</note>
+<url>http://lip6.fr/Pierre.Sens</url>
+<url>https://orcid.org/0000-0002-5156-7715</url>
+</person>
+</h>
+<h f="s/Sens_0002:Pierre"><person key="homepages/10/216-2" mdate="2019-12-18">
+<author>Pierre Sens 0002</author>
+<note type="affiliation">Laboratoire de Physico-Chimie Théorique, CNRS/UMR 7083, ESPCI, Paris, France</note>
+<url>https://orcid.org/0000-0003-4523-3791</url>
+</person>
+</h>
+</homonyms>
+</dblpperson>
+

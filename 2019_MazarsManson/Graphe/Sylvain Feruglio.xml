@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Sylvain Feruglio" n="8">
+<person key="homepages/92/749" mdate="2009-06-09">
+<author>Sylvain Feruglio</author>
+</person>
+<r><article key="journals/mj/TsiakakaF19" mdate="2019-05-29">
+<author>Olivier Tsiakaka</author>
+<author>Sylvain Feruglio</author>
+<title>Toward the monitoring of the spinal cord: A feasibility study.</title>
+<pages>145-153</pages>
+<year>2019</year>
+<volume>88</volume>
+<journal>Microelectronics Journal</journal>
+<url>db/journals/mj/mj88.html#TsiakakaF19</url>
+</article>
+</r>
+<r><inproceedings key="conf/embc/TsiakakaTRHBPVF15" mdate="2018-11-14">
+<author>Olivier Tsiakaka</author>
+<author>Mehdi Terosiet</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Aymeric Histace</author>
+<author>Habib Benali</author>
+<author>Pierre-Franois Pradat</author>
+<author>Farouk Vallette</author>
+<author>Michael Feher</author>
+<author>Sylvain Feruglio</author>
+<title>In vivo NIRS monitoring in pig Spinal Cord tissues.</title>
+<pages>4262-4265</pages>
+<year>2015</year>
+<booktitle>EMBC</booktitle>
+<crossref>conf/embc/2015</crossref>
+<url>db/conf/embc/embc2015.html#TsiakakaTRHBPVF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/WangDFVG13" mdate="2017-04-30">
+<author>Ruomin Wang</author>
+<author>Julien Denoulet</author>
+<author>Sylvain Feruglio</author>
+<author>Farouk Vallette</author>
+<author>Patrick Garda</author>
+<title>Modeling of signal integrity in bus communications with timed data flow SystemC-AMS.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2013</crossref>
+<url>db/conf/fdl/fdl2013.html#WangDFVG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/WangDFVG12" mdate="2017-05-23">
+<author>Ruomin Wang</author>
+<author>Julien Denoulet</author>
+<author>Sylvain Feruglio</author>
+<author>Farouk Vallette</author>
+<author>Patrick Garda</author>
+<title>High level modeling of signal integrity in field bus communication with SystemC-AMS.</title>
+<pages>889-892</pages>
+<year>2012</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2012</crossref>
+<url>db/conf/icecsys/icecsys2012.html#WangDFVG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/ShanZJATFGRCJ11" mdate="2018-11-02">
+<author>Chuan Shan</author>
+<author>Eldar Zianbetov</author>
+<author>Mohammad Javidan</author>
+<author>François Anceau</author>
+<author>Mehdi Terosiet</author>
+<author>Sylvain Feruglio</author>
+<author orcid="0000-0002-7056-7489">Dimitri Galayko</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Éric Colinet</author>
+<author>Jérôme Juillard</author>
+<title>FPGA implementation of reconfigurable ADPLL network for distributed clock generation.</title>
+<pages>1-4</pages>
+<year>2011</year>
+<booktitle>FPT</booktitle>
+<crossref>conf/fpt/2011</crossref>
+<url>db/conf/fpt/fpt2011.html#ShanZJATFGRCJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/TerosietFVGRK11" mdate="2018-11-02">
+<author>Mehdi Terosiet</author>
+<author>Sylvain Feruglio</author>
+<author>Farouk Vallette</author>
+<author>Patrick Garda</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author orcid="0000-0003-2124-6803">Julien Le Kernec</author>
+<title>A self-sufficient digitally controlled ring oscillator compensated for supply voltage variation.</title>
+<pages>484-487</pages>
+<year>2011</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2011</crossref>
+<url>db/conf/icecsys/icecsys2011.html#TerosietFVGRK11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tim/FeruglioHAV06" mdate="2017-05-27">
+<author>Sylvain Feruglio</author>
+<author>Victor Fouad Hanna</author>
+<author>Georges Alquié</author>
+<author>Gabriel Vasilescu</author>
+<title>Dark Current and Signal-to-Noise Ratio in BDJ Image Sensors.</title>
+<pages>1892-1903</pages>
+<year>2006</year>
+<volume>55</volume>
+<journal>IEEE Trans. Instrumentation and Measurement</journal>
+<number>6</number>
+<url>db/journals/tim/tim55.html#FeruglioHAV06</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/FeruglioHAV05" mdate="2017-05-26">
+<author>Sylvain Feruglio</author>
+<author>Victor Fouad Hanna</author>
+<author>Georges Alquié</author>
+<author>Gabriel Vasilescu</author>
+<title>Exact noise analysis of a CMOS BDJ APS.</title>
+<pages>2337-2340</pages>
+<year>2005</year>
+<crossref>conf/iscas/2005</crossref>
+<booktitle>ISCAS (3)</booktitle>
+<url>db/conf/iscas/iscas2005-3.html#FeruglioHAV05</url>
+</inproceedings>
+</r>
+<coauthors n="22" nc="1">
+<co c="0"><na f="a/Alqui=eacute=:Georges">Georges Alquié</na></co>
+<co c="0"><na f="a/Anceau:Fran=ccedil=ois">François Anceau</na></co>
+<co c="0"><na f="b/Benali:Habib">Habib Benali</na></co>
+<co c="0"><na f="c/Colinet:=Eacute=ric">Éric Colinet</na></co>
+<co c="0"><na f="d/Denoulet:Julien">Julien Denoulet</na></co>
+<co c="0"><na f="f/Feher:Michael">Michael Feher</na></co>
+<co c="0"><na f="g/Galayko:Dimitri">Dimitri Galayko</na></co>
+<co c="0"><na f="g/Garda:Patrick">Patrick Garda</na></co>
+<co c="0"><na f="h/Hanna:Victor_Fouad">Victor Fouad Hanna</na></co>
+<co c="0"><na f="h/Histace:Aymeric">Aymeric Histace</na></co>
+<co c="0"><na f="j/Javidan:Mohammad">Mohammad Javidan</na></co>
+<co c="0"><na f="j/Juillard:J=eacute=r=ocirc=me">Jérôme Juillard</na></co>
+<co c="0"><na f="k/Kernec:Julien_Le">Julien Le Kernec</na></co>
+<co c="0"><na f="p/Pradat:Pierre=Franois">Pierre-Franois Pradat</na></co>
+<co c="0"><na f="r/Romain:Olivier">Olivier Romain</na></co>
+<co c="0"><na f="s/Shan:Chuan">Chuan Shan</na></co>
+<co c="0"><na f="t/Terosiet:Mehdi">Mehdi Terosiet</na></co>
+<co c="0"><na f="t/Tsiakaka:Olivier">Olivier Tsiakaka</na></co>
+<co c="0"><na f="v/Vallette:Farouk">Farouk Vallette</na></co>
+<co c="0"><na f="v/Vasilescu:Gabriel">Gabriel Vasilescu</na></co>
+<co c="0"><na f="w/Wang:Ruomin">Ruomin Wang</na></co>
+<co c="0"><na f="z/Zianbetov:Eldar">Eldar Zianbetov</na></co>
+</coauthors>
+</dblpperson>
+

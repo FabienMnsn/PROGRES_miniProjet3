@@ -1,0 +1,595 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Thibault Carron" n="42">
+<person key="homepages/57/1806" mdate="2009-06-09">
+<author>Thibault Carron</author>
+</person>
+<r><inproceedings key="conf/aiccsa/AbedPAC16" mdate="2019-02-05">
+<author>Hamza Abed</author>
+<author>Philippe Pernelle</author>
+<author>Chokri Ben Amar</author>
+<author>Thibault Carron</author>
+<title>Serious games for vocational training: A compared approach.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>AICCSA</booktitle>
+<crossref>conf/aiccsa/2016</crossref>
+<url>db/conf/aiccsa/aiccsa2016.html#AbedPAC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiccsa/AouadiPACT16" mdate="2019-02-05">
+<author>Nada Aouadi</author>
+<author>Philippe Pernelle</author>
+<author>Chokri Ben Amar</author>
+<author>Thibault Carron</author>
+<author>Stephane Talbot</author>
+<title>Models and mechanisms for implementing playful scenarios.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>AICCSA</booktitle>
+<crossref>conf/aiccsa/2016</crossref>
+<url>db/conf/aiccsa/aiccsa2016.html#AouadiPACT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiccsa/MaalejPACK16" mdate="2019-02-05">
+<author>Wiem Maalej</author>
+<author>Philippe Pernelle</author>
+<author>Chokri Ben Amar</author>
+<author>Thibault Carron</author>
+<author>Elodie Kredens</author>
+<title>Identification and modeling of the skills within MOOCs.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>AICCSA</booktitle>
+<crossref>conf/aiccsa/2016</crossref>
+<url>db/conf/aiccsa/aiccsa2016.html#MaalejPACK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiccsa/MsaedPAC16" mdate="2019-02-05">
+<author>Sahar Msaed</author>
+<author>Philippe Pernelle</author>
+<author>Chokri Ben Amar</author>
+<author>Thibault Carron</author>
+<title>Service oriented approach for modeling and generic integration of complex resources in MOOCs.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>AICCSA</booktitle>
+<crossref>conf/aiccsa/2016</crossref>
+<url>db/conf/aiccsa/aiccsa2016.html#MsaedPAC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/MartySCPW16" mdate="2017-05-24">
+<author>Jean-Charles Marty</author>
+<author>Audrey Serna</author>
+<author>Thibault Carron</author>
+<author>Philippe Pernelle</author>
+<author>David Wayntal</author>
+<title>Multi-device Territoriality to Support Collaborative Activities - Implementation and Findings from the E-Learning Domain.</title>
+<pages>152-164</pages>
+<year>2016</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2016</crossref>
+<url>db/conf/ectel/ectel2016.html#MartySCPW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/MuratetYC16" mdate="2017-05-24">
+<author>Mathieu Muratet</author>
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<title>Framework for Learner Assessment in Learning Games.</title>
+<pages>622-626</pages>
+<year>2016</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2016</crossref>
+<url>db/conf/ectel/ectel2016.html#MuratetYC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwl/MsaedPAC16" mdate="2017-05-25">
+<author>Sahar Msaed</author>
+<author>Philippe Pernelle</author>
+<author>Chokri Ben Amar</author>
+<author>Thibault Carron</author>
+<title>Complex Resources in MOOCs: Structural and Behavioral Integration Approach.</title>
+<pages>91-101</pages>
+<year>2016</year>
+<booktitle>ICWL</booktitle>
+<crossref>conf/icwl/2016</crossref>
+<url>db/conf/icwl/icwl2016.html#MsaedPAC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwl/MaalejPACK16" mdate="2017-05-25">
+<author>Wiem Maalej</author>
+<author>Philippe Pernelle</author>
+<author>Chokri Ben Amar</author>
+<author>Thibault Carron</author>
+<author>Elodie Kredens</author>
+<title>Modeling Skills in a Learner-Centred Approach Within MOOCs.</title>
+<pages>102-111</pages>
+<year>2016</year>
+<booktitle>ICWL</booktitle>
+<crossref>conf/icwl/2016</crossref>
+<url>db/conf/icwl/icwl2016.html#MaalejPACK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwl/AbedPCA16" mdate="2017-05-25">
+<author>Hamza Abed</author>
+<author>Philippe Pernelle</author>
+<author>Thibault Carron</author>
+<author>Chokri Ben Amar</author>
+<title>Scenario Modeling for Serious Games: An Approach for Industry Sector.</title>
+<pages>185-194</pages>
+<year>2016</year>
+<booktitle>ICWL</booktitle>
+<crossref>conf/icwl/2016</crossref>
+<url>db/conf/icwl/icwl2016.html#AbedPCA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwl/MuratetYC16" mdate="2017-05-25">
+<author>Mathieu Muratet</author>
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<title>Understanding Learners' Behaviors in Serious Games.</title>
+<pages>195-205</pages>
+<year>2016</year>
+<booktitle>ICWL</booktitle>
+<crossref>conf/icwl/2016</crossref>
+<url>db/conf/icwl/icwl2016.html#MuratetYC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwl/AouadiPAC16" mdate="2017-05-25">
+<author>Nada Aouadi</author>
+<author>Philippe Pernelle</author>
+<author>Chokri Ben Amar</author>
+<author>Thibault Carron</author>
+<title>MDA Approach for Reusability in Serious Game and E-learning Design.</title>
+<pages>206-212</pages>
+<year>2016</year>
+<booktitle>ICWL</booktitle>
+<crossref>conf/icwl/2016</crossref>
+<url>db/conf/icwl/icwl2016.html#AouadiPAC16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijgbl/MartyCPTH15" mdate="2017-05-27">
+<author>Jean-Charles Marty</author>
+<author>Thibault Carron</author>
+<author>Philippe Pernelle</author>
+<author>Stephane Talbot</author>
+<author>Gregory Houzet</author>
+<title>Mixed Reality Games.</title>
+<pages>31-45</pages>
+<year>2015</year>
+<volume>5</volume>
+<journal>IJGBL</journal>
+<number>1</number>
+<url>db/journals/ijgbl/ijgbl5.html#MartyCPTH15</url>
+</article>
+</r>
+<r><article key="journals/sg/MounierYCKL14" mdate="2019-05-22">
+<author>Isabelle Mounier</author>
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<author>Fabrice Kordon</author>
+<author>Jean-Marc Labat</author>
+<title>Formal Framework to improve the reliability of concurrent and collaborative learning games.</title>
+<pages>e4</pages>
+<year>2014</year>
+<volume>1</volume>
+<number>2</number>
+<journal>EAI Endorsed Trans. Serious Games</journal>
+<ee type="oa">https://doi.org/10.4108/sg.1.2.e4</ee>
+<url>db/journals/sg/sg2.html#MounierYCKL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ectel/YessadMLKC14" mdate="2017-05-24">
+<author>Amel Yessad</author>
+<author>Isabelle Mounier</author>
+<author>Jean-Marc Labat</author>
+<author>Fabrice Kordon</author>
+<author>Thibault Carron</author>
+<title>Have You Found the Error? A Formal Framework for Learning Game Verification.</title>
+<pages>476-481</pages>
+<year>2014</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2014</crossref>
+<url>db/conf/ectel/ectel2014.html#YessadMLKC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdim/MaalejMPC14" mdate="2017-05-26">
+<author>Wiem Maalej</author>
+<author>Sahar Msaed</author>
+<author>Philippe Pernelle</author>
+<author>Thibault Carron</author>
+<title>Adaptive and playful approach in the MOOC: Thanks to serious game.</title>
+<pages>201-204</pages>
+<year>2014</year>
+<booktitle>ICDIM</booktitle>
+<crossref>conf/icdim/2014</crossref>
+<url>db/conf/icdim/icdim2014.html#MaalejMPC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-1/PernelleCEBM14" mdate="2018-12-23">
+<author>Philippe Pernelle</author>
+<author>Thibault Carron</author>
+<author>S. Elkadiri</author>
+<author>Aurélie Bissay</author>
+<author>Jean-Charles Marty</author>
+<title>PLM Serious Game Approach Available Both for Change Management and Knowledge Assessment.</title>
+<pages>323-332</pages>
+<year>2014</year>
+<booktitle>PLM</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-45937-9_32</ee>
+<crossref>conf/ifip5-1/2014</crossref>
+<url>db/conf/ifip5-1/plm2014.html#PernelleCEBM14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijlt/PernelleMC13" mdate="2017-05-09">
+<author>Philippe Pernelle</author>
+<author>Jean-Charles Marty</author>
+<author>Thibault Carron</author>
+<title>From traces to indicators for serious games: case study concerning a new way to introduce product lifecycle management.</title>
+<pages>127-146</pages>
+<year>2013</year>
+<volume>8</volume>
+<journal>IJLT</journal>
+<number>2</number>
+<url>db/journals/ijlt/ijlt8.html#PernelleMC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalt/Marfisi-SchottmanLC13" mdate="2017-05-23">
+<author>Iza Marfisi-Schottman</author>
+<author>Jean-Marc Labat</author>
+<author>Thibault Carron</author>
+<title>Building on the Case Teaching Method to Generate Learning Games Relevant to Numerous Educational Fields.</title>
+<pages>156-160</pages>
+<year>2013</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2013</crossref>
+<url>db/conf/icalt/icalt2013.html#Marfisi-SchottmanLC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/MarneCLM13" mdate="2019-10-19">
+<author orcid="0000-0002-4953-9360">Bertrand Marne</author>
+<author>Thibault Carron</author>
+<author>Jean-Marc Labat</author>
+<author>Iza Marfisi-Schottman</author>
+<title>MoPPLiq: A Model for Pedagogical Adaptation of Serious Game Scenarios.</title>
+<pages>291-293</pages>
+<year>2013</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2013</crossref>
+<url>db/conf/icalt/icalt2013.html#MarneCLM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwl/YessadCL13" mdate="2017-05-25">
+<author>Amel Yessad</author>
+<author>Thibault Carron</author>
+<author>Jean-Marc Labat</author>
+<title>An Approach to Model and Validate Scenarios of Serious Games in the Design Stage.</title>
+<pages>264-273</pages>
+<year>2013</year>
+<booktitle>ICWL</booktitle>
+<crossref>conf/icwl/2013</crossref>
+<url>db/conf/icwl/icwl2013.html#YessadCL13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Marfisi-SchottmanLC13" mdate="2018-08-13">
+<author>Iza Marfisi-Schottman</author>
+<author>Jean-Marc Labat</author>
+<author>Thibault Carron</author>
+<title>Building on the Case Teaching Method to Generate Learning Games Relevant to Numerous Educational Fields.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1307.7478</ee>
+<volume>abs/1307.7478</volume>
+<url>db/journals/corr/corr1307.html#Marfisi-SchottmanLC13</url>
+</article>
+</r>
+<r><article key="journals/ijlt/MartyCP12" mdate="2017-05-09">
+<author>Jean-Charles Marty</author>
+<author>Thibault Carron</author>
+<author>Philippe Pernelle</author>
+<title>Observe and react: interactive indicators for monitoring pedagogical sessions.</title>
+<pages>277-296</pages>
+<year>2012</year>
+<volume>7</volume>
+<journal>IJLT</journal>
+<number>3</number>
+<url>db/journals/ijlt/ijlt7.html#MartyCP12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalt/ZaghbibPC12" mdate="2017-05-23">
+<author>Amina Zaghbib</author>
+<author>Philippe Pernelle</author>
+<author>Thibault Carron</author>
+<title>Virtual Coaching for Change Management.</title>
+<pages>634-638</pages>
+<year>2012</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2012</crossref>
+<url>db/conf/icalt/icalt2012.html#ZaghbibPC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-7/PernelleTCM12" mdate="2018-06-26">
+<author>Philippe Pernelle</author>
+<author>Stephane Talbot</author>
+<author>Thibault Carron</author>
+<author>Jean-Charles Marty</author>
+<title>Learning PLM System with a Serious Game.</title>
+<pages>598-605</pages>
+<year>2012</year>
+<booktitle>APMS (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-40352-1_75</ee>
+<crossref>conf/ifip5-7/2012apms1</crossref>
+<url>db/conf/ifip5-7/apms2012-1.html#PernelleTCM12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ria/CarronM11" mdate="2017-05-27">
+<author>Thibault Carron</author>
+<author>Jean-Charles Marty</author>
+<title>Améliorer la motivation dans les environnements d'apprentissage basés sur le jeu.</title>
+<pages>223-251</pages>
+<year>2011</year>
+<volume>25</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>2</number>
+<url>db/journals/ria/ria25.html#CarronM11</url>
+</article>
+</r>
+<r><article key="journals/tlt/MartyC11" mdate="2017-05-28">
+<author>Jean-Charles Marty</author>
+<author>Thibault Carron</author>
+<title>Observation of Collaborative Activities in a Game-Based Learning Platform.</title>
+<pages>98-110</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>TLT</journal>
+<number>1</number>
+<url>db/journals/tlt/tlt4.html#MartyC11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalt/CarronMT10" mdate="2017-05-23">
+<author>Thibault Carron</author>
+<author>Jean-Charles Marty</author>
+<author>Stephane Talbot</author>
+<title>Interactive Widgets for Regualtion in Learning Games.</title>
+<pages>391-393</pages>
+<year>2010</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2010</crossref>
+<url>db/conf/icalt/icalt2010.html#CarronMT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/CarronMM09" mdate="2017-05-23">
+<author>Thibault Carron</author>
+<author>Jean-Charles Marty</author>
+<author>Mathieu Mangeot</author>
+<title>How to Bring Immersion into Learning Games?</title>
+<pages>358-360</pages>
+<year>2009</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2009</crossref>
+<url>db/conf/icalt/icalt2009.html#CarronMM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/c5/FernandesCD08" mdate="2017-05-23">
+<author>Hilaire Fernandes</author>
+<author>Thibault Carron</author>
+<author>Stéphane Ducasse</author>
+<title>iSTOA: Artefacts for Mathematical Interactive Learning Exercises.</title>
+<pages>65-72</pages>
+<year>2008</year>
+<booktitle>C5</booktitle>
+<crossref>conf/c5/2008</crossref>
+<url>db/conf/c5/c5-2008.html#FernandesCD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/LoghinMC08" mdate="2017-05-23">
+<author>Gligor-Calin Loghin</author>
+<author>Jean-Charles Marty</author>
+<author>Thibault Carron</author>
+<title>A Flexible Agent-Based Observation Solution for Educational Platforms.</title>
+<pages>31-33</pages>
+<year>2008</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2008</crossref>
+<url>db/conf/icalt/icalt2008.html#LoghinMC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/c5/FernandeDC07" mdate="2017-05-23">
+<author>Hilaire Fernandes</author>
+<author>Stéphane Ducasse</author>
+<author>Thibault Carron</author>
+<title>DR. GEO II: Adding Interactivity Planes in Interactive Dynamic Geometry.</title>
+<pages>153-162</pages>
+<year>2007</year>
+<crossref>conf/c5/2007</crossref>
+<booktitle>C5</booktitle>
+<url>db/conf/c5/c5-2007.html#FernandeDC07</url>
+</inproceedings>
+</r>
+<r><article key="journals/ais/ChabertMCCVF06" mdate="2017-05-27">
+<author>Ghislaine Chabert</author>
+<author>Jean-Charles Marty</author>
+<author>Bernard Caron</author>
+<author>Thibault Carron</author>
+<author>Laurence Vignollet</author>
+<author>Christine Ferraris</author>
+<title>The Electronic Schoolbag, a CSCW workspace: presentation and evaluation.</title>
+<pages>403-419</pages>
+<year>2006</year>
+<volume>20</volume>
+<journal>AI Soc.</journal>
+<number>3</number>
+<url>db/journals/ais/ais20.html#ChabertMCCVF06</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalt/CarronMHF06" mdate="2017-05-10">
+<author>Thibault Carron</author>
+<author>Jean-Charles Marty</author>
+<author>Jean-Mathias Heraud</author>
+<author>Laure France</author>
+<title>Helping the Teacher to Re-Organize Tasks in a Collaborative Learning Activity: An Agent-Based Approach.</title>
+<pages>552-554</pages>
+<year>2006</year>
+<crossref>conf/icalt/2006</crossref>
+<booktitle>ICALT</booktitle>
+<url>db/conf/icalt/icalt2006.html#CarronMHF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/FranceHMCH06" mdate="2017-05-10">
+<author>Laure France</author>
+<author>Jean-Mathias Heraud</author>
+<author>Jean-Charles Marty</author>
+<author>Thibault Carron</author>
+<author>Joseph Heili</author>
+<title>Monitoring Virtual Classroom: Visualization Techniques to Observe Student Activities in an e-Learning System.</title>
+<pages>716-720</pages>
+<year>2006</year>
+<crossref>conf/icalt/2006</crossref>
+<booktitle>ICALT</booktitle>
+<url>db/conf/icalt/icalt2006.html#FranceHMCH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iadis/LoghinMC05" mdate="2006-06-09">
+<author>Gligor-Calin Loghin</author>
+<author>Jean-Charles Marty</author>
+<author>Thibault Carron</author>
+<title>A Method for Enabling a Better Comprehension of User Behavior.</title>
+<pages>349-352</pages>
+<year>2005</year>
+<crossref>conf/iadis/2005celda</crossref>
+<booktitle>CELDA</booktitle>
+<url>db/conf/iadis/celda2005.html#LoghinMC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iadis/CarronMFH05" mdate="2006-06-09">
+<author>Thibault Carron</author>
+<author>Jean-Charles Marty</author>
+<author>Laure France</author>
+<author>Jean-Mathias Heraud</author>
+<title>Preparing an Observed Pedagogical Experiment.</title>
+<pages>526-531</pages>
+<year>2005</year>
+<crossref>conf/iadis/2005celda</crossref>
+<booktitle>CELDA</booktitle>
+<url>db/conf/iadis/celda2005.html#CarronMFH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/criwg/MartelFCCCCGMV04" mdate="2017-05-19">
+<author>Christian Martel</author>
+<author>Christine Ferraris</author>
+<author>Bernard Caron</author>
+<author>Thibault Carron</author>
+<author>Ghislaine Chabert</author>
+<author>Christophe Courtin</author>
+<author>Laurence Gagnière</author>
+<author>Jean-Charles Marty</author>
+<author>Laurence Vignollet</author>
+<title>A Model for CSCL Allowing Tailorability: Implementation in the "Electronic Schoolbag" Groupware.</title>
+<pages>322-338</pages>
+<year>2004</year>
+<crossref>conf/criwg/2004</crossref>
+<booktitle>CRIWG</booktitle>
+<url>db/conf/criwg/criwg2004.html#MartelFCCCCGMV04</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Carron01" mdate="2016-07-15">
+<author>Thibault Carron</author>
+<title>Des Systèmes Multi-Agents temporels pour des systèmes industriels dynamiques.</title>
+<year>2001</year>
+<school>École nationale supérieure des mines de Saint-Étienne, France</school>
+<school>Jean Monnet University, Saint-Étienne, France</school>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/jfsma/CarronB01" mdate="2013-07-17">
+<author>Thibault Carron</author>
+<author>Olivier Boissier</author>
+<title>Vers un modèle d'Agent Temporel pour la coordination temporelle au sein de systèmes multi-agents évolutifs (poster).</title>
+<pages>339-341</pages>
+<year>2001</year>
+<booktitle>JFIADSMA</booktitle>
+<crossref>conf/jfsma/2001</crossref>
+<url>db/conf/jfsma/jfsma2001.html#CarronB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/HannounBSCS00" mdate="2013-07-17">
+<author>Mahdi Hannoun</author>
+<author>Olivier Boissier</author>
+<author>Jaime Simão Sichman</author>
+<author>Thibault Carron</author>
+<author>Claudette Sayettat</author>
+<title>Conception et mise en oeuvre du modèle organisationnel Moïse (démonstration).</title>
+<pages>265-268</pages>
+<year>2000</year>
+<booktitle>JFIADSMA</booktitle>
+<crossref>conf/jfsma/2000</crossref>
+<url>db/conf/jfsma/jfsma2000.html#HannounBSCS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/CarronB00" mdate="2013-07-17">
+<author>Thibault Carron</author>
+<author>Olivier Boissier</author>
+<title>Vers un système de coordination temporelle (démonstration).</title>
+<pages>301-305</pages>
+<year>2000</year>
+<booktitle>JFIADSMA</booktitle>
+<crossref>conf/jfsma/2000</crossref>
+<url>db/conf/jfsma/jfsma2000.html#CarronB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/maamaw/CarronPB99" mdate="2017-05-24">
+<author>Thibault Carron</author>
+<author>Hubert Proton</author>
+<author>Olivier Boissier</author>
+<title>A Temporal Agent Communication Language for Dynamic Multi-agent Systems.</title>
+<pages>115-127</pages>
+<year>1999</year>
+<crossref>conf/maamaw/1999</crossref>
+<booktitle>MAAMAW</booktitle>
+<url>db/conf/maamaw/maamaw99.html#CarronPB99</url>
+</inproceedings>
+</r>
+<coauthors n="41" nc="3">
+<co c="0"><na f="a/Abed:Hamza">Hamza Abed</na></co>
+<co c="0"><na f="a/Amar:Chokri_Ben">Chokri Ben Amar</na></co>
+<co c="0"><na f="a/Aouadi:Nada">Nada Aouadi</na></co>
+<co c="0"><na f="b/Bissay:Aur=eacute=lie">Aurélie Bissay</na></co>
+<co c="1"><na f="b/Boissier:Olivier">Olivier Boissier</na></co>
+<co c="0"><na f="c/Caron:Bernard">Bernard Caron</na></co>
+<co c="0"><na f="c/Chabert:Ghislaine">Ghislaine Chabert</na></co>
+<co c="0"><na f="c/Courtin:Christophe">Christophe Courtin</na></co>
+<co c="2"><na f="d/Ducasse:St=eacute=phane">Stéphane Ducasse</na></co>
+<co c="0"><na f="e/Elkadiri:S=">S. Elkadiri</na></co>
+<co c="2"><na f="f/Fernandes:Hilaire">Hilaire Fernandes</na></co>
+<co c="0"><na f="f/Ferraris:Christine">Christine Ferraris</na></co>
+<co c="0"><na f="f/France:Laure">Laure France</na></co>
+<co c="0"><na f="g/Gagni=egrave=re:Laurence">Laurence Gagnière</na></co>
+<co c="1"><na f="h/Hannoun:Mahdi">Mahdi Hannoun</na></co>
+<co c="0"><na f="h/Heili:Joseph">Joseph Heili</na></co>
+<co c="0"><na f="h/Heraud:Jean=Mathias">Jean-Mathias Heraud</na></co>
+<co c="0"><na f="h/Houzet:Gregory">Gregory Houzet</na></co>
+<co c="0"><na f="k/Kordon:Fabrice">Fabrice Kordon</na></co>
+<co c="0"><na f="k/Kredens:Elodie">Elodie Kredens</na></co>
+<co c="0"><na f="l/Labat:Jean=Marc">Jean-Marc Labat</na></co>
+<co c="0"><na f="l/Loghin:Gligor=Calin">Gligor-Calin Loghin</na></co>
+<co c="0"><na f="m/Maalej:Wiem">Wiem Maalej</na></co>
+<co c="0"><na f="m/Mangeot:Mathieu">Mathieu Mangeot</na></co>
+<co c="0"><na f="m/Marfisi=Schottman:Iza">Iza Marfisi-Schottman</na></co>
+<co c="0"><na f="m/Marne:Bertrand">Bertrand Marne</na></co>
+<co c="0"><na f="m/Martel:Christian">Christian Martel</na></co>
+<co c="0"><na f="m/Marty:Jean=Charles">Jean-Charles Marty</na></co>
+<co c="0"><na f="m/Mounier:Isabelle">Isabelle Mounier</na></co>
+<co c="0"><na f="m/Msaed:Sahar">Sahar Msaed</na></co>
+<co c="0"><na f="m/Muratet:Mathieu">Mathieu Muratet</na></co>
+<co c="0"><na f="p/Pernelle:Philippe">Philippe Pernelle</na></co>
+<co c="1"><na f="p/Proton:Hubert">Hubert Proton</na></co>
+<co c="1"><na f="s/Sayettat:Claudette">Claudette Sayettat</na></co>
+<co c="0"><na f="s/Serna:Audrey">Audrey Serna</na></co>
+<co c="1"><na f="s/Sichman:Jaime_Sim=atilde=o">Jaime Simão Sichman</na></co>
+<co c="0"><na f="t/Talbot:Stephane">Stephane Talbot</na></co>
+<co c="0"><na f="v/Vignollet:Laurence">Laurence Vignollet</na></co>
+<co c="0"><na f="w/Wayntal:David">David Wayntal</na></co>
+<co c="0"><na f="y/Yessad:Amel">Amel Yessad</na></co>
+<co c="0"><na f="z/Zaghbib:Amina">Amina Zaghbib</na></co>
+</coauthors>
+</dblpperson>
+

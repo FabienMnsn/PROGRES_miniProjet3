@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Pierre Fortin" n="28">
+<person key="homepages/93/5085" mdate="2009-06-10">
+<author>Pierre Fortin</author>
+</person>
+<r><article key="journals/ijhpca/FortinT19" mdate="2019-09-12">
+<author>Pierre Fortin</author>
+<author>Maxime Touche</author>
+<title>Dual tree traversal on integrated GPUs for astrophysical <i>N</i>-body simulations.</title>
+<year>2019</year>
+<volume>33</volume>
+<journal>IJHPCA</journal>
+<number>5</number>
+<url>db/journals/ijhpca/ijhpca33.html#FortinT19</url>
+</article>
+</r>
+<r><article key="journals/tpds/GueunetFJT19" mdate="2019-10-19">
+<author orcid="0000-0001-6288-4540">Charles Gueunet</author>
+<author orcid="0000-0003-3117-9122">Pierre Fortin</author>
+<author>Julien Jomier</author>
+<author>Julien Tierny</author>
+<title>Task-Based Augmented Contour Trees with Fibonacci Heaps.</title>
+<pages>1889-1905</pages>
+<year>2019</year>
+<volume>30</volume>
+<journal>IEEE Trans. Parallel Distrib. Syst.</journal>
+<number>8</number>
+<url>db/journals/tpds/tpds30.html#GueunetFJT19</url>
+</article>
+</r>
+<r><inproceedings key="conf/egpgv/GueunetFJT19" mdate="2019-07-08">
+<author>Charles Gueunet</author>
+<author>Pierre Fortin</author>
+<author>Julien Jomier</author>
+<author>Julien Tierny</author>
+<title>Task-based Augmented Reeb Graphs with Dynamic ST-Trees.</title>
+<pages>27-37</pages>
+<year>2019</year>
+<booktitle>EGPGV</booktitle>
+<crossref>conf/egpgv/2019</crossref>
+<url>db/conf/egpgv/egpgv2019.html#GueunetFJT19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-04805" mdate="2019-05-21">
+<author>Charles Gueunet</author>
+<author>Pierre Fortin</author>
+<author>Julien Jomier</author>
+<author>Julien Tierny</author>
+<title>Task-based Augmented Contour Trees with Fibonacci Heaps.</title>
+<year>2019</year>
+<volume>abs/1902.04805</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.04805</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-04805</url>
+</article>
+</r>
+<r><book publtype="habil" key="books/hal/Fortin18" mdate="2018-10-10">
+<author>Pierre Fortin</author>
+<title>Algorithmic contributions to scientific computing on high performance architectures. (Contributions algorithmiques au calcul scientifique sur architectures haute performance).</title>
+<year>2018</year>
+<school>Pierre and Marie Curie University, Paris, France</school>
+</book>
+</r>
+<r><article key="journals/ijhpca/SaidFLC18" mdate="2018-11-27">
+<author>Issam Said</author>
+<author>Pierre Fortin</author>
+<author>Jean Luc Lamotte</author>
+<author>Henri Calandra</author>
+<title>Leveraging the accelerated processing units for seismic imaging: A performance and power efficiency comparison against CPUs and GPUs.</title>
+<year>2018</year>
+<volume>32</volume>
+<journal>IJHPCA</journal>
+<number>6</number>
+<url>db/journals/ijhpca/ijhpca32.html#SaidFLC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/EberhartLBFJ18" mdate="2018-08-08">
+<author>Pacôme Eberhart</author>
+<author>Baptiste Landreau</author>
+<author>Julien Brajard</author>
+<author>Pierre Fortin</author>
+<author>Fabienne Jézéquel</author>
+<title>Improving CADNA Performance on GPUs.</title>
+<pages>1016-1025</pages>
+<year>2018</year>
+<booktitle>IPDPS Workshops</booktitle>
+<crossref>conf/ipps/2018w</crossref>
+<url>db/conf/ipps/ipdps2018w.html#EberhartLBFJ18</url>
+</inproceedings>
+</r>
+<r><article key="journals/toms/FortinGG17" mdate="2018-11-06">
+<author>Pierre Fortin</author>
+<author>Mourad Gouicem</author>
+<author>Stef Graillat</author>
+<title>GPU-Accelerated Generation of Correctly Rounded Elementary Functions.</title>
+<pages>22:1-22:26</pages>
+<year>2017</year>
+<volume>43</volume>
+<journal>ACM Trans. Math. Softw.</journal>
+<number>3</number>
+<url>db/journals/toms/toms43.html#FortinGG17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ldav/GueunetFJT17" mdate="2018-01-11">
+<author>Charles Gueunet</author>
+<author>Pierre Fortin</author>
+<author>Julien Jomier</author>
+<author>Julien Tierny</author>
+<title>Task-based augmented merge trees with Fibonacci heaps.</title>
+<pages>6-15</pages>
+<year>2017</year>
+<booktitle>LDAV</booktitle>
+<crossref>conf/ldav/2017</crossref>
+<url>db/conf/ldav/ldav2017.html#GueunetFJT17</url>
+</inproceedings>
+</r>
+<r><article key="journals/scpe/AvenelFGZ16" mdate="2016-08-09">
+<author>Christophe Avenel</author>
+<author>Pierre Fortin</author>
+<author>Mourad Gouicem</author>
+<author>Samia Zaidi</author>
+<title>Solving the Table Maker's Dilemma on Current SIMD Architectures.</title>
+<pages>237-250</pages>
+<year>2016</year>
+<volume>17</volume>
+<journal>Scalable Computing: Practice and Experience</journal>
+<number>3</number>
+<url>db/journals/scpe/scpe17.html#AvenelFGZ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwocl/SaidFLC16" mdate="2018-11-06">
+<author>Issam Said</author>
+<author>Pierre Fortin</author>
+<author>Jean Luc Lamotte</author>
+<author>Henri Calandra</author>
+<title>hiCL: an OpenCL abstraction layer for scientific computing, application to depth imaging on GPU and APU.</title>
+<pages>14:1-14:3</pages>
+<year>2016</year>
+<booktitle>IWOCL</booktitle>
+<crossref>conf/iwocl/2016</crossref>
+<url>db/conf/iwocl/iwocl2016.html#SaidFLC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwomp/EberhartBFJ16" mdate="2017-05-21">
+<author>Pacôme Eberhart</author>
+<author>Julien Brajard</author>
+<author>Pierre Fortin</author>
+<author>Fabienne Jézéquel</author>
+<title>Estimation of Round-off Errors in OpenMP Codes.</title>
+<pages>3-16</pages>
+<year>2016</year>
+<booktitle>IWOMP</booktitle>
+<crossref>conf/iwomp/2016</crossref>
+<url>db/conf/iwomp/iwomp2016.html#EberhartBFJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ldav/GueunetFJ16" mdate="2017-05-21">
+<author>Charles Gueunet</author>
+<author>Pierre Fortin</author>
+<author>Julien Jomier</author>
+<title>Contour forests: Fast multi-threaded augmented contour trees.</title>
+<pages>85-92</pages>
+<year>2016</year>
+<booktitle>LDAV</booktitle>
+<crossref>conf/ldav/2016</crossref>
+<url>db/conf/ldav/ldav2016.html#GueunetFJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/springsim/SaidFLDC16" mdate="2016-12-12">
+<author>Issam Said</author>
+<author>Pierre Fortin</author>
+<author>Jean Luc Lamotte</author>
+<author>Romain Dolbeau</author>
+<author>Henri Calandra</author>
+<title>On the efficiency of the accelerated processing unit for scientific computing.</title>
+<pages>25</pages>
+<year>2016</year>
+<booktitle>SpringSim (HPS)</booktitle>
+<crossref>conf/springsim/2016-4</crossref>
+<url>db/conf/springsim/springsim2016-4.html#SaidFLDC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/LangeF14" mdate="2017-05-24">
+<author>Benoit Lange</author>
+<author>Pierre Fortin</author>
+<title>Parallel Dual Tree Traversal on Multi-core and Many-core Architectures for Astrophysical N-body Simulations.</title>
+<pages>716-727</pages>
+<year>2014</year>
+<booktitle>Euro-Par</booktitle>
+<crossref>conf/europar/2014</crossref>
+<url>db/conf/europar/europar2014.html#LangeF14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tjs/FortinL13" mdate="2017-05-28">
+<author>Pierre Fortin</author>
+<author>Jean Luc Lamotte</author>
+<title>An (almost) direct deployment of the Fast Multipole Method on the Cell processor.</title>
+<pages>1205-1222</pages>
+<year>2013</year>
+<volume>65</volume>
+<journal>The Journal of Supercomputing</journal>
+<number>3</number>
+<url>db/journals/tjs/tjs65.html#FortinL13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpp/AvenelFB13" mdate="2017-05-19">
+<author>Christophe Avenel</author>
+<author>Pierre Fortin</author>
+<author>Dominique Béréziat</author>
+<title>Parallel Birth and Death Process for Cell Nuclei Extraction in Histopathology Images.</title>
+<pages>429-438</pages>
+<year>2013</year>
+<booktitle>ICPP</booktitle>
+<crossref>conf/icpp/2013</crossref>
+<url>db/conf/icpp/icpp2013.html#AvenelFB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/CalandraDFLS13" mdate="2019-09-25">
+<author>Henri Calandra</author>
+<author orcid="0000-0002-4466-8948">Romain Dolbeau</author>
+<author>Pierre Fortin</author>
+<author>Jean Luc Lamotte</author>
+<author>Issam Said</author>
+<title>Evaluation of Successive CPUs/APUs/GPUs Based on an OpenCL Finite Difference Stencil.</title>
+<pages>405-409</pages>
+<year>2013</year>
+<booktitle>PDP</booktitle>
+<crossref>conf/pdp/2013</crossref>
+<url>db/conf/pdp/pdp2013.html#CalandraDFLS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/perdis/FortinHBF13" mdate="2018-11-06">
+<author>Claude Fortin</author>
+<author>Kate Hennessy</author>
+<author>Ruedi Baur</author>
+<author>Pierre Fortin</author>
+<title>Beyond the vision paradigm: design strategies for crossmodal interaction with dynamic digital displays.</title>
+<pages>91-96</pages>
+<year>2013</year>
+<booktitle>PerDis</booktitle>
+<crossref>conf/perdis/2013</crossref>
+<url>db/conf/perdis/perdis2013.html#FortinHBF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/NardiBFT12" mdate="2017-05-23">
+<author>Luigi Nardi</author>
+<author>Fouad Badran</author>
+<author>Pierre Fortin</author>
+<author>Sylvie Thiria</author>
+<title>YAO: A Generator of Parallel Code for Variational Data Assimilation Applications.</title>
+<pages>224-232</pages>
+<year>2012</year>
+<booktitle>HPCC-ICESS</booktitle>
+<crossref>conf/hpcc/2012</crossref>
+<url>db/conf/hpcc/hpcc2012.html#NardiBFT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/FortinGG12" mdate="2017-05-25">
+<author>Pierre Fortin</author>
+<author>Mourad Gouicem</author>
+<author>Stef Graillat</author>
+<title>Towards Solving the Table Maker's Dilemma on GPU.</title>
+<pages>407-415</pages>
+<year>2012</year>
+<booktitle>PDP</booktitle>
+<crossref>conf/pdp/2012</crossref>
+<url>db/conf/pdp/pdp2012.html#FortinGG12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1211-3056" mdate="2018-08-13">
+<author>Pierre Fortin</author>
+<author>Mourad Gouicem</author>
+<author>Stef Graillat</author>
+<title>Correctly rounding elementary functions on GPU</title>
+<ee type="oa">http://arxiv.org/abs/1211.3056</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1211.3056</volume>
+<url>db/journals/corr/corr1211.html#abs-1211-3056</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/FortinHJLS11" mdate="2017-05-24">
+<author>Pierre Fortin</author>
+<author>Rachid Habel</author>
+<author>Fabienne Jézéquel</author>
+<author>Jean Luc Lamotte</author>
+<author>N. Stanley Scott</author>
+<title>Deployment on GPUs of an Application in Computational Atomic Physics.</title>
+<pages>1359-1366</pages>
+<year>2011</year>
+<booktitle>IPDPS Workshops</booktitle>
+<crossref>conf/ipps/2011w</crossref>
+<url>db/conf/ipps/ipdps2011w.html#FortinHJLS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/mcm/CoulaudFR10" mdate="2017-05-28">
+<author>Olivier Coulaud</author>
+<author>Pierre Fortin</author>
+<author>Jean Roman</author>
+<title>High performance BLAS formulation of the adaptive Fast Multipole Method.</title>
+<pages>177-188</pages>
+<year>2010</year>
+<volume>51</volume>
+<journal>Mathematical and Computer Modelling</journal>
+<number>3-4</number>
+<url>db/journals/mcm/mcm51.html#CoulaudFR10</url>
+</article>
+</r>
+<r><inproceedings key="conf/parco/FortinL09" mdate="2017-05-26">
+<author>Pierre Fortin</author>
+<author>Jean Luc Lamotte</author>
+<title>Fast Multipole Method on the Cell Broadband Engine: the Near Field Part.</title>
+<pages>323-330</pages>
+<year>2009</year>
+<booktitle>PARCO</booktitle>
+<crossref>conf/parco/2009</crossref>
+<url>db/conf/parco/parco2009.html#FortinL09</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcphy/CoulaudFR08" mdate="2017-05-18">
+<author>Olivier Coulaud</author>
+<author>Pierre Fortin</author>
+<author>Jean Roman</author>
+<title>High performance BLAS formulation of the multipole-to-local operator in the fast multipole method.</title>
+<pages>1836-1862</pages>
+<year>2008</year>
+<volume>227</volume>
+<journal>J. Comput. Physics</journal>
+<number>3</number>
+<url>db/journals/jcphy/jcphy227.html#CoulaudFR08</url>
+</article>
+</r>
+<r><inproceedings key="conf/ispdc/CoulaudFR07" mdate="2017-05-17">
+<author>Olivier Coulaud</author>
+<author>Pierre Fortin</author>
+<author>Jean Roman</author>
+<title>Hybrid MPI-Thread Parallelization of the Fast Multipole Method.</title>
+<pages>391-398</pages>
+<year>2007</year>
+<booktitle>ISPDC</booktitle>
+<crossref>conf/ispdc/2007</crossref>
+<url>db/conf/ispdc/ispdc2007.html#CoulaudFR07</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Fortin06" mdate="2016-08-03">
+<author>Pierre Fortin</author>
+<title>Algorithmique hiérarchique parallèle haute performance pour les problèmes à N-corps. (High performance parallel hierarchical algorithmic for N-body problems).</title>
+<year>2006</year>
+<school>University of Bordeaux, France</school>
+</phdthesis>
+</r>
+<coauthors n="28" nc="3">
+<co c="0"><na f="a/Avenel:Christophe">Christophe Avenel</na></co>
+<co c="0"><na f="b/Badran:Fouad">Fouad Badran</na></co>
+<co c="1"><na f="b/Baur:Ruedi">Ruedi Baur</na></co>
+<co c="0"><na f="b/B=eacute=r=eacute=ziat:Dominique">Dominique Béréziat</na></co>
+<co c="0"><na f="b/Brajard:Julien">Julien Brajard</na></co>
+<co c="0"><na f="c/Calandra:Henri">Henri Calandra</na></co>
+<co c="0"><na f="c/Coulaud:Olivier">Olivier Coulaud</na></co>
+<co c="0"><na f="d/Dolbeau:Romain">Romain Dolbeau</na></co>
+<co c="0"><na f="e/Eberhart:Pac=ocirc=me">Pacôme Eberhart</na></co>
+<co c="1"><na f="f/Fortin:Claude">Claude Fortin</na></co>
+<co c="0"><na f="g/Gouicem:Mourad">Mourad Gouicem</na></co>
+<co c="0"><na f="g/Graillat:Stef">Stef Graillat</na></co>
+<co c="2"><na f="g/Gueunet:Charles">Charles Gueunet</na></co>
+<co c="0"><na f="h/Habel:Rachid">Rachid Habel</na></co>
+<co c="1"><na f="h/Hennessy:Kate">Kate Hennessy</na></co>
+<co c="0"><na f="j/J=eacute=z=eacute=quel:Fabienne">Fabienne Jézéquel</na></co>
+<co c="2"><na f="j/Jomier:Julien">Julien Jomier</na></co>
+<co c="0"><na f="l/Lamotte:Jean_Luc">Jean Luc Lamotte</na></co>
+<co c="0"><na f="l/Landreau:Baptiste">Baptiste Landreau</na></co>
+<co c="-1"><na f="l/Lange:Benoit">Benoit Lange</na></co>
+<co c="0"><na f="n/Nardi:Luigi">Luigi Nardi</na></co>
+<co c="0"><na f="r/Roman:Jean">Jean Roman</na></co>
+<co c="0"><na f="s/Said:Issam">Issam Said</na></co>
+<co c="0"><na f="s/Scott:N=_Stanley">N. Stanley Scott</na></co>
+<co c="0"><na f="t/Thiria:Sylvie">Sylvie Thiria</na></co>
+<co c="2"><na f="t/Tierny:Julien">Julien Tierny</na></co>
+<co c="-1"><na f="t/Touche:Maxime">Maxime Touche</na></co>
+<co c="0"><na f="z/Zaidi:Samia">Samia Zaidi</na></co>
+</coauthors>
+</dblpperson>
+

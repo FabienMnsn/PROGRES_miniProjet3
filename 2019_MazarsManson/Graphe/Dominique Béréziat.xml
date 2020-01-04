@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Dominique Béréziat" n="35">
+<person key="homepages/41/4523" mdate="2009-06-10">
+<author>Dominique Béréziat</author>
+</person>
+<r><inproceedings key="conf/visapp/ZebiriBHH19" mdate="2019-06-04">
+<author>Aniss Zebiri</author>
+<author>Dominique Béréziat</author>
+<author>Etienne G. Huot</author>
+<author>Isabelle Herlin</author>
+<title>Rain Nowcasting from Multiscale Radar Images.</title>
+<pages>892-900</pages>
+<year>2019</year>
+<booktitle>VISIGRAPP (5: VISAPP)</booktitle>
+<crossref>conf/visapp/2019-2</crossref>
+<url>db/conf/visapp/visapp2019-2.html#ZebiriBHH19</url>
+</inproceedings>
+</r>
+<r><article key="journals/dsp/BereziatH18" mdate="2018-10-29">
+<author>Dominique Béréziat</author>
+<author>Isabelle Herlin</author>
+<title>Motion and acceleration from image assimilation with evolution models.</title>
+<pages>45-58</pages>
+<year>2018</year>
+<volume>83</volume>
+<journal>Digital Signal Processing</journal>
+<url>db/journals/dsp/dsp83.html#BereziatH18</url>
+</article>
+</r>
+<r><inproceedings key="conf/visapp/BereziatHL17" mdate="2017-05-19">
+<author>Dominique Béréziat</author>
+<author>Isabelle Herlin</author>
+<author>Yann Lepoittevin</author>
+<title>Ensemble Kalman Filter based on the Image Structures.</title>
+<pages>140-150</pages>
+<year>2017</year>
+<booktitle>VISIGRAPP (6: VISAPP)</booktitle>
+<crossref>conf/visapp/2017-3</crossref>
+<url>db/conf/visapp/visapp2017-3.html#BereziatHL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/visapp/LepoittevinHB15" mdate="2017-05-24">
+<author>Yann Lepoittevin</author>
+<author>Isabelle Herlin</author>
+<author>Dominique Béréziat</author>
+<title>An Image-based Ensemble Kalman Filter for Motion Estimation.</title>
+<pages>437-445</pages>
+<year>2015</year>
+<booktitle>VISAPP (3)</booktitle>
+<crossref>conf/visapp/2015-3</crossref>
+<url>db/conf/visapp/visapp2015-3.html#LepoittevinHB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/visapp/BereziatH14a" mdate="2017-05-24">
+<author>Dominique Béréziat</author>
+<author>Isabelle Herlin</author>
+<title>Coupling Dynamic Equations and Satellite Images for Modelling Ocean Surface Circulation.</title>
+<pages>191-205</pages>
+<year>2014</year>
+<booktitle>VISIGRAPP (Selected Papers)</booktitle>
+<crossref>conf/visapp/2014-s</crossref>
+<url>db/conf/visapp/visigrapp2014.html#BereziatH14a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/visapp/BereziatH14" mdate="2017-05-24">
+<author>Dominique Béréziat</author>
+<author>Isabelle Herlin</author>
+<title>Image-based Modelling of Ocean Surface Circulation from Satellite Acquisitions.</title>
+<pages>288-295</pages>
+<year>2014</year>
+<booktitle>VISAPP (3)</booktitle>
+<crossref>conf/visapp/2014-3</crossref>
+<url>db/conf/visapp/visapp2014-3.html#BereziatH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/LepoittevinHB13" mdate="2017-05-25">
+<author>Yann Lepoittevin</author>
+<author>Isabelle Herlin</author>
+<author>Dominique Béréziat</author>
+<title>Object's tracking by advection of a distance map.</title>
+<pages>3612-3616</pages>
+<year>2013</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2013</crossref>
+<url>db/conf/icip/icip2013.html#LepoittevinHB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/AvenelFB13" mdate="2017-05-19">
+<author>Christophe Avenel</author>
+<author>Pierre Fortin</author>
+<author>Dominique Béréziat</author>
+<title>Parallel Birth and Death Process for Cell Nuclei Extraction in Histopathology Images.</title>
+<pages>429-438</pages>
+<year>2013</year>
+<booktitle>ICPP</booktitle>
+<crossref>conf/icpp/2013</crossref>
+<url>db/conf/icpp/icpp2013.html#AvenelFB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/visapp/LepoittevinBHM13" mdate="2013-07-14">
+<author>Yann Lepoittevin</author>
+<author>Dominique Béréziat</author>
+<author>Isabelle Herlin</author>
+<author>Nicolas Mercier</author>
+<title>Continuous Tracking of Structures from an Image Sequence.</title>
+<pages>386-389</pages>
+<year>2013</year>
+<booktitle>VISAPP (2)</booktitle>
+<crossref>conf/visapp/2013-2</crossref>
+<url>db/conf/visapp/visapp2013-2.html#LepoittevinBHM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/prl/AbedDB12" mdate="2017-05-28">
+<author>Abir El Abed</author>
+<author>Séverine Dubuisson</author>
+<author>Dominique Béréziat</author>
+<title>Spatio-temporal target-measure association using an adaptive geometrical approach.</title>
+<pages>765-774</pages>
+<year>2012</year>
+<volume>33</volume>
+<journal>Pattern Recognition Letters</journal>
+<number>6</number>
+<url>db/journals/prl/prl33.html#AbedDB12</url>
+</article>
+</r>
+<r><article key="journals/spic/FabrizioDB12" mdate="2017-05-28">
+<author>Jonathan Fabrizio</author>
+<author>Séverine Dubuisson</author>
+<author>Dominique Béréziat</author>
+<title>Motion compensation based on tangent distance prediction for video compression.</title>
+<pages>153-171</pages>
+<year>2012</year>
+<volume>27</volume>
+<journal>Sig. Proc.: Image Comm.</journal>
+<number>2</number>
+<url>db/journals/spic/spic27.html#FabrizioDB12</url>
+</article>
+</r>
+<r><inproceedings key="conf/eccv/HerlinBMZ12" mdate="2017-05-19">
+<author>Isabelle Herlin</author>
+<author>Dominique Béréziat</author>
+<author>Nicolas Mercier</author>
+<author>Sergiy Zhuk</author>
+<title>Divergence-Free Motion Estimation.</title>
+<pages>15-27</pages>
+<year>2012</year>
+<booktitle>ECCV (4)</booktitle>
+<crossref>conf/eccv/2012-4</crossref>
+<url>db/conf/eccv/eccv2012-4.html#HerlinBMZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/BereziatH12" mdate="2017-05-25">
+<author>Dominique Béréziat</author>
+<author>Isabelle Herlin</author>
+<title>Non-linear observation equation for motion estimation.</title>
+<pages>1521-1524</pages>
+<year>2012</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2012</crossref>
+<url>db/conf/icip/icip2012.html#BereziatH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/visapp/HerlinBM12" mdate="2012-05-25">
+<author>Isabelle Herlin</author>
+<author>Dominique Béréziat</author>
+<author>Nicolas Mercier</author>
+<title>Improvement of Motion Estimation by Assessing the Errors on the Evolution Equation.</title>
+<pages>235-240</pages>
+<year>2012</year>
+<booktitle>VISAPP (2)</booktitle>
+<crossref>conf/visapp/2012-2</crossref>
+<url>db/conf/visapp/visapp2012-2.html#HerlinBM12</url>
+</inproceedings>
+</r>
+<r><article key="journals/na/BereziatH11" mdate="2017-05-18">
+<author>Dominique Béréziat</author>
+<author>Isabelle Herlin</author>
+<title>Solving ill-posed Image Processing problems using Data Assimilation.</title>
+<pages>219-252</pages>
+<year>2011</year>
+<volume>56</volume>
+<journal>Numerical Algorithms</journal>
+<number>2</number>
+<url>db/journals/na/na56.html#BereziatH11</url>
+</article>
+</r>
+<r><inproceedings key="conf/scia/HerlinBM11" mdate="2018-06-26">
+<author>Isabelle Herlin</author>
+<author>Dominique Béréziat</author>
+<author>Nicolas Mercier</author>
+<title>Recovering Missing Data on Satellite Images.</title>
+<pages>697-707</pages>
+<year>2011</year>
+<booktitle>SCIA</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-21227-7_65</ee>
+<crossref>conf/scia/2011</crossref>
+<url>db/conf/scia/scia2011.html#HerlinBM11</url>
+</inproceedings>
+</r>
+<r><book publtype="habil" key="books/hal/Bereziat10" mdate="2017-09-29">
+<author>Dominique Béréziat</author>
+<title>Contributions aux méthodes variationnelles pour le calcul du flot optique: prise en compte des informations spatiales et temporelles. (Contributions to determination of optical flow using the calculus of variations techniques: modeling the spatial and the temporal information).</title>
+<year>2010</year>
+<school>Pierre and Marie Curie University, Paris, France</school>
+</book>
+</r>
+<r><inproceedings key="conf/visapp/BereziatH09" mdate="2011-01-07">
+<author>Dominique Béréziat</author>
+<author>Isabelle Herlin</author>
+<title>Solving Ill-posed Problems using Data Assimilation - Application to Optical Flow Estimation.</title>
+<pages>595-602</pages>
+<year>2009</year>
+<booktitle>VISAPP (1)</booktitle>
+<crossref>conf/visapp/2009-1</crossref>
+<url>db/conf/visapp/visapp2009-1.html#BereziatH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/TeinaBSC08" mdate="2019-03-28">
+<author>Raimana Teina</author>
+<author>Dominique Béréziat</author>
+<author>Benoît Stoll</author>
+<author>Sébastien Chabrier</author>
+<title>Toward a Global Tuamotu Archipelago Coconut Trees Sensing Using High Resolution Optical Data.</title>
+<pages>797-800</pages>
+<year>2008</year>
+<booktitle>IGARSS (2)</booktitle>
+<crossref>conf/igarss/2008</crossref>
+<url>db/conf/igarss/igarss2008-2.html#TeinaBSC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acivs/AbedDB07" mdate="2017-05-23">
+<author>Abir El Abed</author>
+<author>Séverine Dubuisson</author>
+<author>Dominique Béréziat</author>
+<title>ENMIM: Energetic Normalized Mutual Information Model for Online Multiple Object Tracking with Unlearned Motions.</title>
+<pages>955-967</pages>
+<year>2007</year>
+<crossref>conf/acivs/2007</crossref>
+<booktitle>ACIVS</booktitle>
+<url>db/conf/acivs/acivs2007.html#AbedDB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caip/RekikBD07" mdate="2017-05-21">
+<author>Wafa Rekik</author>
+<author>Dominique Béréziat</author>
+<author>Séverine Dubuisson</author>
+<title>3D+t Reconstruction in the Context of Locally Spheric Shaped Data Observation.</title>
+<pages>482-489</pages>
+<year>2007</year>
+<crossref>conf/caip/2007</crossref>
+<booktitle>CAIP</booktitle>
+<url>db/conf/caip/caip2007.html#RekikBD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/AbedDB07" mdate="2017-05-25">
+<author>Abir El Abed</author>
+<author>Séverine Dubuisson</author>
+<author>Dominique Béréziat</author>
+<title>Energetic Particle Filter for Online Multiple Target Tracking.</title>
+<pages>493-496</pages>
+<year>2007</year>
+<booktitle>ICIP (1)</booktitle>
+<crossref>conf/icip/2007</crossref>
+<url>db/conf/icip/icip2007-1.html#AbedDB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/visapp/AbirSD07" mdate="2019-06-06">
+<author>Abir El Abed</author>
+<author>Séverine Dubuisson</author>
+<author>Dominique Béréziat</author>
+<title>Energy Association Filter for Online Data Association with Missing Data.</title>
+<pages>244-257</pages>
+<year>2007</year>
+<booktitle>VISIGRAPP (Selected Papers)</booktitle>
+<crossref>conf/visapp/2007-s</crossref>
+<url>db/conf/visapp/visigrapp2007.html#AbirSD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/visapp/AbedDB07" mdate="2007-10-04">
+<author>Abir El Abed</author>
+<author>Séverine Dubuisson</author>
+<author>Dominique Béréziat</author>
+<title>Energy minimization approach for online data association with missing data.</title>
+<pages>371-378</pages>
+<year>2007</year>
+<crossref>conf/visapp/2007-2</crossref>
+<booktitle>VISAPP (2)</booktitle>
+<url>db/conf/visapp/visapp2007-2.html#AbedDB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acivs/AbedDB06" mdate="2017-05-23">
+<author>Abir El Abed</author>
+<author>Séverine Dubuisson</author>
+<author>Dominique Béréziat</author>
+<title>Comparison of Statistical and Shape-Based Approaches for Non-rigid Motion Tracking with Missing Data Using a Particle Filter.</title>
+<pages>185-196</pages>
+<year>2006</year>
+<crossref>conf/acivs/2006</crossref>
+<booktitle>ACIVS</booktitle>
+<url>db/conf/acivs/acivs2006.html#AbedDB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isbi/RekikBD06" mdate="2017-05-25">
+<author>Wafa Rekik</author>
+<author>Dominique Béréziat</author>
+<author>Séverine Dubuisson</author>
+<title>Image processing in spheric-shaped data using a geographical transformation. Application to bio-cellular imaging.</title>
+<pages>1256-1259</pages>
+<year>2006</year>
+<crossref>conf/isbi/2006</crossref>
+<booktitle>ISBI</booktitle>
+<url>db/conf/isbi/isbi2006.html#RekikBD06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iv/RekikBD05" mdate="2017-05-21">
+<author>Wafa Rekik</author>
+<author>Dominique Béréziat</author>
+<author>Séverine Dubuisson</author>
+<title>MAPVIS: A Map-Projection Based Tool for Visualizing Scalar and Vectorial Information Lying on Spheroidal Surfaces.</title>
+<pages>636-641</pages>
+<year>2005</year>
+<crossref>conf/iv/2005</crossref>
+<booktitle>IV</booktitle>
+<url>db/conf/iv/iv2005.html#RekikBD05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/GrazziniBH01" mdate="2017-05-25">
+<author>Jacopo Grazzini</author>
+<author>Dominique Béréziat</author>
+<author>Isabelle Herlin</author>
+<title>Analysis of cloudy structures evolution on meteorological satellite acquisitions.</title>
+<pages>760-763</pages>
+<year>2001</year>
+<crossref>conf/icip/2001</crossref>
+<booktitle>ICIP (3)</booktitle>
+<url>db/conf/icip/icip2001-3.html#GrazziniBH01</url>
+</inproceedings>
+</r>
+<r><article key="journals/envsoft/BereziatB00" mdate="2017-05-26">
+<author>Dominique Béréziat</author>
+<author>Jean-Paul Berroir</author>
+<title>Motion estimation on meteorological infrared data using a total brightness invariance hypothesis.</title>
+<pages>513-519</pages>
+<year>2000</year>
+<volume>15</volume>
+<journal>Environmental Modelling and Software</journal>
+<number>6-7</number>
+<url>db/journals/envsoft/envsoft15.html#BereziatB00</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/BeziatHY00" mdate="2017-05-25">
+<author>Dominique Béréziat</author>
+<author>Isabelle Herlin</author>
+<author>Laurent Younes</author>
+<title>A Generalized Optical Flow Constraint and its Physical Interpretation.</title>
+<pages>487-492</pages>
+<year>2000</year>
+<crossref>conf/cvpr/2000</crossref>
+<booktitle>CVPR</booktitle>
+<url>db/conf/cvpr/cvpr2000.html#BeziatHY00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/HerlinB00" mdate="2017-05-24">
+<author>Isabelle Herlin</author>
+<author>Dominique Béréziat</author>
+<title>Object Based Optical Flow Estimation with an Affine Prior Model.</title>
+<pages>7060-7063</pages>
+<year>2000</year>
+<crossref>conf/icpr/2000</crossref>
+<booktitle>ICPR</booktitle>
+<url>db/conf/icpr/icpr2000-3.html#HerlinB00</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Bereziat99" mdate="2016-08-05">
+<author>Dominique Béréziat</author>
+<title>Détection et suivi de structures déformables en mouvement, application à la météorologie. (Detection and tracking of deformable moving structures, application to meteorology).</title>
+<year>1999</year>
+<school>University of Paris-Sud, France</school>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/icassp/BereziatHY99" mdate="2017-05-19">
+<author>Dominique Béréziat</author>
+<author>Isabelle Herlin</author>
+<author>Laurent Younes</author>
+<title>Motion estimation using a volume conservation hypothesis.</title>
+<pages>3385-3388</pages>
+<year>1999</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/1999</crossref>
+<url>db/conf/icassp/icassp1999.html#BereziatHY99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/HuotHB98" mdate="2017-05-24">
+<author>Etienne G. Huot</author>
+<author>Isabelle Herlin</author>
+<author>Dominique Béréziat</author>
+<title>Segmentation of temporal effects on phasimetric SAR images.</title>
+<pages>1390-1392</pages>
+<year>1998</year>
+<booktitle>ICPR</booktitle>
+<crossref>conf/icpr/1998</crossref>
+<url>db/conf/icpr/icpr1998.html#HuotHB98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/HerlinBGNG94" mdate="2017-05-19">
+<author>Isabelle Herlin</author>
+<author>Dominique Béréziat</author>
+<author>Gérard Giraudon</author>
+<author>C. Nguyen</author>
+<author>Christine Graffigne</author>
+<title>Segmentation of echocardiographic images with Markov random fields.</title>
+<pages>201-206</pages>
+<year>1994</year>
+<crossref>conf/eccv/1994-2</crossref>
+<booktitle>ECCV (2)</booktitle>
+<url>db/conf/eccv/eccv1994-2.html#HerlinBGNG94</url>
+</inproceedings>
+</r>
+<coauthors n="21" nc="4">
+<co c="1"><na f="a/Abed:Abir_El">Abir El Abed</na></co>
+<co c="3"><na f="a/Avenel:Christophe">Christophe Avenel</na></co>
+<co c="0"><na f="b/Berroir:Jean=Paul">Jean-Paul Berroir</na></co>
+<co c="2"><na f="c/Chabrier:S=eacute=bastien">Sébastien Chabrier</na></co>
+<co c="1"><na f="d/Dubuisson:S=eacute=verine">Séverine Dubuisson</na></co>
+<co c="1"><na f="f/Fabrizio:Jonathan">Jonathan Fabrizio</na></co>
+<co c="3"><na f="f/Fortin:Pierre">Pierre Fortin</na></co>
+<co c="0"><na f="g/Giraudon:G=eacute=rard">Gérard Giraudon</na></co>
+<co c="0"><na f="g/Graffigne:Christine">Christine Graffigne</na></co>
+<co c="0"><na f="g/Grazzini:Jacopo">Jacopo Grazzini</na></co>
+<co c="0"><na f="h/Herlin:Isabelle">Isabelle Herlin</na></co>
+<co c="0"><na f="h/Huot:Etienne_G=">Etienne G. Huot</na></co>
+<co c="0"><na f="l/Lepoittevin:Yann">Yann Lepoittevin</na></co>
+<co c="0"><na f="m/Mercier:Nicolas">Nicolas Mercier</na></co>
+<co c="0"><na f="n/Nguyen:C=">C. Nguyen</na></co>
+<co c="1"><na f="r/Rekik:Wafa">Wafa Rekik</na></co>
+<co c="2"><na f="s/Stoll:Beno=icirc=t">Benoît Stoll</na></co>
+<co c="2"><na f="t/Teina:Raimana">Raimana Teina</na></co>
+<co c="0"><na f="y/Younes:Laurent">Laurent Younes</na></co>
+<co c="0"><na f="z/Zebiri:Aniss">Aniss Zebiri</na></co>
+<co c="0"><na f="z/Zhuk:Sergiy">Sergiy Zhuk</na></co>
+</coauthors>
+</dblpperson>
+

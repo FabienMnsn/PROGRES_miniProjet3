@@ -1,0 +1,414 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Christian Queinnec" n="35">
+<person key="homepages/q/CQueinnec" mdate="2016-03-03">
+<author>Christian Queinnec</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www-spi.lip6.fr/~queinnec/WWW/Queinnec.html</url>
+</person>
+<r><inproceedings key="conf/csedu/Queinnec14" mdate="2017-05-19">
+<author>Christian Queinnec</author>
+<title>MOOC and Mechanized Grading.</title>
+<pages>241-245</pages>
+<year>2014</year>
+<booktitle>CSEDU (2)</booktitle>
+<crossref>conf/csedu/2014-2</crossref>
+<url>db/conf/csedu/csedu2014-2.html#Queinnec14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/els/2013" mdate="2019-11-14">
+<editor>Christian Queinnec</editor>
+<editor>Manuel Serrano</editor>
+<title>Proceedings of ELS 2013 - 6th European Lisp Symposium, Madrid, Spain, June 3-4, 2013.</title>
+<booktitle>ELS</booktitle>
+<publisher>ELSAA</publisher>
+<year>2013</year>
+<url>db/conf/els/els2013.html</url>
+<ee type="oa">https://european-lisp-symposium.org/static/proceedings/2013.pdf</ee>
+</proceedings>
+</r>
+<r><article key="journals/lisp/SerranoQ10" mdate="2017-05-26">
+<author>Manuel Serrano</author>
+<author>Christian Queinnec</author>
+<title>A multi-tier semantics for Hop.</title>
+<pages>409-431</pages>
+<year>2010</year>
+<volume>23</volume>
+<journal>Higher-Order and Symbolic Computation</journal>
+<number>4</number>
+<url>db/journals/lisp/lisp23.html#SerranoQ10</url>
+</article>
+</r>
+<r><inproceedings key="conf/csedu/Christian10" mdate="2011-04-14">
+<author>Christian Queinnec</author>
+<title>An Infrastructure for Mechanised Grading.</title>
+<pages>37-45</pages>
+<year>2010</year>
+<booktitle>CSEDU (2)</booktitle>
+<crossref>conf/csedu/2010-2</crossref>
+<url>db/conf/csedu/csedu2010-2.html#Christian10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lfp/Queinnec07" mdate="2018-11-06">
+<author>Christian Queinnec</author>
+<title>Teaching CS to undergraduates at UPMC.</title>
+<pages>4</pages>
+<year>2007</year>
+<booktitle>ILC</booktitle>
+<crossref>conf/lfp/2007</crossref>
+<url>db/conf/lfp/ilc2007.html#Queinnec07</url>
+</inproceedings>
+</r>
+<r><article key="journals/toplas/MoreauQ05" mdate="2018-11-14">
+<author orcid="0000-0002-3494-120X">Luc Moreau 0001</author>
+<author>Christian Queinnec</author>
+<title>Resource aware programming.</title>
+<pages>441-476</pages>
+<year>2005</year>
+<volume>27</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>3</number>
+<url>db/journals/toplas/toplas27.html#MoreauQ05</url>
+</article>
+</r>
+<r><inproceedings key="conf/otm/HaikBQ05" mdate="2017-05-25">
+<author>Grégory Haïk</author>
+<author>Jean-Pierre Briot</author>
+<author>Christian Queinnec</author>
+<title>Automatic Introduction of Mobility for Standard-Based Frameworks.</title>
+<pages>813-827</pages>
+<year>2005</year>
+<crossref>conf/otm/2005-3</crossref>
+<booktitle>OTM Conferences (1)</booktitle>
+<url>db/conf/otm/otm2005-1c.html#HaikBQ05</url>
+</inproceedings>
+</r>
+<r><article key="journals/lisp/Queinnec04" mdate="2017-05-26">
+<author>Christian Queinnec</author>
+<title>Continuations and Web Servers.</title>
+<pages>277-295</pages>
+<year>2004</year>
+<volume>17</volume>
+<journal>Higher-Order and Symbolic Computation</journal>
+<number>4</number>
+<url>db/journals/lisp/lisp17.html#Queinnec04</url>
+</article>
+</r>
+<r><book key="books/daglib/0015649" mdate="2011-04-14">
+<author>Christian Queinnec</author>
+<title>Lisp in small pieces.</title>
+<pages>I-XX, 1-514</pages>
+<publisher>Cambridge University Press</publisher>
+<year>2003</year>
+<isbn>978-0-521-54566-2</isbn>
+</book>
+</r>
+<r><article key="journals/sigplan/Queinnec03" mdate="2018-11-06">
+<author>Christian Queinnec</author>
+<pages>57-64</pages>
+<year>2003</year>
+<volume>38</volume>
+<journal>SIGPLAN Notices</journal>
+<number>2</number>
+<url>db/journals/sigplan/sigplan38.html#Queinnec03</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifip3/BrygodDMQS02" mdate="2005-01-27">
+<author>Anne Brygoo</author>
+<author>Titou Durand</author>
+<author>Pascal Manoury</author>
+<author>Christian Queinnec</author>
+<author>Michèle Soria</author>
+<title>Experiment around a training engine.</title>
+<pages>45-52</pages>
+<year>2002</year>
+<crossref>conf/ifip3/2002</crossref>
+<booktitle>TelE-Learning</booktitle>
+<url>db/conf/ifip3/ifip3-2002.html#BrygodDMQS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aimsa/Queinnec00" mdate="2017-05-21">
+<author>Christian Queinnec</author>
+<title>Continuations and Conversations.</title>
+<pages>362-363</pages>
+<year>2000</year>
+<crossref>conf/aimsa/2000</crossref>
+<booktitle>AIMSA</booktitle>
+<url>db/conf/aimsa/aimsa2000.html#Queinnec00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfp/Queinnec00" mdate="2018-11-06">
+<author>Christian Queinnec</author>
+<title>The influence of browsers on evaluators or, continuations to program web servers.</title>
+<pages>23-33</pages>
+<year>2000</year>
+<crossref>conf/icfp/2000</crossref>
+<booktitle>ICFP</booktitle>
+<url>db/conf/icfp/icfp2000.html#Queinnec00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/Queinnec99" mdate="2017-05-24">
+<author>Christian Queinnec</author>
+<title>Marshaling/Demarshaling as a Compilation/Interpretation Process.</title>
+<pages>616-621</pages>
+<year>1999</year>
+<crossref>conf/ipps/1999</crossref>
+<booktitle>IPPS/SPDP</booktitle>
+<url>db/conf/ipps/ipps1999.html#Queinnec99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccl/MoreauQ98" mdate="2018-11-14">
+<author orcid="0000-0002-3494-120X">Luc Moreau 0001</author>
+<author>Christian Queinnec</author>
+<title>Distributed Computations Driven by Resource Consumption.</title>
+<pages>68-79</pages>
+<year>1998</year>
+<crossref>conf/iccl/1998</crossref>
+<booktitle>ICCL</booktitle>
+<url>db/conf/iccl/iccl1998.html#MoreauQ98</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icfp/1998" mdate="2013-11-19">
+<editor>Matthias Felleisen</editor>
+<editor>Paul Hudak</editor>
+<editor>Christian Queinnec</editor>
+<title>Proceedings of the third ACM SIGPLAN International Conference on Functional Programming (ICFP '98), Baltimore, Maryland, USA, September 27-29, 1998.</title>
+<booktitle>ICFP</booktitle>
+<isbn>1-58113-024-4</isbn>
+<publisher>ACM</publisher>
+<year>1998</year>
+<url>db/conf/icfp/icfp98.html</url>
+<note>SIGPLAN Notices 34(1), January 1999</note>
+</proceedings>
+</r>
+<r><article key="journals/ipl/Queinnec97" mdate="2017-05-26">
+<author>Christian Queinnec</author>
+<title>Fast and Compact Dispatching for Dynamic Object-Oriented Languages.</title>
+<pages>315-321</pages>
+<year>1997</year>
+<volume>64</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl64.html#Queinnec97</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsl/MoreauQ97" mdate="2018-10-19">
+<author>Luc Moreau 0001</author>
+<author>Christian Queinnec</author>
+<title>Design and Semantics of Quantum: A Language to Control Resource Consumption in Distributed Computing.</title>
+<year>1997</year>
+<crossref>conf/dsl/1997</crossref>
+<booktitle>DSL</booktitle>
+<url>db/conf/dsl/dsl1997.html#MoreauQ97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfp/QueinnecR96" mdate="2018-11-24">
+<author>Christian Queinnec</author>
+<author orcid="0000-0001-9074-3016">David De Roure</author>
+<title>Sharing Code through First-class Environments.</title>
+<pages>251-261</pages>
+<year>1996</year>
+<crossref>conf/icfp/1996</crossref>
+<booktitle>ICFP</booktitle>
+<url>db/conf/icfp/icfp96.html#QueinnecR96</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/psls/1995" mdate="2019-05-14">
+<editor>Takayasu Ito</editor>
+<editor>Robert H. Halstead Jr.</editor>
+<editor>Christian Queinnec</editor>
+<title>Parallel Symbolic Languages and Systems, International Workshop PSLS'95, Beaune, France, October 2-4, 1995, Proceedings</title>
+<booktitle>PSLS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1068</volume>
+<publisher>Springer</publisher>
+<year>1996</year>
+<isbn>3-540-61143-6</isbn>
+<url>db/conf/psls/psls1995.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/psls/Queinnec95" mdate="2017-05-22">
+<author>Christian Queinnec</author>
+<title>DMEROON, Overview of a Distributed Class-Based Causally-Coherent Data Model.</title>
+<pages>297-309</pages>
+<year>1995</year>
+<crossref>conf/psls/1995</crossref>
+<booktitle>PSLS</booktitle>
+<url>db/conf/psls/psls1995.html#Queinnec95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lfp/Queinnec94" mdate="2019-08-03">
+<author>Christian Queinnec</author>
+<title>Locality, Causality and Continuations.</title>
+<pages>91-102</pages>
+<year>1994</year>
+<crossref>conf/lfp/1994</crossref>
+<booktitle>LISP and Functional Programming</booktitle>
+<url>db/conf/lfp/lfp1994.html#Queinnec94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/plilp/MoreauQ94" mdate="2018-11-14">
+<author orcid="0000-0002-3494-120X">Luc Moreau 0001</author>
+<author>Christian Queinnec</author>
+<title>Partial Continuations as the Difference of Continuations - A Duumvirate of Control Operators.</title>
+<pages>182-197</pages>
+<year>1994</year>
+<crossref>conf/plilp/1994</crossref>
+<booktitle>PLILP</booktitle>
+<url>db/conf/plilp/plilp94.html#MoreauQ94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tppp/Queinnec94" mdate="2017-05-20">
+<author>Christian Queinnec</author>
+<title>Sharing Mutable Objects and Controlling Groups of Tasks in a Concurrent and Distributed Language.</title>
+<pages>70-93</pages>
+<year>1994</year>
+<crossref>conf/tppp/1994</crossref>
+<booktitle>Theory and Practice of Parallel Programming</booktitle>
+<url>db/conf/tppp/tppp1994.html#Queinnec94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parle/Queinnec92" mdate="2017-05-20">
+<author>Christian Queinnec</author>
+<title>A Concurrent and Distributed Extension of Scheme.</title>
+<pages>431-446</pages>
+<year>1992</year>
+<crossref>conf/parle/1992</crossref>
+<booktitle>PARLE</booktitle>
+<url>db/conf/parle/parle92.html#Queinnec92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/LangQP92" mdate="2018-11-06">
+<author>Bernard Lang</author>
+<author>Christian Queinnec</author>
+<author>José M. Piquer</author>
+<title>Garbage Collecting the World.</title>
+<pages>39-50</pages>
+<year>1992</year>
+<crossref>conf/popl/1992</crossref>
+<booktitle>POPL</booktitle>
+<url>db/conf/popl/popl92.html#LangQP92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/psc/QueinnecR92" mdate="2018-11-24">
+<author>Christian Queinnec</author>
+<author orcid="0000-0001-9074-3016">David De Roure</author>
+<title>Design of a Concurrent and Distributed Language.</title>
+<pages>234-259</pages>
+<year>1992</year>
+<crossref>conf/psc/1992</crossref>
+<booktitle>Parallel Symbolic Computing</booktitle>
+<url>db/conf/psc/psc1992.html#QueinnecR92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/Queinnec92" mdate="2015-09-02">
+<author>Christian Queinnec</author>
+<title>Value Transforming Style.</title>
+<pages>20-28</pages>
+<year>1992</year>
+<crossref>conf/sas/1992</crossref>
+<booktitle>WSA</booktitle>
+<url>db/conf/sas/wsa92.html#Queinnec92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/QueinnecG92" mdate="2015-09-02">
+<author>Christian Queinnec</author>
+<author>P. Geffroy</author>
+<title>Partial Evaluation applied to Symbolic Pattern Matching with Intelligent Backtrack.</title>
+<pages>109-117</pages>
+<year>1992</year>
+<crossref>conf/sas/1992</crossref>
+<booktitle>WSA</booktitle>
+<url>db/conf/sas/wsa92.html#QueinnecG92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/QueinnecS91" mdate="2018-11-06">
+<author>Christian Queinnec</author>
+<author>Bernard P. Serpette</author>
+<title>A Dynamic Extent Control Operator for Partial Continuations.</title>
+<pages>174-184</pages>
+<year>1991</year>
+<crossref>conf/popl/1991</crossref>
+<booktitle>POPL</booktitle>
+<url>db/conf/popl/popl91.html#QueinnecS91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/QueinnecP91" mdate="2015-09-02">
+<author>Christian Queinnec</author>
+<author>Julian A. Padget</author>
+<title>A Proposal for a Modular Lisp with Macros and Dynamic Evaluation.</title>
+<pages>1-8</pages>
+<year>1991</year>
+<crossref>conf/sas/1991</crossref>
+<booktitle>JTASPEFT/WSA</booktitle>
+<url>db/conf/sas/wsa91.html#QueinnecP91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/plilp/Queinnec90" mdate="2017-05-19">
+<author>Christian Queinnec</author>
+<title>Compilation of Non-Linear, Second Order Patterns on S-Expressions.</title>
+<pages>340-357</pages>
+<year>1990</year>
+<crossref>conf/plilp/1990</crossref>
+<booktitle>PLILP</booktitle>
+<url>db/conf/plilp/plilp90.html#Queinnec90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parle/QueinnecBQ89" mdate="2017-05-19">
+<author>Christian Queinnec</author>
+<author>Barbara Beaudoing</author>
+<author>Jean-Pierre Queille</author>
+<title>Mark DURING Sweep rather than Mark THEN Sweep.</title>
+<pages>224-237</pages>
+<year>1989</year>
+<crossref>conf/parle/1989-1</crossref>
+<booktitle>PARLE (1)</booktitle>
+<url>db/conf/parle/parle89-1.html#QueinnecBQ89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lfp/QueinnecC88" mdate="2019-08-03">
+<author>Christian Queinnec</author>
+<author>Pierre Cointe</author>
+<title>An Open-Ended Data Representation Model for EU_LISP.</title>
+<pages>298-308</pages>
+<year>1988</year>
+<crossref>conf/lfp/1988</crossref>
+<booktitle>LISP and Functional Programming</booktitle>
+<url>db/conf/lfp/lfp1988.html#QueinnecC88</url>
+</inproceedings>
+</r>
+<r><article key="journals/ita/Queinnec81" mdate="2019-05-24">
+<author>Christian Queinnec</author>
+<title>Une Formalisation des Systèmes Conversationnels.</title>
+<pages>303-336</pages>
+<year>1981</year>
+<volume>15</volume>
+<journal>ITA</journal>
+<number>4</number>
+<url>db/journals/ita/ita15.html#Queinnec81</url>
+</article>
+</r>
+<coauthors n="21" nc="5">
+<co c="3"><na f="b/Beaudoing:Barbara">Barbara Beaudoing</na></co>
+<co c="2"><na f="b/Briot:Jean=Pierre">Jean-Pierre Briot</na></co>
+<co c="0"><na f="b/Brygoo:Anne">Anne Brygoo</na></co>
+<co c="2"><na f="c/Cointe:Pierre">Pierre Cointe</na></co>
+<co c="0"><na f="d/Durand:Titou">Titou Durand</na></co>
+<co c="0"><na f="f/Felleisen:Matthias">Matthias Felleisen</na></co>
+<co c="-1"><na f="g/Geffroy:P=">P. Geffroy</na></co>
+<co c="2"><na f="h/Ha=iuml=k:Gr=eacute=gory">Grégory Haïk</na></co>
+<co c="1"><na f="h/Halstead_Jr=:Robert_H=">Robert H. Halstead Jr.</na></co>
+<co c="0"><na f="h/Hudak:Paul">Paul Hudak</na></co>
+<co c="1"><na f="i/Ito:Takayasu">Takayasu Ito</na></co>
+<co c="4"><na f="l/Lang:Bernard">Bernard Lang</na></co>
+<co c="0"><na f="m/Manoury:Pascal">Pascal Manoury</na></co>
+<co c="1"><na f="m/Moreau_0001:Luc">Luc Moreau 0001</na></co>
+<co c="1"><na f="p/Padget:Julian_A=">Julian A. Padget</na></co>
+<co c="4"><na f="p/Piquer:Jos=eacute=_M=">José M. Piquer</na></co>
+<co c="3"><na f="q/Queille:Jean=Pierre">Jean-Pierre Queille</na></co>
+<co c="1"><na f="r/Roure:David_De">David De Roure</na></co>
+<co c="0"><na f="s/Serpette:Bernard_P=">Bernard P. Serpette</na></co>
+<co c="0"><na f="s/Serrano:Manuel">Manuel Serrano</na></co>
+<co c="0"><na f="s/Soria:Mich=egrave=le">Michèle Soria</na></co>
+</coauthors>
+</dblpperson>
+

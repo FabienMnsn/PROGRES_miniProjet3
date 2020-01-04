@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Frédéric Peschanski" n="35">
+<person key="homepages/27/1050" mdate="2009-06-09">
+<author>Frédéric Peschanski</author>
+</person>
+<r><inproceedings key="conf/apn/BodiniDGP19" mdate="2019-06-11">
+<author>Olivier Bodini</author>
+<author>Matthieu Dien</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>The Combinatorics of Barrier Synchronization.</title>
+<pages>386-405</pages>
+<year>2019</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2019</crossref>
+<url>db/conf/apn/pn2019.html#BodiniDGP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfem/SallPC19" mdate="2019-10-28">
+<author>Boubacar Demba Sall</author>
+<author>Frédéric Peschanski</author>
+<author>Emmanuel Chailloux</author>
+<title>A Mechanized Theory of Program Refinement.</title>
+<pages>305-321</pages>
+<year>2019</year>
+<booktitle>ICFEM</booktitle>
+<crossref>conf/icfem/2019</crossref>
+<url>db/conf/icfem/icfem2019.html#SallPC19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-04243" mdate="2019-07-17">
+<author>Olivier Bodini</author>
+<author>Matthieu Dien</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>The Combinatorics of Barrier Synchronization.</title>
+<year>2019</year>
+<volume>abs/1907.04243</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.04243</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-04243</url>
+</article>
+</r>
+<r><article key="journals/cuza/BertrandPKL18" mdate="2018-09-25">
+<author>Clément Bertrand</author>
+<author>Frédéric Peschanski</author>
+<author>Hanna Klaudel</author>
+<author>Matthieu Latapy</author>
+<title>Pattern Matching in Link Streams: Timed-Automata with Finite Memory.</title>
+<pages>161-198</pages>
+<year>2018</year>
+<volume>28</volume>
+<journal>Sci. Ann. Comp. Sci.</journal>
+<number>2</number>
+<url>db/journals/cuza/cuza28.html#BertrandPKL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/BertrandKLP18" mdate="2018-05-29">
+<author>Clément Bertrand</author>
+<author>Hanna Klaudel</author>
+<author>Matthieu Latapy</author>
+<author>Frédéric Peschanski</author>
+<title>Pattern Matching in Link Streams: A Token-Based Approach.</title>
+<pages>227-247</pages>
+<year>2018</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2018</crossref>
+<url>db/conf/apn/pn2018.html#BertrandKLP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/analco/BodiniDGP17" mdate="2019-06-02">
+<author>Olivier Bodini</author>
+<author>Matthieu Dien</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>The Ordered and Colored Products in Analytic Combinatorics: Application to the Quantitative Study of Synchronizations in Concurrent Processes.</title>
+<pages>16-30</pages>
+<year>2017</year>
+<booktitle>ANALCO</booktitle>
+<crossref>conf/analco/2017</crossref>
+<url>db/conf/analco/analco2017.html#BodiniDGP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csr/BodiniDGP17" mdate="2017-05-22">
+<author>Olivier Bodini</author>
+<author>Matthieu Dien</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>Entropic Uniform Sampling of Linear Extensions in Series-Parallel Posets.</title>
+<pages>71-84</pages>
+<year>2017</year>
+<booktitle>CSR</booktitle>
+<crossref>conf/csr/2017</crossref>
+<url>db/conf/csr/csr2017.html#BodiniDGP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/els/Peschanski17" mdate="2019-11-13">
+<author>Frédéric Peschanski</author>
+<title>A Lisp Way to Type Theory and Formal Proofs.</title>
+<pages>20-27</pages>
+<year>2017</year>
+<booktitle>ELS</booktitle>
+<ee type="oa">https://european-lisp-symposium.org/static/proceedings/2017.pdf#section.0.3</ee>
+<crossref>conf/els/2017</crossref>
+<url>db/conf/els/els2017.html#Peschanski17</url>
+</inproceedings>
+</r>
+<r><article key="journals/combinatorics/BodiniGP16" mdate="2019-05-21">
+<author>Olivier Bodini</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>A Quantitative Study of Pure Parallel Processes.</title>
+<pages>P1.11</pages>
+<year>2016</year>
+<volume>23</volume>
+<journal>Electr. J. Comb.</journal>
+<number>1</number>
+<ee type="oa">http://www.combinatorics.org/ojs/index.php/eljc/article/view/v23i1p11</ee>
+<url>db/journals/combinatorics/combinatorics23.html#BodiniGP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/caldam/BodiniGPR15" mdate="2017-05-21">
+<author>Olivier Bodini</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<author>Nicolas Rolin</author>
+<title>Associativity for Binary Parallel Processes: A Quantitative Study.</title>
+<pages>217-228</pages>
+<year>2015</year>
+<booktitle>CALDAM</booktitle>
+<crossref>conf/caldam/2015</crossref>
+<url>db/conf/caldam/caldam2015.html#BodiniGPR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acsd/DeharbeP14" mdate="2017-05-25">
+<author>Aurelien Deharbe</author>
+<author>Frédéric Peschanski</author>
+<title>The Omniscient Garbage Collector: A Resource Analysis Framework.</title>
+<pages>102-111</pages>
+<year>2014</year>
+<booktitle>ACSD</booktitle>
+<crossref>conf/acsd/2014</crossref>
+<url>db/conf/acsd/acsd2014.html#DeharbeP14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BodiniGP14" mdate="2018-08-13">
+<author>Olivier Bodini</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>A Quantitative Study of Pure Parallel Processes.</title>
+<year>2014</year>
+<volume>abs/1407.1873</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.1873</ee>
+<url>db/journals/corr/corr1407.html#BodiniGP14</url>
+</article>
+</r>
+<r><article key="journals/fuin/PeschanskiKD13" mdate="2017-05-20">
+<author>Frédéric Peschanski</author>
+<author>Hanna Klaudel</author>
+<author>Raymond R. Devillers</author>
+<title>A Petri Net Interpretation of Open Reconfigurable Systems.</title>
+<pages>85-117</pages>
+<year>2013</year>
+<volume>122</volume>
+<journal>Fundam. Inform.</journal>
+<number>1-2</number>
+<url>db/journals/fuin/fuin122.html#PeschanskiKD13</url>
+</article>
+</r>
+<r><inproceedings key="conf/fsttcs/BodiniGP13" mdate="2018-08-23">
+<author>Olivier Bodini</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>The Combinatorics of Non-determinism.</title>
+<pages>425-436</pages>
+<year>2013</year>
+<booktitle>FSTTCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSTTCS.2013.425</ee>
+<crossref>conf/fsttcs/2013</crossref>
+<url>db/conf/fsttcs/fsttcs2013.html#BodiniGP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/PeschanskiKD11" mdate="2017-05-26">
+<author>Frédéric Peschanski</author>
+<author>Hanna Klaudel</author>
+<author>Raymond R. Devillers</author>
+<title>A Petri Net Interpretation of Open Reconfigurable Systems.</title>
+<pages>208-227</pages>
+<year>2011</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2011</crossref>
+<url>db/conf/apn/pn2011.html#PeschanskiKD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/Peschanski11" mdate="2018-11-06">
+<author>Frédéric Peschanski</author>
+<title>Parallel computing with the Pi-calculus.</title>
+<pages>45-54</pages>
+<year>2011</year>
+<booktitle>DAMP</booktitle>
+<crossref>conf/popl/2011damp</crossref>
+<url>db/conf/popl/damp2011.html#Peschanski11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1011-0220" mdate="2018-09-12">
+<author>Frédéric Peschanski</author>
+<author>Hanna Klaudel</author>
+<author>Raymond R. Devillers</author>
+<title>A Decidable Characterization of a Graphical Pi-calculus with Iterators</title>
+<booktitle>INFINITY</booktitle>
+<year>2010</year>
+<pages>47-61</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.39.4</ee>
+<ee type="oa">http://arxiv.org/abs/1011.0220</ee>
+<crossref>journals/corr/abs-1010-6112</crossref>
+<url>db/series/eptcs/eptcs39.html#abs-1011-0220</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sofsem/PeschanskiB09" mdate="2017-05-23">
+<author>Frédéric Peschanski</author>
+<author>Joël-Alexis Bialkiewicz</author>
+<title>Modelling and Verifying Mobile Systems Using pi-Graphs.</title>
+<pages>437-448</pages>
+<year>2009</year>
+<booktitle>SOFSEM</booktitle>
+<crossref>conf/sofsem/2009</crossref>
+<url>db/conf/sofsem/sofsem2009.html#PeschanskiB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wotug/BialkiewiczP09" mdate="2017-05-17">
+<author>Joël-Alexis Bialkiewicz</author>
+<author>Frédéric Peschanski</author>
+<title>A Denotational Study of Mobility.</title>
+<pages>239-261</pages>
+<year>2009</year>
+<booktitle>CPA</booktitle>
+<crossref>conf/wotug/2009</crossref>
+<url>db/conf/wotug/cpa2009.html#BialkiewiczP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hase/BelhaouariP08" mdate="2017-05-25">
+<author>Hakim Belhaouari</author>
+<author>Frédéric Peschanski</author>
+<title>Automated Generation of Test Cases from Contract-Oriented Specifications: A CSP-Based Approach.</title>
+<pages>219-228</pages>
+<year>2008</year>
+<booktitle>HASE</booktitle>
+<crossref>conf/hase/2008</crossref>
+<url>db/conf/hase/hase2008.html#BelhaouariP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclp/BelhaouariP08" mdate="2017-05-26">
+<author>Hakim Belhaouari</author>
+<author>Frédéric Peschanski</author>
+<title>A Constraint Logic Programming Approach to Automated Testing.</title>
+<pages>754-758</pages>
+<year>2008</year>
+<booktitle>ICLP</booktitle>
+<crossref>conf/iclp/2008</crossref>
+<url>db/conf/iclp/iclp2008.html#BelhaouariP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rv/BelhaouariP08" mdate="2017-05-17">
+<author>Hakim Belhaouari</author>
+<author>Frédéric Peschanski</author>
+<title>A Lightweight Container Architecture for Runtime Verification.</title>
+<pages>173-187</pages>
+<year>2008</year>
+<booktitle>RV</booktitle>
+<crossref>conf/rv/2008</crossref>
+<url>db/conf/rv/rv2008.html#BelhaouariP08</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/PeschanskiDGB07" mdate="2017-05-27">
+<author>Frédéric Peschanski</author>
+<author>Alexis Darrasse</author>
+<author>Nataliya Guts</author>
+<author>Jérémy Bobbio</author>
+<title>Coordinating mobile agents in interaction spaces.</title>
+<pages>246-265</pages>
+<year>2007</year>
+<volume>66</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>3</number>
+<url>db/journals/scp/scp66.html#PeschanskiDGB07</url>
+</article>
+</r>
+<r><article key="journals/Lobjet/BriotMP06" mdate="2018-11-30">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Thomas Meurisse</author>
+<author>Frédéric Peschanski</author>
+<title>Une expérience de conception et de composition de comportements d'agents à l'aide de composants.</title>
+<pages>11-41</pages>
+<year>2006</year>
+<volume>12</volume>
+<journal>L'OBJET</journal>
+<number>4</number>
+<url>db/journals/Lobjet/Lobjet12.html#BriotMP06</url>
+</article>
+</r>
+<r><article key="journals/entcs/Peschanski06" mdate="2017-05-28">
+<author>Frédéric Peschanski</author>
+<title>Mobile Agents in Interaction Spaces.</title>
+<pages>63-82</pages>
+<year>2006</year>
+<volume>154</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/entcs/entcs154.html#Peschanski06</url>
+</article>
+</r>
+<r><inproceedings key="conf/promas/BriotMP06" mdate="2018-11-02">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Thomas Meurisse</author>
+<author>Frédéric Peschanski</author>
+<title>Architectural Design of Component-Based Agents: A Behavior-Based Approach.</title>
+<pages>71-90</pages>
+<year>2006</year>
+<crossref>conf/promas/2006</crossref>
+<booktitle>PROMAS</booktitle>
+<url>db/conf/promas/promas2006.html#BriotMP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vee/PeschanskiH06" mdate="2018-11-06">
+<author>Frédéric Peschanski</author>
+<author>Samuel Hym</author>
+<title>A stackless runtime environment for a Pi-calculus.</title>
+<pages>57-67</pages>
+<year>2006</year>
+<crossref>conf/vee/2006</crossref>
+<booktitle>VEE</booktitle>
+<url>db/conf/vee/vee2006.html#PeschanskiH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/LenicaOPB06" mdate="2018-11-02">
+<author>A. Lenica</author>
+<author>Frederic Ogel</author>
+<author>Frédéric Peschanski</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>Toward Agent-Based Cooperative Resource Management in a Telecommunication Operator Grid Platform.</title>
+<pages>214-219</pages>
+<year>2006</year>
+<crossref>conf/wetice/2006</crossref>
+<booktitle>WETICE</booktitle>
+<url>db/conf/wetice/wetice2006.html#LenicaOPB06</url>
+</inproceedings>
+</r>
+<r><article key="journals/Lobjet/PeschanskiAB04" mdate="2018-11-30">
+<author>Frédéric Peschanski</author>
+<author>Reynald Affeldt</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>Les espaces d'interaction Vers une géométrie des systèmes d'agents mobiles.</title>
+<pages>31-45</pages>
+<year>2004</year>
+<volume>10</volume>
+<journal>L'OBJET</journal>
+<number>2-3</number>
+<url>db/journals/Lobjet/Lobjet10.html#PeschanskiAB04</url>
+</article>
+</r>
+<r><article key="journals/tsi/PeschanskiB04" mdate="2012-11-07">
+<author>Frédéric Peschanski</author>
+<author>Jean-Pierre Briot</author>
+<title>Adaptations dynamiques et orthogonales de composants logiciels distribués.</title>
+<pages>151-174</pages>
+<year>2004</year>
+<volume>23</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>2</number>
+<url>db/journals/tsi/tsi23.html#PeschanskiB04</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcsw/MasuyamaPOY04" mdate="2017-05-26">
+<author>Takashi Masuyama</author>
+<author>Frédéric Peschanski</author>
+<author>Yoshihiro Oyama</author>
+<author>Akinori Yonezawa</author>
+<title>MobileScope: A Programming Language with Objective Mobility.</title>
+<pages>542-547</pages>
+<year>2004</year>
+<crossref>conf/icdcsw/2004</crossref>
+<booktitle>ICDCS Workshops</booktitle>
+<url>db/conf/icdcsw/icdcsw2004.html#MasuyamaPOY04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/PeschanskiBY03" mdate="2018-11-02">
+<author>Frédéric Peschanski</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Akinori Yonezawa</author>
+<title>Fine-Grained Dynamic Adaptation of Distributed Components.</title>
+<pages>123-142</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003</crossref>
+<booktitle>Middleware</booktitle>
+<url>db/conf/middleware/middleware2003.html#PeschanskiBY03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/zum/PeschanskiJ03" mdate="2017-05-21">
+<author>Frédéric Peschanski</author>
+<author>Julien David</author>
+<title>When Concurrent Control Meets Functional Requirements, or Z + Petri-Nets.</title>
+<pages>79-97</pages>
+<year>2003</year>
+<crossref>conf/zum/2003</crossref>
+<booktitle>ZB</booktitle>
+<url>db/conf/zum/zb2003.html#PeschanskiJ03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcsw/Peschanski02" mdate="2017-05-26">
+<author>Frédéric Peschanski</author>
+<title>A Versatile Event-Based Communication Model for Generic Distributed Interactions.</title>
+<pages>503-510</pages>
+<year>2002</year>
+<crossref>conf/icdcsw/2002</crossref>
+<booktitle>ICDCS Workshops</booktitle>
+<url>db/conf/icdcsw/icdcsw2002.html#Peschanski02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lmo/Peschanski00" mdate="2007-04-23">
+<author>Frédéric Peschanski</author>
+<title>Architecture réflexive à base de composants pour la construction d'applications concurrentes et réparties.</title>
+<pages>11-26</pages>
+<year>2000</year>
+<crossref>conf/lmo/2000</crossref>
+<booktitle>LMO</booktitle>
+<url>db/conf/lmo/lmo2000.html#Peschanski00</url>
+</inproceedings>
+</r>
+<coauthors n="26" nc="4">
+<co c="1"><na f="a/Affeldt:Reynald">Reynald Affeldt</na></co>
+<co c="-1"><na f="b/Belhaouari:Hakim">Hakim Belhaouari</na></co>
+<co c="2"><na f="b/Bertrand:Cl=eacute=ment">Clément Bertrand</na></co>
+<co c="-1"><na f="b/Bialkiewicz:Jo=euml=l=Alexis">Joël-Alexis Bialkiewicz</na></co>
+<co c="0"><na f="b/Bobbio:J=eacute=r=eacute=my">Jérémy Bobbio</na></co>
+<co c="0"><na f="b/Bodini:Olivier">Olivier Bodini</na></co>
+<co c="1"><na f="b/Briot:Jean=Pierre">Jean-Pierre Briot</na></co>
+<co c="3"><na f="c/Chailloux:Emmanuel">Emmanuel Chailloux</na></co>
+<co c="0"><na f="d/Darrasse:Alexis">Alexis Darrasse</na></co>
+<co c="0"><na f="d/David:Julien">Julien David</na></co>
+<co c="-1"><na f="d/Deharbe:Aurelien">Aurelien Deharbe</na></co>
+<co c="2"><na f="d/Devillers:Raymond_R=">Raymond R. Devillers</na></co>
+<co c="0"><na f="d/Dien:Matthieu">Matthieu Dien</na></co>
+<co c="0"><na f="g/Genitrini:Antoine">Antoine Genitrini</na></co>
+<co c="0"><na f="g/Guts:Nataliya">Nataliya Guts</na></co>
+<co c="-1"><na f="h/Hym:Samuel">Samuel Hym</na></co>
+<co c="2"><na f="k/Klaudel:Hanna">Hanna Klaudel</na></co>
+<co c="2"><na f="l/Latapy:Matthieu">Matthieu Latapy</na></co>
+<co c="1"><na f="l/Lenica:A=">A. Lenica</na></co>
+<co c="1"><na f="m/Masuyama:Takashi">Takashi Masuyama</na></co>
+<co c="1"><na f="m/Meurisse:Thomas">Thomas Meurisse</na></co>
+<co c="1"><na f="o/Ogel:Frederic">Frederic Ogel</na></co>
+<co c="1"><na f="o/Oyama:Yoshihiro">Yoshihiro Oyama</na></co>
+<co c="0"><na f="r/Rolin:Nicolas">Nicolas Rolin</na></co>
+<co c="3"><na f="s/Sall:Boubacar_Demba">Boubacar Demba Sall</na></co>
+<co c="1"><na f="y/Yonezawa:Akinori">Akinori Yonezawa</na></co>
+</coauthors>
+</dblpperson>
+

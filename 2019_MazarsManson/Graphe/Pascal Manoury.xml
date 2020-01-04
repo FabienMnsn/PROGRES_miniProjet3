@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Pascal Manoury" n="7">
+<person key="homepages/18/2374" mdate="2009-06-09">
+<author>Pascal Manoury</author>
+</person>
+<r><inproceedings key="conf/jfla/SerpetteMC14" mdate="2017-06-26">
+<author>Bernard P. Serpette</author>
+<author>Pascal Manoury</author>
+<author>Emmanuel Chailloux</author>
+<title>Unification des couleurs dans un λ-calcul polychrome.</title>
+<pages>65-76</pages>
+<year>2014</year>
+<booktitle>JFLA</booktitle>
+<crossref>conf/jfla/2014</crossref>
+<url>db/conf/jfla/jfla2014.html#SerpetteMC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfp/HenryMCM12" mdate="2018-11-06">
+<author>Grégoire Henry</author>
+<author>Michel Mauny</author>
+<author>Emmanuel Chailloux</author>
+<author>Pascal Manoury</author>
+<title>Typing unmarshalling without marshalling types.</title>
+<pages>287-298</pages>
+<year>2012</year>
+<booktitle>ICFP</booktitle>
+<crossref>conf/icfp/2012</crossref>
+<url>db/conf/icfp/icfp2012.html#HenryMCM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfp/PaganoAMCCWMC09" mdate="2018-11-06">
+<author>Bruno Pagano</author>
+<author>Olivier Andrieu</author>
+<author>Thomas Moniot</author>
+<author>Benjamin Canou</author>
+<author>Emmanuel Chailloux</author>
+<author>Philippe Wang</author>
+<author>Pascal Manoury</author>
+<author>Jean-Louis Colaço</author>
+<title>Experience report: using objective caml to develop safety-critical embedded tools in a certification framework.</title>
+<pages>215-220</pages>
+<year>2009</year>
+<booktitle>ICFP</booktitle>
+<crossref>conf/icfp/2009</crossref>
+<url>db/conf/icfp/icfp2009.html#PaganoAMCCWMC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip3/BrygodDMQS02" mdate="2005-01-27">
+<author>Anne Brygoo</author>
+<author>Titou Durand</author>
+<author>Pascal Manoury</author>
+<author>Christian Queinnec</author>
+<author>Michèle Soria</author>
+<title>Experiment around a training engine.</title>
+<pages>45-52</pages>
+<year>2002</year>
+<crossref>conf/ifip3/2002</crossref>
+<booktitle>TelE-Learning</booktitle>
+<url>db/conf/ifip3/ifip3-2002.html#BrygodDMQS02</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/ManouryS94" mdate="2017-05-28">
+<author>Pascal Manoury</author>
+<author>Marianne Simonot</author>
+<title>Automatizing Termination Proofs of Recursively Defined Functions.</title>
+<pages>319-343</pages>
+<year>1994</year>
+<volume>135</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>2</number>
+<url>db/journals/tcs/tcs135.html#ManouryS94</url>
+</article>
+</r>
+<r><inproceedings key="conf/types/Manoury94" mdate="2017-05-20">
+<author>Pascal Manoury</author>
+<title>A User's Friendly Syntax to Define Recursive Functions as Typed lambda-Terms.</title>
+<pages>83-100</pages>
+<year>1994</year>
+<crossref>conf/types/1994</crossref>
+<booktitle>TYPES</booktitle>
+<url>db/conf/types/types94.html#Manoury94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lpar/ManouryPS92" mdate="2017-05-20">
+<author>Pascal Manoury</author>
+<author>Michel Parigot</author>
+<author>Marianne Simonot</author>
+<title>ProPre A Programming Language with Proofs.</title>
+<pages>484-486</pages>
+<year>1992</year>
+<crossref>conf/lpar/1992</crossref>
+<booktitle>LPAR</booktitle>
+<url>db/conf/lpar/lpar92.html#ManouryPS92</url>
+</inproceedings>
+</r>
+<coauthors n="16" nc="2">
+<co c="0"><na f="a/Andrieu:Olivier">Olivier Andrieu</na></co>
+<co c="0"><na f="b/Brygoo:Anne">Anne Brygoo</na></co>
+<co c="0"><na f="c/Canou:Benjamin">Benjamin Canou</na></co>
+<co c="0"><na f="c/Chailloux:Emmanuel">Emmanuel Chailloux</na></co>
+<co c="0"><na f="c/Cola=ccedil=o:Jean=Louis">Jean-Louis Colaço</na></co>
+<co c="0"><na f="d/Durand:Titou">Titou Durand</na></co>
+<co c="0"><na f="h/Henry:Gr=eacute=goire">Grégoire Henry</na></co>
+<co c="0"><na f="m/Mauny:Michel">Michel Mauny</na></co>
+<co c="0"><na f="m/Moniot:Thomas">Thomas Moniot</na></co>
+<co c="0"><na f="p/Pagano:Bruno">Bruno Pagano</na></co>
+<co c="1"><na f="p/Parigot:Michel">Michel Parigot</na></co>
+<co c="0"><na f="q/Queinnec:Christian">Christian Queinnec</na></co>
+<co c="0"><na f="s/Serpette:Bernard_P=">Bernard P. Serpette</na></co>
+<co c="1"><na f="s/Simonot:Marianne">Marianne Simonot</na></co>
+<co c="0"><na f="s/Soria:Mich=egrave=le">Michèle Soria</na></co>
+<co c="0"><na f="w/Wang:Philippe">Philippe Wang</na></co>
+</coauthors>
+</dblpperson>
+

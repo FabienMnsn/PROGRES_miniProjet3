@@ -1,0 +1,1060 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Bertrand Granado" n="64">
+<person key="homepages/45/4048" mdate="2017-05-24">
+<author>Bertrand Granado</author>
+<url>http://bertrand.granado.free.fr/Site_de_Bertrand_Granado/</url>
+</person>
+<r><inproceedings key="conf/biocas/ChuquimiaPDG19" mdate="2019-12-16">
+<author>Orlando Chuquimia</author>
+<author>Andréa Pinna</author>
+<author>Xavier Dray</author>
+<author>Bertrand Granado</author>
+<title>Polyp follow-Up in an Intelligent Wireless Capsule Endoscopy.</title>
+<pages>1-4</pages>
+<year>2019</year>
+<booktitle>BioCAS</booktitle>
+<crossref>conf/biocas/2019</crossref>
+<url>db/conf/biocas/biocas2019.html#ChuquimiaPDG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/biocas/ChuquimiaPDG19a" mdate="2019-12-17">
+<author>Orlando Chuquimia</author>
+<author>Andréa Pinna</author>
+<author>Xavier Dray</author>
+<author>Bertrand Granado</author>
+<title>A Real Time Hough Transform Architecture Useable inside a WCE.</title>
+<pages>1-4</pages>
+<year>2019</year>
+<booktitle>BioCAS</booktitle>
+<crossref>conf/biocas/2019</crossref>
+<url>db/conf/biocas/biocas2019.html#ChuquimiaPDG19a</url>
+</inproceedings>
+</r>
+<r><article key="journals/jpdc/WassiIRGT18" mdate="2019-09-25">
+<author>Guy Wassi</author>
+<author>Sylvain Iloga</author>
+<author>Olivier Romain</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<author>Maurice Tchuente</author>
+<title>FPGA-based simultaneous multichannel audio processor for musical genre indexing applications in broadcast band.</title>
+<pages>146-161</pages>
+<year>2018</year>
+<volume>119</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<url>db/journals/jpdc/jpdc119.html#WassiIRGT18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasip/OrlandoPCDG18" mdate="2019-12-16">
+<author>Orlando Chuquimia</author>
+<author>Andréa Pinna</author>
+<author>Marsala Christophel</author>
+<author>Xavier Dray</author>
+<author>Bertrand Granado</author>
+<title>FPGA-Based Real Time Embedded Hough Transform Architecture for Circles Detection.</title>
+<pages>31-36</pages>
+<year>2018</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2018</crossref>
+<url>db/conf/dasip/dasip2018.html#OrlandoPCDG18</url>
+</inproceedings>
+</r>
+<r><article key="journals/tmm/AkbariTG17" mdate="2017-05-24">
+<author>Ali Akbari</author>
+<author>Maria Trocan</author>
+<author>Bertrand Granado</author>
+<title>Sparse Recovery-Based Error Concealment.</title>
+<pages>1339-1350</pages>
+<year>2017</year>
+<volume>19</volume>
+<journal>IEEE Trans. Multimedia</journal>
+<number>6</number>
+<url>db/journals/tmm/tmm19.html#AkbariTG17</url>
+</article>
+</r>
+<r><inproceedings key="conf/bhi/OrlandoPDG17" mdate="2019-12-16">
+<author>Orlando Chuquimia</author>
+<author>Andréa Pinna</author>
+<author>Xavier Dray</author>
+<author>Bertrand Granado</author>
+<title>Polyps recognition using fuzzy trees.</title>
+<pages>9-12</pages>
+<year>2017</year>
+<booktitle>BHI</booktitle>
+<crossref>conf/bhi/2017</crossref>
+<url>db/conf/bhi/bhi2017.html#OrlandoPDG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globalsip/AkbariTG17" mdate="2018-03-13">
+<author>Ali Akbari</author>
+<author>Maria Trocan</author>
+<author>Bertrand Granado</author>
+<title>Image error concealment based on joint sparse representation and non-local similarity.</title>
+<pages>6-10</pages>
+<year>2017</year>
+<booktitle>GlobalSIP</booktitle>
+<crossref>conf/globalsip/2017</crossref>
+<url>db/conf/globalsip/globalsip2017.html#AkbariTG17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AlouiADPRGG17" mdate="2018-08-13">
+<author>Zied Aloui</author>
+<author>Nawfal Ahamada</author>
+<author>Julien Denoulet</author>
+<author>Francine Pierre</author>
+<author>Martin Rayrole</author>
+<author>Marc Gatti</author>
+<author>Bertrand Granado</author>
+<title>Embedded real-time monitoring using SystemC in IMA network.</title>
+<year>2017</year>
+<volume>abs/1702.06805</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.06805</ee>
+<url>db/journals/corr/corr1702.html#AlouiADPRGG17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icmcs/AkbariMTG16" mdate="2017-05-25">
+<author>Ali Akbari</author>
+<author>D. Mandache</author>
+<author>Maria Trocan</author>
+<author>Bertrand Granado</author>
+<title>Adaptive saliency-based compressive sensing image reconstruction.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>ICME Workshops</booktitle>
+<crossref>conf/icmcs/2016w</crossref>
+<url>db/conf/icmcs/icmew2016.html#AkbariMTG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmsp/AkbariTG16" mdate="2017-05-24">
+<author>Ali Akbari</author>
+<author>Maria Trocan</author>
+<author>Bertrand Granado</author>
+<title>Image compression using adaptive sparse representations over trained dictionaries.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>MMSP</booktitle>
+<crossref>conf/mmsp/2016</crossref>
+<url>db/conf/mmsp/mmsp2016.html#AkbariTG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pcs/AkbariTG16" mdate="2017-05-24">
+<author>Ali Akbari</author>
+<author>Maria Trocan</author>
+<author>Bertrand Granado</author>
+<title>Image error concealment using sparse representations over a trained dictionary.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>PCS</booktitle>
+<crossref>conf/pcs/2016</crossref>
+<url>db/conf/pcs/pcs2016.html#AkbariTG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jetc/RodriguezMG15" mdate="2019-10-23">
+<author>Laurent Rodriguez</author>
+<author>Benoît Miramond</author>
+<author>Bertrand Granado</author>
+<title>Toward a Sparse Self-Organizing Map for Neuromorphic Architectures.</title>
+<pages>33:1-33:25</pages>
+<year>2015</year>
+<volume>11</volume>
+<journal>JETC</journal>
+<number>4</number>
+<url>db/journals/jetc/jetc11.html#RodriguezMG15</url>
+</article>
+</r>
+<r><article key="journals/trets/BaiAG15" mdate="2018-11-06">
+<author>Yuhui Bai</author>
+<author>Syed Zahid Ahmed</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<title>ARC 2014: Towards a Fast FPGA Implementation of a Heap-Based Priority Queue for Image Coding Using a Parallel Index-Aware Tree.</title>
+<pages>8:1-8:16</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>TRETS</journal>
+<number>1</number>
+<url>db/journals/trets/trets9.html#BaiAG15</url>
+</article>
+</r>
+<r><article key="journals/tsi/BriereDPGP15" mdate="2017-06-09">
+<author>Alexandre Briere</author>
+<author>Julien Denoulet</author>
+<author>Andréa Pinna</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<author>François Pêcheux</author>
+<title>Un réseau sur puce RF reconfigurable dynamiquement pour les many-curs.</title>
+<pages>11-29</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>1-2</number>
+<url>db/journals/tsi/tsi34.html#BriereDPGP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/biocas/LewisLRMBLKCPHB15" mdate="2019-11-22">
+<author>Noëlle Lewis</author>
+<author>Cyril Lahuec</author>
+<author>Sylvie Renaud</author>
+<author>Eric McAdams</author>
+<author orcid="0000-0002-5364-231X">Paco Bogónez-Franco</author>
+<author>C. Lethias</author>
+<author>S. Kellouche</author>
+<author>Franck Carreiras</author>
+<author>Andréa Pinna</author>
+<author>Aymeric Histace</author>
+<author orcid="0000-0002-2148-7108">Michel Boissière</author>
+<author>Emmanuel Pauthe</author>
+<author>I. Lagroye</author>
+<author>Fabien Soulier</author>
+<author orcid="0000-0003-1772-0592">Serge Bernard</author>
+<author>S. Binczak</author>
+<author>Bertrand Granado</author>
+<author>Patrick Garda</author>
+<author>Mehdi Terosiet</author>
+<author>A. Goguin</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<title>Relevance of impedance spectroscopy for the monitoring of implant-induced fibrosis: A preliminary study.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>BioCAS</booktitle>
+<crossref>conf/biocas/2015</crossref>
+<url>db/conf/biocas/biocas2015.html#LewisLRMBLKCPHB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/WassiIRG15" mdate="2018-11-02">
+<author>Guy Wassi</author>
+<author>Sylvain Iloga</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Bertrand Granado</author>
+<title>FPGA-based real-time MFCC extraction for automatic audio indexing on FM broadcast data.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2015</crossref>
+<url>db/conf/dasip/dasip2015.html#WassiIRG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/BriereDPGPULM15" mdate="2018-11-06">
+<author>Alexandre Briere</author>
+<author>Julien Denoulet</author>
+<author>Andréa Pinna</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<author>François Pêcheux</author>
+<author>Eren Unlu</author>
+<author>Yves Louët</author>
+<author orcid="0000-0001-9639-1648">Christophe Moy</author>
+<title>A Dynamically Reconfigurable RF NoC for Many-Core.</title>
+<pages>139-144</pages>
+<year>2015</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<crossref>conf/glvlsi/2015</crossref>
+<url>db/conf/glvlsi/glvlsi2015.html#BriereDPGPULM15</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/15/AngermannHRDPG15" mdate="2019-05-29">
+<author>Quentin Angermann</author>
+<author>Aymeric Histace</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Xavier Dray</author>
+<author>Andréa Pinna</author>
+<author>Bertrand Granado</author>
+<title>Smart Videocapsule for Early Diagnosis of Colorectal Cancer: Toward Embedded Image Analysis.</title>
+<pages>325-350</pages>
+<year>2015</year>
+<booktitle>Computational Intelligence in Digital and Network Designs and Applications</booktitle>
+<crossref>books/sp/2015FTS</crossref>
+<url>db/books/collections/FTS2015.html#AngermannHRDPG15</url>
+</incollection>
+</r>
+<r><article key="journals/cars/SilvaHRDG14" mdate="2019-07-11">
+<author>Juan Silva</author>
+<author>Aymeric Histace</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Xavier Dray</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<title>Toward embedded detection of polyps in WCE images for early diagnosis of colorectal cancer.</title>
+<pages>283-293</pages>
+<year>2014</year>
+<volume>9</volume>
+<journal>Int. J. Comput. Assist. Radiol. Surg.</journal>
+<number>2</number>
+<url>db/journals/cars/cars9.html#SilvaHRDG14</url>
+</article>
+</r>
+<r><article key="journals/ijbi/MeziouHPRDGM14" mdate="2018-11-14">
+<author>Leila Meziou</author>
+<author>Aymeric Histace</author>
+<author>Frédéric Precioso</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Xavier Dray</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<author>Bogdan J. Matuszewski</author>
+<title>Computer-Assisted Segmentation of Videocapsule Images Using Alpha-Divergence-Based Active Contour in the Framework of Intestinal Pathologies Detection.</title>
+<year>2014</year>
+<volume>2014</volume>
+<journal>Int. J. Biomedical Imaging</journal>
+<ee type="oa">https://doi.org/10.1155/2014/428583</ee>
+<url>db/journals/ijbi/ijbi2014.html#MeziouHPRDGM14</url>
+<pages>428583:1-428583:10</pages>
+</article>
+</r>
+<r><inproceedings key="conf/arc/BaiAG14" mdate="2017-05-26">
+<author>Yuhui Bai</author>
+<author>Syed Zahid Ahmed</author>
+<author>Bertrand Granado</author>
+<title>Accelerating Heap-Based Priority Queue in Image Coding Application Using Parallel Index-Aware Tree Access.</title>
+<pages>37-48</pages>
+<year>2014</year>
+<booktitle>ARC</booktitle>
+<crossref>conf/arc/2014</crossref>
+<url>db/conf/arc/arc2014.html#BaiAG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/DrilletHZBUALBDPGGPDQMMR14" mdate="2019-02-07">
+<author>Frederic Drillet</author>
+<author>Mohamad Hamieh</author>
+<author>Lounis Zerioul</author>
+<author>Alexandre Briere</author>
+<author>Eren Unlu</author>
+<author>Myriam Ariaudo</author>
+<author>Yves Louët</author>
+<author>Emmanuelle Bourdel</author>
+<author>Julien Denoulet</author>
+<author>Andréa Pinna</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<author>Patrick Garda</author>
+<author>François Pêcheux</author>
+<author>Cedric Duperrier</author>
+<author>Sébastien Quintanel</author>
+<author>Philippe Meunier</author>
+<author orcid="0000-0001-9639-1648">Christophe Moy</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<title>Flexible Radio Interface for NoC RF-Interconnect.</title>
+<pages>36-41</pages>
+<year>2014</year>
+<booktitle>DSD</booktitle>
+<crossref>conf/dsd/2014</crossref>
+<url>db/conf/dsd/dsd2014.html#DrilletHZBUALBDPGGPDQMMR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/BaiAG14" mdate="2017-05-21">
+<author>Yuhui Bai</author>
+<author>Syed Zahid Ahmed</author>
+<author>Bertrand Granado</author>
+<title>Fast and Power Efficient Heapsort IP for Image Compression Application.</title>
+<pages>237</pages>
+<year>2014</year>
+<booktitle>FCCM</booktitle>
+<crossref>conf/fccm/2014</crossref>
+<url>db/conf/fccm/fccm2014.html#BaiAG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/EwoPGMF14" mdate="2017-05-21">
+<author>Roland Christian Gamom Ngounou Ewo</author>
+<author>Andréa Pinna</author>
+<author>Bertrand Granado</author>
+<author>Martin Mbouenda</author>
+<author>Hilaire Bertrand Fotsin</author>
+<title>A Hardware MPI Spawn for Distributed Multiprocessing Reconfigurable System on Chip (MP-RSoC).</title>
+<pages>238</pages>
+<year>2014</year>
+<booktitle>FCCM</booktitle>
+<crossref>conf/fccm/2014</crossref>
+<url>db/conf/fccm/fccm2014.html#EwoPGMF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/BaiAG14" mdate="2018-11-06">
+<author>Yuhui Bai</author>
+<author>Syed Zahid Ahmed</author>
+<author>Bertrand Granado</author>
+<title>A power-efficient adaptive heapsort for fpga-based image coding application (abstract only).</title>
+<pages>247</pages>
+<year>2014</year>
+<booktitle>FPGA</booktitle>
+<crossref>conf/fpga/2014</crossref>
+<url>db/conf/fpga/fpga2014.html#BaiAG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idt/SahraouiFBG14" mdate="2017-05-24">
+<author>Fouad Sahraoui</author>
+<author>Ghaffari Fakhreddine</author>
+<author>Mohamed El Amine Benkhelifa</author>
+<author>Bertrand Granado</author>
+<title>Reliability assessment of backward error recovery for SRAM-based FPGAs.</title>
+<pages>248-252</pages>
+<year>2014</year>
+<booktitle>IDT</booktitle>
+<crossref>conf/idt/2014</crossref>
+<url>db/conf/idt/idt2014.html#SahraouiFBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nocs/UnluHMALDBZDPGPDQRB14" mdate="2018-11-02">
+<author>Eren Unlu</author>
+<author>Mohamad Hamieh</author>
+<author orcid="0000-0001-9639-1648">Christophe Moy</author>
+<author>Myriam Ariaudo</author>
+<author>Yves Louët</author>
+<author>Frederic Drillet</author>
+<author>Alexandre Briere</author>
+<author>Lounis Zerioul</author>
+<author>Julien Denoulet</author>
+<author>Andréa Pinna</author>
+<author>Bertrand Granado</author>
+<author>François Pêcheux</author>
+<author>Cedric Duperrier</author>
+<author>Sébastien Quintanel</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Emmanuelle Bourdel</author>
+<title>An OFDMA based RF interconnect for massive multi-core processors.</title>
+<pages>182-183</pages>
+<year>2014</year>
+<booktitle>NOCS</booktitle>
+<crossref>conf/nocs/2014</crossref>
+<url>db/conf/nocs/nocs2014.html#UnluHMALDBZDPGPDQRB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/SahraouiFBG14" mdate="2017-05-21">
+<author>Fouad Sahraoui</author>
+<author>Ghaffari Fakhreddine</author>
+<author>Mohamed El Amine Benkhelifa</author>
+<author>Bertrand Granado</author>
+<title>Context-aware resources placement for SRAM-based FPGA to minimize checkpoint/recovery overhead.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2014</crossref>
+<url>db/conf/reconfig/reconfig2014.html#SahraouiFBG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmheur/YassaSCKJG13" mdate="2017-06-15">
+<author>Sonia Yassa</author>
+<author orcid="0000-0003-0508-8550">Jérémie Sublime</author>
+<author>Rachid Chelouah</author>
+<author>Hubert Kadima</author>
+<author>GeunSik Jo</author>
+<author>Bertrand Granado</author>
+<title>A genetic algorithm for multi-objective optimisation in workflow scheduling with hard constraints.</title>
+<pages>415-433</pages>
+<year>2013</year>
+<volume>2</volume>
+<journal>IJMHeur</journal>
+<number>4</number>
+<url>db/journals/ijmheur/ijmheur2.html#YassaSCKJG13</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibe/RomainHSAGPDM13" mdate="2018-11-30">
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Aymeric Histace</author>
+<author>Juan Silva</author>
+<author>Jade Ayoub</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<author>Andréa Pinna</author>
+<author>Xavier Dray</author>
+<author orcid="0000-0002-7621-6719">Philippe Marteau</author>
+<title>Towards a multimodal wireless video capsule for detection of colonic polyps as prevention of colorectal cancer.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>BIBE</booktitle>
+<crossref>conf/bibe/2013</crossref>
+<url>db/conf/bibe/bibe2013.html#RomainHSAGPDM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/Granado13" mdate="2017-04-30">
+<author>Bertrand Granado</author>
+<title>Session 1: Vision and image processing architectures.</title>
+<pages>13</pages>
+<year>2013</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2013</crossref>
+<url>db/conf/dasip/dasip2013.html#Granado13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/BaiAG13" mdate="2017-04-30">
+<author>Yuhui Bai</author>
+<author>Syed Zahid Ahmed</author>
+<author>Bertrand Granado</author>
+<title>Design and analysis of an FPGA based encoder SoC for locally stationary image source.</title>
+<pages>271-278</pages>
+<year>2013</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2013</crossref>
+<url>db/conf/dasip/dasip2013.html#BaiAG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/embc/SilvaHRDGP13" mdate="2018-11-14">
+<author>J. Silva</author>
+<author>Aymeric Histace</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Xavier Dray</author>
+<author orcid="0000-0002-9667-9737">Bertrand Granado</author>
+<author>Andréa Pinna</author>
+<title>Towards real-time in situ polyp detection in WCE images using a boosting-based approach.</title>
+<pages>5711-5714</pages>
+<year>2013</year>
+<booktitle>EMBC</booktitle>
+<crossref>conf/embc/2013</crossref>
+<url>db/conf/embc/embc2013.html#SilvaHRDGP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/BaiAG13" mdate="2017-05-21">
+<author>Yuhui Bai</author>
+<author>Syed Zahid Ahmed</author>
+<author>Bertrand Granado</author>
+<title>FPGA implementation of Hierarchical Enumerative Coding for locally stationary image source.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>FPL</booktitle>
+<crossref>conf/fpl/2013</crossref>
+<url>db/conf/fpl/fpl2013.html#BaiAG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idt/SahraouiGBG13" mdate="2017-05-24">
+<author>Fouad Sahraoui</author>
+<author>Fakhreddine Ghaffari</author>
+<author>Mohamed El Amine Benkhelifa</author>
+<author>Bertrand Granado</author>
+<title>An efficient BER-based reliability method for SRAM-based FPGA.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>IDT</booktitle>
+<crossref>conf/idt/2013</crossref>
+<url>db/conf/idt/idt2013.html#SahraouiGBG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/EwoKMFG13" mdate="2017-05-24">
+<author>Roland Christian Gamom Ngounou Ewo</author>
+<author>Emmanuel Kiegaing</author>
+<author>Martin Mbouenda</author>
+<author>Hilaire Bertrand Fotsin</author>
+<author>Bertrand Granado</author>
+<title>Hardware MPI-2 Functions for Multi-Processing Reconfigurable System on Chip.</title>
+<pages>273-280</pages>
+<year>2013</year>
+<booktitle>IPDPS Workshops</booktitle>
+<crossref>conf/ipps/2013w</crossref>
+<url>db/conf/ipps/ipdps2013w.html#EwoKMFG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/BaiAMHCGG13" mdate="2017-05-24">
+<author>Yuhui Bai</author>
+<author>Syed Zahid Ahmed</author>
+<author>Imen Mhedhbi</author>
+<author>Khalil Hachicha</author>
+<author>Cedric Champion</author>
+<author>Patrick Garda</author>
+<author>Bertrand Granado</author>
+<title>FPGA vs DSP: A throughput and power efficiency comparison for Hierarchical Enumerative Coding.</title>
+<pages>318-321</pages>
+<year>2013</year>
+<booktitle>VLSI-SoC</booktitle>
+<crossref>conf/vlsi/2013soc</crossref>
+<url>db/conf/vlsi/vlsisoc2013.html#BaiAMHCGG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/TietcheRDBDGWKCPBHV12" mdate="2017-04-30">
+<author>Brunel Happi Tietche</author>
+<author>Olivier Romain</author>
+<author>Bruce Denby</author>
+<author>Laurent Benaroya</author>
+<author>Francois de Dieuleveult</author>
+<author>Bertrand Granado</author>
+<author>Guy Wassi</author>
+<author>Houssemeddine Khemiri</author>
+<author>Gérard Chollet</author>
+<author>Dijana Petrovska</author>
+<author>Raphaël Blouet</author>
+<author>Khalil Hachicha</author>
+<author>Sylvain Viateur</author>
+<title>Prototype of a radio-on-demand broadcast receiver with real time musical genre classification.</title>
+<pages>1-2</pages>
+<year>2012</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2012</crossref>
+<url>db/conf/dasip/dasip2012.html#TietcheRDBDGWKCPBHV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/RodriguezMKG12" mdate="2019-10-23">
+<author>Laurent Rodriguez</author>
+<author>Benoît Miramond</author>
+<author>Imen Kalbousi</author>
+<author>Bertrand Granado</author>
+<title>Embodied Computing: Self-adaptation in Bio-inspired Reconfigurable Architectures.</title>
+<pages>413-418</pages>
+<year>2012</year>
+<booktitle>IPDPS Workshops</booktitle>
+<crossref>conf/ipps/2012w</crossref>
+<url>db/conf/ipps/ipdps2012w.html#RodriguezMKG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobihealth/MhedhbiHGBGTH12" mdate="2017-05-19">
+<author>Imen Mhedhbi</author>
+<author>Khalil Hachicha</author>
+<author>Patrick Garda</author>
+<author>Yuhui Bai</author>
+<author>Bertrand Granado</author>
+<author>Sébastien Topin</author>
+<author>Sylvain Hochberg</author>
+<title>Towards a Mobile Implementation of Waaves for Certified Medical Image Compression in E-Health Applications.</title>
+<pages>79-87</pages>
+<year>2012</year>
+<booktitle>MobiHealth</booktitle>
+<crossref>conf/mobihealth/2012</crossref>
+<url>db/conf/mobihealth/mobihealth2012.html#MhedhbiHGBGTH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobihealth/GardaRHGPD12" mdate="2018-11-02">
+<author>Patrick Garda</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Aymeric Histace</author>
+<author>Bertrand Granado</author>
+<author>Andréa Pinna</author>
+<author>Xavier Dray</author>
+<title>Endocom and Cyclope - Two Smart Biomedical Sensors for Cardio-Vascular Surgery and Gastro-Enterology.</title>
+<pages>286-294</pages>
+<year>2012</year>
+<booktitle>MobiHealth</booktitle>
+<crossref>conf/mobihealth/2012</crossref>
+<url>db/conf/mobihealth/mobihealth2012.html#GardaRHGPD12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijrc/KtataFGA11" mdate="2018-11-24">
+<author orcid="0000-0003-3364-6783">Ismail Ktata</author>
+<author>Ghaffari Fakhreddine</author>
+<author>Bertrand Granado</author>
+<author>Mohamed Abid</author>
+<title>Dynamic Application Model for Scheduling with Uncertainty on Reconfigurable Architectures.</title>
+<year>2011</year>
+<volume>2011</volume>
+<journal>Int. J. Reconfig. Comp.</journal>
+<ee type="oa">https://doi.org/10.1155/2011/156946</ee>
+<url>db/journals/ijrc/ijrc2011.html#KtataFGA11</url>
+<pages>156946:1-156946:15</pages>
+</article>
+</r>
+<r><inproceedings key="conf/dasip/GarciaG11" mdate="2017-05-21">
+<author>Samuel Garcia</author>
+<author>Bertrand Granado</author>
+<title>Task model and online operating system API for hardware tasks in OLLAF platform.</title>
+<pages>75-81</pages>
+<year>2011</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2011</crossref>
+<url>db/conf/dasip/dasip2011.html#GarciaG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/AyoubGRM11" mdate="2018-11-02">
+<author>Jade Ayoub</author>
+<author>Bertrand Granado</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Yasser Mohanna</author>
+<title>A new approach to 3D form recognition within video capsule endoscopic.</title>
+<pages>157-163</pages>
+<year>2011</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2011</crossref>
+<url>db/conf/dasip/dasip2011.html#AyoubGRM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/AyoubGRM11" mdate="2018-11-02">
+<author>Jade Ayoub</author>
+<author>Bertrand Granado</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Yasser Mohanna</author>
+<title>A prototype circuit for a smart 3D endoscopic videocapsule based on SVM and stereovision.</title>
+<pages>289-292</pages>
+<year>2011</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2011</crossref>
+<url>db/conf/icecsys/icecsys2011.html#AyoubGRM11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tbcas/KolarRAVG10" mdate="2018-11-14">
+<author>Anthony Kolar</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Jade Ayoub</author>
+<author>Sylvain Viateur</author>
+<author>Bertrand Granado</author>
+<title>Prototype of Video Endoscopic Capsule With 3-D Imaging Capabilities.</title>
+<pages>239-249</pages>
+<year>2010</year>
+<volume>4</volume>
+<journal>IEEE Trans. Biomed. Circuits and Systems</journal>
+<number>4</number>
+<url>db/journals/tbcas/tbcas4.html#KolarRAVG10</url>
+</article>
+</r>
+<r><inproceedings key="conf/fdl/RouviereBQG10" mdate="2011-02-25">
+<author>Marie Rouvière</author>
+<author>Emmanuelle Bourdel</author>
+<author>Sébastien Quintanel</author>
+<author>Bertrand Granado</author>
+<title>VHDL-AMS model of RF-Interconnect System for Global On-Chip Communication.</title>
+<pages>155-158</pages>
+<year>2010</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2010</crossref>
+<url>db/conf/fdl/fdl2010.html#RouviereBQG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idt/KtataGGA10" mdate="2017-06-15">
+<author orcid="0000-0003-3364-6783">Ismail Ktata</author>
+<author>Fakhreddine Ghaffari</author>
+<author>Bertrand Granado</author>
+<author>Mohamed Abid</author>
+<title>Prediction performance method for dynamic task scheduling, case study: the OLLAF Architecture.</title>
+<pages>97-102</pages>
+<year>2010</year>
+<booktitle>IDT</booktitle>
+<crossref>conf/idt/2010</crossref>
+<url>db/conf/idt/idt2010.html#KtataGGA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socpar/AyoubGRM10" mdate="2018-11-02">
+<author>Jade Ayoub</author>
+<author>Bertrand Granado</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Yasser Mohanna</author>
+<title>3-D object recognition based on SVM and stereo-vision: Application in endoscopic imaging.</title>
+<pages>198-201</pages>
+<year>2010</year>
+<booktitle>SoCPaR</booktitle>
+<crossref>conf/socpar/2010</crossref>
+<url>db/conf/socpar/socpar2010.html#AyoubGRM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ejes/GarciaG09" mdate="2019-06-02">
+<author>Samuel Garcia</author>
+<author>Bertrand Granado</author>
+<title>OLLAF: A Fine Grained Dynamically Reconfigurable Architecture for OS Support.</title>
+<year>2009</year>
+<volume>2009</volume>
+<journal>EURASIP J. Emb. Sys.</journal>
+<ee type="oa">https://doi.org/10.1155/2009/574716</ee>
+<url>db/journals/ejes/ejes2009.html#GarciaG09</url>
+</article>
+</r>
+<r><article key="journals/ejes/KolarRAFVGG09" mdate="2019-06-02">
+<author>Anthony Kolar</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Jade Ayoub</author>
+<author>David Faura</author>
+<author>Sylvain Viateur</author>
+<author>Bertrand Granado</author>
+<author>Tarik Graba</author>
+<title>A System for an Accurate 3D Reconstruction in Video Endoscopy Capsule.</title>
+<year>2009</year>
+<volume>2009</volume>
+<journal>EURASIP J. Emb. Sys.</journal>
+<ee type="oa">https://doi.org/10.1155/2009/716317</ee>
+<url>db/journals/ejes/ejes2009.html#KolarRAFVGG09</url>
+</article>
+</r>
+<r><article key="journals/ejes/RuppEG09" mdate="2019-06-02">
+<author>Markus Rupp</author>
+<author>Ahmet T. Erdogan</author>
+<author>Bertrand Granado</author>
+<title>Design and Architectures for Signal and Image Processing.</title>
+<year>2009</year>
+<volume>2009</volume>
+<journal>EURASIP J. Emb. Sys.</journal>
+<ee type="oa">https://doi.org/10.1155/2009/674308</ee>
+<url>db/journals/ejes/ejes2009.html#RuppEG09</url>
+</article>
+</r>
+<r><article key="journals/ijrc/MiramondHVBGLAPOCP09" mdate="2019-10-23">
+<author orcid="0000-0002-1229-7046">Benoît Miramond</author>
+<author>Emmanuel Huck</author>
+<author>François Verdier</author>
+<author>Mohamed El Amine Benkhelifa</author>
+<author>Bertrand Granado</author>
+<author>Thomas LeFebvre</author>
+<author>Mehdi Aïchouch</author>
+<author orcid="0000-0001-6951-4702">Jean-Christophe Prévotet</author>
+<author>Yaset Oliva</author>
+<author>Daniel Chillet</author>
+<author>Sébastien Pillement</author>
+<title>OveRSoC: A Framework for the Exploration of RTOS for RSoC Platforms.</title>
+<year>2009</year>
+<volume>2009</volume>
+<journal>Int. J. Reconfig. Comp.</journal>
+<ee type="oa">https://doi.org/10.1155/2009/450607</ee>
+<url>db/journals/ijrc/ijrc2009.html#MiramondHVBGLAPOCP09</url>
+<pages>450607:1-450607:22</pages>
+</article>
+</r>
+<r><inproceedings key="conf/reconfig/PrevotetBGHMVCP08" mdate="2019-10-23">
+<author orcid="0000-0001-6951-4702">Jean-Christophe Prévotet</author>
+<author>Mohamed El Amine Benkhelifa</author>
+<author>Bertrand Granado</author>
+<author>Emmanuel Huck</author>
+<author>Benoît Miramond</author>
+<author>François Verdier</author>
+<author>Daniel Chillet</author>
+<author orcid="0000-0002-9160-2896">Sébastien Pillement</author>
+<title>A Framework for the Exploration of RTOS Dedicated to the Management of Hardware Reconfigurable Resources.</title>
+<pages>61-66</pages>
+<year>2008</year>
+<booktitle>ReConFig</booktitle>
+<crossref>conf/reconfig/2008</crossref>
+<url>db/conf/reconfig/reconfig2008.html#PrevotetBGHMVCP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/KolarGPRGE06" mdate="2018-11-02">
+<author>Anthony Kolar</author>
+<author>Tarik Graba</author>
+<author>Andréa Pinna</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Bertrand Granado</author>
+<author>Thomas Ea</author>
+<title>An Integrated Digital Architecture for the Real-time Reconstruction in a VSiP Sensor.</title>
+<pages>144-147</pages>
+<year>2006</year>
+<booktitle>ICECS</booktitle>
+<crossref>conf/icecsys/2006</crossref>
+<url>db/conf/icecsys/icecsys2006.html#KolarGPRGE06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/DadoucheAGPG04" mdate="2009-03-06">
+<author>F. Dadouche</author>
+<author>A. Alexandre</author>
+<author>Bertrand Granado</author>
+<author>Andréa Pinna</author>
+<author>Patrick Garda</author>
+<title>A VHDL-AMS Configuration for Active Pixel Sensors.</title>
+<pages>144-156</pages>
+<year>2004</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2004</crossref>
+<url>db/conf/fdl/fdl2004.html#DadoucheAGPG04</url>
+</inproceedings>
+</r>
+<r><article key="journals/tnn/DenbyGGKPW03" mdate="2018-11-02">
+<author>Bruce Denby</author>
+<author>Patrick Garda</author>
+<author>Bertrand Granado</author>
+<author>Christian Kiesling</author>
+<author orcid="0000-0001-6951-4702">Jean-Christophe Prévotet</author>
+<author>Andreas Wassatsch</author>
+<title>Fast triggering in high-energy physics experiments using hardware neural networks.</title>
+<pages>1010-1027</pages>
+<year>2003</year>
+<volume>14</volume>
+<journal>IEEE Trans. Neural Networks</journal>
+<number>5</number>
+<url>db/journals/tnn/tnn14.html#DenbyGGKPW03</url>
+</article>
+</r>
+<r><inproceedings key="conf/nnsp/GardaRGPFH03" mdate="2018-11-02">
+<author>Patrick Garda</author>
+<author orcid="0000-0002-2172-1865">Olivier Romain</author>
+<author>Bertrand Granado</author>
+<author>Andréa Pinna</author>
+<author>David Faura</author>
+<author>Khalil Hachicha</author>
+<title>Architecture of an intelligent beacon for wireless sensor networks.</title>
+<pages>151-158</pages>
+<year>2003</year>
+<booktitle>NNSP</booktitle>
+<crossref>conf/nnsp/2003</crossref>
+<url>db/conf/nnsp/nnsp2003.html#GardaRGPFH03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esann/PrevotetDGGK02" mdate="2014-07-29">
+<author>Jean-Christophe Prévotet</author>
+<author>Bruce Denby</author>
+<author>Patrick Garda</author>
+<author>Bertrand Granado</author>
+<author>Christian Kiesling</author>
+<title>Hardware solutions for implementation of neural networks in High Energy Physics triggers.</title>
+<pages>349-356</pages>
+<year>2002</year>
+<crossref>conf/esann/2002</crossref>
+<booktitle>ESANN</booktitle>
+<url>db/conf/esann/esann2002.html#PrevotetDGGK02</url>
+</inproceedings>
+</r>
+<r><article key="journals/npl/GranadoPGG01" mdate="2017-05-17">
+<author>Bertrand Granado</author>
+<author>Andréa Pinna</author>
+<author>Luc Gaborit</author>
+<author>Patrick Garda</author>
+<title>Maharadja: A System for the Real Time Simulation of RBF with the Mahalanobis Distance.</title>
+<pages>253-266</pages>
+<year>2001</year>
+<volume>13</volume>
+<journal>Neural Processing Letters</journal>
+<number>3</number>
+<url>db/journals/npl/npl13.html#GranadoPGG01</url>
+</article>
+</r>
+<r><article key="journals/tim/DenbyPGGBGLD01" mdate="2018-11-02">
+<author>Bruce Denby</author>
+<author orcid="0000-0001-6951-4702">Jean-Christophe Prévotet</author>
+<author>Patrick Garda</author>
+<author>Bertrand Granado</author>
+<author>Laurent Barthes</author>
+<author>Peter Golé</author>
+<author>Jacques Lavergnat</author>
+<author>Jean-Yves Delahaye</author>
+<title>Combining signal processing and machine learning techniques for real time measurement of raindrops.</title>
+<pages>1717-1724</pages>
+<year>2001</year>
+<volume>50</volume>
+<journal>IEEE Trans. Instrumentation and Measurement</journal>
+<number>6</number>
+<url>db/journals/tim/tim50.html#DenbyPGGBGLD01</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwann/GranadoLG99" mdate="2017-05-23">
+<author>Bertrand Granado</author>
+<author>Lionel Lacassagne</author>
+<author>Patrick Garda</author>
+<title>Can General Purpose Micro-processors Simulate Neural Networks in Real-Time?</title>
+<pages>21-29</pages>
+<year>1999</year>
+<crossref>conf/iwann/1999-2</crossref>
+<booktitle>IWANN (2)</booktitle>
+<url>db/conf/iwann/iwann1999-2.html#GranadoLG99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwann/GranadoG97" mdate="2017-05-22">
+<author>Bertrand Granado</author>
+<author>Patrick Garda</author>
+<title>Evaluation of the CNAPS Neuro-Computer for the Simulation of MLPs with Receptive Fields.</title>
+<pages>817-824</pages>
+<year>1997</year>
+<crossref>conf/iwann/1997</crossref>
+<booktitle>IWANN</booktitle>
+<url>db/conf/iwann/iwann1997.html#GranadoG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icann/GranadoG96" mdate="2017-05-22">
+<author>Bertrand Granado</author>
+<author>Patrick Garda</author>
+<title>Evaluation of the Two Different Interconnection Networks of the CNAPS Neurocomputer.</title>
+<pages>747-753</pages>
+<year>1996</year>
+<crossref>conf/icann/1996</crossref>
+<booktitle>ICANN</booktitle>
+<url>db/conf/icann/icann1996.html#GranadoG96</url>
+</inproceedings>
+</r>
+<coauthors n="116" nc="3">
+<co c="0"><na f="a/Abid:Mohamed">Mohamed Abid</na></co>
+<co c="0"><na f="a/Ahamada:Nawfal">Nawfal Ahamada</na></co>
+<co c="0"><na f="a/Ahmed:Syed_Zahid">Syed Zahid Ahmed</na></co>
+<co c="0"><na f="a/A=iuml=chouch:Mehdi">Mehdi Aïchouch</na></co>
+<co c="1"><na f="a/Akbari:Ali">Ali Akbari</na></co>
+<co c="0"><na f="a/Alexandre:A=">A. Alexandre</na></co>
+<co c="0"><na f="a/Aloui:Zied">Zied Aloui</na></co>
+<co c="0"><na f="a/Angermann:Quentin">Quentin Angermann</na></co>
+<co c="0"><na f="a/Ariaudo:Myriam">Myriam Ariaudo</na></co>
+<co c="0"><na f="a/Ayoub:Jade">Jade Ayoub</na></co>
+<co c="0"><na f="b/Bai:Yuhui">Yuhui Bai</na></co>
+<co c="0"><na f="b/Barthes:Laurent">Laurent Barthes</na></co>
+<co c="0" n="2"><na f="b/Benaroya:Elie=Laurent">Elie-Laurent Benaroya</na><na>Laurent Benaroya</na></co>
+<co c="0"><na f="b/Benkhelifa:Mohamed_El_Amine">Mohamed El Amine Benkhelifa</na></co>
+<co c="0"><na f="b/Bernard:Serge">Serge Bernard</na></co>
+<co c="0"><na f="b/Binczak:S=">S. Binczak</na></co>
+<co c="0"><na f="b/Blouet:Rapha=euml=l">Raphaël Blouet</na></co>
+<co c="0"><na f="b/Bog=oacute=nez=Franco:Paco">Paco Bogónez-Franco</na></co>
+<co c="0"><na f="b/Boissi=egrave=re:Michel">Michel Boissière</na></co>
+<co c="0"><na f="b/Bourdel:Emmanuelle">Emmanuelle Bourdel</na></co>
+<co c="0"><na f="b/Briere:Alexandre">Alexandre Briere</na></co>
+<co c="0"><na f="c/Carreiras:Franck">Franck Carreiras</na></co>
+<co c="0"><na f="c/Champion:Cedric">Cedric Champion</na></co>
+<co c="1"><na f="c/Chelouah:Rachid">Rachid Chelouah</na></co>
+<co c="0"><na f="c/Chillet:Daniel">Daniel Chillet</na></co>
+<co c="0"><na f="c/Chollet:G=eacute=rard">Gérard Chollet</na></co>
+<co c="0"><na f="c/Christophel:Marsala">Marsala Christophel</na></co>
+<co c="0"><na f="c/Chuquimia:Orlando">Orlando Chuquimia</na></co>
+<co c="0"><na f="d/Dadouche:F=">F. Dadouche</na></co>
+<co c="0"><na f="d/Delahaye:Jean=Yves">Jean-Yves Delahaye</na></co>
+<co c="0"><na f="d/Denby:Bruce">Bruce Denby</na></co>
+<co c="0"><na f="d/Denoulet:Julien">Julien Denoulet</na></co>
+<co c="0"><na f="d/Dieuleveult:Francois_de">Francois de Dieuleveult</na></co>
+<co c="0"><na f="d/Dray:Xavier">Xavier Dray</na></co>
+<co c="0"><na f="d/Drillet:Frederic">Frederic Drillet</na></co>
+<co c="0"><na f="d/Duperrier:Cedric">Cedric Duperrier</na></co>
+<co c="0"><na f="e/Ea:Thomas">Thomas Ea</na></co>
+<co c="2"><na f="e/Erdogan:Ahmet_T=">Ahmet T. Erdogan</na></co>
+<co c="0"><na f="e/Ewo:Roland_Christian_Gamom_Ngounou">Roland Christian Gamom Ngounou Ewo</na></co>
+<co c="0" n="2"><na f="f/Fakhreddine:Ghaffari">Ghaffari Fakhreddine</na><na>Fakhreddine Ghaffari</na></co>
+<co c="0"><na f="f/Faura:David">David Faura</na></co>
+<co c="0"><na f="f/Fotsin:Hilaire_Bertrand">Hilaire Bertrand Fotsin</na></co>
+<co c="0"><na f="g/Gaborit:Luc">Luc Gaborit</na></co>
+<co c="0"><na f="g/Garcia:Samuel">Samuel Garcia</na></co>
+<co c="0"><na f="g/Garda:Patrick">Patrick Garda</na></co>
+<co c="0"><na f="g/Gatti:Marc">Marc Gatti</na></co>
+<co c="0"><na f="g/Goguin:A=">A. Goguin</na></co>
+<co c="0"><na f="g/Gol=eacute=:Peter">Peter Golé</na></co>
+<co c="0"><na f="g/Graba:Tarik">Tarik Graba</na></co>
+<co c="0"><na f="h/Hachicha:Khalil">Khalil Hachicha</na></co>
+<co c="0"><na f="h/Hamieh:Mohamad">Mohamad Hamieh</na></co>
+<co c="0"><na f="h/Histace:Aymeric">Aymeric Histace</na></co>
+<co c="0"><na f="h/Hochberg:Sylvain">Sylvain Hochberg</na></co>
+<co c="0"><na f="h/Huck:Emmanuel">Emmanuel Huck</na></co>
+<co c="0"><na f="i/Iloga:Sylvain">Sylvain Iloga</na></co>
+<co c="1"><na f="j/Jo:GeunSik">GeunSik Jo</na></co>
+<co c="1"><na f="k/Kadima:Hubert">Hubert Kadima</na></co>
+<co c="0"><na f="k/Kalbousi:Imen">Imen Kalbousi</na></co>
+<co c="0"><na f="k/Kellouche:S=">S. Kellouche</na></co>
+<co c="0"><na f="k/Khemiri:Houssemeddine">Houssemeddine Khemiri</na></co>
+<co c="0"><na f="k/Kiegaing:Emmanuel">Emmanuel Kiegaing</na></co>
+<co c="0"><na f="k/Kiesling:Christian">Christian Kiesling</na></co>
+<co c="0"><na f="k/Kolar:Anthony">Anthony Kolar</na></co>
+<co c="0"><na f="k/Ktata:Ismail">Ismail Ktata</na></co>
+<co c="0"><na f="l/Lacassagne:Lionel">Lionel Lacassagne</na></co>
+<co c="0"><na f="l/Lagroye:I=">I. Lagroye</na></co>
+<co c="0"><na f="l/Lahuec:Cyril">Cyril Lahuec</na></co>
+<co c="0"><na f="l/Lavergnat:Jacques">Jacques Lavergnat</na></co>
+<co c="0"><na f="l/LeFebvre:Thomas">Thomas LeFebvre</na></co>
+<co c="0"><na f="l/Lethias:C=">C. Lethias</na></co>
+<co c="0"><na f="l/Lewis:No=euml=lle">Noëlle Lewis</na></co>
+<co c="0"><na f="l/Lou=euml=t:Yves">Yves Louët</na></co>
+<co c="1"><na f="m/Mandache:D=">D. Mandache</na></co>
+<co c="0"><na f="m/Marteau:Philippe">Philippe Marteau</na></co>
+<co c="0"><na f="m/Matuszewski:Bogdan_J=">Bogdan J. Matuszewski</na></co>
+<co c="0"><na f="m/Mbouenda:Martin">Martin Mbouenda</na></co>
+<co c="0"><na f="m/McAdams:Eric">Eric McAdams</na></co>
+<co c="0"><na f="m/Meunier:Philippe">Philippe Meunier</na></co>
+<co c="0"><na f="m/Meziou:Leila">Leila Meziou</na></co>
+<co c="0"><na f="m/Mhedhbi:Imen">Imen Mhedhbi</na></co>
+<co c="0"><na f="m/Miramond:Beno=icirc=t">Benoît Miramond</na></co>
+<co c="0"><na f="m/Mohanna:Yasser">Yasser Mohanna</na></co>
+<co c="0"><na f="m/Moy:Christophe">Christophe Moy</na></co>
+<co c="0"><na f="o/Oliva:Yaset">Yaset Oliva</na></co>
+<co c="0"><na f="p/Pauthe:Emmanuel">Emmanuel Pauthe</na></co>
+<co c="0"><na f="p/P=ecirc=cheux:Fran=ccedil=ois">François Pêcheux</na></co>
+<co c="0" n="2"><na f="p/Petrovska=Delacr=eacute=taz:Dijana">Dijana Petrovska-Delacrétaz</na><na>Dijana Petrovska</na></co>
+<co c="0"><na f="p/Pierre:Francine">Francine Pierre</na></co>
+<co c="0"><na f="p/Pillement:S=eacute=bastien">Sébastien Pillement</na></co>
+<co c="0"><na f="p/Pinna:Andr=eacute=a">Andréa Pinna</na></co>
+<co c="0"><na f="p/Precioso:Fr=eacute=d=eacute=ric">Frédéric Precioso</na></co>
+<co c="0"><na f="p/Pr=eacute=votet:Jean=Christophe">Jean-Christophe Prévotet</na></co>
+<co c="0"><na f="q/Quintanel:S=eacute=bastien">Sébastien Quintanel</na></co>
+<co c="0"><na f="r/Rayrole:Martin">Martin Rayrole</na></co>
+<co c="0"><na f="r/Renaud:Sylvie">Sylvie Renaud</na></co>
+<co c="0"><na f="r/Rodriguez:Laurent">Laurent Rodriguez</na></co>
+<co c="0"><na f="r/Romain:Olivier">Olivier Romain</na></co>
+<co c="0"><na f="r/Rouvi=egrave=re:Marie">Marie Rouvière</na></co>
+<co c="2"><na f="r/Rupp:Markus">Markus Rupp</na></co>
+<co c="0"><na f="s/Sahraoui:Fouad">Fouad Sahraoui</na></co>
+<co c="0"><na f="s/Silva:J=">J. Silva</na></co>
+<co c="0"><na f="s/Silva:Juan">Juan Silva</na></co>
+<co c="0"><na f="s/Soulier:Fabien">Fabien Soulier</na></co>
+<co c="1"><na f="s/Sublime:J=eacute=r=eacute=mie">Jérémie Sublime</na></co>
+<co c="0"><na f="t/Tchuente:Maurice">Maurice Tchuente</na></co>
+<co c="0"><na f="t/Terosiet:Mehdi">Mehdi Terosiet</na></co>
+<co c="0"><na f="t/Tietche:Brunel_Happi">Brunel Happi Tietche</na></co>
+<co c="0"><na f="t/Topin:S=eacute=bastien">Sébastien Topin</na></co>
+<co c="1"><na f="t/Trocan:Maria">Maria Trocan</na></co>
+<co c="0"><na f="u/Unlu:Eren">Eren Unlu</na></co>
+<co c="0"><na f="v/Verdier:Fran=ccedil=ois">François Verdier</na></co>
+<co c="0"><na f="v/Viateur:Sylvain">Sylvain Viateur</na></co>
+<co c="0"><na f="w/Wassatsch:Andreas">Andreas Wassatsch</na></co>
+<co c="0"><na f="w/Wassi:Guy">Guy Wassi</na></co>
+<co c="1"><na f="y/Yassa:Sonia">Sonia Yassa</na></co>
+<co c="0"><na f="z/Zerioul:Lounis">Lounis Zerioul</na></co>
+</coauthors>
+</dblpperson>
+

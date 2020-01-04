@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Fabienne Jézéquel" n="23">
+<person key="homepages/62/6609" mdate="2009-06-10">
+<author>Fabienne Jézéquel</author>
+</person>
+<r><article key="journals/jocs/GraillatJPFL19" mdate="2019-11-26">
+<author>Stef Graillat</author>
+<author>Fabienne Jézéquel</author>
+<author>Romain Picot</author>
+<author orcid="0000-0003-2402-0535">François Févotte</author>
+<author>Bruno Lathuilière</author>
+<title>Auto-tuning for floating-point precision with Discrete Stochastic Arithmetic.</title>
+<year>2019</year>
+<volume>36</volume>
+<journal>J. Comput. Science</journal>
+<url>db/journals/jocs/jocs36.html#GraillatJPFL19</url>
+</article>
+</r>
+<r><article key="journals/amc/GraillatJP18" mdate="2018-03-29">
+<author>Stef Graillat</author>
+<author>Fabienne Jézéquel</author>
+<author>Romain Picot</author>
+<title>Numerical validation of compensated algorithms with stochastic arithmetic.</title>
+<pages>339-363</pages>
+<year>2018</year>
+<volume>329</volume>
+<journal>Applied Mathematics and Computation</journal>
+<url>db/journals/amc/amc329.html#GraillatJP18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/EberhartLBFJ18" mdate="2018-08-08">
+<author>Pacôme Eberhart</author>
+<author>Baptiste Landreau</author>
+<author>Julien Brajard</author>
+<author>Pierre Fortin</author>
+<author>Fabienne Jézéquel</author>
+<title>Improving CADNA Performance on GPUs.</title>
+<pages>1016-1025</pages>
+<year>2018</year>
+<booktitle>IPDPS Workshops</booktitle>
+<crossref>conf/ipps/2018w</crossref>
+<url>db/conf/ipps/ipdps2018w.html#EberhartLBFJ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwomp/EberhartBFJ16" mdate="2017-05-21">
+<author>Pacôme Eberhart</author>
+<author>Julien Brajard</author>
+<author>Pierre Fortin</author>
+<author>Fabienne Jézéquel</author>
+<title>Estimation of Round-off Errors in OpenMP Codes.</title>
+<pages>3-16</pages>
+<year>2016</year>
+<booktitle>IWOMP</booktitle>
+<crossref>conf/iwomp/2016</crossref>
+<url>db/conf/iwomp/iwomp2016.html#EberhartBFJ16</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/GraillatJP15" mdate="2017-05-28">
+<author>Stef Graillat</author>
+<author>Fabienne Jézéquel</author>
+<author>Romain Picot</author>
+<title>Numerical Validation of Compensated Summation Algorithms with Stochastic Arithmetic.</title>
+<pages>55-69</pages>
+<year>2015</year>
+<volume>317</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs317.html#GraillatJP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/fedcsis/JezequelLS15" mdate="2019-05-10">
+<author>Fabienne Jézéquel</author>
+<author>Jean Luc Lamotte</author>
+<author>Issam Said</author>
+<title>Estimation of numerical reproducibility on CPU and GPU.</title>
+<pages>675-680</pages>
+<year>2015</year>
+<booktitle>FedCSIS</booktitle>
+<ee type="oa">https://doi.org/10.15439/2015F29</ee>
+<crossref>conf/fedcsis/2015</crossref>
+<url>db/conf/fedcsis/fedcsis2015.html#JezequelLS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/MadecPJGLH14" mdate="2018-11-02">
+<author orcid="0000-0001-9537-642X">Morgan Madec</author>
+<author>François Pêcheux</author>
+<author>Fabienne Jézéquel</author>
+<author>Yves Gendrault</author>
+<author>Christophe Lallement</author>
+<author>Jacques Haiech</author>
+<title>Opportunities and challenges for the virtual prototyping of synthetic biological functions.</title>
+<pages>2013-2016</pages>
+<year>2014</year>
+<booktitle>ISCAS</booktitle>
+<crossref>conf/iscas/2014</crossref>
+<url>db/conf/iscas/iscas2014.html#MadecPJGLH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itng/JezequelLC13" mdate="2017-05-25">
+<author>Fabienne Jézéquel</author>
+<author>Jean Luc Lamotte</author>
+<author>Olena Chubach</author>
+<title>Parallelization of discrete stochastic arithmetic on multicore architectures.</title>
+<pages>160-166</pages>
+<year>2013</year>
+<booktitle>ITNG</booktitle>
+<crossref>conf/itng/2013</crossref>
+<url>db/conf/itng/itng2013.html#JezequelLC13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tjs/JezequelCD12" mdate="2018-11-30">
+<author>Fabienne Jézéquel</author>
+<author orcid="0000-0003-1490-9592">Raphaël Couturier</author>
+<author>Christophe Denis</author>
+<title>Solving large sparse linear systems in a grid environment: the GREMLINS code versus the PETSc library.</title>
+<pages>1517-1532</pages>
+<year>2012</year>
+<volume>59</volume>
+<journal>The Journal of Supercomputing</journal>
+<number>3</number>
+<url>db/journals/tjs/tjs59.html#JezequelCD12</url>
+</article>
+</r>
+<r><article key="journals/mics/GraillatJWZ11" mdate="2017-05-26">
+<author>Stef Graillat</author>
+<author>Fabienne Jézéquel</author>
+<author>Shiyue Wang</author>
+<author>Yuxiang Zhu</author>
+<title>Stochastic Arithmetic in Multiprecision.</title>
+<pages>359-375</pages>
+<year>2011</year>
+<volume>5</volume>
+<journal>Mathematics in Computer Science</journal>
+<number>4</number>
+<url>db/journals/mics/mics5.html#GraillatJWZ11</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/FortinHJLS11" mdate="2017-05-24">
+<author>Pierre Fortin</author>
+<author>Rachid Habel</author>
+<author>Fabienne Jézéquel</author>
+<author>Jean Luc Lamotte</author>
+<author>N. Stanley Scott</author>
+<title>Deployment on GPUs of an Application in Computational Atomic Physics.</title>
+<pages>1359-1366</pages>
+<year>2011</year>
+<booktitle>IPDPS Workshops</booktitle>
+<crossref>conf/ipps/2011w</crossref>
+<url>db/conf/ipps/ipdps2011w.html#FortinHJLS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/cphysics/LamotteCJ10" mdate="2017-05-28">
+<author>Jean Luc Lamotte</author>
+<author>Jean Marie Chesneaux</author>
+<author>Fabienne Jézéquel</author>
+<pages>1925-1926</pages>
+<year>2010</year>
+<volume>181</volume>
+<journal>Computer Physics Communications</journal>
+<number>11</number>
+<url>db/journals/cphysics/cphysics181.html#LamotteCJ10</url>
+</article>
+</r>
+<r><article key="journals/cphysics/JezequelCL10" mdate="2017-05-28">
+<author>Fabienne Jézéquel</author>
+<author>Jean Marie Chesneaux</author>
+<author>Jean Luc Lamotte</author>
+<pages>1927-1928</pages>
+<year>2010</year>
+<volume>181</volume>
+<journal>Computer Physics Communications</journal>
+<number>11</number>
+<url>db/journals/cphysics/cphysics181.html#JezequelCL10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/CouturierJ10" mdate="2018-11-02">
+<author orcid="0000-0003-1490-9592">Raphaël Couturier</author>
+<author>Fabienne Jézéquel</author>
+<title>Solving large sparse linear systems in a grid environment using Java.</title>
+<pages>1-7</pages>
+<year>2010</year>
+<booktitle>IPDPS Workshops</booktitle>
+<crossref>conf/ipps/2010w</crossref>
+<url>db/conf/ipps/ipdps2010w.html#CouturierJ10</url>
+</inproceedings>
+</r>
+<r><article key="journals/cphysics/JezequelC08" mdate="2017-05-28">
+<author>Fabienne Jézéquel</author>
+<author>Jean Marie Chesneaux</author>
+<title>CADNA: a library for estimating round-off error propagation.</title>
+<pages>933-955</pages>
+<year>2008</year>
+<volume>178</volume>
+<journal>Computer Physics Communications</journal>
+<number>12</number>
+<url>db/journals/cphysics/cphysics178.html#JezequelC08</url>
+</article>
+</r>
+<r><article key="journals/pc/CouturierDJ08" mdate="2018-11-30">
+<author orcid="0000-0003-1490-9592">Raphaël Couturier</author>
+<author>Christophe Denis</author>
+<author>Fabienne Jézéquel</author>
+<title>GREMLINS: a large sparse linear solver for grid environment.</title>
+<pages>380-391</pages>
+<year>2008</year>
+<volume>34</volume>
+<journal>Parallel Computing</journal>
+<number>6-8</number>
+<url>db/journals/pc/pc34.html#CouturierDJ08</url>
+</article>
+</r>
+<r><incollection key="reference/wiley/ChesneauxGJ08" mdate="2017-05-16">
+<author>Jean Marie Chesneaux</author>
+<author>Stef Graillat</author>
+<author>Fabienne Jézéquel</author>
+<title>Rounding Errors.</title>
+<year>2008</year>
+<booktitle>Wiley Encyclopedia of Computer Science and Engineering</booktitle>
+<crossref>reference/wiley/2008</crossref>
+<url>db/reference/wiley/wiley2008.html#ChesneauxGJ08</url>
+</incollection>
+</r>
+<r><article key="journals/cphysics/ScottJDC07" mdate="2017-05-28">
+<author>N. Stanley Scott</author>
+<author>Fabienne Jézéquel</author>
+<author>Christophe Denis</author>
+<author>Jean Marie Chesneaux</author>
+<title>Numerical 'health check' for scientific codes: the CADNA approach.</title>
+<pages>507-521</pages>
+<year>2007</year>
+<volume>176</volume>
+<journal>Computer Physics Communications</journal>
+<number>8</number>
+<url>db/journals/cphysics/cphysics176.html#ScottJDC07</url>
+</article>
+</r>
+<r><article key="journals/mcs/JezequelRCC06" mdate="2017-05-20">
+<author>Fabienne Jézéquel</author>
+<author>F. Rico</author>
+<author>Jean Marie Chesneaux</author>
+<author>M. Charikhi</author>
+<title>Reliable computation of a multiple integral involved in the neutron star theory.</title>
+<pages>44-61</pages>
+<year>2006</year>
+<volume>71</volume>
+<journal>Mathematics and Computers in Simulation</journal>
+<number>1</number>
+<url>db/journals/mcs/mcs71.html#JezequelRCC06</url>
+</article>
+</r>
+<r><article key="journals/na/JezequelC04" mdate="2017-05-18">
+<author>Fabienne Jézéquel</author>
+<author>Jean Marie Chesneaux</author>
+<title>Computation of an Infinite Integral Using Romberg'S Method.</title>
+<pages>265-283</pages>
+<year>2004</year>
+<volume>36</volume>
+<journal>Numerical Algorithms</journal>
+<number>3</number>
+<url>db/journals/na/na36.html#JezequelC04</url>
+</article>
+</r>
+<r><article key="journals/jucs/ChesneauxJ98" mdate="2017-05-17">
+<author>Jean Marie Chesneaux</author>
+<author>Fabienne Jézéquel</author>
+<title>Dynamical Control of Computations Using the Trapezoidal and Simpson's Rules.</title>
+<pages>2-10</pages>
+<year>1998</year>
+<volume>4</volume>
+<journal>J. UCS</journal>
+<number>1</number>
+<url>db/journals/jucs/jucs4.html#ChesneauxJ98</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/Jezequel96" mdate="2017-05-22">
+<author>Fabienne Jézéquel</author>
+<title>A Time and Space Parallel Algorithm for the Heat Equation: The Implicit Collocation Method.</title>
+<pages>97-100</pages>
+<year>1996</year>
+<crossref>conf/europar/1996-2</crossref>
+<booktitle>Euro-Par, Vol. II</booktitle>
+<url>db/conf/europar/europar96-2.html#Jezequel96</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/Jezequel95" mdate="2017-05-17">
+<author>Fabienne Jézéquel</author>
+<title>Round-Off Error Propagation in the Solution of the Heat Equation by Finite Differences.</title>
+<pages>469-483</pages>
+<year>1995</year>
+<volume>1</volume>
+<journal>J. UCS</journal>
+<number>7</number>
+<url>db/journals/jucs/jucs1.html#Jezequel95</url>
+</article>
+</r>
+<coauthors n="25" nc="2">
+<co c="0"><na f="b/Brajard:Julien">Julien Brajard</na></co>
+<co c="0"><na f="c/Charikhi:M=">M. Charikhi</na></co>
+<co c="0"><na f="c/Chesneaux:Jean_Marie">Jean Marie Chesneaux</na></co>
+<co c="0"><na f="c/Chubach:Olena">Olena Chubach</na></co>
+<co c="0"><na f="c/Couturier:Rapha=euml=l">Raphaël Couturier</na></co>
+<co c="0"><na f="d/Denis:Christophe">Christophe Denis</na></co>
+<co c="0"><na f="e/Eberhart:Pac=ocirc=me">Pacôme Eberhart</na></co>
+<co c="0"><na f="f/F=eacute=votte:Fran=ccedil=ois">François Févotte</na></co>
+<co c="0"><na f="f/Fortin:Pierre">Pierre Fortin</na></co>
+<co c="1"><na f="g/Gendrault:Yves">Yves Gendrault</na></co>
+<co c="0"><na f="g/Graillat:Stef">Stef Graillat</na></co>
+<co c="0"><na f="h/Habel:Rachid">Rachid Habel</na></co>
+<co c="1"><na f="h/Haiech:Jacques">Jacques Haiech</na></co>
+<co c="1"><na f="l/Lallement:Christophe">Christophe Lallement</na></co>
+<co c="0"><na f="l/Lamotte:Jean_Luc">Jean Luc Lamotte</na></co>
+<co c="0"><na f="l/Landreau:Baptiste">Baptiste Landreau</na></co>
+<co c="0"><na f="l/Lathuili=egrave=re:Bruno">Bruno Lathuilière</na></co>
+<co c="1"><na f="m/Madec:Morgan">Morgan Madec</na></co>
+<co c="1"><na f="p/P=ecirc=cheux:Fran=ccedil=ois">François Pêcheux</na></co>
+<co c="0"><na f="p/Picot:Romain">Romain Picot</na></co>
+<co c="0"><na f="r/Rico:F=">F. Rico</na></co>
+<co c="0"><na f="s/Said:Issam">Issam Said</na></co>
+<co c="0"><na f="s/Scott:N=_Stanley">N. Stanley Scott</na></co>
+<co c="0"><na f="w/Wang:Shiyue">Shiyue Wang</na></co>
+<co c="0"><na f="z/Zhu:Yuxiang">Yuxiang Zhu</na></co>
+</coauthors>
+</dblpperson>
+

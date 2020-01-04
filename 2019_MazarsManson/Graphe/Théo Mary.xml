@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Théo Mary" n="10">
+<person key="homepages/156/7228" mdate="2018-12-14">
+<author>Théo Mary</author>
+<note type="affiliation">University of Manchester, UK</note>
+<note label="PhD 2017" type="affiliation">Paul Sabatier University, Toulouse, France</note>
+<url>https://personalpages.manchester.ac.uk/staff/theo.mary/index.php</url>
+</person>
+<r><article key="journals/siamsc/HighamM19" mdate="2019-05-31">
+<author orcid="0000-0001-5956-4976">Nicholas J. Higham</author>
+<author>Théo Mary</author>
+<title>A New Preconditioner that Exploits Low-Rank Approximations to Factorization Error.</title>
+<pages>A59-A82</pages>
+<year>2019</year>
+<volume>41</volume>
+<journal>SIAM J. Scientific Computing</journal>
+<number>1</number>
+<url>db/journals/siamsc/siamsc41.html#HighamM19</url>
+</article>
+</r>
+<r><article key="journals/siamsc/AmestoyBLM19" mdate="2019-08-09">
+<author>Patrick R. Amestoy</author>
+<author>Alfredo Buttari</author>
+<author>Jean-Yves L'Excellent</author>
+<author>Théo Mary</author>
+<title>Bridging the Gap Between Flat and Hierarchical Low-Rank Matrix Formats: The Multilevel Block Low-Rank Format.</title>
+<pages>A1414-A1442</pages>
+<year>2019</year>
+<volume>41</volume>
+<journal>SIAM J. Scientific Computing</journal>
+<number>3</number>
+<url>db/journals/siamsc/siamsc41.html#AmestoyBLM19</url>
+</article>
+</r>
+<r><article key="journals/siamsc/HighamM19a" mdate="2019-11-07">
+<author orcid="0000-0001-5956-4976">Nicholas J. Higham</author>
+<author>Théo Mary</author>
+<title>A New Approach to Probabilistic Rounding Error Analysis.</title>
+<pages>A2815-A2835</pages>
+<year>2019</year>
+<volume>41</volume>
+<journal>SIAM J. Scientific Computing</journal>
+<number>5</number>
+<url>db/journals/siamsc/siamsc41.html#HighamM19a</url>
+</article>
+</r>
+<r><article key="journals/siamsc/GormanCGMRL19" mdate="2019-11-05">
+<author>Christopher Gorman</author>
+<author>Gustavo Chávez</author>
+<author>Pieter Ghysels</author>
+<author>Théo Mary</author>
+<author>François-Henry Rouet</author>
+<author>Xiaoye Sherry Li</author>
+<title>Robust and Accurate Stopping Criteria for Adaptive Randomized Sampling in Matrix-Free Hierarchically Semiseparable Construction.</title>
+<pages>S61-S85</pages>
+<year>2019</year>
+<volume>41</volume>
+<journal>SIAM J. Scientific Computing</journal>
+<number>5</number>
+<url>db/journals/siamsc/siamsc41.html#GormanCGMRL19</url>
+</article>
+</r>
+<r><article key="journals/toms/AmestoyBLM19" mdate="2019-05-10">
+<author>Patrick R. Amestoy</author>
+<author>Alfredo Buttari</author>
+<author>Jean-Yves L'Excellent</author>
+<author>Théo Mary</author>
+<title>Performance and Scalability of the Block Low-Rank Multifrontal Factorization on Multicore Architectures.</title>
+<pages>2:1-2:26</pages>
+<year>2019</year>
+<volume>45</volume>
+<journal>ACM Trans. Math. Softw.</journal>
+<number>1</number>
+<url>db/journals/toms/toms45.html#AmestoyBLM19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-04125" mdate="2018-12-14">
+<author>Christopher Gorman</author>
+<author>Gustavo Chávez</author>
+<author>Pieter Ghysels</author>
+<author>Théo Mary</author>
+<author>François-Henry Rouet</author>
+<author>Xiaoye Sherry Li</author>
+<title>Matrix-free construction of HSS representation using adaptive randomized sampling.</title>
+<year>2018</year>
+<volume>abs/1810.04125</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.04125</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-04125</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Mary17" mdate="2018-12-14">
+<author>Théo Mary</author>
+<title>Block Low-Rank multifrontal solvers: complexity, performance, and scalability. (Solveurs multifrontaux exploitant des blocs de rang faible: complexité, performance et parallélisme).</title>
+<year>2017</year>
+<school>Paul Sabatier University, Toulouse, France</school>
+</phdthesis>
+</r>
+<r><article key="journals/siamsc/AmestoyBLM17" mdate="2018-12-14">
+<author>Patrick Amestoy</author>
+<author>Alfredo Buttari</author>
+<author>Jean-Yves L'Excellent</author>
+<author>Théo Mary</author>
+<title>On the Complexity of the Block Low-Rank Multifrontal Factorization.</title>
+<year>2017</year>
+<volume>39</volume>
+<journal>SIAM J. Scientific Computing</journal>
+<number>4</number>
+<url>db/journals/siamsc/siamsc39.html#AmestoyBLM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/sc/MaryYKLTD15" mdate="2018-12-14">
+<author>Théo Mary</author>
+<author>Ichitaro Yamazaki</author>
+<author>Jakub Kurzak</author>
+<author>Piotr Luszczek</author>
+<author>Stanimire Tomov</author>
+<author>Jack J. Dongarra</author>
+<title>Performance of random sampling for computing low-rank approximations of a dense matrix on GPUs.</title>
+<pages>60:1-60:11</pages>
+<year>2015</year>
+<booktitle>SC</booktitle>
+<crossref>conf/sc/2015</crossref>
+<url>db/conf/sc/sc2015.html#MaryYKLTD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/YamazakiMKTD14" mdate="2019-02-20">
+<author>Ichitaro Yamazaki</author>
+<author>Théo Mary</author>
+<author>Jakub Kurzak</author>
+<author>Stanimire Tomov</author>
+<author>Jack J. Dongarra</author>
+<title>Access-averse framework for computing low-rank matrix approximations.</title>
+<pages>70-77</pages>
+<year>2014</year>
+<booktitle>BigData</booktitle>
+<crossref>conf/bigdataconf/2014</crossref>
+<url>db/conf/bigdataconf/bigdataconf2014.html#YamazakiMKTD14</url>
+</inproceedings>
+</r>
+<coauthors n="14" nc="1">
+<co c="0" n="2"><na f="a/Amestoy:Patrick">Patrick Amestoy</na><na>Patrick R. Amestoy</na></co>
+<co c="0"><na f="b/Buttari:Alfredo">Alfredo Buttari</na></co>
+<co c="0" n="2"><na f="c/Chavez:Gustavo">Gustavo Chavez</na><na>Gustavo Chávez</na></co>
+<co c="0"><na f="d/Dongarra:Jack_J=">Jack J. Dongarra</na></co>
+<co c="0"><na f="g/Ghysels:Pieter">Pieter Ghysels</na></co>
+<co c="0"><na f="g/Gorman:Christopher">Christopher Gorman</na></co>
+<co c="0"><na f="h/Higham:Nicholas_J=">Nicholas J. Higham</na></co>
+<co c="0"><na f="k/Kurzak:Jakub">Jakub Kurzak</na></co>
+<co c="0"><na f="l/L=Excellent:Jean=Yves">Jean-Yves L'Excellent</na></co>
+<co c="0" n="2"><na f="l/Li:Xiaoye_S=">Xiaoye S. Li</na><na>Xiaoye Sherry Li</na></co>
+<co c="0"><na f="l/Luszczek:Piotr">Piotr Luszczek</na></co>
+<co c="0"><na f="r/Rouet:Fran=ccedil=ois=Henry">François-Henry Rouet</na></co>
+<co c="0"><na f="t/Tomov:Stanimire">Stanimire Tomov</na></co>
+<co c="0"><na f="y/Yamazaki:Ichitaro">Ichitaro Yamazaki</na></co>
+</coauthors>
+</dblpperson>
+

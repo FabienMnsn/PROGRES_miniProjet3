@@ -1,0 +1,1200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Hichem Sahbi" n="98">
+<person key="homepages/10/252" mdate="2019-01-18">
+<author>Hichem Sahbi</author>
+<url>https://orcid.org/0000-0001-6813-9146</url>
+</person>
+<r><article key="journals/pr/JiuS19" mdate="2019-02-13">
+<author orcid="0000-0002-4868-0709">Mingyuan Jiu</author>
+<author>Hichem Sahbi</author>
+<title>Deep representation design from deep kernel networks.</title>
+<pages>447-457</pages>
+<year>2019</year>
+<volume>88</volume>
+<journal>Pattern Recognition</journal>
+<url>db/journals/pr/pr88.html#JiuS19</url>
+</article>
+</r>
+<r><article key="journals/tnn/DuttaS19" mdate="2019-08-08">
+<author orcid="0000-0002-1667-2245">Anjan Dutta 0001</author>
+<author>Hichem Sahbi</author>
+<title>Stochastic Graphlet Embedding.</title>
+<pages>2369-2382</pages>
+<year>2019</year>
+<volume>30</volume>
+<journal>IEEE Trans. Neural Netw. Learning Syst.</journal>
+<number>8</number>
+<url>db/journals/tnn/tnn30.html#DuttaS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/MazariS19" mdate="2019-06-30">
+<author>Ahmed Mazari</author>
+<author>Hichem Sahbi</author>
+<title>Deep Temporal Pyramid Design for Action Recognition.</title>
+<pages>2077-2081</pages>
+<year>2019</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2019</crossref>
+<url>db/conf/icassp/icassp2019.html#MazariS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-00745" mdate="2019-05-27">
+<author>Ahmed Mazari</author>
+<author>Hichem Sahbi</author>
+<title>Human Action Recognition with Deep Temporal Pyramids.</title>
+<year>2019</year>
+<volume>abs/1905.00745</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.00745</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-00745</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-06934" mdate="2019-10-16">
+<author>Ahmed Mazari</author>
+<author>Hichem Sahbi</author>
+<title>Human Action Recognition with Multi-Laplacian Graph Convolutional Networks.</title>
+<year>2019</year>
+<volume>abs/1910.06934</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.06934</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-06934</url>
+</article>
+</r>
+<r><inproceedings key="conf/eccv/Sahbi18" mdate="2019-01-25">
+<author>Hichem Sahbi</author>
+<title>Learning CCA Representations for Misaligned Data.</title>
+<pages>468-485</pages>
+<year>2018</year>
+<booktitle>ECCV Workshops (4)</booktitle>
+<crossref>conf/eccv/2018w4</crossref>
+<url>db/conf/eccv/eccv2018w4.html#Sahbi18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/Sahbi18" mdate="2018-09-11">
+<author>Hichem Sahbi</author>
+<title>Structured Scene Decoding with Finite State Machines.</title>
+<pages>485-489</pages>
+<year>2018</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2018</crossref>
+<url>db/conf/icip/icip2018.html#Sahbi18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/JiuSQ18" mdate="2018-12-23">
+<author>Mingyuan Jiu</author>
+<author>Hichem Sahbi</author>
+<author>Lin Qi</author>
+<title>Deep Context Networks for Image Annotation.</title>
+<pages>2422-2427</pages>
+<year>2018</year>
+<booktitle>ICPR</booktitle>
+<crossref>conf/icpr/2018</crossref>
+<url>db/conf/icpr/icpr2018.html#JiuSQ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/PostadjianBMS18" mdate="2018-11-08">
+<author>Tristan Postadjian</author>
+<author>Arnaud Le Bris</author>
+<author>Clément Mallet</author>
+<author>Hichem Sahbi</author>
+<title>Superpixel Partitioning of Very High Resolution Satellite Images for Large-Scale Classification Perspectives with Deep Convolutional Neural Networks.</title>
+<pages>1328-1331</pages>
+<year>2018</year>
+<booktitle>IGARSS</booktitle>
+<crossref>conf/igarss/2018</crossref>
+<url>db/conf/igarss/igarss2018.html#PostadjianBMS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/PostadjianBSM18" mdate="2018-11-09">
+<author>Tristan Postadjian</author>
+<author>Arnaud Le Bris</author>
+<author>Hichem Sahbi</author>
+<author>Clément Mallet</author>
+<title>Domain Adaptation for Large Scale Classification of Very High Resolution Satellite Images with Deep Convolutional Neural Networks.</title>
+<pages>3623-3626</pages>
+<year>2018</year>
+<booktitle>IGARSS</booktitle>
+<crossref>conf/igarss/2018</crossref>
+<url>db/conf/igarss/igarss2018.html#PostadjianBSM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/OliveauS18" mdate="2018-11-10">
+<author>Quentin Oliveau</author>
+<author>Hichem Sahbi</author>
+<title>From Transductive to Inductive Semi-Supervised Attributes for Ship Category Recognition.</title>
+<pages>4827-4830</pages>
+<year>2018</year>
+<booktitle>IGARSS</booktitle>
+<crossref>conf/igarss/2018</crossref>
+<url>db/conf/igarss/igarss2018.html#OliveauS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/OliveauS18a" mdate="2018-11-11">
+<author>Quentin Oliveau</author>
+<author>Hichem Sahbi</author>
+<title>Semi-Supervised Deep Attribute Networks for Fine-Grained Ship Category Recognition.</title>
+<pages>6871-6874</pages>
+<year>2018</year>
+<booktitle>IGARSS</booktitle>
+<crossref>conf/igarss/2018</crossref>
+<url>db/conf/igarss/igarss2018.html#OliveauS18a</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-00425" mdate="2018-08-13">
+<author>Anjan Dutta 0001</author>
+<author>Hichem Sahbi</author>
+<title>Graph Kernels based on High Order Graphlet Parsing and Hashing.</title>
+<year>2018</year>
+<volume>abs/1803.00425</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.00425</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-00425</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-08794" mdate="2018-08-13">
+<author>Mingyuan Jiu</author>
+<author>Hichem Sahbi</author>
+<title>Learning Deep Context-Network Architectures for Image Annotation.</title>
+<year>2018</year>
+<volume>abs/1803.08794</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.08794</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-08794</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-11159" mdate="2018-08-13">
+<author>Mingyuan Jiu</author>
+<author>Hichem Sahbi</author>
+<title>Learning Explicit Deep Representations from Deep Kernel Networks.</title>
+<year>2018</year>
+<volume>abs/1804.11159</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.11159</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-11159</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-09119" mdate="2019-01-02">
+<author>Hichem Sahbi</author>
+<title>Cascaded Coarse-to-Fine Deep Kernel Networks for Efficient Satellite Image Change Detection.</title>
+<year>2018</year>
+<volume>abs/1812.09119</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.09119</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-09119</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-09280" mdate="2019-01-02">
+<author>Hichem Sahbi</author>
+<title>Canonical Correlation Analysis for Misaligned Satellite Image Change Detection.</title>
+<year>2018</year>
+<volume>abs/1812.09280</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.09280</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-09280</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-10745" mdate="2019-01-02">
+<author>Hichem Sahbi</author>
+<title>Finite State Machines for Semantic Scene Parsing and Segmentation.</title>
+<year>2018</year>
+<volume>abs/1812.10745</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.10745</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-10745</url>
+</article>
+</r>
+<r><article key="journals/ejivp/NadilSLS17" mdate="2019-06-02">
+<author>Malek Nadil</author>
+<author>Feryel Souami</author>
+<author>Abdenour Labed</author>
+<author>Hichem Sahbi</author>
+<title>KCCA-based technique for profile face identification.</title>
+<pages>2</pages>
+<year>2017</year>
+<volume>2017</volume>
+<journal>EURASIP J. Image and Video Processing</journal>
+<ee type="oa">https://doi.org/10.1186/s13640-016-0123-8</ee>
+<url>db/journals/ejivp/ejivp2017.html#NadilSLS17</url>
+</article>
+</r>
+<r><article key="journals/lgrs/Sahbi17" mdate="2017-07-26">
+<author orcid="0000-0001-6813-9146">Hichem Sahbi</author>
+<title>Interactive Satellite Image Change Detection With Context-Aware Canonical Correlation Analysis.</title>
+<pages>607-611</pages>
+<year>2017</year>
+<volume>14</volume>
+<journal>IEEE Geosci. Remote Sensing Lett.</journal>
+<number>5</number>
+<url>db/journals/lgrs/lgrs14.html#Sahbi17</url>
+</article>
+</r>
+<r><article key="journals/staeors/OliveauS17" mdate="2019-01-18">
+<author>Quentin Oliveau</author>
+<author>Hichem Sahbi</author>
+<title>Learning Attribute Representations for Remote Sensing Ship Category Classification.</title>
+<pages>2830-2840</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE J Sel. Topics in Appl. Earth Observ. and Remote Sensing</journal>
+<number>6</number>
+<url>db/journals/staeors/staeors10.html#OliveauS17</url>
+</article>
+</r>
+<r><article key="journals/tip/JiuS17" mdate="2018-11-14">
+<author orcid="0000-0002-4868-0709">Mingyuan Jiu</author>
+<author>Hichem Sahbi</author>
+<title>Nonlinear Deep Kernel Learning for Image Annotation.</title>
+<pages>1820-1832</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>IEEE Trans. Image Processing</journal>
+<number>4</number>
+<url>db/journals/tip/tip26.html#JiuS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccvw/Sahbi17" mdate="2018-04-10">
+<author>Hichem Sahbi</author>
+<title>Coarse-to-Fine Deep Kernel Networks.</title>
+<pages>1131-1139</pages>
+<year>2017</year>
+<booktitle>ICCV Workshops</booktitle>
+<crossref>conf/iccvw/2017</crossref>
+<url>db/conf/iccvw/iccvw2017.html#Sahbi17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/OliveauS17" mdate="2017-12-21">
+<author>Quentin Oliveau</author>
+<author>Hichem Sahbi</author>
+<title>Transductive attributes for ship category recognition.</title>
+<pages>894-897</pages>
+<year>2017</year>
+<booktitle>IGARSS</booktitle>
+<crossref>conf/igarss/2017</crossref>
+<url>db/conf/igarss/igarss2017.html#OliveauS17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/0001S17c" mdate="2018-08-13">
+<author>Anjan Dutta 0001</author>
+<author>Hichem Sahbi</author>
+<title>High Order Stochastic Graphlet Embedding for Graph-Based Pattern Recognition.</title>
+<year>2017</year>
+<volume>abs/1702.00156</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.00156</ee>
+<url>db/journals/corr/corr1702.html#0001S17c</url>
+</article>
+</r>
+<r><inproceedings key="conf/clef/Sahbi16" mdate="2019-05-28">
+<author>Hichem Sahbi</author>
+<title>CNRS TELECOM ParisTech at ImageCLEF 2016 Scalable Concept Image Annotation Task: Overcoming the Scarcity of Training Data.</title>
+<pages>371-385</pages>
+<year>2016</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1609/16090371.pdf</ee>
+<crossref>conf/clef/2016w</crossref>
+<url>db/conf/clef/clef2016w.html#Sahbi16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/JiuS16" mdate="2017-05-19">
+<author>Mingyuan Jiu</author>
+<author>Hichem Sahbi</author>
+<title>Laplacian deep kernel learning for image annotation.</title>
+<pages>1551-1555</pages>
+<year>2016</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2016</crossref>
+<url>db/conf/icassp/icassp2016.html#JiuS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/JiuS16a" mdate="2017-05-19">
+<author>Mingyuan Jiu</author>
+<author>Hichem Sahbi</author>
+<title>Deep kernel map networks for image annotation.</title>
+<pages>1571-1575</pages>
+<year>2016</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2016</crossref>
+<url>db/conf/icassp/icassp2016.html#JiuS16a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/OliveauS16" mdate="2017-05-24">
+<author>Quentin Oliveau</author>
+<author>Hichem Sahbi</author>
+<title>Semantic-free attributes for image classification.</title>
+<pages>1577-1582</pages>
+<year>2016</year>
+<booktitle>ICPR</booktitle>
+<crossref>conf/icpr/2016</crossref>
+<url>db/conf/icpr/icpr2016.html#OliveauS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/Sahbi16" mdate="2017-05-24">
+<author>Hichem Sahbi</author>
+<title>Misalignment resilient CCA for interactive satellite image change detection.</title>
+<pages>3326-3331</pages>
+<year>2016</year>
+<booktitle>ICPR</booktitle>
+<crossref>conf/icpr/2016</crossref>
+<url>db/conf/icpr/icpr2016.html#Sahbi16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/OliveauS16" mdate="2017-05-25">
+<author>Quentin Oliveau</author>
+<author>Hichem Sahbi</author>
+<title>Attribute learning for ship category recognition in remote sensing imagery.</title>
+<pages>96-99</pages>
+<year>2016</year>
+<booktitle>IGARSS</booktitle>
+<crossref>conf/igarss/2016</crossref>
+<url>db/conf/igarss/igarss2016.html#OliveauS16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmir/Sahbi15" mdate="2017-05-28">
+<author>Hichem Sahbi</author>
+<title>ImageCLEF annotation with explicit context-aware kernel maps.</title>
+<pages>113-128</pages>
+<year>2015</year>
+<volume>4</volume>
+<journal>IJMIR</journal>
+<number>2</number>
+<url>db/journals/ijmir/ijmir4.html#Sahbi15</url>
+</article>
+</r>
+<r><inproceedings key="conf/acpr/DuttaS15" mdate="2017-06-15">
+<author orcid="0000-0002-1667-2245">Anjan Dutta 0001</author>
+<author>Hichem Sahbi</author>
+<title>High order graphlets for pattern classification.</title>
+<pages>206-210</pages>
+<year>2015</year>
+<booktitle>ACPR</booktitle>
+<crossref>conf/acpr/2015</crossref>
+<url>db/conf/acpr/acpr2015.html#DuttaS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/Sahbi15" mdate="2019-05-28">
+<author>Hichem Sahbi</author>
+<title>CNRS TELECOM ParisTech at ImageCLEF 2015 Scalable Concept Image Annotation Task: Concept Detection with Blind Localization Proposals.</title>
+<year>2015</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1391/33-CR.pdf</ee>
+<crossref>conf/clef/2015w</crossref>
+<url>db/conf/clef/clef2015w.html#Sahbi15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/JiuS15" mdate="2017-05-19">
+<author>Mingyuan Jiu</author>
+<author>Hichem Sahbi</author>
+<title>Semi supervised deep kernel design for image annotation.</title>
+<pages>1156-1160</pages>
+<year>2015</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2015</crossref>
+<url>db/conf/icassp/icassp2015.html#JiuS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/BenhaimSV15" mdate="2017-05-19">
+<author>Eric Benhaim</author>
+<author>Hichem Sahbi</author>
+<author>Guillaume Vitte</author>
+<title>Continuous visual speech recognition for audio speech enhancement.</title>
+<pages>2244-2248</pages>
+<year>2015</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2015</crossref>
+<url>db/conf/icassp/icassp2015.html#BenhaimSV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/VoS15" mdate="2017-05-25">
+<author>Phong D. Vo</author>
+<author>Hichem Sahbi</author>
+<title>Contextual kernel map learning for scene transduction.</title>
+<pages>3797-3801</pages>
+<year>2015</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2015</crossref>
+<url>db/conf/icip/icip2015.html#VoS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/Sahbi15" mdate="2017-05-25">
+<author>Hichem Sahbi</author>
+<title>Discriminant canonical correlation analysis for interactive satellite image change detection.</title>
+<pages>2789-2792</pages>
+<year>2015</year>
+<booktitle>IGARSS</booktitle>
+<crossref>conf/igarss/2015</crossref>
+<url>db/conf/igarss/igarss2015.html#Sahbi15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/WangS14" mdate="2017-05-19">
+<author>Ling Wang</author>
+<author>Hichem Sahbi</author>
+<title>Nonlinear Cross-View Sample Enrichment for Action Recognition.</title>
+<pages>47-62</pages>
+<year>2014</year>
+<booktitle>ECCV Workshops (3)</booktitle>
+<crossref>conf/eccv/2014w3</crossref>
+<url>db/conf/eccv/eccv2014w3.html#WangS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/GhoulS14" mdate="2017-05-19">
+<author>Aymen El Ghoul</author>
+<author>Hichem Sahbi</author>
+<title>Semi-supervised learning using a graph-based phase field model for imbalanced data set classification.</title>
+<pages>2942-2946</pages>
+<year>2014</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2014</crossref>
+<url>db/conf/icassp/icassp2014.html#GhoulS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/BenhaimSV14" mdate="2017-05-19">
+<author>Eric Benhaim</author>
+<author>Hichem Sahbi</author>
+<author>Guillaume Vitte</author>
+<title>Continuous visual speech recognition for multimodal fusion.</title>
+<pages>4618-4622</pages>
+<year>2014</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2014</crossref>
+<url>db/conf/icassp/icassp2014.html#BenhaimSV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/WangS14" mdate="2017-05-25">
+<author>Ling Wang</author>
+<author>Hichem Sahbi</author>
+<title>Bags-of-daglets for action recognition.</title>
+<pages>1550-1554</pages>
+<year>2014</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2014</crossref>
+<url>db/conf/icip/icip2014.html#WangS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/VoS14" mdate="2017-05-25">
+<author>Phong D. Vo</author>
+<author>Hichem Sahbi</author>
+<title>Modeling label dependencies in kernel learning for image annotation.</title>
+<pages>5886-5890</pages>
+<year>2014</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2014</crossref>
+<url>db/conf/icip/icip2014.html#VoS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/Sahbi14" mdate="2019-02-12">
+<author>Hichem Sahbi</author>
+<title>Network-Dependent Image Annotation Based on Explicit Context-Dependent Kernel Maps.</title>
+<pages>625-630</pages>
+<year>2014</year>
+<booktitle>ICPR</booktitle>
+<crossref>conf/icpr/2014</crossref>
+<url>db/conf/icpr/icpr2014.html#Sahbi14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tip/SahbiBSB13" mdate="2018-11-14">
+<author>Hichem Sahbi</author>
+<author orcid="0000-0003-0819-851X">Lamberto Ballan</author>
+<author orcid="0000-0002-4269-4501">Giuseppe Serra</author>
+<author orcid="0000-0002-1052-8322">Alberto Del Bimbo</author>
+<title>Context-Dependent Logo Matching and Recognition.</title>
+<pages>1018-1031</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>IEEE Trans. Image Processing</journal>
+<number>3</number>
+<url>db/journals/tip/tip22.html#SahbiBSB13</url>
+</article>
+</r>
+<r><inproceedings key="conf/clef/Sahbi13" mdate="2019-05-28">
+<author>Hichem Sahbi</author>
+<title>CNRS - TELECOM ParisTech at ImageCLEF 2013 Scalable Concept Image Annotation Task: Winning Annotations with Context Dependent SVMs.</title>
+<year>2013</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1179/CLEF2013wn-ImageCLEF-Sahbi2013.pdf</ee>
+<crossref>conf/clef/2013w</crossref>
+<url>db/conf/clef/clef2013w.html#Sahbi13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/Sahbi13" mdate="2017-05-19">
+<author>Hichem Sahbi</author>
+<title>Relevance feedback for satellite image change detection.</title>
+<pages>1503-1507</pages>
+<year>2013</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2013</crossref>
+<url>db/conf/icassp/icassp2013.html#Sahbi13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/BenhaimSV13" mdate="2017-05-19">
+<author>Eric Benhaim</author>
+<author>Hichem Sahbi</author>
+<author>Guillaume Vitte</author>
+<title>Designing relevant features for visual speech recognition.</title>
+<pages>2420-2424</pages>
+<year>2013</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2013</crossref>
+<url>db/conf/icassp/icassp2013.html#BenhaimSV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/WangS13" mdate="2017-05-24">
+<author>Ling Wang</author>
+<author>Hichem Sahbi</author>
+<title>Directed Acyclic Graph Kernels for Action Recognition.</title>
+<pages>3168-3175</pages>
+<year>2013</year>
+<booktitle>ICCV</booktitle>
+<crossref>conf/iccv/2013</crossref>
+<url>db/conf/iccv/iccv2013.html#WangS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icvs/Sahbi13" mdate="2017-05-23">
+<author>Hichem Sahbi</author>
+<title>Explicit Context-Aware Kernel Map Learning for Image Annotation.</title>
+<pages>304-313</pages>
+<year>2013</year>
+<booktitle>ICVS</booktitle>
+<crossref>conf/icvs/2013</crossref>
+<url>db/conf/icvs/icvs2013.html#Sahbi13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/VoS13" mdate="2017-05-25">
+<author>Phong D. Vo</author>
+<author>Hichem Sahbi</author>
+<title>Semantic subspace learning for mental search in satellite images.</title>
+<pages>1123-1126</pages>
+<year>2013</year>
+<booktitle>IGARSS</booktitle>
+<crossref>conf/igarss/2013</crossref>
+<url>db/conf/igarss/igarss2013.html#VoS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/Sahbi13" mdate="2017-05-25">
+<author>Hichem Sahbi</author>
+<title>Interactive satellite image change detection.</title>
+<pages>3471-3474</pages>
+<year>2013</year>
+<booktitle>IGARSS</booktitle>
+<crossref>conf/igarss/2013</crossref>
+<url>db/conf/igarss/igarss2013.html#Sahbi13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/VoS13" mdate="2018-11-06">
+<author>Phong D. Vo</author>
+<author>Hichem Sahbi</author>
+<title>Spacious: an interactive mental search interface.</title>
+<pages>1081-1082</pages>
+<year>2013</year>
+<booktitle>SIGIR</booktitle>
+<crossref>conf/sigir/2013</crossref>
+<url>db/conf/sigir/sigir2013.html#VoS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pr/YuanXSP12" mdate="2018-02-21">
+<author>Fei Yuan 0003</author>
+<author>Gui-Song Xia</author>
+<author>Hichem Sahbi</author>
+<author>Véronique Prinet</author>
+<title>Mid-level features and spatio-temporal context for activity recognition.</title>
+<pages>4182-4191</pages>
+<year>2012</year>
+<volume>45</volume>
+<journal>Pattern Recognition</journal>
+<number>12</number>
+<url>db/journals/pr/pr45.html#YuanXSP12</url>
+</article>
+</r>
+<r><inproceedings key="conf/bmvc/VoS12" mdate="2017-05-21">
+<author>Dinh-Phong Vo</author>
+<author>Hichem Sahbi</author>
+<title>Transductive Kernel Map Learning and Its Application Image Annotation.</title>
+<pages>1-12</pages>
+<year>2012</year>
+<booktitle>BMVC</booktitle>
+<crossref>conf/bmvc/2012</crossref>
+<url>db/conf/bmvc/bmvc2012.html#VoS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/VoS12" mdate="2017-05-25">
+<author>Dinh-Phong Vo</author>
+<author>Hichem Sahbi</author>
+<title>Transductive inference and kernel design for object class segmentation.</title>
+<pages>2173-2176</pages>
+<year>2012</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2012</crossref>
+<url>db/conf/icip/icip2012.html#VoS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/BourdisMS12" mdate="2017-05-25">
+<author>Nicolas Bourdis</author>
+<author>Denis Marraud</author>
+<author>Hichem Sahbi</author>
+<title>Spatio-temporal interaction for aerial video change detection.</title>
+<pages>2253-2256</pages>
+<year>2012</year>
+<booktitle>IGARSS</booktitle>
+<crossref>conf/igarss/2012</crossref>
+<url>db/conf/igarss/igarss2012.html#BourdisMS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/BourdisMS12a" mdate="2017-05-25">
+<author>Nicolas Bourdis</author>
+<author>Denis Marraud</author>
+<author>Hichem Sahbi</author>
+<title>Camera pose estimation using Visual Servoing for aerial video change detection.</title>
+<pages>3459-3462</pages>
+<year>2012</year>
+<booktitle>IGARSS</booktitle>
+<crossref>conf/igarss/2012</crossref>
+<url>db/conf/igarss/igarss2012.html#BourdisMS12a</url>
+</inproceedings>
+</r>
+<r><article key="journals/pami/SahbiAK11" mdate="2018-11-14">
+<author>Hichem Sahbi</author>
+<author>Jean-Yves Audibert</author>
+<author>Renaud Keriven</author>
+<title>Context-Dependent Kernels for Object Classification.</title>
+<pages>699-708</pages>
+<year>2011</year>
+<volume>33</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>4</number>
+<url>db/journals/pami/pami33.html#SahbiAK11</url>
+</article>
+</r>
+<r><inproceedings key="conf/acpr/YuanXSP11" mdate="2018-02-21">
+<author>Fei Yuan 0003</author>
+<author>Gui-Song Xia</author>
+<author>Hichem Sahbi</author>
+<author>Véronique Prinet</author>
+<title>Spatio-Temporal Interest Points Chain (STIPC) for activity recognition.</title>
+<pages>22-26</pages>
+<year>2011</year>
+<booktitle>ACPR</booktitle>
+<crossref>conf/acpr/2011</crossref>
+<url>db/conf/acpr/acpr2011.html#YuanXSP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acpr/YuanSP11" mdate="2018-02-22">
+<author>Fei Yuan 0003</author>
+<author>Hichem Sahbi</author>
+<author>Véronique Prinet</author>
+<title>Spatio-temporal context kernel for activity recognition.</title>
+<pages>436-440</pages>
+<year>2011</year>
+<booktitle>ACPR</booktitle>
+<crossref>conf/acpr/2011</crossref>
+<url>db/conf/acpr/acpr2011.html#YuanSP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LiS11" mdate="2017-10-18">
+<author>Xi Li 0001</author>
+<author>Hichem Sahbi</author>
+<title>Superpixel-based object class segmentation using conditional random fields.</title>
+<pages>1101-1104</pages>
+<year>2011</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2011</crossref>
+<url>db/conf/icassp/icassp2011.html#LiS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/BourdisMS11" mdate="2017-05-25">
+<author>Nicolas Bourdis</author>
+<author>Denis Marraud</author>
+<author>Hichem Sahbi</author>
+<title>Constrained optical flow for aerial image change detection.</title>
+<pages>4176-4179</pages>
+<year>2011</year>
+<booktitle>IGARSS</booktitle>
+<crossref>conf/igarss/2011</crossref>
+<url>db/conf/igarss/igarss2011.html#BourdisMS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/ejivp/NapoleonS10" mdate="2019-06-02">
+<author>Thibault Napoléon</author>
+<author>Hichem Sahbi</author>
+<title>From 2D Silhouettes to 3D Object Retrieval: Contributions and Benchmarking.</title>
+<year>2010</year>
+<volume>2010</volume>
+<journal>EURASIP J. Image and Video Processing</journal>
+<ee type="oa">https://doi.org/10.1155/2010/367181</ee>
+<url>db/journals/ejivp/ejivp2010.html#NapoleonS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dica/NapoleonS10" mdate="2017-05-23">
+<author>Thibault Napoléon</author>
+<author>Hichem Sahbi</author>
+<title>Sketch-driven mental 3D object retrieval.</title>
+<pages>75260L</pages>
+<year>2010</year>
+<booktitle>Three-Dimensional Image Processing (3DIP) and Applications</booktitle>
+<crossref>conf/3dica/2010</crossref>
+<url>db/conf/3dica/3dip2010.html#NapoleonS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/accv/SahbiL10" mdate="2017-10-18">
+<author>Hichem Sahbi</author>
+<author>Xi Li 0001</author>
+<title>Context-Based Support Vector Machines for Interconnected Image Annotation.</title>
+<pages>214-227</pages>
+<year>2010</year>
+<booktitle>ACCV (1)</booktitle>
+<crossref>conf/accv/2010-1</crossref>
+<url>db/conf/accv/accv2010-1.html#SahbiL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/SahbiL10" mdate="2019-05-28">
+<author>Hichem Sahbi</author>
+<author>Xi Li 0001</author>
+<title>TELECOM ParisTech at ImageCLEF 2010 Photo Annotation Task: Combining Tags and Visual Features for Learning-Based Image Annotation.</title>
+<year>2010</year>
+<booktitle>CLEF (Notebook Papers/LABs/Workshops)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1176/CLEF2010wn-ImageCLEF-SahbiEt2010.pdf</ee>
+<crossref>conf/clef/2010w</crossref>
+<url>db/conf/clef/clef2010w.html#SahbiL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SahbiA10" mdate="2017-05-25">
+<author>Hichem Sahbi</author>
+<author>Jean-Yves Audibert</author>
+<title>Network-dependent kernels for image ranking.</title>
+<pages>2357-2360</pages>
+<year>2010</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2010</crossref>
+<url>db/conf/icip/icip2010.html#SahbiA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/SahbiL10" mdate="2018-11-06">
+<author>Hichem Sahbi</author>
+<author>Xi Li 0001</author>
+<title>Context dependent SVMs for interconnected image network annotation.</title>
+<pages>735-738</pages>
+<year>2010</year>
+<booktitle>ACM Multimedia</booktitle>
+<crossref>conf/mm/2010</crossref>
+<url>db/conf/mm/mm2010.html#SahbiL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/FerecatuS09" mdate="2019-05-28">
+<author>Marin Ferecatu</author>
+<author>Hichem Sahbi</author>
+<title>TELECOM ParisTech at ImageClef 2009: Large Scale Visual Concept Detection and Annotation Task.</title>
+<year>2009</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1175/CLEF2009wn-ImageCLEF-FerecatuEt2009.pdf</ee>
+<crossref>conf/clef/2009w</crossref>
+<url>db/conf/clef/clef2009w.html#FerecatuS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/GlotinFMFZTQSDG09" mdate="2019-05-28">
+<author>Hervé Glotin</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Philippe Mulhem</author>
+<author>Marin Ferecatu</author>
+<author>Z. Zhao</author>
+<author>Sabrina Tollari</author>
+<author>Georges Quénot</author>
+<author>Hichem Sahbi</author>
+<author>Emilie Dumont</author>
+<author>Patrick Gallinari</author>
+<title>Comparison of Various AVEIR Visual Concept Detectors with an Index of Carefulness.</title>
+<year>2009</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1175/CLEF2009wn-ImageCLEF-GlotinEt2009a.pdf</ee>
+<crossref>conf/clef/2009w</crossref>
+<url>db/conf/clef/clef2009w.html#GlotinFMFZTQSDG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/NapoleonS09" mdate="2017-05-25">
+<author>Thibault Napoléon</author>
+<author>Hichem Sahbi</author>
+<title>Content-based 3D object retrieval using 2D views.</title>
+<pages>1437-1440</pages>
+<year>2009</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2009</crossref>
+<url>db/conf/icip/icip2009.html#NapoleonS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/FerecatuS09" mdate="2017-05-25">
+<author>Marin Ferecatu</author>
+<author>Hichem Sahbi</author>
+<title>Multi-view object matching and tracking using canonical correlation analysis.</title>
+<pages>2109-2112</pages>
+<year>2009</year>
+<booktitle>ICIP</booktitle>
+<crossref>conf/icip/2009</crossref>
+<url>db/conf/icip/icip2009.html#FerecatuS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pcm/HanLSC09" mdate="2017-06-05">
+<author>Yina Han</author>
+<author>Guizhong Liu</author>
+<author>Hichem Sahbi</author>
+<author orcid="0000-0003-4245-146X">Gérard Chollet</author>
+<title>A Graph Based Approach to Speaker Retrieval in Talk Show Videos with Transcript-Based Supervision.</title>
+<pages>962-967</pages>
+<year>2009</year>
+<booktitle>PCM</booktitle>
+<crossref>conf/pcm/2009</crossref>
+<url>db/conf/pcm/pcm2009.html#HanLSC09</url>
+</inproceedings>
+</r>
+<r><article key="journals/soco/Sahbi08" mdate="2017-05-20">
+<author>Hichem Sahbi</author>
+<title>A particular Gaussian mixture model for clustering and its application to image retrieval.</title>
+<pages>667-676</pages>
+<year>2008</year>
+<volume>12</volume>
+<journal>Soft Comput.</journal>
+<number>7</number>
+<url>db/journals/soco/soco12.html#Sahbi08</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbmi/SahbiARK08" mdate="2017-05-26">
+<author>Hichem Sahbi</author>
+<author>Jean-Yves Audibert</author>
+<author>Jaonary Rabarisoa</author>
+<author>Renaud Keriven</author>
+<title>Object recognition and retrieval by context dependent similarity kernels.</title>
+<pages>216-223</pages>
+<year>2008</year>
+<booktitle>CBMI</booktitle>
+<crossref>conf/cbmi/2008</crossref>
+<url>db/conf/cbmi/cbmi2008.html#SahbiARK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/FerecatuS08" mdate="2019-05-28">
+<author>Marin Ferecatu</author>
+<author>Hichem Sahbi</author>
+<title>TELECOMParisTech at ImageClefphoto 2008: Bi-Modal Text and Image Retrieval with Diversity Enhancement.</title>
+<year>2008</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1174/CLEF2008wn-ImageCLEF-FerecatuEt2008.pdf</ee>
+<crossref>conf/clef/2008w</crossref>
+<url>db/conf/clef/clef2008w.html#FerecatuS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/TollariDFGMAFGSZ08" mdate="2019-05-28">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Marin Ferecatu</author>
+<author>Hervé Glotin</author>
+<author>Philippe Mulhem</author>
+<author>Massih-Reza Amini</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Patrick Gallinari</author>
+<author>Hichem Sahbi</author>
+<author>Zhong-Qiu Zhao</author>
+<title>Consortium AVEIR at ImageCLEFphoto 2008: on the Fusion of Runs.</title>
+<year>2008</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1174/CLEF2008wn-ImageCLEF-TollariEt2008b.pdf</ee>
+<crossref>conf/clef/2008w</crossref>
+<url>db/conf/clef/clef2008w.html#TollariDFGMAFGSZ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/TollariMFGDGSZ08" mdate="2017-05-24">
+<author>Sabrina Tollari</author>
+<author>Philippe Mulhem</author>
+<author>Marin Ferecatu</author>
+<author>Hervé Glotin</author>
+<author>Marcin Detyniecki</author>
+<author>Patrick Gallinari</author>
+<author>Hichem Sahbi</author>
+<author>Zhong-Qiu Zhao</author>
+<title>A Comparative Study of Diversity Methods for Hybrid Text and Image Retrieval Approaches.</title>
+<pages>585-592</pages>
+<year>2008</year>
+<booktitle>CLEF</booktitle>
+<crossref>conf/clef/2008</crossref>
+<url>db/conf/clef/clef2008.html#TollariMFGDGSZ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/SahbiARK08" mdate="2017-05-25">
+<author>Hichem Sahbi</author>
+<author>Jean-Yves Audibert</author>
+<author>Jaonary Rabarisoa</author>
+<author>Renaud Keriven</author>
+<title>Context-dependent kernel design for object matching and recognition.</title>
+<year>2008</year>
+<booktitle>CVPR</booktitle>
+<crossref>conf/cvpr/2008</crossref>
+<url>db/conf/cvpr/cvpr2008.html#SahbiARK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/SahbiEAK08" mdate="2017-05-25">
+<author>Hichem Sahbi</author>
+<author>Patrick Etyngier</author>
+<author>Jean-Yves Audibert</author>
+<author>Renaud Keriven</author>
+<title>Manifold learning using robust Graph Laplacian for interactive image search.</title>
+<year>2008</year>
+<booktitle>CVPR</booktitle>
+<crossref>conf/cvpr/2008</crossref>
+<url>db/conf/cvpr/cvpr2008.html#SahbiEAK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/SahbiEAK08" mdate="2017-05-19">
+<author>Hichem Sahbi</author>
+<author>Patrick Etyngier</author>
+<author>Jean-Yves Audibert</author>
+<author>Renaud Keriven</author>
+<title>Graph laplacian for interactive image retrieval.</title>
+<pages>817-820</pages>
+<year>2008</year>
+<booktitle>ICASSP</booktitle>
+<crossref>conf/icassp/2008</crossref>
+<url>db/conf/icassp/icassp2008.html#SahbiEAK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/SahbiARK08" mdate="2018-11-06">
+<author>Hichem Sahbi</author>
+<author>Jean-Yves Audibert</author>
+<author>Jaonary Rabarisoa</author>
+<author>Renaud Keriven</author>
+<title>Robust matching and recognition using context-dependent kernels.</title>
+<pages>856-863</pages>
+<year>2008</year>
+<booktitle>ICML</booktitle>
+<crossref>conf/icml/2008</crossref>
+<url>db/conf/icml/icml2008.html#SahbiARK08</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/Sahbi07" mdate="2017-05-20">
+<author>Hichem Sahbi</author>
+<title>Kernel PCA for similarity invariant shape recognition.</title>
+<pages>3034-3045</pages>
+<year>2007</year>
+<volume>70</volume>
+<journal>Neurocomputing</journal>
+<number>16-18</number>
+<url>db/journals/ijon/ijon70.html#Sahbi07</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/SimBGSW07" mdate="2017-05-19">
+<author>Khe Chai Sim</author>
+<author>William J. Byrne</author>
+<author>Mark J. F. Gales</author>
+<author>Hichem Sahbi</author>
+<author>Philip C. Woodland</author>
+<title>Consensus Network Decoding for Statistical Machine Translation System Combination.</title>
+<pages>105-108</pages>
+<year>2007</year>
+<booktitle>ICASSP (4)</booktitle>
+<crossref>conf/icassp/2007</crossref>
+<url>db/conf/icassp/icassp2007-4.html#SimBGSW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/SahbiAK07" mdate="2017-05-24">
+<author>Hichem Sahbi</author>
+<author>Jean-Yves Audibert</author>
+<author>Renaud Keriven</author>
+<title>Graph-Cut Transducers for Relevance Feedback in Content Based Image Retrieval.</title>
+<pages>1-8</pages>
+<year>2007</year>
+<booktitle>ICCV</booktitle>
+<crossref>conf/iccv/2007</crossref>
+<url>db/conf/iccv/iccv2007.html#SahbiAK07</url>
+</inproceedings>
+</r>
+<r><article key="journals/jmlr/SahbiG06" mdate="2019-07-10">
+<author>Hichem Sahbi</author>
+<author>Donald Geman</author>
+<title>A Hierarchy of Support Vector Machines for Pattern Detection.</title>
+<pages>2087-2123</pages>
+<year>2006</year>
+<volume>7</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v7/sahbi06a.html</ee>
+<url>db/journals/jmlr/jmlr7.html#SahbiG06</url>
+</article>
+</r>
+<r><inproceedings key="conf/sswmc/ThiemertSS06" mdate="2017-05-23">
+<author>Stefan Thiemert</author>
+<author>Hichem Sahbi</author>
+<author>Martin Steinebach</author>
+<title>Using entropy for image and video authentication watermarks.</title>
+<pages>607218</pages>
+<year>2006</year>
+<booktitle>Security, Steganography, and Watermarking of Multimedia Contents</booktitle>
+<crossref>conf/sswmc/2006</crossref>
+<url>db/conf/sswmc/sswmc2006.html#ThiemertSS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/SahbiB05" mdate="2017-05-21">
+<author>Hichem Sahbi</author>
+<author>Nozha Boujemaa</author>
+<title>Validity of Fuzzy Clustering Using Entropy Regularization.</title>
+<pages>177-182</pages>
+<year>2005</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2005</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2005.html#SahbiB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sswmc/ThiemertSS05" mdate="2017-05-23">
+<author>Stefan Thiemert</author>
+<author>Hichem Sahbi</author>
+<author>Martin Steinebach</author>
+<title>Applying interest operators in semi-fragile video watermarking.</title>
+<pages>353-362</pages>
+<year>2005</year>
+<crossref>conf/sswmc/2005</crossref>
+<booktitle>Security, Steganography, and Watermarking of Multimedia Contents</booktitle>
+<url>db/conf/sswmc/sswmc2005.html#ThiemertSS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzy/SahbiB04" mdate="2017-05-19">
+<author>Hichem Sahbi</author>
+<author>Nozha Boujemaa</author>
+<title>Fuzzy Clustering: Consistency of Entropy Regularization.</title>
+<pages>95-107</pages>
+<year>2004</year>
+<booktitle>Fuzzy Days</booktitle>
+<crossref>conf/fuzzy/2004</crossref>
+<url>db/conf/fuzzy/fuzzy2004.html#SahbiB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/BoujemaaFGS04" mdate="2017-05-25">
+<author>Nozha Boujemaa</author>
+<author>François Fleuret</author>
+<author>Valérie Gouet</author>
+<author>Hichem Sahbi</author>
+<title>Automatic textual annotation of video news based on semantic visual object extraction.</title>
+<pages>329-339</pages>
+<year>2004</year>
+<booktitle>Storage and Retrieval Methods and Applications for Multimedia</booktitle>
+<crossref>conf/spieSR/2004</crossref>
+<url>db/conf/spieSR/spieSR2004.html#BoujemaaFGS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/SahbiB02" mdate="2017-05-26">
+<author>Hichem Sahbi</author>
+<author>Nozha Boujemaa</author>
+<title>Coarse to Fine Face Detection Based on Skin Color Adaption.</title>
+<pages>112-120</pages>
+<year>2002</year>
+<crossref>conf/eccv/2002w</crossref>
+<booktitle>Biometric Authentication</booktitle>
+<url>db/conf/eccv/eccv2002w.html#SahbiB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/SahbiB02a" mdate="2017-05-26">
+<author>Hichem Sahbi</author>
+<author>Nozha Boujemaa</author>
+<title>Robust Face Recognition Using Dynamic Space Warping.</title>
+<pages>121-132</pages>
+<year>2002</year>
+<crossref>conf/eccv/2002w</crossref>
+<booktitle>Biometric Authentication</booktitle>
+<url>db/conf/eccv/eccv2002w.html#SahbiB02a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SahbiBG02" mdate="2017-05-25">
+<author>Hichem Sahbi</author>
+<author>Donald Geman</author>
+<author>Nozha Boujemaa</author>
+<title>Face detection using coarse-to-fine support vector classifiers.</title>
+<pages>925-928</pages>
+<year>2002</year>
+<crossref>conf/icip/2002</crossref>
+<booktitle>ICIP (3)</booktitle>
+<url>db/conf/icip/icip2002-3.html#SahbiBG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/SahbiB02" mdate="2017-05-24">
+<author>Hichem Sahbi</author>
+<author>Nozha Boujemaa</author>
+<title>Coarse-to-Fine Support Vector Classifiers for Face Detection.</title>
+<pages>359-362</pages>
+<year>2002</year>
+<crossref>conf/icpr/2002</crossref>
+<booktitle>ICPR (3)</booktitle>
+<url>db/conf/icpr/icpr2002-3.html#SahbiB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SahbiB01" mdate="2017-05-25">
+<author>Hichem Sahbi</author>
+<author>Nozha Boujemaa</author>
+<title>Robust matching by dynamic space warping for accurate face recognition.</title>
+<pages>1010-1013</pages>
+<year>2001</year>
+<crossref>conf/icip/2001</crossref>
+<booktitle>ICIP (1)</booktitle>
+<url>db/conf/icip/icip2001-1.html#SahbiB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/SahbiB00" mdate="2018-11-29">
+<author>Hichem Sahbi</author>
+<author>Nozha Boujemaa</author>
+<title>From <i>coarse to fine</i> skin and face detection.</title>
+<pages>432-434</pages>
+<year>2000</year>
+<crossref>conf/mm/2000</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<url>db/conf/mm/mm2000.html#SahbiB00</url>
+</inproceedings>
+</r>
+<coauthors n="56" nc="10">
+<co c="0"><na f="a/Amini:Massih=Reza">Massih-Reza Amini</na></co>
+<co c="2"><na f="a/Audibert:Jean=Yves">Jean-Yves Audibert</na></co>
+<co c="0"><na f="b/Ballan:Lamberto">Lamberto Ballan</na></co>
+<co c="6"><na f="b/Benhaim:Eric">Eric Benhaim</na></co>
+<co c="0"><na f="b/Bimbo:Alberto_Del">Alberto Del Bimbo</na></co>
+<co c="0"><na f="b/Boujemaa:Nozha">Nozha Boujemaa</na></co>
+<co c="8"><na f="b/Bourdis:Nicolas">Nicolas Bourdis</na></co>
+<co c="0"><na f="b/Bris:Arnaud_Le">Arnaud Le Bris</na></co>
+<co c="1"><na f="b/Byrne:William_J=">William J. Byrne</na></co>
+<co c="3"><na f="c/Chollet:G=eacute=rard">Gérard Chollet</na></co>
+<co c="0"><na f="d/Detyniecki:Marcin">Marcin Detyniecki</na></co>
+<co c="0"><na f="d/Dumont:Emilie">Emilie Dumont</na></co>
+<co c="-1"><na f="d/Dutta_0001:Anjan">Anjan Dutta 0001</na></co>
+<co c="2"><na f="e/Etyngier:Patrick">Patrick Etyngier</na></co>
+<co c="0"><na f="f/Fakeri=Tabrizi:Ali">Ali Fakeri-Tabrizi</na></co>
+<co c="0"><na f="f/Ferecatu:Marin">Marin Ferecatu</na></co>
+<co c="0"><na f="f/Fleuret:Fran=ccedil=ois">François Fleuret</na></co>
+<co c="1"><na f="g/Gales:Mark_J=_F=">Mark J. F. Gales</na></co>
+<co c="0"><na f="g/Gallinari:Patrick">Patrick Gallinari</na></co>
+<co c="0"><na f="g/Geman:Donald">Donald Geman</na></co>
+<co c="-1"><na f="g/Ghoul:Aymen_El">Aymen El Ghoul</na></co>
+<co c="0"><na f="g/Glotin:Herv=eacute=">Hervé Glotin</na></co>
+<co c="0" n="2"><na f="g/Gouet=Brunet:Val=eacute=rie">Valérie Gouet-Brunet</na><na>Valérie Gouet</na></co>
+<co c="3"><na f="h/Han:Yina">Yina Han</na></co>
+<co c="7"><na f="j/Jiu:Mingyuan">Mingyuan Jiu</na></co>
+<co c="2"><na f="k/Keriven:Renaud">Renaud Keriven</na></co>
+<co c="4"><na f="l/Labed:Abdenour">Abdenour Labed</na></co>
+<co c="-1"><na f="l/Li_0001:Xi">Xi Li 0001</na></co>
+<co c="3"><na f="l/Liu:Guizhong">Guizhong Liu</na></co>
+<co c="0"><na f="m/Mallet:Cl=eacute=ment">Clément Mallet</na></co>
+<co c="8"><na f="m/Marraud:Denis">Denis Marraud</na></co>
+<co c="-1"><na f="m/Mazari:Ahmed">Ahmed Mazari</na></co>
+<co c="0"><na f="m/Mulhem:Philippe">Philippe Mulhem</na></co>
+<co c="4"><na f="n/Nadil:Malek">Malek Nadil</na></co>
+<co c="0"><na f="n/Napol=eacute=on:Thibault">Thibault Napoléon</na></co>
+<co c="-1"><na f="o/Oliveau:Quentin">Quentin Oliveau</na></co>
+<co c="0"><na f="p/Postadjian:Tristan">Tristan Postadjian</na></co>
+<co c="5"><na f="p/Prinet:V=eacute=ronique">Véronique Prinet</na></co>
+<co c="7"><na f="q/Qi:Lin">Lin Qi</na></co>
+<co c="0"><na f="q/Qu=eacute=not:Georges">Georges Quénot</na></co>
+<co c="2"><na f="r/Rabarisoa:Jaonary">Jaonary Rabarisoa</na></co>
+<co c="0"><na f="s/Serra:Giuseppe">Giuseppe Serra</na></co>
+<co c="1"><na f="s/Sim:Khe_Chai">Khe Chai Sim</na></co>
+<co c="4"><na f="s/Souami:Feryel">Feryel Souami</na></co>
+<co c="9"><na f="s/Steinebach:Martin">Martin Steinebach</na></co>
+<co c="9"><na f="t/Thiemert:Stefan">Stefan Thiemert</na></co>
+<co c="0"><na f="t/Tollari:Sabrina">Sabrina Tollari</na></co>
+<co c="6"><na f="v/Vitte:Guillaume">Guillaume Vitte</na></co>
+<co c="-1"><na f="v/Vo:Dinh=Phong">Dinh-Phong Vo</na></co>
+<co c="-1"><na f="v/Vo:Phong_D=">Phong D. Vo</na></co>
+<co c="-1"><na f="w/Wang:Ling">Ling Wang</na></co>
+<co c="1"><na f="w/Woodland:Philip_C=">Philip C. Woodland</na></co>
+<co c="5"><na f="x/Xia:Gui=Song">Gui-Song Xia</na></co>
+<co c="5"><na f="y/Yuan_0003:Fei">Fei Yuan 0003</na></co>
+<co c="0"><na f="z/Zhao:Z=">Z. Zhao</na></co>
+<co c="0"><na f="z/Zhao:Zhong=Qiu">Zhong-Qiu Zhao</na></co>
+</coauthors>
+</dblpperson>
+

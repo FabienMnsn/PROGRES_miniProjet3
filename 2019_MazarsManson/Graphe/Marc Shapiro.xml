@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Marc Shapiro">
+<homonyms n="2">
+<h f="s/Shapiro_0001:Marc"><person key="homepages/s/MarcShapiro" mdate="2018-10-17">
+<author>Marc Shapiro 0001</author>
+<url>http://lip6.fr/Marc.Shapiro/</url>
+<url>https://scholar.google.com/citations?user=mqSQZ0EAAAAJ</url>
+<url>https://dl.acm.org/author_page.cfm?id=81100431017</url>
+<url>https://orcid.org/0000-0002-8953-9322</url>
+<note type="affiliation">Sorbonne University, LIP6, Paris, France</note>
+<note type="affiliation">Pierre and Marie Curie University, LIP6, Paris, France</note>
+<note type="affiliation">Inria, Paris, France</note>
+</person>
+</h>
+<h f="s/Shapiro_0002:Marc"><person key="homepages/61/393" mdate="2017-11-03">
+<author>Marc Shapiro 0002</author>
+<note type="affiliation">University of Wisconsin-Madison, Computer Sciences Department, WI, USA</note>
+</person>
+</h>
+</homonyms>
+</dblpperson>
+

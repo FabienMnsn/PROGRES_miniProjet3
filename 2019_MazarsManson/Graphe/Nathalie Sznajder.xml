@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Nathalie Sznajder" n="22">
+<person key="homepages/94/3760" mdate="2009-06-10">
+<author>Nathalie Sznajder</author>
+</person>
+<r><incollection key="series/lncs/Potop-ButucaruSTU19" mdate="2019-02-20">
+<author>Maria Potop-Butucaru</author>
+<author>Nathalie Sznajder</author>
+<author>Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>Formal Methods for Mobile Robots.</title>
+<pages>278-313</pages>
+<year>2019</year>
+<booktitle>Distributed Computing by Mobile Entities</booktitle>
+<crossref>series/lncs/11340</crossref>
+<url>db/series/lncs/lncs11340.html#Potop-ButucaruSTU19</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-14294" mdate="2019-11-04">
+<author>Béatrice Bérard</author>
+<author>Benedikt Bollig</author>
+<author>Mathieu Lehaut</author>
+<author>Nathalie Sznajder</author>
+<title>Parameterized Synthesis for Fragments of First-Order Logic over Data Words.</title>
+<year>2019</year>
+<volume>abs/1910.14294</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.14294</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-14294</url>
+</article>
+</r>
+<r><inproceedings key="conf/atva/BolligLS18" mdate="2018-10-01">
+<author>Benedikt Bollig</author>
+<author>Mathieu Lehaut</author>
+<author>Nathalie Sznajder</author>
+<title>Round-Bounded Control of Parameterized Systems.</title>
+<pages>370-386</pages>
+<year>2018</year>
+<booktitle>ATVA</booktitle>
+<crossref>conf/atva/2018</crossref>
+<url>db/conf/atva/atva2018.html#BolligLS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmcad/SangnierSPT17" mdate="2017-11-17">
+<author>Arnaud Sangnier</author>
+<author>Nathalie Sznajder</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Parameterized verification of algorithms for oblivious robots on a ring.</title>
+<pages>212-219</pages>
+<year>2017</year>
+<booktitle>FMCAD</booktitle>
+<crossref>conf/fmcad/2017</crossref>
+<url>db/conf/fmcad/fmcad2017.html#SangnierSPT17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SangnierSPT17" mdate="2018-08-13">
+<author>Arnaud Sangnier</author>
+<author>Nathalie Sznajder</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Parameterized Verification of Algorithms for Oblivious Robots on a Ring.</title>
+<year>2017</year>
+<volume>abs/1706.05193</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.05193</ee>
+<url>db/journals/corr/corr1706.html#SangnierSPT17</url>
+</article>
+</r>
+<r><inproceedings key="conf/formats/BrihayeEGHMS16" mdate="2019-10-19">
+<author>Thomas Brihaye</author>
+<author>Morgane Estiévenart</author>
+<author>Gilles Geeraerts</author>
+<author orcid="0000-0003-0387-4857">Hsi-Ming Ho</author>
+<author>Benjamin Monmege</author>
+<author>Nathalie Sznajder</author>
+<title>Real-Time Synthesis is Hard!</title>
+<pages>105-120</pages>
+<year>2016</year>
+<booktitle>FORMATS</booktitle>
+<crossref>conf/formats/2016</crossref>
+<url>db/conf/formats/formats2016.html#BrihayeEGHMS16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BrihayeEGHMS16" mdate="2018-08-13">
+<author>Thomas Brihaye</author>
+<author>Morgane Estiévenart</author>
+<author>Gilles Geeraerts</author>
+<author>Hsi-Ming Ho</author>
+<author>Benjamin Monmege</author>
+<author>Nathalie Sznajder</author>
+<title>Real-Time Synthesis is Hard!</title>
+<year>2016</year>
+<volume>abs/1606.07124</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.07124</ee>
+<url>db/journals/corr/corr1606.html#BrihayeEGHMS16</url>
+</article>
+</r>
+<r><article key="journals/ipl/BerardCS15" mdate="2018-11-30">
+<author>Béatrice Bérard</author>
+<author orcid="0000-0002-4561-241X">Krishnendu Chatterjee</author>
+<author>Nathalie Sznajder</author>
+<title>Probabilistic opacity for Markov decision processes.</title>
+<pages>52-59</pages>
+<year>2015</year>
+<volume>115</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl115.html#BerardCS15</url>
+</article>
+</r>
+<r><article key="journals/fmsd/GeeraertsRS14" mdate="2017-05-27">
+<author>Gilles Geeraerts</author>
+<author>Jean-François Raskin</author>
+<author>Nathalie Sznajder</author>
+<title>On regions and zones for event-clock automata.</title>
+<pages>330-380</pages>
+<year>2014</year>
+<volume>45</volume>
+<journal>Formal Methods in System Design</journal>
+<number>3</number>
+<url>db/journals/fmsd/fmsd45.html#GeeraertsRS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/sss/MilletPST14" mdate="2017-05-25">
+<author>Laure Millet</author>
+<author>Maria Potop-Butucaru</author>
+<author>Nathalie Sznajder</author>
+<author>Sébastien Tixeuil</author>
+<title>On the Synthesis of Mobile Robots Algorithms: The Case of Ring Gathering.</title>
+<pages>237-251</pages>
+<year>2014</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2014</crossref>
+<url>db/conf/sss/sss2014.html#MilletPST14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MilletPST14" mdate="2018-08-13">
+<author>Laure Millet</author>
+<author>Maria Potop-Butucaru</author>
+<author>Nathalie Sznajder</author>
+<author>Sébastien Tixeuil</author>
+<title>On the Synthesis of Mobile Robots Algorithms: the Case of Ring Gathering.</title>
+<year>2014</year>
+<volume>abs/1407.0978</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.0978</ee>
+<url>db/journals/corr/corr1407.html#MilletPST14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BerardCS14" mdate="2018-08-13">
+<author>Béatrice Bérard</author>
+<author>Krishnendu Chatterjee</author>
+<author>Nathalie Sznajder</author>
+<title>Probabilistic Opacity for Markov Decision Processes.</title>
+<year>2014</year>
+<volume>abs/1407.4225</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.4225</ee>
+<url>db/journals/corr/corr1407.html#BerardCS14</url>
+</article>
+</r>
+<r><article key="journals/tocl/GastinS13" mdate="2018-11-06">
+<author>Paul Gastin</author>
+<author>Nathalie Sznajder</author>
+<title>Fair Synthesis for Asynchronous Distributed Systems.</title>
+<pages>9:1-9:31</pages>
+<year>2013</year>
+<volume>14</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>2</number>
+<url>db/journals/tocl/tocl14.html#GastinS13</url>
+</article>
+</r>
+<r><article key="journals/ipl/GastinS12" mdate="2017-05-26">
+<author>Paul Gastin</author>
+<author>Nathalie Sznajder</author>
+<title>Decidability of well-connectedness for distributed synthesis.</title>
+<pages>963-968</pages>
+<year>2012</year>
+<volume>112</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>24</number>
+<url>db/journals/ipl/ipl112.html#GastinS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/concur/BerardHSS12" mdate="2017-05-23">
+<author>Béatrice Bérard</author>
+<author>Serge Haddad</author>
+<author>Mathieu Sassolas</author>
+<author>Nathalie Sznajder</author>
+<title>Concurrent Games on VASS with Inhibition.</title>
+<pages>39-52</pages>
+<year>2012</year>
+<booktitle>CONCUR</booktitle>
+<crossref>conf/concur/2012</crossref>
+<url>db/conf/concur/concur2012.html#BerardHSS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/formats/GeeraertsRS11" mdate="2018-11-02">
+<author>Gilles Geeraerts</author>
+<author orcid="0000-0002-3673-1097">Jean-François Raskin</author>
+<author>Nathalie Sznajder</author>
+<title>Event Clock Automata: From Theory to Practice.</title>
+<pages>209-224</pages>
+<year>2011</year>
+<booktitle>FORMATS</booktitle>
+<crossref>conf/formats/2011</crossref>
+<url>db/conf/formats/formats2011.html#GeeraertsRS11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1107-4138" mdate="2018-08-13">
+<author>Gilles Geeraerts</author>
+<author>Jean-François Raskin</author>
+<author>Nathalie Sznajder</author>
+<title>Event-Clock Automata: From Theory to Practice</title>
+<ee type="oa">http://arxiv.org/abs/1107.4138</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1107.4138</volume>
+<url>db/journals/corr/corr1107.html#abs-1107-4138</url>
+</article>
+</r>
+<r><inproceedings key="conf/formats/GiampaoloGRS10" mdate="2017-05-26">
+<author>Barbara Di Giampaolo</author>
+<author>Gilles Geeraerts</author>
+<author>Jean-François Raskin</author>
+<author>Nathalie Sznajder</author>
+<title>Safraless Procedures for Timed Specifications.</title>
+<pages>2-22</pages>
+<year>2010</year>
+<booktitle>FORMATS</booktitle>
+<crossref>conf/formats/2010</crossref>
+<url>db/conf/formats/formats2010.html#GiampaoloGRS10</url>
+</inproceedings>
+</r>
+<r><article key="journals/fmsd/GastinSZ09" mdate="2017-05-27">
+<author>Paul Gastin</author>
+<author>Nathalie Sznajder</author>
+<author>Marc Zeitoun</author>
+<title>Distributed synthesis for well-connected architectures.</title>
+<pages>215-237</pages>
+<year>2009</year>
+<volume>34</volume>
+<journal>Formal Methods in System Design</journal>
+<number>3</number>
+<url>db/journals/fmsd/fmsd34.html#GastinSZ09</url>
+</article>
+</r>
+<r><inproceedings key="conf/sofsem/ChatainGS09" mdate="2017-05-23">
+<author>Thomas Chatain</author>
+<author>Paul Gastin</author>
+<author>Nathalie Sznajder</author>
+<title>Natural Specifications Yield Decidability for Distributed Synthesis of Asynchronous Systems.</title>
+<pages>141-152</pages>
+<year>2009</year>
+<booktitle>SOFSEM</booktitle>
+<crossref>conf/sofsem/2009</crossref>
+<url>db/conf/sofsem/sofsem2009.html#ChatainGS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibe/AbateBSTT07" mdate="2019-11-06">
+<author>Alessandro Abate</author>
+<author>Yu Bai</author>
+<author>Nathalie Sznajder</author>
+<author>Carolyn L. Talcott</author>
+<author>Ashish Tiwari 0001</author>
+<title>Quantitative and Probabilistic Modeling in Pathway Logic.</title>
+<pages>922-929</pages>
+<year>2007</year>
+<crossref>conf/bibe/2007</crossref>
+<booktitle>BIBE</booktitle>
+<url>db/conf/bibe/bibe2007.html#AbateBSTT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fsttcs/GastinSZ06" mdate="2017-05-24">
+<author>Paul Gastin</author>
+<author>Nathalie Sznajder</author>
+<author>Marc Zeitoun</author>
+<title>Distributed Synthesis for Well-Connected Architectures.</title>
+<pages>321-332</pages>
+<year>2006</year>
+<crossref>conf/fsttcs/2006</crossref>
+<booktitle>FSTTCS</booktitle>
+<url>db/conf/fsttcs/fsttcs2006.html#GastinSZ06</url>
+</inproceedings>
+</r>
+<coauthors n="25" nc="1">
+<co c="0"><na f="a/Abate:Alessandro">Alessandro Abate</na></co>
+<co c="0"><na f="b/Bai:Yu">Yu Bai</na></co>
+<co c="0"><na f="b/B=eacute=rard:B=eacute=atrice">Béatrice Bérard</na></co>
+<co c="0"><na f="b/Bollig:Benedikt">Benedikt Bollig</na></co>
+<co c="0"><na f="b/Brihaye:Thomas">Thomas Brihaye</na></co>
+<co c="0"><na f="c/Chatain:Thomas">Thomas Chatain</na></co>
+<co c="0"><na f="c/Chatterjee:Krishnendu">Krishnendu Chatterjee</na></co>
+<co c="0"><na f="e/Esti=eacute=venart:Morgane">Morgane Estiévenart</na></co>
+<co c="0"><na f="g/Gastin:Paul">Paul Gastin</na></co>
+<co c="0"><na f="g/Geeraerts:Gilles">Gilles Geeraerts</na></co>
+<co c="0"><na f="g/Giampaolo:Barbara_Di">Barbara Di Giampaolo</na></co>
+<co c="0"><na f="h/Haddad:Serge">Serge Haddad</na></co>
+<co c="0"><na f="h/Ho:Hsi=Ming">Hsi-Ming Ho</na></co>
+<co c="0"><na f="l/Lehaut:Mathieu">Mathieu Lehaut</na></co>
+<co c="0"><na f="m/Millet:Laure">Laure Millet</na></co>
+<co c="0"><na f="m/Monmege:Benjamin">Benjamin Monmege</na></co>
+<co c="0"><na f="p/Potop=Butucaru:Maria">Maria Potop-Butucaru</na></co>
+<co c="0"><na f="r/Raskin:Jean=Fran=ccedil=ois">Jean-François Raskin</na></co>
+<co c="0"><na f="s/Sangnier:Arnaud">Arnaud Sangnier</na></co>
+<co c="0"><na f="s/Sassolas:Mathieu">Mathieu Sassolas</na></co>
+<co c="0"><na f="t/Talcott:Carolyn_L=">Carolyn L. Talcott</na></co>
+<co c="0"><na f="t/Tiwari_0001:Ashish">Ashish Tiwari 0001</na></co>
+<co c="0"><na f="t/Tixeuil:S=eacute=bastien">Sébastien Tixeuil</na></co>
+<co c="0"><na f="u/Urbain:Xavier">Xavier Urbain</na></co>
+<co c="0"><na f="z/Zeitoun:Marc">Marc Zeitoun</na></co>
+</coauthors>
+</dblpperson>
+

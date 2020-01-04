@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Pirouz Bazargan-Sabet" n="15">
+<person key="homepages/94/1396" mdate="2009-06-09">
+<author>Pirouz Bazargan-Sabet</author>
+</person>
+<r><inproceedings key="conf/esscirc/GuthmullerTVBPD18" mdate="2018-10-23">
+<author>Eric Guthmuller</author>
+<author>César Fuguet Tortolero</author>
+<author>Pascal Vivet</author>
+<author>C. Bernard</author>
+<author>Ivan Miro Panades</author>
+<author>Jean Durupt</author>
+<author>E. Beignc</author>
+<author>Didier Lattard</author>
+<author>Séverine Cheramy</author>
+<author>Alain Greiner</author>
+<author>Quentin L. Meunier</author>
+<author>Pirouz Bazargan-Sabet</author>
+<title>A 29 Gops/Watt 3D-Ready 16-Core Computing Fabric with Scalable Cache Coherent Architecture Using Distributed L2 and Adaptive L3 Caches.</title>
+<pages>318-321</pages>
+<year>2018</year>
+<booktitle>ESSCIRC</booktitle>
+<crossref>conf/esscirc/2018</crossref>
+<url>db/conf/esscirc/esscirc2018.html#GuthmullerTVBPD18</url>
+</inproceedings>
+</r>
+<r><article key="journals/jce/RobissonASHWBP17" mdate="2017-05-26">
+<author>Bruno Robisson</author>
+<author>Michel Agoyan</author>
+<author>Patrick Soquet</author>
+<author>Sébastien Le Henaff</author>
+<author>Franck Wajsbürt</author>
+<author>Pirouz Bazargan-Sabet</author>
+<author>Guillaume Phan</author>
+<title>Smart security management in secure devices.</title>
+<pages>47-61</pages>
+<year>2017</year>
+<volume>7</volume>
+<journal>J. Cryptographic Engineering</journal>
+<number>1</number>
+<url>db/journals/jce/jce7.html#RobissonASHWBP17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/RobissonASHWBP15" mdate="2018-08-14">
+<author>Bruno Robisson</author>
+<author>Michel Agoyan</author>
+<author>Patrick Soquet</author>
+<author>Sébastien Le Henaff</author>
+<author>Franck Wajsbürt</author>
+<author>Pirouz Bazargan-Sabet</author>
+<author>Guillaume Phan</author>
+<title>Smart Security Management in Secure Devices.</title>
+<pages>670</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2015/670</ee>
+<url>db/journals/iacr/iacr2015.html#RobissonASHWBP15</url>
+</article>
+</r>
+<r><article key="journals/ieicet/FujimotoMNHHAHKSLBBBD14" mdate="2018-11-30">
+<author>Daisuke Fujimoto</author>
+<author>Noriyuki Miura</author>
+<author>Makoto Nagata</author>
+<author>Yu-ichi Hayashi</author>
+<author>Naofumi Homma</author>
+<author>Takafumi Aoki</author>
+<author>Yohei Hori</author>
+<author orcid="0000-0002-0723-6564">Toshihiro Katashita</author>
+<author>Kazuo Sakiyama</author>
+<author>Thanh-Ha Le</author>
+<author>Julien Bringer</author>
+<author>Pirouz Bazargan-Sabet</author>
+<author>Shivam Bhasin</author>
+<author>Jean-Luc Danger</author>
+<title>Power Noise Measurements of Cryptographic VLSI Circuits Regarding Side-Channel Information Leakage.</title>
+<pages>272-279</pages>
+<year>2014</year>
+<volume>97-C</volume>
+<journal>IEICE Transactions</journal>
+<number>4</number>
+<url>db/journals/ieicet/ieicet97c.html#FujimotoMNHHAHKSLBBBD14</url>
+</article>
+</r>
+<r><article key="journals/mr/OuattaraDNMB14" mdate="2017-05-28">
+<author>Boukary Ouattara</author>
+<author>Lise Doyen</author>
+<author>David Ney</author>
+<author>Habib Mehrez</author>
+<author>Pirouz Bazargan-Sabet</author>
+<title>Power grid redundant path contribution in system on chip (SoC) robustness against electromigration.</title>
+<pages>1702-1706</pages>
+<year>2014</year>
+<volume>54</volume>
+<journal>Microelectronics Reliability</journal>
+<number>9-10</number>
+<url>db/journals/mr/mr54.html#OuattaraDNMB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/newcas/Bazargan-SabetL13" mdate="2017-05-24">
+<author>Pirouz Bazargan-Sabet</author>
+<author>Dominique Ledu</author>
+<title>Identifying signal correlations using discrete event simulation.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>NEWCAS</booktitle>
+<crossref>conf/newcas/2013</crossref>
+<url>db/conf/newcas/newcas2013.html#Bazargan-SabetL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ntms/RobissonAHSPWB11" mdate="2017-05-24">
+<author>Bruno Robisson</author>
+<author>Michel Agoyan</author>
+<author>Sébastien Le Henaff</author>
+<author>Patrick Soquet</author>
+<author>Guillaume Phan</author>
+<author>Franck Wajsbürt</author>
+<author>Pirouz Bazargan-Sabet</author>
+<title>Implementation of Complex Strategies of Security Insecure Embedded Systems.</title>
+<pages>1-5</pages>
+<year>2011</year>
+<booktitle>NTMS</booktitle>
+<crossref>conf/ntms/2011</crossref>
+<url>db/conf/ntms/ntms2011.html#RobissonAHSPWB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/BaraBCLER10" mdate="2011-02-25">
+<author>Abdelrezzak Bara</author>
+<author>Pirouz Bazargan-Sabet</author>
+<author>Remy Chevallier</author>
+<author>Dominique Ledu</author>
+<author>Emmanuelle Encrenaz</author>
+<author>Patricia Renault</author>
+<title>Formal Verification of Timed VHDL Programs.</title>
+<pages>80-85</pages>
+<year>2010</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2010</crossref>
+<url>db/conf/fdl/fdl2010.html#BaraBCLER10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/anss/Bazargan-SabetR03" mdate="2017-05-21">
+<author>Pirouz Bazargan-Sabet</author>
+<author>Patricia Renault</author>
+<title>An Event-Driven Approach to Crosstalk Noise Analysis.</title>
+<pages>319-326</pages>
+<year>2003</year>
+<crossref>conf/anss/2003</crossref>
+<booktitle>Annual Simulation Symposium</booktitle>
+<url>db/conf/anss/anss2003.html#Bazargan-SabetR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/Bazargan-SabetI01" mdate="2017-05-23">
+<author>Pirouz Bazargan-Sabet</author>
+<author>Fabrice Ilponse</author>
+<title>Modeling crosstalk noise for deep submicron verification tools.</title>
+<pages>530-534</pages>
+<year>2001</year>
+<crossref>conf/date/2001</crossref>
+<booktitle>DATE</booktitle>
+<url>db/conf/date/date2001.html#Bazargan-SabetI01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/SabetI01" mdate="2017-05-25">
+<author>Pirouz Bazargan-Sabet</author>
+<author>Fabrice Ilponse</author>
+<title>A Model for Crosstalk Noise Evaluation in Deep Submicron Processes.</title>
+<pages>139-144</pages>
+<year>2001</year>
+<crossref>conf/isqed/2001</crossref>
+<booktitle>ISQED</booktitle>
+<url>db/conf/isqed/isqed2001.html#SabetI01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/SabetV01" mdate="2017-05-25">
+<author>Pirouz Bazargan-Sabet</author>
+<author>Laurent Vuillemin</author>
+<title>An Approach to Mapping the Timing Behavior of VLSI Circuits on Emulators.</title>
+<pages>168-173</pages>
+<year>2001</year>
+<crossref>conf/rsp/2001</crossref>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<url>db/conf/rsp/rsp2001.html#SabetV01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/anss/GuettafB98" mdate="2017-05-21">
+<author>Amar Guettaf</author>
+<author>Pirouz Bazargan-Sabet</author>
+<title>Efficient Partitioning Method For Distributed Logic Simulation of VLSI Circuits.</title>
+<pages>196-201</pages>
+<year>1998</year>
+<crossref>conf/anss/1998</crossref>
+<booktitle>Annual Simulation Symposium</booktitle>
+<url>db/conf/anss/anss1998.html#GuettafB98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esm/GuettafB98" mdate="2002-11-08">
+<author>Amar Guettaf</author>
+<author>Pirouz Bazargan-Sabet</author>
+<title>Usinf Node Replication to improve Circuit's Partition in Distributed Logic Simulation.</title>
+<pages>235-237</pages>
+<year>1998</year>
+<crossref>conf/esm/1998</crossref>
+<booktitle>ESM</booktitle>
+<url>db/conf/esm/esm1998.html#GuettafB98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/anss/DunoyerAB96" mdate="2017-05-21">
+<author>Julien Dunoyer</author>
+<author>Nizar Abdallah</author>
+<author>Pirouz Bazargan-Sabet</author>
+<title>A symbolic simulation approach in resolving signals' correlation.</title>
+<pages>203-211</pages>
+<year>1996</year>
+<crossref>conf/anss/1996</crossref>
+<booktitle>Annual Simulation Symposium</booktitle>
+<url>db/conf/anss/anss1996.html#DunoyerAB96</url>
+</inproceedings>
+</r>
+<coauthors n="44" nc="2">
+<co c="1"><na f="a/Abdallah:Nizar">Nizar Abdallah</na></co>
+<co c="0"><na f="a/Agoyan:Michel">Michel Agoyan</na></co>
+<co c="0"><na f="a/Aoki:Takafumi">Takafumi Aoki</na></co>
+<co c="0"><na f="b/Bara:Abdelrezzak">Abdelrezzak Bara</na></co>
+<co c="0"><na f="b/Beignc:E=">E. Beignc</na></co>
+<co c="0"><na f="b/Bernard:C=">C. Bernard</na></co>
+<co c="0"><na f="b/Bhasin:Shivam">Shivam Bhasin</na></co>
+<co c="0"><na f="b/Bringer:Julien">Julien Bringer</na></co>
+<co c="0"><na f="c/Cheramy:S=eacute=verine">Séverine Cheramy</na></co>
+<co c="0"><na f="c/Chevallier:Remy">Remy Chevallier</na></co>
+<co c="0"><na f="d/Danger:Jean=Luc">Jean-Luc Danger</na></co>
+<co c="0"><na f="d/Doyen:Lise">Lise Doyen</na></co>
+<co c="1"><na f="d/Dunoyer:Julien">Julien Dunoyer</na></co>
+<co c="0"><na f="d/Durupt:Jean">Jean Durupt</na></co>
+<co c="0" n="2"><na f="e/Encrenaz=Tiph=egrave=ne:Emmanuelle">Emmanuelle Encrenaz-Tiphène</na><na>Emmanuelle Encrenaz</na></co>
+<co c="0"><na f="f/Fujimoto:Daisuke">Daisuke Fujimoto</na></co>
+<co c="0"><na f="g/Greiner:Alain">Alain Greiner</na></co>
+<co c="-1"><na f="g/Guettaf:Amar">Amar Guettaf</na></co>
+<co c="0"><na f="g/Guthmuller:Eric">Eric Guthmuller</na></co>
+<co c="0"><na f="h/Hayashi:Yu=ichi">Yu-ichi Hayashi</na></co>
+<co c="0"><na f="h/Henaff:S=eacute=bastien_Le">Sébastien Le Henaff</na></co>
+<co c="0"><na f="h/Homma:Naofumi">Naofumi Homma</na></co>
+<co c="0"><na f="h/Hori:Yohei">Yohei Hori</na></co>
+<co c="-1"><na f="i/Ilponse:Fabrice">Fabrice Ilponse</na></co>
+<co c="0"><na f="k/Katashita:Toshihiro">Toshihiro Katashita</na></co>
+<co c="0"><na f="l/Lattard:Didier">Didier Lattard</na></co>
+<co c="0" n="2"><na f="l/Le:Thanh_Ha">Thanh Ha Le</na><na>Thanh-Ha Le</na></co>
+<co c="0"><na f="l/Ledu:Dominique">Dominique Ledu</na></co>
+<co c="0"><na f="m/Mehrez:Habib">Habib Mehrez</na></co>
+<co c="0"><na f="m/Meunier:Quentin_L=">Quentin L. Meunier</na></co>
+<co c="0"><na f="m/Miura:Noriyuki">Noriyuki Miura</na></co>
+<co c="0"><na f="n/Nagata:Makoto">Makoto Nagata</na></co>
+<co c="0"><na f="n/Ney:David">David Ney</na></co>
+<co c="0"><na f="o/Ouattara:Boukary">Boukary Ouattara</na></co>
+<co c="0"><na f="p/Panades:Ivan_Miro">Ivan Miro Panades</na></co>
+<co c="0"><na f="p/Phan:Guillaume">Guillaume Phan</na></co>
+<co c="0"><na f="r/Renault:Patricia">Patricia Renault</na></co>
+<co c="0"><na f="r/Robisson:Bruno">Bruno Robisson</na></co>
+<co c="0"><na f="s/Sakiyama:Kazuo">Kazuo Sakiyama</na></co>
+<co c="0"><na f="s/Soquet:Patrick">Patrick Soquet</na></co>
+<co c="0"><na f="t/Tortolero:C=eacute=sar_Fuguet">César Fuguet Tortolero</na></co>
+<co c="0"><na f="v/Vivet:Pascal">Pascal Vivet</na></co>
+<co c="-1"><na f="v/Vuillemin:Laurent">Laurent Vuillemin</na></co>
+<co c="0"><na f="w/Wajsb=uuml=rt:Franck">Franck Wajsbürt</na></co>
+</coauthors>
+</dblpperson>
+

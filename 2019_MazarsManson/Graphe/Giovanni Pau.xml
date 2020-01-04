@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Giovanni Pau">
+<homonyms n="2">
+<h f="p/Pau_0001:Giovanni"><person key="homepages/87/6423" mdate="2019-01-10">
+<author>Giovanni Pau 0001</author>
+<note type="affiliation">Pierre and Marie Curie University, Paris, France</note>
+<note type="affiliation" label="former">University of California, Los Angeles, USA</note>
+<note type="affiliation" label="former">University of Bologna, Italy</note>
+<url>http://www.cs.ucla.edu/~gpau/</url>
+<url>https://scholar.google.com/citations?user=jLEgvnsAAAAJ</url>
+<url>https://orcid.org/0000-0003-2216-7170</url>
+<url>https://www.wikidata.org/entity/Q58313188</url>
+<url>https://www.scopus.com/authid/detail.uri?authorId=55386607600</url>
+</person>
+</h>
+<h f="p/Pau_0002:Giovanni"><person key="homepages/87/6423-2" mdate="2019-01-10">
+<author>Giovanni Pau 0002</author>
+<note type="affiliation">Kore University of Enna, Faculty of Engineering and Architecture, Enna, Italy</note>
+<url>https://www.unikore.it/index.php/ingegneria-informatica-persone/docenti-del-corso/itemlist/category/2395-prof-pau-giovanni</url>
+<url>https://scholar.google.com/citations?user=e7ozFQsAAAAJ</url>
+<url>https://orcid.org/0000-0002-5798-398X</url>
+<url>https://www.wikidata.org/entity/Q58624179</url>
+<url>https://www.researcherid.com/rid/K-2944-2015</url>
+<url>https://www.scopus.com/authid/detail.uri?authorId=55493340200</url>
+<url>https://www.mendeley.com/profiles/giovanni-pau2/</url>
+</person>
+</h>
+</homonyms>
+</dblpperson>
+

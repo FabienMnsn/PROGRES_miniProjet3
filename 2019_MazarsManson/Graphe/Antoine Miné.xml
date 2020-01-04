@@ -1,0 +1,799 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Antoine Miné" n="62">
+<person key="homepages/68/1479" mdate="2009-06-09">
+<author>Antoine Miné</author>
+</person>
+<r><article key="journals/fmsd/OuadjaoutM19" mdate="2019-09-23">
+<author orcid="0000-0001-7248-5914">Abdelraouf Ouadjaout</author>
+<author>Antoine Miné</author>
+<title>Quantitative static analysis of communication protocols using abstract Markov chains.</title>
+<pages>64-109</pages>
+<year>2019</year>
+<volume>54</volume>
+<journal>Formal Methods in System Design</journal>
+<number>1</number>
+<url>db/journals/fmsd/fmsd54.html#OuadjaoutM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/esop/JournaultMO19" mdate="2019-08-20">
+<author>Matthieu Journault</author>
+<author>Antoine Miné</author>
+<author>Abdelraouf Ouadjaout</author>
+<title>An Abstract Domain for Trees with Numeric Relations.</title>
+<pages>724-751</pages>
+<year>2019</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-17184-1_26</ee>
+<crossref>conf/esop/2019</crossref>
+<url>db/conf/esop/esop2019.html#JournaultMO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/DelmasM19" mdate="2019-10-07">
+<author>David Delmas</author>
+<author>Antoine Miné</author>
+<title>Analysis of Software Patches Using Numerical Abstract Interpretation.</title>
+<pages>225-246</pages>
+<year>2019</year>
+<booktitle>SAS</booktitle>
+<crossref>conf/sas/2019</crossref>
+<url>db/conf/sas/sas2019.html#DelmasM19</url>
+</inproceedings>
+</r>
+<r><article key="journals/fmsd/JournaultM18" mdate="2018-09-25">
+<author>Matthieu Journault</author>
+<author>Antoine Miné</author>
+<title>Inferring functional properties of matrix manipulating programs by abstract interpretation.</title>
+<pages>221-258</pages>
+<year>2018</year>
+<volume>53</volume>
+<journal>Formal Methods in System Design</journal>
+<number>2</number>
+<url>db/journals/fmsd/fmsd53.html#JournaultM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aplas/SuzanneM18" mdate="2018-11-22">
+<author>Thibault Suzanne</author>
+<author>Antoine Miné</author>
+<title>Relational Thread-Modular Abstract Interpretation Under Relaxed Memory Models.</title>
+<pages>109-128</pages>
+<year>2018</year>
+<booktitle>APLAS</booktitle>
+<crossref>conf/aplas/2018</crossref>
+<url>db/conf/aplas/aplas2018.html#SuzanneM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/ZiatPTM18" mdate="2018-08-23">
+<author>Ghiles Ziat</author>
+<author>Marie Pelleau</author>
+<author>Charlotte Truchet</author>
+<author>Antoine Miné</author>
+<title>Finding Solutions by Finding Inconsistencies.</title>
+<pages>420-435</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#ZiatPTM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfm/FromherzOM18" mdate="2018-05-05">
+<author>Aymeric Fromherz</author>
+<author orcid="0000-0001-7248-5914">Abdelraouf Ouadjaout</author>
+<author>Antoine Miné</author>
+<title>Static Value Analysis of Python Programs by Abstract Interpretation.</title>
+<pages>185-202</pages>
+<year>2018</year>
+<booktitle>NFM</booktitle>
+<crossref>conf/nfm/2018</crossref>
+<url>db/conf/nfm/nfm2018.html#FromherzOM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/JournaultMO18" mdate="2019-09-25">
+<author>Matthieu Journault</author>
+<author>Antoine Miné</author>
+<author orcid="0000-0001-7248-5914">Abdelraouf Ouadjaout</author>
+<title>Modular Static Analysis of String Manipulations in C Programs.</title>
+<pages>243-262</pages>
+<year>2018</year>
+<booktitle>SAS</booktitle>
+<crossref>conf/sas/2018</crossref>
+<url>db/conf/sas/sas2018.html#JournaultMO18</url>
+</inproceedings>
+</r>
+<r><article key="journals/cl/UrbanM17" mdate="2017-05-18">
+<author>Caterina Urban</author>
+<author>Antoine Miné</author>
+<title>Inference of ranking functions for proving temporal properties by abstract interpretation.</title>
+<pages>77-103</pages>
+<year>2017</year>
+<volume>47</volume>
+<journal>Computer Languages, Systems and Structures</journal>
+<url>db/journals/cl/cl47.html#UrbanM17</url>
+</article>
+</r>
+<r><article key="journals/entcs/Mine17" mdate="2017-05-28">
+<author>Antoine Miné</author>
+<title>Static Analysis of Embedded Real-Time Concurrent Software with Dynamic Priorities.</title>
+<pages>3-39</pages>
+<year>2017</year>
+<volume>331</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs331.html#Mine17</url>
+</article>
+</r>
+<r><article key="journals/ftpl/Mine17" mdate="2017-12-13">
+<author>Antoine Miné</author>
+<title>Tutorial on Static Inference of Numeric Invariants by Abstract Interpretation.</title>
+<pages>120-372</pages>
+<year>2017</year>
+<volume>4</volume>
+<journal>Foundations and Trends in Programming Languages</journal>
+<number>3-4</number>
+<url>db/journals/ftpl/ftpl4.html#Mine17</url>
+</article>
+</r>
+<r><inproceedings key="conf/sas/OuadjaoutM17" mdate="2019-09-25">
+<author orcid="0000-0001-7248-5914">Abdelraouf Ouadjaout</author>
+<author>Antoine Miné</author>
+<title>Quantitative Static Analysis of Communication Protocols Using Abstract Markov Chains.</title>
+<pages>277-298</pages>
+<year>2017</year>
+<booktitle>SAS</booktitle>
+<crossref>conf/sas/2017</crossref>
+<url>db/conf/sas/sas2017.html#OuadjaoutM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vmcai/MonatM17" mdate="2017-05-24">
+<author>Raphaël Monat</author>
+<author>Antoine Miné</author>
+<title>Precise Thread-Modular Abstract Interpretation of Concurrent Programs Using Relational Interference Abstractions.</title>
+<pages>386-404</pages>
+<year>2017</year>
+<booktitle>VMCAI</booktitle>
+<crossref>conf/vmcai/2017</crossref>
+<url>db/conf/vmcai/vmcai2017.html#MonatM17</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/OuadjaoutMLB16" mdate="2019-10-19">
+<author orcid="0000-0001-7248-5914">Abdelraouf Ouadjaout</author>
+<author>Antoine Miné</author>
+<author orcid="0000-0001-6685-9043">Noureddine Lasla</author>
+<author>Nadjib Badache</author>
+<title>Static analysis by abstract interpretation of functional properties of device drivers in TinyOS.</title>
+<pages>114-132</pages>
+<year>2016</year>
+<volume>120</volume>
+<journal>Journal of Systems and Software</journal>
+<url>db/journals/jss/jss120.html#OuadjaoutMLB16</url>
+</article>
+</r>
+<r><article key="journals/tecs/WuCMDW16" mdate="2019-05-28">
+<author>Xueguang Wu</author>
+<author>Liqian Chen</author>
+<author>Antoine Miné</author>
+<author>Wei Dong 0006</author>
+<author>Ji Wang 0001</author>
+<title>Static Analysis of Runtime Errors in Interrupt-Driven Programs via Sequentialization.</title>
+<pages>70:1-70:26</pages>
+<year>2016</year>
+<volume>15</volume>
+<journal>ACM Trans. Embedded Comput. Syst.</journal>
+<number>4</number>
+<url>db/journals/tecs/tecs15.html#WuCMDW16</url>
+</article>
+</r>
+<r><inproceedings key="conf/esop/MineBR16" mdate="2017-05-19">
+<author>Antoine Miné</author>
+<author>Jason Breck</author>
+<author>Thomas W. Reps</author>
+<title>An Algorithm Inspired by Constraint Solvers to Infer Inductive Invariants in Numeric Programs.</title>
+<pages>560-588</pages>
+<year>2016</year>
+<booktitle>ESOP</booktitle>
+<crossref>conf/esop/2016</crossref>
+<url>db/conf/esop/esop2016.html#MineBR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/JournaultM16" mdate="2017-05-24">
+<author>Matthieu Journault</author>
+<author>Antoine Miné</author>
+<title>Static Analysis by Abstract Interpretation of the Functional Correctness of Matrix Manipulating Programs.</title>
+<pages>257-277</pages>
+<year>2016</year>
+<booktitle>SAS</booktitle>
+<crossref>conf/sas/2016</crossref>
+<url>db/conf/sas/sas2016.html#JournaultM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/SuzanneM16" mdate="2017-05-24">
+<author>Thibault Suzanne</author>
+<author>Antoine Miné</author>
+<title>From Array Domains to Abstract Interpretation Under Store-Buffer-Based Memory Models.</title>
+<pages>469-488</pages>
+<year>2016</year>
+<booktitle>SAS</booktitle>
+<crossref>conf/sas/2016</crossref>
+<url>db/conf/sas/sas2016.html#SuzanneM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ftpl/BertraneCCFMMR15" mdate="2017-05-26">
+<author>Julien Bertrane</author>
+<author>Patrick Cousot</author>
+<author>Radhia Cousot</author>
+<author>Jérôme Feret</author>
+<author>Laurent Mauborgne</author>
+<author>Antoine Miné</author>
+<author>Xavier Rival</author>
+<title>Static Analysis and Verification of Aerospace Software by Abstract Interpretation.</title>
+<pages>71-190</pages>
+<year>2015</year>
+<volume>2</volume>
+<journal>Foundations and Trends in Programming Languages</journal>
+<number>2-3</number>
+<url>db/journals/ftpl/ftpl2.html#BertraneCCFMMR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/emsoft/MineD15" mdate="2017-05-24">
+<author>Antoine Miné</author>
+<author>David Delmas</author>
+<title>Towards an industrial use of sound static analysis for the verification of concurrent embedded avionics software.</title>
+<pages>65-74</pages>
+<year>2015</year>
+<booktitle>EMSOFT</booktitle>
+<crossref>conf/emsoft/2015</crossref>
+<url>db/conf/emsoft/emsoft2015.html#MineD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vmcai/UrbanM15" mdate="2017-05-24">
+<author>Caterina Urban</author>
+<author>Antoine Miné</author>
+<title>Proving Guarantee and Recurrence Temporal Properties by Abstract Interpretation.</title>
+<pages>190-208</pages>
+<year>2015</year>
+<booktitle>VMCAI</booktitle>
+<crossref>conf/vmcai/2015</crossref>
+<url>db/conf/vmcai/vmcai2015.html#UrbanM15</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/Mine14" mdate="2019-01-20">
+<author orcid="0000-0002-6375-3179">Antoine Miné</author>
+<title>Backward under-approximations in numeric abstract domains to automatically infer sufficient program conditions.</title>
+<pages>154-182</pages>
+<year>2014</year>
+<volume>93</volume>
+<journal>Sci. Comput. Program.</journal>
+<url>db/journals/scp/scp93.html#Mine14</url>
+</article>
+</r>
+<r><inproceedings key="conf/esop/UrbanM14" mdate="2018-06-26">
+<author>Caterina Urban</author>
+<author>Antoine Miné</author>
+<title>An Abstract Domain to Infer Ordinal-Valued Ranking Functions.</title>
+<pages>412-431</pages>
+<year>2014</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-54833-8_22</ee>
+<crossref>conf/esop/2014</crossref>
+<url>db/conf/esop/esop2014.html#UrbanM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/ChenLMKW14" mdate="2019-10-07">
+<author>Liqian Chen</author>
+<author>Jiangchao Liu</author>
+<author>Antoine Miné</author>
+<author>Deepak Kapur</author>
+<author>Ji Wang 0001</author>
+<title>An Abstract Domain to Infer Octagonal Constraints with Absolute Value.</title>
+<pages>101-117</pages>
+<year>2014</year>
+<booktitle>SAS</booktitle>
+<crossref>conf/sas/2014</crossref>
+<url>db/conf/sas/sas2014.html#ChenLMKW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/UrbanM14" mdate="2017-05-24">
+<author>Caterina Urban</author>
+<author>Antoine Miné</author>
+<title>A Decision Tree Abstract Domain for Proving Conditional Termination.</title>
+<pages>302-318</pages>
+<year>2014</year>
+<booktitle>SAS</booktitle>
+<crossref>conf/sas/2014</crossref>
+<url>db/conf/sas/sas2014.html#UrbanM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vmcai/Mine14" mdate="2017-05-24">
+<author>Antoine Miné</author>
+<title>Relational Thread-Modular Static Value Analysis by Abstract Interpretation.</title>
+<pages>39-58</pages>
+<year>2014</year>
+<booktitle>VMCAI</booktitle>
+<crossref>conf/vmcai/2014</crossref>
+<url>db/conf/vmcai/vmcai2014.html#Mine14</url>
+</inproceedings>
+</r>
+<r><book publtype="habil" key="books/hal/Mine13" mdate="2017-09-30">
+<author>Antoine Miné</author>
+<title>Static analysis by abstract interpretation of concurrent programs. (Analyse statique par interprétation abstraite de programmes concurrents).</title>
+<year>2013</year>
+<school>École Normale Supérieure, Paris, France</school>
+</book>
+</r>
+<r><inproceedings key="conf/vmcai/PelleauMTB13" mdate="2017-05-24">
+<author>Marie Pelleau</author>
+<author>Antoine Miné</author>
+<author>Charlotte Truchet</author>
+<author>Frédéric Benhamou</author>
+<title>A Constraint Solver Based on Abstract Domains.</title>
+<pages>434-454</pages>
+<year>2013</year>
+<booktitle>VMCAI</booktitle>
+<crossref>conf/vmcai/2013</crossref>
+<url>db/conf/vmcai/vmcai2013.html#PelleauMTB13</url>
+</inproceedings>
+</r>
+<r><article key="journals/corr/abs-1203-3724" mdate="2019-05-14">
+<author>Antoine Miné</author>
+<title>Static Analysis of Run-Time Errors in Embedded Real-Time Parallel C Programs</title>
+<ee type="oa">https://doi.org/10.2168/LMCS-8(1:26)2012</ee>
+<ee type="oa">http://arxiv.org/abs/1203.3724</ee>
+<year>2012</year>
+<journal>Logical Methods in Computer Science</journal>
+<volume>8</volume>
+<number>1</number>
+<url>db/journals/lmcs/lmcs8.html#abs-1203-3724</url>
+</article>
+</r>
+<r><article key="journals/entcs/Mine12" mdate="2017-05-28">
+<author>Antoine Miné</author>
+<title>Inferring Sufficient Conditions with Backward Polyhedral Under-Approximations.</title>
+<pages>89-100</pages>
+<year>2012</year>
+<volume>287</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs287.html#Mine12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cade/Mine12" mdate="2017-07-25">
+<author>Antoine Miné</author>
+<title>Abstract Domains for Bit-Level Machine Integer and Floating-point Operations.</title>
+<pages>55-70</pages>
+<year>2012</year>
+<booktitle>ATx/WInG@IJCAR</booktitle>
+<crossref>conf/cade/2012atx</crossref>
+<url>db/conf/cade/atx-wing2012.html#Mine12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sas/2012" mdate="2019-05-14">
+<editor>Antoine Miné</editor>
+<editor>David Schmidt</editor>
+<title>Static Analysis - 19th International Symposium, SAS 2012, Deauville, France, September 11-13, 2012. Proceedings</title>
+<volume>7460</volume>
+<year>2012</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<isbn>978-3-642-33124-4</isbn>
+<booktitle>SAS</booktitle>
+<url>db/conf/sas/sas2012.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sigsoft/BertraneCCFMMR11" mdate="2018-11-06">
+<author>Julien Bertrane</author>
+<author>Patrick Cousot</author>
+<author>Radhia Cousot</author>
+<author>Jérôme Feret</author>
+<author>Laurent Mauborgne</author>
+<author>Antoine Miné</author>
+<author>Xavier Rival</author>
+<title>Static analysis by abstract interpretation of embedded critical software.</title>
+<pages>1-8</pages>
+<year>2011</year>
+<volume>36</volume>
+<journal>ACM SIGSOFT Software Engineering Notes</journal>
+<number>1</number>
+<url>db/journals/sigsoft/sigsoft36.html#BertraneCCFMMR11</url>
+</article>
+</r>
+<r><inproceedings key="conf/esop/ChenMWC11" mdate="2019-10-07">
+<author>Liqian Chen</author>
+<author>Antoine Miné</author>
+<author>Ji Wang 0001</author>
+<author>Patrick Cousot</author>
+<title>Linear Absolute Value Relation Analysis.</title>
+<pages>156-175</pages>
+<year>2011</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-19718-5_9</ee>
+<crossref>conf/esop/2011</crossref>
+<url>db/conf/esop/esop2011.html#ChenMWC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/Mine11" mdate="2018-06-26">
+<author>Antoine Miné</author>
+<title>Static Analysis of Run-Time Errors in Embedded Critical Parallel C Programs.</title>
+<pages>398-418</pages>
+<year>2011</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-19718-5_21</ee>
+<crossref>conf/esop/2011</crossref>
+<url>db/conf/esop/esop2011.html#Mine11</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/MineR10" mdate="2017-05-28">
+<author>Antoine Miné</author>
+<author>Enric Rodríguez-Carbonell</author>
+<title>Preface.</title>
+<pages>1-2</pages>
+<year>2010</year>
+<volume>267</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/entcs/entcs267.html#MineR10</url>
+</article>
+</r>
+<r><inproceedings key="conf/vmcai/ChenMWC10" mdate="2019-10-07">
+<author>Liqian Chen</author>
+<author>Antoine Miné</author>
+<author>Ji Wang 0001</author>
+<author>Patrick Cousot</author>
+<title>An Abstract Domain to Discover Interval Linear Equalities.</title>
+<pages>112-128</pages>
+<year>2010</year>
+<booktitle>VMCAI</booktitle>
+<crossref>conf/vmcai/2010</crossref>
+<url>db/conf/vmcai/vmcai2010.html#ChenMWC10</url>
+</inproceedings>
+</r>
+<r><article key="journals/fmsd/CousotCFMMR09" mdate="2017-05-27">
+<author>Patrick Cousot</author>
+<author>Radhia Cousot</author>
+<author>Jérôme Feret</author>
+<author>Laurent Mauborgne</author>
+<author>Antoine Miné</author>
+<author>Xavier Rival</author>
+<title>Why does Astrée scale up?</title>
+<pages>229-264</pages>
+<year>2009</year>
+<volume>35</volume>
+<journal>Formal Methods in System Design</journal>
+<number>3</number>
+<url>db/journals/fmsd/fmsd35.html#CousotCFMMR09</url>
+</article>
+</r>
+<r><article key="journals/stt/KastnerFWNHCCFMMRS09" mdate="2013-04-01">
+<author>Daniel Kästner</author>
+<author>Christian Ferdinand</author>
+<author>Stephan Wilhelm</author>
+<author>Stefana Nenova</author>
+<author>Olha Honcharova</author>
+<author>Patrick Cousot</author>
+<author>Radhia Cousot</author>
+<author>Jérôme Feret</author>
+<author>Laurent Mauborgne</author>
+<author>Antoine Miné</author>
+<author>Xavier Rival</author>
+<author>Élodie-Jane Sims</author>
+<title>Astree: Nachweis der Abwesenheit von Laufzeit.</title>
+<year>2009</year>
+<volume>29</volume>
+<journal>Softwaretechnik-Trends</journal>
+<number>3</number>
+<url>db/journals/stt/stt29.html#KastnerFWNHCCFMMRS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/cav/JeannetM09" mdate="2018-10-03">
+<author>Bertrand Jeannet</author>
+<author>Antoine Miné</author>
+<title>Apron: A Library of Numerical Abstract Domains for Static Analysis.</title>
+<pages>661-667</pages>
+<year>2009</year>
+<booktitle>CAV</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02658-4_52</ee>
+<crossref>conf/cav/2009</crossref>
+<url>db/conf/cav/cav2009.html#JeannetM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/ChenMWC09" mdate="2019-10-07">
+<author>Liqian Chen</author>
+<author>Antoine Miné</author>
+<author>Ji Wang 0001</author>
+<author>Patrick Cousot</author>
+<title>Interval Polyhedra: An Abstract Domain to Infer Interval Linear Relationships.</title>
+<pages>309-325</pages>
+<year>2009</year>
+<booktitle>SAS</booktitle>
+<crossref>conf/sas/2009</crossref>
+<url>db/conf/sas/sas2009.html#ChenMWC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aplas/ChenMC08" mdate="2017-05-19">
+<author>Liqian Chen</author>
+<author>Antoine Miné</author>
+<author>Patrick Cousot</author>
+<title>A Sound Floating-Point Polyhedra Abstract Domain.</title>
+<pages>3-18</pages>
+<year>2008</year>
+<booktitle>APLAS</booktitle>
+<crossref>conf/aplas/2008</crossref>
+<url>db/conf/aplas/aplas2008.html#ChenMC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tase/CousotCFMMMR07" mdate="2017-05-24">
+<author>Patrick Cousot</author>
+<author>Radhia Cousot</author>
+<author>Jérôme Feret</author>
+<author>Antoine Miné</author>
+<author>Laurent Mauborgne</author>
+<author>David Monniaux</author>
+<author>Xavier Rival</author>
+<title>Varieties of Static Analyzers: A Comparison with ASTREE.</title>
+<pages>3-20</pages>
+<year>2007</year>
+<crossref>conf/tase/2007</crossref>
+<booktitle>TASE</booktitle>
+<url>db/conf/tase/tase2007.html#CousotCFMMMR07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701193" mdate="2018-08-13">
+<author>Bruno Blanchet</author>
+<author>Patrick Cousot</author>
+<author>Radhia Cousot</author>
+<author>Jérôme Feret</author>
+<author>Laurent Mauborgne</author>
+<author>Antoine Miné</author>
+<author>David Monniaux</author>
+<author>Xavier Rival</author>
+<title>A Static Analyzer for Large Safety-Critical Software</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701193</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701193</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701193</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0703073" mdate="2018-08-13">
+<author>Antoine Miné</author>
+<title>A New Numerical Abstract Domain Based on Difference-Bound Matrices</title>
+<ee type="oa">http://arxiv.org/abs/cs/0703073</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0703073</volume>
+<url>db/journals/corr/corr0703.html#abs-cs-0703073</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0703074" mdate="2018-08-13">
+<author>Antoine Miné</author>
+<title>Field-Sensitive Value Analysis of Embedded C Programs with Union Types and Pointer Arithmetics</title>
+<ee type="oa">http://arxiv.org/abs/cs/0703074</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0703074</volume>
+<url>db/journals/corr/corr0703.html#abs-cs-0703074</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0703075" mdate="2018-08-13">
+<author>Antoine Miné</author>
+<title>A Few Graph-Based Relational Numerical Abstract Domains</title>
+<ee type="oa">http://arxiv.org/abs/cs/0703075</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0703075</volume>
+<url>db/journals/corr/corr0703.html#abs-cs-0703075</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0703076" mdate="2018-08-13">
+<author>Antoine Miné</author>
+<title>Symbolic Methods to Enhance the Precision of Numerical Abstract Domains</title>
+<ee type="oa">http://arxiv.org/abs/cs/0703076</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0703076</volume>
+<url>db/journals/corr/corr0703.html#abs-cs-0703076</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0703077" mdate="2018-08-13">
+<author>Antoine Miné</author>
+<title>Relational Abstract Domains for the Detection of Floating-Point Run-Time Errors</title>
+<ee type="oa">http://arxiv.org/abs/cs/0703077</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0703077</volume>
+<url>db/journals/corr/corr0703.html#abs-cs-0703077</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0703084" mdate="2018-08-13">
+<author>Antoine Miné</author>
+<title>The Octagon Abstract Domain</title>
+<ee type="oa">http://arxiv.org/abs/cs/0703084</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0703084</volume>
+<url>db/journals/corr/corr0703.html#abs-cs-0703084</url>
+</article>
+</r>
+<r><article key="journals/lisp/Mine06" mdate="2018-11-14">
+<author>Antoine Miné</author>
+<title>The octagon abstract domain.</title>
+<pages>31-100</pages>
+<year>2006</year>
+<volume>19</volume>
+<journal>Higher-Order and Symbolic Computation</journal>
+<number>1</number>
+<url>db/journals/lisp/lisp19.html#Mine06</url>
+</article>
+</r>
+<r><inproceedings key="conf/asian/CousotCFMMMR06" mdate="2017-05-26">
+<author>Patrick Cousot</author>
+<author>Radhia Cousot</author>
+<author>Jérôme Feret</author>
+<author>Laurent Mauborgne</author>
+<author>Antoine Miné</author>
+<author>David Monniaux</author>
+<author>Xavier Rival</author>
+<title>Combination of Abstractions in the ASTRÉE Static Analyzer.</title>
+<pages>272-300</pages>
+<year>2006</year>
+<booktitle>ASIAN</booktitle>
+<crossref>conf/asian/2006</crossref>
+<url>db/conf/asian/asian2006.html#CousotCFMMMR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lctrts/Mine06" mdate="2018-11-06">
+<author>Antoine Miné</author>
+<title>Field-sensitive value analysis of embedded C programs with union types and pointer arithmetics.</title>
+<pages>54-63</pages>
+<year>2006</year>
+<crossref>conf/lctrts/2006</crossref>
+<booktitle>LCTES</booktitle>
+<url>db/conf/lctrts/lctes2006.html#Mine06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vmcai/Mine06" mdate="2017-05-24">
+<author>Antoine Miné</author>
+<title>Symbolic Methods to Enhance the Precision of Numerical Abstract Domains.</title>
+<pages>348-363</pages>
+<year>2006</year>
+<crossref>conf/vmcai/2006</crossref>
+<booktitle>VMCAI</booktitle>
+<url>db/conf/vmcai/vmcai2006.html#Mine06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/CousotCFMMMR05" mdate="2018-06-26">
+<author>Patrick Cousot</author>
+<author>Radhia Cousot</author>
+<author>Jérôme Feret</author>
+<author>Laurent Mauborgne</author>
+<author>Antoine Miné</author>
+<author>David Monniaux</author>
+<author>Xavier Rival</author>
+<title>The ASTREÉ Analyzer.</title>
+<pages>21-30</pages>
+<ee type="oa">https://doi.org/10.1007/978-3-540-31987-0_3</ee>
+<year>2005</year>
+<crossref>conf/esop/2005</crossref>
+<booktitle>ESOP</booktitle>
+<url>db/conf/esop/esop2005.html#CousotCFMMMR05</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Mine04" mdate="2016-07-20">
+<author>Antoine Miné</author>
+<title>Weakly Relational Numerical Abstract Domains. (Domaines numériques abstraits faiblement relationnels).</title>
+<year>2004</year>
+<school>École Polytechnique, Palaiseau, France</school>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/esop/Mine04" mdate="2017-05-19">
+<author>Antoine Miné</author>
+<title>Relational Abstract Domains for the Detection of Floating-Point Run-Time Errors.</title>
+<pages>3-17</pages>
+<year>2004</year>
+<crossref>conf/esop/2004</crossref>
+<booktitle>ESOP</booktitle>
+<url>db/conf/esop/esop2004.html#Mine04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/BlanchetCCFMMMR03" mdate="2018-11-06">
+<author>Bruno Blanchet</author>
+<author>Patrick Cousot</author>
+<author>Radhia Cousot</author>
+<author>Jérôme Feret</author>
+<author>Laurent Mauborgne</author>
+<author>Antoine Miné</author>
+<author>David Monniaux</author>
+<author>Xavier Rival</author>
+<title>A static analyzer for large safety-critical software.</title>
+<pages>196-207</pages>
+<year>2003</year>
+<crossref>conf/pldi/2003</crossref>
+<booktitle>PLDI</booktitle>
+<url>db/conf/pldi/pldi2003.html#BlanchetCCFMMMR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birthday/BlanchetCCFMMMR02" mdate="2017-05-23">
+<author>Bruno Blanchet</author>
+<author>Patrick Cousot</author>
+<author>Radhia Cousot</author>
+<author>Jérôme Feret</author>
+<author>Laurent Mauborgne</author>
+<author>Antoine Miné</author>
+<author>David Monniaux</author>
+<author>Xavier Rival</author>
+<title>Design and Implementation of a Special-Purpose Static Program Analyzer for Safety-Critical Real-Time Embedded Software.</title>
+<pages>85-108</pages>
+<year>2002</year>
+<crossref>conf/birthday/2002jones</crossref>
+<booktitle>The Essence of Computation</booktitle>
+<url>db/conf/birthday/jones2002.html#BlanchetCCFMMMR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sas/Mine02" mdate="2017-05-24">
+<author>Antoine Miné</author>
+<title>A Few Graph-Based Relational Numerical Abstract Domains.</title>
+<pages>117-132</pages>
+<year>2002</year>
+<crossref>conf/sas/2002</crossref>
+<booktitle>SAS</booktitle>
+<url>db/conf/sas/sas2002.html#Mine02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pado/Mine01" mdate="2017-05-23">
+<author>Antoine Miné</author>
+<title>A New Numerical Abstract Domain Based on Difference-Bound Matrices.</title>
+<pages>155-172</pages>
+<year>2001</year>
+<crossref>conf/pado/2001</crossref>
+<booktitle>PADO</booktitle>
+<url>db/conf/pado/pado2001.html#Mine01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/Mine01" mdate="2017-05-26">
+<author>Antoine Miné</author>
+<title>The Octagon Abstract Domain.</title>
+<pages>310-</pages>
+<year>2001</year>
+<crossref>conf/wcre/2001</crossref>
+<booktitle>WCRE</booktitle>
+<url>db/conf/wcre/wcre2001.html#Mine01</url>
+</inproceedings>
+</r>
+<coauthors n="38" nc="3">
+<co c="1"><na f="b/Badache:Nadjib">Nadjib Badache</na></co>
+<co c="2"><na f="b/Benhamou:Fr=eacute=d=eacute=ric">Frédéric Benhamou</na></co>
+<co c="0"><na f="b/Bertrane:Julien">Julien Bertrane</na></co>
+<co c="0"><na f="b/Blanchet:Bruno">Bruno Blanchet</na></co>
+<co c="0"><na f="b/Breck:Jason">Jason Breck</na></co>
+<co c="0"><na f="c/Chen:Liqian">Liqian Chen</na></co>
+<co c="0"><na f="c/Cousot:Patrick">Patrick Cousot</na></co>
+<co c="0"><na f="c/Cousot:Radhia">Radhia Cousot</na></co>
+<co c="0"><na f="d/Delmas:David">David Delmas</na></co>
+<co c="0"><na f="d/Dong_0006:Wei">Wei Dong 0006</na></co>
+<co c="0"><na f="f/Ferdinand:Christian">Christian Ferdinand</na></co>
+<co c="0"><na f="f/Feret:J=eacute=r=ocirc=me">Jérôme Feret</na></co>
+<co c="1"><na f="f/Fromherz:Aymeric">Aymeric Fromherz</na></co>
+<co c="0"><na f="h/Honcharova:Olha">Olha Honcharova</na></co>
+<co c="0"><na f="j/Jeannet:Bertrand">Bertrand Jeannet</na></co>
+<co c="1"><na f="j/Journault:Matthieu">Matthieu Journault</na></co>
+<co c="0"><na f="k/Kapur:Deepak">Deepak Kapur</na></co>
+<co c="0"><na f="k/K=auml=stner:Daniel">Daniel Kästner</na></co>
+<co c="1"><na f="l/Lasla:Noureddine">Noureddine Lasla</na></co>
+<co c="0"><na f="l/Liu:Jiangchao">Jiangchao Liu</na></co>
+<co c="0"><na f="m/Mauborgne:Laurent">Laurent Mauborgne</na></co>
+<co c="-1"><na f="m/Monat:Rapha=euml=l">Raphaël Monat</na></co>
+<co c="0"><na f="m/Monniaux:David">David Monniaux</na></co>
+<co c="0"><na f="n/Nenova:Stefana">Stefana Nenova</na></co>
+<co c="1"><na f="o/Ouadjaout:Abdelraouf">Abdelraouf Ouadjaout</na></co>
+<co c="2"><na f="p/Pelleau:Marie">Marie Pelleau</na></co>
+<co c="0"><na f="r/Reps:Thomas_W=">Thomas W. Reps</na></co>
+<co c="0"><na f="r/Rival:Xavier">Xavier Rival</na></co>
+<co c="0"><na f="r/Rodr=iacute=guez=Carbonell:Enric">Enric Rodríguez-Carbonell</na></co>
+<co c="-1"><na f="s/Schmidt:David">David Schmidt</na></co>
+<co c="0"><na f="s/Sims:=Eacute=lodie=Jane">Élodie-Jane Sims</na></co>
+<co c="-1"><na f="s/Suzanne:Thibault">Thibault Suzanne</na></co>
+<co c="2"><na f="t/Truchet:Charlotte">Charlotte Truchet</na></co>
+<co c="0"><na f="u/Urban:Caterina">Caterina Urban</na></co>
+<co c="0"><na f="w/Wang_0001:Ji">Ji Wang 0001</na></co>
+<co c="0"><na f="w/Wilhelm:Stephan">Stephan Wilhelm</na></co>
+<co c="0"><na f="w/Wu:Xueguang">Xueguang Wu</na></co>
+<co c="2"><na f="z/Ziat:Ghiles">Ghiles Ziat</na></co>
+</coauthors>
+</dblpperson>
+

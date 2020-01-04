@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Aurélie Beynier" n="32">
+<person key="homepages/52/5023" mdate="2009-06-10">
+<author>Aurélie Beynier</author>
+</person>
+<r><article key="journals/aamas/BeynierCGHLMW19" mdate="2019-09-05">
+<author>Aurélie Beynier</author>
+<author>Yann Chevaleyre</author>
+<author>Laurent Gourvès</author>
+<author>Ararat Harutyunyan</author>
+<author>Julien Lesca</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Anaëlle Wilczynski</author>
+<title>Local envy-freeness in house allocation problems.</title>
+<pages>591-627</pages>
+<year>2019</year>
+<volume>33</volume>
+<journal>Autonomous Agents and Multi-Agent Systems</journal>
+<number>5</number>
+<url>db/journals/aamas/aamas33.html#BeynierCGHLMW19</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BeynierBLMRS19" mdate="2019-05-29">
+<author>Aurélie Beynier</author>
+<author>Sylvain Bouveret</author>
+<author>Michel Lemaître</author>
+<author>Nicolas Maudet</author>
+<author>Simon Rey</author>
+<author>Parham Shams</author>
+<title>Efficiency, Sequenceability and Deal-Optimality in Fair Division of Indivisible Goods.</title>
+<pages>900-908</pages>
+<year>2019</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2019</crossref>
+<url>db/conf/atal/aamas2019.html#BeynierBLMRS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-10250" mdate="2019-06-27">
+<author>Aurélie Beynier</author>
+<author>Nicolas Maudet</author>
+<author>Simon Rey</author>
+<author>Parham Shams</author>
+<title>House Markets and Single-Peaked Preferences: From Centralized to Decentralized Allocation Procedures.</title>
+<year>2019</year>
+<volume>abs/1906.10250</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.10250</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-10250</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-11053" mdate="2019-12-03">
+<author>Parham Shams</author>
+<author>Aurélie Beynier</author>
+<author>Sylvain Bouveret</author>
+<author>Nicolas Maudet</author>
+<title>Fair in the Eyes of Others.</title>
+<year>2019</year>
+<volume>abs/1911.11053</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.11053</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-11053</url>
+</article>
+</r>
+<r><book publtype="habil" key="books/hal/Beynier18" mdate="2019-07-08">
+<author>Aurélie Beynier</author>
+<title>Contributions to Multiagent Decision Making under uncertainty and Partial observability.</title>
+<year>2018</year>
+<school>Sorbonne Université, Paris, France</school>
+</book>
+</r>
+<r><inproceedings key="conf/atal/BeynierCGLMW18" mdate="2018-07-16">
+<author>Aurélie Beynier</author>
+<author>Yann Chevaleyre</author>
+<author>Laurent Gourvès</author>
+<author>Julien Lesca</author>
+<author>Nicolas Maudet</author>
+<author>Anaëlle Wilczynski</author>
+<title>Local Envy-Freeness in House Allocation Problems.</title>
+<pages>292-300</pages>
+<year>2018</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2018</crossref>
+<url>db/conf/atal/aamas2018.html#BeynierCGLMW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BeynierMD18" mdate="2018-07-16">
+<author>Aurélie Beynier</author>
+<author>Nicolas Maudet</author>
+<author>Anastasia Damamme</author>
+<title>Fairness in Multiagent Resource Allocation with Dynamic and Partial Observations.</title>
+<pages>1868-1870</pages>
+<year>2018</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2018</crossref>
+<url>db/conf/atal/aamas2018.html#BeynierMD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comma/HadouxBMW18" mdate="2018-09-13">
+<author>Emmanuel Hadoux</author>
+<author>Aurélie Beynier</author>
+<author>Nicolas Maudet</author>
+<author>Paul Weng</author>
+<title>Mediation of Debates with Dynamic Argumentative Behaviors.</title>
+<pages>249-256</pages>
+<year>2018</year>
+<booktitle>COMMA</booktitle>
+<crossref>conf/comma/2018</crossref>
+<url>db/conf/comma/comma2018.html#HadouxBMW18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-11919" mdate="2018-08-13">
+<author>Aurélie Beynier</author>
+<author>Sylvain Bouveret</author>
+<author>Michel Lemaître</author>
+<author>Nicolas Maudet</author>
+<author>Simon Rey</author>
+<title>Efficiency, Sequenceability and Deal-Optimality in Fair Division of Indivisible Goods.</title>
+<year>2018</year>
+<volume>abs/1807.11919</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.11919</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-11919</url>
+</article>
+</r>
+<r><article key="journals/ijait/Beynier17" mdate="2019-12-18">
+<author>Aurélie Beynier</author>
+<title>A Multiagent Planning Approach for Cooperative Patrolling with Non-Stationary Adversaries.</title>
+<pages>1760018:1-1760018:28</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>International Journal on Artificial Intelligence Tools</journal>
+<number>5</number>
+<url>db/journals/ijait/ijait26.html#Beynier17</url>
+</article>
+</r>
+<r><proceedings key="conf/idc/2016" mdate="2019-06-02">
+<editor>Costin Badica</editor>
+<editor>Amal El Fallah-Seghrouchni</editor>
+<editor>Aurélie Beynier</editor>
+<editor>David Camacho</editor>
+<editor>Cédric Herpson</editor>
+<editor orcid="0000-0002-5707-5236">Koen V. Hindriks</editor>
+<editor orcid="0000-0002-3549-0754">Paulo Novais</editor>
+<title>Intelligent Distributed Computing X - Proceedings of the 10th International Symposium on Intelligent Distributed Computing - IDC 2016, Paris, France, October 10-12 2016</title>
+<booktitle>IDC</booktitle>
+<year>2017</year>
+<series href="db/series/sci/index.html">Studies in Computational Intelligence</series>
+<volume>678</volume>
+<isbn>978-3-319-48828-8</isbn>
+<url>db/conf/idc/idc2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/arobots/LozenguezABMM16" mdate="2018-11-30">
+<author>Guillaume Lozenguez</author>
+<author orcid="0000-0002-5686-5279">Lounis Adouane</author>
+<author>Aurélie Beynier</author>
+<author>Abdel-Illah Mouaddib</author>
+<author orcid="0000-0001-5827-0431">Philippe Martinet</author>
+<title>Punctual versus continuous auction coordination for multi-robot and multi-task topological navigation.</title>
+<pages>599-613</pages>
+<year>2016</year>
+<volume>40</volume>
+<journal>Auton. Robots</journal>
+<number>4</number>
+<url>db/journals/arobots/arobots40.html#LozenguezABMM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ictai/Beynier16" mdate="2017-05-26">
+<author>Aurélie Beynier</author>
+<title>Cooperative Multiagent Patrolling for Detecting Multiple Illegal Actions under Uncertainty.</title>
+<pages>9-16</pages>
+<year>2016</year>
+<booktitle>ICTAI</booktitle>
+<crossref>conf/ictai/2016</crossref>
+<url>db/conf/ictai/ictai2016.html#Beynier16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/DamammeBCM15" mdate="2015-05-15">
+<author>Anastasia Damamme</author>
+<author>Aurélie Beynier</author>
+<author>Yann Chevaleyre</author>
+<author>Nicolas Maudet</author>
+<title>The Power of Swap Deals in Distributed Resource Allocation.</title>
+<pages>625-633</pages>
+<year>2015</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2015</crossref>
+<url>db/conf/atal/aamas2015.html#DamammeBCM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/HadouxBMWH15" mdate="2019-08-20">
+<author>Emmanuel Hadoux</author>
+<author>Aurélie Beynier</author>
+<author>Nicolas Maudet</author>
+<author>Paul Weng</author>
+<author>Anthony Hunter</author>
+<title>Optimization of Probabilistic Argumentation with Markov Decision Models.</title>
+<pages>2004-2010</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/284</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#HadouxBMWH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/HadouxBW14" mdate="2017-06-15">
+<author orcid="0000-0003-4303-7885">Emmanuel Hadoux</author>
+<author>Aurélie Beynier</author>
+<author>Paul Weng</author>
+<title>Solving Hidden-Semi-Markov-Mode Markov Decision Problems.</title>
+<pages>176-189</pages>
+<year>2014</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2014</crossref>
+<url>db/conf/sum/sum2014.html#HadouxBW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vrst/KanmeugneB14" mdate="2018-11-06">
+<author>Patrick Simo Kanmeugne</author>
+<author>Aurélie Beynier</author>
+<title>Towards real-time credible and scalable agent-based simulations of autonomous pedestrians navigation.</title>
+<pages>127-136</pages>
+<year>2014</year>
+<booktitle>VRST</booktitle>
+<crossref>conf/vrst/2014</crossref>
+<url>db/conf/vrst/vrst2014.html#KanmeugneB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/LozenguezMBAM13" mdate="2018-11-02">
+<author>Guillaume Lozenguez</author>
+<author>Abdel-Illah Mouaddib</author>
+<author>Aurélie Beynier</author>
+<author orcid="0000-0002-5686-5279">Lounis Adouane</author>
+<author orcid="0000-0001-5827-0431">Philippe Martinet</author>
+<title>Simultaneous Auctions for "Rendez-Vous" Coordination Phases in Multi-robot Multi-task Mission.</title>
+<pages>67-74</pages>
+<year>2013</year>
+<booktitle>IAT</booktitle>
+<crossref>conf/iat/2013</crossref>
+<url>db/conf/iat/iat2013.html#LozenguezMBAM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/KanmeugneBD13" mdate="2013-09-11">
+<author>Patrick Simo Kanmeugne</author>
+<author>Aurélie Beynier</author>
+<author>Jean-Yves Donnart</author>
+<title>Modèle microscopique à influence macroscopique pour la simulation des déplacements de piétons autonomes en temps réel.</title>
+<pages>61-70</pages>
+<year>2013</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2013</crossref>
+<url>db/conf/jfsma/jfsma2013.html#KanmeugneBD13</url>
+</inproceedings>
+</r>
+<r><article key="journals/mags/LozenguezABMM12" mdate="2018-11-02">
+<author>Guillaume Lozenguez</author>
+<author orcid="0000-0002-5686-5279">Lounis Adouane</author>
+<author>Aurélie Beynier</author>
+<author>Abdel-Illah Mouaddib</author>
+<author orcid="0000-0001-5827-0431">Philippe Martinet</author>
+<title>Map partitioning to approximate an exploration strategy in mobile robotics.</title>
+<pages>275-288</pages>
+<year>2012</year>
+<volume>8</volume>
+<journal>Multiagent and Grid Systems</journal>
+<number>3</number>
+<url>db/journals/mags/mags8.html#LozenguezABMM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/ias/LozenguezABMM12" mdate="2017-06-02">
+<author>Guillaume Lozenguez</author>
+<author orcid="0000-0002-5686-5279">Lounis Adouane</author>
+<author>Aurélie Beynier</author>
+<author>Abdel-Illah Mouaddib</author>
+<author orcid="0000-0001-5827-0431">Philippe Martinet</author>
+<title>Interleaving Planning and Control of Mobiles Robots in Urban Environments Using Road-Map.</title>
+<pages>683-691</pages>
+<year>2012</year>
+<booktitle>IAS (1)</booktitle>
+<crossref>conf/ias/2012-1</crossref>
+<url>db/conf/ias/ias2012-1.html#LozenguezABMM12</url>
+</inproceedings>
+</r>
+<r><article key="journals/aamas/BeynierM11" mdate="2017-05-20">
+<author>Aurélie Beynier</author>
+<author>Abdel-Illah Mouaddib</author>
+<title>Solving efficiently Decentralized MDPs with temporal and resource constraints.</title>
+<pages>486-539</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>Autonomous Agents and Multi-Agent Systems</journal>
+<number>3</number>
+<url>db/journals/aamas/aamas23.html#BeynierM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/jfsma/LozenguezABMM11" mdate="2012-01-31">
+<author>Guillaume Lozenguez</author>
+<author>Lounis Adouane</author>
+<author>Aurélie Beynier</author>
+<author>Abdel-Illah Mouaddib</author>
+<author>Philippe Martinet</author>
+<title>Calcul distribué de politiques d'exploration pour une flotte de robots mobiles.</title>
+<pages>117-126</pages>
+<year>2011</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2011</crossref>
+<url>db/conf/jfsma/jfsma2011.html#LozenguezABMM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/paams/LozenguezABMM11" mdate="2017-06-05">
+<author>Guillaume Lozenguez</author>
+<author orcid="0000-0002-5686-5279">Lounis Adouane</author>
+<author>Aurélie Beynier</author>
+<author orcid="0000-0001-5827-0431">Philippe Martinet</author>
+<author>Abdel-Illah Mouaddib</author>
+<title>Map Partitioning to Approximate an Exploration Strategy in Mobile Robotics.</title>
+<pages>63-72</pages>
+<year>2011</year>
+<booktitle>PAAMS</booktitle>
+<crossref>conf/paams/2011</crossref>
+<url>db/conf/paams/paams2011.html#LozenguezABMM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MouaddibZBJ10" mdate="2017-05-24">
+<author>Abdel-Illah Mouaddib</author>
+<author>Shlomo Zilberstein</author>
+<author>Aurélie Beynier</author>
+<author>Laurent Jeanpierre</author>
+<title>A Decision-Theoretic Approach to Cooperative Control and Adjustable Autonomy.</title>
+<pages>971-972</pages>
+<year>2010</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2010</crossref>
+<url>db/conf/ecai/ecai2010.html#MouaddibZBJ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/BeynierM10" mdate="2017-05-23">
+<author>Aurélie Beynier</author>
+<author>Abdel-Illah Mouaddib</author>
+<title>A Rich Communication Model in Opportunistic Decentralized Decision Making.</title>
+<pages>133-140</pages>
+<year>2010</year>
+<booktitle>IAT</booktitle>
+<crossref>conf/iat/2010</crossref>
+<url>db/conf/iat/iat2010.html#BeynierM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gamenets/BeynierM09" mdate="2017-05-17">
+<author>Aurélie Beynier</author>
+<author>Abdel-Illah Mouaddib</author>
+<title>Decentralized decision making process for document server networks.</title>
+<pages>26-32</pages>
+<year>2009</year>
+<booktitle>GAMENETS</booktitle>
+<crossref>conf/gamenets/2009</crossref>
+<url>db/conf/gamenets/gamenets2009.html#BeynierM09</url>
+</inproceedings>
+</r>
+<r><article key="journals/ria/BeynierM08" mdate="2017-05-27">
+<author>Aurélie Beynier</author>
+<author>Abdel-Illah Mouaddib</author>
+<title>Une planification approchée pour la prise de décision décentralisée dans des colonies de robots autonomes.</title>
+<pages>87-123</pages>
+<year>2008</year>
+<volume>22</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>1</number>
+<url>db/journals/ria/ria22.html#BeynierM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/BeynierM06" mdate="2012-03-19">
+<author>Aurélie Beynier</author>
+<author>Abdel-Illah Mouaddib</author>
+<title>An Iterative Algorithm for Solving Constrained Decentralized Markov Decision Processes.</title>
+<year>2006</year>
+<crossref>conf/aaai/2006</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai2006.html#BeynierM06</url>
+<pages>1089-1094</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icinco/BeynierJM06" mdate="2007-02-21">
+<author>Aurélie Beynier</author>
+<author>Laurent Jeanpierre</author>
+<author>Abdel-Illah Mouaddib</author>
+<title>Optimal planning for autonomous agents under time and resource uncertainty.</title>
+<pages>182-187</pages>
+<year>2006</year>
+<crossref>conf/icinco/2006ra</crossref>
+<booktitle>ICINCO-RA</booktitle>
+<url>db/conf/icinco/icinco2006-ra.html#BeynierJM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BeynierM05" mdate="2018-11-06">
+<author>Aurélie Beynier</author>
+<author>Abdel-Illah Mouaddib</author>
+<title>A polynomial algorithm for decentralized Markov decision processes with temporal constraints.</title>
+<pages>963-969</pages>
+<year>2005</year>
+<crossref>conf/atal/2005</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2005.html#BeynierM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dars/BeynierM04" mdate="2019-07-26">
+<author>Aurélie Beynier</author>
+<author>Abdel-Illah Mouaddib</author>
+<title>Decentralized Markov Decision Processes for Handling Temporal and Resource constraints in a Multiple Robot System.</title>
+<pages>191-200</pages>
+<year>2004</year>
+<booktitle>DARS</booktitle>
+<crossref>conf/dars/2004</crossref>
+<url>db/conf/dars/dars2004.html#BeynierM04</url>
+</inproceedings>
+</r>
+<coauthors n="28" nc="3">
+<co c="1"><na f="a/Adouane:Lounis">Lounis Adouane</na></co>
+<co c="0"><na f="b/Badica:Costin">Costin Badica</na></co>
+<co c="0"><na f="b/Bouveret:Sylvain">Sylvain Bouveret</na></co>
+<co c="0"><na f="c/Camacho:David">David Camacho</na></co>
+<co c="0"><na f="c/Chevaleyre:Yann">Yann Chevaleyre</na></co>
+<co c="0"><na f="d/Damamme:Anastasia">Anastasia Damamme</na></co>
+<co c="2"><na f="d/Donnart:Jean=Yves">Jean-Yves Donnart</na></co>
+<co c="0"><na f="f/Fallah=Seghrouchni:Amal_El">Amal El Fallah-Seghrouchni</na></co>
+<co c="0"><na f="g/Gourv=egrave=s:Laurent">Laurent Gourvès</na></co>
+<co c="0"><na f="h/Hadoux:Emmanuel">Emmanuel Hadoux</na></co>
+<co c="0"><na f="h/Harutyunyan:Ararat">Ararat Harutyunyan</na></co>
+<co c="0"><na f="h/Herpson:C=eacute=dric">Cédric Herpson</na></co>
+<co c="0"><na f="h/Hindriks:Koen_V=">Koen V. Hindriks</na></co>
+<co c="0"><na f="h/Hunter:Anthony">Anthony Hunter</na></co>
+<co c="1"><na f="j/Jeanpierre:Laurent">Laurent Jeanpierre</na></co>
+<co c="2"><na f="k/Kanmeugne:Patrick_Simo">Patrick Simo Kanmeugne</na></co>
+<co c="0"><na f="l/Lema=icirc=tre:Michel">Michel Lemaître</na></co>
+<co c="0"><na f="l/Lesca:Julien">Julien Lesca</na></co>
+<co c="1"><na f="l/Lozenguez:Guillaume">Guillaume Lozenguez</na></co>
+<co c="1"><na f="m/Martinet:Philippe">Philippe Martinet</na></co>
+<co c="0"><na f="m/Maudet:Nicolas">Nicolas Maudet</na></co>
+<co c="1"><na f="m/Mouaddib:Abdel=Illah">Abdel-Illah Mouaddib</na></co>
+<co c="0"><na f="n/Novais:Paulo">Paulo Novais</na></co>
+<co c="0"><na f="r/Rey:Simon">Simon Rey</na></co>
+<co c="0"><na f="s/Shams:Parham">Parham Shams</na></co>
+<co c="0"><na f="w/Weng:Paul">Paul Weng</na></co>
+<co c="0"><na f="w/Wilczynski:Ana=euml=lle">Anaëlle Wilczynski</na></co>
+<co c="1"><na f="z/Zilberstein:Shlomo">Shlomo Zilberstein</na></co>
+</coauthors>
+</dblpperson>
+

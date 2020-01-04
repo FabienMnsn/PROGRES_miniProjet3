@@ -1,0 +1,706 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Vincent Cohen-Addad" n="52">
+<person key="homepages/136/5814" mdate="2019-03-13">
+<author>Vincent Cohen-Addad</author>
+<url>https://www.di.ens.fr/~vcohen/</url>
+<url>https://scholar.google.com/citations?user=xEp-KWgAAAAJ</url>
+</person>
+<r><article key="journals/jacm/Cohen-AddadKMM19" mdate="2019-10-10">
+<author>Vincent Cohen-Addad</author>
+<author>Varun Kanade</author>
+<author>Frederik Mallmann-Trenn</author>
+<author>Claire Mathieu</author>
+<title>Hierarchical Clustering: Objective Functions and Algorithms.</title>
+<pages>26:1-26:42</pages>
+<year>2019</year>
+<volume>66</volume>
+<journal>J. ACM</journal>
+<number>4</number>
+<url>db/journals/jacm/jacm66.html#Cohen-AddadKMM19</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/Cohen-AddadKM19" mdate="2019-05-23">
+<author>Vincent Cohen-Addad</author>
+<author>Philip N. Klein</author>
+<author>Claire Mathieu</author>
+<title>Local Search Yields Approximation Schemes for k-Means and k-Median in Euclidean and Minor-Free Metrics.</title>
+<pages>644-667</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIAM J. Comput.</journal>
+<number>2</number>
+<url>db/journals/siamcomp/siamcomp48.html#Cohen-AddadKM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/compgeom/Cohen-AddadVMM19" mdate="2019-11-11">
+<author>Vincent Cohen-Addad</author>
+<author>Éric Colin de Verdière</author>
+<author>Dániel Marx</author>
+<author>Arnaud de Mesmay</author>
+<title>Almost Tight Lower Bounds for Hard Cutting Problems in Embedded Graphs.</title>
+<pages>27:1-27:16</pages>
+<year>2019</year>
+<booktitle>Symposium on Computational Geometry</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.SoCG.2019.27</ee>
+<crossref>conf/compgeom/2019</crossref>
+<url>db/conf/compgeom/compgeom2019.html#Cohen-AddadVMM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/Cohen-AddadPP19" mdate="2019-09-08">
+<author>Vincent Cohen-Addad</author>
+<author>Marcin Pilipczuk</author>
+<author>Michal Pilipczuk</author>
+<title>Efficient Approximation Schemes for Uniform-Cost Clustering Problems in Planar Graphs.</title>
+<pages>33:1-33:14</pages>
+<year>2019</year>
+<booktitle>ESA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ESA.2019.33</ee>
+<crossref>conf/esa/2019</crossref>
+<url>db/conf/esa/esa2019.html#Cohen-AddadPP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/Cohen-AddadL19" mdate="2019-07-08">
+<author>Vincent Cohen-Addad</author>
+<author>Jason Li</author>
+<title>On the Fixed-Parameter Tractability of Capacitated Clustering.</title>
+<pages>41:1-41:14</pages>
+<year>2019</year>
+<booktitle>ICALP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICALP.2019.41</ee>
+<crossref>conf/icalp/2019</crossref>
+<url>db/conf/icalp/icalp2019.html#Cohen-AddadL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/Cohen-AddadG0LL19" mdate="2019-07-08">
+<author>Vincent Cohen-Addad</author>
+<author>Anupam Gupta</author>
+<author>Amit Kumar 0001</author>
+<author>Euiwoong Lee</author>
+<author>Jason Li</author>
+<title>Tight FPT Approximations for k-Median and k-Means.</title>
+<pages>42:1-42:14</pages>
+<year>2019</year>
+<booktitle>ICALP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICALP.2019.42</ee>
+<crossref>conf/icalp/2019</crossref>
+<url>db/conf/icalp/icalp2019.html#Cohen-AddadG0LL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/Cohen-AddadFS19" mdate="2019-10-19">
+<author>Vincent Cohen-Addad</author>
+<author orcid="0000-0002-3994-0898">Laurent Feuilloley</author>
+<author>Tatiana Starikovskaya</author>
+<title>Lower bounds for text indexing with mismatches and differences.</title>
+<pages>1146-1164</pages>
+<year>2019</year>
+<booktitle>SODA</booktitle>
+<crossref>conf/soda/2019</crossref>
+<url>db/conf/soda/soda2019.html#Cohen-AddadFS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/BecchettiBC0S19" mdate="2019-06-22">
+<author>Luca Becchetti</author>
+<author>Marc Bury</author>
+<author>Vincent Cohen-Addad</author>
+<author>Fabrizio Grandoni 0001</author>
+<author>Chris Schwiegelshohn</author>
+<title>Oblivious dimension reduction for <i>k</i>-means: beyond subspaces and the Johnson-Lindenstrauss lemma.</title>
+<pages>1039-1050</pages>
+<year>2019</year>
+<booktitle>STOC</booktitle>
+<crossref>conf/stoc/2019</crossref>
+<url>db/conf/stoc/stoc2019.html#BecchettiBC0S19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-08603" mdate="2019-04-04">
+<author>Vincent Cohen-Addad</author>
+<author>Éric Colin de Verdière</author>
+<author>Dániel Marx</author>
+<author>Arnaud de Mesmay</author>
+<title>Almost Tight Lower Bounds for Hard Cutting Problems in Embedded Graphs.</title>
+<year>2019</year>
+<volume>abs/1903.08603</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.08603</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-08603</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-10680" mdate="2019-05-02">
+<author>Vincent Cohen-Addad</author>
+<author>Marcin Pilipczuk</author>
+<author>Michal Pilipczuk</author>
+<title>A Polynomial-Time Approximation Scheme for Facility Location on Planar Graphs.</title>
+<year>2019</year>
+<volume>abs/1904.10680</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.10680</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-10680</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-12334" mdate="2019-05-02">
+<author>Vincent Cohen-Addad</author>
+<author>Anupam Gupta</author>
+<author>Amit Kumar 0001</author>
+<author>Euiwoong Lee</author>
+<author>Jason Li</author>
+<title>Tight FPT Approximations for $k$-Median and k-Means.</title>
+<year>2019</year>
+<volume>abs/1904.12334</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.12334</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-12334</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-00656" mdate="2019-05-27">
+<author>Vincent Cohen-Addad</author>
+<author>Marcin Pilipczuk</author>
+<author>Michal Pilipczuk</author>
+<title>Efficient approximation schemes for uniform-cost clustering problems in planar graphs.</title>
+<year>2019</year>
+<volume>abs/1905.00656</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.00656</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-00656</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-06861" mdate="2019-12-27">
+<author>Vincent Cohen-Addad</author>
+<author orcid="0000-0003-1237-7430">Benjamin Guedj</author>
+<author>Varun Kanade</author>
+<author>Guy Rom</author>
+<title>Online k-means Clustering.</title>
+<year>2019</year>
+<volume>abs/1909.06861</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.06861</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-06861</url>
+</article>
+</r>
+<r><inproceedings key="conf/gis/Cohen-AddadKY18" mdate="2019-12-27">
+<author>Vincent Cohen-Addad</author>
+<author>Philip N. Klein</author>
+<author orcid="0000-0001-8144-3345">Neal E. Young</author>
+<title>Balanced centroidal power diagrams for redistricting.</title>
+<pages>389-396</pages>
+<year>2018</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<crossref>conf/gis/2018</crossref>
+<url>db/conf/gis/gis2018.html#Cohen-AddadKY18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/Cohen-AddadKM18" mdate="2018-12-16">
+<author>Vincent Cohen-Addad</author>
+<author>Varun Kanade</author>
+<author>Frederik Mallmann-Trenn</author>
+<title>Clustering Redemption-Beyond the Impossibility of Kleinberg's Axioms.</title>
+<pages>8526-8535</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#Cohen-AddadKM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/Cohen-AddadKMM18" mdate="2018-01-04">
+<author>Vincent Cohen-Addad</author>
+<author>Varun Kanade</author>
+<author>Frederik Mallmann-Trenn</author>
+<author>Claire Mathieu</author>
+<title>Hierarchical Clustering: Objective Functions and Algorithms.</title>
+<pages>378-397</pages>
+<year>2018</year>
+<booktitle>SODA</booktitle>
+<crossref>conf/soda/2018</crossref>
+<url>db/conf/soda/soda2018.html#Cohen-AddadKMM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/Cohen-Addad18" mdate="2018-01-04">
+<author>Vincent Cohen-Addad</author>
+<title>A Fast Approximation Scheme for Low-Dimensional <i>k</i>-Means.</title>
+<pages>430-440</pages>
+<year>2018</year>
+<booktitle>SODA</booktitle>
+<crossref>conf/soda/2018</crossref>
+<url>db/conf/soda/soda2018.html#Cohen-Addad18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/Cohen-AddadMRR18" mdate="2018-01-04">
+<author>Vincent Cohen-Addad</author>
+<author>Arnaud de Mesmay</author>
+<author>Eva Rotenberg</author>
+<author>Alan Roytman</author>
+<title>The Bane of Low-Dimensionality Clustering.</title>
+<pages>441-456</pages>
+<year>2018</year>
+<booktitle>SODA</booktitle>
+<crossref>conf/soda/2018</crossref>
+<url>db/conf/soda/soda2018.html#Cohen-AddadMRR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/Cohen-AddadVM18" mdate="2018-01-04">
+<author>Vincent Cohen-Addad</author>
+<author>Éric Colin de Verdière</author>
+<author>Arnaud de Mesmay</author>
+<title>A Near-Linear Approximation Scheme for Multicuts of Embedded Graphs with a Fixed Number of Terminals.</title>
+<pages>1439-1458</pages>
+<year>2018</year>
+<booktitle>SODA</booktitle>
+<crossref>conf/soda/2018</crossref>
+<url>db/conf/soda/soda2018.html#Cohen-AddadVM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/AbrahamsenABCMR18" mdate="2019-10-19">
+<author>Mikkel Abrahamsen</author>
+<author>Anna Adamaszek</author>
+<author>Karl Bringmann</author>
+<author>Vincent Cohen-Addad</author>
+<author>Mehran Mehr</author>
+<author>Eva Rotenberg</author>
+<author>Alan Roytman</author>
+<author orcid="0000-0001-5237-1709">Mikkel Thorup</author>
+<title>Fast fencing.</title>
+<pages>564-573</pages>
+<year>2018</year>
+<booktitle>STOC</booktitle>
+<crossref>conf/stoc/2018</crossref>
+<url>db/conf/stoc/stoc2018.html#AbrahamsenABCMR18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-00101" mdate="2018-08-13">
+<author>Mikkel Abrahamsen</author>
+<author>Anna Adamaszek</author>
+<author>Karl Bringmann</author>
+<author>Vincent Cohen-Addad</author>
+<author>Mehran Mehr</author>
+<author>Eva Rotenberg</author>
+<author>Alan Roytman</author>
+<author>Mikkel Thorup</author>
+<title>Fast Fencing.</title>
+<year>2018</year>
+<volume>abs/1804.00101</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.00101</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-00101</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-08182" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Frederik Mallmann-Trenn</author>
+<author>Claire Mathieu</author>
+<title>Instance-Optimality in the Noisy Value-and Comparison-Model - Accept, Accept, Strong Accept: Which Papers get in?</title>
+<year>2018</year>
+<volume>abs/1806.08182</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.08182</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-08182</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-07721" mdate="2019-01-01">
+<author>Vincent Cohen-Addad</author>
+<title>Approximation Schemes for Capacitated Clustering in Doubling Metrics.</title>
+<year>2018</year>
+<volume>abs/1812.07721</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.07721</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-07721</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-08664" mdate="2019-01-02">
+<author>Vincent Cohen-Addad</author>
+<author>Andreas Emil Feldmann</author>
+<author>David Saulpic</author>
+<title>Near-Linear Time Approximation Schemes for Clustering in Doubling Metrics.</title>
+<year>2018</year>
+<volume>abs/1812.08664</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.08664</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-08664</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-09120" mdate="2019-10-15">
+<author>Vincent Cohen-Addad</author>
+<author>Laurent Feuilloley</author>
+<author>Tatiana Starikovskaya</author>
+<title>Lower bounds for text indexing with mismatches and differences.</title>
+<year>2018</year>
+<volume>abs/1812.09120</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.09120</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-09120</url>
+</article>
+</r>
+<r><article key="journals/jct/Cohen-AddadHKLS17" mdate="2019-09-16">
+<author>Vincent Cohen-Addad</author>
+<author>Michael Hebdige</author>
+<author orcid="0000-0001-8680-0890">Daniel Král'</author>
+<author>Zhentao Li</author>
+<author>Esteban Salgado</author>
+<title>Steinberg's Conjecture is false.</title>
+<pages>452-456</pages>
+<year>2017</year>
+<volume>122</volume>
+<journal>J. Comb. Theory, Ser. B</journal>
+<url>db/journals/jct/jctb122.html#Cohen-AddadHKLS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/Cohen-AddadK17" mdate="2019-04-03">
+<author>Vincent Cohen-Addad</author>
+<author>Varun Kanade</author>
+<title>Online Optimization of Smoothed Piecewise Constant Functions.</title>
+<pages>412-420</pages>
+<year>2017</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v54/cohen-addad17a.html</ee>
+<crossref>conf/aistats/2017</crossref>
+<url>db/conf/aistats/aistats2017.html#Cohen-AddadK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/focs/Cohen-AddadS17" mdate="2017-12-11">
+<author>Vincent Cohen-Addad</author>
+<author>Chris Schwiegelshohn</author>
+<title>On the Local Structure of Stable Clustering Instances.</title>
+<pages>49-60</pages>
+<year>2017</year>
+<booktitle>FOCS</booktitle>
+<crossref>conf/focs/2017</crossref>
+<url>db/conf/focs/focs2017.html#Cohen-AddadS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/focs/Cohen-AddadDW17" mdate="2018-02-19">
+<author>Vincent Cohen-Addad</author>
+<author>Søren Dahlgaard</author>
+<author>Christian Wulff-Nilsen</author>
+<title>Fast and Compact Exact Distance Oracle for Planar Graphs.</title>
+<pages>962-973</pages>
+<year>2017</year>
+<booktitle>FOCS</booktitle>
+<crossref>conf/focs/2017</crossref>
+<url>db/conf/focs/focs2017.html#Cohen-AddadDW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/Cohen-AddadKM17" mdate="2019-07-23">
+<author>Vincent Cohen-Addad</author>
+<author>Varun Kanade</author>
+<author>Frederik Mallmann-Trenn</author>
+<title>Hierarchical Clustering Beyond the Worst-Case.</title>
+<pages>6201-6209</pages>
+<year>2017</year>
+<booktitle>NIPS</booktitle>
+<crossref>conf/nips/2017</crossref>
+<url>db/conf/nips/nips2017.html#Cohen-AddadKM17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Cohen-AddadS17" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Chris Schwiegelshohn</author>
+<title>One Size Fits All : Effectiveness of Local Search on Structured Data.</title>
+<year>2017</year>
+<volume>abs/1701.08423</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1701.08423</ee>
+<url>db/journals/corr/corr1701.html#Cohen-AddadS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Cohen-AddadDW17" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Søren Dahlgaard</author>
+<author>Christian Wulff-Nilsen</author>
+<title>Fast and Compact Exact Distance Oracle for Planar Graphs.</title>
+<year>2017</year>
+<volume>abs/1702.03259</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.03259</ee>
+<url>db/journals/corr/corr1702.html#Cohen-AddadDW17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Cohen-AddadKMM17" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Varun Kanade</author>
+<author>Frederik Mallmann-Trenn</author>
+<author>Claire Mathieu</author>
+<title>Hierarchical Clustering: Objective Functions and Algorithms.</title>
+<year>2017</year>
+<volume>abs/1704.02147</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.02147</ee>
+<url>db/journals/corr/corr1704.html#Cohen-AddadKMM17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-07381" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<title>A Fast Approximation Scheme for Low-Dimensional k-Means.</title>
+<year>2017</year>
+<volume>abs/1708.07381</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.07381</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-07381</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-03358" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Philip N. Klein</author>
+<author>Neal E. Young</author>
+<title>Balanced power diagrams for redistricting.</title>
+<year>2017</year>
+<volume>abs/1710.03358</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.03358</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-03358</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-01171" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Arnaud de Mesmay</author>
+<author>Eva Rotenberg</author>
+<author>Alan Roytman</author>
+<title>The Bane of Low-Dimensionality Clustering.</title>
+<year>2017</year>
+<volume>abs/1711.01171</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.01171</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-01171</url>
+</article>
+</r>
+<r><article key="journals/dam/Cohen-AddadHM16" mdate="2017-12-28">
+<author orcid="0000-0002-0779-8962">Vincent Cohen-Addad</author>
+<author>Michel Habib</author>
+<author>Fabien de Montgolfier</author>
+<title>Algorithmic aspects of switch cographs.</title>
+<pages>23-42</pages>
+<year>2016</year>
+<volume>200</volume>
+<journal>Discrete Applied Mathematics</journal>
+<url>db/journals/dam/dam200.html#Cohen-AddadHM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/focs/Cohen-AddadKM16" mdate="2017-05-19">
+<author>Vincent Cohen-Addad</author>
+<author>Philip N. Klein</author>
+<author>Claire Mathieu</author>
+<title>Local Search Yields Approximation Schemes for k-Means and k-Median in Euclidean and Minor-Free Metrics.</title>
+<pages>353-364</pages>
+<year>2016</year>
+<booktitle>FOCS</booktitle>
+<crossref>conf/focs/2016</crossref>
+<url>db/conf/focs/focs2016.html#Cohen-AddadKM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/Cohen-AddadSS16" mdate="2018-08-23">
+<author>Vincent Cohen-Addad</author>
+<author>Chris Schwiegelshohn</author>
+<author>Christian Sohler</author>
+<title>Diameter and k-Center in Sliding Windows.</title>
+<pages>19:1-19:12</pages>
+<year>2016</year>
+<booktitle>ICALP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICALP.2016.19</ee>
+<crossref>conf/icalp/2016</crossref>
+<url>db/conf/icalp/icalp2016.html#Cohen-AddadSS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigecom/Cohen-AddadEFF16" mdate="2018-11-06">
+<author>Vincent Cohen-Addad</author>
+<author>Alon Eden</author>
+<author>Michal Feldman</author>
+<author>Amos Fiat</author>
+<title>The Invisible Hand of Dynamic Market Pricing.</title>
+<pages>383-400</pages>
+<year>2016</year>
+<booktitle>EC</booktitle>
+<crossref>conf/sigecom/2016</crossref>
+<url>db/conf/sigecom/sigecom2016.html#Cohen-AddadEFF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/Cohen-AddadVKMM16" mdate="2018-11-06">
+<author>Vincent Cohen-Addad</author>
+<author>Éric Colin de Verdière</author>
+<author>Philip N. Klein</author>
+<author>Claire Mathieu</author>
+<author>David Meierfrankenfeld</author>
+<title>Approximating connectivity domination in weighted bounded-genus graphs.</title>
+<pages>584-597</pages>
+<year>2016</year>
+<booktitle>STOC</booktitle>
+<crossref>conf/stoc/2016</crossref>
+<url>db/conf/stoc/stoc2016.html#Cohen-AddadVKMM16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Cohen-AddadKM16" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Philip N. Klein</author>
+<author>Claire Mathieu</author>
+<title>The power of local search for clustering.</title>
+<year>2016</year>
+<volume>abs/1603.09535</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.09535</ee>
+<url>db/journals/corr/corr1603.html#Cohen-AddadKM16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Cohen-AddadK16" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Varun Kanade</author>
+<title>Online Optimization of Smoothed Piecewise Constant Functions.</title>
+<year>2016</year>
+<volume>abs/1604.01999</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.01999</ee>
+<url>db/journals/corr/corr1604.html#Cohen-AddadK16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Cohen-AddadVM16" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Éric Colin de Verdière</author>
+<author>Arnaud de Mesmay</author>
+<title>A Near-Linear Approximation Scheme for Multicuts of Embedded Graphs with a Fixed Number of Terminals.</title>
+<year>2016</year>
+<volume>abs/1611.02966</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.02966</ee>
+<url>db/journals/corr/corr1611.html#Cohen-AddadVM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/compgeom/Cohen-AddadM15" mdate="2018-08-23">
+<author>Vincent Cohen-Addad</author>
+<author>Claire Mathieu</author>
+<title>Effectiveness of Local Search for Geometric Optimization.</title>
+<pages>329-343</pages>
+<year>2015</year>
+<booktitle>Symposium on Computational Geometry</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.SOCG.2015.329</ee>
+<crossref>conf/compgeom/2015</crossref>
+<url>db/conf/compgeom/compgeom2015.html#Cohen-AddadM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/Cohen-AddadM15" mdate="2017-05-26">
+<author>Vincent Cohen-Addad</author>
+<author>Arnaud de Mesmay</author>
+<title>A Fixed Parameter Tractable Approximation Scheme for the Optimal Cut Graph of a Surface.</title>
+<pages>386-398</pages>
+<year>2015</year>
+<booktitle>ESA</booktitle>
+<crossref>conf/esa/2015</crossref>
+<url>db/conf/esa/esa2015.html#Cohen-AddadM15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Cohen-AddadM15" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Arnaud de Mesmay</author>
+<title>A Fixed Parameter Tractable Approximation Scheme for the Optimal Cut Graph of a Surface.</title>
+<year>2015</year>
+<volume>abs/1507.01688</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.01688</ee>
+<url>db/journals/corr/corr1507.html#Cohen-AddadM15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Cohen-AddadEFF15" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Alon Eden</author>
+<author>Michal Feldman</author>
+<author>Amos Fiat</author>
+<title>The Invisible Hand of Dynamic Market Pricing.</title>
+<year>2015</year>
+<volume>abs/1511.05646</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.05646</ee>
+<url>db/journals/corr/corr1511.html#Cohen-AddadEFF15</url>
+</article>
+</r>
+<r><inproceedings key="conf/waoa/Cohen-AddadLMM14" mdate="2017-05-26">
+<author>Vincent Cohen-Addad</author>
+<author>Zhentao Li</author>
+<author>Claire Mathieu</author>
+<author>Ioannis Milis</author>
+<title>Energy-Efficient Algorithms for Non-preemptive Speed-Scaling.</title>
+<pages>107-118</pages>
+<year>2014</year>
+<booktitle>WAOA</booktitle>
+<crossref>conf/waoa/2014</crossref>
+<url>db/conf/waoa/waoa2014.html#Cohen-AddadLMM14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Cohen-AddadLMM14" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Zhentao Li</author>
+<author>Claire Mathieu</author>
+<author>Ioannis Milis</author>
+<title>Energy-efficient algorithms for non-preemptive speed-scaling.</title>
+<year>2014</year>
+<volume>abs/1402.4111</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1402.4111</ee>
+<url>db/journals/corr/corr1402.html#Cohen-AddadLMM14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Cohen-AddadM14" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Claire Mathieu</author>
+<title>The Unreasonable Success of Local Search: Geometric Optimization.</title>
+<year>2014</year>
+<volume>abs/1410.0553</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1410.0553</ee>
+<url>db/journals/corr/corr1410.html#Cohen-AddadM14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Cohen-AddadHM13" mdate="2018-08-13">
+<author>Vincent Cohen-Addad</author>
+<author>Michel Habib</author>
+<author>Fabien de Montgolfier</author>
+<title>Algorithmic Aspects of Switch Cographs.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.1012</ee>
+<volume>abs/1310.1012</volume>
+<url>db/journals/corr/corr1310.html#Cohen-AddadHM13</url>
+</article>
+</r>
+<coauthors n="45" nc="2">
+<co c="0"><na f="a/Abrahamsen:Mikkel">Mikkel Abrahamsen</na></co>
+<co c="0"><na f="a/Adamaszek:Anna">Anna Adamaszek</na></co>
+<co c="0"><na f="b/Becchetti:Luca">Luca Becchetti</na></co>
+<co c="0"><na f="b/Bringmann:Karl">Karl Bringmann</na></co>
+<co c="0"><na f="b/Bury:Marc">Marc Bury</na></co>
+<co c="0"><na f="d/Dahlgaard:S=oslash=ren">Søren Dahlgaard</na></co>
+<co c="0"><na f="e/Eden:Alon">Alon Eden</na></co>
+<co c="0"><na f="f/Feldman:Michal">Michal Feldman</na></co>
+<co c="0"><na f="f/Feldmann:Andreas_Emil">Andreas Emil Feldmann</na></co>
+<co c="1"><na f="f/Feuilloley:Laurent">Laurent Feuilloley</na></co>
+<co c="0"><na f="f/Fiat:Amos">Amos Fiat</na></co>
+<co c="0"><na f="g/Grandoni_0001:Fabrizio">Fabrizio Grandoni 0001</na></co>
+<co c="0"><na f="g/Guedj:Benjamin">Benjamin Guedj</na></co>
+<co c="0"><na f="g/Gupta:Anupam">Anupam Gupta</na></co>
+<co c="1"><na f="h/Habib:Michel">Michel Habib</na></co>
+<co c="0"><na f="h/Hebdige:Michael">Michael Hebdige</na></co>
+<co c="0"><na f="k/Kanade:Varun">Varun Kanade</na></co>
+<co c="0"><na f="k/Klein:Philip_N=">Philip N. Klein</na></co>
+<co c="0" n="2"><na f="k/Kr=aacute=l:Daniel">Daniel Král</na><na>Daniel Král'</na></co>
+<co c="0"><na f="k/Kumar_0001:Amit">Amit Kumar 0001</na></co>
+<co c="0"><na f="l/Lee:Euiwoong">Euiwoong Lee</na></co>
+<co c="0"><na f="l/Li:Jason">Jason Li</na></co>
+<co c="0"><na f="l/Li:Zhentao">Zhentao Li</na></co>
+<co c="0"><na f="m/Mallmann=Trenn:Frederik">Frederik Mallmann-Trenn</na></co>
+<co c="0"><na f="m/Marx:D=aacute=niel">Dániel Marx</na></co>
+<co c="0"><na f="m/Mathieu:Claire">Claire Mathieu</na></co>
+<co c="0"><na f="m/Mehr:Mehran">Mehran Mehr</na></co>
+<co c="0"><na f="m/Meierfrankenfeld:David">David Meierfrankenfeld</na></co>
+<co c="0"><na f="m/Mesmay:Arnaud_de">Arnaud de Mesmay</na></co>
+<co c="0"><na f="m/Milis:Ioannis">Ioannis Milis</na></co>
+<co c="1"><na f="m/Montgolfier:Fabien_de">Fabien de Montgolfier</na></co>
+<co c="0"><na f="p/Pilipczuk:Marcin">Marcin Pilipczuk</na></co>
+<co c="0"><na f="p/Pilipczuk:Michal">Michal Pilipczuk</na></co>
+<co c="0"><na f="r/Rom:Guy">Guy Rom</na></co>
+<co c="0"><na f="r/Rotenberg:Eva">Eva Rotenberg</na></co>
+<co c="0"><na f="r/Roytman:Alan">Alan Roytman</na></co>
+<co c="0"><na f="s/Salgado:Esteban">Esteban Salgado</na></co>
+<co c="0"><na f="s/Saulpic:David">David Saulpic</na></co>
+<co c="0"><na f="s/Schwiegelshohn:Chris">Chris Schwiegelshohn</na></co>
+<co c="0"><na f="s/Sohler:Christian">Christian Sohler</na></co>
+<co c="1"><na f="s/Starikovskaya:Tatiana">Tatiana Starikovskaya</na></co>
+<co c="0"><na f="t/Thorup:Mikkel">Mikkel Thorup</na></co>
+<co c="0"><na f="v/Verdi=egrave=re:=Eacute=ric_Colin_de">Éric Colin de Verdière</na></co>
+<co c="0"><na f="w/Wulff=Nilsen:Christian">Christian Wulff-Nilsen</na></co>
+<co c="0"><na f="y/Young:Neal_E=">Neal E. Young</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Odette Auzende" n="7">
+<person key="homepages/61/6683" mdate="2009-06-10">
+<author>Odette Auzende</author>
+</person>
+<r><inproceedings key="conf/fie/RodriguesBNRBGA13" mdate="2019-02-07">
+<author>Jose Roberto A. Rodrigues</author>
+<author>Leônidas de Oliveira Brandão</author>
+<author>Mauricio G. F. Nascimento</author>
+<author>Patricia Alves Rodrigues</author>
+<author orcid="0000-0001-8992-4768">Anarosa A. F. Brandão</author>
+<author>Hélène Giroire</author>
+<author>Odette Auzende</author>
+<title>iQuiz: Integrated assessment environment to improve Moodle Quiz.</title>
+<pages>293-295</pages>
+<year>2013</year>
+<booktitle>FIE</booktitle>
+<crossref>conf/fie/2013</crossref>
+<url>db/conf/fie/fie2013.html#RodriguesBNRBGA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/AuzendeGC13" mdate="2017-05-23">
+<author>Odette Auzende</author>
+<author>Hélène Giroire</author>
+<author>Françoise Le Calvez</author>
+<title>Error Driven Adaptive Training Sequences.</title>
+<pages>219-220</pages>
+<year>2013</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2013</crossref>
+<url>db/conf/icalt/icalt2013.html#AuzendeGC13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijlt/AuzendeGC12" mdate="2017-05-09">
+<author>Odette Auzende</author>
+<author>Hélène Giroire</author>
+<author>Françoise Le Calvez</author>
+<title>A practical approach to using the IMS-QTI specification.</title>
+<pages>353-377</pages>
+<year>2012</year>
+<volume>7</volume>
+<journal>IJLT</journal>
+<number>4</number>
+<url>db/journals/ijlt/ijlt7.html#AuzendeGC12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalt/AuzendeGC09" mdate="2017-05-23">
+<author>Odette Auzende</author>
+<author>Hélène Giroire</author>
+<author>Françoise Le Calvez</author>
+<title>Using Competencies to Search for Suitable Exercises.</title>
+<pages>661-665</pages>
+<year>2009</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2009</crossref>
+<url>db/conf/icalt/icalt2009.html#AuzendeGC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/AuzendeGC08" mdate="2017-05-23">
+<author>Odette Auzende</author>
+<author>Hélène Giroire</author>
+<author>Françoise Le Calvez</author>
+<title>Towards Dynamic and Interoperable Educational Contents: Creating an Editorial Chain.</title>
+<pages>917-921</pages>
+<year>2008</year>
+<booktitle>ICALT</booktitle>
+<crossref>conf/icalt/2008</crossref>
+<url>db/conf/icalt/icalt2008.html#AuzendeGC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/AuzendeGC07" mdate="2009-02-12">
+<author>Odette Auzende</author>
+<author>Hélène Giroire</author>
+<author>Françoise Le Calvez</author>
+<title>Extension of IMS-QTI to Express Constraints on Template Variables in Mathematics Exercises.</title>
+<pages>524-526</pages>
+<year>2007</year>
+<booktitle>AIED</booktitle>
+<crossref>conf/aied/2007</crossref>
+<url>db/conf/aied/aied2007.html#AuzendeGC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/JoabAFBL02" mdate="2017-05-21">
+<author>Michelle Joab</author>
+<author>Odette Auzende</author>
+<author>Michel Futtersack</author>
+<author>Brigitte Bonnet</author>
+<author>Patrice Le Leydour</author>
+<title>Computer Aided Evaluation of Trainee Skills on a Simulator Network.</title>
+<pages>521-530</pages>
+<year>2002</year>
+<crossref>conf/its/2002</crossref>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<url>db/conf/its/its2002.html#JoabAFBL02</url>
+</inproceedings>
+</r>
+<coauthors n="11" nc="2">
+<co c="1"><na f="b/Bonnet:Brigitte">Brigitte Bonnet</na></co>
+<co c="0"><na f="b/Brand=atilde=o:Anarosa_A=_F=">Anarosa A. F. Brandão</na></co>
+<co c="0"><na f="b/Brand=atilde=o:Le=ocirc=nidas_de_Oliveira">Leônidas de Oliveira Brandão</na></co>
+<co c="0"><na f="c/Calvez:Fran=ccedil=oise_Le">Françoise Le Calvez</na></co>
+<co c="1"><na f="f/Futtersack:Michel">Michel Futtersack</na></co>
+<co c="0"><na f="g/Giroire:H=eacute=l=egrave=ne">Hélène Giroire</na></co>
+<co c="1"><na f="j/Joab:Michelle">Michelle Joab</na></co>
+<co c="1"><na f="l/Leydour:Patrice_Le">Patrice Le Leydour</na></co>
+<co c="0"><na f="n/Nascimento:Mauricio_G=_F=">Mauricio G. F. Nascimento</na></co>
+<co c="0"><na f="r/Rodrigues:Jose_Roberto_A=">Jose Roberto A. Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Patricia_Alves">Patricia Alves Rodrigues</na></co>
+</coauthors>
+</dblpperson>
+

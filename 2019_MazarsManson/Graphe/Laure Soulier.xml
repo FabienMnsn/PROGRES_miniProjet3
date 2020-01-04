@@ -1,0 +1,754 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Laure Soulier" n="53">
+<person key="homepages/00/11514" mdate="2012-06-12">
+<author>Laure Soulier</author>
+</person>
+<r><article key="journals/tois/TamineSNS19" mdate="2019-12-18">
+<author>Lynda Tamine</author>
+<author>Laure Soulier</author>
+<author>Gia-Hung Nguyen</author>
+<author>Nathalie Souf</author>
+<title>Offline versus Online Representation Learning of Documents Using External Knowledge.</title>
+<pages>42:1-42:34</pages>
+<year>2019</year>
+<volume>37</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>4</number>
+<url>db/journals/tois/tois37.html#TamineSNS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/AissaSD19" mdate="2019-03-29">
+<author>Wafa Aissa</author>
+<author>Laure Soulier</author>
+<author>Ludovic Denoyer</author>
+<title>Modèle de compréhension du besoin en information pour la recherche d'information conversationnelle.</title>
+<year>2019</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2019</crossref>
+<url>db/conf/coria/coria2019.html#AissaSD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/BordesZSPG19" mdate="2019-03-29">
+<author>Patrick Bordes</author>
+<author>Eloi Zablocki</author>
+<author>Laure Soulier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Un modèle multimodal d'apprentissage de représentations de phrases qui préserve la sémantique visuelle.</title>
+<year>2019</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2019</crossref>
+<url>db/conf/coria/coria2019.html#BordesZSPG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/BordesZSPG19" mdate="2019-12-12">
+<author>Patrick Bordes</author>
+<author>Eloi Zablocki</author>
+<author>Laure Soulier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Incorporating Visual Semantics into Sentence Representations within a Grounded Space.</title>
+<pages>696-707</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1064</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#BordesZSPG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/ZablockiBSPG19" mdate="2019-06-11">
+<author>Eloi Zablocki</author>
+<author>Patrick Bordes</author>
+<author>Laure Soulier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Context-Aware Zero-Shot Learning for Object Recognition.</title>
+<pages>7292-7303</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zablocki19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZablockiBSPG19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/coria/2019" mdate="2019-03-29">
+<editor>Patrice Bellot</editor>
+<editor>Laure Soulier</editor>
+<title>COnférence en Recherche d'Informations et Applications - CORIA 2019, 16th French Information Retrieval Conference. Lyon, France, May 25-29, 2019. Proceedings.</title>
+<booktitle>CORIA</booktitle>
+<publisher>ARIA</publisher>
+<year>2019</year>
+<isbn>978-2-9556434-2-6</isbn>
+<url>db/conf/coria/coria2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-12638" mdate="2019-05-02">
+<author>Eloi Zablocki</author>
+<author>Patrick Bordes</author>
+<author>Benjamin Piwowarski</author>
+<author>Laure Soulier</author>
+<author>Patrick Gallinari</author>
+<title>Context-Aware Zero-Shot Learning for Object Recognition.</title>
+<year>2019</year>
+<volume>abs/1904.12638</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.12638</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-12638</url>
+</article>
+</r>
+<r><article key="journals/sigir/BellotCFMMNSST18" mdate="2019-06-07">
+<author>Patrice Bellot</author>
+<author>Linda Cappellato</author>
+<author>Nicola Ferro 0001</author>
+<author>Josiane Mothe</author>
+<author>Fionn Murtagh</author>
+<author>Jian-Yun Nie</author>
+<author>Eric SanJuan</author>
+<author>Laure Soulier</author>
+<author>Chiraz Trabelsi</author>
+<title>Report on CLEF 2018: Experimental IR Meets Multilinguality, Multimodality, and Interaction.</title>
+<pages>72-82</pages>
+<year>2018</year>
+<volume>52</volume>
+<journal>SIGIR Forum</journal>
+<number>2</number>
+<url>db/journals/sigir/sigir52.html#BellotCFMMNSST18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ZablockiPSG18" mdate="2018-10-22">
+<author>Eloi Zablocki</author>
+<author>Benjamin Piwowarski</author>
+<author>Laure Soulier</author>
+<author>Patrick Gallinari</author>
+<title>Learning Multi-Modal Word Representation Grounded in Visual Context.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZablockiPSG18</url>
+<pages>5626-5633</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/NguyenTSB18" mdate="2018-10-26">
+<author>Gia-Hung Nguyen</author>
+<author>Lynda Tamine</author>
+<author>Laure Soulier</author>
+<author>Nathalie Bricon-Souf</author>
+<title>Modèle neuronal tripartite pour la représentation de documents.</title>
+<year>2018</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2018</crossref>
+<url>db/conf/coria/coria2018.html#NguyenTSB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/AissaSD18" mdate="2019-09-11">
+<author>Wafa Aissa</author>
+<author>Laure Soulier</author>
+<author>Ludovic Denoyer</author>
+<title>A Reinforcement Learning-driven Translation Model for Search-Oriented Conversational Systems.</title>
+<pages>33-39</pages>
+<year>2018</year>
+<booktitle>SCAI@EMNLP</booktitle>
+<ee type="oa">https://www.aclweb.org/anthology/W18-5705/</ee>
+<crossref>conf/emnlp/2018scai</crossref>
+<url>db/conf/emnlp/scai2018.html#AissaSD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/NguyenTSS18" mdate="2018-11-14">
+<author orcid="0000-0002-4973-7391">Gia-Hung Nguyen</author>
+<author orcid="0000-0002-3615-8032">Lynda Tamine</author>
+<author orcid="0000-0001-9827-7400">Laure Soulier</author>
+<author orcid="0000-0003-2150-0998">Nathalie Souf</author>
+<title>A Tri-Partite Neural Document Language Model for Semantic Information Retrieval.</title>
+<pages>445-461</pages>
+<year>2018</year>
+<booktitle>ESWC</booktitle>
+<crossref>conf/esws/2018</crossref>
+<url>db/conf/esws/eswc2018.html#NguyenTSS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CarvalhoCPSC18" mdate="2019-09-25">
+<author>Micael Carvalho</author>
+<author>Rémi Cadène</author>
+<author orcid="0000-0002-6296-4222">David Picard</author>
+<author>Laure Soulier</author>
+<author>Matthieu Cord</author>
+<title>Images and Recipes: Retrieval in the Cooking Context.</title>
+<pages>169-174</pages>
+<year>2018</year>
+<booktitle>ICDE Workshops</booktitle>
+<crossref>conf/icde/2018w</crossref>
+<url>db/conf/icde/icde2018w.html#CarvalhoCPSC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/CarvalhoCPSTC18" mdate="2018-11-21">
+<author>Micael Carvalho</author>
+<author>Rémi Cadène</author>
+<author>David Picard</author>
+<author>Laure Soulier</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Image Embeddings.</title>
+<pages>35-44</pages>
+<year>2018</year>
+<booktitle>SIGIR</booktitle>
+<crossref>conf/sigir/2018</crossref>
+<url>db/conf/sigir/sigir2018.html#CarvalhoCPSTC18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/clef/2018w" mdate="2019-06-07">
+<editor>Linda Cappellato</editor>
+<editor>Nicola Ferro 0001</editor>
+<editor>Jian-Yun Nie</editor>
+<editor>Laure Soulier</editor>
+<title>Working Notes of CLEF 2018 - Conference and Labs of the Evaluation Forum, Avignon, France, September 10-14, 2018.</title>
+<booktitle>CLEF (Working Notes)</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>2125</volume>
+<year>2018</year>
+<ee type="oa">http://ceur-ws.org/Vol-2125</ee>
+<url>db/conf/clef/clef2018w.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/clef/2018" mdate="2019-09-25">
+<editor orcid="0000-0001-8698-5055">Patrice Bellot</editor>
+<editor>Chiraz Trabelsi</editor>
+<editor>Josiane Mothe</editor>
+<editor>Fionn Murtagh</editor>
+<editor>Jian-Yun Nie</editor>
+<editor>Laure Soulier</editor>
+<editor>Eric SanJuan</editor>
+<editor>Linda Cappellato</editor>
+<editor>Nicola Ferro 0001</editor>
+<title>Experimental IR Meets Multilinguality, Multimodality, and Interaction - 9th International Conference of the CLEF Association, CLEF 2018, Avignon, France, September 10-14, 2018, Proceedings</title>
+<booktitle>CLEF</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11018</volume>
+<isbn>978-3-319-98931-0</isbn>
+<isbn>978-3-319-98932-7</isbn>
+<url>db/conf/clef/clef2018.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-11146" mdate="2018-08-13">
+<author>Micael Carvalho</author>
+<author>Rémi Cadène</author>
+<author>David Picard</author>
+<author>Laure Soulier</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Image Embeddings.</title>
+<year>2018</year>
+<volume>abs/1804.11146</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.11146</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-11146</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-00900" mdate="2018-08-13">
+<author>Micael Carvalho</author>
+<author>Rémi Cadène</author>
+<author>David Picard</author>
+<author>Laure Soulier</author>
+<author>Matthieu Cord</author>
+<title>Images and Recipes: Retrieval in the cooking context.</title>
+<year>2018</year>
+<volume>abs/1805.00900</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.00900</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-00900</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-01495" mdate="2018-10-05">
+<author>Wafa Aissa</author>
+<author>Laure Soulier</author>
+<author>Ludovic Denoyer</author>
+<title>A Reinforcement Learning-driven Translation Model for Search-Oriented Conversational Systems.</title>
+<year>2018</year>
+<volume>abs/1809.01495</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.01495</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-01495</url>
+</article>
+</r>
+<r><article key="journals/csur/SoulierT17" mdate="2018-11-06">
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<title>On the Collaboration Support in Information Retrieval.</title>
+<pages>51:1-51:34</pages>
+<year>2017</year>
+<volume>50</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>4</number>
+<url>db/journals/csur/csur50.html#SoulierT17</url>
+</article>
+</r>
+<r><article key="journals/sigir/AzzopardiPSST17" mdate="2018-11-06">
+<author>Leif Azzopardi</author>
+<author>Jeremy Pickens</author>
+<author>Chirag Shah</author>
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<title>Report on the Second International Workshop on the Evaluation on Collaborative Information Seeking and Retrieval (ECol?2017 @ CHIIR).</title>
+<pages>122-127</pages>
+<year>2017</year>
+<volume>51</volume>
+<journal>SIGIR Forum</journal>
+<number>3</number>
+<url>db/journals/sigir/sigir51.html#AzzopardiPSST17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aime/NguyenTSS17" mdate="2017-06-13">
+<author>Gia-Hung Nguyen</author>
+<author>Lynda Tamine</author>
+<author>Laure Soulier</author>
+<author>Nathalie Souf</author>
+<title>Learning Concept-Driven Document Embeddings for Medical Information Search.</title>
+<pages>160-170</pages>
+<year>2017</year>
+<booktitle>AIME</booktitle>
+<crossref>conf/aime/2017</crossref>
+<url>db/conf/aime/aime2017.html#NguyenTSS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chiir/AzzopardiPSST17" mdate="2018-11-06">
+<author>Leif Azzopardi</author>
+<author>Jeremy Pickens</author>
+<author orcid="0000-0002-3797-4293">Chirag Shah</author>
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<title>Second International Workshop On the Evaluation of Collaborative Information Seeking and Retrieval (Ecol'17).</title>
+<pages>429-431</pages>
+<year>2017</year>
+<booktitle>CHIIR</booktitle>
+<crossref>conf/chiir/2017</crossref>
+<url>db/conf/chiir/chiir2017.html#AzzopardiPSST17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/ZablockiBSPG17" mdate="2019-05-28">
+<author>Eloi Zablocki</author>
+<author>Patrick Bordes</author>
+<author>Laure Soulier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>LIP6@CLEF2017: Multi-Modal Spatial Role Labeling using Word Embeddings.</title>
+<year>2017</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1866/paper_76.pdf</ee>
+<crossref>conf/clef/2017w</crossref>
+<url>db/conf/clef/clef2017w.html#ZablockiBSPG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/NguyenTSB17" mdate="2017-05-08">
+<author>Gia-Hung Nguyen</author>
+<author>Lynda Tamine</author>
+<author>Laure Soulier</author>
+<author>Nathalie Bricon-Souf</author>
+<title>Modèle Neuronal de Recherche d'Information Augmenté par une Ressource Sémantique.</title>
+<pages>265-280</pages>
+<year>2017</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2017</crossref>
+<url>db/conf/coria/coria2017.html#NguyenTSB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictir/NguyenSTB17" mdate="2018-11-06">
+<author>Gia-Hung Nguyen</author>
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<author>Nathalie Bricon-Souf</author>
+<title>DSRIM: A Deep Neural Information Retrieval Model Enhanced by a Knowledge Resource Driven Representation of Documents.</title>
+<pages>19-26</pages>
+<year>2017</year>
+<booktitle>ICTIR</booktitle>
+<crossref>conf/ictir/2017</crossref>
+<url>db/conf/ictir/ictir2017.html#NguyenSTB17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/NguyenSTB17" mdate="2018-08-13">
+<author>Gia-Hung Nguyen</author>
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<author>Nathalie Bricon-Souf</author>
+<title>DSRIM: A Deep Neural Information Retrieval Model Enhanced by a Knowledge Resource Driven Representation of Documents.</title>
+<year>2017</year>
+<volume>abs/1706.04922</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.04922</ee>
+<url>db/journals/corr/corr1706.html#NguyenSTB17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-03483" mdate="2018-08-13">
+<author>Eloi Zablocki</author>
+<author>Benjamin Piwowarski</author>
+<author>Laure Soulier</author>
+<author>Patrick Gallinari</author>
+<title>Learning Multi-Modal Word Representation Grounded in Visual Context.</title>
+<year>2017</year>
+<volume>abs/1711.03483</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.03483</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-03483</url>
+</article>
+</r>
+<r><article key="journals/ipm/SoulierTS16" mdate="2017-06-14">
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<author orcid="0000-0002-3797-4293">Chirag Shah</author>
+<title>MineRank: Leveraging users' latent roles for unsupervised collaborative information retrieval.</title>
+<pages>1122-1141</pages>
+<year>2016</year>
+<volume>52</volume>
+<journal>Inf. Process. Manage.</journal>
+<number>6</number>
+<url>db/journals/ipm/ipm52.html#SoulierTS16</url>
+</article>
+</r>
+<r><article key="journals/sigir/SoulierTSAP16" mdate="2018-11-06">
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<author>Tetsuya Sakai</author>
+<author>Leif Azzopardi</author>
+<author>Jeremy Pickens</author>
+<title>Report on the First International Workshop on the Evaluation on Collaborative Information Seeking and Retrieval (ECol'2015).</title>
+<pages>42-48</pages>
+<year>2016</year>
+<volume>50</volume>
+<journal>SIGIR Forum</journal>
+<number>1</number>
+<url>db/journals/sigir/sigir50.html#SoulierTSAP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/SoulierTN16" mdate="2018-11-06">
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<author>Gia-Hung Nguyen</author>
+<title>Answering Twitter Questions: a Model for Recommending Answerers through Social Collaboration.</title>
+<pages>267-276</pages>
+<year>2016</year>
+<booktitle>CIKM</booktitle>
+<crossref>conf/cikm/2016</crossref>
+<url>db/conf/cikm/cikm2016.html#SoulierTN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/JabeurSTM15" mdate="2017-05-24">
+<author>Lamjed Ben Jabeur</author>
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<author>Paul Mousset</author>
+<title>A Product Feature-Based User-Centric Ranking Model for E-Commerce Search.</title>
+<pages>174-186</pages>
+<year>2016</year>
+<booktitle>CLEF</booktitle>
+<crossref>conf/clef/2016</crossref>
+<url>db/conf/clef/clef2016.html#JabeurSTM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/JabeurSMT16" mdate="2019-05-28">
+<author>Lamjed Ben Jabeur</author>
+<author>Laure Soulier</author>
+<author>Paul Mousset</author>
+<author>Lynda Tamine</author>
+<title>Living Ranking: from Online to Real-time Information Retrieval Evaluation.</title>
+<pages>587-588</pages>
+<year>2016</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1609/16090587.pdf</ee>
+<crossref>conf/clef/2016w</crossref>
+<url>db/conf/clef/clef2016w.html#JabeurSMT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/SoulierJMT16" mdate="2017-05-08">
+<author>Laure Soulier</author>
+<author>Lamjed Ben Jabeur</author>
+<author>Paul Mousset</author>
+<author>Lynda Tamine</author>
+<title>Quels facteurs de pertinence pour la recherche de produits ecommerce ?</title>
+<pages>415-430</pages>
+<year>2016</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2016</crossref>
+<url>db/conf/coria/coria2016.html#SoulierJMT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/TamineS16" mdate="2017-05-21">
+<author>Lynda Tamine</author>
+<author>Laure Soulier</author>
+<title>Collaborative Information Retrieval: Concepts, Models and Evaluation.</title>
+<pages>885-888</pages>
+<year>2016</year>
+<booktitle>ECIR</booktitle>
+<crossref>conf/ecir/2016</crossref>
+<url>db/conf/ecir/ecir2016.html#TamineS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ht/TamineSJAHHR16" mdate="2018-11-06">
+<author>Lynda Tamine</author>
+<author>Laure Soulier</author>
+<author>Lamjed Ben Jabeur</author>
+<author>Frédéric Amblard</author>
+<author>Chihab Hanachi</author>
+<author orcid="0000-0003-3494-7561">Gilles Hubert</author>
+<author>Camille Roth</author>
+<title>Social Media-Based Collaborative Information Access: Analysis of Online Crisis-Related Twitter Conversations.</title>
+<pages>159-168</pages>
+<year>2016</year>
+<booktitle>HT</booktitle>
+<crossref>conf/ht/2016</crossref>
+<url>db/conf/ht/ht2016.html#TamineSJAHHR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictir/TamineS16" mdate="2018-11-06">
+<author>Lynda Tamine</author>
+<author>Laure Soulier</author>
+<title>Collaborative Information Retrieval: Frameworks, Theoretical Models, and Emerging Topics.</title>
+<pages>7-8</pages>
+<year>2016</year>
+<booktitle>ICTIR</booktitle>
+<crossref>conf/ictir/2016</crossref>
+<url>db/conf/ictir/ictir2016.html#TamineS16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/NguyenTSB16" mdate="2018-08-13">
+<author>Gia-Hung Nguyen</author>
+<author>Lynda Tamine</author>
+<author>Laure Soulier</author>
+<author>Nathalie Bricon-Souf</author>
+<title>Toward a Deep Neural Approach for Knowledge-Based IR.</title>
+<year>2016</year>
+<volume>abs/1606.07211</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.07211</ee>
+<url>db/journals/corr/corr1606.html#NguyenTSB16</url>
+</article>
+</r>
+<r><article key="journals/dn/SoulierT15" mdate="2017-05-27">
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<title>Vers l'intégration des métarôles pour la recherche d'information collaborative.</title>
+<pages>9-38</pages>
+<year>2015</year>
+<volume>18</volume>
+<journal>Document Numérique</journal>
+<number>2-3</number>
+<url>db/journals/dn/dn18.html#SoulierT15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/TamineS15" mdate="2018-11-06">
+<author>Lynda Tamine</author>
+<author>Laure Soulier</author>
+<title>Understanding the Impact of the Role Factor in Collaborative Information Retrieval.</title>
+<pages>43-52</pages>
+<year>2015</year>
+<booktitle>CIKM</booktitle>
+<crossref>conf/cikm/2015</crossref>
+<url>db/conf/cikm/cikm2015.html#TamineS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/AzzopardiPSST15" mdate="2018-11-06">
+<author>Leif Azzopardi</author>
+<author>Jeremy Pickens</author>
+<author>Tetsuya Sakai</author>
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<title>ECol 2015: First international workshop on the Evaluation on Collaborative Information Seeking and Retrieval.</title>
+<pages>1943-1944</pages>
+<year>2015</year>
+<booktitle>CIKM</booktitle>
+<crossref>conf/cikm/2015</crossref>
+<url>db/conf/cikm/cikm2015.html#AzzopardiPSST15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/JabeurST15" mdate="2019-05-28">
+<author>Lamjed Ben Jabeur</author>
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<title>IRIT at CLEF 2015: A Product Search Model for Head Queries.</title>
+<year>2015</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1391/111-CR.pdf</ee>
+<crossref>conf/clef/2015w</crossref>
+<url>db/conf/clef/clef2015w.html#JabeurST15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/SoulierT15" mdate="2017-05-08">
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<title>Définition et exploitation des méta-rôles des utilisateurs pour la recherche d'information collaborative.</title>
+<pages>107-122</pages>
+<year>2015</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2015</crossref>
+<url>db/conf/coria/coria2015.html#SoulierT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/ChellalJSMPBPTH15" mdate="2016-04-15">
+<author>Abdelhamid Chellal</author>
+<author>Lamjed Ben Jabeur</author>
+<author>Laure Soulier</author>
+<author>Bilel Moulahi</author>
+<author>Thomas Palmer</author>
+<author>Mohand Boughanem</author>
+<author>Karen Pinel-Sauvagnat</author>
+<author>Lynda Tamine</author>
+<author>Gilles Hubert</author>
+<title>IRIT at TREC Microblog 2015.</title>
+<year>2015</year>
+<booktitle>TREC</booktitle>
+<crossref>conf/trec/2015</crossref>
+<url>db/conf/trec/trec2015.html#ChellalJSMPBPTH15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/cikm/2015ecol" mdate="2018-11-28">
+<editor>Leif Azzopardi</editor>
+<editor>Jeremy Pickens</editor>
+<editor>Tetsuya Sakai</editor>
+<editor>Laure Soulier</editor>
+<editor>Lynda Tamine</editor>
+<title>Proceedings of the 2015 Workshop on Evaluation on Collaborative Information Retrieval and Seeking, ECol 2015, Melbourne, Australia, October 23, 2015</title>
+<booktitle>ECol@CIKM</booktitle>
+<publisher>ACM</publisher>
+<year>2015</year>
+<isbn>978-1-4503-3788-5</isbn>
+<url>db/conf/cikm/ecol2015.html</url>
+</proceedings>
+</r>
+<r><phdthesis key="phd/hal/Soulier14" mdate="2016-07-01">
+<author>Laure Soulier</author>
+<title>Définition et évaluation de modèles de recherche d'information collaborative basés sur les compétences de domaine et les rôles des utilisateurs. (Definition and evaluation of collaborative ranking models based on users' domain expertise and roles).</title>
+<year>2014</year>
+<school>University of Toulouse, France</school>
+</phdthesis>
+</r>
+<r><article key="journals/ipm/SoulierTB14" mdate="2017-05-18">
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<author>Wahiba Bahsoun</author>
+<title>On domain expertise-based roles in collaborative information retrieval.</title>
+<pages>752-774</pages>
+<year>2014</year>
+<volume>50</volume>
+<journal>Inf. Process. Manage.</journal>
+<number>5</number>
+<url>db/journals/ipm/ipm50.html#SoulierTB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/SoulierTB14" mdate="2017-05-08">
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<author>Wahiba Bahsoun</author>
+<title>Un modèle de recherche d'information collaborative basé sur l'expertise des utilisateurs.</title>
+<pages>43-58</pages>
+<year>2014</year>
+<booktitle>CORIA-CIFED</booktitle>
+<crossref>conf/coria/2014</crossref>
+<url>db/conf/coria/coria2014.html#SoulierTB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/SoulierST14" mdate="2018-11-06">
+<author>Laure Soulier</author>
+<author orcid="0000-0002-3797-4293">Chirag Shah</author>
+<author>Lynda Tamine</author>
+<title>User-driven system-mediated collaborative information retrieval.</title>
+<pages>485-494</pages>
+<year>2014</year>
+<booktitle>SIGIR</booktitle>
+<crossref>conf/sigir/2014</crossref>
+<url>db/conf/sigir/sigir2014.html#SoulierST14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jasis/SoulierJTB13" mdate="2017-05-28">
+<author>Laure Soulier</author>
+<author>Lamjed Ben Jabeur</author>
+<author>Lynda Tamine</author>
+<author>Wahiba Bahsoun</author>
+<title>On ranking relevant entities in heterogeneous networks using a language-based model.</title>
+<pages>500-515</pages>
+<year>2013</year>
+<volume>64</volume>
+<journal>JASIST</journal>
+<number>3</number>
+<url>db/journals/jasis/jasis64.html#SoulierJTB13</url>
+</article>
+</r>
+<r><inproceedings key="conf/airs/SoulierTB13" mdate="2017-05-26">
+<author>Laure Soulier</author>
+<author>Lynda Tamine</author>
+<author>Wahiba Bahsoun</author>
+<title>A Collaborative Document Ranking Model for a Multi-faceted Search.</title>
+<pages>109-120</pages>
+<year>2013</year>
+<booktitle>AIRS</booktitle>
+<crossref>conf/airs/2013</crossref>
+<url>db/conf/airs/airs2013.html#SoulierTB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inforsid/SoulierJTB12" mdate="2013-03-07">
+<author>Laure Soulier</author>
+<author>Lamjed Ben Jabeur</author>
+<author>Lynda Tamine</author>
+<author>Wahiba Bahsoun</author>
+<title>Modèle de langue pour l'ordonnancement conjoint d'entités pertinentes dans un réseau d'informations hétérogènes .</title>
+<pages>256-272</pages>
+<year>2012</year>
+<booktitle>INFORSID</booktitle>
+<crossref>conf/inforsid/2012</crossref>
+<url>db/conf/inforsid/inforsid2012.html#SoulierJTB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcdl/SoulierJTB12" mdate="2018-11-06">
+<author>Laure Soulier</author>
+<author>Lamjed Ben Jabeur</author>
+<author>Lynda Tamine</author>
+<author>Wahiba Bahsoun</author>
+<title>BibRank: a language-based model for co-ranking entities in bibliographic networks.</title>
+<pages>61-70</pages>
+<year>2012</year>
+<booktitle>JCDL</booktitle>
+<crossref>conf/jcdl/2012</crossref>
+<url>db/conf/jcdl/jcdl2012.html#SoulierJTB12</url>
+</inproceedings>
+</r>
+<coauthors n="38" nc="1">
+<co c="0"><na f="a/Aissa:Wafa">Wafa Aissa</na></co>
+<co c="0"><na f="a/Amblard:Fr=eacute=d=eacute=ric">Frédéric Amblard</na></co>
+<co c="0"><na f="a/Azzopardi:Leif">Leif Azzopardi</na></co>
+<co c="0"><na f="b/Bahsoun:Wahiba">Wahiba Bahsoun</na></co>
+<co c="0"><na f="b/Bellot:Patrice">Patrice Bellot</na></co>
+<co c="0"><na f="b/Bordes:Patrick">Patrick Bordes</na></co>
+<co c="0"><na f="b/Boughanem:Mohand">Mohand Boughanem</na></co>
+<co c="0" n="2"><na f="b/Bricon=Souf:Nathalie">Nathalie Bricon-Souf</na><na>Nathalie Souf</na></co>
+<co c="0"><na f="c/Cad=egrave=ne:R=eacute=mi">Rémi Cadène</na></co>
+<co c="0"><na f="c/Cappellato:Linda">Linda Cappellato</na></co>
+<co c="0"><na f="c/Carvalho:Micael">Micael Carvalho</na></co>
+<co c="0"><na f="c/Chellal:Abdelhamid">Abdelhamid Chellal</na></co>
+<co c="0"><na f="c/Cord:Matthieu">Matthieu Cord</na></co>
+<co c="0"><na f="d/Denoyer:Ludovic">Ludovic Denoyer</na></co>
+<co c="0"><na f="f/Ferro_0001:Nicola">Nicola Ferro 0001</na></co>
+<co c="0"><na f="g/Gallinari:Patrick">Patrick Gallinari</na></co>
+<co c="0"><na f="h/Hanachi:Chihab">Chihab Hanachi</na></co>
+<co c="0"><na f="h/Hubert:Gilles">Gilles Hubert</na></co>
+<co c="0"><na f="j/Jabeur:Lamjed_Ben">Lamjed Ben Jabeur</na></co>
+<co c="0"><na f="m/Mothe:Josiane">Josiane Mothe</na></co>
+<co c="0"><na f="m/Moulahi:Bilel">Bilel Moulahi</na></co>
+<co c="0"><na f="m/Mousset:Paul">Paul Mousset</na></co>
+<co c="0"><na f="m/Murtagh:Fionn">Fionn Murtagh</na></co>
+<co c="0"><na f="n/Nguyen:Gia=Hung">Gia-Hung Nguyen</na></co>
+<co c="0"><na f="n/Nie:Jian=Yun">Jian-Yun Nie</na></co>
+<co c="0"><na f="p/Palmer:Thomas">Thomas Palmer</na></co>
+<co c="0"><na f="p/Picard:David">David Picard</na></co>
+<co c="0"><na f="p/Pickens:Jeremy">Jeremy Pickens</na></co>
+<co c="0"><na f="p/Pinel=Sauvagnat:Karen">Karen Pinel-Sauvagnat</na></co>
+<co c="0"><na f="p/Piwowarski:Benjamin">Benjamin Piwowarski</na></co>
+<co c="0"><na f="r/Roth:Camille">Camille Roth</na></co>
+<co c="0"><na f="s/Sakai:Tetsuya">Tetsuya Sakai</na></co>
+<co c="0"><na f="s/SanJuan:Eric">Eric SanJuan</na></co>
+<co c="0"><na f="s/Shah:Chirag">Chirag Shah</na></co>
+<co c="0"><na f="t/Tamine:Lynda">Lynda Tamine</na></co>
+<co c="0"><na f="t/Thome:Nicolas">Nicolas Thome</na></co>
+<co c="0"><na f="t/Trabelsi:Chiraz">Chiraz Trabelsi</na></co>
+<co c="0"><na f="z/Zablocki:Eloi">Eloi Zablocki</na></co>
+</coauthors>
+</dblpperson>
+

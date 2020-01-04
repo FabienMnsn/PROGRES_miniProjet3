@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Jacques Malenfant" n="42">
+<person key="homepages/94/2178" mdate="2009-06-09">
+<author>Jacques Malenfant</author>
+</person>
+<r><inproceedings key="conf/ecsa/Malenfant19" mdate="2019-09-18">
+<author>Jacques Malenfant</author>
+<title>Stochastic hybrid systems meet software components for well-founded cyber-physical systems software architectures.</title>
+<pages>132-138</pages>
+<year>2019</year>
+<booktitle>ECSA (Companion)</booktitle>
+<crossref>conf/ecsa/2019c</crossref>
+<url>db/conf/ecsa/ecsa2019c.html#Malenfant19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-04824" mdate="2019-03-31">
+<author>Huaxi Zhang</author>
+<author>Jacques Malenfant</author>
+<title>Proceedings of the Fifth International Conference on Cloud and Robotics (ICCR2018).</title>
+<year>2019</year>
+<volume>abs/1903.04824</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.04824</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-04824</url>
+</article>
+</r>
+<r><inproceedings key="conf/irc/Malenfant18" mdate="2018-05-11">
+<author>Jacques Malenfant</author>
+<title>Towards a Well-Founded Software Component Model for Cyber-Physical Control Systems.</title>
+<pages>262-265</pages>
+<year>2018</year>
+<booktitle>IRC</booktitle>
+<crossref>conf/irc/2018</crossref>
+<url>db/conf/irc/irc2018.html#Malenfant18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/MelekhovaM17" mdate="2017-09-07">
+<author>Olga Melekhova</author>
+<author>Jacques Malenfant</author>
+<title>A Token-Based Scheme for Coordinating Decisions in Large-Scale Autonomic Systems.</title>
+<pages>60-65</pages>
+<year>2017</year>
+<booktitle>WETICE</booktitle>
+<crossref>conf/wetice/2017</crossref>
+<url>db/conf/wetice/wetice2017.html#MelekhovaM17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/RogovchenkoM11" mdate="2017-05-20">
+<author>Olena Rogovchenko</author>
+<author>Jacques Malenfant</author>
+<title>Interfaces riches pour des architectures de contrôle de robots compositionnelles.</title>
+<pages>711-739</pages>
+<year>2011</year>
+<volume>30</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>6</number>
+<url>db/journals/tsi/tsi30.html#RogovchenkoM11</url>
+</article>
+</r>
+<r><article key="journals/jucs/ChatelTM10" mdate="2017-05-17">
+<author>Pierre Châtel</author>
+<author>Isis Truck</author>
+<author>Jacques Malenfant</author>
+<title>LCP-Nets: A Linguistic Approach for Non-functional Preferences in a Semantic SOA Environment.</title>
+<pages>198-217</pages>
+<year>2010</year>
+<volume>16</volume>
+<journal>J. UCS</journal>
+<number>1</number>
+<url>db/journals/jucs/jucs16.html#ChatelTM10</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcloud/DutreilhRMMT10" mdate="2017-05-17">
+<author>Xavier Dutreilh</author>
+<author>Nicolas Rivierre</author>
+<author>Aurélien Moreau</author>
+<author>Jacques Malenfant</author>
+<author>Isis Truck</author>
+<title>From Data Center Resource Allocation to Control Theory and Back.</title>
+<pages>410-417</pages>
+<year>2010</year>
+<booktitle>IEEE CLOUD</booktitle>
+<crossref>conf/IEEEcloud/2010</crossref>
+<url>db/conf/IEEEcloud/IEEEcloud2010.html#DutreilhRMMT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/ChatelMT10" mdate="2017-05-19">
+<author>Pierre Châtel</author>
+<author>Jacques Malenfant</author>
+<author>Isis Truck</author>
+<title>QoS-based Late-Binding of Service Invocations in Adaptive Business Processes.</title>
+<pages>227-234</pages>
+<year>2010</year>
+<booktitle>ICWS</booktitle>
+<crossref>conf/icws/2010</crossref>
+<url>db/conf/icws/icws2010.html#ChatelMT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simpar/RogovchenkoM10" mdate="2017-05-19">
+<author>Olena Rogovchenko</author>
+<author>Jacques Malenfant</author>
+<title>Handling Hardware Heterogeneity through Rich Interfaces in a Component Model for Autonomous Robotics.</title>
+<pages>312-323</pages>
+<year>2010</year>
+<booktitle>SIMPAR</booktitle>
+<crossref>conf/simpar/2010</crossref>
+<url>db/conf/simpar/simpar2010.html#RogovchenkoM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soco/RogovchenkoM10" mdate="2017-05-23">
+<author>Olena Rogovchenko</author>
+<author>Jacques Malenfant</author>
+<title>Composition and Compositionality in a Component Model for Autonomous Robots.</title>
+<pages>34-49</pages>
+<year>2010</year>
+<booktitle>Software Composition</booktitle>
+<crossref>conf/soco/2010</crossref>
+<url>db/conf/soco/sc2010.html#RogovchenkoM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iciw/MoreauMD09" mdate="2017-05-17">
+<author>Aurélien Moreau</author>
+<author>Jacques Malenfant</author>
+<author>Michel Dao</author>
+<title>Data Flow Repair in Web Service Orchestration at Runtime.</title>
+<pages>43-48</pages>
+<year>2009</year>
+<booktitle>ICIW</booktitle>
+<crossref>conf/iciw/2009</crossref>
+<url>db/conf/iciw/iciw2009.html#MoreauMD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/MoreauM08" mdate="2017-05-24">
+<author>Aurélien Moreau</author>
+<author>Jacques Malenfant</author>
+<title>Syntax-Directed Data Integration in Semantic Web Services Orchestrations.</title>
+<pages>744-748</pages>
+<year>2008</year>
+<booktitle>DEXA Workshops</booktitle>
+<crossref>conf/dexaw/2008</crossref>
+<url>db/conf/dexaw/dexaw2008.html#MoreauM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iciw/RogovchenkoM08" mdate="2017-05-17">
+<author>Olena Rogovchenko</author>
+<author>Jacques Malenfant</author>
+<title>WS-Objects: First-Class Objects as Web Service Parameters.</title>
+<pages>437-444</pages>
+<year>2008</year>
+<booktitle>ICIW</booktitle>
+<crossref>conf/iciw/2008</crossref>
+<url>db/conf/iciw/iciw2008.html#RogovchenkoM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/AlmeidaABM07" mdate="2018-11-06">
+<author>Alessandro de Luna Almeida</author>
+<author>Samir Aknine</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Jacques Malenfant</author>
+<title>Predictive fault tolerance in multiagent systems: a plan-based replication approach.</title>
+<pages>139</pages>
+<year>2007</year>
+<crossref>conf/atal/2007</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2007.html#AlmeidaABM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lmo/RogovchenkoM07" mdate="2007-04-23">
+<author>Olena Rogovchenko</author>
+<author>Jacques Malenfant</author>
+<title>Webjects, de vrais objets en paramètres des services web.</title>
+<pages>65-80</pages>
+<year>2007</year>
+<crossref>conf/lmo/2007</crossref>
+<booktitle>LMO</booktitle>
+<url>db/conf/lmo/lmo2007.html#RogovchenkoM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soco/ColletMOR07" mdate="2017-05-23">
+<author>Philippe Collet</author>
+<author>Jacques Malenfant</author>
+<author>Alain Ozanne</author>
+<author>Nicolas Rivierre</author>
+<title>Composite Contract Enforcement in Hierarchical Component Systems.</title>
+<pages>18-33</pages>
+<year>2007</year>
+<crossref>conf/soco/2007</crossref>
+<booktitle>Software Composition</booktitle>
+<url>db/conf/soco/sc2007.html#ColletMOR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/AlmeidaABM06" mdate="2018-11-02">
+<author>Alessandro de Luna Almeida</author>
+<author>Samir Aknine</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Jacques Malenfant</author>
+<title>A Predictive Method for Providing Fault Tolerance in Multi-agent Systems.</title>
+<pages>226-232</pages>
+<year>2006</year>
+<crossref>conf/iat/2006</crossref>
+<booktitle>IAT</booktitle>
+<url>db/conf/iat/iat2006.html#AlmeidaABM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/BriotGAAMMSFGL06" mdate="2019-12-18">
+<author>Jean-Pierre Briot</author>
+<author>Zahia Guessoum</author>
+<author>Samir Aknine</author>
+<author>A. L. Almeida</author>
+<author>Jacques Malenfant</author>
+<author>Olivier Marin</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<author>Noura Faci</author>
+<author>Maíra A. de C. Gatti</author>
+<author>Carlos José Pereira de Lucena</author>
+<title>Experience and prospects for various control strategies for self-replicating multi-agent systems.</title>
+<pages>37-43</pages>
+<year>2006</year>
+<booktitle>SEAMS@ICSE</booktitle>
+<crossref>conf/icse/2006seams</crossref>
+<url>db/conf/icse/seams2006.html#BriotGAAMMSFGL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/AlmeidaABM06" mdate="2018-11-02">
+<author>Alessandro de Luna Almeida</author>
+<author>Samir Aknine</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Jacques Malenfant</author>
+<title>Plan-based replication for fault-tolerant multi-agent systems.</title>
+<year>2006</year>
+<crossref>conf/ipps/2006</crossref>
+<booktitle>IPDPS</booktitle>
+<url>db/conf/ipps/ipdps2006.html#AlmeidaABM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/AlmeidaABM05" mdate="2012-07-20">
+<author>Alessandro de Luna Almeida</author>
+<author>Samir Aknine</author>
+<author>Jean-Pierre Briot</author>
+<author>Jacques Malenfant</author>
+<title>Une approche de réplication fondée sur les plans pour la tolérance aux fautes des systèmes multi-agents (article court).</title>
+<pages>183-186</pages>
+<year>2005</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2005</crossref>
+<url>db/conf/jfsma/jfsma2005.html#AlmeidaABM05</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ecoopw/2004" mdate="2019-05-14">
+<editor>Jacques Malenfant</editor>
+<editor>Bjarte M. Østvold</editor>
+<title>Object-Oriented Technology: ECOOP 2004 Workshop Reader, ECOOP 2004 Workshops, Oslo, Norway, June 14-18, 2004, Final Reports</title>
+<booktitle>ECOOP Workshops</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>3344</volume>
+<publisher>Springer</publisher>
+<year>2005</year>
+<isbn>3-540-23988-X</isbn>
+<url>db/conf/ecoopw/ecoopw2004.html</url>
+</proceedings>
+</r>
+<r><article key="journals/Lobjet/MalenfantD04" mdate="2017-05-27">
+<author>Jacques Malenfant</author>
+<author>Simon Denier</author>
+<title>Architecture réflexive pour le contrôle de robots modulaires.</title>
+<pages>17-30</pages>
+<year>2004</year>
+<volume>10</volume>
+<journal>L'OBJET</journal>
+<number>2-3</number>
+<url>db/journals/Lobjet/Lobjet10.html#MalenfantD04</url>
+</article>
+</r>
+<r><article key="journals/Lobjet/MalenfantD03" mdate="2017-05-27">
+<author>Jacques Malenfant</author>
+<author>Simon Denier</author>
+<title>ARM : un modèle réflexif asynchrone pour les objets répartis et réactifs.</title>
+<pages>91-103</pages>
+<year>2003</year>
+<volume>9</volume>
+<journal>L'OBJET</journal>
+<number>1-2</number>
+<url>db/journals/Lobjet/Lobjet9.html#MalenfantD03</url>
+</article>
+</r>
+<r><inproceedings key="conf/reflection/MalenfantSA01" mdate="2017-05-22">
+<author>Jacques Malenfant</author>
+<author>Maria-Teresa Segarra</author>
+<author>Françoise André</author>
+<title>Dynamic Adaptability: The MolèNE Experiment.</title>
+<pages>110-117</pages>
+<year>2001</year>
+<crossref>conf/reflection/2001</crossref>
+<booktitle>Reflection</booktitle>
+<url>db/conf/reflection/reflection2001.html#MalenfantSA01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reflection/PennaneachJMS01" mdate="2017-05-22">
+<author>François Pennaneac'h</author>
+<author>Jean-Marc Jézéquel</author>
+<author>Jacques Malenfant</author>
+<author>Gerson Sunyé</author>
+<title>UML Reflections.</title>
+<pages>210-230</pages>
+<year>2001</year>
+<crossref>conf/reflection/2001</crossref>
+<booktitle>Reflection</booktitle>
+<url>db/conf/reflection/reflection2001.html#PennaneachJMS01</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ecoopw/2000" mdate="2019-05-14">
+<editor>Jacques Malenfant</editor>
+<editor>Sabine Moisan</editor>
+<editor>Ana M. D. Moreira</editor>
+<title>Object-Oriented Technology, ECOOP 2000 Workshops, Panels, and Posters, Sophia Antipolis and Cannes, France, June 12-16, 2000, Proceedings</title>
+<booktitle>ECOOP Workshops</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1964</volume>
+<publisher>Springer</publisher>
+<year>2000</year>
+<isbn>3-540-41513-0</isbn>
+<url>db/conf/ecoopw/ecoopw2000.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/lmo/1999" mdate="2018-07-05">
+<editor>Jacques Malenfant</editor>
+<editor>Roger Rousseau</editor>
+<title>Actes des journées Langages et Modèles à Objets, LMO'99. Villefranche-sur-mer, France, 27-29 janvier</title>
+<booktitle>LMO</booktitle>
+<publisher>Hermès</publisher>
+<isbn>2-7462-0008-2</isbn>
+<year>1999</year>
+<url>db/conf/lmo/lmo1999.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/lmo/JacquesM97" mdate="2007-04-26">
+<author>M. Jacques</author>
+<author>Jacques Malenfant</author>
+<title>Compiling an object-oriented language by program transformation.</title>
+<pages>13-28</pages>
+<year>1997</year>
+<crossref>conf/lmo/1997</crossref>
+<booktitle>LMO</booktitle>
+<url>db/conf/lmo/lmo1997.html#JacquesM97</url>
+</inproceedings>
+</r>
+<r><article key="journals/lisp/MalenfantDC96" mdate="2002-01-03">
+<author>Jacques Malenfant</author>
+<author>Christophe Dony</author>
+<author>Pierre Cointe</author>
+<title>A Semantics of Introspection in a Reflective Prototype-Based Language.</title>
+<pages>153-179</pages>
+<year>1996</year>
+<volume>9</volume>
+<journal>Lisp and Symbolic Computation</journal>
+<number>2-3</number>
+<url>db/journals/lisp/lisp9.html#MalenfantDC96</url>
+</article>
+</r>
+<r><article key="journals/oos/MalenfantLV96" mdate="2010-10-26">
+<author>Jacques Malenfant</author>
+<author>Guy Lapalme</author>
+<author>Jean G. Vaucher</author>
+<title>ObjVProlog-D: distributed object-oriented programming in logic.</title>
+<pages>61-86</pages>
+<year>1996</year>
+<volume>3</volume>
+<journal>Object Oriented Systems</journal>
+<url>db/journals/oos/oos3.html#MalenfantLV96</url>
+</article>
+</r>
+<r><inproceedings key="conf/lmo/JacquesP95" mdate="2007-04-25">
+<author>M. Jacques</author>
+<author>Jacques Malenfant</author>
+<title>Proto-Reflex: un langage à prototypes avec réflexion de comportement.</title>
+<pages>75-92</pages>
+<year>1995</year>
+<crossref>conf/lmo/1995</crossref>
+<booktitle>LMO</booktitle>
+<url>db/conf/lmo/lmo1995.html#JacquesP95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/Malenfant95" mdate="2018-11-06">
+<author>Jacques Malenfant</author>
+<title>On the Semantic Diversity of Delegation-Based Programming Languages.</title>
+<pages>215-230</pages>
+<year>1995</year>
+<crossref>conf/oopsla/1995</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla95.html#Malenfant95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/MuletMC95" mdate="2018-11-06">
+<author>Philippe Mulet</author>
+<author>Jacques Malenfant</author>
+<author>Pierre Cointe</author>
+<title>Towards a Methodology for Explicit Composition of MetaObjects.</title>
+<pages>316-330</pages>
+<year>1995</year>
+<crossref>conf/oopsla/1995</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla95.html#MuletMC95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfplc/MalenfantD93" mdate="2004-03-24">
+<author>Jacques Malenfant</author>
+<author>François-Nicolas Demers</author>
+<title>Évaluation partielle pour l'implantation efficace de la réflexion de comportement.</title>
+<pages>197-213</pages>
+<year>1993</year>
+<crossref>conf/jfplc/1993</crossref>
+<booktitle>JFPL</booktitle>
+<url>db/conf/jfplc/jfpl1993.html#MalenfantD93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfplc/Malenfant92" mdate="2004-06-25">
+<author>Jacques Malenfant</author>
+<title>Architectures méta-réflexives en programmation logique par objets.</title>
+<pages>253-267</pages>
+<year>1992</year>
+<crossref>conf/jfplc/1992</crossref>
+<booktitle>JFPL</booktitle>
+<url>db/conf/jfplc/jfpl1992.html#Malenfant92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/DonyMC92" mdate="2018-11-06">
+<author>Christophe Dony</author>
+<author>Jacques Malenfant</author>
+<author>Pierre Cointe</author>
+<title>Prototype-Based Languages: From a New Taxonomy to Constructive Proposals and Their Validation.</title>
+<pages>201-217</pages>
+<year>1992</year>
+<crossref>conf/oopsla/1992</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla92.html#DonyMC92</url>
+</inproceedings>
+</r>
+<r><article key="journals/oopsm/MalenfantLV91" mdate="2018-11-14">
+<author>Jacques Malenfant</author>
+<author>Guy Lapalme</author>
+<author>Jean G. Vaucher</author>
+<title>ObjVProlog-D: a reflexive object-oriented logic language for distributed computing.</title>
+<pages>78-81</pages>
+<year>1991</year>
+<volume>2</volume>
+<journal>OOPS Messenger</journal>
+<number>2</number>
+<url>db/journals/oopsm/oopsm2.html#MalenfantLV91</url>
+</article>
+</r>
+<r><inproceedings key="conf/jfplc/MalenfantLV90" mdate="2004-06-29">
+<author>Jacques Malenfant</author>
+<author>Guy Lapalme</author>
+<author>Jean G. Vaucher</author>
+<title>Implantation du langage de programmation logique, par objets e répartie ObjVProlog-D.</title>
+<pages>161-</pages>
+<year>1990</year>
+<crossref>conf/jfplc/1990</crossref>
+<booktitle>SPLT</booktitle>
+<url>db/conf/jfplc/jfplc1990.html#MalenfantLV90</url>
+</inproceedings>
+</r>
+<r><article key="journals/cg/MajorMS89" mdate="2017-05-17">
+<author>F. Major</author>
+<author>Jacques Malenfant</author>
+<author>Neil F. Stewart</author>
+<title>Distance between objects represented by octtrees defined in different coordinate systems.</title>
+<pages>497-503</pages>
+<year>1989</year>
+<volume>13</volume>
+<journal>Computers and Graphics</journal>
+<number>4</number>
+<url>db/journals/cg/cg13.html#MajorMS89</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecoop/MalenfantLV89" mdate="2012-05-18">
+<author>Jacques Malenfant</author>
+<author>Guy Lapalme</author>
+<author>Jean G. Vaucher</author>
+<title>ObjVProlog: Metaclasses in Logic.</title>
+<pages>257-269</pages>
+<year>1989</year>
+<crossref>conf/ecoop/1989</crossref>
+<booktitle>ECOOP</booktitle>
+<url>db/conf/ecoop/ecoop89.html#MalenfantLV89</url>
+</inproceedings>
+</r>
+<r><article key="journals/tc/LEcuyerM88" mdate="2017-05-20">
+<author>Pierre L'Ecuyer</author>
+<author>Jacques Malenfant</author>
+<title>Computing Optimal Checkpointing Strategies for Rollback and Recovery Systems.</title>
+<pages>491-496</pages>
+<year>1988</year>
+<volume>37</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>4</number>
+<url>db/journals/tc/tc37.html#LEcuyerM88</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecoop/VaucherLM88" mdate="2017-05-19">
+<author>Jean G. Vaucher</author>
+<author>Guy Lapalme</author>
+<author>Jacques Malenfant</author>
+<title>SCOOP, Structured Concurrent Object-Oriented Prolog.</title>
+<pages>191-211</pages>
+<year>1988</year>
+<crossref>conf/ecoop/1988</crossref>
+<booktitle>ECOOP</booktitle>
+<url>db/conf/ecoop/ecoop88.html#VaucherLM88</url>
+</inproceedings>
+</r>
+<coauthors n="41" nc="4">
+<co c="0"><na f="a/Aknine:Samir">Samir Aknine</na></co>
+<co c="0"><na f="a/Almeida:A=_L=">A. L. Almeida</na></co>
+<co c="0"><na f="a/Almeida:Alessandro_de_Luna">Alessandro de Luna Almeida</na></co>
+<co c="3"><na f="a/Andr=eacute=:Fran=ccedil=oise">Françoise André</na></co>
+<co c="0"><na f="b/Briot:Jean=Pierre">Jean-Pierre Briot</na></co>
+<co c="0"><na f="c/Ch=acirc=tel:Pierre">Pierre Châtel</na></co>
+<co c="0"><na f="c/Cointe:Pierre">Pierre Cointe</na></co>
+<co c="0"><na f="c/Collet:Philippe">Philippe Collet</na></co>
+<co c="0"><na f="d/Dao:Michel">Michel Dao</na></co>
+<co c="-1"><na f="d/Demers:Fran=ccedil=ois=Nicolas">François-Nicolas Demers</na></co>
+<co c="0"><na f="d/Denier:Simon">Simon Denier</na></co>
+<co c="0"><na f="d/Dony:Christophe">Christophe Dony</na></co>
+<co c="0"><na f="d/Dutreilh:Xavier">Xavier Dutreilh</na></co>
+<co c="0"><na f="f/Faci:Noura">Noura Faci</na></co>
+<co c="0"><na f="g/Gatti:Ma=iacute=ra_A=_de_C=">Maíra A. de C. Gatti</na></co>
+<co c="0"><na f="g/Guessoum:Zahia">Zahia Guessoum</na></co>
+<co c="-1"><na f="j/Jacques:M=">M. Jacques</na></co>
+<co c="0"><na f="j/J=eacute=z=eacute=quel:Jean=Marc">Jean-Marc Jézéquel</na></co>
+<co c="1"><na f="l/Lapalme:Guy">Guy Lapalme</na></co>
+<co c="1"><na f="l/L=Ecuyer:Pierre">Pierre L'Ecuyer</na></co>
+<co c="0"><na f="l/Lucena:Carlos_Jos=eacute=_Pereira_de">Carlos José Pereira de Lucena</na></co>
+<co c="2"><na f="m/Major:F=">F. Major</na></co>
+<co c="0"><na f="m/Marin:Olivier">Olivier Marin</na></co>
+<co c="-1"><na f="m/Melekhova:Olga">Olga Melekhova</na></co>
+<co c="0"><na f="m/Moisan:Sabine">Sabine Moisan</na></co>
+<co c="0"><na f="m/Moreau:Aur=eacute=lien">Aurélien Moreau</na></co>
+<co c="0" n="2"><na f="m/Moreira_0001:Ana">Ana Moreira 0001</na><na>Ana M. D. Moreira</na></co>
+<co c="0"><na f="m/Mulet:Philippe">Philippe Mulet</na></co>
+<co c="-1"><na f="=/=Oslash=stvold:Bjarte_M=">Bjarte M. Østvold</na></co>
+<co c="0"><na f="o/Ozanne:Alain">Alain Ozanne</na></co>
+<co c="0"><na f="p/Pennaneac=h:Fran=ccedil=ois">François Pennaneac'h</na></co>
+<co c="0"><na f="r/Rivierre:Nicolas">Nicolas Rivierre</na></co>
+<co c="-1"><na f="r/Rogovchenko:Olena">Olena Rogovchenko</na></co>
+<co c="0"><na f="r/Rousseau:Roger">Roger Rousseau</na></co>
+<co c="3"><na f="s/Segarra:Maria=Teresa">Maria-Teresa Segarra</na></co>
+<co c="0"><na f="s/Sens_0001:Pierre">Pierre Sens 0001</na></co>
+<co c="2"><na f="s/Stewart:Neil_F=">Neil F. Stewart</na></co>
+<co c="0"><na f="s/Suny=eacute=:Gerson">Gerson Sunyé</na></co>
+<co c="0"><na f="t/Truck:Isis">Isis Truck</na></co>
+<co c="1"><na f="v/Vaucher:Jean_G=">Jean G. Vaucher</na></co>
+<co c="-1"><na f="z/Zhang:Huaxi">Huaxi Zhang</na></co>
+</coauthors>
+</dblpperson>
+

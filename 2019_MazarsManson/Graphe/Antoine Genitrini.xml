@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Antoine Genitrini" n="31">
+<person key="homepages/17/133" mdate="2009-06-08">
+<author>Antoine Genitrini</author>
+</person>
+<r><inproceedings key="conf/analco/BodiniGN19" mdate="2019-02-18">
+<author>Olivier Bodini</author>
+<author>Antoine Genitrini</author>
+<author>Mehdi Naima</author>
+<title>Ranked Schröder Trees.</title>
+<pages>13-26</pages>
+<year>2019</year>
+<booktitle>ANALCO</booktitle>
+<crossref>conf/analco/2019</crossref>
+<url>db/conf/analco/analco2019.html#BodiniGN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apn/BodiniDGP19" mdate="2019-06-11">
+<author>Olivier Bodini</author>
+<author>Matthieu Dien</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>The Combinatorics of Barrier Synchronization.</title>
+<pages>386-405</pages>
+<year>2019</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2019</crossref>
+<url>db/conf/apn/pn2019.html#BodiniDGP19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-04243" mdate="2019-07-17">
+<author>Olivier Bodini</author>
+<author>Matthieu Dien</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>The Combinatorics of Barrier Synchronization.</title>
+<year>2019</year>
+<volume>abs/1907.04243</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.04243</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-04243</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-06743" mdate="2019-07-26">
+<author>Julien Clément 0001</author>
+<author>Antoine Genitrini</author>
+<title>Binary Decision Diagrams: from Tree Compaction to Sampling.</title>
+<year>2019</year>
+<volume>abs/1907.06743</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.06743</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-06743</url>
+</article>
+</r>
+<r><inproceedings key="conf/aofa/BodiniDGV18" mdate="2018-08-23">
+<author>Olivier Bodini</author>
+<author>Matthieu Dien</author>
+<author>Antoine Genitrini</author>
+<author>Alfredo Viola</author>
+<title>Beyond Series-Parallel Concurrent Systems: The Case of Arch Processes.</title>
+<pages>14:1-14:14</pages>
+<year>2018</year>
+<booktitle>AofA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.AofA.2018.14</ee>
+<crossref>conf/aofa/2018</crossref>
+<url>db/conf/aofa/aofa2018.html#BodiniDGV18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-00843" mdate="2018-08-13">
+<author>Olivier Bodini</author>
+<author>Matthieu Dien</author>
+<author>Antoine Genitrini</author>
+<author>Alfredo Viola</author>
+<title>Beyond series-parallel concurrent systems: the case of arch processes.</title>
+<year>2018</year>
+<volume>abs/1803.00843</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.00843</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-00843</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-08376" mdate="2018-09-02">
+<author>Olivier Bodini</author>
+<author>Antoine Genitrini</author>
+<author>Mehdi Naima</author>
+<title>Ranked Schröder Trees.</title>
+<year>2018</year>
+<volume>abs/1808.08376</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.08376</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-08376</url>
+</article>
+</r>
+<r><book publtype="habil" key="books/hal/Genitrini17" mdate="2019-04-12">
+<author>Antoine Genitrini</author>
+<title>Combinatoire énumérative et analytique en Logique Propositionnelle et en Théorie de la Concurrence : Vers une quantification de l'expressivité des modèles. (Enumerative and Analytic Combinatorics for Propositional Logic and Concurrency Theory : Towards a quantification of the model expressiveness).</title>
+<year>2017</year>
+<school>UPMC, Paris, France</school>
+</book>
+</r>
+<r><article key="journals/endm/BodiniGR17" mdate="2017-06-26">
+<author>Olivier Bodini</author>
+<author>Antoine Genitrini</author>
+<author>Nicolas Rolin</author>
+<title>Extended boxed product and application to synchronized trees.</title>
+<pages>189-202</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>Electronic Notes in Discrete Mathematics</journal>
+<url>db/journals/endm/endm59.html#BodiniGR17</url>
+</article>
+</r>
+<r><inproceedings key="conf/analco/BodiniDGP17" mdate="2019-06-02">
+<author>Olivier Bodini</author>
+<author>Matthieu Dien</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>The Ordered and Colored Products in Analytic Combinatorics: Application to the Quantitative Study of Synchronizations in Concurrent Processes.</title>
+<pages>16-30</pages>
+<year>2017</year>
+<booktitle>ANALCO</booktitle>
+<crossref>conf/analco/2017</crossref>
+<url>db/conf/analco/analco2017.html#BodiniDGP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csr/BodiniDGP17" mdate="2017-05-22">
+<author>Olivier Bodini</author>
+<author>Matthieu Dien</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>Entropic Uniform Sampling of Linear Extensions in Series-Parallel Posets.</title>
+<pages>71-84</pages>
+<year>2017</year>
+<booktitle>CSR</booktitle>
+<crossref>conf/csr/2017</crossref>
+<url>db/conf/csr/csr2017.html#BodiniDGP17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GenitriniGKW17" mdate="2018-08-13">
+<author>Antoine Genitrini</author>
+<author>Bernhard Gittenberger</author>
+<author>Manuel Kauers</author>
+<author>Michael Wallner</author>
+<title>Asymptotic Enumeration of Compacted Binary Trees.</title>
+<year>2017</year>
+<volume>abs/1703.10031</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.10031</ee>
+<url>db/journals/corr/corr1703.html#GenitriniGKW17</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/GenitriniM16" mdate="2018-11-30">
+<author>Antoine Genitrini</author>
+<author orcid="0000-0002-0910-8320">Cécile Mailler</author>
+<title>Generalised and Quotient Models for Random And/Or Trees and Application to Satisfiability.</title>
+<pages>1106-1138</pages>
+<year>2016</year>
+<volume>76</volume>
+<journal>Algorithmica</journal>
+<number>4</number>
+<url>db/journals/algorithmica/algorithmica76.html#GenitriniM16</url>
+</article>
+</r>
+<r><article key="journals/combinatorics/BodiniGP16" mdate="2019-05-21">
+<author>Olivier Bodini</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>A Quantitative Study of Pure Parallel Processes.</title>
+<pages>P1.11</pages>
+<year>2016</year>
+<volume>23</volume>
+<journal>Electr. J. Comb.</journal>
+<number>1</number>
+<ee type="oa">http://www.combinatorics.org/ojs/index.php/eljc/article/view/v23i1p11</ee>
+<url>db/journals/combinatorics/combinatorics23.html#BodiniGP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/latin/BodiniDFGH16" mdate="2019-06-02">
+<author>Olivier Bodini</author>
+<author>Matthieu Dien</author>
+<author>Xavier Fontaine</author>
+<author>Antoine Genitrini</author>
+<author>Hsien-Kuei Hwang</author>
+<title>Increasing Diamonds.</title>
+<pages>207-219</pages>
+<year>2016</year>
+<booktitle>LATIN</booktitle>
+<crossref>conf/latin/2016</crossref>
+<url>db/conf/latin/latin2016.html#BodiniDFGH16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Genitrini16" mdate="2018-08-13">
+<author>Antoine Genitrini</author>
+<title>Full asymptotic expansion for Polya structures.</title>
+<year>2016</year>
+<volume>abs/1605.00837</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1605.00837</ee>
+<url>db/journals/corr/corr1605.html#Genitrini16</url>
+</article>
+</r>
+<r><article key="journals/tcs/GenitriniGKM15" mdate="2018-11-30">
+<author>Antoine Genitrini</author>
+<author>Bernhard Gittenberger</author>
+<author>Veronika Kraus</author>
+<author orcid="0000-0002-0910-8320">Cécile Mailler</author>
+<title>Associative and commutative tree representations for Boolean functions.</title>
+<pages>70-101</pages>
+<year>2015</year>
+<volume>570</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs570.html#GenitriniGKM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/analco/BodiniG15" mdate="2017-05-23">
+<author>Olivier Bodini</author>
+<author>Antoine Genitrini</author>
+<title>Cuts in Increasing Trees.</title>
+<pages>66-77</pages>
+<year>2015</year>
+<booktitle>ANALCO</booktitle>
+<crossref>conf/analco/2015</crossref>
+<url>db/conf/analco/analco2015.html#BodiniG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caldam/BodiniGPR15" mdate="2017-05-21">
+<author>Olivier Bodini</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<author>Nicolas Rolin</author>
+<title>Associativity for Binary Parallel Processes: A Quantitative Study.</title>
+<pages>217-228</pages>
+<year>2015</year>
+<booktitle>CALDAM</booktitle>
+<crossref>conf/caldam/2015</crossref>
+<url>db/conf/caldam/caldam2015.html#BodiniGPR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latin/GenitriniM14" mdate="2018-11-02">
+<author>Antoine Genitrini</author>
+<author orcid="0000-0002-0910-8320">Cécile Mailler</author>
+<title>Equivalence Classes of Random Boolean Trees and Application to the Catalan Satisfiability Problem.</title>
+<pages>466-477</pages>
+<year>2014</year>
+<booktitle>LATIN</booktitle>
+<crossref>conf/latin/2014</crossref>
+<url>db/conf/latin/latin2014.html#GenitriniM14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BodiniGP14" mdate="2018-08-13">
+<author>Olivier Bodini</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>A Quantitative Study of Pure Parallel Processes.</title>
+<year>2014</year>
+<volume>abs/1407.1873</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.1873</ee>
+<url>db/journals/corr/corr1407.html#BodiniGP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/fsttcs/BodiniGP13" mdate="2018-08-23">
+<author>Olivier Bodini</author>
+<author>Antoine Genitrini</author>
+<author>Frédéric Peschanski</author>
+<title>The Combinatorics of Non-determinism.</title>
+<pages>425-436</pages>
+<year>2013</year>
+<booktitle>FSTTCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSTTCS.2013.425</ee>
+<crossref>conf/fsttcs/2013</crossref>
+<url>db/conf/fsttcs/fsttcs2013.html#BodiniGP13</url>
+</inproceedings>
+</r>
+<r><article key="journals/apal/GenitriniK12" mdate="2017-05-17">
+<author>Antoine Genitrini</author>
+<author>Jakub Kozik</author>
+<title>In the full propositional logic, 5/8 of classical tautologies are intuitionistically valid.</title>
+<pages>875-887</pages>
+<year>2012</year>
+<volume>163</volume>
+<journal>Ann. Pure Appl. Logic</journal>
+<number>7</number>
+<url>db/journals/apal/apal163.html#GenitriniK12</url>
+</article>
+</r>
+<r><article key="journals/combinatorics/GenitriniGKM12" mdate="2019-05-21">
+<author>Antoine Genitrini</author>
+<author>Bernhard Gittenberger</author>
+<author>Veronika Kraus</author>
+<author>Cécile Mailler</author>
+<title>Probabilities of Boolean Functions given by Random Implicational Formulas.</title>
+<pages>P37</pages>
+<year>2012</year>
+<volume>19</volume>
+<journal>Electr. J. Comb.</journal>
+<number>2</number>
+<ee type="oa">http://www.combinatorics.org/ojs/index.php/eljc/article/view/v19i2p37</ee>
+<url>db/journals/combinatorics/combinatorics19.html#GenitriniGKM12</url>
+</article>
+</r>
+<r><article key="journals/rsa/FournierGGG12" mdate="2017-05-26">
+<author>Hervé Fournier</author>
+<author>Danièle Gardy</author>
+<author>Antoine Genitrini</author>
+<author>Bernhard Gittenberger</author>
+<title>The fraction of large random trees representing a given Boolean function in implicational logic.</title>
+<pages>317-349</pages>
+<year>2012</year>
+<volume>40</volume>
+<journal>Random Struct. Algorithms</journal>
+<number>3</number>
+<url>db/journals/rsa/rsa40.html#FournierGGG12</url>
+</article>
+</r>
+<r><article key="journals/mlq/FournierGGZ10" mdate="2018-11-30">
+<author>Hervé Fournier</author>
+<author orcid="0000-0001-6425-4585">Danièle Gardy</author>
+<author>Antoine Genitrini</author>
+<author>Marek Zaionc</author>
+<title>Tautologies over implication with negative literals.</title>
+<pages>388-396</pages>
+<year>2010</year>
+<volume>56</volume>
+<journal>Math. Log. Q.</journal>
+<number>4</number>
+<url>db/journals/mlq/mlq56.html#FournierGGZ10</url>
+</article>
+</r>
+<r><inproceedings key="conf/analco/FournierGG09" mdate="2017-05-23">
+<author>Hervé Fournier</author>
+<author>Danièle Gardy</author>
+<author>Antoine Genitrini</author>
+<title>Balanced And/Or Trees and Linear Threshold Functions.</title>
+<pages>51-57</pages>
+<year>2009</year>
+<booktitle>ANALCO</booktitle>
+<crossref>conf/analco/2009</crossref>
+<url>db/conf/analco/analco2009.html#FournierGG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lfcs/GenitriniK09" mdate="2017-05-21">
+<author>Antoine Genitrini</author>
+<author>Jakub Kozik</author>
+<title>Quantitative Comparison of Intuitionistic and Classical Logics - Full Propositional System.</title>
+<pages>280-294</pages>
+<year>2009</year>
+<booktitle>LFCS</booktitle>
+<crossref>conf/lfcs/2009</crossref>
+<url>db/conf/lfcs/lfcs2009.html#GenitriniK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfcs/FournierGGG08" mdate="2017-05-25">
+<author>Hervé Fournier</author>
+<author>Danièle Gardy</author>
+<author>Antoine Genitrini</author>
+<author>Bernhard Gittenberger</author>
+<title>Complexity and Limiting Ratio of Boolean Functions over Implication.</title>
+<pages>347-362</pages>
+<year>2008</year>
+<booktitle>MFCS</booktitle>
+<crossref>conf/mfcs/2008</crossref>
+<url>db/conf/mfcs/mfcs2008.html#FournierGGG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csl/FournierGGZ07" mdate="2017-05-24">
+<author>Hervé Fournier</author>
+<author>Danièle Gardy</author>
+<author>Antoine Genitrini</author>
+<author>Marek Zaionc</author>
+<title>Classical and Intuitionistic Logic Are Asymptotically Identical.</title>
+<pages>177-193</pages>
+<year>2007</year>
+<crossref>conf/csl/2007</crossref>
+<booktitle>CSL</booktitle>
+<url>db/conf/csl/csl2007.html#FournierGGZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/types/GenitriniKZ07" mdate="2017-05-21">
+<author>Antoine Genitrini</author>
+<author>Jakub Kozik</author>
+<author>Marek Zaionc</author>
+<title>Intuitionistic vs. Classical Tautologies, Quantitative Comparison.</title>
+<pages>100-109</pages>
+<year>2007</year>
+<booktitle>TYPES</booktitle>
+<crossref>conf/types/2007</crossref>
+<url>db/conf/types/types2007.html#GenitriniKZ07</url>
+</inproceedings>
+</r>
+<coauthors n="18" nc="1">
+<co c="0"><na f="b/Bodini:Olivier">Olivier Bodini</na></co>
+<co c="0"><na f="c/Cl=eacute=ment_0001:Julien">Julien Clément 0001</na></co>
+<co c="0"><na f="d/Dien:Matthieu">Matthieu Dien</na></co>
+<co c="0"><na f="f/Fontaine:Xavier">Xavier Fontaine</na></co>
+<co c="0"><na f="f/Fournier:Herv=eacute=">Hervé Fournier</na></co>
+<co c="0"><na f="g/Gardy:Dani=egrave=le">Danièle Gardy</na></co>
+<co c="0"><na f="g/Gittenberger:Bernhard">Bernhard Gittenberger</na></co>
+<co c="0"><na f="h/Hwang:Hsien=Kuei">Hsien-Kuei Hwang</na></co>
+<co c="0"><na f="k/Kauers:Manuel">Manuel Kauers</na></co>
+<co c="0"><na f="k/Kozik:Jakub">Jakub Kozik</na></co>
+<co c="0"><na f="k/Kraus:Veronika">Veronika Kraus</na></co>
+<co c="0"><na f="m/Mailler:C=eacute=cile">Cécile Mailler</na></co>
+<co c="0"><na f="n/Naima:Mehdi">Mehdi Naima</na></co>
+<co c="0"><na f="p/Peschanski:Fr=eacute=d=eacute=ric">Frédéric Peschanski</na></co>
+<co c="0"><na f="r/Rolin:Nicolas">Nicolas Rolin</na></co>
+<co c="0"><na f="v/Viola:Alfredo">Alfredo Viola</na></co>
+<co c="0"><na f="w/Wallner:Michael">Michael Wallner</na></co>
+<co c="0"><na f="z/Zaionc:Marek">Marek Zaionc</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Monique Baron" n="2">
+<person key="homepages/25/1132" mdate="2009-06-09">
+<author>Monique Baron</author>
+</person>
+<r><inproceedings key="conf/its/LundBB96" mdate="2017-05-21">
+<author>Kristine Lund</author>
+<author>Michael J. Baker</author>
+<author>Monique Baron</author>
+<title>Modelling Dialogue and Beliefs as a Basis for Generating Guidance in a CSCL Environment.</title>
+<pages>206-214</pages>
+<year>1996</year>
+<crossref>conf/its/1996</crossref>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<url>db/conf/its/its96.html#LundBB96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/BaronS92" mdate="2017-05-20">
+<author>Monique Baron</author>
+<author>Pasquale Simonnet</author>
+<title>Génération d'exercices en algèbre, premières approches dans le cadre du projet APLUSIX.</title>
+<pages>335-342</pages>
+<year>1992</year>
+<crossref>conf/its/1992</crossref>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<url>db/conf/its/its1992.html#BaronS92</url>
+</inproceedings>
+</r>
+<coauthors n="3" nc="1">
+<co c="0"><na f="b/Baker:Michael_J=">Michael J. Baker</na></co>
+<co c="0"><na f="l/Lund:Kristine">Kristine Lund</na></co>
+<co c="-1"><na f="s/Simonnet:Pasquale">Pasquale Simonnet</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,1922 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Evripidis Bampis" n="141">
+<person key="homepages/07/3300" mdate="2009-06-09">
+<author>Evripidis Bampis</author>
+</person>
+<r><article key="journals/jco/AngelBKL19" mdate="2019-10-19">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fadi Kacem</author>
+<author orcid="0000-0002-3258-7585">Dimitrios Letsios</author>
+<title>Speed scaling on parallel processors with migration.</title>
+<pages>1266-1282</pages>
+<year>2019</year>
+<volume>37</volume>
+<journal>J. Comb. Optim.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s10878-018-0352-0</ee>
+<url>db/journals/jco/jco37.html#AngelBKL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/BampisEST19" mdate="2019-09-08">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Kevin Schewior</author>
+<author>Alexandre Teiller</author>
+<title>Online Multistage Subset Maximization Problems.</title>
+<pages>11:1-11:14</pages>
+<year>2019</year>
+<booktitle>ESA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ESA.2019.11</ee>
+<crossref>conf/esa/2019</crossref>
+<url>db/conf/esa/esa2019.html#BampisEST19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfcs/BampisET19" mdate="2019-08-30">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Alexandre Teiller</author>
+<title>Multistage Knapsack.</title>
+<pages>22:1-22:14</pages>
+<year>2019</year>
+<booktitle>MFCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.MFCS.2019.22</ee>
+<crossref>conf/mfcs/2019</crossref>
+<url>db/conf/mfcs/mfcs2019.html#BampisET19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-11260" mdate="2019-02-04">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Alexandre Teiller</author>
+<title>Multistage Knapsack.</title>
+<year>2019</year>
+<volume>abs/1901.11260</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.11260</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-11260</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-09843" mdate="2019-04-01">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<title>Mechanism Design for Maximum Vectors.</title>
+<year>2019</year>
+<volume>abs/1903.09843</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.09843</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-09843</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-04162" mdate="2019-05-27">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Kevin Schewior</author>
+<author>Alexandre Teiller</author>
+<title>Online Multistage Subset Maximization Problems.</title>
+<year>2019</year>
+<volume>abs/1905.04162</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.04162</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-04162</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-05944" mdate="2019-07-17">
+<author>Evripidis Bampis</author>
+<author>Dimitris Christou</author>
+<author>Bruno Escoffier</author>
+<author>Nguyen Kim Thang</author>
+<title>Online-Learning for min-max discrete problems.</title>
+<year>2019</year>
+<volume>abs/1907.05944</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.05944</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-05944</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-10354" mdate="2019-09-27">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Alexander Kononov</author>
+<title>LP-based algorithms for multistage minimization problems.</title>
+<year>2019</year>
+<volume>abs/1909.10354</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.10354</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-10354</url>
+</article>
+</r>
+<r><article key="journals/dmtcs/AngelBEL18" mdate="2019-05-22">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Michael Lampis</author>
+<title>Parameterized Power Vertex Cover.</title>
+<year>2018</year>
+<volume>20</volume>
+<journal>Discrete Mathematics and Theoretical Computer Science</journal>
+<number>2</number>
+<ee type="oa">http://dmtcs.episciences.org/4873</ee>
+<url>db/journals/dmtcs/dmtcs20.html#AngelBEL18</url>
+</article>
+</r>
+<r><article key="journals/scheduling/BampisKLLS18" mdate="2019-10-19">
+<author>Evripidis Bampis</author>
+<author orcid="0000-0001-6144-0251">Alexander V. Kononov</author>
+<author orcid="0000-0002-3258-7585">Dimitrios Letsios</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<author>Maxim Sviridenko</author>
+<title>Energy-efficient scheduling and routing via randomized rounding.</title>
+<pages>35-51</pages>
+<year>2018</year>
+<volume>21</volume>
+<journal>J. Scheduling</journal>
+<number>1</number>
+<url>db/journals/scheduling/scheduling21.html#BampisKLLS18</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BampisEM18" mdate="2018-07-16">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Sasa Mladenovic</author>
+<title>Fair Resource Allocation Over Time.</title>
+<pages>766-773</pages>
+<year>2018</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2018</crossref>
+<url>db/conf/atal/aamas2018.html#BampisEM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ArantesBKLLS18" mdate="2019-12-18">
+<author>Luciana Arantes</author>
+<author>Evripidis Bampis</author>
+<author>Alexander V. Kononov</author>
+<author>Manthos Letsios</author>
+<author>Giorgio Lucarelli</author>
+<author>Pierre Sens 0001</author>
+<title>Scheduling under Uncertainty: A Query-based Approach.</title>
+<pages>4646-4652</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/646</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#ArantesBKLLS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/swat/BampisELP18" mdate="2018-08-23">
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Michael Lampis</author>
+<author>Vangelis Th. Paschos</author>
+<title>Multistage Matchings.</title>
+<pages>7:1-7:13</pages>
+<year>2018</year>
+<booktitle>SWAT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.SWAT.2018.7</ee>
+<crossref>conf/swat/2018</crossref>
+<url>db/conf/swat/swat2018.html#BampisELP18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-10476" mdate="2018-08-13">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Michael Lampis</author>
+<title>Parameterized Power Vertex Cover.</title>
+<year>2018</year>
+<volume>abs/1801.10476</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.10476</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-10476</url>
+</article>
+</r>
+<r><article key="journals/iandc/AlbersBLLS17" mdate="2019-10-19">
+<author>Susanne Albers</author>
+<author>Evripidis Bampis</author>
+<author orcid="0000-0002-3258-7585">Dimitrios Letsios</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<author>Richard Stotz</author>
+<title>Scheduling on power-heterogeneous processors.</title>
+<pages>22-33</pages>
+<year>2017</year>
+<volume>257</volume>
+<journal>Inf. Comput.</journal>
+<url>db/journals/iandc/iandc257.html#AlbersBLLS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/faw/AngelBCZ17" mdate="2017-06-14">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<author>Vassilis Zissimopoulos</author>
+<title>On the Complexity of Minimizing the Total Calibration Cost.</title>
+<pages>1-12</pages>
+<year>2017</year>
+<booktitle>FAW</booktitle>
+<crossref>conf/faw/2017</crossref>
+<url>db/conf/faw/faw2017.html#AngelBCZ17</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/AngelBKPPZ16" mdate="2017-05-28">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Alexander V. Kononov</author>
+<author>Dimitris Paparas</author>
+<author>Emmanouil Pountourakis</author>
+<author>Vassilis Zissimopoulos</author>
+<title>Clustering on k-edge-colored graphs.</title>
+<pages>15-22</pages>
+<year>2016</year>
+<volume>211</volume>
+<journal>Discrete Applied Mathematics</journal>
+<url>db/journals/dam/dam211.html#AngelBKPPZ16</url>
+</article>
+</r>
+<r><article key="journals/mst/BampisLMZ16" mdate="2017-05-28">
+<author>Evripidis Bampis</author>
+<author>Dimitrios Letsios</author>
+<author>Ioannis Milis</author>
+<author>Georgios Zois</author>
+<title>Speed Scaling for Maximum Lateness.</title>
+<pages>304-321</pages>
+<year>2016</year>
+<volume>58</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/mst/mst58.html#BampisLMZ16</url>
+</article>
+</r>
+<r><article key="journals/scheduling/AngelBCL16" mdate="2017-05-20">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<author>Dimitrios Letsios</author>
+<title>Throughput maximization for speed scaling with agreeable deadlines.</title>
+<pages>619-625</pages>
+<year>2016</year>
+<volume>19</volume>
+<journal>J. Scheduling</journal>
+<number>6</number>
+<url>db/journals/scheduling/scheduling19.html#AngelBCL16</url>
+</article>
+</r>
+<r><article key="journals/tcs/AngelBCT16" mdate="2017-06-08">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author orcid="0000-0002-3362-2063">Vincent Chau</author>
+<author>Nguyen Kim Thang</author>
+<title>Throughput maximization in multiprocessor speed-scaling.</title>
+<pages>1-12</pages>
+<year>2016</year>
+<volume>630</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs630.html#AngelBCT16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cocoon/AngelBPT16" mdate="2017-05-23">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<author>Nicolas Thibault</author>
+<title>Truthfulness for the Sum of Weighted Completion Times.</title>
+<pages>15-26</pages>
+<year>2016</year>
+<booktitle>COCOON</booktitle>
+<crossref>conf/cocoon/2016</crossref>
+<url>db/conf/cocoon/cocoon2016.html#AngelBPT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/door/Bampis16" mdate="2017-05-26">
+<author>Evripidis Bampis</author>
+<title>Algorithmic Issues in Energy-Efficient Computation.</title>
+<pages>3-14</pages>
+<year>2016</year>
+<booktitle>DOOR</booktitle>
+<crossref>conf/door/2016</crossref>
+<url>db/conf/door/door2016.html#Bampis16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latin/AlbersBLLS16" mdate="2019-09-16">
+<author>Susanne Albers</author>
+<author>Evripidis Bampis</author>
+<author>Dimitrios Letsios</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<author>Richard Stotz</author>
+<title>Scheduling on Power-Heterogeneous Processors.</title>
+<pages>41-54</pages>
+<year>2016</year>
+<booktitle>LATIN</booktitle>
+<crossref>conf/latin/2016</crossref>
+<url>db/conf/latin/latin2016.html#AlbersBLLS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wg/AngelBEL16" mdate="2017-05-26">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Bruno Escoffier</author>
+<author>Michael Lampis</author>
+<title>Parameterized Power Vertex Cover.</title>
+<pages>97-108</pages>
+<year>2016</year>
+<booktitle>WG</booktitle>
+<crossref>conf/wg/2016</crossref>
+<url>db/conf/wg/wg2016.html#AngelBEL16</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/BampisKLLN15" mdate="2019-09-16">
+<author>Evripidis Bampis</author>
+<author>Alexander V. Kononov</author>
+<author>Dimitrios Letsios</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<author>Ioannis Nemparis</author>
+<title>From preemptive to non-preemptive speed-scaling scheduling.</title>
+<pages>11-20</pages>
+<year>2015</year>
+<volume>181</volume>
+<journal>Discrete Applied Mathematics</journal>
+<url>db/journals/dam/dam181.html#BampisKLLN15</url>
+</article>
+</r>
+<r><article key="journals/tcs/BampisLL15" mdate="2019-09-16">
+<author>Evripidis Bampis</author>
+<author>Dimitrios Letsios</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<title>Green scheduling, flows and matchings.</title>
+<pages>126-136</pages>
+<year>2015</year>
+<volume>579</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs579.html#BampisLL15</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/AngelBCT15" mdate="2017-05-24">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<author>Nguyen Kim Thang</author>
+<title>Non-preemptive Throughput Maximization for Speed-Scaling with Power-Down.</title>
+<pages>171-182</pages>
+<year>2015</year>
+<booktitle>Euro-Par</booktitle>
+<crossref>conf/europar/2015</crossref>
+<url>db/conf/europar/europar2015.html#AngelBCT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isaac/AngelBCK15" mdate="2018-11-02">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<author orcid="0000-0001-6144-0251">Alexander V. Kononov</author>
+<title>Min-Power Covering Problems.</title>
+<pages>367-377</pages>
+<year>2015</year>
+<booktitle>ISAAC</booktitle>
+<crossref>conf/isaac/2015</crossref>
+<url>db/conf/isaac/isaac2015.html#AngelBCK15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/waoa/2014" mdate="2019-05-14">
+<editor>Evripidis Bampis</editor>
+<editor>Ola Svensson</editor>
+<title>Approximation and Online Algorithms - 12th International Workshop, WAOA 2014, Wrocaw, Poland, September 11-12, 2014, Revised Selected Papers</title>
+<booktitle>WAOA</booktitle>
+<publisher>Springer</publisher>
+<year>2015</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8952</volume>
+<isbn>978-3-319-18262-9</isbn>
+<url>db/conf/waoa/waoa2014.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/wea/2015" mdate="2019-05-14">
+<editor>Evripidis Bampis</editor>
+<title>Experimental Algorithms - 14th International Symposium, SEA 2015, Paris, France, June 29 - July 1, 2015, Proceedings</title>
+<booktitle>SEA</booktitle>
+<publisher>Springer</publisher>
+<year>2015</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9125</volume>
+<isbn>978-3-319-20085-9</isbn>
+<url>db/conf/wea/sea2015.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AngelBCZ15" mdate="2018-08-13">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<author>Vassilis Zissimopoulos</author>
+<title>Minimizing Total Calibration Cost.</title>
+<year>2015</year>
+<volume>abs/1507.02808</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.02808</ee>
+<url>db/journals/corr/corr1507.html#AngelBCZ15</url>
+</article>
+</r>
+<r><article key="journals/dam/AngelBC14" mdate="2017-05-28">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<title>Low complexity scheduling algorithms minimizing the energy for tasks with agreeable deadlines.</title>
+<pages>1-10</pages>
+<year>2014</year>
+<volume>175</volume>
+<journal>Discrete Applied Mathematics</journal>
+<url>db/journals/dam/dam175.html#AngelBC14</url>
+</article>
+</r>
+<r><article key="journals/jda/BampisKLM14" mdate="2019-09-16">
+<author>Evripidis Bampis</author>
+<author>Alexander V. Kononov</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<author>Ioannis Milis</author>
+<title>Bounded max-colorings of graphs.</title>
+<pages>56-68</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>J. Discrete Algorithms</journal>
+<url>db/journals/jda/jda26.html#BampisKLM14</url>
+</article>
+</r>
+<r><article key="journals/tcs/AngelBPZ14" mdate="2017-05-28">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Gerasimos G. Pollatos</author>
+<author>Vassilis Zissimopoulos</author>
+<title>Optimal data placement on networks with a constant number of clients.</title>
+<pages>82-88</pages>
+<year>2014</year>
+<volume>540</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs540.html#AngelBPZ14</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/IsmailiBMP14" mdate="2014-09-25">
+<author>Anisse Ismaili</author>
+<author>Evripidis Bampis</author>
+<author>Nicolas Maudet</author>
+<author>Patrice Perny</author>
+<title>How the number of strategies impacts the likelihood of equilibria in random graphical games.</title>
+<pages>285-292</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#IsmailiBMP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/BampisCLLMZ14" mdate="2019-09-16">
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<author>Dimitrios Letsios</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<author>Ioannis Milis</author>
+<author>Georgios Zois</author>
+<title>Energy Efficient Scheduling of MapReduce Jobs.</title>
+<pages>198-209</pages>
+<year>2014</year>
+<booktitle>Euro-Par</booktitle>
+<crossref>conf/europar/2014</crossref>
+<url>db/conf/europar/europar2014.html#BampisCLLMZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isaac/AngelBCT14" mdate="2017-05-19">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<author>Nguyen Kim Thang</author>
+<title>Throughput Maximization in Multiprocessor Speed-Scaling.</title>
+<pages>247-258</pages>
+<year>2014</year>
+<booktitle>ISAAC</booktitle>
+<crossref>conf/isaac/2014</crossref>
+<url>db/conf/isaac/isaac2014.html#AngelBCT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isaac/BampisLL14" mdate="2019-09-16">
+<author>Evripidis Bampis</author>
+<author>Dimitrios Letsios</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<title>Speed-Scaling with No Preemptions.</title>
+<pages>259-269</pages>
+<year>2014</year>
+<booktitle>ISAAC</booktitle>
+<crossref>conf/isaac/2014</crossref>
+<url>db/conf/isaac/isaac2014.html#BampisLL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ondm/TalebiBLKR14" mdate="2017-04-30">
+<author>Sahar Talebi</author>
+<author>Evripidis Bampis</author>
+<author>Giorgio Lucarelli</author>
+<author>Iyad Katib</author>
+<author>George N. Rouskas</author>
+<title>The spectrum assigment (SA) problem in optical networks: A multiprocesor scheduling perspective.</title>
+<pages>55-60</pages>
+<year>2014</year>
+<booktitle>ONDM</booktitle>
+<crossref>conf/ondm/2014</crossref>
+<url>db/conf/ondm/ondm2014.html#TalebiBLKR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BampisLL14" mdate="2019-09-16">
+<author>Evripidis Bampis</author>
+<author>Dimitrios Letsios</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<title>A note on multiprocessor speed scaling with precedence constraints.</title>
+<pages>138-142</pages>
+<year>2014</year>
+<booktitle>SPAA</booktitle>
+<crossref>conf/spaa/2014</crossref>
+<url>db/conf/spaa/spaa2014.html#BampisLL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stacs/AngelBC14" mdate="2018-08-23">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<title>Throughput Maximization in the Speed-Scaling Setting.</title>
+<pages>53-62</pages>
+<year>2014</year>
+<booktitle>STACS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.STACS.2014.53</ee>
+<crossref>conf/stacs/2014</crossref>
+<url>db/conf/stacs/stacs2014.html#AngelBC14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BampisCLLMZ14" mdate="2018-08-13">
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<author>Dimitrios Letsios</author>
+<author>Giorgio Lucarelli</author>
+<author>Ioannis Milis</author>
+<author>Georgios Zois</author>
+<title>Energy Efficient Scheduling of MapReduce Jobs.</title>
+<year>2014</year>
+<volume>abs/1402.2810</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1402.2810</ee>
+<url>db/journals/corr/corr1402.html#BampisCLLMZ14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AngelBCT14" mdate="2018-08-13">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<author>Nguyen Kim Thang</author>
+<title>Throughput Maximization in Multiprocessor Speed-Scaling.</title>
+<year>2014</year>
+<volume>abs/1402.3782</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1402.3782</ee>
+<url>db/journals/corr/corr1402.html#AngelBCT14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BampisKLLS14" mdate="2018-08-13">
+<author>Evripidis Bampis</author>
+<author>Alexander V. Kononov</author>
+<author>Dimitrios Letsios</author>
+<author>Giorgio Lucarelli</author>
+<author>Maxim Sviridenko</author>
+<title>Energy Efficient Scheduling and Routing via Randomized Rounding.</title>
+<year>2014</year>
+<volume>abs/1403.4991</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1403.4991</ee>
+<url>db/journals/corr/corr1403.html#BampisKLLS14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BampisLL14" mdate="2018-08-13">
+<author>Evripidis Bampis</author>
+<author>Dimitrios Letsios</author>
+<author>Giorgio Lucarelli</author>
+<title>Speed-scaling with no Preemptions.</title>
+<year>2014</year>
+<volume>abs/1407.7654</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.7654</ee>
+<url>db/journals/corr/corr1407.html#BampisLL14</url>
+</article>
+</r>
+<r><article key="journals/scheduling/BampisLLMM13" mdate="2019-09-16">
+<author>Evripidis Bampis</author>
+<author>Dimitrios Letsios</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<author>Evangelos Markakis</author>
+<author>Ioannis Milis</author>
+<title>On multiprocessor temperature-aware scheduling problems.</title>
+<pages>529-538</pages>
+<year>2013</year>
+<volume>16</volume>
+<journal>J. Scheduling</journal>
+<number>5</number>
+<url>db/journals/scheduling/scheduling16.html#BampisLLMM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/IsmailiBMP13" mdate="2013-06-28">
+<author>Anisse Ismaili</author>
+<author>Evripidis Bampis</author>
+<author>Nicolas Maudet</author>
+<author>Patrice Perny</author>
+<title>A study on the stability and efficiency of graphical games with unbounded treewidth.</title>
+<pages>263-270</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#IsmailiBMP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cocoon/BampisKLLN13" mdate="2019-09-16">
+<author>Evripidis Bampis</author>
+<author orcid="0000-0001-6144-0251">Alexander V. Kononov</author>
+<author>Dimitrios Letsios</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<author>Ioannis Nemparis</author>
+<title>From Preemptive to Non-preemptive Speed-Scaling Scheduling.</title>
+<pages>134-146</pages>
+<year>2013</year>
+<booktitle>COCOON</booktitle>
+<crossref>conf/cocoon/2013</crossref>
+<url>db/conf/cocoon/cocoon2013.html#BampisKLLN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fsttcs/BampisKLLS13" mdate="2019-09-16">
+<author>Evripidis Bampis</author>
+<author>Alexander V. Kononov</author>
+<author>Dimitrios Letsios</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<author>Maxim Sviridenko</author>
+<title>Energy Efficient Scheduling and Routing via Randomized Rounding.</title>
+<pages>449-460</pages>
+<year>2013</year>
+<booktitle>FSTTCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSTTCS.2013.449</ee>
+<crossref>conf/fsttcs/2013</crossref>
+<url>db/conf/fsttcs/fsttcs2013.html#BampisKLLS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfcs/AngelBKPPZ13" mdate="2018-11-02">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author orcid="0000-0001-6144-0251">Alexander V. Kononov</author>
+<author>Dimitris Paparas</author>
+<author>Emmanouil Pountourakis</author>
+<author>Vassilis Zissimopoulos</author>
+<title>Clustering on k-Edge-Colored Graphs.</title>
+<pages>50-61</pages>
+<year>2013</year>
+<booktitle>MFCS</booktitle>
+<crossref>conf/mfcs/2013</crossref>
+<url>db/conf/mfcs/mfcs2013.html#AngelBKPPZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tamc/AngelBCL13" mdate="2017-05-21">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<author>Dimitrios Letsios</author>
+<title>Throughput Maximization for Speed-Scaling with Agreeable Deadlines.</title>
+<pages>10-19</pages>
+<year>2013</year>
+<booktitle>TAMC</booktitle>
+<crossref>conf/tamc/2013</crossref>
+<url>db/conf/tamc/tamc2013.html#AngelBCL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wea/BampisCLLM13" mdate="2019-09-16">
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<author>Dimitrios Letsios</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<author>Ioannis Milis</author>
+<title>Energy Minimization via a Primal-Dual Algorithm for a Convex Program.</title>
+<pages>366-377</pages>
+<year>2013</year>
+<booktitle>SEA</booktitle>
+<crossref>conf/wea/2013</crossref>
+<url>db/conf/wea/sea2013.html#BampisCLLM13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AngelBC13" mdate="2018-08-13">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<title>Throughput Maximization in the Speed-Scaling Setting.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.1732</ee>
+<volume>abs/1309.1732</volume>
+<url>db/journals/corr/corr1309.html#AngelBC13</url>
+</article>
+</r>
+<r><article key="journals/suscom/BampisDKM12" mdate="2019-08-26">
+<author>Evripidis Bampis</author>
+<author>Christoph Dürr</author>
+<author>Fadi Kacem</author>
+<author>Ioannis Milis</author>
+<title>Speed scaling with power down scheduling for agreeable deadlines.</title>
+<pages>184-189</pages>
+<year>2012</year>
+<volume>2</volume>
+<journal>SUSCOM</journal>
+<number>4</number>
+<url>db/journals/suscom/suscom2.html#BampisDKM12</url>
+</article>
+</r>
+<r><article key="journals/tcs/AngelBT12" mdate="2017-05-28">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Nicolas Thibault</author>
+<title>Randomized truthful algorithms for scheduling selfish tasks on parallel machines.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<volume>414</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/tcs/tcs414.html#AngelBT12</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaim/BampisLLMM12" mdate="2019-09-16">
+<author>Evripidis Bampis</author>
+<author>Dimitrios Letsios</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<author>Evangelos Markakis</author>
+<author>Ioannis Milis</author>
+<title>On Multiprocessor Temperature-Aware Scheduling Problems.</title>
+<pages>149-160</pages>
+<year>2012</year>
+<booktitle>FAW-AAIM</booktitle>
+<crossref>conf/aaim/2012</crossref>
+<url>db/conf/aaim/aaim2012.html#BampisLLMM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cocoon/BampisLMZ12" mdate="2017-05-23">
+<author>Evripidis Bampis</author>
+<author>Dimitrios Letsios</author>
+<author>Ioannis Milis</author>
+<author>Georgios Zois</author>
+<title>Speed Scaling for Maximum Lateness.</title>
+<pages>25-36</pages>
+<year>2012</year>
+<booktitle>COCOON</booktitle>
+<crossref>conf/cocoon/2012</crossref>
+<url>db/conf/cocoon/cocoon2012.html#BampisLMZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/AngelBKL12" mdate="2017-05-24">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fadi Kacem</author>
+<author>Dimitrios Letsios</author>
+<title>Speed Scaling on Parallel Processors with Migration.</title>
+<pages>128-140</pages>
+<year>2012</year>
+<booktitle>Euro-Par</booktitle>
+<crossref>conf/europar/2012</crossref>
+<url>db/conf/europar/europar2012.html#AngelBKL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/greencom/AngelBK12" mdate="2017-05-26">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fadi Kacem</author>
+<title>Energy Aware Scheduling for Unrelated Parallel Machines.</title>
+<pages>533-540</pages>
+<year>2012</year>
+<booktitle>GreenCom</booktitle>
+<crossref>conf/greencom/2012</crossref>
+<url>db/conf/greencom/greencom2012.html#AngelBK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isaac/BampisLL12" mdate="2017-05-19">
+<author>Evripidis Bampis</author>
+<author>Dimitrios Letsios</author>
+<author>Giorgio Lucarelli</author>
+<title>Green Scheduling, Flows and Matchings.</title>
+<pages>106-115</pages>
+<year>2012</year>
+<booktitle>ISAAC</booktitle>
+<crossref>conf/isaac/2012</crossref>
+<url>db/conf/isaac/isaac2012.html#BampisLL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latin/AngelBC12" mdate="2017-05-23">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Vincent Chau</author>
+<title>Low Complexity Scheduling Algorithm Minimizing the Energy for Tasks with Agreeable Deadlines.</title>
+<pages>13-24</pages>
+<year>2012</year>
+<booktitle>LATIN</booktitle>
+<crossref>conf/latin/2012</crossref>
+<url>db/conf/latin/latin2012.html#AngelBC12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1209-6481" mdate="2018-08-13">
+<author>Evripidis Bampis</author>
+<author>Giorgio Lucarelli</author>
+<author>Ioannis Nemparis</author>
+<title>Improved Approximation Algorithms for the Non-preemptive Speed-scaling Problem</title>
+<ee type="oa">http://arxiv.org/abs/1209.6481</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1209.6481</volume>
+<url>db/journals/corr/corr1209.html#abs-1209-6481</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1107-2105" mdate="2018-08-13">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fadi Kacem</author>
+<author>Dimitrios Letsios</author>
+<title>Speed Scaling on Parallel Processors with Migration</title>
+<ee type="oa">http://arxiv.org/abs/1107.2105</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1107.2105</volume>
+<url>db/journals/corr/corr1107.html#abs-1107-2105</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1111-3398" mdate="2018-08-13">
+<author>Evripidis Bampis</author>
+<author>Christoph Dürr</author>
+<author>Fadi Kacem</author>
+<author>Ioannis Milis</author>
+<title>Speed scaling with power down scheduling for agreeable deadlines</title>
+<ee type="oa">http://arxiv.org/abs/1111.3398</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1111.3398</volume>
+<url>db/journals/corr/corr1111.html#abs-1111-3398</url>
+</article>
+</r>
+<r><inproceedings key="conf/isaac/BampisKLM10" mdate="2019-09-16">
+<author>Evripidis Bampis</author>
+<author>Alexander V. Kononov</author>
+<author orcid="0000-0001-7368-355X">Giorgio Lucarelli</author>
+<author>Ioannis Milis</author>
+<title>Bounded Max-colorings of Graphs.</title>
+<pages>353-365</pages>
+<year>2010</year>
+<booktitle>ISAAC (1)</booktitle>
+<crossref>conf/isaac/2010-1</crossref>
+<url>db/conf/isaac/isaac2010-1.html#BampisKLM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latin/AngelBT10" mdate="2017-05-23">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Nicolas Thibault</author>
+<title>Randomized Truthful Algorithms for Scheduling Selfish Tasks on Parallel Machines.</title>
+<pages>38-48</pages>
+<year>2010</year>
+<booktitle>LATIN</booktitle>
+<crossref>conf/latin/2010</crossref>
+<url>db/conf/latin/latin2010.html#AngelBT10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/waoa/2009" mdate="2019-05-14">
+<editor>Evripidis Bampis</editor>
+<editor>Klaus Jansen</editor>
+<title>Approximation and Online Algorithms, 7th International Workshop, WAOA 2009, Copenhagen, Denmark, September 10-11, 2009. Revised Papers</title>
+<year>2010</year>
+<volume>5893</volume>
+<isbn>978-3-642-12449-5</isbn>
+<booktitle>WAOA</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/waoa/waoa2009.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1004-4420" mdate="2018-08-13">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Gerasimos G. Pollatos</author>
+<author>Vassilis Zissimopoulos</author>
+<title>Optimal Data Placement on Networks With Constant Number of Clients</title>
+<ee type="oa">http://arxiv.org/abs/1004.4420</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1004.4420</volume>
+<url>db/journals/corr/corr1004.html#abs-1004-4420</url>
+</article>
+</r>
+<r><article key="journals/scheduling/AngelBPT09" mdate="2017-05-20">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<author>Alex-Ariel Tchetgnia</author>
+<title>On truthfulness and approximation for scheduling selfish tasks.</title>
+<pages>437-445</pages>
+<year>2009</year>
+<volume>12</volume>
+<journal>J. Scheduling</journal>
+<number>5</number>
+<url>db/journals/scheduling/scheduling12.html#AngelBPT09</url>
+</article>
+</r>
+<r><article key="journals/tcs/AngelBG09" mdate="2017-05-28">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Laurent Gourvès</author>
+<title>On the minimum hitting set of bundles problem.</title>
+<pages>4534-4542</pages>
+<year>2009</year>
+<volume>410</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>45</number>
+<url>db/journals/tcs/tcs410.html#AngelBG09</url>
+</article>
+</r>
+<r><proceedings key="conf/waoa/2008" mdate="2019-05-14">
+<editor>Evripidis Bampis</editor>
+<editor>Martin Skutella</editor>
+<title>Approximation and Online Algorithms, 6th International Workshop, WAOA 2008, Karlsruhe, Germany, September 18-19, 2008. Revised Papers</title>
+<volume>5426</volume>
+<year>2009</year>
+<isbn>978-3-540-93979-5</isbn>
+<booktitle>WAOA</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/waoa/waoa2008.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-1705" mdate="2018-08-13">
+<author>Evripidis Bampis</author>
+<author>Alexander V. Kononov</author>
+<author>Giorgio Lucarelli</author>
+<author>Ioannis Milis</author>
+<title>Bounded Max-Colorings of Graphs</title>
+<ee type="oa">http://arxiv.org/abs/0904.1705</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.1705</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-1705</url>
+</article>
+</r>
+<r><article key="journals/anor/AngelBP08" mdate="2017-05-27">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>How good are SPT schedules for fair optimality criteria.</title>
+<pages>53-64</pages>
+<year>2008</year>
+<volume>159</volume>
+<journal>Annals OR</journal>
+<number>1</number>
+<url>db/journals/anor/anor159.html#AngelBP08</url>
+</article>
+</r>
+<r><article key="journals/anor/BailleBLR08" mdate="2017-06-05">
+<author>Fabien Baille</author>
+<author>Evripidis Bampis</author>
+<author>Christian Laforest</author>
+<author orcid="0000-0003-4987-8933">Christophe Rapine</author>
+<title>Bicriteria scheduling for contiguous and non contiguous parallel tasks.</title>
+<pages>97-106</pages>
+<year>2008</year>
+<volume>159</volume>
+<journal>Annals OR</journal>
+<number>1</number>
+<url>db/journals/anor/anor159.html#BailleBLR08</url>
+</article>
+</r>
+<r><article key="journals/jco/AngelBP08" mdate="2017-05-18">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>An exponential (matching based) neighborhood for the vehicle routing problem.</title>
+<pages>179-190</pages>
+<year>2008</year>
+<volume>15</volume>
+<journal>J. Comb. Optim.</journal>
+<number>2</number>
+<url>db/journals/jco/jco15.html#AngelBP08</url>
+</article>
+</r>
+<r><article key="journals/scheduling/AngelBP08" mdate="2017-05-20">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>The impact of local policies on the quality of packet routing in paths, trees, and rings.</title>
+<pages>311-322</pages>
+<year>2008</year>
+<volume>11</volume>
+<journal>J. Scheduling</journal>
+<number>5</number>
+<url>db/journals/scheduling/scheduling11.html#AngelBP08</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaim/AngelBG08" mdate="2017-05-24">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Laurent Gourvès</author>
+<title>On the Minimum Hitting Set of Bundles Problem.</title>
+<pages>3-14</pages>
+<year>2008</year>
+<booktitle>AAIM</booktitle>
+<crossref>conf/aaim/2008</crossref>
+<url>db/conf/aaim/aaim2008.html#AngelBG08</url>
+</inproceedings>
+</r>
+<r><article key="journals/orl/AngelBF07" mdate="2017-05-27">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Aleksei V. Fishkin</author>
+<title>A note on scheduling to meet two min-sum objectives.</title>
+<pages>69-73</pages>
+<year>2007</year>
+<volume>35</volume>
+<journal>Oper. Res. Lett.</journal>
+<number>1</number>
+<url>db/journals/orl/orl35.html#AngelBF07</url>
+</article>
+</r>
+<r><inproceedings key="conf/spaa/AngelBPT07" mdate="2018-11-06">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<author>Alex-Ariel Tchetgnia</author>
+<title>On the truthfulness and the approximation for scheduling selfish tasks.</title>
+<pages>196-197</pages>
+<year>2007</year>
+<crossref>conf/spaa/2007</crossref>
+<booktitle>SPAA</booktitle>
+<url>db/conf/spaa/spaa2007.html#AngelBPT07</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/crc/BampisAP07" mdate="2017-07-12">
+<author>Evripidis Bampis</author>
+<author>Eric Angel</author>
+<author>Fanny Pascual</author>
+<title>Algorithmic Game Theory and Scheduling.</title>
+<year>2007</year>
+<booktitle>Handbook of Approximation Algorithms and Metaheuristics</booktitle>
+<crossref>reference/crc/2007aam</crossref>
+<url>db/reference/crc/aam2007.html#BampisAP07</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/crc/GourvesBA07" mdate="2017-07-12">
+<author>Laurent Gourvès</author>
+<author>Evripidis Bampis</author>
+<author>Eric Angel</author>
+<title>Approximation in Multiobjective Problems.</title>
+<year>2007</year>
+<booktitle>Handbook of Approximation Algorithms and Metaheuristics</booktitle>
+<crossref>reference/crc/2007aam</crossref>
+<url>db/reference/crc/aam2007.html#GourvesBA07</url>
+</incollection>
+</r>
+<r><article key="journals/dam/BampisJ06" mdate="2017-05-28">
+<author>Evripidis Bampis</author>
+<author>Klaus Jansen</author>
+<title>Introduction.</title>
+<pages>609</pages>
+<year>2006</year>
+<volume>154</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>4</number>
+<url>db/journals/dam/dam154.html#BampisJ06</url>
+</article>
+</r>
+<r><article key="journals/dam/AngelBG06" mdate="2017-05-28">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Laurent Gourvès</author>
+<title>Approximation algorithms for the bi-criteria weighted MAX-CUT problem.</title>
+<pages>1685-1692</pages>
+<year>2006</year>
+<volume>154</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>12</number>
+<url>db/journals/dam/dam154.html#AngelBG06</url>
+</article>
+</r>
+<r><article key="journals/ipl/AngelBBG06" mdate="2017-05-26">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Lélia Blin</author>
+<author>Laurent Gourvès</author>
+<title>Fair cost-sharing methods for the minimum spanning tree game.</title>
+<pages>29-35</pages>
+<year>2006</year>
+<volume>100</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl100.html#AngelBBG06</url>
+</article>
+</r>
+<r><article key="journals/tcs/AngelBP06" mdate="2017-05-28">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>Truthful algorithms for scheduling selfish tasks on parallel machines.</title>
+<pages>157-168</pages>
+<year>2006</year>
+<volume>369</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<url>db/journals/tcs/tcs369.html#AngelBP06</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/AngelBP06" mdate="2017-05-24">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>The Price of Approximate Stability for Scheduling Selfish Tasks on Two Links.</title>
+<pages>157-166</pages>
+<year>2006</year>
+<crossref>conf/europar/2006</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2006.html#AngelBP06</url>
+</inproceedings>
+</r>
+<r><book key="series/lncs/3484" mdate="2019-05-14">
+<editor>Evripidis Bampis</editor>
+<editor>Klaus Jansen</editor>
+<editor>Claire Kenyon</editor>
+<title>Efficient Approximation and Online Algorithms - Recent Progress on Classical Combinatorial Optimization Problems and New Applications</title>
+<year>2006</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>3484</volume>
+<isbn>978-3-540-32212-2</isbn>
+<booktitle>Efficient Approximation and Online Algorithms</booktitle>
+<url>db/series/lncs/lncs3484.html</url>
+</book>
+</r>
+<r><article key="journals/eor/AngelB05" mdate="2017-05-27">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<title>A multi-start dynasearch algorithm for the time dependent single-machine total weighted tardiness scheduling problem.</title>
+<pages>281-289</pages>
+<year>2005</year>
+<volume>162</volume>
+<journal>European Journal of Operational Research</journal>
+<number>1</number>
+<url>db/journals/eor/eor162.html#AngelB05</url>
+</article>
+</r>
+<r><article key="journals/ipl/AngelBG05" mdate="2017-05-26">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Laurent Gourvès</author>
+<title>Approximation results for a bicriteria job scheduling problem on a single machine without preemption.</title>
+<pages>19-27</pages>
+<year>2005</year>
+<volume>94</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl94.html#AngelBG05</url>
+</article>
+</r>
+<r><article key="journals/jco/AfratiABM05" mdate="2017-05-18">
+<author>Foto N. Afrati</author>
+<author>Timos Aslanidis</author>
+<author>Evripidis Bampis</author>
+<author>Ioannis Milis</author>
+<title>Scheduling in Switching Networks with Set-Up Delays.</title>
+<pages>49-57</pages>
+<year>2005</year>
+<volume>9</volume>
+<journal>J. Comb. Optim.</journal>
+<number>1</number>
+<url>db/journals/jco/jco9.html#AfratiABM05</url>
+</article>
+</r>
+<r><article key="journals/scheduling/AfratiBFM05" mdate="2017-05-20">
+<author>Foto N. Afrati</author>
+<author>Evripidis Bampis</author>
+<author>Lucian Finta</author>
+<author>Ioannis Milis</author>
+<title>Scheduling trees with large communication delays on two identical processors.</title>
+<pages>179-190</pages>
+<year>2005</year>
+<volume>8</volume>
+<journal>J. Scheduling</journal>
+<number>2</number>
+<url>db/journals/scheduling/scheduling8.html#AfratiBFM05</url>
+</article>
+</r>
+<r><article key="journals/scheduling/BampisK05" mdate="2017-06-08">
+<author>Evripidis Bampis</author>
+<author orcid="0000-0001-6144-0251">Alexander V. Kononov</author>
+<title>Bicriteria approximation algorithms for scheduling problems with communications delays.</title>
+<pages>281-294</pages>
+<year>2005</year>
+<volume>8</volume>
+<journal>J. Scheduling</journal>
+<number>4</number>
+<url>db/journals/scheduling/scheduling8.html#BampisK05</url>
+</article>
+</r>
+<r><inproceedings key="conf/cocoon/BailleBLT05" mdate="2017-05-23">
+<author>Fabien Baille</author>
+<author>Evripidis Bampis</author>
+<author>Christian Laforest</author>
+<author>Nicolas Thibault</author>
+<title>On-Line Simultaneous Maximization of the Size and the Weight for Degradable Intervals Schedules.</title>
+<pages>308-317</pages>
+<year>2005</year>
+<crossref>conf/cocoon/2005</crossref>
+<booktitle>COCOON</booktitle>
+<url>db/conf/cocoon/cocoon2005.html#BailleBLT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/BailleBLT05" mdate="2017-05-24">
+<author>Fabien Baille</author>
+<author>Evripidis Bampis</author>
+<author>Christian Laforest</author>
+<author>Nicolas Thibault</author>
+<title>On-Line Bicriteria Interval Scheduling.</title>
+<pages>312-322</pages>
+<year>2005</year>
+<crossref>conf/europar/2005</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2005.html#BailleBLT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fct/AngelBGM05" mdate="2017-05-17">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<title>(Non)-Approximability for the Multi-criteria <i>TSP</i>(1, 2).</title>
+<pages>329-340</pages>
+<year>2005</year>
+<crossref>conf/fct/2005</crossref>
+<booktitle>FCT</booktitle>
+<url>db/conf/fct/fct2005.html#AngelBGM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wg/AngelBG05" mdate="2017-05-26">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Laurent Gourvès</author>
+<title>Approximation Algorithms for the Bi-criteria Weighted max-cut Problem.</title>
+<pages>331-340</pages>
+<year>2005</year>
+<crossref>conf/wg/2005</crossref>
+<booktitle>WG</booktitle>
+<url>db/conf/wg/wg2005.html#AngelBG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wine/AngelBP05" mdate="2017-05-26">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>Truthful Algorithms for Scheduling Selfish Tasks on Parallel Machines.</title>
+<pages>698-707</pages>
+<year>2005</year>
+<crossref>conf/wine/2005</crossref>
+<booktitle>WINE</booktitle>
+<url>db/conf/wine/wine2005.html#AngelBP05</url>
+</inproceedings>
+</r>
+<r><article key="journals/anor/BampisGK04" mdate="2017-05-27">
+<author>Evripidis Bampis</author>
+<author>Rodolphe Giroudeau</author>
+<author>Alexander V. Kononov</author>
+<title>Scheduling Tasks with Small Communication Delays for Clusters of Processors.</title>
+<pages>47-63</pages>
+<year>2004</year>
+<volume>129</volume>
+<journal>Annals OR</journal>
+<number>1-4</number>
+<url>db/journals/anor/anor129.html#BampisGK04</url>
+</article>
+</r>
+<r><article key="journals/ppl/BailleBL04" mdate="2017-05-17">
+<author>Fabien Baille</author>
+<author>Evripidis Bampis</author>
+<author>Christian Laforest</author>
+<title>A Note On Bicriteria Schedules With Optimal Approximations Ratios.</title>
+<pages>315-323</pages>
+<year>2004</year>
+<volume>14</volume>
+<journal>Parallel Processing Letters</journal>
+<number>2</number>
+<url>db/journals/ppl/ppl14.html#BailleBL04</url>
+</article>
+</r>
+<r><article key="journals/tcs/AngelBG04" mdate="2017-05-28">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Laurent Gourvès</author>
+<title>Approximating the Pareto curve with local search for the bicriteria TSP(1, 2) problem.</title>
+<pages>135-146</pages>
+<year>2004</year>
+<volume>310</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<url>db/journals/tcs/tcs310.html#AngelBG04</url>
+</article>
+</r>
+<r><inproceedings key="conf/cocoon/BailleBL04" mdate="2017-05-23">
+<author>Fabien Baille</author>
+<author>Evripidis Bampis</author>
+<author>Christian Laforest</author>
+<title>Maximization of the Size and the Weight of Schedules of Degradable Intervals.</title>
+<pages>219-228</pages>
+<year>2004</year>
+<crossref>conf/cocoon/2004</crossref>
+<booktitle>COCOON</booktitle>
+<url>db/conf/cocoon/cocoon2004.html#BailleBL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/AngelBP04" mdate="2017-05-21">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>Traffic Grooming in a Passive Star WDM Network.</title>
+<pages>1-12</pages>
+<year>2004</year>
+<crossref>conf/sirocco/2004</crossref>
+<booktitle>SIROCCO</booktitle>
+<url>db/conf/sirocco/sirocco2004.html#AngelBP04</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/BampisGK03" mdate="2017-05-28">
+<author>Evripidis Bampis</author>
+<author>Rodolphe Giroudeau</author>
+<author>Jean-Claude König</author>
+<title>An approximation algorithm for the precedence constrained scheduling problem with hierarchical communications.</title>
+<pages>1883-1895</pages>
+<year>2003</year>
+<volume>290</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>3</number>
+<url>db/journals/tcs/tcs290.html#BampisGK03</url>
+</article>
+</r>
+<r><article key="journals/tcs/AngelBK03" mdate="2017-06-08">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author orcid="0000-0001-6144-0251">Alexander V. Kononov</author>
+<title>On the approximate tradeoff for bicriteria batching and parallel machine scheduling problems.</title>
+<pages>319-338</pages>
+<year>2003</year>
+<volume>306</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<url>db/journals/tcs/tcs306.html#AngelBK03</url>
+</article>
+</r>
+<r><inproceedings key="conf/fct/AngelBG03" mdate="2017-05-17">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Laurent Gourvès</author>
+<title>Approximating the Pareto Curve with Local Search for the Bicriteria TSP (1, 2) Problem.</title>
+<pages>39-48</pages>
+<year>2003</year>
+<crossref>conf/fct/2003</crossref>
+<booktitle>FCT</booktitle>
+<url>db/conf/fct/fct2003.html#AngelBG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BampisK03" mdate="2018-11-06">
+<author>Evripidis Bampis</author>
+<author orcid="0000-0001-6144-0251">Alexander V. Kononov</author>
+<title>Bicriteria approximation algorithms for scheduling problems with communications.</title>
+<pages>252-253</pages>
+<year>2003</year>
+<crossref>conf/spaa/2003</crossref>
+<booktitle>SPAA</booktitle>
+<url>db/conf/spaa/spaa2003.html#BampisK03</url>
+</inproceedings>
+</r>
+<r><article key="journals/algorithmica/AmouraBKM02" mdate="2017-05-17">
+<author>Abdel Krim Amoura</author>
+<author>Evripidis Bampis</author>
+<author>Claire Kenyon</author>
+<author>Yannis Manoussakis</author>
+<title>Scheduling Independent Multiprocessor Tasks.</title>
+<pages>247-261</pages>
+<year>2002</year>
+<volume>32</volume>
+<journal>Algorithmica</journal>
+<number>2</number>
+<url>db/journals/algorithmica/algorithmica32.html#AmouraBKM02</url>
+</article>
+</r>
+<r><article key="journals/rairo/BampisGK02" mdate="2017-05-26">
+<author>Evripidis Bampis</author>
+<author>Rodolphe Giroudeau</author>
+<author>Jean-Claude König</author>
+<title>On the hardness of approximating the UET-UCT scheduling problem with hierarchical communications.</title>
+<pages>21-36</pages>
+<year>2002</year>
+<volume>36</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>1</number>
+<url>db/journals/rairo/rairo36.html#BampisGK02</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/AngelBG02" mdate="2017-05-24">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Rodolphe Giroudeau</author>
+<title>Non-approximability Results for the Hierarchical Communication Problem with a Bounded Number of Clusters.</title>
+<pages>217-224</pages>
+<year>2002</year>
+<crossref>conf/europar/2002</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2002.html#AngelBG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isaac/BampisCFFI02" mdate="2017-06-04">
+<author>Evripidis Bampis</author>
+<author orcid="0000-0002-9925-1306">Massimiliano Caramia</author>
+<author>Jirí Fiala 0001</author>
+<author>Aleksei V. Fishkin</author>
+<author orcid="0000-0001-8147-3747">Antonio Iovanella</author>
+<title>Scheduling of Independent Dedicated Multiprocessor Tasks.</title>
+<pages>391-402</pages>
+<year>2002</year>
+<crossref>conf/isaac/2002</crossref>
+<booktitle>ISAAC</booktitle>
+<url>db/conf/isaac/isaac2002.html#BampisCFFI02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/AngelBK01" mdate="2017-05-26">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Alexander V. Kononov</author>
+<title>A FPTAS for Approximating the Unrelated Parallel Machines Scheduling Problem with Costs.</title>
+<pages>194-205</pages>
+<year>2001</year>
+<crossref>conf/esa/2001</crossref>
+<booktitle>ESA</booktitle>
+<url>db/conf/esa/esa2001.html#AngelBK01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/BampisK01" mdate="2017-05-24">
+<author>Evripidis Bampis</author>
+<author>Alexander V. Kononov</author>
+<title>On the approximability of scheduling multiprocessor tasks with time-dependent processor and time requirements.</title>
+<pages>200</pages>
+<year>2001</year>
+<crossref>conf/ipps/2001</crossref>
+<booktitle>IPDPS</booktitle>
+<url>db/conf/ipps/ipdps2001.html#BampisK01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BampisGK01" mdate="2018-11-21">
+<author>Evripidis Bampis</author>
+<author>Rodolphe Giroudeau</author>
+<author>Alexander V. Kononov</author>
+<title>Scheduling tasks with small communication delays for clusters of processors.</title>
+<pages>314-315</pages>
+<year>2001</year>
+<crossref>conf/spaa/2001</crossref>
+<booktitle>SPAA</booktitle>
+<url>db/conf/spaa/spaa2001.html#BampisGK01</url>
+</inproceedings>
+</r>
+<r><article key="journals/ita/BampisGKMM00" mdate="2017-05-28">
+<author>Evripidis Bampis</author>
+<author>Aristotelis Giannakos</author>
+<author>Alexander V. Karzanov</author>
+<author>Yannis Manoussakis</author>
+<author>Ioannis Milis</author>
+<title>Perfect Matching in General vs. Cubic Graphs: A Note on the Planar and Bipartite Cases.</title>
+<pages>87-98</pages>
+<year>2000</year>
+<volume>34</volume>
+<journal>ITA</journal>
+<number>2</number>
+<url>db/journals/ita/ita34.html#BampisGKMM00</url>
+</article>
+</r>
+<r><article key="journals/ppl/BampisGK00" mdate="2012-09-14">
+<author>Evripidis Bampis</author>
+<author>Rodolphe Giroudeau</author>
+<author>Jean-Claude König</author>
+<title>Using Duplication for the Multiprocessor Scheduling Problem with Hierarchical Communications.</title>
+<pages>133-140</pages>
+<year>2000</year>
+<volume>10</volume>
+<journal>Parallel Processing Letters</journal>
+<number>1</number>
+<url>db/journals/ppl/ppl10.html#BampisGK00</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/AfratiBFM00" mdate="2017-05-24">
+<author>Foto N. Afrati</author>
+<author>Evripidis Bampis</author>
+<author>Lucian Finta</author>
+<author>Ioannis Milis</author>
+<title>Scheduling Trees with Large Communication Delays on Two Identical Processors.</title>
+<pages>288-295</pages>
+<year>2000</year>
+<crossref>conf/europar/2000</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2000.html#AfratiBFM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fsttcs/AfratiBFJK00" mdate="2017-05-24">
+<author>Foto N. Afrati</author>
+<author>Evripidis Bampis</author>
+<author>Aleksei V. Fishkin</author>
+<author>Klaus Jansen</author>
+<author>Claire Kenyon</author>
+<title>Scheduling to Minimize the Average Completion Time of Dedicated Tasks.</title>
+<pages>454-464</pages>
+<year>2000</year>
+<crossref>conf/fsttcs/2000</crossref>
+<booktitle>FSTTCS</booktitle>
+<url>db/conf/fsttcs/fsttcs2000.html#AfratiBFJK00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stacs/BampisGK00" mdate="2017-05-24">
+<author>Evripidis Bampis</author>
+<author>Rodolphe Giroudeau</author>
+<author>Jean-Claude König</author>
+<title>An Approximation Algorithm for the Precedence Constrained Scheduling Problem with Hierarchical Communications.</title>
+<pages>443-454</pages>
+<year>2000</year>
+<crossref>conf/stacs/2000</crossref>
+<booktitle>STACS</booktitle>
+<url>db/conf/stacs/stacs2000.html#BampisGK00</url>
+</inproceedings>
+</r>
+<r><article key="journals/pc/AmouraBMT99" mdate="2017-05-27">
+<author>Abdel Krim Amoura</author>
+<author>Evripidis Bampis</author>
+<author>Yannis Manoussakis</author>
+<author>Zsolt Tuza</author>
+<title>A comparison of heuristics for scheduling multiprocessor tasks on three dedicated processors.</title>
+<pages>49-61</pages>
+<year>1999</year>
+<volume>25</volume>
+<journal>Parallel Computing</journal>
+<number>1</number>
+<url>db/journals/pc/pc25.html#AmouraBMT99</url>
+</article>
+</r>
+<r><article key="journals/rairo/Bampis99" mdate="2017-05-26">
+<author>Evripidis Bampis</author>
+<title>The complexity of short schedules for uet bipartite graphs.</title>
+<pages>367-370</pages>
+<year>1999</year>
+<volume>33</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>3</number>
+<url>db/journals/rairo/rairo33.html#Bampis99</url>
+</article>
+</r>
+<r><article key="journals/rairo/BampisMM99" mdate="2017-05-26">
+<author>Evripidis Bampis</author>
+<author>Yannis Manoussakis</author>
+<author>Ioannis Milis</author>
+<title>On the parallel complexity of the alternating Hamiltonian cycle problem.</title>
+<pages>421-437</pages>
+<year>1999</year>
+<volume>33</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>4</number>
+<url>db/journals/rairo/rairo33.html#BampisMM99</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/BampisGK99" mdate="2017-05-24">
+<author>Evripidis Bampis</author>
+<author>Rodolphe Giroudeau</author>
+<author>Jean-Claude König</author>
+<title>Using Duplication for the Multiprocessor Scheduling Problem with Hierarchical Communications.</title>
+<pages>369-372</pages>
+<year>1999</year>
+<crossref>conf/europar/1999</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar99.html#BampisGK99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/focs/AfratiBCKKKMQSSS99" mdate="2017-05-19">
+<author>Foto N. Afrati</author>
+<author>Evripidis Bampis</author>
+<author>Chandra Chekuri</author>
+<author>David R. Karger</author>
+<author>Claire Kenyon</author>
+<author>Sanjeev Khanna</author>
+<author>Ioannis Milis</author>
+<author>Maurice Queyranne</author>
+<author>Martin Skutella</author>
+<author>Clifford Stein</author>
+<author>Maxim Sviridenko</author>
+<title>Approximation Schemes for Minimizing Average Weighted Completion Time with Release Dates.</title>
+<pages>32-44</pages>
+<year>1999</year>
+<crossref>conf/focs/1999</crossref>
+<booktitle>FOCS</booktitle>
+<url>db/conf/focs/focs99.html#AfratiBCKKKMQSSS99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/random/AfratiBKM99" mdate="2017-05-24">
+<author>Foto N. Afrati</author>
+<author>Evripidis Bampis</author>
+<author>Claire Kenyon</author>
+<author>Ioannis Milis</author>
+<title>Scheduling on a Constant Number of Machines.</title>
+<pages>281-287</pages>
+<year>1999</year>
+<crossref>conf/random/1999</crossref>
+<booktitle>RANDOM-APPROX</booktitle>
+<url>db/conf/random/random1999.html#AfratiBKM99</url>
+</inproceedings>
+</r>
+<r><article key="journals/pc/BampisDK98" mdate="2017-05-27">
+<author>Evripidis Bampis</author>
+<author>Charles Delorme</author>
+<author>Jean-Claude König</author>
+<title>Optimal Schedules for d-D Grid Graphs with Communication Delays.</title>
+<pages>1653-1664</pages>
+<year>1998</year>
+<volume>24</volume>
+<journal>Parallel Computing</journal>
+<number>11</number>
+<url>db/journals/pc/pc24.html#BampisDK98</url>
+</article>
+</r>
+<r><article key="journals/ppl/BampisKMM98" mdate="2017-05-17">
+<author>Evripidis Bampis</author>
+<author>Alexander V. Karzanov</author>
+<author>Yannis Manoussakis</author>
+<author>Ioannis Milis</author>
+<title>A Parallel Algorithm for Finding a Perfect Matching in a Planar Graph.</title>
+<pages>399-405</pages>
+<year>1998</year>
+<volume>8</volume>
+<journal>Parallel Processing Letters</journal>
+<number>3</number>
+<url>db/journals/ppl/ppl8.html#BampisKMM98</url>
+</article>
+</r>
+<r><article key="journals/tpds/AmouraBK98" mdate="2017-05-27">
+<author>Abdel Krim Amoura</author>
+<author>Evripidis Bampis</author>
+<author>Jean-Claude König</author>
+<title>Scheduling Algorithms for Parallel Gaussian Elimination With Communication Costs.</title>
+<pages>679-686</pages>
+<year>1998</year>
+<volume>9</volume>
+<journal>IEEE Trans. Parallel Distrib. Syst.</journal>
+<number>7</number>
+<url>db/journals/tpds/tpds9.html#AmouraBK98</url>
+</article>
+</r>
+<r><article key="journals/dam/BampisGT97" mdate="2017-05-28">
+<author>Evripidis Bampis</author>
+<author>Frédéric Guinand</author>
+<author>Denis Trystram</author>
+<title>Some Models for Scheduling Parallel Programs with Communication Delays.</title>
+<pages>5-24</pages>
+<year>1997</year>
+<volume>72</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>1-2</number>
+<url>db/journals/dam/dam72.html#BampisGT97</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/AmouraBKM97" mdate="2017-05-22">
+<author>Abdel Krim Amoura</author>
+<author>Evripidis Bampis</author>
+<author>Claire Kenyon</author>
+<author>Yannis Manoussakis</author>
+<title>Scheduling Independent Multiprocessor Tasks.</title>
+<pages>1-12</pages>
+<year>1997</year>
+<crossref>conf/esa/1997</crossref>
+<booktitle>ESA</booktitle>
+<url>db/conf/esa/esa97.html#AmouraBKM97</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/FintaLMB96" mdate="2017-05-28">
+<author>Lucian Finta</author>
+<author>Zhen Liu</author>
+<author>Ioannis Milis</author>
+<author>Evripidis Bampis</author>
+<title>Scheduling UET-UCT Series-Parallel Graphs on Two Processors.</title>
+<pages>323-340</pages>
+<year>1996</year>
+<volume>162</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>2</number>
+<url>db/journals/tcs/tcs162.html#FintaLMB96</url>
+</article>
+</r>
+<r><inproceedings key="conf/stacs/BampisDK96" mdate="2017-05-22">
+<author>Evripidis Bampis</author>
+<author>Charles Delorme</author>
+<author>Jean-Claude König</author>
+<title>Optimal Schedules for d-D Grid Graphs with Communication Delays (Extended Abstract).</title>
+<pages>655-666</pages>
+<year>1996</year>
+<crossref>conf/stacs/1996</crossref>
+<booktitle>STACS</booktitle>
+<url>db/conf/stacs/stacs96.html#BampisDK96</url>
+</inproceedings>
+</r>
+<r><article key="journals/jal/BampisHMS95" mdate="2017-05-28">
+<author>Evripidis Bampis</author>
+<author>Mohamed El Haddad</author>
+<author>Yannis Manoussakis</author>
+<author>Miklos Santha</author>
+<title>A Parallel Reduction of Hamiltonian Cycle to Hamiltonian Path in Tournaments.</title>
+<pages>432-440</pages>
+<year>1995</year>
+<volume>19</volume>
+<journal>J. Algorithms</journal>
+<number>3</number>
+<url>db/journals/jal/jal19.html#BampisHMS95</url>
+</article>
+</r>
+<r><article key="journals/tcs/BampisKT95" mdate="2017-05-28">
+<author>Evripidis Bampis</author>
+<author>Jean-Claude König</author>
+<author>Denis Trystram</author>
+<title>Optimal Parallel Execution of Complete Binary Trees and Grids Into Most Popular Interconnection Networks.</title>
+<pages>1-18</pages>
+<year>1995</year>
+<volume>147</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1and2</number>
+<url>db/journals/tcs/tcs147.html#BampisKT95</url>
+</article>
+</r>
+<r><inproceedings key="conf/cococ/BampisHMR95" mdate="2017-05-22">
+<author>Evripidis Bampis</author>
+<author>Pavol Hell</author>
+<author>Yannis Manoussakis</author>
+<author>Moshe Rosenfeld</author>
+<title>Finding an Antidirected Hamiltonian Path Starting with a Forward Arc from a Given Vertex of a Tournament.</title>
+<pages>67-73</pages>
+<year>1995</year>
+<crossref>conf/cococ/1995</crossref>
+<booktitle>Combinatorics and Computer Science</booktitle>
+<url>db/conf/cococ/cococ1995.html#BampisHMR95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cococ/BampisMM95" mdate="2017-05-22">
+<author>Evripidis Bampis</author>
+<author>Yannis Manoussakis</author>
+<author>Ioannis Milis</author>
+<title>On the Parallel Complexity of the Alternating Hamiltonian Cycle Problem.</title>
+<pages>367-377</pages>
+<year>1995</year>
+<crossref>conf/cococ/1995</crossref>
+<booktitle>Combinatorics and Computer Science</booktitle>
+<url>db/conf/cococ/cococ1995.html#BampisMM95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parco/AmouraBK95" mdate="2013-05-28">
+<author>Abdel Krim Amoura</author>
+<author>Evripidis Bampis</author>
+<author>Jean-Claude König</author>
+<title>Efficient Algorithms for the Parallel Gaussian Elimination on Distributed Memory Machines.</title>
+<pages>569-572</pages>
+<year>1995</year>
+<booktitle>PARCO</booktitle>
+<crossref>conf/parco/1995</crossref>
+<url>db/conf/parco/parco1995.html#AmouraBK95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parle/BampisKT94" mdate="2017-05-20">
+<author>Evripidis Bampis</author>
+<author>Jean-Claude König</author>
+<author>Denis Trystram</author>
+<title>Optimal Parallel Execution of Complete Binary Trees and Grids into most Popular Interconnection Networks.</title>
+<pages>122-133</pages>
+<year>1994</year>
+<crossref>conf/parle/1994</crossref>
+<booktitle>PARLE</booktitle>
+<url>db/conf/parle/parle94.html#BampisKT94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wg/BampisMM94" mdate="2017-05-20">
+<author>Evripidis Bampis</author>
+<author>Yannis Manoussakis</author>
+<author>Ioannis Milis</author>
+<title>NC Algorithms for Antidirected Hamiltonian Paths and Cycles in Tournaments (Extended Abstract).</title>
+<pages>387-394</pages>
+<year>1994</year>
+<crossref>conf/wg/1994</crossref>
+<booktitle>WG</booktitle>
+<url>db/conf/wg/wg94.html#BampisMM94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parle/BampisHMS93" mdate="2017-05-20">
+<author>Evripidis Bampis</author>
+<author>Mohamed El Haddad</author>
+<author>Yannis Manoussakis</author>
+<author>Miklos Santha</author>
+<title>A Parallel Reduction of Hamiltonian Cycle to Hamiltonian Path in Tournaments.</title>
+<pages>553-560</pages>
+<year>1993</year>
+<crossref>conf/parle/1993</crossref>
+<booktitle>PARLE</booktitle>
+<url>db/conf/parle/parle93.html#BampisHMS93</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppl/BampisKT92" mdate="2017-05-17">
+<author>Evripidis Bampis</author>
+<author>Jean-Claude König</author>
+<author>Denis Trystram</author>
+<title>A Low Overhead Schedule for a 3D-Grid Graph.</title>
+<pages>363-372</pages>
+<year>1992</year>
+<volume>2</volume>
+<journal>Parallel Processing Letters</journal>
+<url>db/journals/ppl/ppl2.html#BampisKT92</url>
+</article>
+</r>
+<r><article key="journals/pc/BampisKT91" mdate="2017-05-27">
+<author>Evripidis Bampis</author>
+<author>Jean-Claude König</author>
+<author>Denis Trystram</author>
+<title>Impact of communications on the complexity of the parallel Gaussian Elimination.</title>
+<pages>55-61</pages>
+<year>1991</year>
+<volume>17</volume>
+<journal>Parallel Computing</journal>
+<number>1</number>
+<url>db/journals/pc/pc17.html#BampisKT91</url>
+</article>
+</r>
+<coauthors n="76" nc="1">
+<co c="0"><na f="a/Afrati:Foto_N=">Foto N. Afrati</na></co>
+<co c="0"><na f="a/Albers:Susanne">Susanne Albers</na></co>
+<co c="0"><na f="a/Amoura:Abdel_Krim">Abdel Krim Amoura</na></co>
+<co c="0"><na f="a/Angel:Eric">Eric Angel</na></co>
+<co c="0"><na f="a/Arantes:Luciana">Luciana Arantes</na></co>
+<co c="0"><na f="a/Aslanidis:Timos">Timos Aslanidis</na></co>
+<co c="0"><na f="b/Baille:Fabien">Fabien Baille</na></co>
+<co c="0"><na f="b/Blin:L=eacute=lia">Lélia Blin</na></co>
+<co c="0"><na f="c/Caramia:Massimiliano">Massimiliano Caramia</na></co>
+<co c="0"><na f="c/Chau:Vincent">Vincent Chau</na></co>
+<co c="0"><na f="c/Chekuri:Chandra">Chandra Chekuri</na></co>
+<co c="0"><na f="c/Christou:Dimitris">Dimitris Christou</na></co>
+<co c="0"><na f="d/Delorme:Charles">Charles Delorme</na></co>
+<co c="0"><na f="d/D=uuml=rr:Christoph">Christoph Dürr</na></co>
+<co c="0"><na f="e/Escoffier:Bruno">Bruno Escoffier</na></co>
+<co c="0"><na f="f/Fiala_0001:Jir=iacute=">Jirí Fiala 0001</na></co>
+<co c="0"><na f="f/Finta:Lucian">Lucian Finta</na></co>
+<co c="0"><na f="f/Fishkin:Aleksei_V=">Aleksei V. Fishkin</na></co>
+<co c="0"><na f="g/Giannakos:Aristotelis">Aristotelis Giannakos</na></co>
+<co c="0"><na f="g/Giroudeau:Rodolphe">Rodolphe Giroudeau</na></co>
+<co c="0"><na f="g/Gourv=egrave=s:Laurent">Laurent Gourvès</na></co>
+<co c="0"><na f="g/Guinand:Fr=eacute=d=eacute=ric">Frédéric Guinand</na></co>
+<co c="0"><na f="h/Haddad:Mohamed_El">Mohamed El Haddad</na></co>
+<co c="0"><na f="h/Hell:Pavol">Pavol Hell</na></co>
+<co c="0"><na f="i/Iovanella:Antonio">Antonio Iovanella</na></co>
+<co c="0"><na f="i/Ismaili:Anisse">Anisse Ismaili</na></co>
+<co c="0"><na f="j/Jansen:Klaus">Klaus Jansen</na></co>
+<co c="0"><na f="k/Kacem:Fadi">Fadi Kacem</na></co>
+<co c="0"><na f="k/Karger:David_R=">David R. Karger</na></co>
+<co c="0"><na f="k/Karzanov:Alexander_V=">Alexander V. Karzanov</na></co>
+<co c="0"><na f="k/Katib:Iyad">Iyad Katib</na></co>
+<co c="0"><na f="k/Khanna:Sanjeev">Sanjeev Khanna</na></co>
+<co c="0"><na f="k/K=ouml=nig:Jean=Claude">Jean-Claude König</na></co>
+<co c="0"><na f="k/Kononov:Alexander">Alexander Kononov</na></co>
+<co c="0"><na f="k/Kononov:Alexander_V=">Alexander V. Kononov</na></co>
+<co c="0"><na f="l/Laforest:Christian">Christian Laforest</na></co>
+<co c="0"><na f="l/Lampis:Michael">Michael Lampis</na></co>
+<co c="0"><na f="l/Letsios:Dimitrios">Dimitrios Letsios</na></co>
+<co c="0"><na f="l/Letsios:Manthos">Manthos Letsios</na></co>
+<co c="0"><na f="l/Liu:Zhen">Zhen Liu</na></co>
+<co c="0"><na f="l/Lucarelli:Giorgio">Giorgio Lucarelli</na></co>
+<co c="0"><na f="m/Manoussakis:Yannis">Yannis Manoussakis</na></co>
+<co c="0"><na f="m/Markakis:Evangelos">Evangelos Markakis</na></co>
+<co c="0" n="2"><na f="m/Mathieu:Claire">Claire Mathieu</na><na>Claire Kenyon</na></co>
+<co c="0"><na f="m/Maudet:Nicolas">Nicolas Maudet</na></co>
+<co c="0"><na f="m/Milis:Ioannis">Ioannis Milis</na></co>
+<co c="0"><na f="m/Mladenovic:Sasa">Sasa Mladenovic</na></co>
+<co c="0"><na f="m/Monnot:J=eacute=r=ocirc=me">Jérôme Monnot</na></co>
+<co c="0"><na f="n/Nemparis:Ioannis">Ioannis Nemparis</na></co>
+<co c="0"><na f="p/Paparas:Dimitris">Dimitris Paparas</na></co>
+<co c="0"><na f="p/Paschos:Vangelis_Th=">Vangelis Th. Paschos</na></co>
+<co c="0"><na f="p/Pascual:Fanny">Fanny Pascual</na></co>
+<co c="0"><na f="p/Perny:Patrice">Patrice Perny</na></co>
+<co c="0"><na f="p/Pollatos:Gerasimos_G=">Gerasimos G. Pollatos</na></co>
+<co c="0"><na f="p/Pountourakis:Emmanouil">Emmanouil Pountourakis</na></co>
+<co c="0"><na f="q/Queyranne:Maurice">Maurice Queyranne</na></co>
+<co c="0"><na f="r/Rapine:Christophe">Christophe Rapine</na></co>
+<co c="0"><na f="r/Rosenfeld:Moshe">Moshe Rosenfeld</na></co>
+<co c="0"><na f="r/Rouskas:George_N=">George N. Rouskas</na></co>
+<co c="0"><na f="s/Santha:Miklos">Miklos Santha</na></co>
+<co c="0"><na f="s/Schewior:Kevin">Kevin Schewior</na></co>
+<co c="0"><na f="s/Sens_0001:Pierre">Pierre Sens 0001</na></co>
+<co c="0"><na f="s/Skutella:Martin">Martin Skutella</na></co>
+<co c="0"><na f="s/Stein:Clifford">Clifford Stein</na></co>
+<co c="0"><na f="s/Stotz:Richard">Richard Stotz</na></co>
+<co c="0"><na f="s/Svensson:Ola">Ola Svensson</na></co>
+<co c="0"><na f="s/Sviridenko:Maxim">Maxim Sviridenko</na></co>
+<co c="0"><na f="t/Talebi:Sahar">Sahar Talebi</na></co>
+<co c="0"><na f="t/Tchetgnia:Alex=Ariel">Alex-Ariel Tchetgnia</na></co>
+<co c="0"><na f="t/Teiller:Alexandre">Alexandre Teiller</na></co>
+<co c="0"><na f="t/Thang:Nguyen_Kim">Nguyen Kim Thang</na></co>
+<co c="0"><na f="t/Thibault:Nicolas">Nicolas Thibault</na></co>
+<co c="0"><na f="t/Trystram:Denis">Denis Trystram</na></co>
+<co c="0"><na f="t/Tuza:Zsolt">Zsolt Tuza</na></co>
+<co c="0"><na f="z/Zissimopoulos:Vassilis">Vassilis Zissimopoulos</na></co>
+<co c="0"><na f="z/Zois:Georgios">Georgios Zois</na></co>
+</coauthors>
+</dblpperson>
+

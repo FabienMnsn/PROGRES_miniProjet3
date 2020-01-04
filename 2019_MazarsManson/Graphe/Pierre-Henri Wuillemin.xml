@@ -1,0 +1,696 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Pierre-Henri Wuillemin" n="48">
+<person key="homepages/47/4220" mdate="2009-06-10">
+<author>Pierre-Henri Wuillemin</author>
+</person>
+<r><inproceedings key="conf/flairs/MunchDWM19" mdate="2019-05-30">
+<author>Melanie Munch</author>
+<author>Juliette Dibie</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Cristina E. Manfredotti</author>
+<title>Towards Interactive Causal Relation Discovery Driven by an Ontology.</title>
+<pages>504-508</pages>
+<year>2019</year>
+<booktitle>FLAIRS Conference</booktitle>
+<crossref>conf/flairs/2019</crossref>
+<url>db/conf/flairs/flairs2019.html#MunchDWM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/MunchDWM19" mdate="2019-10-25">
+<author>Melanie Munch</author>
+<author>Juliette Dibie-Barthélemy</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Cristina E. Manfredotti</author>
+<title>Interactive Causal Discovery in Knowledge Graphs.</title>
+<pages>78-93</pages>
+<year>2019</year>
+<booktitle>PROFILES/SEMEX@ISWC</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2465/semex_paper4.pdf</ee>
+<crossref>conf/semweb/2019profiles</crossref>
+<url>db/conf/semweb/profiles2019.html#MunchDWM19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ria/DelcroixW18" mdate="2018-03-09">
+<author>Véronique Delcroix</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Introduction.</title>
+<pages>7-10</pages>
+<year>2018</year>
+<volume>32</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>1</number>
+<url>db/journals/ria/ria32.html#DelcroixW18</url>
+</article>
+</r>
+<r><article key="journals/ria/HourbracqWGB18" mdate="2018-03-09">
+<author>Matthieu Hourbracq</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Christophe Gonzales</author>
+<author>Philippe Baumard</author>
+<title>Apprentissage et sélection de réseaux bayésiens dynamiques pour les processus online non stationnaires.</title>
+<pages>75-109</pages>
+<year>2018</year>
+<volume>32</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>1</number>
+<url>db/journals/ria/ria32.html#HourbracqWGB18</url>
+</article>
+</r>
+<r><article key="journals/ria/AgliBGW18" mdate="2018-03-09">
+<author>Hamza Agli</author>
+<author>Philippe Bonnard</author>
+<author>Christophe Gonzales</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Inférence incrémentale pour les modèles.</title>
+<pages>111-132</pages>
+<year>2018</year>
+<volume>32</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>1</number>
+<url>db/journals/ria/ria32.html#AgliBGW18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dis/MunchWDMABG18" mdate="2018-10-23">
+<author>Melanie Munch</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Juliette Dibie</author>
+<author>Cristina E. Manfredotti</author>
+<author>Thomas Allard</author>
+<author>Solange Buchin</author>
+<author>Elisabeth Guichard</author>
+<title>Identifying Control Parameters in Cheese Fabrication Process Using Precedence Constraints.</title>
+<pages>421-434</pages>
+<year>2018</year>
+<booktitle>DS</booktitle>
+<crossref>conf/dis/2018</crossref>
+<url>db/conf/dis/dis2018.html#MunchWDMABG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/HanWS18" mdate="2019-09-25">
+<author>Miyoung Han</author>
+<author>Pierre-Henri Wuillemin</author>
+<author orcid="0000-0002-7909-5369">Pierre Senellart</author>
+<title>Focused Crawling Through Reinforcement Learning.</title>
+<pages>261-278</pages>
+<year>2018</year>
+<booktitle>ICWE</booktitle>
+<crossref>conf/icwe/2018</crossref>
+<url>db/conf/icwe/icwe2018.html#HanWS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ruleml/DucampBMGW18" mdate="2019-05-28">
+<author>Gaspard Ducamp</author>
+<author>Philippe Bonnard</author>
+<author>Christian De Sainte Marie</author>
+<author>Christophe Gonzales</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Improving Probabilistic Rules Compilation using PRM.</title>
+<year>2018</year>
+<booktitle>RuleML+RR (Supplement)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2204/paper2.pdf</ee>
+<crossref>conf/ruleml/2018s</crossref>
+<url>db/conf/ruleml/ruleml2018s.html#DucampBMGW18</url>
+</inproceedings>
+</r>
+<r><article key="journals/japll/MagnanW17" mdate="2017-06-12">
+<author>Jean-Christophe Magnan</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Efficient incremental planning and learning with multi-valued decision diagrams.</title>
+<pages>63-90</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>J. Applied Logic</journal>
+<url>db/journals/japll/japll22.html#MagnanW17</url>
+</article>
+</r>
+<r><article key="journals/sttt/HillahMRKWFBGM17" mdate="2017-05-18">
+<author>Lom-Messan Hillah</author>
+<author>Ariele-Paolo Maesano</author>
+<author>Fabio De Rosa</author>
+<author>Fabrice Kordon</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Riccardo Fontanelli</author>
+<author>Sergio Di Bona</author>
+<author>Davide Guerri</author>
+<author>Libero Maesano</author>
+<title>Automation and intelligent scheduling of distributed system functional testing - Model-based functional testing in practice.</title>
+<pages>281-308</pages>
+<year>2017</year>
+<volume>19</volume>
+<journal>STTT</journal>
+<number>3</number>
+<url>db/journals/sttt/sttt19.html#HillahMRKWFBGM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/flairs/HourbracqWGB17" mdate="2017-06-19">
+<author>Matthieu Hourbracq</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Christophe Gonzales</author>
+<author>Philippe Baumard</author>
+<title>Learning and Selection of Dynamic Bayesian Networks for Non-Stationary Processes in Real Time.</title>
+<pages>742-747</pages>
+<year>2017</year>
+<booktitle>FLAIRS Conference</booktitle>
+<crossref>conf/flairs/2017</crossref>
+<url>db/conf/flairs/flairs2017.html#HourbracqWGB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieaaie/GonzalesTW17" mdate="2017-06-13">
+<author>Christophe Gonzales</author>
+<author>Lionel Torti</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>aGrUM: A Graphical Universal Model Framework.</title>
+<pages>171-177</pages>
+<year>2017</year>
+<booktitle>IEA/AIE (2)</booktitle>
+<crossref>conf/ieaaie/2017-2</crossref>
+<url>db/conf/ieaaie/ieaaie2017-2.html#GonzalesTW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/MunchWMDD17" mdate="2017-10-25">
+<author>Melanie Munch</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Cristina E. Manfredotti</author>
+<author>Juliette Dibie</author>
+<author>Stéphane Dervaux</author>
+<title>Learning Probabilistic Relational Models Using an Ontology of Transformation Processes.</title>
+<pages>198-215</pages>
+<year>2017</year>
+<booktitle>OTM Conferences (2)</booktitle>
+<crossref>conf/otm/2017-2</crossref>
+<url>db/conf/otm/otm2017-2.html#MunchWMDD17</url>
+</inproceedings>
+</r>
+<r><article key="journals/isci/BaudritDW16" mdate="2017-05-27">
+<author>Cédric Baudrit</author>
+<author>Sébastien Destercke</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Unifying parameter learning and modelling complex systems with epistemic uncertainty using probability interval.</title>
+<pages>630-647</pages>
+<year>2016</year>
+<volume>367-368</volume>
+<journal>Inf. Sci.</journal>
+<url>db/journals/isci/isci367.html#BaudritDW16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipmu/AgliBGW16" mdate="2017-05-21">
+<author>Hamza Agli</author>
+<author>Philippe Bonnard</author>
+<author>Christophe Gonzales</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Incremental Junction Tree Inference.</title>
+<pages>326-337</pages>
+<year>2016</year>
+<booktitle>IPMU (1)</booktitle>
+<crossref>conf/ipmu/2016-1</crossref>
+<url>db/conf/ipmu/ipmu2016-1.html#AgliBGW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/HourbracqWGB16" mdate="2017-05-21">
+<author>Matthieu Hourbracq</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Christophe Gonzales</author>
+<author>Philippe Baumard</author>
+<title>Real Time Learning of Non-stationary Processes with Dynamic Bayesian Networks.</title>
+<pages>338-350</pages>
+<year>2016</year>
+<booktitle>IPMU (1)</booktitle>
+<crossref>conf/ipmu/2016-1</crossref>
+<url>db/conf/ipmu/ipmu2016-1.html#HourbracqWGB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ruleml/AgliBGW16" mdate="2017-05-25">
+<author>Hamza Agli</author>
+<author>Philippe Bonnard</author>
+<author>Christophe Gonzales</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Business Rules Uncertainty Management with Probabilistic Relational Models.</title>
+<pages>53-67</pages>
+<year>2016</year>
+<booktitle>RuleML</booktitle>
+<crossref>conf/ruleml/2016</crossref>
+<url>db/conf/ruleml/ruleml2016.html#AgliBGW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/HillahMMRKW16" mdate="2018-11-06">
+<author>Lom-Messan Hillah</author>
+<author>Ariele-Paolo Maesano</author>
+<author>Libero Maesano</author>
+<author>Fabio De Rosa</author>
+<author>Fabrice Kordon</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Service functional testing automation with intelligent scheduling and planning.</title>
+<pages>1605-1610</pages>
+<year>2016</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2016</crossref>
+<url>db/conf/sac/sac2016.html#HillahMMRKW16</url>
+</inproceedings>
+</r>
+<r><article key="journals/amai/RouquierARW15" mdate="2017-06-05">
+<author>Jean-Baptiste Rouquier</author>
+<author>Isabelle Alvarez</author>
+<author>Romain Reuillon</author>
+<author orcid="0000-0003-3691-4886">Pierre-Henri Wuillemin</author>
+<title>A kd-tree algorithm to discover the boundary of a black box hypervolume - Or how to peel potatoes by recursively cutting them in halves.</title>
+<pages>335-350</pages>
+<year>2015</year>
+<volume>75</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>3-4</number>
+<url>db/journals/amai/amai75.html#RouquierARW15</url>
+</article>
+</r>
+<r><inproceedings key="conf/edm/ChenWL15" mdate="2018-02-01">
+<author>Yang Chen 0012</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Jean-Marc Labat</author>
+<title>Discovering Prerequisite Structure of Skills through Probabilistic Association Rules Mining.</title>
+<pages>117-124</pages>
+<year>2015</year>
+<booktitle>EDM</booktitle>
+<crossref>conf/edm/2015</crossref>
+<url>db/conf/edm/edm2015.html#ChenWL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/MagnanW15" mdate="2015-05-19">
+<author>Jean-Christophe Magnan</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>On-Line Learning of Multi-Valued Decision Diagrams.</title>
+<pages>576-580</pages>
+<year>2015</year>
+<booktitle>FLAIRS Conference</booktitle>
+<crossref>conf/flairs/2015</crossref>
+<url>db/conf/flairs/flairs2015.html#MagnanW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic3k/ManfredottiBDW15" mdate="2017-05-19">
+<author>Cristina E. Manfredotti</author>
+<author>Cédric Baudrit</author>
+<author>Juliette Dibie-Barthélemy</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Mapping Ontology with Probabilistic Relational Models.</title>
+<pages>171-178</pages>
+<year>2015</year>
+<booktitle>KEOD</booktitle>
+<crossref>conf/ic3k/2015keod</crossref>
+<url>db/conf/ic3k/keod2015.html#ManfredottiBDW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/HerboldFGHHKMMN15" mdate="2019-12-27">
+<author orcid="0000-0001-9765-2803">Steffen Herbold</author>
+<author>Alberto De Francesco</author>
+<author>Jens Grabowski</author>
+<author>Patrick Harms</author>
+<author>Lom-Messan Hillah</author>
+<author>Fabrice Kordon</author>
+<author>Ariele-Paolo Maesano</author>
+<author>Libero Maesano</author>
+<author orcid="0000-0002-8626-5805">Claudia Di Napoli</author>
+<author>Fabio De Rosa</author>
+<author>Martin A. Schneider</author>
+<author orcid="0000-0002-7427-1001">Nicola Tonellotto</author>
+<author>Marc-Florian Wendland</author>
+<author orcid="0000-0003-3691-4886">Pierre-Henri Wuillemin</author>
+<title>The MIDAS Cloud Platform for Testing SOA Applications.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>ICST</booktitle>
+<crossref>conf/icst/2015</crossref>
+<url>db/conf/icst/icst2015.html#HerboldFGHHKMMN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/ChenWL14" mdate="2018-02-01">
+<author>Yang Chen 0012</author>
+<author orcid="0000-0003-3691-4886">Pierre-Henri Wuillemin</author>
+<author>Jean-Marc Labat</author>
+<title>Bayesian Student Modeling Improved by Diagnostic Items.</title>
+<pages>144-149</pages>
+<year>2014</year>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<crossref>conf/its/2014</crossref>
+<url>db/conf/its/its2014.html#ChenWL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ruleml/AgliBWG14" mdate="2019-05-28">
+<author>Hamza Agli</author>
+<author>Philippe Bonnard</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Christophe Gonzales</author>
+<title>Uncertain Reasoning for Business Rules.</title>
+<year>2014</year>
+<booktitle>Challenge+DC@RuleML</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1211/paper4.pdf</ee>
+<crossref>conf/ruleml/2014c</crossref>
+<url>db/conf/ruleml/ruleml2014c.html#AgliBWG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijar/TortiGW13" mdate="2017-06-06">
+<author>Lionel Torti</author>
+<author>Christophe Gonzales</author>
+<author orcid="0000-0003-3691-4886">Pierre-Henri Wuillemin</author>
+<title>Speeding-up structured probabilistic inference using pattern mining.</title>
+<pages>900-918</pages>
+<year>2013</year>
+<volume>54</volume>
+<journal>Int. J. Approx. Reasoning</journal>
+<number>7</number>
+<url>db/journals/ijar/ijar54.html#TortiGW13</url>
+</article>
+</r>
+<r><inproceedings key="conf/evoW/TondaLSW13" mdate="2017-06-02">
+<author>Alberto Paolo Tonda</author>
+<author>Evelyne Lutton</author>
+<author>Giovanni Squillero</author>
+<author orcid="0000-0003-3691-4886">Pierre-Henri Wuillemin</author>
+<title>A Memetic Approach to Bayesian Network Structure Learning.</title>
+<pages>102-111</pages>
+<year>2013</year>
+<crossref>conf/evoW/2013a</crossref>
+<booktitle>EvoApplications</booktitle>
+<url>db/conf/evoW/evoappl2013.html#TondaLSW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/MagnanW13" mdate="2013-08-20">
+<author>Jean-Christophe Magnan</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Improving Decision Diagrams for Decision Theoretic Planning.</title>
+<year>2013</year>
+<booktitle>FLAIRS Conference</booktitle>
+<crossref>conf/flairs/2013</crossref>
+<url>db/conf/flairs/flairs2013.html#MagnanW13</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sci/BarriereLWBSP13" mdate="2017-06-09">
+<author orcid="0000-0002-4990-4217">Olivier Barrière</author>
+<author>Evelyne Lutton</author>
+<author orcid="0000-0003-3691-4886">Pierre-Henri Wuillemin</author>
+<author>Cédric Baudrit</author>
+<author>Mariette Sicard</author>
+<author>Nathalie Perrot</author>
+<title>Cooperative Coevolution for Agrifood Process Modeling.</title>
+<pages>247-287</pages>
+<year>2013</year>
+<booktitle>EVOLVE</booktitle>
+<crossref>series/sci/2013-447</crossref>
+<url>db/series/sci/sci447.html#BarriereLWBSP13</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-3880" mdate="2018-08-13">
+<author>Thomas D. Nielsen</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Finn Verner Jensen</author>
+<author>Uffe Kjærulff</author>
+<title>Using ROBDDs for Inference in Bayesian Networks with Troubleshooting as an Example</title>
+<ee type="oa">http://arxiv.org/abs/1301.3880</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.3880</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-3880</url>
+</article>
+</r>
+<r><article key="journals/ijar/WuilleminT12" mdate="2017-06-06">
+<author orcid="0000-0003-3691-4886">Pierre-Henri Wuillemin</author>
+<author>Lionel Torti</author>
+<title>Structured probabilistic inference.</title>
+<pages>946-968</pages>
+<year>2012</year>
+<volume>53</volume>
+<journal>Int. J. Approx. Reasoning</journal>
+<number>7</number>
+<url>db/journals/ijar/ijar53.html#WuilleminT12</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurogp/TondaLRSW12" mdate="2017-06-02">
+<author orcid="0000-0001-5895-4809">Alberto Paolo Tonda</author>
+<author>Evelyne Lutton</author>
+<author>Romain Reuillon</author>
+<author>Giovanni Squillero</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Bayesian Network Structure Learning from Limited Datasets through Graph Evolution.</title>
+<pages>254-265</pages>
+<year>2012</year>
+<booktitle>EuroGP</booktitle>
+<crossref>conf/eurogp/2012</crossref>
+<url>db/conf/eurogp/eurogp2012.html#TondaLRSW12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DegrisSW12" mdate="2018-08-13">
+<author>Thomas Degris</author>
+<author>Olivier Sigaud</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Chi-square Tests Driven Method for Learning the Structure of Factored MDPs.</title>
+<year>2012</year>
+<volume>abs/1206.6842</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1206.6842</ee>
+<url>db/journals/corr/corr1206.html#DegrisSW12</url>
+</article>
+</r>
+<r><article key="journals/eswa/SicardBLWP11" mdate="2017-06-06">
+<author>Mariette Sicard</author>
+<author>Cédric Baudrit</author>
+<author>M. N. Leclerc-Perlat</author>
+<author orcid="0000-0003-3691-4886">Pierre-Henri Wuillemin</author>
+<author>Nathalie Perrot</author>
+<title>Expert knowledge integration to model complex food processes. Application on the camembert cheese ripening process.</title>
+<pages>11804-11812</pages>
+<year>2011</year>
+<volume>38</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>9</number>
+<url>db/journals/eswa/eswa38.html#SicardBLWP11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sum/TortiGW11" mdate="2017-05-24">
+<author>Lionel Torti</author>
+<author>Christophe Gonzales</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Patterns Discovery for Efficient Structured Probabilistic Inference.</title>
+<pages>247-260</pages>
+<year>2011</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2011</crossref>
+<url>db/conf/sum/sum2011.html#TortiGW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/TortiW10" mdate="2010-06-23">
+<author>Lionel Torti</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Structured Value Elimination with D-Separation Analysis.</title>
+<year>2010</year>
+<booktitle>FLAIRS Conference</booktitle>
+<crossref>conf/flairs/2010</crossref>
+<url>db/conf/flairs/flairs2010.html#TortiW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/YamnaMW10" mdate="2017-05-17">
+<author>Ettarres Yamna</author>
+<author>Khaled Mellouli</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>A Multicriteria Bayesian Intelligent Tutoring System MBITS.</title>
+<pages>714-719</pages>
+<year>2010</year>
+<booktitle>ISDA</booktitle>
+<crossref>conf/isda/2010</crossref>
+<url>db/conf/isda/isda2010.html#YamnaMW10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ria/DegrisSW09" mdate="2009-12-09">
+<author>Thomas Degris</author>
+<author>Olivier Sigaud</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Apprentissage par renforcement factorisé pour le comportement de personnages non joueurs.</title>
+<pages>221-251</pages>
+<year>2009</year>
+<volume>23</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>2-3</number>
+<url>db/journals/ria/ria23.html#DegrisSW09</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/BarriereLW09" mdate="2018-11-06">
+<author orcid="0000-0002-4990-4217">Olivier Barrière</author>
+<author>Evelyne Lutton</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Bayesian network structure learning using cooperative coevolution.</title>
+<pages>755-762</pages>
+<year>2009</year>
+<booktitle>GECCO</booktitle>
+<crossref>conf/gecco/2009g</crossref>
+<url>db/conf/gecco/gecco2009.html#BarriereLW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/KozlovaSWM09" mdate="2018-06-26">
+<author>Olga Kozlova</author>
+<author>Olivier Sigaud</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Christophe Meyer</author>
+<title>Considering Unseen States as Impossible in Factored Reinforcement Learning.</title>
+<pages>721-735</pages>
+<year>2009</year>
+<booktitle>ECML/PKDD (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-04180-8_64</ee>
+<crossref>conf/pkdd/2009-1</crossref>
+<url>db/conf/pkdd/pkdd2009-1.html#KozlovaSWM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ewrl/DegrisSW08" mdate="2017-05-23">
+<author>Thomas Degris</author>
+<author>Olivier Sigaud</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Exploiting Additive Structure in Factored MDPs for Reinforcement Learning.</title>
+<pages>15-26</pages>
+<year>2008</year>
+<booktitle>EWRL</booktitle>
+<crossref>conf/ewrl/2008</crossref>
+<url>db/conf/ewrl/ewrl2008.html#DegrisSW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kes/BaudritWSP08" mdate="2017-05-21">
+<author>Cédric Baudrit</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Mariette Sicard</author>
+<author>Nathalie Perrot</author>
+<title>A Dynamic Bayesian Network to Represent a Ripening Process of a Soft Mould Cheese.</title>
+<pages>265-272</pages>
+<year>2008</year>
+<booktitle>KES (2)</booktitle>
+<crossref>conf/kes/2008-2</crossref>
+<url>db/conf/kes/kes2008-2.html#BaudritWSP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/DegrisSW06" mdate="2018-11-06">
+<author>Thomas Degris</author>
+<author>Olivier Sigaud</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Learning the structure of Factored Markov Decision Processes in reinforcement learning problems.</title>
+<pages>257-264</pages>
+<year>2006</year>
+<crossref>conf/icml/2006</crossref>
+<booktitle>ICML</booktitle>
+<url>db/conf/icml/icml2006.html#DegrisSW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uai/DegrisSW06" mdate="2015-05-06">
+<author>Thomas Degris</author>
+<author>Olivier Sigaud</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Chi-square Tests Driven Method for Learning the Structure of Factored MDPs.</title>
+<year>2006</year>
+<crossref>conf/uai/2006</crossref>
+<booktitle>UAI</booktitle>
+<url>db/conf/uai/uai2006.html#DegrisSW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/SigaudGW04" mdate="2017-05-23">
+<author>Olivier Sigaud</author>
+<author>Thierry Gourdin</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Improving MACS Thanks to a Comparison with 2TBNs.</title>
+<pages>810-823</pages>
+<year>2004</year>
+<crossref>conf/gecco/2004-2</crossref>
+<booktitle>GECCO (2)</booktitle>
+<url>db/conf/gecco/gecco2004-2.html#SigaudGW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/BangsoW00" mdate="2012-12-13">
+<author>Olav Bangsø</author>
+<author>Pierre-Henri Wuillemin</author>
+<title>Top-Down Construction and Repetetive Structures Representation in Bayesian Networks.</title>
+<pages>282-286</pages>
+<year>2000</year>
+<crossref>conf/flairs/2000</crossref>
+<booktitle>FLAIRS Conference</booktitle>
+<url>db/conf/flairs/flairs2000.html#BangsoW00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lmo/WuilleminB00" mdate="2007-04-23">
+<author>Pierre-Henri Wuillemin</author>
+<author>Olav Bangsø</author>
+<title>Réseaux Probabilistes Orientés Objet.</title>
+<pages>123-138</pages>
+<year>2000</year>
+<crossref>conf/lmo/2000</crossref>
+<booktitle>LMO</booktitle>
+<url>db/conf/lmo/lmo2000.html#WuilleminB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uai/NielsenWJK00" mdate="2015-05-06">
+<author>Thomas D. Nielsen</author>
+<author>Pierre-Henri Wuillemin</author>
+<author>Finn Verner Jensen</author>
+<author>Uffe Kjærulff</author>
+<title>Using ROBDDs for Inference in Bayesian Networks with Troubleshooting as an Example.</title>
+<pages>426-435</pages>
+<year>2000</year>
+<crossref>conf/uai/2000</crossref>
+<booktitle>UAI</booktitle>
+<url>db/conf/uai/uai2000.html#NielsenWJK00</url>
+</inproceedings>
+</r>
+<coauthors n="60" nc="5">
+<co c="0"><na f="a/Agli:Hamza">Hamza Agli</na></co>
+<co c="0"><na f="a/Allard:Thomas">Thomas Allard</na></co>
+<co c="0"><na f="a/Alvarez:Isabelle">Isabelle Alvarez</na></co>
+<co c="3"><na f="b/Bangs=oslash=:Olav">Olav Bangsø</na></co>
+<co c="0"><na f="b/Barri=egrave=re:Olivier">Olivier Barrière</na></co>
+<co c="0"><na f="b/Baudrit:C=eacute=dric">Cédric Baudrit</na></co>
+<co c="0"><na f="b/Baumard:Philippe">Philippe Baumard</na></co>
+<co c="1"><na f="b/Bona:Sergio_Di">Sergio Di Bona</na></co>
+<co c="0"><na f="b/Bonnard:Philippe">Philippe Bonnard</na></co>
+<co c="0"><na f="b/Buchin:Solange">Solange Buchin</na></co>
+<co c="1"><na f="c/Chen_0012:Yang">Yang Chen 0012</na></co>
+<co c="2"><na f="d/Degris:Thomas">Thomas Degris</na></co>
+<co c="-1"><na f="d/Delcroix:V=eacute=ronique">Véronique Delcroix</na></co>
+<co c="0"><na f="d/Dervaux:St=eacute=phane">Stéphane Dervaux</na></co>
+<co c="0"><na f="d/Destercke:S=eacute=bastien">Sébastien Destercke</na></co>
+<co c="0" n="2"><na f="d/Dibie:Juliette">Juliette Dibie</na><na>Juliette Dibie-Barthélemy</na></co>
+<co c="0"><na f="d/Ducamp:Gaspard">Gaspard Ducamp</na></co>
+<co c="1"><na f="f/Fontanelli:Riccardo">Riccardo Fontanelli</na></co>
+<co c="1"><na f="f/Francesco:Alberto_De">Alberto De Francesco</na></co>
+<co c="0"><na f="g/Gonzales:Christophe">Christophe Gonzales</na></co>
+<co c="2"><na f="g/Gourdin:Thierry">Thierry Gourdin</na></co>
+<co c="1"><na f="g/Grabowski:Jens">Jens Grabowski</na></co>
+<co c="1"><na f="g/Guerri:Davide">Davide Guerri</na></co>
+<co c="0"><na f="g/Guichard:Elisabeth">Elisabeth Guichard</na></co>
+<co c="4"><na f="h/Han:Miyoung">Miyoung Han</na></co>
+<co c="1"><na f="h/Harms:Patrick">Patrick Harms</na></co>
+<co c="1"><na f="h/Herbold:Steffen">Steffen Herbold</na></co>
+<co c="1"><na f="h/Hillah:Lom=Messan">Lom-Messan Hillah</na></co>
+<co c="0"><na f="h/Hourbracq:Matthieu">Matthieu Hourbracq</na></co>
+<co c="3" n="2"><na f="j/Jensen:Finn_V=">Finn V. Jensen</na><na>Finn Verner Jensen</na></co>
+<co c="3"><na f="k/Kj=aelig=rulff:Uffe">Uffe Kjærulff</na></co>
+<co c="1"><na f="k/Kordon:Fabrice">Fabrice Kordon</na></co>
+<co c="2"><na f="k/Kozlova:Olga">Olga Kozlova</na></co>
+<co c="1"><na f="l/Labat:Jean=Marc">Jean-Marc Labat</na></co>
+<co c="0"><na f="l/Leclerc=Perlat:M=_N=">M. N. Leclerc-Perlat</na></co>
+<co c="0"><na f="l/Lutton:Evelyne">Evelyne Lutton</na></co>
+<co c="1"><na f="m/Maesano:Ariele=Paolo">Ariele-Paolo Maesano</na></co>
+<co c="1"><na f="m/Maesano:Libero">Libero Maesano</na></co>
+<co c="-1"><na f="m/Magnan:Jean=Christophe">Jean-Christophe Magnan</na></co>
+<co c="0"><na f="m/Manfredotti:Cristina_E=">Cristina E. Manfredotti</na></co>
+<co c="0"><na f="m/Marie:Christian_De_Sainte">Christian De Sainte Marie</na></co>
+<co c="0"><na f="m/Mellouli:Khaled">Khaled Mellouli</na></co>
+<co c="2"><na f="m/Meyer:Christophe">Christophe Meyer</na></co>
+<co c="0"><na f="m/Munch:Melanie">Melanie Munch</na></co>
+<co c="1"><na f="n/Napoli:Claudia_Di">Claudia Di Napoli</na></co>
+<co c="3"><na f="n/Nielsen:Thomas_D=">Thomas D. Nielsen</na></co>
+<co c="0"><na f="p/Perrot:Nathalie">Nathalie Perrot</na></co>
+<co c="0"><na f="r/Reuillon:Romain">Romain Reuillon</na></co>
+<co c="1"><na f="r/Rosa:Fabio_De">Fabio De Rosa</na></co>
+<co c="0"><na f="r/Rouquier:Jean=Baptiste">Jean-Baptiste Rouquier</na></co>
+<co c="1"><na f="s/Schneider:Martin_A=">Martin A. Schneider</na></co>
+<co c="4"><na f="s/Senellart:Pierre">Pierre Senellart</na></co>
+<co c="0"><na f="s/Sicard:Mariette">Mariette Sicard</na></co>
+<co c="2"><na f="s/Sigaud:Olivier">Olivier Sigaud</na></co>
+<co c="0"><na f="s/Squillero:Giovanni">Giovanni Squillero</na></co>
+<co c="0"><na f="t/Tonda:Alberto_Paolo">Alberto Paolo Tonda</na></co>
+<co c="1"><na f="t/Tonellotto:Nicola">Nicola Tonellotto</na></co>
+<co c="0"><na f="t/Torti:Lionel">Lionel Torti</na></co>
+<co c="1"><na f="w/Wendland:Marc=Florian">Marc-Florian Wendland</na></co>
+<co c="0"><na f="y/Yamna:Ettarres">Ettarres Yamna</na></co>
+</coauthors>
+</dblpperson>
+

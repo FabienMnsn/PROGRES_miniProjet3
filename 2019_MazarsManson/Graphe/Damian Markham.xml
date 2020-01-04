@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Damian Markham" n="9">
+<person key="homepages/14/8262" mdate="2010-07-02">
+<author>Damian Markham</author>
+</person>
+<r><article publtype="informal" key="journals/ercim/Markham18" mdate="2019-05-22">
+<author>Damian Markham</author>
+<title>Quantum Lego: Graph States for Quantum Computing and Information Processing.</title>
+<year>2018</year>
+<volume>2018</volume>
+<journal>ERCIM News</journal>
+<number>112</number>
+<ee type="oa">https://ercim-news.ercim.eu/en112/special/quantum-lego-graph-states-for-quantum-computing-and-information-processing</ee>
+<url>db/journals/ercim/ercim2018.html#Markham18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icits/MarkhamM15" mdate="2017-05-17">
+<author>Damian Markham</author>
+<author>Anne Marin</author>
+<title>Practical Sharing of Quantum Secrets over Untrusted Channels.</title>
+<pages>1-14</pages>
+<year>2015</year>
+<booktitle>ICITS</booktitle>
+<crossref>conf/icits/2015</crossref>
+<url>db/conf/icits/icits2015.html#MarkhamM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birthday/MarkhamK14" mdate="2017-05-23">
+<author>Damian Markham</author>
+<author>Elham Kashefi</author>
+<title>Entanglement, Flow and Classical Simulatability in Measurement Based Quantum Computation.</title>
+<pages>427-453</pages>
+<year>2014</year>
+<booktitle>Horizons of the Mind</booktitle>
+<crossref>conf/birthday/2014panangaden</crossref>
+<url>db/conf/birthday/panangaden2014.html#MarkhamK14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MouzaliMM14" mdate="2018-08-13">
+<author>Aziz Mouzali</author>
+<author>Fatiha Merazka</author>
+<author>Damian Markham</author>
+<title>Quantum Secret Sharing with error correction.</title>
+<year>2014</year>
+<volume>abs/1409.3620</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1409.3620</ee>
+<url>db/journals/corr/corr1409.html#MouzaliMM14</url>
+</article>
+</r>
+<r><article key="journals/mscs/MarkhamAHV13" mdate="2018-11-14">
+<author>Damian Markham</author>
+<author>Janet Anders</author>
+<author>Michal Hajdusek</author>
+<author>Vlatko Vedral</author>
+<title>Topological features of good resources for measurement-based quantum computation.</title>
+<pages>441-453</pages>
+<year>2013</year>
+<volume>23</volume>
+<journal>Mathematical Structures in Computer Science</journal>
+<number>2</number>
+<url>db/journals/mscs/mscs23.html#MarkhamAHV13</url>
+</article>
+</r>
+<r><inproceedings key="conf/tqc/MarinMP13" mdate="2018-08-23">
+<author>Anne Marin</author>
+<author>Damian Markham</author>
+<author>Simon Perdrix</author>
+<title>Access Structure in Graphs in High Dimension and Application to Secret Sharing.</title>
+<pages>308-324</pages>
+<year>2013</year>
+<booktitle>TQC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.TQC.2013.308</ee>
+<crossref>conf/tqc/2013</crossref>
+<url>db/conf/tqc/tqc2013.html#MarinMP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tqc/AulbachMM10" mdate="2017-05-19">
+<author>Martin Aulbach</author>
+<author>Damian Markham</author>
+<author>Mio Murao</author>
+<title>Geometric Entanglement of Symmetric States and the Majorana Representation.</title>
+<pages>141-158</pages>
+<year>2010</year>
+<booktitle>TQC</booktitle>
+<crossref>conf/tqc/2010</crossref>
+<url>db/conf/tqc/tqc2010.html#AulbachMM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1006-1424" mdate="2018-09-12">
+<author>Damian Markham</author>
+<author>Janet Anders</author>
+<author>Michal Hajdusek</author>
+<author>Vlatko Vedral</author>
+<title>Measurement Based Quantum Computation on Fractal Lattices</title>
+<booktitle>DCM</booktitle>
+<year>2010</year>
+<pages>109-115</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.26.10</ee>
+<ee type="oa">http://arxiv.org/abs/1006.1424</ee>
+<crossref>journals/corr/abs-1006-1937</crossref>
+<url>db/series/eptcs/eptcs26.html#abs-1006-1424</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-0909-4479" mdate="2018-09-12">
+<author>Elham Kashefi</author>
+<author>Damian Markham</author>
+<author>Mehdi Mhalla</author>
+<author>Simon Perdrix</author>
+<title>Information Flow in Secret Sharing Protocols.</title>
+<booktitle>DCM</booktitle>
+<year>2009</year>
+<pages>87-97</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.9.10</ee>
+<ee type="oa">http://arxiv.org/abs/0909.4479</ee>
+<crossref>journals/corr/abs-0911-2829</crossref>
+<url>db/series/eptcs/eptcs9.html#abs-0909-4479</url>
+</inproceedings>
+</r>
+<coauthors n="11" nc="2">
+<co c="0"><na f="a/Anders:Janet">Janet Anders</na></co>
+<co c="0"><na f="a/Aulbach:Martin">Martin Aulbach</na></co>
+<co c="0"><na f="h/Hajdusek:Michal">Michal Hajdusek</na></co>
+<co c="0"><na f="k/Kashefi:Elham">Elham Kashefi</na></co>
+<co c="0"><na f="m/Marin:Anne">Anne Marin</na></co>
+<co c="1"><na f="m/Merazka:Fatiha">Fatiha Merazka</na></co>
+<co c="0"><na f="m/Mhalla:Mehdi">Mehdi Mhalla</na></co>
+<co c="1"><na f="m/Mouzali:Aziz">Aziz Mouzali</na></co>
+<co c="0"><na f="m/Murao:Mio">Mio Murao</na></co>
+<co c="0"><na f="p/Perdrix:Simon">Simon Perdrix</na></co>
+<co c="0"><na f="v/Vedral:Vlatko">Vlatko Vedral</na></co>
+</coauthors>
+</dblpperson>
+

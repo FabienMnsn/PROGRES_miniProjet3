@@ -1,0 +1,1103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Christophe Marsala" n="84">
+<person key="homepages/13/3184" mdate="2009-06-09">
+<author>Christophe Marsala</author>
+</person>
+<r><article key="journals/fss/GuillonLM19" mdate="2019-05-31">
+<author>Arthur Guillon</author>
+<author orcid="0000-0002-3604-6647">Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<title>A proximal framework for fuzzy subspace clustering.</title>
+<pages>34-45</pages>
+<year>2019</year>
+<volume>366</volume>
+<journal>Fuzzy Sets and Systems</journal>
+<url>db/journals/fss/fss366.html#GuillonLM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/LaugelLMRD19" mdate="2019-08-20">
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Xavier Renard</author>
+<author>Marcin Detyniecki</author>
+<title>The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/388</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#LaugelLMRD19</url>
+<pages>2801-2807</pages>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-04774" mdate="2019-06-14">
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>Issues with post-hoc counterfactual explanations: a discussion.</title>
+<year>2019</year>
+<volume>abs/1906.04774</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.04774</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-04774</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-09294" mdate="2019-07-30">
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Xavier Renard</author>
+<author>Marcin Detyniecki</author>
+<title>The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations.</title>
+<year>2019</year>
+<volume>abs/1907.09294</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.09294</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-09294</url>
+</article>
+</r>
+<r><article key="journals/pai/LaghmariMR18" mdate="2018-02-13">
+<author>Khalil Laghmari</author>
+<author>Christophe Marsala</author>
+<author>Mohammed Ramdani</author>
+<title>An adapted incremental graded multi-label classification model for recommendation systems.</title>
+<pages>15-29</pages>
+<year>2018</year>
+<volume>7</volume>
+<journal>Progress in AI</journal>
+<number>1</number>
+<url>db/journals/pai/pai7.html#LaghmariMR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/f-egc/LaghmariMR18" mdate="2018-05-22">
+<author>Khalil Laghmari</author>
+<author>Christophe Marsala</author>
+<author>Mohammed Ramdani</author>
+<title>Apprendre les relations de préférence et de co-occurrence entre les labels en classification multi-labels.</title>
+<pages>215-226</pages>
+<year>2018</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2018</crossref>
+<url>db/conf/f-egc/egc2018.html#LaghmariMR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/DoboszewskiFM18" mdate="2018-05-22">
+<author>Iwo Doboszewski</author>
+<author>Simon Fossier</author>
+<author>Christophe Marsala</author>
+<title>Extraction de connaissances sur les défaillances de compteurs d'essieux.</title>
+<pages>311-316</pages>
+<year>2018</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2018</crossref>
+<url>db/conf/f-egc/egc2018.html#DoboszewskiFM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/YangRMP18" mdate="2018-10-22">
+<author>Wenlu Yang</author>
+<author>Maria Rifqi</author>
+<author>Christophe Marsala</author>
+<author>Andrea Pinna</author>
+<title>Physiological-Based Emotion Detection and Recognition in a Video Game Context.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#YangRMP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/LaugelLMRD18" mdate="2018-05-30">
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Xavier Renard</author>
+<author>Marcin Detyniecki</author>
+<title>Comparison-Based Inverse Classification for Interpretability in Machine Learning.</title>
+<pages>100-111</pages>
+<year>2018</year>
+<booktitle>IPMU (1)</booktitle>
+<crossref>conf/ipmu/2018-1</crossref>
+<url>db/conf/ipmu/ipmu2018-1.html#LaugelLMRD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/Bouchon-Meunier18" mdate="2018-06-07">
+<author>Bernadette Bouchon-Meunier</author>
+<author>Christophe Marsala</author>
+<title>Entropy and Monotonicity.</title>
+<pages>332-343</pages>
+<year>2018</year>
+<booktitle>IPMU (2)</booktitle>
+<crossref>conf/ipmu/2018-2</crossref>
+<url>db/conf/ipmu/ipmu2018-2.html#Bouchon-Meunier18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/MachanjeOM18" mdate="2018-08-14">
+<author>Daniel Machanje</author>
+<author>Joseph Onderi Orero</author>
+<author>Christophe Marsala</author>
+<title>A 2D-Approach Towards the Detection of Distress Using Fuzzy K-Nearest Neighbor.</title>
+<pages>762-773</pages>
+<year>2018</year>
+<booktitle>IPMU (1)</booktitle>
+<crossref>conf/ipmu/2018-1</crossref>
+<url>db/conf/ipmu/ipmu2018-1.html#MachanjeOM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mir/YangRMP18" mdate="2018-11-21">
+<author>Wenlu Yang</author>
+<author>Maria Rifqi</author>
+<author>Christophe Marsala</author>
+<author>Andrea Pinna</author>
+<title>Towards Better Understanding of Player's Game Experience.</title>
+<pages>442-449</pages>
+<year>2018</year>
+<booktitle>ICMR</booktitle>
+<crossref>conf/mir/2018</crossref>
+<url>db/conf/mir/icmr2018.html#YangRMP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/RenardLLMD18" mdate="2019-02-19">
+<author>Xavier Renard</author>
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>Detecting Potential Local Adversarial Examples for Human-Interpretable Defense.</title>
+<pages>41-47</pages>
+<year>2018</year>
+<booktitle>Nemesis/UrbReas/SoGood/IWAISe/GDM@PKDD/ECML</booktitle>
+<crossref>conf/pkdd/2018nemesis</crossref>
+<url>db/conf/pkdd/nemesis2018.html#RenardLLMD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/MeunierMC18" mdate="2019-01-24">
+<author>François Meunier</author>
+<author>Christophe Marsala</author>
+<author>Laurent Castanie</author>
+<title>Mining 3D-Structures: Subparts Extraction and Transfer Learning.</title>
+<pages>929-934</pages>
+<year>2018</year>
+<booktitle>SMC</booktitle>
+<crossref>conf/smc/2018</crossref>
+<url>db/conf/smc/smc2018.html#MeunierMC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/MarsalaLLRC18" mdate="2018-09-24">
+<author>Christophe Marsala</author>
+<author>Anne Laurent</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<author>Arnaud Castelltort</author>
+<title>Discovering Ordinal Attributes Through Gradual Patterns, Morphological Filters and Rank Discrimination Measures.</title>
+<pages>152-163</pages>
+<year>2018</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2018</crossref>
+<url>db/conf/sum/sum2018.html#MarsalaLLRC18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-07498" mdate="2018-08-13">
+<author>Thibault Laugel</author>
+<author>Xavier Renard</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>Defining Locality for Surrogates in Post-hoc Interpretablity.</title>
+<year>2018</year>
+<volume>abs/1806.07498</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.07498</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-07498</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-02397" mdate="2018-10-05">
+<author>Xavier Renard</author>
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>Detecting Potential Local Adversarial Examples for Human-Interpretable Defense.</title>
+<year>2018</year>
+<volume>abs/1809.02397</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.02397</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-02397</url>
+</article>
+</r>
+<r><inproceedings key="conf/apia/MeunierMC17" mdate="2017-07-18">
+<author>François Meunier</author>
+<author>Christophe Marsala</author>
+<author>Laurent Castanie</author>
+<title>3DRESC-TF : Apprentissage par transfert pour la réutilisation de connaissances en classification d'objets 3D.</title>
+<pages>11-18</pages>
+<year>2017</year>
+<booktitle>APIA</booktitle>
+<crossref>conf/apia/2017</crossref>
+<url>db/conf/apia/apia2017.html#MeunierMC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/MeunierMCC17" mdate="2019-10-22">
+<author>François Meunier</author>
+<author>Christophe Marsala</author>
+<author>Laurent Castanie</author>
+<author>Bruno Conche</author>
+<title>Classification d'objets 3D par extraction aléatoire de sous-parties discriminantes pour l'étude du sous-sol en prospection pétrolière.</title>
+<pages>225-236</pages>
+<year>2017</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2017</crossref>
+<url>db/conf/f-egc/egc2017.html#MeunierMCC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/LaghmariMR17" mdate="2019-10-22">
+<author>Khalil Laghmari</author>
+<author>Christophe Marsala</author>
+<author>Mohammed Ramdani</author>
+<title>Classification multi-labels graduée: Apprendre les relations entre les labels ou limiter la propagation d'erreur ?</title>
+<pages>381-386</pages>
+<year>2017</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2017</crossref>
+<url>db/conf/f-egc/egc2017.html#LaghmariMR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/GuillonLM17" mdate="2017-08-29">
+<author>Arthur Guillon</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<title>Laplacian regularization for fuzzy subspace clustering.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2017</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2017.html#GuillonLM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/MarsalaR17" mdate="2017-08-29">
+<author>Christophe Marsala</author>
+<author>Maria Rifqi</author>
+<title>Fuzzy decision tree and fuzzy gradual decision tree: Application to job satisfaction.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2017</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2017.html#MarsalaR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ida/LoeffelBMD17" mdate="2017-10-20">
+<author>Pierre-Xavier Loeffel</author>
+<author>Albert Bifet</author>
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>Droplet Ensemble Learning on Drifting Data Streams.</title>
+<pages>210-222</pages>
+<year>2017</year>
+<booktitle>IDA</booktitle>
+<crossref>conf/ida/2017</crossref>
+<url>db/conf/ida/ida2017.html#LoeffelBMD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netys/LaghmariMR17" mdate="2017-05-15">
+<author>Khalil Laghmari</author>
+<author>Christophe Marsala</author>
+<author>Mohammed Ramdani</author>
+<title>A Distributed Recommender System Based on Graded Multi-label Classification.</title>
+<pages>101-108</pages>
+<year>2017</year>
+<booktitle>NETYS</booktitle>
+<crossref>conf/netys/2017</crossref>
+<url>db/conf/netys/netys2017.html#LaghmariMR17</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sfsc/Bouchon-MeunierM17" mdate="2019-04-14">
+<author>Bernadette Bouchon-Meunier</author>
+<author>Christophe Marsala</author>
+<title>Entropy Measures and Views of Information.</title>
+<pages>47-63</pages>
+<year>2017</year>
+<booktitle>Granular, Soft and Fuzzy Approaches for Intelligent Systems</booktitle>
+<crossref>series/sfsc/2017-344</crossref>
+<url>db/series/sfsc/sfsc344.html#Bouchon-MeunierM17</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-08443" mdate="2018-08-13">
+<author>Thibault Laugel</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Xavier Renard</author>
+<author>Marcin Detyniecki</author>
+<title>Inverse Classification for Comparison-based Interpretability in Machine Learning.</title>
+<year>2017</year>
+<volume>abs/1712.08443</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.08443</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-08443</url>
+</article>
+</r>
+<r><inproceedings key="conf/esann/LoeffelMD16" mdate="2018-11-07">
+<author>Pierre-Xavier Loeffel</author>
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>Memory management for data streams subject to concept drift.</title>
+<year>2016</year>
+<booktitle>ESANN</booktitle>
+<crossref>conf/esann/2016</crossref>
+<url>db/conf/esann/esann2016.html#LoeffelMD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/XuM16" mdate="2017-05-21">
+<author>Wenyi Xu</author>
+<author>Christophe Marsala</author>
+<title>Personalized search in smart indoor environments: Combining a formal location model, user preferences and semantic similarity.</title>
+<pages>1768-1775</pages>
+<year>2016</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2016</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2016.html#XuM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/LoeffelLMD16" mdate="2019-02-11">
+<author>Pierre-Xavier Loeffel</author>
+<author>Vincent Lemaire</author>
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>Improving the Prediction Cost of Drift Handling Algorithms by Abstaining.</title>
+<pages>1213-1222</pages>
+<year>2016</year>
+<booktitle>ICDM Workshops</booktitle>
+<crossref>conf/icdm/2016w</crossref>
+<url>db/conf/icdm/icdm2016w.html#LoeffelLMD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/GuillonLMP16" mdate="2017-05-21">
+<author>Arthur Guillon</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<author>Nikhil R. Pal</author>
+<title>Proximal Optimization for Fuzzy Subspace Clustering.</title>
+<pages>675-686</pages>
+<year>2016</year>
+<booktitle>IPMU (1)</booktitle>
+<crossref>conf/ipmu/2016-1</crossref>
+<url>db/conf/ipmu/ipmu2016-1.html#GuillonLMP16</url>
+</inproceedings>
+</r>
+<r><article key="journals/fss/MarsalaB15" mdate="2017-05-28">
+<author>Christophe Marsala</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Fuzzy data mining and management of interpretable and subjective information.</title>
+<pages>252-259</pages>
+<year>2015</year>
+<volume>281</volume>
+<journal>Fuzzy Sets and Systems</journal>
+<url>db/journals/fss/fss281.html#MarsalaB15</url>
+</article>
+</r>
+<r><article key="journals/isci/MarsalaP15" mdate="2017-06-06">
+<author>Christophe Marsala</author>
+<author orcid="0000-0002-3277-4217">Davide Petturiti</author>
+<title>Rank discrimination measures for enforcing monotonicity in decision tree induction.</title>
+<pages>143-171</pages>
+<year>2015</year>
+<volume>291</volume>
+<journal>Inf. Sci.</journal>
+<url>db/journals/isci/isci291.html#MarsalaP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsaa/LoeffelMD15" mdate="2017-05-19">
+<author>Pierre-Xavier Loeffel</author>
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>Classification with a reject option under Concept Drift: The Droplets algorithm.</title>
+<pages>1-9</pages>
+<year>2015</year>
+<booktitle>DSAA</booktitle>
+<crossref>conf/dsaa/2015</crossref>
+<url>db/conf/dsaa/dsaa2015.html#LoeffelMD15</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sfsc/Bouchon-MeunierM15" mdate="2017-05-16">
+<author>Bernadette Bouchon-Meunier</author>
+<author>Christophe Marsala</author>
+<title>Fuzzy Modifiers at the Core of Interpretable Fuzzy Systems.</title>
+<pages>51-63</pages>
+<year>2015</year>
+<booktitle>Fifty Years of Fuzzy Logic and its Applications</booktitle>
+<crossref>series/sfsc/2015-326</crossref>
+<url>db/series/sfsc/sfsc326.html#Bouchon-MeunierM15</url>
+</incollection>
+</r>
+<r><article key="journals/ijgs/Bouchon-MeunierLM13" mdate="2017-05-20">
+<author>Bernadette Bouchon-Meunier</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Christophe Marsala</author>
+<title>Modelling and management of subjective information in a fuzzy setting.</title>
+<pages>3-19</pages>
+<year>2013</year>
+<volume>42</volume>
+<journal>Int. J. General Systems</journal>
+<number>1</number>
+<url>db/journals/ijgs/ijgs42.html#Bouchon-MeunierLM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cicomms/XuMC13" mdate="2017-05-24">
+<author>Wenyi Xu</author>
+<author>Christophe Marsala</author>
+<author>Benoit Christophe</author>
+<title>Matching objects to user's queries in Web of Things' applications.</title>
+<pages>31-38</pages>
+<year>2013</year>
+<booktitle>CIComms</booktitle>
+<crossref>conf/cicomms/2013</crossref>
+<url>db/conf/cicomms/cicomms2013.html#XuMC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eais/Marsala13" mdate="2017-05-23">
+<author>Christophe Marsala</author>
+<title>Fuzzy decision trees for dynamic data.</title>
+<pages>17-24</pages>
+<year>2013</year>
+<booktitle>EAIS</booktitle>
+<crossref>conf/eais/2013</crossref>
+<url>db/conf/eais/eais2013.html#Marsala13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecsqaru/MarsalaP13" mdate="2017-05-21">
+<author>Christophe Marsala</author>
+<author>Davide Petturiti</author>
+<title>Hierarchical Model for Rank Discrimination Measures.</title>
+<pages>412-423</pages>
+<year>2013</year>
+<booktitle>ECSQARU</booktitle>
+<crossref>conf/ecsqaru/2013</crossref>
+<url>db/conf/ecsqaru/ecsqaru2013.html#MarsalaP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusflat/MarsalaP13" mdate="2017-05-21">
+<author>Christophe Marsala</author>
+<author>Davide Petturiti</author>
+<title>Monotone Classification with Decision Trees.</title>
+<year>2013</year>
+<booktitle>EUSFLAT Conf.</booktitle>
+<crossref>conf/eusflat/2013</crossref>
+<url>db/conf/eusflat/eusflat2013.html#MarsalaP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/MarsalaR13" mdate="2017-04-29">
+<author>Christophe Marsala</author>
+<author>Maria Rifqi</author>
+<title>Summarizing Fuzzy Decision Forest by subclass discovery.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2013</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2013.html#MarsalaR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socpar/LeM13" mdate="2017-05-19">
+<author>Xuan Tuan Le</author>
+<author>Christophe Marsala</author>
+<title>Ranking with fuzzy decision trees.</title>
+<pages>292-297</pages>
+<year>2013</year>
+<booktitle>SoCPaR</booktitle>
+<crossref>conf/socpar/2013</crossref>
+<url>db/conf/socpar/socpar2013.html#LeM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/evs/CoffiMM12" mdate="2017-05-28">
+<author>Jean-René Coffi</author>
+<author>Christophe Marsala</author>
+<author>Nicolas Museux</author>
+<title>Adaptive complex event processing for harmful situation detection.</title>
+<pages>167-177</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>Evolving Systems</journal>
+<number>3</number>
+<url>db/journals/evs/evs3.html#CoffiMM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/DetynieckiMKS12" mdate="2017-05-21">
+<author>Marcin Detyniecki</author>
+<author>Christophe Marsala</author>
+<author>Ashwati Krishnan</author>
+<author>Mel Siegel</author>
+<title>Weather-based solar energy prediction.</title>
+<pages>1-7</pages>
+<year>2012</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2012</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2012.html#DetynieckiMKS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/Marsala12" mdate="2017-05-21">
+<author>Christophe Marsala</author>
+<title>Gradual fuzzy decision trees to help medical diagnosis.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2012</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2012.html#Marsala12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/DzogangMLR12" mdate="2017-05-26">
+<author>Fabon Dzogang</author>
+<author>Christophe Marsala</author>
+<author>Marie-Jeanne Lesot</author>
+<author>Maria Rifqi</author>
+<title>An Ellipsoidal K-Means for Document Clustering.</title>
+<pages>221-230</pages>
+<year>2012</year>
+<booktitle>ICDM</booktitle>
+<crossref>conf/icdm/2012</crossref>
+<url>db/conf/icdm/icdm2012.html#DzogangMLR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scisisis/Marsala12" mdate="2017-05-23">
+<author>Christophe Marsala</author>
+<title>Incremental tuning of fuzzy decision trees.</title>
+<pages>2061-2064</pages>
+<year>2012</year>
+<booktitle>SCISandISIS</booktitle>
+<crossref>conf/scisisis/2012</crossref>
+<url>db/conf/scisisis/scisisis2012.html#Marsala12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bpm/CoffiMM11" mdate="2017-05-21">
+<author>Jean-René Coffi</author>
+<author>Nicolas Museux</author>
+<author>Christophe Marsala</author>
+<title>Interval Logic for Design and Maintenance of Complex Event Processing Systems - (Short Paper).</title>
+<pages>407-413</pages>
+<year>2011</year>
+<booktitle>Business Process Management Workshops (1)</booktitle>
+<crossref>conf/bpm/2011w1</crossref>
+<url>db/conf/bpm/bpmw2011-1.html#CoffiMM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/DetynieckiMR11" mdate="2017-05-21">
+<author>Marcin Detyniecki</author>
+<author>Christophe Marsala</author>
+<author>Maria Rifqi</author>
+<title>Double-linear fuzzy interpolation method.</title>
+<pages>455-462</pages>
+<year>2011</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2011</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2011.html#DetynieckiMR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icais/CoffiMM11" mdate="2017-05-19">
+<author>Jean-René Coffi</author>
+<author>Christophe Marsala</author>
+<author>Nicolas Museux</author>
+<title>Hybrid Learning System for Adaptive Complex Event Processing.</title>
+<pages>260-271</pages>
+<year>2011</year>
+<booktitle>ICAIS</booktitle>
+<crossref>conf/icais/2011</crossref>
+<url>db/conf/icais/icais2011.html#CoffiMM11</url>
+</inproceedings>
+</r>
+<r><article key="journals/dn/TollariDFMAG10" mdate="2017-05-27">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Christophe Marsala</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Exploitation du contenu visuel pour améliorer la recherche textuelle d'images en ligne.</title>
+<pages>187-209</pages>
+<year>2010</year>
+<volume>13</volume>
+<journal>Document Numérique</journal>
+<number>1</number>
+<url>db/journals/dn/dn13.html#TollariDFMAG10</url>
+</article>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/MarsalaB10" mdate="2017-05-21">
+<author>Christophe Marsala</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Quality of measures for attribute selection in fuzzy decision trees.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2010</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2010.html#MarsalaB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socpar/LabrocheM10" mdate="2017-09-16">
+<author orcid="0000-0002-2794-2124">Nicolas Labroche</author>
+<author>Christophe Marsala</author>
+<title>Optimization of a fuzzy decision trees forest with artificial ant based clustering.</title>
+<pages>1-5</pages>
+<year>2010</year>
+<booktitle>SoCPaR</booktitle>
+<crossref>conf/socpar/2010</crossref>
+<url>db/conf/socpar/socpar2010.html#LabrocheM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidm/Marsala09" mdate="2017-05-21">
+<author>Christophe Marsala</author>
+<title>Data mining with ensembles of fuzzy decision trees.</title>
+<pages>348-354</pages>
+<year>2009</year>
+<booktitle>CIDM</booktitle>
+<crossref>conf/cidm/2009</crossref>
+<url>db/conf/cidm/cidm2009.html#Marsala09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coria/TollariDFMAG09" mdate="2017-05-08">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Christophe Marsala</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Utilisation de concepts visuels et de la diversité visuelle pour améliorer la recherche d'images.</title>
+<pages>83-98</pages>
+<year>2009</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2009</crossref>
+<url>db/conf/coria/coria2009.html#TollariDFMAG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/TranBMP09" mdate="2009-09-14">
+<author>Tri Duc Tran</author>
+<author>Bernadette Bouchon-Meunier</author>
+<author>Christophe Marsala</author>
+<author>Georges-Marie Putois</author>
+<title>An Intelligent Assistant to Support Students and to Prevent them from Dropout.</title>
+<pages>167-172</pages>
+<year>2009</year>
+<booktitle>CSEDU (1)</booktitle>
+<crossref>conf/csedu/2009-1</crossref>
+<url>db/conf/csedu/csedu2009-1.html#TranBMP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/TollariDMFAG09" mdate="2017-05-21">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Christophe Marsala</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Exploiting Visual Concepts to Improve Text-Based Image Retrieval.</title>
+<pages>701-705</pages>
+<year>2009</year>
+<booktitle>ECIR</booktitle>
+<crossref>conf/ecir/2009</crossref>
+<url>db/conf/ecir/ecir2009.html#TollariDMFAG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/TranMBP09" mdate="2017-05-24">
+<author>Tri Duc Tran</author>
+<author>Christophe Marsala</author>
+<author>Bernadette Bouchon-Meunier</author>
+<author>Georges-Marie Putois</author>
+<title>A Model to Manage Learner's Motivation: A Use-Case for an Academic Schooling Intelligent Assistant.</title>
+<pages>633-638</pages>
+<year>2009</year>
+<booktitle>EC-TEL</booktitle>
+<crossref>conf/ectel/2009</crossref>
+<url>db/conf/ectel/ectel2009.html#TranMBP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusflat/Bouchon-MeunierMR09" mdate="2013-04-18">
+<author>Bernadette Bouchon-Meunier</author>
+<author>Christophe Marsala</author>
+<author>Maria Rifqi</author>
+<title>Fuzzy Analogical Model of Adaptation for Case-Based Reasoning.</title>
+<pages>1625-1630</pages>
+<year>2009</year>
+<booktitle>IFSA/EUSFLAT Conf.</booktitle>
+<crossref>conf/eusflat/2009</crossref>
+<url>db/conf/eusflat/eusflat2009.html#Bouchon-MeunierMR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/Marsala09" mdate="2017-05-21">
+<author>Christophe Marsala</author>
+<title>A fuzzy decision tree based approach to characterize medical data.</title>
+<pages>1332-1337</pages>
+<year>2009</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2009</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2009.html#Marsala09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icig/BuLBTM09" mdate="2017-05-21">
+<author>Jiang Bu</author>
+<author>Songyang Lao</author>
+<author>Liang Bai</author>
+<author>Sabrina Tollari</author>
+<author>Christophe Marsala</author>
+<title>Goalmouth Detection in Field-Ball Game Video Using Fuzzy Decision Tree.</title>
+<pages>917-921</pages>
+<year>2009</year>
+<booktitle>ICIG</booktitle>
+<crossref>conf/icig/2009</crossref>
+<url>db/conf/icig/icig2009.html#BuLBTM09</url>
+</inproceedings>
+</r>
+<r><incollection key="books/igi/09/MarsalaD09" mdate="2019-07-01">
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>High Scale Fuzzy Video Mining.</title>
+<pages>365-378</pages>
+<year>2009</year>
+<booktitle>Scalable Fuzzy Algorithms for Data Management and Analysis</booktitle>
+<crossref>books/igi/09/LL2009</crossref>
+<url>db/books/collections/LL2009.html#MarsalaD09</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/clef/TollariDFMAG08" mdate="2017-05-24">
+<author>Sabrina Tollari</author>
+<author>Marcin Detyniecki</author>
+<author>Ali Fakeri-Tabrizi</author>
+<author>Christophe Marsala</author>
+<author>Massih-Reza Amini</author>
+<author>Patrick Gallinari</author>
+<title>Using Visual Concepts and Fast Visual Diversity to Improve Image Retrieval.</title>
+<pages>577-584</pages>
+<year>2008</year>
+<booktitle>CLEF</booktitle>
+<crossref>conf/clef/2008</crossref>
+<url>db/conf/clef/clef2008.html#TollariDFMAG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/DetynieckiM08" mdate="2018-11-06">
+<author>Marcin Detyniecki</author>
+<author>Christophe Marsala</author>
+<title>Adaptive acceleration and shot stacking for video rushes summarization.</title>
+<pages>109-113</pages>
+<year>2008</year>
+<booktitle>TVS</booktitle>
+<crossref>conf/mm/2008tvs</crossref>
+<url>db/conf/mm/tvs2008.html#DetynieckiM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trecvid/MarsalaD08" mdate="2009-11-19">
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>UPMC-LIP6 at TrecVid'08: Balanced and Unbalanced Forests of Fuzzy Decision Trees for High-Level Feature Detection.</title>
+<year>2008</year>
+<booktitle>TRECVID</booktitle>
+<crossref>conf/trecvid/2008</crossref>
+<url>db/conf/trecvid/trecvid2008.html#MarsalaD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wstst/MarsalaD08" mdate="2018-11-06">
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>High scale video mining with forests of fuzzy decision trees.</title>
+<pages>413-418</pages>
+<year>2008</year>
+<booktitle>CSTST</booktitle>
+<crossref>conf/wstst/2008</crossref>
+<url>db/conf/wstst/cstst2008.html#MarsalaD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusflat/DetynieckiM07" mdate="2013-04-18">
+<author>Marcin Detyniecki</author>
+<author>Christophe Marsala</author>
+<title>Forest of Fuzzy Decision Trees and Their Application in Video Mining.</title>
+<pages>345-352</pages>
+<year>2007</year>
+<booktitle>EUSFLAT Conf. (1)</booktitle>
+<crossref>conf/eusflat/2007-1</crossref>
+<url>db/conf/eusflat/eusflat2007-1.html#DetynieckiM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/DetynieckiM07" mdate="2018-11-06">
+<author>Marcin Detyniecki</author>
+<author>Christophe Marsala</author>
+<title>Video rushes summarization by adaptive acceleration and stacking of shots.</title>
+<pages>65-69</pages>
+<year>2007</year>
+<booktitle>TVS</booktitle>
+<crossref>conf/mm/2007tvs</crossref>
+<url>db/conf/mm/tvs2007.html#DetynieckiM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trecvid/MarsalaDUA07" mdate="2010-03-05">
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<author>Nicolas Usunier</author>
+<author>Massih-Reza Amini</author>
+<title>UHigh-Level Feature Detection with Forests of Fuzzy Decision Trees combined with the RankBoost Algorithm.</title>
+<year>2007</year>
+<booktitle>TRECVID</booktitle>
+<crossref>conf/trecvid/2007</crossref>
+<url>db/conf/trecvid/trecvid2007.html#MarsalaDUA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/DangMBB06" mdate="2017-05-21">
+<author>Thanh Ha Dang</author>
+<author>Christophe Marsala</author>
+<author>Bernadette Bouchon-Meunier</author>
+<author>Alain Boucher</author>
+<title>Discrimination-Based Criteria for the Evaluation of Classifiers.</title>
+<pages>552-563</pages>
+<year>2006</year>
+<crossref>conf/fqas/2006</crossref>
+<booktitle>FQAS</booktitle>
+<url>db/conf/fqas/fqas2006.html#DangMBB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/MarsalaB06" mdate="2017-05-21">
+<author>Christophe Marsala</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Ranking Attributes to Build Fuzzy Decision Trees: a Comparative Study of Measures.</title>
+<pages>1777-1783</pages>
+<year>2006</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2006</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2006.html#MarsalaB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iasse/Bouchon-MeunierDM04" mdate="2004-07-21">
+<author>Bernadette Bouchon-Meunier</author>
+<author>Thanh Ha Dang</author>
+<author>Christophe Marsala</author>
+<title>Comparison of Techniques for the Construction of Decision Trees.</title>
+<pages>58-62</pages>
+<year>2004</year>
+<crossref>conf/iasse/2004</crossref>
+<booktitle>IASSE</booktitle>
+<url>db/conf/iasse/iasse2004.html#Bouchon-MeunierDM04</url>
+</inproceedings>
+</r>
+<r><article key="journals/fss/Bouchon-MeunierMMR03" mdate="2017-05-28">
+<author>Bernadette Bouchon-Meunier</author>
+<author>Radko Mesiar</author>
+<author>Christophe Marsala</author>
+<author>Maria Rifqi</author>
+<title>Compositional rule of inference as an analogical scheme.</title>
+<pages>53-65</pages>
+<year>2003</year>
+<volume>138</volume>
+<journal>Fuzzy Sets and Systems</journal>
+<number>1</number>
+<url>db/journals/fss/fss138.html#Bouchon-MeunierMMR03</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusflat/MarsalaD03" mdate="2013-04-18">
+<author>Christophe Marsala</author>
+<author>Marcin Detyniecki</author>
+<title>Fuzzy data mining for video.</title>
+<pages>73-78</pages>
+<year>2003</year>
+<booktitle>EUSFLAT Conf.</booktitle>
+<crossref>conf/eusflat/2003</crossref>
+<url>db/conf/eusflat/eusflat2003.html#MarsalaD03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/MarsalaB03" mdate="2017-05-21">
+<author>Christophe Marsala</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Choice of a method for the construction of fuzzy decision trees.</title>
+<pages>584-589</pages>
+<year>2003</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2003</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2003.html#MarsalaB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/DetynieckiM03" mdate="2017-05-21">
+<author>Marcin Detyniecki</author>
+<author>Christophe Marsala</author>
+<title>Discovering knowledge for better video indexing based on colors.</title>
+<pages>1177-1181</pages>
+<year>2003</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<crossref>conf/fuzzIEEE/2003</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2003.html#DetynieckiM03</url>
+</inproceedings>
+</r>
+<r><incollection key="conf/mww/LaurentMB03" mdate="2017-05-23">
+<author>Anne Laurent</author>
+<author>Christophe Marsala</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Improvement of the Interpretability of Fuzzy Rule Based Systems: Quantifiers, Similarities and Aggregators.</title>
+<pages>102-123</pages>
+<year>2003</year>
+<crossref>conf/mww/2003</crossref>
+<booktitle>Modelling with Words</booktitle>
+<url>db/conf/mww/mww2003.html#LaurentMB03</url>
+</incollection>
+</r>
+<r><article key="journals/amai/Bouchon-MeunierCM02" mdate="2017-06-05">
+<author>Bernadette Bouchon-Meunier</author>
+<author orcid="0000-0002-0152-1735">Giulianella Coletti</author>
+<author>Christophe Marsala</author>
+<title>Independence and Possibilistic Conditioning.</title>
+<pages>107-123</pages>
+<year>2002</year>
+<volume>35</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>1-4</number>
+<url>db/journals/amai/amai35.html#Bouchon-MeunierCM02</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusflat/DetynieckiM01" mdate="2013-04-18">
+<author>Marcin Detyniecki</author>
+<author>Christophe Marsala</author>
+<title>Fuzzy inductive learning for multimedia mining.</title>
+<pages>390-393</pages>
+<year>2001</year>
+<booktitle>EUSFLAT Conf.</booktitle>
+<crossref>conf/eusflat/2001</crossref>
+<url>db/conf/eusflat/eusflat2001.html#DetynieckiM01</url>
+</inproceedings>
+</r>
+<r><article key="journals/kybernetika/Marsala00" mdate="2015-11-26">
+<author>Christophe Marsala</author>
+<title>Fuzzy decision trees to help flexible querying.</title>
+<pages>689-705</pages>
+<year>2000</year>
+<volume>36</volume>
+<journal>Kybernetika</journal>
+<number>6</number>
+<url>db/journals/kybernetika/kybernetika36.html#Marsala00</url>
+</article>
+</r>
+<r><inproceedings key="conf/fqas/MarsalaB00" mdate="2017-05-21">
+<author>Christophe Marsala</author>
+<author>Bernadette Bouchon-Meunier</author>
+<title>Construction of Fuzzy Classes by Fuzzy Partitioning.</title>
+<pages>497-506</pages>
+<year>2000</year>
+<crossref>conf/fqas/2000</crossref>
+<booktitle>FQAS</booktitle>
+<url>db/conf/fqas/fqas2000.html#MarsalaB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusflat/Bouchon-MeunierDMMR99" mdate="2013-04-18">
+<author>Bernadette Bouchon-Meunier</author>
+<author>J. Delechamp</author>
+<author>Christophe Marsala</author>
+<author>Radko Mesiar</author>
+<author>Maria Rifqi</author>
+<title>Fuzzy deductive reasoning and analogical scheme.</title>
+<pages>139-142</pages>
+<year>1999</year>
+<booktitle>EUSFLAT-ESTYLF Joint Conf.</booktitle>
+<crossref>conf/eusflat/1999</crossref>
+<url>db/conf/eusflat/eusflat1999.html#Bouchon-MeunierDMMR99</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijprai/GascuelBCGGGLMMNNRSTVV98" mdate="2017-05-28">
+<author>Olivier Gascuel</author>
+<author>Bernadette Bouchon-Meunier</author>
+<author>Gilles Caraux</author>
+<author>Patrick Gallinari</author>
+<author>Alain Guénoche</author>
+<author>Yann Guermeur</author>
+<author>Yves Lechevallier</author>
+<author>Christophe Marsala</author>
+<author>Laurent Miclet</author>
+<author>Jacques Nicolas</author>
+<author>Richard Nock</author>
+<author>Mohammed Ramdani</author>
+<author>Michèle Sebag</author>
+<author>Basavanneppa Tallur</author>
+<author>Gilles Venturini</author>
+<author>Patrick Vitte</author>
+<title>Twelve Numerical, Symbolic and Hybrid Supervised Classification Methods.</title>
+<pages>517-571</pages>
+<year>1998</year>
+<volume>12</volume>
+<journal>IJPRAI</journal>
+<number>4</number>
+<url>db/journals/ijprai/ijprai12.html#GascuelBCGGGLMMNNRSTVV98</url>
+</article>
+</r>
+<r><inproceedings key="conf/fqas/Marsala98" mdate="2017-05-21">
+<author>Christophe Marsala</author>
+<title>Application of Fuzzy Rule Induction to Data Mining.</title>
+<pages>260-271</pages>
+<year>1998</year>
+<crossref>conf/fqas/1998</crossref>
+<booktitle>FQAS</booktitle>
+<url>db/conf/fqas/fqas98.html#Marsala98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/BigolinM98" mdate="2017-05-22">
+<author>Nara Martini Bigolin</author>
+<author>Christophe Marsala</author>
+<title>Fuzzy Spatial OQL for Fuzzy Knowledge Discovery in Databases.</title>
+<pages>246-254</pages>
+<year>1998</year>
+<crossref>conf/pkdd/1998</crossref>
+<booktitle>PKDD</booktitle>
+<url>db/conf/pkdd/pkdd98.html#BigolinM98</url>
+</inproceedings>
+</r>
+<coauthors n="62" nc="5">
+<co c="0"><na f="a/Amini:Massih=Reza">Massih-Reza Amini</na></co>
+<co c="0"><na f="b/Bai:Liang">Liang Bai</na></co>
+<co c="0"><na f="b/Bifet:Albert">Albert Bifet</na></co>
+<co c="-1"><na f="b/Bigolin:Nara_Martini">Nara Martini Bigolin</na></co>
+<co c="0"><na f="b/Boucher:Alain">Alain Boucher</na></co>
+<co c="0"><na f="b/Bouchon=Meunier:Bernadette">Bernadette Bouchon-Meunier</na></co>
+<co c="0"><na f="b/Bu:Jiang">Jiang Bu</na></co>
+<co c="0"><na f="c/Caraux:Gilles">Gilles Caraux</na></co>
+<co c="1"><na f="c/Castanie:Laurent">Laurent Castanie</na></co>
+<co c="0"><na f="c/Castelltort:Arnaud">Arnaud Castelltort</na></co>
+<co c="2"><na f="c/Christophe:Benoit">Benoit Christophe</na></co>
+<co c="4"><na f="c/Coffi:Jean=Ren=eacute=">Jean-René Coffi</na></co>
+<co c="0"><na f="c/Coletti:Giulianella">Giulianella Coletti</na></co>
+<co c="1"><na f="c/Conche:Bruno">Bruno Conche</na></co>
+<co c="0"><na f="d/Dang:Thanh_Ha">Thanh Ha Dang</na></co>
+<co c="0"><na f="d/Delechamp:J=">J. Delechamp</na></co>
+<co c="0"><na f="d/Detyniecki:Marcin">Marcin Detyniecki</na></co>
+<co c="3"><na f="d/Doboszewski:Iwo">Iwo Doboszewski</na></co>
+<co c="0"><na f="d/Dzogang:Fabon">Fabon Dzogang</na></co>
+<co c="0"><na f="f/Fakeri=Tabrizi:Ali">Ali Fakeri-Tabrizi</na></co>
+<co c="3"><na f="f/Fossier:Simon">Simon Fossier</na></co>
+<co c="0"><na f="g/Gallinari:Patrick">Patrick Gallinari</na></co>
+<co c="0"><na f="g/Gascuel:Olivier">Olivier Gascuel</na></co>
+<co c="0"><na f="g/Gu=eacute=noche:Alain">Alain Guénoche</na></co>
+<co c="0"><na f="g/Guermeur:Yann">Yann Guermeur</na></co>
+<co c="0"><na f="g/Guillon:Arthur">Arthur Guillon</na></co>
+<co c="0"><na f="k/Krishnan:Ashwati">Ashwati Krishnan</na></co>
+<co c="0"><na f="l/Labroche:Nicolas">Nicolas Labroche</na></co>
+<co c="0"><na f="l/Laghmari:Khalil">Khalil Laghmari</na></co>
+<co c="0"><na f="l/Lao:Songyang">Songyang Lao</na></co>
+<co c="0"><na f="l/Laugel:Thibault">Thibault Laugel</na></co>
+<co c="0"><na f="l/Laurent:Anne">Anne Laurent</na></co>
+<co c="-1"><na f="l/Le:Xuan_Tuan">Xuan Tuan Le</na></co>
+<co c="0"><na f="l/Lechevallier:Yves">Yves Lechevallier</na></co>
+<co c="0"><na f="l/Lemaire:Vincent">Vincent Lemaire</na></co>
+<co c="0"><na f="l/Lesot:Marie=Jeanne">Marie-Jeanne Lesot</na></co>
+<co c="0"><na f="l/Loeffel:Pierre=Xavier">Pierre-Xavier Loeffel</na></co>
+<co c="0"><na f="m/Machanje:Daniel">Daniel Machanje</na></co>
+<co c="0"><na f="m/Mesiar:Radko">Radko Mesiar</na></co>
+<co c="1"><na f="m/Meunier:Fran=ccedil=ois">François Meunier</na></co>
+<co c="0"><na f="m/Miclet:Laurent">Laurent Miclet</na></co>
+<co c="4"><na f="m/Museux:Nicolas">Nicolas Museux</na></co>
+<co c="0"><na f="n/Nicolas:Jacques">Jacques Nicolas</na></co>
+<co c="0"><na f="n/Nock:Richard">Richard Nock</na></co>
+<co c="0"><na f="o/Orero:Joseph_Onderi">Joseph Onderi Orero</na></co>
+<co c="0"><na f="p/Pal:Nikhil_R=">Nikhil R. Pal</na></co>
+<co c="0"><na f="p/Petturiti:Davide">Davide Petturiti</na></co>
+<co c="0"><na f="p/Pinna:Andrea">Andrea Pinna</na></co>
+<co c="0"><na f="p/Putois:Georges=Marie">Georges-Marie Putois</na></co>
+<co c="0"><na f="r/Ramdani:Mohammed">Mohammed Ramdani</na></co>
+<co c="0"><na f="r/Renard:Xavier">Xavier Renard</na></co>
+<co c="0"><na f="r/Rifqi:Maria">Maria Rifqi</na></co>
+<co c="0"><na f="s/Sebag:Mich=egrave=le">Michèle Sebag</na></co>
+<co c="0"><na f="s/Siegel:Mel">Mel Siegel</na></co>
+<co c="0"><na f="t/Tallur:Basavanneppa">Basavanneppa Tallur</na></co>
+<co c="0"><na f="t/Tollari:Sabrina">Sabrina Tollari</na></co>
+<co c="0"><na f="t/Tran:Tri_Duc">Tri Duc Tran</na></co>
+<co c="0"><na f="u/Usunier:Nicolas">Nicolas Usunier</na></co>
+<co c="0"><na f="v/Venturini:Gilles">Gilles Venturini</na></co>
+<co c="0"><na f="v/Vitte:Patrick">Patrick Vitte</na></co>
+<co c="2"><na f="x/Xu:Wenyi">Wenyi Xu</na></co>
+<co c="0"><na f="y/Yang:Wenlu">Wenlu Yang</na></co>
+</coauthors>
+</dblpperson>
+

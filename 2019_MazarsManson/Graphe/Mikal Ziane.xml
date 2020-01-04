@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Mikal Ziane" n="26">
+<person key="homepages/30/976" mdate="2009-06-09">
+<author>Mikal Ziane</author>
+</person>
+<r><article key="journals/bmcbi/AnhPSZR19" mdate="2019-12-27">
+<author>Bui Thi Mai Anh</author>
+<author orcid="0000-0002-3649-1097">Nick Papoulias</author>
+<author>Serge Stinckwich</author>
+<author>Mikal Ziane</author>
+<author>Benjamin Roche</author>
+<title>The Kendrick modelling platform: language abstractions and tools for epidemiology.</title>
+<pages>312:1-312:13</pages>
+<year>2019</year>
+<volume>20</volume>
+<journal>BMC Bioinformatics</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s12859-019-2843-0</ee>
+<url>db/journals/bmcbi/bmcbi20.html#AnhPSZR19</url>
+</article>
+</r>
+<r><article key="journals/bmcbi/AnhPSZR19a" mdate="2019-09-07">
+<author>Bui Thi Mai Anh</author>
+<author>Nick Papoulias</author>
+<author>Serge Stinckwich</author>
+<author>Mikal Ziane</author>
+<author>Benjamin Roche</author>
+<title>Correction to: The Kendrick modelling platform: language abstractions and tools for epidemiology.</title>
+<pages>439:1-439:2</pages>
+<year>2019</year>
+<volume>20</volume>
+<journal>BMC Bioinformatics</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s12859-019-2986-z</ee>
+<url>db/journals/bmcbi/bmcbi20.html#AnhPSZR19a</url>
+</article>
+</r>
+<r><inproceedings key="conf/aosd/AnhZSHRP16" mdate="2018-11-06">
+<author>Bui Thi Mai Anh</author>
+<author>Mikal Ziane</author>
+<author>Serge Stinckwich</author>
+<author orcid="0000-0002-8755-4756">Tuong-Vinh Ho</author>
+<author>Benjamin Roche</author>
+<author orcid="0000-0002-3649-1097">Nick Papoulias</author>
+<title>Separation of concerns in epidemiological modelling.</title>
+<pages>196-200</pages>
+<year>2016</year>
+<booktitle>MODULARITY (Companion)</booktitle>
+<crossref>conf/aosd/2016c</crossref>
+<url>db/conf/aosd/modularity2016c.html#AnhZSHRP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwst/AnhPZS16" mdate="2017-04-22">
+<author>Bui Thi Mai Anh</author>
+<author>Nick Papoulias</author>
+<author>Mikal Ziane</author>
+<author>Serge Stinckwich</author>
+<title>Explicit Composition Constructs in DSLs: The case of the epidemiological language KENDRICK.</title>
+<pages>20</pages>
+<year>2016</year>
+<booktitle>IWST</booktitle>
+<crossref>conf/iwst/2016</crossref>
+<url>db/conf/iwst/iwst2016.html#AnhPZS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rivf/AnhSZRV15" mdate="2018-11-14">
+<author>Bui Thi Mai Anh</author>
+<author>Serge Stinckwich</author>
+<author>Mikal Ziane</author>
+<author orcid="0000-0001-7975-4232">Benjamin Roche</author>
+<author>Hô Tuòng Vinh</author>
+<title>KENDRICK: A Domain Specific Language and platform for mathematical epidemiological modelling.</title>
+<pages>132-137</pages>
+<year>2015</year>
+<booktitle>RIVF</booktitle>
+<crossref>conf/rivf/2015</crossref>
+<url>db/conf/rivf/rivf2015.html#AnhSZRV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/ZiadiHPZT14" mdate="2018-11-06">
+<author>Tewfik Ziadi</author>
+<author>Christopher Henard</author>
+<author>Mike Papadakis</author>
+<author>Mikal Ziane</author>
+<author>Yves Le Traon</author>
+<title>Towards a language-independent approach for reverse-engineering of software product lines.</title>
+<pages>1064-1071</pages>
+<year>2014</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2014</crossref>
+<url>db/conf/sac/sac2014.html#ZiadiHPZT14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1305-2398" mdate="2018-08-13">
+<author>Mikal Ziane</author>
+<author>Mel Ó Cinnéide</author>
+<title>The Case for Explicit Coupling Constraints</title>
+<ee type="oa">http://arxiv.org/abs/1305.2398</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1305.2398</volume>
+<url>db/journals/corr/corr1305.html#abs-1305-2398</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KchirZZS13" mdate="2018-08-13">
+<author>Selma Kchir</author>
+<author>Tewfik Ziadi</author>
+<author>Mikal Ziane</author>
+<author>Serge Stinckwich</author>
+<title>A Top-Down Approach to Managing Variability in Robotics Algorithms.</title>
+<year>2013</year>
+<volume>abs/1312.7572</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1312.7572</ee>
+<url>db/journals/corr/corr1312.html#KchirZZS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/csmr/ZiadiFSZ12" mdate="2017-05-24">
+<author>Tewfik Ziadi</author>
+<author>Luz Frias</author>
+<author>Marcos Aurélio Almeida da Silva</author>
+<author>Mikal Ziane</author>
+<title>Feature Identification from the Source Code of Product Variants.</title>
+<pages>417-422</pages>
+<year>2012</year>
+<booktitle>CSMR</booktitle>
+<crossref>conf/csmr/2012</crossref>
+<url>db/conf/csmr/csmr2012.html#ZiadiFSZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simpar/DhouibKSZZ12" mdate="2017-05-19">
+<author>Saadia Dhouib</author>
+<author>Selma Kchir</author>
+<author>Serge Stinckwich</author>
+<author>Tewfik Ziadi</author>
+<author>Mikal Ziane</author>
+<title>RobotML, a Domain-Specific Language to Design, Simulate and Deploy Robotic Applications.</title>
+<pages>149-160</pages>
+<year>2012</year>
+<booktitle>SIMPAR</booktitle>
+<crossref>conf/simpar/2012</crossref>
+<url>db/conf/simpar/simpar2012.html#DhouibKSZZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/DuctorGZ11" mdate="2017-05-23">
+<author>Sylvain Ductor</author>
+<author>Zahia Guessoum</author>
+<author>Mikal Ziane</author>
+<title>Adaptive Replication in Fault-Tolerant Multi-agent Systems.</title>
+<pages>304-307</pages>
+<year>2011</year>
+<booktitle>IAT</booktitle>
+<crossref>conf/iat/2011</crossref>
+<url>db/conf/iat/iat2011.html#DuctorGZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/ZiadiSHZ11" mdate="2017-05-26">
+<author>Tewfik Ziadi</author>
+<author>Marcos Aurélio Almeida da Silva</author>
+<author>Lom-Messan Hillah</author>
+<author>Mikal Ziane</author>
+<title>A Fully Dynamic Approach to the Reverse Engineering of UML Sequence Diagrams.</title>
+<pages>107-116</pages>
+<year>2011</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2011</crossref>
+<url>db/conf/iceccs/iceccs2011.html#ZiadiSHZ11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1102-4563" mdate="2018-08-13">
+<author>Ulrik Pagh Schultz</author>
+<author>Serge Stinckwich</author>
+<author>Mikal Ziane</author>
+<title>Proceedings of the first international workshop on domain-specific languages for robotic systems (DSLRob 2010)</title>
+<ee type="oa">http://arxiv.org/abs/1102.4563</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1102.4563</volume>
+<url>db/journals/corr/corr1102.html#abs-1102-4563</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/LajmiZZC10" mdate="2018-11-06">
+<author>Amine Lajmi</author>
+<author>Mikal Ziane</author>
+<author>Tewfik Ziadi</author>
+<author>Sylvie Cauvin</author>
+<title>A multi-view model-driven approach for packaging software components.</title>
+<pages>2297-2304</pages>
+<year>2010</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2010</crossref>
+<url>db/conf/sac/sac2010.html#LajmiZZC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/GuessoumZF04" mdate="2019-06-18">
+<author>Zahia Guessoum</author>
+<author>Mikal Ziane</author>
+<author>Nora Faci</author>
+<title>Monitoring and Organizational-Level Adaptation of Multi-Agent Systems.</title>
+<pages>514-521</pages>
+<year>2004</year>
+<crossref>conf/atal/2004</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2004.html#GuessoumZF04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cadui/JulienZG04" mdate="2005-05-11">
+<author>David Julien</author>
+<author>Mikal Ziane</author>
+<author>Zahia Guessoum</author>
+<title>GOLIATH: an Extensible Model-Based Environment to Develop User Interfaces.</title>
+<pages>95-104</pages>
+<year>2004</year>
+<crossref>conf/cadui/2004</crossref>
+<booktitle>CADUI</booktitle>
+<url>db/conf/cadui/cadui2004.html#JulienZG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/Ziane00" mdate="2017-05-23">
+<author>Mikal Ziane</author>
+<title>A Transformational Viewpoint on Design Patterns.</title>
+<pages>273-276</pages>
+<year>2000</year>
+<crossref>conf/kbse/2000</crossref>
+<booktitle>ASE</booktitle>
+<url>db/conf/kbse/ase2000.html#Ziane00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoopw/LesueurRSZ98" mdate="2017-05-23">
+<author>Bruno Lesueur</author>
+<author>N. Revault</author>
+<author>Gerson Sunyé</author>
+<author>Mikal Ziane</author>
+<title>Using the MétaGen Modeling and Development Environment in the FIBOF Project.</title>
+<pages>492</pages>
+<year>1998</year>
+<crossref>conf/ecoopw/1998</crossref>
+<booktitle>ECOOP Workshops</booktitle>
+<url>db/conf/ecoopw/ecoopw98.html#LesueurRSZ98</url>
+</inproceedings>
+</r>
+<r><article key="journals/isci/FlorescuGNVZ95" mdate="2017-05-27">
+<author>Daniela Florescu</author>
+<author>Jean-Robert Gruser</author>
+<author>Michael Novak</author>
+<author>Patrick Valduriez</author>
+<author>Mikal Ziane</author>
+<title>Design and Implementation of Flora, A Language for Object Algebra.</title>
+<pages>1-27</pages>
+<year>1995</year>
+<volume>87</volume>
+<journal>Inf. Sci.</journal>
+<number>1-3</number>
+<url>db/journals/isci/isci87.html#FlorescuGNVZ95</url>
+</article>
+</r>
+<r><article key="journals/is/LanzelotteVZZ94" mdate="2018-11-02">
+<author orcid="0000-0002-4853-9633">Rosana S. G. Lanzelotte</author>
+<author>Patrick Valduriez</author>
+<author>Mohamed Zaït</author>
+<author>Mikal Ziane</author>
+<title>Invited Project Review: Industrial-strength parallel query optimization: issues and lessons.</title>
+<pages>311-330</pages>
+<year>1994</year>
+<volume>19</volume>
+<journal>Inf. Syst.</journal>
+<number>4</number>
+<url>db/journals/is/is19.html#LanzelotteVZZ94</url>
+</article>
+</r>
+<r><article key="journals/vldb/ZianeZB93" mdate="2017-03-29">
+<author>Mikal Ziane</author>
+<author>Mohamed Zaït</author>
+<author>Pascale Borla-Salamet</author>
+<title>Parallel Query Processing with Zigzag Trees</title>
+<journal>VLDB J.</journal>
+<volume>2</volume>
+<number>3</number>
+<year>1993</year>
+<pages>277-301</pages>
+<url>db/journals/vldb/vldb2.html#ZianeZB93</url>
+<cite label="Bergsten et al. 1991">conf/pdis/BergstenCV91</cite>
+<cite label="Bitton et al. 1983">conf/vldb/BittonDT83</cite>
+<cite label="Boral et al. 1990">journals/tkde/BoralACCDFHSV90</cite>
+<cite label="Borla-Salamet et al. 1991">conf/pdis/Borla-SalametCD91</cite>
+<cite label="Chen et al. 1992a">conf/vldb/ChenLYY92</cite>
+<cite label="Chen et al. 1992b">conf/icde/ChenYW92</cite>
+<cite label="DeWitt and Gerber 1985">conf/vldb/DeWittG85</cite>
+<cite label="DeWitt and Gray 1990">journals/sigmod/DeWittG90</cite>
+<cite label="Ganguly et al. 1992">conf/sigmod/GangulyHK92</cite>
+<cite label="Gardarin and Valduriez 1992">conf/icde/GardarinV92</cite>
+<cite label="Gardarin and Valduriez 1984">journals/tods/ValduriezG84</cite>
+<cite label="Graefe 1989">...</cite>
+<cite label="Graefe 1990">conf/sigmod/Graefe90</cite>
+<cite label="Graefe and Ward 1989">conf/sigmod/GraefeW89</cite>
+<cite label="Hong 1992">conf/sigmod/Hong92</cite>
+<cite label="Hong and Stonebraker 1991">conf/pdis/HongS91</cite>
+<cite label="Ioannidis and Cha Kang 1991">conf/sigmod/IoannidisK91</cite>
+<cite label="Lanzelotte and Valduriez 1991">conf/vldb/LanzelotteV91</cite>
+<cite label="Lanzelotte et al. 1992">conf/sigmod/LanzelotteVZ92</cite>
+<cite label="Lohman et al. 1985">books/sp/kimrb85/LohmanMHDLSW85</cite>
+<cite label="Stonebraker et al. 1988">conf/vldb/StonebrakerKPO88</cite>
+<cite label="Schneider 1990">...</cite>
+<cite label="Schneider and DeWitt 1989">conf/sigmod/SchneiderD89</cite>
+<cite label="Schneider and DeWitt 1990">conf/vldb/SchneiderD90</cite>
+<cite label="Selinger et al. 1979">conf/sigmod/SelingerACLP79</cite>
+<cite label="Swami 1989">conf/sigmod/Swami89</cite>
+<cite label="Wilschut and Apers 1991">conf/pdis/WilschutA91</cite>
+<cite label="Zaït 1990">...</cite>
+<cite label="Ziane et al 1993">conf/pdis/ZianeZB93</cite>
+</article>
+</r>
+<r><inproceedings key="conf/fmldo/ZianeZQ93" mdate="2014-02-11">
+<author>Mikal Ziane</author>
+<author>Mohamed Zaït</author>
+<author>Hong Hoang Quang</author>
+<title>The Impact of Parallelism on Query Optimization.</title>
+<pages>127-138</pages>
+<year>1993</year>
+<crossref>conf/fmldo/1993</crossref>
+<booktitle>FMLDO</booktitle>
+<url>db/conf/fmldo/fmldo93.html#ZianeZQ93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdis/ZianeZB93" mdate="2019-02-14">
+<author>Mikal Ziane</author>
+<author>Mohamed Zaït</author>
+<author>Pascale Borla-Salamet</author>
+<title>Parallel Query Processing in DBS3.</title>
+<pages>93-102</pages>
+<cdrom>PDIS1993/P093.pdf</cdrom>
+<year>1993</year>
+<crossref>conf/pdis/93</crossref>
+<booktitle>PDIS</booktitle>
+<url>db/conf/pdis/pdis93.html#ZianeZB93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dood/LanzelotteVZC91" mdate="2019-08-07">
+<author orcid="0000-0002-4853-9633">Rosana S. G. Lanzelotte</author>
+<author>Patrick Valduriez</author>
+<author>Mikal Ziane</author>
+<author>Jean-Pierre Cheiney</author>
+<title>Optimization of Nonrecursive Queries in OODBs.</title>
+<pages>1-21</pages>
+<year>1991</year>
+<crossref>conf/dood/91</crossref>
+<booktitle>DOOD</booktitle>
+<url>db/conf/dood/dood91.html#LanzelotteVZC91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwdm/BergstenCGKZ89" mdate="2017-05-19">
+<author>Björn Bergsten</author>
+<author>Michel Couprie</author>
+<author>Rubén González-Rubio</author>
+<author>Brigitte Kerhervé</author>
+<author>Mikal Ziane</author>
+<title>Language Levels and Computational Model for a Parallel Database Accelerator.</title>
+<pages>58-72</pages>
+<year>1989</year>
+<crossref>conf/iwdm/1989</crossref>
+<booktitle>IWDM</booktitle>
+<url>db/conf/iwdm/iwdm89.html#BergstenCGKZ89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parle/BergstenCGKZ89" mdate="2017-05-19">
+<author>Björn Bergsten</author>
+<author>Michel Couprie</author>
+<author>Rubén González-Rubio</author>
+<author>Brigitte Kerhervé</author>
+<author>Mikal Ziane</author>
+<title>A Parallel Database Accelerator.</title>
+<pages>397-412</pages>
+<year>1989</year>
+<crossref>conf/parle/1989-1</crossref>
+<booktitle>PARLE (1)</booktitle>
+<url>db/conf/parle/parle89-1.html#BergstenCGKZ89</url>
+</inproceedings>
+</r>
+<coauthors n="38" nc="1">
+<co c="0"><na f="a/Anh:Bui_Thi_Mai">Bui Thi Mai Anh</na></co>
+<co c="0"><na f="b/Bergsten:Bj=ouml=rn">Björn Bergsten</na></co>
+<co c="0"><na f="b/Borla=Salamet:Pascale">Pascale Borla-Salamet</na></co>
+<co c="0"><na f="c/Cauvin:Sylvie">Sylvie Cauvin</na></co>
+<co c="0"><na f="c/Cheiney:Jean=Pierre">Jean-Pierre Cheiney</na></co>
+<co c="-1"><na f="c/Cinn=eacute=ide:Mel_=Oacute=">Mel Ó Cinnéide</na></co>
+<co c="0"><na f="c/Couprie:Michel">Michel Couprie</na></co>
+<co c="0"><na f="d/Dhouib:Saadia">Saadia Dhouib</na></co>
+<co c="0"><na f="d/Ductor:Sylvain">Sylvain Ductor</na></co>
+<co c="0" n="2"><na f="f/Faci:Noura">Noura Faci</na><na>Nora Faci</na></co>
+<co c="0"><na f="f/Florescu:Daniela">Daniela Florescu</na></co>
+<co c="0"><na f="f/Frias:Luz">Luz Frias</na></co>
+<co c="0"><na f="g/Gonz=aacute=lez=Rubio:Rub=eacute=n">Rubén González-Rubio</na></co>
+<co c="0"><na f="g/Gruser:Jean=Robert">Jean-Robert Gruser</na></co>
+<co c="0"><na f="g/Guessoum:Zahia">Zahia Guessoum</na></co>
+<co c="0"><na f="h/Henard:Christopher">Christopher Henard</na></co>
+<co c="0"><na f="h/Hillah:Lom=Messan">Lom-Messan Hillah</na></co>
+<co c="0"><na f="j/Julien:David">David Julien</na></co>
+<co c="0"><na f="k/Kchir:Selma">Selma Kchir</na></co>
+<co c="0"><na f="k/Kerherv=eacute=:Brigitte">Brigitte Kerhervé</na></co>
+<co c="0"><na f="l/Lajmi:Amine">Amine Lajmi</na></co>
+<co c="0"><na f="l/Lanzelotte:Rosana_S=_G=">Rosana S. G. Lanzelotte</na></co>
+<co c="0"><na f="l/Lesueur:Bruno">Bruno Lesueur</na></co>
+<co c="0"><na f="n/Novak:Michael">Michael Novak</na></co>
+<co c="0"><na f="p/Papadakis:Mike">Mike Papadakis</na></co>
+<co c="0"><na f="p/Papoulias:Nick">Nick Papoulias</na></co>
+<co c="0"><na f="q/Quang:Hong_Hoang">Hong Hoang Quang</na></co>
+<co c="0"><na f="r/Revault:N=">N. Revault</na></co>
+<co c="0"><na f="r/Roche:Benjamin">Benjamin Roche</na></co>
+<co c="0"><na f="s/Schultz:Ulrik_Pagh">Ulrik Pagh Schultz</na></co>
+<co c="0"><na f="s/Silva:Marcos_Aur=eacute=lio_Almeida_da">Marcos Aurélio Almeida da Silva</na></co>
+<co c="0"><na f="s/Stinckwich:Serge">Serge Stinckwich</na></co>
+<co c="0"><na f="s/Suny=eacute=:Gerson">Gerson Sunyé</na></co>
+<co c="0"><na f="t/Traon:Yves_Le">Yves Le Traon</na></co>
+<co c="0"><na f="v/Valduriez:Patrick">Patrick Valduriez</na></co>
+<co c="0" n="2"><na f="v/Vinh:H=ocirc=_Tu=ograve=ng">Hô Tuòng Vinh</na><na>Tuong-Vinh Ho</na></co>
+<co c="0"><na f="z/Za=iuml=t:Mohamed">Mohamed Zaït</na></co>
+<co c="0"><na f="z/Ziadi:Tewfik">Tewfik Ziadi</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,1145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Jean-Pierre Briot" n="81">
+<person key="homepages/b/JPBriot" mdate="2018-12-10">
+<author>Jean-Pierre Briot</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www-poleia.lip6.fr/~briot/</url>
+<url>https://orcid.org/0000-0003-1621-6335</url>
+<url>https://www.wikidata.org/entity/Q58728338</url>
+</person>
+<r><book key="books/sp/BriotHP20" mdate="2019-11-19">
+<author>Jean-Pierre Briot</author>
+<author>Gaëtan Hadjeres</author>
+<author>François-David Pachet</author>
+<title>Deep Learning Techniques for Music Generation</title>
+<publisher>Springer</publisher>
+<year>2020</year>
+<pages>1-249</pages>
+<isbn>978-3-319-70162-2</isbn>
+</book>
+</r>
+<r><inproceedings key="conf/rjcia/ZaleskiABI19" mdate="2019-06-28">
+<author>Laetitia Zaleski</author>
+<author>Isabelle Alvarez</author>
+<author>Jean-Pierre Briot</author>
+<author>Martha Irving</author>
+<title>Viaduc : Un assistant de viabilité pour la négociation dans un éco-socio-système.</title>
+<pages>43-53</pages>
+<year>2019</year>
+<booktitle>RJCIA</booktitle>
+<crossref>conf/rjcia/2019</crossref>
+<url>db/conf/rjcia/rjcia2019.html#ZaleskiABI19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijsc/EndlerBARS17" mdate="2017-10-11">
+<author>Markus Endler</author>
+<author>Jean-Pierre Briot</author>
+<author>Vitor Pinheiro de Almeida</author>
+<author>Ruhan dos Reis</author>
+<author>Francisco Silva E. Silva</author>
+<title>Stream-Based Reasoning for IoT Applications - Proposal of Architecture and Analysis of Challenges.</title>
+<pages>325-344</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Int. J. Semantic Computing</journal>
+<number>3</number>
+<url>db/journals/ijsc/ijsc11.html#EndlerBARS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/seke/VelmovitskyBVL17" mdate="2018-11-02">
+<author>Pedro Elkind Velmovitsky</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Marx L. Viana</author>
+<author>Carlos Lucena</author>
+<title>Practical Reasoning in an Argumentation-based Decision BDI Agent: a Case Study for Participatory Management of Protected Areas.</title>
+<pages>527-530</pages>
+<year>2017</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2017</crossref>
+<url>db/conf/seke/seke2017.html#VelmovitskyBVL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semco/EndlerBSAH17" mdate="2018-11-02">
+<author>Markus Endler</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Francisco Silva E. Silva</author>
+<author>Vitor Pinheiro de Almeida</author>
+<author>Edward Hermann Haeusler</author>
+<title>An Approach for Real-Time Stream Reasoning for the Internet of Things.</title>
+<pages>348-353</pages>
+<year>2017</year>
+<booktitle>ICSC</booktitle>
+<crossref>conf/semco/2017</crossref>
+<url>db/conf/semco/icsc2017.html#EndlerBSAH17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BayserCSBCPB17" mdate="2018-08-13">
+<author>Maíra Gatti de Bayser</author>
+<author>Paulo Rodrigo Cavalin</author>
+<author>Renan Souza</author>
+<author>Alan Braz</author>
+<author>Heloisa Candello</author>
+<author>Claudio S. Pinhanez</author>
+<author>Jean-Pierre Briot</author>
+<title>A Hybrid Architecture for Multi-Party Conversational Systems.</title>
+<year>2017</year>
+<volume>abs/1705.01214</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.01214</ee>
+<url>db/journals/corr/corr1705.html#BayserCSBCPB17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-01620" mdate="2018-08-13">
+<author>Jean-Pierre Briot</author>
+<author>Gaëtan Hadjeres</author>
+<author>François Pachet</author>
+<title>Deep Learning Techniques for Music Generation - A Survey.</title>
+<year>2017</year>
+<volume>abs/1709.01620</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.01620</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-01620</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-04371" mdate="2018-08-13">
+<author>Jean-Pierre Briot</author>
+<author>François Pachet</author>
+<title>Music Generation by Deep Learning - Challenges and Directions.</title>
+<year>2017</year>
+<volume>abs/1712.04371</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.04371</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-04371</url>
+</article>
+</r>
+<r><inproceedings key="conf/seke/BriotNL16" mdate="2018-11-02">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Nathalia Moraes do Nascimento</author>
+<author>Carlos José Pereira de Lucena</author>
+<title>A Multi-Agent Architecture for Quantified Fruits: Design and Experience.</title>
+<pages>369-374</pages>
+<year>2016</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2016</crossref>
+<url>db/conf/seke/seke2016.html#BriotNL16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/Briot14" mdate="2018-11-30">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>Composants et agents : évolution de la programmation et analyse comparative.</title>
+<pages>85-115</pages>
+<year>2014</year>
+<volume>33</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>1-2</number>
+<url>db/journals/tsi/tsi33.html#Briot14</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/YonezawaBS14" mdate="2018-11-02">
+<author>Akinori Yonezawa</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Etsuya Shibayama</author>
+<title>Object-Oriented Concurrent Programming in ABCL/1.</title>
+<pages>18-43</pages>
+<year>2014</year>
+<booktitle>Concurrent Objects and Beyond</booktitle>
+<crossref>conf/birthday/2014yonezawa</crossref>
+<url>db/conf/birthday/yonezawa2014.html#YonezawaBS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/culture/BriotIMFAMW11" mdate="2018-11-30">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Marta de Azevedo Irving</author>
+<author>Gustavo Mendes de Melo</author>
+<author>Eurico Vasconcelos Filho</author>
+<author>Isabelle Alvarez</author>
+<author>Sophie Martin</author>
+<author>Wei Wei 0014</author>
+<title>A Serious Game and Artificial Agents to Support Intercultural Participatory Management of Protected Areas for Biodiversity Conservation and Social Inclusion.</title>
+<pages>15-20</pages>
+<year>2011</year>
+<booktitle>Culture and Computing</booktitle>
+<crossref>conf/culture/2011</crossref>
+<url>db/conf/culture/culture2011.html#BriotIMFAMW11</url>
+</inproceedings>
+</r>
+<r><article key="journals/cl/SilvestreRRB10" mdate="2018-11-30">
+<author>Bruno Silvestre</author>
+<author>Silvana Rossetto</author>
+<author>Noemi de La Rocque Rodriguez</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>Flexibility and coordination in event-based, loosely coupled, distributed systems.</title>
+<pages>142-157</pages>
+<year>2010</year>
+<volume>36</volume>
+<journal>Computer Languages, Systems and Structures</journal>
+<number>2</number>
+<url>db/journals/cl/cl36.html#SilvestreRRB10</url>
+</article>
+</r>
+<r><article key="journals/mags/GuessoumBFM10" mdate="2018-11-02">
+<author>Zahia Guessoum</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Noura Faci</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<title>Towards reliable multi-agent systems: An adaptive replication mechanism.</title>
+<pages>1-24</pages>
+<year>2010</year>
+<volume>6</volume>
+<journal>Multiagent and Grid Systems</journal>
+<number>1</number>
+<url>db/journals/mags/mags6.html#GuessoumBFM10</url>
+</article>
+</r>
+<r><article key="journals/rairo/SordoniBAFIM10" mdate="2018-11-30">
+<author>Alessandro Sordoni</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Isabelle Alvarez</author>
+<author>Eurico Vasconcelos Filho</author>
+<author>Marta de Azevedo Irving</author>
+<author>Gustavo Melo</author>
+<title>Design of a Participatory Decision Making Agent Architecture Based on Argumentation and Influence Function - Application to a Serious Game about Biodiversity Conservation.</title>
+<pages>269-283</pages>
+<year>2010</year>
+<volume>44</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>4</number>
+<url>db/journals/rairo/rairo44.html#SordoniBAFIM10</url>
+</article>
+</r>
+<r><proceedings key="conf/promas/2009" mdate="2019-09-25">
+<editor>Lars Braubach</editor>
+<editor orcid="0000-0003-1621-6335">Jean-Pierre Briot</editor>
+<editor orcid="0000-0002-7699-6444">John Thangarajah</editor>
+<title>Programming Multi-Agent Systems - 7th International Workshop, ProMAS 2009, Budapest, Hungary, May 10-15, 2009. Revised Selected Papers</title>
+<volume>5919</volume>
+<year>2010</year>
+<isbn>978-3-642-14842-2</isbn>
+<booktitle>ProMAS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/promas/promas2009.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/ags/BriotSFIMSA09" mdate="2018-11-02">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Alessandro Sordoni</author>
+<author>Eurico Vasconcelos Filho</author>
+<author>Marta de Azevedo Irving</author>
+<author>Gustavo Melo</author>
+<author>Vinícius Sebba-Patto</author>
+<author>Isabelle Alvarez</author>
+<title>Design of a Decision Maker Agent for a Distributed Role Playing Game - Experience of the SimParc Project.</title>
+<pages>119-134</pages>
+<year>2009</year>
+<booktitle>AGS</booktitle>
+<crossref>conf/ags/2009</crossref>
+<url>db/conf/ags/ags2009.html#BriotSFIMSA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaart/FelicissimoLB09" mdate="2009-05-19">
+<author>Carolina Howard Felicíssimo</author>
+<author>Carlos José Pereira de Lucena</author>
+<author>Jean-Pierre Briot</author>
+<title>Modeling of Open Normative Multiagent Systems.</title>
+<pages>540-546</pages>
+<year>2009</year>
+<booktitle>ICAART</booktitle>
+<crossref>conf/icaart/2009</crossref>
+<url>db/conf/icaart/icaart2009.html#FelicissimoLB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/FilhoLMIBSS09" mdate="2018-11-02">
+<author>Eurico Vasconcelos Filho</author>
+<author>Carlos José Pereira de Lucena</author>
+<author>Gustavo Melo</author>
+<author>Marta de Azevedo Irving</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Vinícius Sebba-Patto</author>
+<author>Alessandro Sordoni</author>
+<title>A Serious Game for Exploring and Training in Participatory Management of National Parks for Biodiversity Conservation: Design and Experience.</title>
+<pages>93-100</pages>
+<year>2009</year>
+<booktitle>SBGames</booktitle>
+<crossref>conf/sbgames/2009</crossref>
+<url>db/conf/sbgames/sbgames2009.html#FilhoLMIBSS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/Nguyen-DucGMPBD08" mdate="2018-11-30">
+<author>Minh Nguyen-Duc</author>
+<author>Zahia Guessoum</author>
+<author>Olivier Marin</author>
+<author>Jean-François Perrot</author>
+<author>Jean-Pierre Briot</author>
+<author>Vu Duong</author>
+<title>Towards a reliable air traffic control.</title>
+<pages>101-104</pages>
+<year>2008</year>
+<booktitle>AAMAS (Industry Track)</booktitle>
+<crossref>conf/atal/2008ind</crossref>
+<url>db/conf/atal/aamas2008ind.html#Nguyen-DucGMPBD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/Fallah-SeghrouchniBSECB08" mdate="2018-11-02">
+<author>Amal El Fallah-Seghrouchni</author>
+<author orcid="0000-0001-9578-3623">Karin K. Breitman</author>
+<author>Nicolas Sabouret</author>
+<author>Markus Endler</author>
+<author>Yasmine Charif</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>Ambient Intelligence Applications: Introducing the Campus Framework.</title>
+<pages>165-174</pages>
+<year>2008</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2008</crossref>
+<url>db/conf/iceccs/iceccs2008.html#Fallah-SeghrouchniBSECB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/FilhoEB08" mdate="2018-11-14">
+<author orcid="0000-0002-0339-6624">José Viterbo Filho</author>
+<author>Markus Endler</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>Ubiquitous Service Regulation Based on Dynamic Rules.</title>
+<pages>175-182</pages>
+<year>2008</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2008</crossref>
+<url>db/conf/iceccs/iceccs2008.html#FilhoEB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mabs/FilhoBIBF08" mdate="2018-11-02">
+<author>Eurico Vasconcelos Filho</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Marta de Azevedo Irving</author>
+<author orcid="0000-0002-0044-503X">Simone Diniz Junqueira Barbosa</author>
+<author>Vasco Furtado</author>
+<title>A User Interface to Support Dialogue and Negotiation in Participatory Simulations.</title>
+<pages>127-140</pages>
+<year>2008</year>
+<booktitle>MABS</booktitle>
+<crossref>conf/mabs/2008</crossref>
+<url>db/conf/mabs/mabs2008.html#FilhoBIBF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/normas/FelicissimoBCL08" mdate="2009-01-20">
+<author>Carolina Howard Felicíssimo</author>
+<author>Jean-Pierre Briot</author>
+<author>Caroline Chopinaud</author>
+<author>Carlos José Pereira de Lucena</author>
+<title>DynaCROM: An Approach to Implement Regulative Norms in Normative Multiagent Systems.</title>
+<pages>80-94</pages>
+<year>2008</year>
+<booktitle>NORMAS</booktitle>
+<crossref>conf/normas/2008</crossref>
+<url>db/conf/normas/normas2008.html#FelicissimoBCL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/FelicissimoCBFL08" mdate="2019-10-19">
+<author orcid="0000-0001-5065-2689">Carolina Howard Felicíssimo</author>
+<author>Caroline Chopinaud</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Carlos José Pereira de Lucena</author>
+<title>Contextualizing normative open multi-agent systems.</title>
+<pages>52-59</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#FelicissimoCBFL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LunaAAB08" mdate="2018-11-06">
+<author>Alessandro de Luna Almeida</author>
+<author>Samir Aknine</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>Dynamic resource allocation heuristics for providing fault tolerance in multi-agent systems.</title>
+<pages>66-70</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#LunaAAB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/AlmeidaABM07" mdate="2018-11-06">
+<author>Alessandro de Luna Almeida</author>
+<author>Samir Aknine</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Jacques Malenfant</author>
+<title>Predictive fault tolerance in multiagent systems: a plan-based replication approach.</title>
+<pages>139</pages>
+<year>2007</year>
+<crossref>conf/atal/2007</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2007.html#AlmeidaABM07</url>
+</inproceedings>
+</r>
+<r><article key="journals/Lobjet/BriotMP06" mdate="2018-11-30">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Thomas Meurisse</author>
+<author>Frédéric Peschanski</author>
+<title>Une expérience de conception et de composition de comportements d'agents à l'aide de composants.</title>
+<pages>11-41</pages>
+<year>2006</year>
+<volume>12</volume>
+<journal>L'OBJET</journal>
+<number>4</number>
+<url>db/journals/Lobjet/Lobjet12.html#BriotMP06</url>
+</article>
+</r>
+<r><inproceedings key="conf/aois/FelicissimoCBLCF06" mdate="2019-10-19">
+<author orcid="0000-0001-5065-2689">Carolina Howard Felicíssimo</author>
+<author>Ricardo Choren</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Carlos José Pereira de Lucena</author>
+<author>Caroline Chopinaud</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<title>Providing Contextual Norm Information in Open Multi-Agent Systems.</title>
+<pages>19-36</pages>
+<year>2006</year>
+<booktitle>AOIS</booktitle>
+<crossref>conf/aois/2006</crossref>
+<url>db/conf/aois/aois2006.html#FelicissimoCBLCF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aose/CarvalhoLPCB06" mdate="2017-05-24">
+<author>Gustavo R. de Carvalho</author>
+<author>Carlos José Pereira de Lucena</author>
+<author>Rodrigo B. de Paes</author>
+<author>Ricardo Choren</author>
+<author>Jean-Pierre Briot</author>
+<title>Applying the Governance Framework Technique to Promote Maintainability in Open Multi-Agent Systems.</title>
+<pages>64-83</pages>
+<year>2006</year>
+<crossref>conf/aose/2006</crossref>
+<booktitle>AOSE</booktitle>
+<url>db/conf/aose/aose2006.html#CarvalhoLPCB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/FelicissimoCBL06" mdate="2019-10-19">
+<author orcid="0000-0001-5065-2689">Carolina Howard Felicíssimo</author>
+<author>Ricardo Choren</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Carlos Lucena</author>
+<title>Informing Regulatory Dynamics in Open MASs.</title>
+<pages>147-162</pages>
+<year>2006</year>
+<booktitle>COIN@AAMAS/ECAI</booktitle>
+<crossref>conf/atal/2006coin</crossref>
+<url>db/conf/atal/coin2006.html#FelicissimoCBL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/QuenumABH06" mdate="2019-09-16">
+<author>José Ghislain Quenum</author>
+<author>Samir Aknine</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Shinichi Honiden</author>
+<title>A Modeling Framework for Generic Agent Interaction Protocols.</title>
+<pages>207-224</pages>
+<year>2006</year>
+<crossref>conf/dalt/2006</crossref>
+<booktitle>DALT</booktitle>
+<url>db/conf/dalt/dalt2006.html#QuenumABH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/e4mas/PaesCGLBC06" mdate="2017-05-24">
+<author>Rodrigo B. de Paes</author>
+<author>Gustavo R. de Carvalho</author>
+<author>Maíra A. de C. Gatti</author>
+<author>Carlos José Pereira de Lucena</author>
+<author>Jean-Pierre Briot</author>
+<author>Ricardo Choren</author>
+<title>Enhancing the Environment with a Law-Governed Service for Monitoring and Enforcing Behavior in Open Multi-Agent Systems.</title>
+<pages>221-238</pages>
+<year>2006</year>
+<crossref>conf/e4mas/2006</crossref>
+<booktitle>E4MAS</booktitle>
+<url>db/conf/e4mas/e4mas2006.html#PaesCGLBC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/CabralBP06" mdate="2019-10-11">
+<author>Giordano Cabral 0001</author>
+<author>Jean-Pierre Briot</author>
+<author>François Pachet</author>
+<title>Incremental Parsing for Real-time Accompaniment Systems.</title>
+<pages>227-230</pages>
+<year>2006</year>
+<crossref>conf/flairs/2006</crossref>
+<booktitle>FLAIRS Conference</booktitle>
+<url>db/conf/flairs/flairs2006.html#CabralBP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/AlmeidaABM06" mdate="2018-11-02">
+<author>Alessandro de Luna Almeida</author>
+<author>Samir Aknine</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Jacques Malenfant</author>
+<title>A Predictive Method for Providing Fault Tolerance in Multi-agent Systems.</title>
+<pages>226-232</pages>
+<year>2006</year>
+<crossref>conf/iat/2006</crossref>
+<booktitle>IAT</booktitle>
+<url>db/conf/iat/iat2006.html#AlmeidaABM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/BriotGAAMMSFGL06" mdate="2019-12-18">
+<author>Jean-Pierre Briot</author>
+<author>Zahia Guessoum</author>
+<author>Samir Aknine</author>
+<author>A. L. Almeida</author>
+<author>Jacques Malenfant</author>
+<author>Olivier Marin</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<author>Noura Faci</author>
+<author>Maíra A. de C. Gatti</author>
+<author>Carlos José Pereira de Lucena</author>
+<title>Experience and prospects for various control strategies for self-replicating multi-agent systems.</title>
+<pages>37-43</pages>
+<year>2006</year>
+<booktitle>SEAMS@ICSE</booktitle>
+<crossref>conf/icse/2006seams</crossref>
+<url>db/conf/icse/seams2006.html#BriotGAAMMSFGL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/AlmeidaABM06" mdate="2018-11-02">
+<author>Alessandro de Luna Almeida</author>
+<author>Samir Aknine</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Jacques Malenfant</author>
+<title>Plan-based replication for fault-tolerant multi-agent systems.</title>
+<year>2006</year>
+<crossref>conf/ipps/2006</crossref>
+<booktitle>IPDPS</booktitle>
+<url>db/conf/ipps/ipdps2006.html#AlmeidaABM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/promas/BriotMP06" mdate="2018-11-02">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Thomas Meurisse</author>
+<author>Frédéric Peschanski</author>
+<title>Architectural Design of Component-Based Agents: A Behavior-Based Approach.</title>
+<pages>71-90</pages>
+<year>2006</year>
+<crossref>conf/promas/2006</crossref>
+<booktitle>PROMAS</booktitle>
+<url>db/conf/promas/promas2006.html#BriotMP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/selmas/GattiCPLB06" mdate="2017-05-23">
+<author>Maíra A. de C. Gatti</author>
+<author>Gustavo R. de Carvalho</author>
+<author>Rodrigo B. de Paes</author>
+<author>Carlos José Pereira de Lucena</author>
+<author>Jean-Pierre Briot</author>
+<title>On Fault Tolerance in Law-Governed Multi-agent Systems.</title>
+<pages>1-20</pages>
+<year>2006</year>
+<crossref>conf/selmas/2006</crossref>
+<booktitle>SELMAS</booktitle>
+<url>db/conf/selmas/selmas2006.html#GattiCPLB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/LenicaOPB06" mdate="2018-11-02">
+<author>A. Lenica</author>
+<author>Frederic Ogel</author>
+<author>Frédéric Peschanski</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>Toward Agent-Based Cooperative Resource Management in a Telecommunication Operator Grid Platform.</title>
+<pages>214-219</pages>
+<year>2006</year>
+<crossref>conf/wetice/2006</crossref>
+<booktitle>WETICE</booktitle>
+<url>db/conf/wetice/wetice2006.html#LenicaOPB06</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigsoft/GuessoumFB05" mdate="2018-11-06">
+<author>Zahia Guessoum</author>
+<author>Nora Faci</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>Adaptive replication of large-scale multi-agent systems: towards a fault-tolerant multi-agent platform.</title>
+<pages>1-6</pages>
+<year>2005</year>
+<volume>30</volume>
+<journal>ACM SIGSOFT Software Engineering Notes</journal>
+<number>4</number>
+<url>db/journals/sigsoft/sigsoft30.html#GuessoumFB05</url>
+</article>
+</r>
+<r><inproceedings key="conf/cmmr/CabralPB05" mdate="2019-10-11">
+<author>Giordano Cabral 0001</author>
+<author>François Pachet</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>Recognizing Chords with EDS: Part One.</title>
+<pages>185-195</pages>
+<year>2005</year>
+<crossref>conf/cmmr/2005</crossref>
+<booktitle>CMMR</booktitle>
+<url>db/conf/cmmr/cmmr2005.html#CabralPB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismir/CabralPB05" mdate="2019-10-11">
+<author>Giordano Cabral 0001</author>
+<author>François Pachet</author>
+<author>Jean-Pierre Briot</author>
+<title>Automatic X Traditional Descriptor Extraction: the Case of Chord Recognition.</title>
+<pages>444-449</pages>
+<year>2005</year>
+<crossref>conf/ismir/2005</crossref>
+<booktitle>ISMIR</booktitle>
+<url>db/conf/ismir/ismir2005.html#CabralPB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/AlmeidaABM05" mdate="2012-07-20">
+<author>Alessandro de Luna Almeida</author>
+<author>Samir Aknine</author>
+<author>Jean-Pierre Briot</author>
+<author>Jacques Malenfant</author>
+<title>Une approche de réplication fondée sur les plans pour la tolérance aux fautes des systèmes multi-agents (article court).</title>
+<pages>183-186</pages>
+<year>2005</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2005</crossref>
+<url>db/conf/jfsma/jfsma2005.html#AlmeidaABM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/monterey/MarinBSGB05" mdate="2019-12-18">
+<author>Olivier Marin</author>
+<author>Marin Bertier</author>
+<author>Pierre Sens 0001</author>
+<author>Zahia Guessoum</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>DARX - A Self-healing Framework for Agents.</title>
+<pages>88-105</pages>
+<year>2005</year>
+<booktitle>Monterey Workshop</booktitle>
+<crossref>conf/monterey/2005</crossref>
+<url>db/conf/monterey/monterey2005.html#MarinBSGB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/HaikBQ05" mdate="2017-05-25">
+<author>Grégory Haïk</author>
+<author>Jean-Pierre Briot</author>
+<author>Christian Queinnec</author>
+<title>Automatic Introduction of Mobility for Standard-Based Frameworks.</title>
+<pages>813-827</pages>
+<year>2005</year>
+<crossref>conf/otm/2005-3</crossref>
+<booktitle>OTM Conferences (1)</booktitle>
+<url>db/conf/otm/otm2005-1c.html#HaikBQ05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/selmas/GuessoumFB05" mdate="2017-05-23">
+<author>Zahia Guessoum</author>
+<author>Nora Faci</author>
+<author>Jean-Pierre Briot</author>
+<title>Adaptive Replication of Large-Scale Multi-agent Systems - Towards a Fault-Tolerant Multi-agent Platform.</title>
+<pages>238-253</pages>
+<year>2005</year>
+<crossref>conf/selmas/2005</crossref>
+<booktitle>SELMAS</booktitle>
+<url>db/conf/selmas/selmas2005.html#GuessoumFB05</url>
+</inproceedings>
+</r>
+<r><article key="journals/Lobjet/PeschanskiAB04" mdate="2018-11-30">
+<author>Frédéric Peschanski</author>
+<author>Reynald Affeldt</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>Les espaces d'interaction Vers une géométrie des systèmes d'agents mobiles.</title>
+<pages>31-45</pages>
+<year>2004</year>
+<volume>10</volume>
+<journal>L'OBJET</journal>
+<number>2-3</number>
+<url>db/journals/Lobjet/Lobjet10.html#PeschanskiAB04</url>
+</article>
+</r>
+<r><article key="journals/tsi/PeschanskiB04" mdate="2012-11-07">
+<author>Frédéric Peschanski</author>
+<author>Jean-Pierre Briot</author>
+<title>Adaptations dynamiques et orthogonales de composants logiciels distribués.</title>
+<pages>151-174</pages>
+<year>2004</year>
+<volume>23</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>2</number>
+<url>db/journals/tsi/tsi23.html#PeschanskiB04</url>
+</article>
+</r>
+<r><inproceedings key="conf/jfsma/GuessoumBFM04" mdate="2012-03-11">
+<author>Zahia Guessoum</author>
+<author>Jean-Pierre Briot</author>
+<author>Nora Faci</author>
+<author>Olivier Marin</author>
+<title>Un mécanisme de réplication adaptative pour des SMA tolérants aux pannes.</title>
+<pages>135-148</pages>
+<year>2004</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2004</crossref>
+<url>db/conf/jfsma/jfsma2004.html#GuessoumBFM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmas/GuessoumBF04" mdate="2018-11-02">
+<author>Zahia Guessoum</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Nora Faci</author>
+<title>Towards Fault-Tolerant Massively Multiagent Systems.</title>
+<pages>55-69</pages>
+<year>2004</year>
+<crossref>conf/mmas/2004</crossref>
+<booktitle>MMAS</booktitle>
+<url>db/conf/mmas/mmas2004.html#GuessoumBF04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/Nguyen-DucBDD03" mdate="2017-05-23">
+<author>Minh Nguyen-Duc</author>
+<author>Jean-Pierre Briot</author>
+<author>Alexis Drogoul</author>
+<author>Vu Duong</author>
+<title>An application of Multi-Agent Coordination Techniques in Air Traffic Management.</title>
+<pages>622-628</pages>
+<year>2003</year>
+<crossref>conf/iat/2003</crossref>
+<booktitle>IAT</booktitle>
+<url>db/conf/iat/iat2003.html#Nguyen-DucBDD03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/PeschanskiBY03" mdate="2018-11-02">
+<author>Frédéric Peschanski</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Akinori Yonezawa</author>
+<title>Fine-Grained Dynamic Adaptation of Distributed Components.</title>
+<pages>123-142</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003</crossref>
+<booktitle>Middleware</booktitle>
+<url>db/conf/middleware/middleware2003.html#PeschanskiBY03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rivf/Nguyen-DucDBD03" mdate="2004-02-04">
+<author>Minh Nguyen-Duc</author>
+<author>Vu Duong</author>
+<author>Jean-Pierre Briot</author>
+<author>Alexis Drogoul</author>
+<title>Multi-Agent coordination techniques applied to Air Traffic Control.</title>
+<pages>59-64</pages>
+<year>2003</year>
+<crossref>conf/rivf/2003</crossref>
+<booktitle>RIVF</booktitle>
+<url>db/conf/rivf/rivf2003.html#Nguyen-DucDBD03</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/jfsma/2003" mdate="2014-03-17">
+<editor>Jean-Pierre Briot</editor>
+<editor>Khaled Guédira</editor>
+<title>Déploiement des Systemes Multi-Agents - vers un passage à l'échelle - JFSMA 2003 - Actes des 11èmes Journées Francophones sur les Systèmes Multi-Agents (JFSMA'2003), Hammamet, Tunisia, October 27-29, 2003</title>
+<year>2003</year>
+<isbn>2-7462-0810-5</isbn>
+<publisher>Lavoisier</publisher>
+<booktitle>JFSMA</booktitle>
+<note>Revue des Sciences et Technologies de l'Information (RSTI), Special Issue</note>
+</proceedings>
+</r>
+<r><inproceedings key="conf/atal/GuessoumBCMS02" mdate="2019-12-18">
+<author>Zahia Guessoum</author>
+<author>Jean-Pierre Briot</author>
+<author>S. Charpentier</author>
+<author>Olivier Marin</author>
+<author orcid="0000-0002-5156-7715">Pierre Sens 0001</author>
+<title>A fault-tolerant multi-agent framework.</title>
+<pages>672-673</pages>
+<year>2002</year>
+<crossref>conf/atal/2002</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2002.html#GuessoumBCMS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/selmas/GuessoumBMHS02" mdate="2019-12-18">
+<author>Zahia Guessoum</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author orcid="0000-0002-6806-2684">Olivier Marin</author>
+<author>Athmane Hamel</author>
+<author>Pierre Sens 0001</author>
+<title>Dynamic and Adaptive Replication for Large-Scale Reliable Multi-agent Systems.</title>
+<pages>182-198</pages>
+<year>2002</year>
+<crossref>conf/selmas/2002</crossref>
+<booktitle>SELMAS</booktitle>
+<url>db/conf/selmas/selmas2002.html#GuessoumBMHS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/masa/BriotMC01" mdate="2018-11-02">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Angélica Muñoz-Meléndez</author>
+<author>Alain Cardon</author>
+<title>Adaptability and Embodiment Using Multi-Agent Systems.</title>
+<pages>211-212</pages>
+<year>2001</year>
+<crossref>conf/masa/2001</crossref>
+<booktitle>Multi-Agent-Systems and Applications</booktitle>
+<url>db/conf/masa/masa2001.html#BriotMC01</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieeecc/GuessoumB99" mdate="2018-11-02">
+<author>Zahia Guessoum</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>From Active Objects to Autonomous Agents.</title>
+<pages>68-76</pages>
+<year>1999</year>
+<volume>7</volume>
+<journal>IEEE Concurrency</journal>
+<number>3</number>
+<url>db/journals/ieeecc/ieeecc7.html#GuessoumB99</url>
+</article>
+</r>
+<r><inproceedings key="conf/collaboration/BriotG99" mdate="2019-09-16">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Rachid Guerraoui</author>
+<title>A Classification of Various Approaches for Object-Based Parallel and Distributed Prgramming.</title>
+<pages>3-29</pages>
+<year>1999</year>
+<crossref>conf/collaboration/1999</crossref>
+<booktitle>Collaboration between Human and Artificial Societies</booktitle>
+<url>db/conf/collaboration/collaboration1999.html#BriotG99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/GuillemetHMBL99" mdate="2013-07-17">
+<author>Alexandre Guillemet</author>
+<author>Grégory Haïk</author>
+<author>Thomas Meurisse</author>
+<author>Jean-Pierre Briot</author>
+<author>Marc Lhuillier</author>
+<title>Mise en oeuvre d'une approche componentielle pour la conception d'agents.</title>
+<pages>53-65</pages>
+<year>1999</year>
+<booktitle>JFIADSMA</booktitle>
+<crossref>conf/jfsma/1999</crossref>
+<url>db/conf/jfsma/jfsma1999.html#GuillemetHMBL99</url>
+</inproceedings>
+</r>
+<r><article key="journals/csur/BriotGL98" mdate="2019-09-16">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Rachid Guerraoui</author>
+<author>Klaus-Peter Löhr</author>
+<title>Concurrency and Distribution in Object-Oriented Programming.</title>
+<pages>291-329</pages>
+<year>1998</year>
+<volume>30</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>3</number>
+<url>db/journals/csur/csur30.html#BriotGL98</url>
+</article>
+</r>
+<r><article key="journals/ieeecc/KafuraB98" mdate="2017-05-18">
+<author>Dennis G. Kafura</author>
+<author>Jean-Pierre Briot</author>
+<title>Actors And Agents.</title>
+<pages>24-29</pages>
+<year>1998</year>
+<volume>6</volume>
+<journal>IEEE Concurrency</journal>
+<number>2</number>
+<url>db/journals/ieeecc/ieeecc6.html#KafuraB98</url>
+</article>
+</r>
+<r><article key="journals/ieeecc/Briot98" mdate="2017-05-18">
+<author>Jean-Pierre Briot</author>
+<title>Agents and concurrent objects.</title>
+<pages>74-77</pages>
+<year>1998</year>
+<volume>6</volume>
+<journal>IEEE Concurrency</journal>
+<number>4</number>
+<url>db/journals/ieeecc/ieeecc6.html#Briot98</url>
+</article>
+</r>
+<r><inproceedings key="conf/wetice/WooBF98" mdate="2017-05-26">
+<author>Min-Jung Woo</author>
+<author>Jean-Pierre Briot</author>
+<author>Jacques Ferber</author>
+<title>Using Components for Modeling Intelligent and Collaborative Mobile Agents.</title>
+<pages>276-281</pages>
+<year>1998</year>
+<crossref>conf/wetice/1998</crossref>
+<booktitle>WETICE</booktitle>
+<url>db/conf/wetice/wetice1998.html#WooBF98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isotas/Briot96" mdate="2018-11-02">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>An Experiment in Classification and Specialization of Synchronization Schemes.</title>
+<pages>227-249</pages>
+<year>1996</year>
+<crossref>conf/isotas/1996</crossref>
+<booktitle>ISOTAS</booktitle>
+<url>db/conf/isotas/isotas1996.html#Briot96</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/obpdc/1995" mdate="2019-05-14">
+<editor orcid="0000-0003-1621-6335">Jean-Pierre Briot</editor>
+<editor>Jean-Marc Geib</editor>
+<editor>Akinori Yonezawa</editor>
+<title>Object-Based Parallel and Distributed Computation, France-Japan Workshop, OBPDC '95, Tokyo, Japan, June 21-23, 1995, Selected Papers</title>
+<booktitle>OBPDC</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1107</volume>
+<publisher>Springer</publisher>
+<year>1996</year>
+<isbn>3-540-61487-7</isbn>
+<url>db/conf/obpdc/obpdc1995.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/iccl/BahsounBCFNW94" mdate="2019-02-11">
+<author>Jean Paul Bahsoun</author>
+<author>Jean-Pierre Briot</author>
+<author>Denis Caromel</author>
+<author>Louis Féraud</author>
+<author>Oscar Nierstrasz</author>
+<author>Peter Wegner</author>
+<title>How could object-oriented concepts and parallelism cohabit?</title>
+<pages>195-199</pages>
+<year>1994</year>
+<crossref>conf/iccl/1994</crossref>
+<booktitle>ICCL</booktitle>
+<url>db/conf/iccl/iccl1994.html#BahsounBCFNW94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lmo/Briot94" mdate="2007-04-24">
+<author>Jean-Pierre Briot</author>
+<title>Modélisation et classification de langages de programmation concurrente à objets : l'expérience Actalk.</title>
+<pages>153-165</pages>
+<year>1994</year>
+<crossref>conf/lmo/1994</crossref>
+<booktitle>LMO</booktitle>
+<url>db/conf/lmo/lmo1994.html#Briot94</url>
+</inproceedings>
+</r>
+<r><article key="journals/oopsm/Briot93" mdate="2019-09-16">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>Object-oriented concurrent programming (abstract).</title>
+<pages>218</pages>
+<year>1993</year>
+<volume>4</volume>
+<journal>OOPS Messenger</journal>
+<number>2</number>
+<url>db/journals/oopsm/oopsm4.html#Briot93</url>
+</article>
+</r>
+<r><inproceedings key="conf/tools/Briot91" mdate="2007-04-25">
+<author>Jean-Pierre Briot</author>
+<title>Concurrency in Object-Oriented Systems.</title>
+<pages>447-448</pages>
+<year>1991</year>
+<crossref>conf/tools/5-1991</crossref>
+<booktitle>TOOLS (5)</booktitle>
+<url>db/conf/tools/tools05-1991.html#Briot91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tools/LescaudronBB91" mdate="2007-04-25">
+<author>Loïc Lescaudron</author>
+<author>Jean-Pierre Briot</author>
+<author>Malik Bouabsa</author>
+<title>Associated Paper: Prototyping Programming Environments for Object-Oriented Concurrent Languages: a Smalltalk-Based Experience.</title>
+<pages>449-462</pages>
+<year>1991</year>
+<crossref>conf/tools/5-1991</crossref>
+<booktitle>TOOLS (5)</booktitle>
+<url>db/conf/tools/tools05-1991.html#LescaudronBB91</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigplan/BriotR89" mdate="2018-11-06">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Jean de Ratuld</author>
+<title>Design of a distributed implementation of ABCL/I.</title>
+<pages>15-17</pages>
+<year>1989</year>
+<volume>24</volume>
+<journal>SIGPLAN Notices</journal>
+<number>4</number>
+<url>db/journals/sigplan/sigplan24.html#BriotR89</url>
+</article>
+</r>
+<r><article key="journals/sigplan/Briot89" mdate="2018-11-06">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<title>From objects to actors: study of a limited symbiosis in smalltalk-80.</title>
+<pages>69-72</pages>
+<year>1989</year>
+<volume>24</volume>
+<journal>SIGPLAN Notices</journal>
+<number>4</number>
+<url>db/journals/sigplan/sigplan24.html#Briot89</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecoop/Briot89" mdate="2012-05-18">
+<author>Jean-Pierre Briot</author>
+<title>Actalk: A Testbed for Classifying and Designing Actor Languages in the Smalltalk-80 Environment.</title>
+<pages>109-129</pages>
+<year>1989</year>
+<crossref>conf/ecoop/1989</crossref>
+<booktitle>ECOOP</booktitle>
+<url>db/conf/ecoop/ecoop89.html#Briot89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/BriotC89" mdate="2018-11-14">
+<author>Jean-Pierre Briot</author>
+<author>Pierre Cointe</author>
+<title>Programming with Explicit Metaclasses in Smalltalk-80.</title>
+<pages>419-431</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#BriotC89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fgcs/FerberB88" mdate="2019-07-31">
+<author>Jacques Ferber</author>
+<author>Jean-Pierre Briot</author>
+<title>Design of a Concurrent Language for Distributed Artificial Intelligence.</title>
+<pages>755-762</pages>
+<year>1988</year>
+<crossref>conf/fgcs/1988</crossref>
+<booktitle>FGCS</booktitle>
+<url>db/conf/fgcs/fgcs88.html#FerberB88</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoop/BriotY87" mdate="2018-11-02">
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Akinori Yonezawa</author>
+<title>Inheritance and Synchronization in Concurrent OOP.</title>
+<pages>32-40</pages>
+<year>1987</year>
+<crossref>conf/ecoop/1987</crossref>
+<booktitle>ECOOP</booktitle>
+<url>db/conf/ecoop/ecoop87.html#BriotY87</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BriotC87" mdate="2019-08-20">
+<author>Jean-Pierre Briot</author>
+<author>Pierre Cointe</author>
+<title>A Uniform Model for Object-Oriented Languages Using the Class Abstraction.</title>
+<pages>40-43</pages>
+<year>1987</year>
+<crossref>conf/ijcai/1987</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai87.html#BriotC87</url>
+<ee type="oa">http://ijcai.org/Proceedings/87-1/Papers/008.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BriotC86" mdate="2019-07-30">
+<author>Jean-Pierre Briot</author>
+<author>Pierre Cointe</author>
+<title>The OBJVLISP Model: Definition of a Uniform, Reflexive and Extensible Object Oriented Language.</title>
+<pages>225-232</pages>
+<year>1986</year>
+<crossref>conf/ecai/1986</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai86.html#BriotC86</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/YonezawaBS86" mdate="2018-11-06">
+<author>Akinori Yonezawa</author>
+<author orcid="0000-0003-1621-6335">Jean-Pierre Briot</author>
+<author>Etsuya Shibayama</author>
+<title>Object-Oriented Concurrent Programming in ABCL/1.</title>
+<pages>258-268</pages>
+<year>1986</year>
+<crossref>conf/oopsla/1986</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla86.html#YonezawaBS86</url>
+</inproceedings>
+</r>
+<coauthors n="93" nc="2">
+<co c="0"><na f="a/Affeldt:Reynald">Reynald Affeldt</na></co>
+<co c="0"><na f="a/Aknine:Samir">Samir Aknine</na></co>
+<co c="0"><na f="a/Almeida:A=_L=">A. L. Almeida</na></co>
+<co c="0"><na f="a/Almeida:Alessandro_de_Luna">Alessandro de Luna Almeida</na></co>
+<co c="0"><na f="a/Almeida:Vitor_Pinheiro_de">Vitor Pinheiro de Almeida</na></co>
+<co c="0"><na f="a/Alvarez:Isabelle">Isabelle Alvarez</na></co>
+<co c="0"><na f="b/Bahsoun:Jean_Paul">Jean Paul Bahsoun</na></co>
+<co c="0" n="2"><na f="b/Barbosa:Simone_D=_J=">Simone D. J. Barbosa</na><na>Simone Diniz Junqueira Barbosa</na></co>
+<co c="0"><na f="b/Bayser:Ma=iacute=ra_Gatti_de">Maíra Gatti de Bayser</na></co>
+<co c="0"><na f="b/Bertier:Marin">Marin Bertier</na></co>
+<co c="1"><na f="b/Bouabsa:Malik">Malik Bouabsa</na></co>
+<co c="0"><na f="b/Braubach:Lars">Lars Braubach</na></co>
+<co c="0"><na f="b/Braz:Alan">Alan Braz</na></co>
+<co c="0"><na f="b/Breitman:Karin_K=">Karin K. Breitman</na></co>
+<co c="0"><na f="c/Cabral_0001:Giordano">Giordano Cabral 0001</na></co>
+<co c="0"><na f="c/Candello:Heloisa">Heloisa Candello</na></co>
+<co c="0"><na f="c/Cardon:Alain">Alain Cardon</na></co>
+<co c="0"><na f="c/Caromel:Denis">Denis Caromel</na></co>
+<co c="0"><na f="c/Carvalho:Gustavo_R=_de">Gustavo R. de Carvalho</na></co>
+<co c="0"><na f="c/Cavalin:Paulo_Rodrigo">Paulo Rodrigo Cavalin</na></co>
+<co c="0"><na f="c/Charif:Yasmine">Yasmine Charif</na></co>
+<co c="0"><na f="c/Charpentier:S=">S. Charpentier</na></co>
+<co c="0"><na f="c/Chopinaud:Caroline">Caroline Chopinaud</na></co>
+<co c="0"><na f="c/Choren:Ricardo">Ricardo Choren</na></co>
+<co c="0"><na f="c/Cointe:Pierre">Pierre Cointe</na></co>
+<co c="0"><na f="d/Drogoul:Alexis">Alexis Drogoul</na></co>
+<co c="0"><na f="d/Duong:Vu">Vu Duong</na></co>
+<co c="0"><na f="e/Endler:Markus">Markus Endler</na></co>
+<co c="0" n="2"><na f="f/Faci:Noura">Noura Faci</na><na>Nora Faci</na></co>
+<co c="0"><na f="f/Fallah=Seghrouchni:Amal_El">Amal El Fallah-Seghrouchni</na></co>
+<co c="0"><na f="f/Felic=iacute=ssimo:Carolina_Howard">Carolina Howard Felicíssimo</na></co>
+<co c="0"><na f="f/F=eacute=raud:Louis">Louis Féraud</na></co>
+<co c="0"><na f="f/Ferber:Jacques">Jacques Ferber</na></co>
+<co c="0"><na f="f/Filho:Eurico_Vasconcelos">Eurico Vasconcelos Filho</na></co>
+<co c="0"><na f="f/Furtado:Vasco">Vasco Furtado</na></co>
+<co c="0"><na f="g/Gatti:Ma=iacute=ra_A=_de_C=">Maíra A. de C. Gatti</na></co>
+<co c="0"><na f="g/Geib:Jean=Marc">Jean-Marc Geib</na></co>
+<co c="-1"><na f="g/Gu=eacute=dira:Khaled">Khaled Guédira</na></co>
+<co c="0"><na f="g/Guerraoui:Rachid">Rachid Guerraoui</na></co>
+<co c="0"><na f="g/Guessoum:Zahia">Zahia Guessoum</na></co>
+<co c="0"><na f="g/Guillemet:Alexandre">Alexandre Guillemet</na></co>
+<co c="0"><na f="h/Hadjeres:Ga=euml=tan">Gaëtan Hadjeres</na></co>
+<co c="0"><na f="h/Haeusler:Edward_Hermann">Edward Hermann Haeusler</na></co>
+<co c="0"><na f="h/Ha=iuml=k:Gr=eacute=gory">Grégory Haïk</na></co>
+<co c="0"><na f="h/Hamel:Athmane">Athmane Hamel</na></co>
+<co c="0"><na f="h/Honiden:Shinichi">Shinichi Honiden</na></co>
+<co c="0"><na f="i/Irving:Marta_de_Azevedo">Marta de Azevedo Irving</na></co>
+<co c="0"><na f="i/Irving:Martha">Martha Irving</na></co>
+<co c="-1"><na f="k/Kafura:Dennis_G=">Dennis G. Kafura</na></co>
+<co c="0"><na f="l/Lenica:A=">A. Lenica</na></co>
+<co c="1"><na f="l/Lescaudron:Lo=iuml=c">Loïc Lescaudron</na></co>
+<co c="0"><na f="l/Lhuillier:Marc">Marc Lhuillier</na></co>
+<co c="0"><na f="l/L=ouml=hr:Klaus=Peter">Klaus-Peter Löhr</na></co>
+<co c="0" n="2"><na f="l/Lucena:Carlos_Jos=eacute=_Pereira_de">Carlos José Pereira de Lucena</na><na>Carlos Lucena</na></co>
+<co c="0"><na f="m/Malenfant:Jacques">Jacques Malenfant</na></co>
+<co c="0"><na f="m/Marin:Olivier">Olivier Marin</na></co>
+<co c="0"><na f="m/Martin:Sophie">Sophie Martin</na></co>
+<co c="0" n="2"><na f="m/Melo:Gustavo">Gustavo Melo</na><na>Gustavo Mendes de Melo</na></co>
+<co c="0"><na f="m/Meurisse:Thomas">Thomas Meurisse</na></co>
+<co c="0"><na f="m/Mu=ntilde=oz=Mel=eacute=ndez:Ang=eacute=lica">Angélica Muñoz-Meléndez</na></co>
+<co c="0"><na f="n/Nascimento:Nathalia_Moraes_do">Nathalia Moraes do Nascimento</na></co>
+<co c="0"><na f="n/Nguyen=Duc:Minh">Minh Nguyen-Duc</na></co>
+<co c="0"><na f="n/Nierstrasz:Oscar">Oscar Nierstrasz</na></co>
+<co c="0"><na f="o/Ogel:Frederic">Frederic Ogel</na></co>
+<co c="0"><na f="p/Pachet:Fran=ccedil=ois">François Pachet</na></co>
+<co c="0"><na f="p/Pachet:Fran=ccedil=ois=David">François-David Pachet</na></co>
+<co c="0"><na f="p/Paes:Rodrigo_B=_de">Rodrigo B. de Paes</na></co>
+<co c="0"><na f="p/Perrot:Jean=Fran=ccedil=ois">Jean-François Perrot</na></co>
+<co c="0"><na f="p/Peschanski:Fr=eacute=d=eacute=ric">Frédéric Peschanski</na></co>
+<co c="0"><na f="p/Pinhanez:Claudio_S=">Claudio S. Pinhanez</na></co>
+<co c="0"><na f="q/Queinnec:Christian">Christian Queinnec</na></co>
+<co c="0" n="2"><na f="q/Quenum:Jos=eacute=_G=">José G. Quenum</na><na>José Ghislain Quenum</na></co>
+<co c="-1"><na f="r/Ratuld:Jean_de">Jean de Ratuld</na></co>
+<co c="0"><na f="r/Reis:Ruhan_dos">Ruhan dos Reis</na></co>
+<co c="0"><na f="r/Rodriguez:Noemi_de_La_Rocque">Noemi de La Rocque Rodriguez</na></co>
+<co c="0"><na f="r/Rossetto:Silvana">Silvana Rossetto</na></co>
+<co c="0"><na f="s/Sabouret:Nicolas">Nicolas Sabouret</na></co>
+<co c="0"><na f="s/Sebba=Patto:Vin=iacute=cius">Vinícius Sebba-Patto</na></co>
+<co c="0"><na f="s/Sens_0001:Pierre">Pierre Sens 0001</na></co>
+<co c="0"><na f="s/Shibayama:Etsuya">Etsuya Shibayama</na></co>
+<co c="0"><na f="s/Silva:Francisco_Silva_E=">Francisco Silva E. Silva</na></co>
+<co c="0"><na f="s/Silvestre:Bruno">Bruno Silvestre</na></co>
+<co c="0"><na f="s/Sordoni:Alessandro">Alessandro Sordoni</na></co>
+<co c="0"><na f="s/Souza:Renan">Renan Souza</na></co>
+<co c="0"><na f="t/Thangarajah:John">John Thangarajah</na></co>
+<co c="0"><na f="v/Velmovitsky:Pedro_Elkind">Pedro Elkind Velmovitsky</na></co>
+<co c="0"><na f="v/Viana:Marx_L=">Marx L. Viana</na></co>
+<co c="0" n="2"><na f="v/Viterbo:Jos=eacute=">José Viterbo</na><na>José Viterbo Filho</na></co>
+<co c="0"><na f="w/Wegner:Peter">Peter Wegner</na></co>
+<co c="0"><na f="w/Wei_0014:Wei">Wei Wei 0014</na></co>
+<co c="0"><na f="w/Woo:Min=Jung">Min-Jung Woo</na></co>
+<co c="0"><na f="y/Yonezawa:Akinori">Akinori Yonezawa</na></co>
+<co c="0"><na f="z/Zaleski:Laetitia">Laetitia Zaleski</na></co>
+</coauthors>
+</dblpperson>
+

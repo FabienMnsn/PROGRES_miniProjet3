@@ -1,0 +1,3851 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Sébastien Tixeuil" n="298">
+<person key="homepages/t/SebastienTixeuil" mdate="2018-10-02">
+<author>Sébastien Tixeuil</author>
+<note type="affiliation">University of Paris-Sud, Laboratory for Computer Science (LRI), France</note>
+<url>http://www.lri.fr/~tixeuil/</url>
+<url>https://orcid.org/0000-0002-0948-7172</url>
+</person>
+<r><article key="journals/computing/DevismesLPT19" mdate="2019-08-21">
+<author>Stéphane Devismes</author>
+<author>Anissa Lamani</author>
+<author>Franck Petit</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal torus exploration by oblivious robots.</title>
+<pages>1241-1264</pages>
+<year>2019</year>
+<volume>101</volume>
+<journal>Computing</journal>
+<number>9</number>
+<url>db/journals/computing/computing101.html#DevismesLPT19</url>
+</article>
+</r>
+<r><article key="journals/jbcs/BonomiFT19" mdate="2019-09-13">
+<author>Silvia Bonomi</author>
+<author orcid="0000-0002-4792-5305">Giovanni Farina</author>
+<author>Sébastien Tixeuil</author>
+<title>Multi-hop Byzantine reliable broadcast with honest dealer made practical.</title>
+<pages>9:1-9:23</pages>
+<year>2019</year>
+<volume>25</volume>
+<number>1</number>
+<journal>J. Braz. Comp. Soc.</journal>
+<ee type="oa">https://doi.org/10.1186/s13173-019-0090-x</ee>
+<url>db/journals/jbcs/jbcs25.html#BonomiFT19</url>
+</article>
+</r>
+<r><article key="journals/mst/BalabonskiDRTU19" mdate="2019-04-12">
+<author>Thibaut Balabonski</author>
+<author>Amélie Delga</author>
+<author>Lionel Rieg</author>
+<author orcid="0000-0002-0948-7172">Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>Synchronous Gathering without Multiplicity Detection: a Certified Algorithm.</title>
+<pages>200-218</pages>
+<year>2019</year>
+<volume>63</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/mst/mst63.html#BalabonskiDRTU19</url>
+</article>
+</r>
+<r><article key="journals/mst/BramasFNT19" mdate="2019-04-12">
+<author>Quentin Bramas</author>
+<author orcid="0000-0002-5449-2755">Dianne Foreback</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Packet Efficient Implementation of the Omega Failure Detector.</title>
+<pages>237-260</pages>
+<year>2019</year>
+<volume>63</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/mst/mst63.html#BramasFNT19</url>
+</article>
+</r>
+<r><article key="journals/tcs/BampasBCILPT19" mdate="2018-11-30">
+<author>Evangelos Bampas</author>
+<author>Lélia Blin</author>
+<author>Jurek Czyzowicz</author>
+<author>David Ilcinkas</author>
+<author>Arnaud Labourel</author>
+<author>Maria Potop-Butucaru</author>
+<author orcid="0000-0002-0948-7172">Sébastien Tixeuil</author>
+<title>On asynchronous rendezvous in general graphs.</title>
+<pages>80-90</pages>
+<year>2019</year>
+<volume>753</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs753.html#BampasBCILPT19</url>
+</article>
+</r>
+<r><article key="journals/tcs/BonomiPPT19" mdate="2019-05-29">
+<author orcid="0000-0001-9928-5357">Silvia Bonomi</author>
+<author>Antonella Del Pozzo</author>
+<author>Maria Potop-Butucaru</author>
+<author orcid="0000-0002-0948-7172">Sébastien Tixeuil</author>
+<title>Approximate Agreement under Mobile Byzantine Faults.</title>
+<pages>17-29</pages>
+<year>2019</year>
+<volume>758</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs758.html#BonomiPPT19</url>
+</article>
+</r>
+<r><inproceedings key="conf/fmec/0001NT19" mdate="2019-08-22">
+<author>Nesrine Ammar 0001</author>
+<author>Ludovic Noirie</author>
+<author>Sébastien Tixeuil</author>
+<title>Network-Protocol-Based IoT Device Identification.</title>
+<pages>204-209</pages>
+<year>2019</year>
+<booktitle>FMEC</booktitle>
+<crossref>conf/fmec/2019</crossref>
+<url>db/conf/fmec/fmec2019.html#0001NT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netys/BalabonskiCPRTU19" mdate="2019-09-16">
+<author>Thibaut Balabonski</author>
+<author>Pierre Courtieu</author>
+<author>Robin Pelle</author>
+<author>Lionel Rieg</author>
+<author>Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>Continuous vs. Discrete Asynchronous Moves: A Certified Approach for Mobile Robots.</title>
+<pages>93-109</pages>
+<year>2019</year>
+<booktitle>NETYS</booktitle>
+<crossref>conf/netys/2019</crossref>
+<url>db/conf/netys/netys2019.html#BalabonskiCPRTU19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netys/BramasMT19" mdate="2019-09-16">
+<author>Quentin Bramas</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Distributed Online Data Aggregation in Dynamic Graphs.</title>
+<pages>365-380</pages>
+<year>2019</year>
+<booktitle>NETYS</booktitle>
+<crossref>conf/netys/2019</crossref>
+<url>db/conf/netys/netys2019.html#BramasMT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/HeribanT19" mdate="2019-07-15">
+<author>Adam Heriban</author>
+<author>Sébastien Tixeuil</author>
+<title>Mobile Robots with Uncertain Visibility Sensors.</title>
+<pages>349-352</pages>
+<year>2019</year>
+<booktitle>SIROCCO</booktitle>
+<crossref>conf/sirocco/2019</crossref>
+<url>db/conf/sirocco/sirocco2019.html#HeribanT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tma/0001NT19" mdate="2019-08-12">
+<author>Nesrine Ammar 0001</author>
+<author>Ludovic Noirie</author>
+<author>Sébastien Tixeuil</author>
+<title>Autonomous IoT Device Identification Prototype.</title>
+<pages>195-196</pages>
+<year>2019</year>
+<booktitle>TMA</booktitle>
+<crossref>conf/tma/2019</crossref>
+<url>db/conf/tma/tma2019.html#0001NT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/DefagoHTW19" mdate="2019-10-12">
+<author>Xavier Défago</author>
+<author>Adam Heriban</author>
+<author>Sébastien Tixeuil</author>
+<author orcid="0000-0002-5351-1459">Koichi Wada</author>
+<title>Brief Announcement: Model Checking Rendezvous Algorithms for Robots with Lights in Euclidean Space.</title>
+<pages>41:1-41:3</pages>
+<year>2019</year>
+<booktitle>DISC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.DISC.2019.41</ee>
+<crossref>conf/wdag/2019</crossref>
+<url>db/conf/wdag/disc2019.html#DefagoHTW19</url>
+</inproceedings>
+</r>
+<r><incollection key="series/lncs/DefagoPT19" mdate="2019-02-20">
+<author>Xavier Défago</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Fault-Tolerant Mobile Robots.</title>
+<pages>234-251</pages>
+<year>2019</year>
+<booktitle>Distributed Computing by Mobile Entities</booktitle>
+<crossref>series/lncs/11340</crossref>
+<url>db/series/lncs/lncs11340.html#DefagoPT19</url>
+</incollection>
+</r>
+<r><incollection key="series/lncs/Potop-ButucaruSTU19" mdate="2019-02-20">
+<author>Maria Potop-Butucaru</author>
+<author>Nathalie Sznajder</author>
+<author>Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>Formal Methods for Mobile Robots.</title>
+<pages>278-313</pages>
+<year>2019</year>
+<booktitle>Distributed Computing by Mobile Entities</booktitle>
+<crossref>series/lncs/11340</crossref>
+<url>db/series/lncs/lncs11340.html#Potop-ButucaruSTU19</url>
+</incollection>
+</r>
+<r><proceedings key="conf/sss/2019" mdate="2019-11-18">
+<editor>Mohsen Ghaffari</editor>
+<editor>Mikhail Nesterenko</editor>
+<editor>Sébastien Tixeuil</editor>
+<editor>Sara Tucci</editor>
+<editor>Yukiko Yamauchi</editor>
+<title>Stabilization, Safety, and Security of Distributed Systems - 21st International Symposium, SSS 2019, Pisa, Italy, October 22-25, 2019, Proceedings</title>
+<booktitle>SSS</booktitle>
+<publisher>Springer</publisher>
+<year>2019</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11914</volume>
+<isbn>978-3-030-34991-2</isbn>
+<isbn>978-3-030-34992-9</isbn>
+<url>db/conf/sss/sss2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-08988" mdate="2019-04-01">
+<author>Silvia Bonomi</author>
+<author>Giovanni Farina</author>
+<author>Sébastien Tixeuil</author>
+<title>Multi-hop Byzantine Reliable Broadcast Made Practical.</title>
+<year>2019</year>
+<volume>abs/1903.08988</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.08988</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-08988</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-09177" mdate="2019-05-29">
+<author>Ulysse Léchine</author>
+<author>Sébastien Tixeuil</author>
+<title>Asynchronous Scattering.</title>
+<year>2019</year>
+<volume>abs/1905.09177</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.09177</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-09177</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-09871" mdate="2019-07-30">
+<author>Xavier Défago</author>
+<author>Adam Heriban</author>
+<author>Sébastien Tixeuil</author>
+<author>Koichi Wada</author>
+<title>Using Model Checking to Formally Verify Rendezvous Algorithms for Robots with Lights in Euclidean Space.</title>
+<year>2019</year>
+<volume>abs/1907.09871</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.09871</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-09871</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-04757" mdate="2019-12-02">
+<author>Sayaka Kamei</author>
+<author>Anissa Lamani</author>
+<author>Fukuhito Ooshita</author>
+<author>Sébastien Tixeuil</author>
+<author>Koichi Wada</author>
+<title>Gathering on Rings for Myopic Asynchronous Robots with Lights.</title>
+<year>2019</year>
+<volume>abs/1911.04757</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.04757</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-04757</url>
+</article>
+</r>
+<r><article key="journals/dc/BlinT18" mdate="2018-03-15">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Compact deterministic self-stabilizing leader election on a ring: the exponential advantage of being talkative.</title>
+<pages>139-166</pages>
+<year>2018</year>
+<volume>31</volume>
+<journal>Distributed Computing</journal>
+<number>2</number>
+<url>db/journals/dc/dc31.html#BlinT18</url>
+</article>
+</r>
+<r><article key="journals/lmcs/FaghihBTK18" mdate="2018-08-09">
+<author>Fathiyeh Faghih</author>
+<author>Borzoo Bonakdarpour</author>
+<author>Sébastien Tixeuil</author>
+<author>Sandeep S. Kulkarni</author>
+<title>Automated Synthesis of Distributed Self-Stabilizing Protocols.</title>
+<year>2018</year>
+<volume>14</volume>
+<journal>Logical Methods in Computer Science</journal>
+<number>1</number>
+<url>db/journals/lmcs/lmcs14.html#FaghihBTK18</url>
+</article>
+</r>
+<r><article key="journals/tcs/IzumiKPT18" mdate="2018-11-30">
+<author>Taisuke Izumi</author>
+<author>Daichi Kaino</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author orcid="0000-0002-0948-7172">Sébastien Tixeuil</author>
+<title>On time complexity for connectivity-preserving scattering of mobile robots.</title>
+<pages>42-52</pages>
+<year>2018</year>
+<volume>738</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs738.html#IzumiKPT18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcn/HeribanDT18" mdate="2018-11-06">
+<author>Adam Heriban</author>
+<author>Xavier Défago</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimally Gathering Two Robots.</title>
+<pages>3:1-3:10</pages>
+<year>2018</year>
+<booktitle>ICDCN</booktitle>
+<crossref>conf/icdcn/2018</crossref>
+<url>db/conf/icdcn/icdcn2018.html#HeribanDT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcn/BalabonskiPRT18" mdate="2018-11-06">
+<author>Thibaut Balabonski</author>
+<author>Robin Pelle</author>
+<author>Lionel Rieg</author>
+<author>Sébastien Tixeuil</author>
+<title>A Foundational Framework for Certified Impossibility Results with Mobile Robots on Graphs.</title>
+<pages>5:1-5:10</pages>
+<year>2018</year>
+<booktitle>ICDCN</booktitle>
+<crossref>conf/icdcn/2018</crossref>
+<url>db/conf/icdcn/icdcn2018.html#BalabonskiPRT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcn/AdamekNRT18" mdate="2018-11-06">
+<author>Jordan Adamek</author>
+<author>Mikhail Nesterenko</author>
+<author>James Scott Robinson</author>
+<author>Sébastien Tixeuil</author>
+<title>Concurrent Geometric Multicasting.</title>
+<pages>9:1-9:10</pages>
+<year>2018</year>
+<booktitle>ICDCN</booktitle>
+<crossref>conf/icdcn/2018</crossref>
+<url>db/conf/icdcn/icdcn2018.html#AdamekNRT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/BonomiFT18" mdate="2019-03-28">
+<author>Silvia Bonomi</author>
+<author>Giovanni Farina</author>
+<author>Sébastien Tixeuil</author>
+<title>Multi-hop Byzantine Reliable Broadcast Made Practical.</title>
+<pages>155-160</pages>
+<year>2018</year>
+<booktitle>LADC</booktitle>
+<crossref>conf/ladc/2018</crossref>
+<url>db/conf/ladc/ladc2018.html#BonomiFT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latin/BlinT18" mdate="2018-04-11">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Compact Self-Stabilizing Leader Election for General Networks.</title>
+<pages>161-173</pages>
+<year>2018</year>
+<booktitle>LATIN</booktitle>
+<crossref>conf/latin/2018</crossref>
+<url>db/conf/latin/latin2018.html#BlinT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netys/ForebackNT18" mdate="2019-01-08">
+<author>Dianne Foreback</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Churn Possibilities and Impossibilities.</title>
+<pages>303-317</pages>
+<year>2018</year>
+<booktitle>NETYS</booktitle>
+<crossref>conf/netys/2018</crossref>
+<url>db/conf/netys/netys2018.html#ForebackNT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netys/InoueT18" mdate="2019-01-08">
+<author>Michiko Inoue</author>
+<author>Sébastien Tixeuil</author>
+<title>Short Paper: Tight Bounds for Universal and Cautious Self-stabilizing 1-Maximal Matching.</title>
+<pages>334-339</pages>
+<year>2018</year>
+<booktitle>NETYS</booktitle>
+<crossref>conf/netys/2018</crossref>
+<url>db/conf/netys/netys2018.html#InoueT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BonomiFT18" mdate="2018-10-25">
+<author>Silvia Bonomi</author>
+<author>Giovanni Farina</author>
+<author>Sébastien Tixeuil</author>
+<title>Reliable Broadcast in Dynamic Networks with Locally Bounded Byzantine Failures.</title>
+<pages>170-185</pages>
+<year>2018</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2018</crossref>
+<url>db/conf/sss/sss2018.html#BonomiFT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/OoshitaT18" mdate="2018-10-25">
+<author>Fukuhito Ooshita</author>
+<author>Sébastien Tixeuil</author>
+<title>Ring Exploration with Myopic Luminous Robots.</title>
+<pages>301-316</pages>
+<year>2018</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2018</crossref>
+<url>db/conf/sss/sss2018.html#OoshitaT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BramasT18" mdate="2018-11-02">
+<author orcid="0000-0003-0612-5616">Quentin Bramas</author>
+<author>Sébastien Tixeuil</author>
+<title>Arbitrary Pattern Formation with Four Robots.</title>
+<pages>333-348</pages>
+<year>2018</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2018</crossref>
+<url>db/conf/sss/sss2018.html#BramasT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BonomiPPT18" mdate="2018-10-25">
+<author>Silvia Bonomi</author>
+<author>Antonella Del Pozzo</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief Announcement: Optimal Self-stabilizing Mobile Byzantine-Tolerant Regular Register with Bounded Timestamps.</title>
+<pages>398-403</pages>
+<year>2018</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2018</crossref>
+<url>db/conf/sss/sss2018.html#BonomiPPT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BalabonskiCPRTU18" mdate="2018-10-25">
+<author>Thibaut Balabonski</author>
+<author>Pierre Courtieu</author>
+<author>Robin Pelle</author>
+<author>Lionel Rieg</author>
+<author>Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>Brief Announcement Continuous vs. Discrete Asynchronous Moves: A Certified Approach for Mobile Robots.</title>
+<pages>404-408</pages>
+<year>2018</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2018</crossref>
+<url>db/conf/sss/sss2018.html#BalabonskiCPRTU18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-03965" mdate="2018-08-13">
+<author>Fukuhito Ooshita</author>
+<author>Sébastien Tixeuil</author>
+<title>Ring Exploration with Myopic Luminous Robots.</title>
+<year>2018</year>
+<volume>abs/1805.03965</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.03965</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-03965</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-01770" mdate="2018-11-22">
+<author>Silvia Bonomi</author>
+<author>Giovanni Farina</author>
+<author>Sébastien Tixeuil</author>
+<title>Reliable Broadcast in Dynamic Networks with Locally Bounded Byzantine Failures.</title>
+<year>2018</year>
+<volume>abs/1811.01770</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.01770</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-01770</url>
+</article>
+</r>
+<r><article key="journals/iandc/BramasT17" mdate="2017-07-31">
+<author>Quentin Bramas</author>
+<author>Sébastien Tixeuil</author>
+<title>The complexity of data aggregation in static and dynamic wireless sensor networks.</title>
+<pages>369-383</pages>
+<year>2017</year>
+<volume>255</volume>
+<journal>Inf. Comput.</journal>
+<url>db/journals/iandc/iandc255.html#BramasT17</url>
+</article>
+</r>
+<r><article key="journals/ijfcs/BramasT17" mdate="2017-05-05">
+<author>Quentin Bramas</author>
+<author>Sébastien Tixeuil</author>
+<title>The Random Bit Complexity of Mobile Robots Scattering.</title>
+<pages>111-134</pages>
+<year>2017</year>
+<volume>28</volume>
+<journal>Int. J. Found. Comput. Sci.</journal>
+<number>2</number>
+<url>db/journals/ijfcs/ijfcs28.html#BramasT17</url>
+</article>
+</r>
+<r><article key="journals/jpdc/AdamekFNT17" mdate="2018-11-30">
+<author>Jordan Adamek</author>
+<author orcid="0000-0002-4792-5305">Giovanni Farina</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Evaluating and optimizing stabilizing dining philosophers.</title>
+<pages>63-74</pages>
+<year>2017</year>
+<volume>109</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<url>db/journals/jpdc/jpdc109.html#AdamekFNT17</url>
+</article>
+</r>
+<r><inproceedings key="conf/fmcad/SangnierSPT17" mdate="2017-11-17">
+<author>Arnaud Sangnier</author>
+<author>Nathalie Sznajder</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Parameterized verification of algorithms for oblivious robots on a ring.</title>
+<pages>212-219</pages>
+<year>2017</year>
+<booktitle>FMCAD</booktitle>
+<crossref>conf/fmcad/2017</crossref>
+<url>db/conf/fmcad/fmcad2017.html#SangnierSPT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmics/BalabonskiCRTU17" mdate="2017-09-05">
+<author>Thibaut Balabonski</author>
+<author>Pierre Courtieu</author>
+<author>Lionel Rieg</author>
+<author>Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>Certified Gathering of Oblivious Mobile Robots: Survey of Recent Results and Open Problems.</title>
+<pages>165-181</pages>
+<year>2017</year>
+<booktitle>FMICS-AVoCS</booktitle>
+<crossref>conf/fmics/2017</crossref>
+<url>db/conf/fmics/fmics2017.html#BalabonskiCRTU17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/InoueOT17" mdate="2018-11-06">
+<author>Michiko Inoue</author>
+<author>Fukuhito Ooshita</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief Announcement: Efficient Self-Stabilizing 1-Maximal Matching Algorithm for Arbitrary Networks.</title>
+<pages>411-413</pages>
+<year>2017</year>
+<booktitle>PODC</booktitle>
+<crossref>conf/podc/2017</crossref>
+<url>db/conf/podc/podc2017.html#InoueOT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/AdamekNRT17" mdate="2017-11-09">
+<author>Jordan Adamek</author>
+<author>Mikhail Nesterenko</author>
+<author>James Scott Robinson</author>
+<author>Sébastien Tixeuil</author>
+<title>Stateless Reliable Geocasting.</title>
+<pages>44-53</pages>
+<year>2017</year>
+<booktitle>SRDS</booktitle>
+<crossref>conf/srds/2017</crossref>
+<url>db/conf/srds/srds2017.html#AdamekNRT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/BonomiPPT17" mdate="2017-11-09">
+<author>Silvia Bonomi</author>
+<author>Antonella Del Pozzo</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal Storage under Unsynchronized Mobile Byzantine Faults.</title>
+<pages>154-163</pages>
+<year>2017</year>
+<booktitle>SRDS</booktitle>
+<crossref>conf/srds/2017</crossref>
+<url>db/conf/srds/srds2017.html#BonomiPPT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/InoueOT17" mdate="2017-10-20">
+<author>Michiko Inoue</author>
+<author>Fukuhito Ooshita</author>
+<author>Sébastien Tixeuil</author>
+<title>An Efficient Silent Self-stabilizing 1-Maximal Matching Algorithm Under Distributed Daemon for Arbitrary Networks.</title>
+<pages>93-108</pages>
+<year>2017</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2017</crossref>
+<url>db/conf/sss/sss2017.html#InoueOT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BlinT17" mdate="2018-08-23">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief Announcement: Compact Self-Stabilizing Leader Election in Arbitrary Graphs.</title>
+<pages>43:1-43:3</pages>
+<year>2017</year>
+<booktitle>DISC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.DISC.2017.43</ee>
+<crossref>conf/wdag/2017</crossref>
+<url>db/conf/wdag/disc2017.html#BlinT17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sirocco/2017" mdate="2019-05-14">
+<editor>Shantanu Das 0001</editor>
+<editor>Sébastien Tixeuil</editor>
+<title>Structural Information and Communication Complexity - 24th International Colloquium, SIROCCO 2017, Porquerolles, France, June 19-22, 2017, Revised Selected Papers</title>
+<booktitle>SIROCCO</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10641</volume>
+<isbn>978-3-319-72049-4</isbn>
+<isbn>978-3-319-72050-0</isbn>
+<url>db/conf/sirocco/sirocco2017.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BlinT17" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Compact Self-Stabilizing Leader Election for Arbitrary Networks.</title>
+<year>2017</year>
+<volume>abs/1702.07605</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.07605</ee>
+<url>db/journals/corr/corr1702.html#BlinT17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/SangnierSPT17" mdate="2018-08-13">
+<author>Arnaud Sangnier</author>
+<author>Nathalie Sznajder</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Parameterized Verification of Algorithms for Oblivious Robots on a Ring.</title>
+<year>2017</year>
+<volume>abs/1706.05193</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.05193</ee>
+<url>db/journals/corr/corr1706.html#SangnierSPT17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AdamekNRT17" mdate="2018-08-13">
+<author>Jordan Adamek</author>
+<author>Mikhail Nesterenko</author>
+<author>James Scott Robinson</author>
+<author>Sébastien Tixeuil</author>
+<title>Concurrent Geometric Multicasting.</title>
+<year>2017</year>
+<volume>abs/1706.05263</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.05263</ee>
+<url>db/journals/corr/corr1706.html#AdamekNRT17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BonomiPPT17" mdate="2018-08-13">
+<author>Silvia Bonomi</author>
+<author>Antonella Del Pozzo</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal Storage under Unsynchrononized Mobile Byzantine Faults.</title>
+<year>2017</year>
+<volume>abs/1707.05063</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.05063</ee>
+<url>db/journals/corr/corr1707.html#BonomiPPT17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-06183" mdate="2018-08-13">
+<author>Adam Heriban</author>
+<author>Xavier Défago</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimally Gathering Two Robots.</title>
+<year>2017</year>
+<volume>abs/1708.06183</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.06183</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-06183</url>
+</article>
+</r>
+<r><article key="journals/cj/BlinPRT16" mdate="2017-05-20">
+<author>Lélia Blin</author>
+<author>Maria Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<author>Sébastien Tixeuil</author>
+<title>A New Self-Stabilizing Minimum Spanning Tree Construction with Loop-Free Property.</title>
+<pages>225-243</pages>
+<year>2016</year>
+<volume>59</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj59.html#BlinPRT16</url>
+</article>
+</r>
+<r><article key="journals/dc/BerardLMPTT16" mdate="2019-09-16">
+<author>Béatrice Bérard</author>
+<author orcid="0000-0002-4459-511X">Pascal Lafourcade 0001</author>
+<author>Laure Millet</author>
+<author>Maria Potop-Butucaru</author>
+<author orcid="0000-0001-7775-1978">Yann Thierry-Mieg</author>
+<author>Sébastien Tixeuil</author>
+<title>Formal verification of mobile robot protocols.</title>
+<pages>459-487</pages>
+<year>2016</year>
+<volume>29</volume>
+<journal>Distributed Computing</journal>
+<number>6</number>
+<url>db/journals/dc/dc29.html#BerardLMPTT16</url>
+</article>
+</r>
+<r><article key="journals/ppl/MaurerT16" mdate="2019-12-18">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<title>Tolerating Random Byzantine Failures in an Unbounded Network.</title>
+<year>2016</year>
+<volume>26</volume>
+<journal>Parallel Processing Letters</journal>
+<number>1</number>
+<url>db/journals/ppl/ppl26.html#MaurerT16</url>
+<pages>1650003:1-1650003:12</pages>
+</article>
+</r>
+<r><inproceedings key="conf/adhoc-now/BonnetPT16" mdate="2018-11-02">
+<author orcid="0000-0001-6625-0035">François Bonnet 0001</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Asynchronous Gathering in Rings with 4 Robots.</title>
+<pages>311-324</pages>
+<year>2016</year>
+<booktitle>ADHOC-NOW</booktitle>
+<crossref>conf/adhoc-now/2016</crossref>
+<url>db/conf/adhoc-now/adhoc-now2016.html#BonnetPT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudnet/BenchaitaTGT16" mdate="2017-05-25">
+<author>Walid Benchaita</author>
+<author>Gioacchino Tangari</author>
+<author>Samir Ghamri-Doudane</author>
+<author>Sébastien Tixeuil</author>
+<title>Enhancing Content Distribution through Information-Aware Mechanisms.</title>
+<pages>58-63</pages>
+<year>2016</year>
+<booktitle>CloudNet</booktitle>
+<crossref>conf/cloudnet/2016</crossref>
+<url>db/conf/cloudnet/cloudnet2016.html#BenchaitaTGT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/forte/FaghihBTK16" mdate="2017-05-21">
+<author>Fathiyeh Faghih</author>
+<author>Borzoo Bonakdarpour</author>
+<author>Sébastien Tixeuil</author>
+<author>Sandeep S. Kulkarni</author>
+<title>Specification-Based Synthesis of Distributed Self-Stabilizing Protocols.</title>
+<pages>124-141</pages>
+<year>2016</year>
+<booktitle>FORTE</booktitle>
+<crossref>conf/forte/2016</crossref>
+<url>db/conf/forte/forte2016.html#FaghihBTK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcn/BenchaitaGT16" mdate="2018-11-06">
+<author>Walid Benchaita</author>
+<author>Samir Ghamri-Doudane</author>
+<author>Sébastien Tixeuil</author>
+<title>Stability and optimization of DNS-based request redirection in CDNs.</title>
+<pages>11:1-11:10</pages>
+<year>2016</year>
+<booktitle>ICDCN</booktitle>
+<crossref>conf/icdcn/2016</crossref>
+<url>db/conf/icdcn/icdcn2016.html#BenchaitaGT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/BonomiPPT16" mdate="2017-05-21">
+<author>Silvia Bonomi</author>
+<author>Antonella Del Pozzo</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Approximate Agreement under Mobile Byzantine Faults.</title>
+<pages>727-728</pages>
+<year>2016</year>
+<booktitle>ICDCS</booktitle>
+<crossref>conf/icdcs/2016</crossref>
+<url>db/conf/icdcs/icdcs2016.html#BonomiPPT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/BramasMT16" mdate="2017-05-21">
+<author>Quentin Bramas</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Distributed Online Data Aggregation in Dynamic Graphs.</title>
+<pages>747-748</pages>
+<year>2016</year>
+<booktitle>ICDCS</booktitle>
+<crossref>conf/icdcs/2016</crossref>
+<url>db/conf/icdcs/icdcs2016.html#BramasMT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netys/BramasT16" mdate="2017-05-23">
+<author>Quentin Bramas</author>
+<author>Sébastien Tixeuil</author>
+<title>Benchmarking Energy-Centric Broadcast Protocols in Wireless Sensor Networks.</title>
+<pages>87-101</pages>
+<year>2016</year>
+<booktitle>NETYS</booktitle>
+<crossref>conf/netys/2016</crossref>
+<url>db/conf/netys/netys2016.html#BramasT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/BonomiPPT16" mdate="2018-11-06">
+<author>Silvia Bonomi</author>
+<author>Antonella Del Pozzo</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal Mobile Byzantine Fault Tolerant Distributed Storage: Extended Abstract.</title>
+<pages>269-278</pages>
+<year>2016</year>
+<booktitle>PODC</booktitle>
+<crossref>conf/podc/2016</crossref>
+<url>db/conf/podc/podc2016.html#BonomiPPT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/CourtieuRTU16" mdate="2018-11-06">
+<author>Pierre Courtieu</author>
+<author>Lionel Rieg</author>
+<author>Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>Brief Announcement: Certified Universal Gathering in R<sup>2</sup> for Oblivious Mobile Robots.</title>
+<pages>439-441</pages>
+<year>2016</year>
+<booktitle>PODC</booktitle>
+<crossref>conf/podc/2016</crossref>
+<url>db/conf/podc/podc2016.html#CourtieuRTU16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/BramasT16" mdate="2018-11-06">
+<author>Quentin Bramas</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief Announcement: Probabilistic Asynchronous Arbitrary Pattern Formation.</title>
+<pages>443-445</pages>
+<year>2016</year>
+<booktitle>PODC</booktitle>
+<crossref>conf/podc/2016</crossref>
+<url>db/conf/podc/podc2016.html#BramasT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BalabonskiDRTU16" mdate="2017-05-25">
+<author>Thibaut Balabonski</author>
+<author>Amélie Delga</author>
+<author>Lionel Rieg</author>
+<author>Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>Synchronous Gathering Without Multiplicity Detection: A Certified Algorithm.</title>
+<pages>7-19</pages>
+<year>2016</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2016</crossref>
+<url>db/conf/sss/sss2016.html#BalabonskiDRTU16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BramasFNT16" mdate="2017-05-25">
+<author>Quentin Bramas</author>
+<author>Dianne Foreback</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Packet Efficient Implementation of the Omega Failure Detector.</title>
+<pages>70-87</pages>
+<year>2016</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2016</crossref>
+<url>db/conf/sss/sss2016.html#BramasFNT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BramasT16" mdate="2017-05-25">
+<author>Quentin Bramas</author>
+<author>Sébastien Tixeuil</author>
+<title>Probabilistic Asynchronous Arbitrary Pattern Formation (Short Paper).</title>
+<pages>88-93</pages>
+<year>2016</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2016</crossref>
+<url>db/conf/sss/sss2016.html#BramasT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/ForebackNT16" mdate="2017-05-25">
+<author>Dianne Foreback</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Infinite Unlimited Churn (Short Paper).</title>
+<pages>148-153</pages>
+<year>2016</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2016</crossref>
+<url>db/conf/sss/sss2016.html#ForebackNT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/InoueOT16" mdate="2017-05-25">
+<author>Michiko Inoue</author>
+<author>Fukuhito Ooshita</author>
+<author>Sébastien Tixeuil</author>
+<title>An Efficient Silent Self-stabilizing 1-Maximal Matching Algorithm Under Distributed Daemon Without Global Identifiers.</title>
+<pages>195-212</pages>
+<year>2016</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2016</crossref>
+<url>db/conf/sss/sss2016.html#InoueOT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/CourtieuRTU16" mdate="2017-05-19">
+<author>Pierre Courtieu</author>
+<author>Lionel Rieg</author>
+<author>Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>Certified Universal Gathering in \mathbb R ^2 for Oblivious Mobile Robots.</title>
+<pages>187-200</pages>
+<year>2016</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2016</crossref>
+<url>db/conf/wdag/disc2016.html#CourtieuRTU16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BramasMT16" mdate="2018-08-13">
+<author>Quentin Bramas</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Distributed Online Data Aggregation in Dynamic Graphs.</title>
+<year>2016</year>
+<volume>abs/1602.01065</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.01065</ee>
+<url>db/journals/corr/corr1602.html#BramasMT16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CourtieuRTU16" mdate="2018-08-13">
+<author>Pierre Courtieu</author>
+<author>Lionel Rieg</author>
+<author>Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>Certified Universal Gathering in $R^2$ for Oblivious Mobile Robots.</title>
+<year>2016</year>
+<volume>abs/1602.08361</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.08361</ee>
+<url>db/journals/corr/corr1602.html#CourtieuRTU16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BonomiPPT16" mdate="2018-08-13">
+<author>Silvia Bonomi</author>
+<author>Antonella Del Pozzo</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Approximate Agreement under Mobile Byzantine Faults.</title>
+<year>2016</year>
+<volume>abs/1604.03871</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.03871</ee>
+<url>db/journals/corr/corr1604.html#BonomiPPT16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ForebackNT16" mdate="2018-08-13">
+<author>Dianne Foreback</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Infinite Unlimited Churn.</title>
+<year>2016</year>
+<volume>abs/1608.00726</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1608.00726</ee>
+<url>db/journals/corr/corr1608.html#ForebackNT16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BonomiPPT16a" mdate="2018-08-13">
+<author>Silvia Bonomi</author>
+<author>Antonella Del Pozzo</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilizing Mobile Byzantine-Tolerant Regular Register with bounded timestamp.</title>
+<year>2016</year>
+<volume>abs/1609.02694</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1609.02694</ee>
+<url>db/journals/corr/corr1609.html#BonomiPPT16a</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/DuboisMT15" mdate="2018-11-30">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Maximum Metric Spanning Tree Made Byzantine Tolerant.</title>
+<pages>166-201</pages>
+<year>2015</year>
+<volume>73</volume>
+<journal>Algorithmica</journal>
+<number>1</number>
+<url>db/journals/algorithmica/algorithmica73.html#DuboisMT15</url>
+</article>
+</r>
+<r><article key="journals/ccr/BenchaitaGT15" mdate="2018-11-06">
+<author>Walid Benchaita</author>
+<author>Samir Ghamri-Doudane</author>
+<author>Sébastien Tixeuil</author>
+<title>On the Optimization of Request Routing for Content Delivery.</title>
+<pages>347-348</pages>
+<year>2015</year>
+<volume>45</volume>
+<journal>Computer Communication Review</journal>
+<number>5</number>
+<url>db/journals/ccr/ccr45.html#BenchaitaGT15</url>
+</article>
+</r>
+<r><article key="journals/ijfcs/DevismesTY15" mdate="2017-05-27">
+<author>Stéphane Devismes</author>
+<author>Sébastien Tixeuil</author>
+<author>Masafumi Yamashita</author>
+<title>Weak <i>vs.</i> Self <i>vs.</i> Probabilistic Stabilization.</title>
+<pages>293-320</pages>
+<year>2015</year>
+<volume>26</volume>
+<journal>Int. J. Found. Comput. Sci.</journal>
+<number>3</number>
+<url>db/journals/ijfcs/ijfcs26.html#DevismesTY15</url>
+</article>
+</r>
+<r><article key="journals/ipl/CourtieuRTU15" mdate="2017-06-06">
+<author>Pierre Courtieu</author>
+<author>Lionel Rieg</author>
+<author orcid="0000-0002-0948-7172">Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>Impossibility of gathering, a certification.</title>
+<pages>447-452</pages>
+<year>2015</year>
+<volume>115</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl115.html#CourtieuRTU15</url>
+</article>
+</r>
+<r><article key="journals/jcss/AlonADDPT15" mdate="2019-10-19">
+<author>Noga Alon</author>
+<author orcid="0000-0002-8017-6457">Hagit Attiya</author>
+<author orcid="0000-0001-5418-6670">Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Practically stabilizing SWMR atomic memory in message-passing systems.</title>
+<pages>692-701</pages>
+<year>2015</year>
+<volume>81</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>4</number>
+<url>db/journals/jcss/jcss81.html#AlonADDPT15</url>
+</article>
+</r>
+<r><article key="journals/tcs/OoshitaT15" mdate="2017-06-08">
+<author>Fukuhito Ooshita</author>
+<author orcid="0000-0002-0948-7172">Sébastien Tixeuil</author>
+<title>On the self-stabilization of mobile oblivious robots in uniform rings.</title>
+<pages>84-96</pages>
+<year>2015</year>
+<volume>568</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs568.html#OoshitaT15</url>
+</article>
+</r>
+<r><article key="journals/tpds/MaurerT15" mdate="2017-05-27">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<title>Containing Byzantine Failures with Control Zones.</title>
+<pages>362-370</pages>
+<year>2015</year>
+<volume>26</volume>
+<journal>IEEE Trans. Parallel Distrib. Syst.</journal>
+<number>2</number>
+<url>db/journals/tpds/tpds26.html#MaurerT15</url>
+</article>
+</r>
+<r><inproceedings key="conf/adhoc-now/BramasT15" mdate="2017-05-25">
+<author>Quentin Bramas</author>
+<author>Sébastien Tixeuil</author>
+<title>The Random Bit Complexity of Mobile Robots Scattering.</title>
+<pages>210-224</pages>
+<year>2015</year>
+<booktitle>ADHOC-NOW</booktitle>
+<crossref>conf/adhoc-now/2015</crossref>
+<url>db/conf/adhoc-now/adhoc-now2015.html#BramasT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edcc/AdamekNT15" mdate="2017-05-26">
+<author>Jordan Adamek</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Evaluating and Optimizing Stabilizing Dining Philosophers.</title>
+<pages>233-244</pages>
+<year>2015</year>
+<booktitle>EDCC</booktitle>
+<crossref>conf/edcc/2015</crossref>
+<url>db/conf/edcc/edcc2015.html#AdamekNT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/BramasDFHGT15" mdate="2017-05-24">
+<author>Quentin Bramas</author>
+<author>Wilfried Dron</author>
+<author>Mariem Ben Fadhl</author>
+<author>Khalil Hachicha</author>
+<author>Patrick Garda</author>
+<author>Sébastien Tixeuil</author>
+<title>WiSeBat: accurate energy benchmarking of wireless sensor networks.</title>
+<pages>40-47</pages>
+<year>2015</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2015</crossref>
+<url>db/conf/fdl/fdl2015.html#BramasDFHGT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/BonomiPT15" mdate="2017-05-24">
+<author>Silvia Bonomi</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Stabilizing Byzantine-Fault Tolerant Storage.</title>
+<pages>894-903</pages>
+<year>2015</year>
+<booktitle>IPDPS</booktitle>
+<crossref>conf/ipps/2015</crossref>
+<url>db/conf/ipps/ipdps2015.html#BonomiPT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netys/DevismesLPT15" mdate="2017-05-23">
+<author>Stéphane Devismes</author>
+<author>Anissa Lamani</author>
+<author>Franck Petit</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal Torus Exploration by Oblivious Robots.</title>
+<pages>183-199</pages>
+<year>2015</year>
+<booktitle>NETYS</booktitle>
+<crossref>conf/netys/2015</crossref>
+<url>db/conf/netys/netys2015.html#DevismesLPT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/BenchaitaGT15" mdate="2018-11-06">
+<author>Walid Benchaita</author>
+<author>Samir Ghamri-Doudane</author>
+<author>Sébastien Tixeuil</author>
+<title>On the Optimization of Request Routing for Content Delivery.</title>
+<pages>347-348</pages>
+<year>2015</year>
+<booktitle>SIGCOMM</booktitle>
+<crossref>conf/sigcomm/2015</crossref>
+<url>db/conf/sigcomm/sigcomm2015.html#BenchaitaGT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/BramasT15" mdate="2017-05-21">
+<author>Quentin Bramas</author>
+<author>Sébastien Tixeuil</author>
+<title>Wait-Free Gathering Without Chirality.</title>
+<pages>313-327</pages>
+<year>2015</year>
+<booktitle>SIROCCO</booktitle>
+<crossref>conf/sirocco/2015</crossref>
+<url>db/conf/sirocco/sirocco2015.html#BramasT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/MaurerTD15" mdate="2017-06-05">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<author orcid="0000-0002-2377-205X">Xavier Défago</author>
+<title>Communicating Reliably in Multihop Dynamic Networks Despite Byzantine Failures.</title>
+<pages>238-245</pages>
+<year>2015</year>
+<booktitle>SRDS</booktitle>
+<crossref>conf/srds/2015</crossref>
+<url>db/conf/srds/srds2015.html#MaurerTD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BramasT15" mdate="2017-05-25">
+<author>Quentin Bramas</author>
+<author>Sébastien Tixeuil</author>
+<title>The Complexity of Data Aggregation in Static and Dynamic Wireless Sensor Networks.</title>
+<pages>36-50</pages>
+<year>2015</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2015</crossref>
+<url>db/conf/sss/sss2015.html#BramasT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/AflakiBT15" mdate="2017-05-25">
+<author>Saba Aflaki</author>
+<author>Borzoo Bonakdarpour</author>
+<author>Sébastien Tixeuil</author>
+<title>Automated Analysis of Impact of Scheduling on Performance of Self-stabilizing Protocols.</title>
+<pages>156-170</pages>
+<year>2015</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2015</crossref>
+<url>db/conf/sss/sss2015.html#AflakiBT15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BramasFNT15" mdate="2018-08-13">
+<author>Quentin Bramas</author>
+<author>Dianne Foreback</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Packet Efficient Implementation of the Omega Failure Detector.</title>
+<year>2015</year>
+<volume>abs/1505.05025</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1505.05025</ee>
+<url>db/journals/corr/corr1505.html#BramasFNT15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CourtieuRTU15" mdate="2018-08-13">
+<author>Pierre Courtieu</author>
+<author>Lionel Rieg</author>
+<author>Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>A Certified Universal Gathering Algorithm for Oblivious Mobile Robots.</title>
+<year>2015</year>
+<volume>abs/1506.01603</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.01603</ee>
+<url>db/journals/corr/corr1506.html#CourtieuRTU15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AdamekNT15" mdate="2018-08-13">
+<author>Jordan Adamek</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Stateless Geocasting.</title>
+<year>2015</year>
+<volume>abs/1506.07895</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.07895</ee>
+<url>db/journals/corr/corr1506.html#AdamekNT15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BramasT15" mdate="2018-08-13">
+<author>Quentin Bramas</author>
+<author>Sébastien Tixeuil</author>
+<title>Asynchronous Pattern Formation without Chirality.</title>
+<year>2015</year>
+<volume>abs/1508.03714</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1508.03714</ee>
+<url>db/journals/corr/corr1508.html#BramasT15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/FaghihBTK15" mdate="2018-08-13">
+<author>Fathiyeh Faghih</author>
+<author>Borzoo Bonakdarpour</author>
+<author>Sébastien Tixeuil</author>
+<author>Sandeep S. Kulkarni</author>
+<title>Specification-based Synthesis of Distributed Self-Stabilizing Protocols.</title>
+<year>2015</year>
+<volume>abs/1509.05664</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1509.05664</ee>
+<url>db/journals/corr/corr1509.html#FaghihBTK15</url>
+</article>
+</r>
+<r><article key="journals/jpdc/MaurerT14" mdate="2017-05-26">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<title>Byzantine broadcast with fixed disjoint paths.</title>
+<pages>3153-3160</pages>
+<year>2014</year>
+<volume>74</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<number>11</number>
+<url>db/journals/jpdc/jpdc74.html#MaurerT14</url>
+</article>
+</r>
+<r><article key="journals/tcs/HonoratPT14" mdate="2017-05-28">
+<author>Anthony Honorat</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Gathering fat mobile robots with slim omnidirectional cameras.</title>
+<pages>1-27</pages>
+<year>2014</year>
+<volume>557</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs557.html#HonoratPT14</url>
+</article>
+</r>
+<r><inproceedings key="conf/srds/BonnetDPPT14" mdate="2018-11-02">
+<author orcid="0000-0001-6625-0035">François Bonnet 0001</author>
+<author orcid="0000-0002-2377-205X">Xavier Défago</author>
+<author>Franck Petit</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Discovering and Assessing Fine-Grained Metrics in Robot Networks Protocols.</title>
+<pages>50-59</pages>
+<year>2014</year>
+<booktitle>SRDS Workshops</booktitle>
+<crossref>conf/srds/2014w</crossref>
+<url>db/conf/srds/srds2014w.html#BonnetDPPT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/MaurerT14" mdate="2017-05-19">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilizing Byzantine Broadcast.</title>
+<pages>152-160</pages>
+<year>2014</year>
+<booktitle>SRDS</booktitle>
+<crossref>conf/srds/2014</crossref>
+<url>db/conf/srds/srds2014.html#MaurerT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/MilletPST14" mdate="2017-05-25">
+<author>Laure Millet</author>
+<author>Maria Potop-Butucaru</author>
+<author>Nathalie Sznajder</author>
+<author>Sébastien Tixeuil</author>
+<title>On the Synthesis of Mobile Robots Algorithms: The Case of Ring Gathering.</title>
+<pages>237-251</pages>
+<year>2014</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2014</crossref>
+<url>db/conf/sss/sss2014.html#MilletPST14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BlinT14" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Compact Deterministic Self-Stabilizing Leader Election: The Exponential Advantage of Being Talkative.</title>
+<year>2014</year>
+<volume>abs/1401.4972</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1401.4972</ee>
+<url>db/journals/corr/corr1401.html#BlinT14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MaurerTD14" mdate="2018-08-13">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<author>Xavier Défago</author>
+<title>Reliable Communication in a Dynamic Network in the Presence of Byzantine Faults.</title>
+<year>2014</year>
+<volume>abs/1402.0121</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1402.0121</ee>
+<url>db/journals/corr/corr1402.html#MaurerTD14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CourtieuRUT14" mdate="2018-08-13">
+<author>Pierre Courtieu</author>
+<author>Lionel Rieg</author>
+<author>Xavier Urbain</author>
+<author>Sébastien Tixeuil</author>
+<title>Impossibility of Gathering, a Certification.</title>
+<year>2014</year>
+<volume>abs/1405.5902</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1405.5902</ee>
+<url>db/journals/corr/corr1405.html#CourtieuRUT14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MilletPST14" mdate="2018-08-13">
+<author>Laure Millet</author>
+<author>Maria Potop-Butucaru</author>
+<author>Nathalie Sznajder</author>
+<author>Sébastien Tixeuil</author>
+<title>On the Synthesis of Mobile Robots Algorithms: the Case of Ring Gathering.</title>
+<year>2014</year>
+<volume>abs/1407.0978</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.0978</ee>
+<url>db/journals/corr/corr1407.html#MilletPST14</url>
+</article>
+</r>
+<r><article key="journals/ijguc/NesterenkoT13" mdate="2017-05-28">
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Ideal stabilisation.</title>
+<pages>219-230</pages>
+<year>2013</year>
+<volume>4</volume>
+<journal>IJGUC</journal>
+<number>4</number>
+<url>db/journals/ijguc/ijguc4.html#NesterenkoT13</url>
+</article>
+</r>
+<r><article key="journals/jco/KameiKDT13" mdate="2018-06-26">
+<author>Sayaka Kamei</author>
+<author>Hirotsugu Kakugawa</author>
+<author>Stéphane Devismes</author>
+<author>Sébastien Tixeuil</author>
+<title>A self-stabilizing 3-approximation for the maximum leaf spanning tree problem in arbitrary networks.</title>
+<pages>430-459</pages>
+<year>2013</year>
+<volume>25</volume>
+<journal>J. Comb. Optim.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s10878-011-9383-5</ee>
+<url>db/journals/jco/jco25.html#KameiKDT13</url>
+</article>
+</r>
+<r><article key="journals/tcs/DevismesPT13" mdate="2017-05-28">
+<author>Stéphane Devismes</author>
+<author>Franck Petit</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal probabilistic ring exploration by semi-synchronous oblivious robots.</title>
+<pages>10-27</pages>
+<year>2013</year>
+<volume>498</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs498.html#DevismesPT13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcn/MaurerT13" mdate="2017-05-25">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<title>A Scalable Byzantine Grid.</title>
+<pages>87-101</pages>
+<year>2013</year>
+<booktitle>ICDCN</booktitle>
+<crossref>conf/icdcn/2013</crossref>
+<url>db/conf/icdcn/icdcn2013.html#MaurerT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcn/DattaDLT13" mdate="2017-05-25">
+<author>Ajoy Kumar Datta</author>
+<author>Stéphane Devismes</author>
+<author>Lawrence L. Larmore</author>
+<author>Sébastien Tixeuil</author>
+<title>Fast Leader (Full) Recovery Despite Dynamic Faults.</title>
+<pages>428-433</pages>
+<year>2013</year>
+<booktitle>ICDCN</booktitle>
+<crossref>conf/icdcn/2013</crossref>
+<url>db/conf/icdcn/icdcn2013.html#DattaDLT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/Bouzid0T13" mdate="2017-05-21">
+<author>Zohir Bouzid</author>
+<author>Shantanu Das 0001</author>
+<author>Sébastien Tixeuil</author>
+<title>Gathering of Mobile Robots Tolerating Multiple Crash Faults.</title>
+<pages>337-346</pages>
+<year>2013</year>
+<booktitle>ICDCS</booktitle>
+<crossref>conf/icdcs/2013</crossref>
+<url>db/conf/icdcs/icdcs2013.html#Bouzid0T13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/DattaLDT13" mdate="2017-05-24">
+<author>Ajoy Kumar Datta</author>
+<author>Lawrence L. Larmore</author>
+<author>Stéphane Devismes</author>
+<author>Sébastien Tixeuil</author>
+<title>Fast Leader (Full) Recovery Despite Dynamic Faults.</title>
+<pages>716-725</pages>
+<year>2013</year>
+<booktitle>IPDPS Workshops</booktitle>
+<crossref>conf/ipps/2013w</crossref>
+<url>db/conf/ipps/ipdps2013w.html#DattaLDT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/BlinT13" mdate="2018-11-06">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief announcement: deterministic self-stabilizing leader election with O(log log n)-bits.</title>
+<pages>125-127</pages>
+<year>2013</year>
+<booktitle>PODC</booktitle>
+<crossref>conf/podc/2013</crossref>
+<url>db/conf/podc/podc2013.html#BlinT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/KhouriGT13" mdate="2017-05-19">
+<author>Catia Khouri</author>
+<author>Fabíola Greve</author>
+<author>Sébastien Tixeuil</author>
+<title>Consensus with Unknown Participants in Shared Memory.</title>
+<pages>51-60</pages>
+<year>2013</year>
+<booktitle>SRDS</booktitle>
+<crossref>conf/srds/2013</crossref>
+<url>db/conf/srds/srds2013.html#KhouriGT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/FallahiBT13" mdate="2017-05-19">
+<author>Narges Fallahi</author>
+<author>Borzoo Bonakdarpour</author>
+<author>Sébastien Tixeuil</author>
+<title>Rigorous Performance Evaluation of Self-Stabilization Using Probabilistic Model Checking.</title>
+<pages>153-162</pages>
+<year>2013</year>
+<booktitle>SRDS</booktitle>
+<crossref>conf/srds/2013</crossref>
+<url>db/conf/srds/srds2013.html#FallahiBT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/AugerBCTU13" mdate="2017-05-25">
+<author>Cédric Auger</author>
+<author>Zohir Bouzid</author>
+<author>Pierre Courtieu</author>
+<author>Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>Certified Impossibility Results for Byzantine-Tolerant Mobile Robots.</title>
+<pages>178-190</pages>
+<year>2013</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2013</crossref>
+<url>db/conf/sss/sss2013.html#AugerBCTU13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/NorNT13" mdate="2017-05-25">
+<author>Rizal Mohd Nor</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Linearizing Peer-to-Peer Systems with Oracles.</title>
+<pages>221-236</pages>
+<year>2013</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2013</crossref>
+<url>db/conf/sss/sss2013.html#NorNT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BlinT13" mdate="2017-05-19">
+<author>Lélia Blin</author>
+<author>Sébastien Tixeuil</author>
+<title>Compact Deterministic Self-stabilizing Leader Election - The Exponential Advantage of Being Talkative.</title>
+<pages>76-90</pages>
+<year>2013</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2013</crossref>
+<url>db/conf/wdag/disc2013.html#BlinT13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-2875" mdate="2018-08-13">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<title>On Byzantine Broadcast in Planar Graphs</title>
+<ee type="oa">http://arxiv.org/abs/1301.2875</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.2875</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-2875</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-3996" mdate="2018-08-13">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<title>Parameterizable Byzantine Broadcast in Loosely Connected Networks</title>
+<ee type="oa">http://arxiv.org/abs/1301.3996</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.3996</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-3996</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AugerBCTU13" mdate="2018-08-13">
+<author>Cédric Auger</author>
+<author>Zohir Bouzid</author>
+<author>Pierre Courtieu</author>
+<author>Sébastien Tixeuil</author>
+<author>Xavier Urbain</author>
+<title>Certified Impossibility Results for Byzantine-Tolerant Mobile Robots.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1306.4242</ee>
+<volume>abs/1306.4242</volume>
+<url>db/journals/corr/corr1306.html#AugerBCTU13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BramasT13" mdate="2018-08-13">
+<author>Quentin Bramas</author>
+<author>Sébastien Tixeuil</author>
+<title>The Random Bit Complexity of Mobile Robots Scattering.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.6603</ee>
+<volume>abs/1309.6603</volume>
+<url>db/journals/corr/corr1309.html#BramasT13</url>
+</article>
+</r>
+<r><article key="journals/jpdc/DuboisPNT12" mdate="2018-11-30">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilizing byzantine asynchronous unison.</title>
+<pages>917-923</pages>
+<year>2012</year>
+<volume>72</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<number>7</number>
+<url>db/journals/jpdc/jpdc72.html#DuboisPNT12</url>
+</article>
+</r>
+<r><article key="journals/tpds/DuboisMT12" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Bounding the Impact of Unbounded Attacks in Stabilization.</title>
+<pages>460-466</pages>
+<year>2012</year>
+<volume>23</volume>
+<journal>IEEE Trans. Parallel Distrib. Syst.</journal>
+<number>3</number>
+<url>db/journals/tpds/tpds23.html#DuboisMT12</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/BernardDT12" mdate="2017-05-29">
+<author>Samuel Bernard</author>
+<author orcid="0000-0002-2377-205X">Xavier Défago</author>
+<author>Sébastien Tixeuil</author>
+<title>A Fast and Robust Optimistic Total Order Broadcast for Online Video Games.</title>
+<pages>189-196</pages>
+<year>2012</year>
+<booktitle>AINA Workshops</booktitle>
+<crossref>conf/aina/2012w</crossref>
+<url>db/conf/aina/ainaw2012.html#BernardDT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fun/DuboisTZ12" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Sébastien Tixeuil</author>
+<author>Nini Zhu</author>
+<title>The Byzantine Brides Problem.</title>
+<pages>107-118</pages>
+<year>2012</year>
+<booktitle>FUN</booktitle>
+<crossref>conf/fun/2012</crossref>
+<url>db/conf/fun/fun2012.html#DuboisTZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/MaurerT12" mdate="2017-05-21">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<title>Limiting Byzantine Influence in Multihop Asynchronous Networks.</title>
+<pages>183-192</pages>
+<year>2012</year>
+<booktitle>ICDCS</booktitle>
+<crossref>conf/icdcs/2012</crossref>
+<url>db/conf/icdcs/icdcs2012.html#MaurerT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/CarlinetHKMNT12" mdate="2017-06-15">
+<author>Yannick Carlinet</author>
+<author>The Dang Huynh</author>
+<author orcid="0000-0003-1336-2687">Bruno Kauffmann</author>
+<author>Fabien Mathieu</author>
+<author>Ludovic Noirie</author>
+<author>Sébastien Tixeuil</author>
+<title>Four months in daily motion: Dissecting user video requests.</title>
+<pages>613-618</pages>
+<year>2012</year>
+<booktitle>IWCMC</booktitle>
+<crossref>conf/iwcmc/2012</crossref>
+<url>db/conf/iwcmc/iwcmc2012.html#CarlinetHKMNT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfcs/KameiLOT12" mdate="2017-05-25">
+<author>Sayaka Kamei</author>
+<author>Anissa Lamani</author>
+<author>Fukuhito Ooshita</author>
+<author>Sébastien Tixeuil</author>
+<title>Gathering an Even Number of Robots in an Odd Ring without Global Multiplicity Detection.</title>
+<pages>542-553</pages>
+<year>2012</year>
+<booktitle>MFCS</booktitle>
+<crossref>conf/mfcs/2012</crossref>
+<url>db/conf/mfcs/mfcs2012.html#KameiLOT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/DolevDPT12" mdate="2018-11-02">
+<author>Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Crash Resilient and Pseudo-Stabilizing Atomic Registers.</title>
+<pages>135-150</pages>
+<year>2012</year>
+<booktitle>OPODIS</booktitle>
+<crossref>conf/opodis/2012</crossref>
+<url>db/conf/opodis/opodis2012.html#DolevDPT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/OoshitaT12" mdate="2017-05-25">
+<author>Fukuhito Ooshita</author>
+<author>Sébastien Tixeuil</author>
+<title>On the Self-stabilization of Mobile Oblivious Robots in Uniform Rings.</title>
+<pages>49-63</pages>
+<year>2012</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2012</crossref>
+<url>db/conf/sss/sss2012.html#OoshitaT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/DevismesLPRT12" mdate="2017-05-25">
+<author>Stéphane Devismes</author>
+<author>Anissa Lamani</author>
+<author>Franck Petit</author>
+<author>Pascal Raymond</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal Grid Exploration by Asynchronous Oblivious Robots.</title>
+<pages>64-76</pages>
+<year>2012</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2012</crossref>
+<url>db/conf/sss/sss2012.html#DevismesLPRT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/AdamekNT12" mdate="2017-05-25">
+<author>Jordan Adamek</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Evaluating Practical Tolerance Properties of Stabilizing Programs through Simulation: The Case of Propagation of Information with Feedback.</title>
+<pages>126-132</pages>
+<year>2012</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2012</crossref>
+<url>db/conf/sss/sss2012.html#AdamekNT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BonnetDPPT12" mdate="2018-11-02">
+<author orcid="0000-0001-6625-0035">François Bonnet 0001</author>
+<author orcid="0000-0002-2377-205X">Xavier Défago</author>
+<author>Franck Petit</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief Announcement: Discovering and Assessing Fine-Grained Metrics in Robot Networks Protocols.</title>
+<pages>282-284</pages>
+<year>2012</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2012</crossref>
+<url>db/conf/sss/sss2012.html#BonnetDPPT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/MaurerT12" mdate="2017-05-19">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<title>On Byzantine Broadcast in Loosely Connected Networks.</title>
+<pages>253-266</pages>
+<year>2012</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2012</crossref>
+<url>db/conf/wdag/disc2012.html#MaurerT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/Bouzid0T12" mdate="2017-05-19">
+<author>Zohir Bouzid</author>
+<author>Shantanu Das 0001</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief Announcement: Wait-Free Gathering of Mobile Robots.</title>
+<pages>401-402</pages>
+<year>2012</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2012</crossref>
+<url>db/conf/wdag/disc2012.html#Bouzid0T12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/YamauchiTKY12" mdate="2018-11-02">
+<author>Yukiko Yamauchi</author>
+<author>Sébastien Tixeuil</author>
+<author orcid="0000-0001-6061-2330">Shuji Kijima</author>
+<author>Masafumi Yamashita</author>
+<title>Brief Announcement: Probabilistic Stabilization under Probabilistic Schedulers.</title>
+<pages>413-414</pages>
+<year>2012</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2012</crossref>
+<url>db/conf/wdag/disc2012.html#YamauchiTKY12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1201-5824" mdate="2018-08-13">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<title>Limiting Byzantien Influence in Multihop Asynchronous Networks</title>
+<ee type="oa">http://arxiv.org/abs/1201.5824</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1201.5824</volume>
+<url>db/journals/corr/corr1201.html#abs-1201-5824</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-3575" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Sébastien Tixeuil</author>
+<author>Nini Zhu</author>
+<title>The Byzantine Brides Problem</title>
+<ee type="oa">http://arxiv.org/abs/1203.3575</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.3575</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-3575</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1204-4565" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Sébastien Tixeuil</author>
+<author>Nini Zhu</author>
+<title>Mariages et Trahisons</title>
+<ee type="oa">http://arxiv.org/abs/1204.4565</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1204.4565</volume>
+<url>db/journals/corr/corr1204.html#abs-1204-4565</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-0226" mdate="2018-08-13">
+<author>Zohir Bouzid</author>
+<author>Shantanu Das 0001</author>
+<author>Sébastien Tixeuil</author>
+<title>Wait-Free Gathering of Mobile Robots</title>
+<ee type="oa">http://arxiv.org/abs/1207.0226</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.0226</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-0226</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-7241" mdate="2018-08-13">
+<author>Sayaka Kamei</author>
+<author>Anissa Lamani</author>
+<author>Fukuhito Ooshita</author>
+<author>Sébastien Tixeuil</author>
+<title>Gathering an even number of robots in an odd ring without global multiplicity detection</title>
+<ee type="oa">http://arxiv.org/abs/1207.7241</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.7241</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-7241</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1209-1358" mdate="2018-08-13">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<title>On Byzantine Broadcast in Loosely Connected Networks</title>
+<ee type="oa">http://arxiv.org/abs/1209.1358</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1209.1358</volume>
+<url>db/journals/corr/corr1209.html#abs-1209-1358</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1210-4640" mdate="2018-08-13">
+<author>Alexandre Maurer</author>
+<author>Sébastien Tixeuil</author>
+<title>A Scalable Byzantine Grid</title>
+<ee type="oa">http://arxiv.org/abs/1210.4640</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1210.4640</volume>
+<url>db/journals/corr/corr1210.html#abs-1210-4640</url>
+</article>
+</r>
+<r><article key="journals/ahswn/MittonSTFL11" mdate="2017-12-07">
+<author>Nathalie Mitton</author>
+<author>Bruno Sericola</author>
+<author>Sébastien Tixeuil</author>
+<author>Eric Fleury</author>
+<author>Isabelle Guérin Lassous</author>
+<title>Self-stabilization in Self-organized Wireless Multihop Networks?</title>
+<pages>1-34</pages>
+<year>2011</year>
+<volume>11</volume>
+<journal>Ad Hoc and Sensor Wireless Networks</journal>
+<number>1-2</number>
+<url>db/journals/ahswn/ahswn11.html#MittonSTFL11</url>
+</article>
+</r>
+<r><article key="journals/ipl/DolevDPT11" mdate="2019-10-19">
+<author orcid="0000-0001-5418-6670">Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Stabilizing data-link over non-FIFO channels with optimal fault-resilience.</title>
+<pages>912-920</pages>
+<year>2011</year>
+<volume>111</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>18</number>
+<url>db/journals/ipl/ipl111.html#DolevDPT11</url>
+</article>
+</r>
+<r><article key="journals/tcs/DuboisPT11" mdate="2018-11-30">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Dynamic FTSS in asynchronous systems: The case of unison.</title>
+<pages>3418-3439</pages>
+<year>2011</year>
+<volume>412</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>29</number>
+<url>db/journals/tcs/tcs412.html#DuboisPT11</url>
+</article>
+</r>
+<r><article key="journals/tcs/DelaetMRT11" mdate="2019-09-25">
+<author>Sylvie Delaët</author>
+<author orcid="0000-0002-8632-5767">Partha Sarathi Mandal 0001</author>
+<author>Mariusz A. Rokicki</author>
+<author>Sébastien Tixeuil</author>
+<title>Deterministic secure positioning in wireless sensor networks.</title>
+<pages>4471-4481</pages>
+<year>2011</year>
+<volume>412</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>35</number>
+<url>db/journals/tcs/tcs412.html#DelaetMRT11</url>
+</article>
+</r>
+<r><article key="journals/tcs/ManneMPT11" mdate="2017-05-28">
+<author>Fredrik Manne</author>
+<author>Morten Mjelde</author>
+<author>Laurence Pilard</author>
+<author>Sébastien Tixeuil</author>
+<title>A self-stabilizing 2/3-approximation algorithm for the maximum matching problem.</title>
+<pages>5515-5526</pages>
+<year>2011</year>
+<volume>412</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>40</number>
+<url>db/journals/tcs/tcs412.html#ManneMPT11</url>
+</article>
+</r>
+<r><article key="journals/tsi/Tixeuil11" mdate="2012-12-06">
+<author>Sébastien Tixeuil</author>
+<title>Éditorial.</title>
+<pages>777-779</pages>
+<year>2011</year>
+<volume>30</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>7</number>
+<url>db/journals/tsi/tsi30.html#Tixeuil11</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/NesterenkoT11" mdate="2017-05-21">
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Ideal Stabilization.</title>
+<pages>224-231</pages>
+<year>2011</year>
+<booktitle>AINA</booktitle>
+<crossref>conf/aina/2011</crossref>
+<url>db/conf/aina/aina2011.html#NesterenkoT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nbis/Potop-ButucaruRT11" mdate="2017-05-24">
+<author>Maria Potop-Butucaru</author>
+<author>Michel Raynal</author>
+<author>Sébastien Tixeuil</author>
+<title>Distributed Computing with Mobile Robots: An Introductory Survey.</title>
+<pages>318-324</pages>
+<year>2011</year>
+<booktitle>NBiS</booktitle>
+<crossref>conf/nbis/2011</crossref>
+<url>db/conf/nbis/nbis2011.html#Potop-ButucaruRT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/BonnetMPT11" mdate="2018-11-02">
+<author orcid="0000-0001-6625-0035">François Bonnet 0001</author>
+<author>Alessia Milani</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Asynchronous Exclusive Perpetual Grid Exploration without Sense of Direction.</title>
+<pages>251-265</pages>
+<year>2011</year>
+<booktitle>OPODIS</booktitle>
+<crossref>conf/opodis/2011</crossref>
+<url>db/conf/opodis/opodis2011.html#BonnetMPT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/KameiLOT11" mdate="2017-05-21">
+<author>Sayaka Kamei</author>
+<author>Anissa Lamani</author>
+<author>Fukuhito Ooshita</author>
+<author>Sébastien Tixeuil</author>
+<title>Asynchronous Mobile Robot Gathering from Symmetric Configurations without Global Multiplicity Detection.</title>
+<pages>150-161</pages>
+<year>2011</year>
+<booktitle>SIROCCO</booktitle>
+<crossref>conf/sirocco/2011</crossref>
+<url>db/conf/sirocco/sirocco2011.html#KameiLOT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/AlonADDPT11" mdate="2019-09-16">
+<author>Noga Alon</author>
+<author orcid="0000-0002-8017-6457">Hagit Attiya</author>
+<author>Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Pragmatic Self-stabilization of Atomic Memory in Message-Passing Systems.</title>
+<pages>19-31</pages>
+<year>2011</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2011</crossref>
+<url>db/conf/sss/sss2011.html#AlonADDPT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/DuboisMT11" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Maximum Metric Spanning Tree Made Byzantine Tolerant.</title>
+<pages>150-164</pages>
+<year>2011</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2011</crossref>
+<url>db/conf/wdag/disc2011.html#DuboisMT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/IzumiBTW11" mdate="2017-05-19">
+<author>Taisuke Izumi</author>
+<author>Zohir Bouzid</author>
+<author>Sébastien Tixeuil</author>
+<author>Koichi Wada</author>
+<title>Brief Announcement: The BG-Simulation for Byzantine Mobile Robots.</title>
+<pages>330-331</pages>
+<year>2011</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2011</crossref>
+<url>db/conf/wdag/disc2011.html#IzumiBTW11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1103-3515" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilization, Byzantine Containment, and Maximizable Metrics: Necessary Conditions</title>
+<ee type="oa">http://arxiv.org/abs/1103.3515</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1103.3515</volume>
+<url>db/journals/corr/corr1103.html#abs-1103-3515</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1104-3947" mdate="2019-09-17">
+<author>Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Communication Optimalement Stabilisante sur Canaux non Fiables et non FIFO</title>
+<ee type="oa">http://arxiv.org/abs/1104.3947</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1104.3947</volume>
+<url>db/journals/corr/corr1104.html#abs-1104-3947</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1104-4022" mdate="2018-08-13">
+<author>Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Auto-Stabilisation et Confinement de Fautes Malicieuses : Optimalité du Protocole min+1</title>
+<ee type="oa">http://arxiv.org/abs/1104.4022</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1104.4022</volume>
+<url>db/journals/corr/corr1104.html#abs-1104-4022</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1104-5368" mdate="2018-08-13">
+<author>Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Maximum Metric Spanning Tree made Byzantine Tolerant</title>
+<ee type="oa">http://arxiv.org/abs/1104.5368</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1104.5368</volume>
+<url>db/journals/corr/corr1104.html#abs-1104-5368</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1104-5660" mdate="2018-08-13">
+<author>Sayaka Kamei</author>
+<author>Anissa Lamani</author>
+<author>Fukuhito Ooshita</author>
+<author>Sébastien Tixeuil</author>
+<title>Asynchronous mobile robot gathering from symmetric configurations without global multiplicity detection</title>
+<ee type="oa">http://arxiv.org/abs/1104.5660</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1104.5660</volume>
+<url>db/journals/corr/corr1104.html#abs-1104-5660</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1105-2461" mdate="2018-08-13">
+<author>Stéphane Devismes</author>
+<author>Anissa Lamani</author>
+<author>Franck Petit</author>
+<author>Pascal Raymond</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal grid exploration by asynchronous oblivious robots</title>
+<ee type="oa">http://arxiv.org/abs/1105.2461</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1105.2461</volume>
+<url>db/journals/corr/corr1105.html#abs-1105-2461</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1106-0113" mdate="2018-08-13">
+<author>Taisuke Izumi</author>
+<author>Zohir Bouzid</author>
+<author>Sébastien Tixeuil</author>
+<author>Koichi Wada</author>
+<title>The BG-simulation for Byzantine Mobile Robots</title>
+<ee type="oa">http://arxiv.org/abs/1106.0113</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1106.0113</volume>
+<url>db/journals/corr/corr1106.html#abs-1106-0113</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1110-0334" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Sébastien Tixeuil</author>
+<title>A Taxonomy of Daemons in Self-stabilization</title>
+<ee type="oa">http://arxiv.org/abs/1110.0334</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1110.0334</volume>
+<url>db/journals/corr/corr1110.html#abs-1110-0334</url>
+</article>
+</r>
+<r><article key="journals/jpdc/DelaetDNT10" mdate="2017-05-26">
+<author>Sylvie Delaët</author>
+<author>Stéphane Devismes</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Snap-stabilization in message-passing systems.</title>
+<pages>1220-1230</pages>
+<year>2010</year>
+<volume>70</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<number>12</number>
+<url>db/journals/jpdc/jpdc70.html#DelaetDNT10</url>
+</article>
+</r>
+<r><article key="journals/tcs/MasuzawaT10" mdate="2017-05-28">
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Quiescence of self-stabilizing gossiping among mobile agents in graphs.</title>
+<pages>1567-1582</pages>
+<year>2010</year>
+<volume>411</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>14-15</number>
+<url>db/journals/tcs/tcs411.html#MasuzawaT10</url>
+</article>
+</r>
+<r><article key="journals/tcs/BouzidPT10" mdate="2017-05-28">
+<author>Zohir Bouzid</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal Byzantine-resilient convergence in uni-dimensional robot networks.</title>
+<pages>3154-3168</pages>
+<year>2010</year>
+<volume>411</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>34-36</number>
+<url>db/journals/tcs/tcs411.html#BouzidPT10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cocoon/KameiKDT10" mdate="2017-05-23">
+<author>Sayaka Kamei</author>
+<author>Hirotsugu Kakugawa</author>
+<author>Stéphane Devismes</author>
+<author>Sébastien Tixeuil</author>
+<title>A Self-stabilizing 3-Approximation for the Maximum Leaf Spanning Tree Problem in Arbitrary Networks.</title>
+<pages>80-89</pages>
+<year>2010</year>
+<booktitle>COCOON</booktitle>
+<crossref>conf/cocoon/2010</crossref>
+<url>db/conf/cocoon/cocoon2010.html#KameiKDT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crisis/LesueurRHPT10" mdate="2019-02-06">
+<author>François Lesueur</author>
+<author>Ala Rezmerita</author>
+<author>Thomas Hérault</author>
+<author>Sylvain Peyronnet</author>
+<author>Sébastien Tixeuil</author>
+<title>SAFE-OS: A secure and usable desktop operating system.</title>
+<pages>1-7</pages>
+<year>2010</year>
+<booktitle>CRiSIS</booktitle>
+<crossref>conf/crisis/2010</crossref>
+<url>db/conf/crisis/crisis2010.html#LesueurRHPT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcn/BernardDPPT10" mdate="2017-05-25">
+<author>Samuel Bernard</author>
+<author>Stéphane Devismes</author>
+<author>Katy Paroux</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Probabilistic Self-stabilizing Vertex Coloring in Unidirectional Anonymous Networks.</title>
+<pages>167-177</pages>
+<year>2010</year>
+<booktitle>ICDCN</booktitle>
+<crossref>conf/icdcn/2010</crossref>
+<url>db/conf/icdcn/icdcn2010.html#BernardDPPT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/MasuzawaT10" mdate="2017-05-21">
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Stabilizing Locally Maximizable Tasks in Unidirectional Networks Is Hard.</title>
+<pages>718-727</pages>
+<year>2010</year>
+<booktitle>ICDCS</booktitle>
+<crossref>conf/icdcs/2010</crossref>
+<url>db/conf/icdcs/icdcs2010.html#MasuzawaT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/AliT10" mdate="2018-11-06">
+<author>Ali Asim</author>
+<author>Sébastien Tixeuil</author>
+<title>Advanced faults patterns for WSN dependability benchmarking.</title>
+<pages>39-48</pages>
+<year>2010</year>
+<booktitle>MSWiM</booktitle>
+<crossref>conf/mswim/2010</crossref>
+<url>db/conf/mswim/mswim2010.html#AliT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/BouzidDPT10" mdate="2017-05-17">
+<author>Zohir Bouzid</author>
+<author>Shlomi Dolev</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>RoboCast: Asynchronous Communication in Robot Networks.</title>
+<pages>16-31</pages>
+<year>2010</year>
+<booktitle>OPODIS</booktitle>
+<crossref>conf/opodis/2010</crossref>
+<url>db/conf/opodis/opodis2010.html#BouzidDPT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/DuboisPNT10" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilizing Byzantine Asynchronous Unison<sup>, </sup>.</title>
+<pages>83-86</pages>
+<year>2010</year>
+<booktitle>OPODIS</booktitle>
+<crossref>conf/opodis/2010</crossref>
+<url>db/conf/opodis/opodis2010.html#DuboisPNT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/YamauchiT10" mdate="2017-05-17">
+<author>Yukiko Yamauchi</author>
+<author>Sébastien Tixeuil</author>
+<title>Monotonic Stabilization.</title>
+<pages>475-490</pages>
+<year>2010</year>
+<booktitle>OPODIS</booktitle>
+<crossref>conf/opodis/2010</crossref>
+<url>db/conf/opodis/opodis2010.html#YamauchiT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/GreveT10" mdate="2018-11-06">
+<author>Fabíola Greve</author>
+<author>Sébastien Tixeuil</author>
+<title>Conditions for the solvability of fault-tolerant consensus in asynchronous unknown networks: invited paper.</title>
+<pages>1</pages>
+<year>2010</year>
+<booktitle>WRAS</booktitle>
+<crossref>conf/podc/2010wras</crossref>
+<url>db/conf/podc/wras2010.html#GreveT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/YamauchiT10" mdate="2018-11-06">
+<author>Yukiko Yamauchi</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief announcement: monotonic stabilization.</title>
+<pages>406-407</pages>
+<year>2010</year>
+<booktitle>PODC</booktitle>
+<crossref>conf/podc/2010</crossref>
+<url>db/conf/podc/podc2010.html#YamauchiT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/LamaniPT10" mdate="2017-05-21">
+<author>Anissa Lamani</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal Deterministic Ring Exploration with Oblivious Asynchronous Robots.</title>
+<pages>183-196</pages>
+<year>2010</year>
+<booktitle>SIROCCO</booktitle>
+<crossref>conf/sirocco/2010</crossref>
+<url>db/conf/sirocco/sirocco2010.html#LamaniPT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BlinPRT10" mdate="2017-05-25">
+<author>Lélia Blin</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<author>Sébastien Tixeuil</author>
+<title>Loop-Free Super-Stabilizing Spanning Tree Construction.</title>
+<pages>50-64</pages>
+<year>2010</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2010</crossref>
+<url>db/conf/sss/sss2010.html#BlinPRT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/DuboisMT10" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>On Byzantine Containment Properties of the <i>min</i> + 1 Protocol.</title>
+<pages>96-110</pages>
+<year>2010</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2010</crossref>
+<url>db/conf/sss/sss2010.html#DuboisMT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/IzumiPT10" mdate="2017-05-25">
+<author>Taisuke Izumi</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Connectivity-Preserving Scattering of Mobile Robots with Limited Visibility.</title>
+<pages>319-331</pages>
+<year>2010</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2010</crossref>
+<url>db/conf/sss/sss2010.html#IzumiPT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BernardPT10" mdate="2017-05-25">
+<author>Samuel Bernard</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>A Framework for Secure and Private P2P Publish/Subscribe.</title>
+<pages>531-545</pages>
+<year>2010</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2010</crossref>
+<url>db/conf/sss/sss2010.html#BernardPT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BlinMPT10" mdate="2017-05-19">
+<author>Lélia Blin</author>
+<author>Alessia Milani</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Exclusive Perpetual Ring Exploration without Chirality.</title>
+<pages>312-327</pages>
+<year>2010</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2010</crossref>
+<url>db/conf/wdag/disc2010.html#BlinMPT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/DuboisMT10" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>The Impact of Topology on Byzantine Containment in Stabilization.</title>
+<pages>495-509</pages>
+<year>2010</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2010</crossref>
+<url>db/conf/wdag/disc2010.html#DuboisMT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/AlonADDGT10" mdate="2019-09-16">
+<author>Noga Alon</author>
+<author orcid="0000-0002-8017-6457">Hagit Attiya</author>
+<author>Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief Announcement: Sharing Memory in a Self-stabilizing Manner.</title>
+<pages>525-527</pages>
+<year>2010</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2010</crossref>
+<url>db/conf/wdag/disc2010.html#AlonADDGT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wowmom/AsimT10" mdate="2017-05-26">
+<author>Ali Asim</author>
+<author>Sébastien Tixeuil</author>
+<title>XS-WSNet: Extreme scale wireless sensor network simulation.</title>
+<pages>1-9</pages>
+<year>2010</year>
+<booktitle>WOWMOM</booktitle>
+<crossref>conf/wowmom/2010</crossref>
+<url>db/conf/wowmom/wowmom2010.html#AsimT10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/podc/2010wras" mdate="2012-11-13">
+<editor>Franck Petit</editor>
+<editor>Sébastien Tixeuil</editor>
+<title>Proceedings of the Third International Workshop on Reliability, Availability, and Security, WRAS 2010, conjunction with PODC 2010 Zurich, Switzerland, July 29, 2010</title>
+<publisher>ACM</publisher>
+<booktitle>WRAS</booktitle>
+<year>2010</year>
+<isbn>978-1-4503-0642-3</isbn>
+<url>db/conf/podc/wras2010.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1004-5256" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Construction auto-stabilisante d'arbre couvrant en dépit d'actions malicieuses</title>
+<ee type="oa">http://arxiv.org/abs/1004.5256</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1004.5256</volume>
+<url>db/journals/corr/corr1004.html#abs-1004-5256</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1005-1195" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>The Impact of Topology on Byzantine Containment in Stabilization</title>
+<ee type="oa">http://arxiv.org/abs/1005.1195</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1005.1195</volume>
+<url>db/journals/corr/corr1005.html#abs-1005-1195</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1005-3367" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilization with Byzantine tolerance for global tasks</title>
+<ee type="oa">http://arxiv.org/abs/1005.3367</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1005.3367</volume>
+<url>db/journals/corr/corr1005.html#abs-1005-3367</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1005-5223" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>On Byzantine Containment Properties of the $min+1$ Protocol</title>
+<ee type="oa">http://arxiv.org/abs/1005.5223</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1005.5223</volume>
+<url>db/journals/corr/corr1005.html#abs-1005-5223</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3009" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Maria Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<author>Sébastien Tixeuil</author>
+<title>Universal Loop-Free Super-Stabilization</title>
+<ee type="oa">http://arxiv.org/abs/1006.3009</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3009</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3009</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-5877" mdate="2018-08-13">
+<author>Zohir Bouzid</author>
+<author>Shlomi Dolev</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>RoboCast: Asynchronous Communication in Robot Networks</title>
+<ee type="oa">http://arxiv.org/abs/1006.5877</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.5877</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-5877</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1007-1802" mdate="2019-09-17">
+<author>Noga Alon</author>
+<author>Hagit Attiya</author>
+<author>Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu</author>
+<author>Sébastien Tixeuil</author>
+<title>Practically Stabilizing Atomic Memory</title>
+<ee type="oa">http://arxiv.org/abs/1007.1802</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1007.1802</volume>
+<url>db/journals/corr/corr1007.html#abs-1007-1802</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1011-3632" mdate="2019-09-17">
+<author>Shlomi Dolev</author>
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Stabilizing data-link over non-FIFO channels with optimal fault-resilience</title>
+<ee type="oa">http://arxiv.org/abs/1011.3632</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1011.3632</volume>
+<url>db/journals/corr/corr1011.html#abs-1011-3632</url>
+</article>
+</r>
+<r><article key="journals/taas/DanturiNT09" mdate="2018-11-06">
+<author>Praveen Danturi</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilizing philosophers with generic conflicts.</title>
+<year>2009</year>
+<volume>4</volume>
+<journal>TAAS</journal>
+<number>1</number>
+<url>db/journals/taas/taas4.html#DanturiNT09</url>
+<pages>7:1-7:20</pages>
+</article>
+</r>
+<r><article key="journals/taas/MasuzawaT09" mdate="2018-11-06">
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>On bootstrapping topology knowledge in anonymous networks.</title>
+<year>2009</year>
+<volume>4</volume>
+<journal>TAAS</journal>
+<number>1</number>
+<url>db/journals/taas/taas4.html#MasuzawaT09</url>
+<pages>8:1-8:27</pages>
+</article>
+</r>
+<r><article key="journals/tcs/ManneMPT09" mdate="2017-05-28">
+<author>Fredrik Manne</author>
+<author>Morten Mjelde</author>
+<author>Laurence Pilard</author>
+<author>Sébastien Tixeuil</author>
+<title>A new self-stabilizing maximal matching algorithm.</title>
+<pages>1336-1345</pages>
+<year>2009</year>
+<volume>410</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>14</number>
+<url>db/journals/tcs/tcs410.html#ManneMPT09</url>
+</article>
+</r>
+<r><article key="journals/tpds/NesterenkoT09" mdate="2017-05-27">
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Discovering Network Topology in the Presence of Byzantine Faults.</title>
+<pages>1777-1789</pages>
+<year>2009</year>
+<volume>20</volume>
+<journal>IEEE Trans. Parallel Distrib. Syst.</journal>
+<number>12</number>
+<url>db/journals/tpds/tpds20.html#NesterenkoT09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcn/BouzidPT09" mdate="2017-05-25">
+<author>Zohir Bouzid</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Byzantine-Resilient Convergence in Oblivious Robot Networks.</title>
+<pages>275-280</pages>
+<year>2009</year>
+<booktitle>ICDCN</booktitle>
+<crossref>conf/icdcn/2009</crossref>
+<url>db/conf/icdcn/icdcn2009.html#BouzidPT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcn/DelaetDNT09" mdate="2017-05-25">
+<author>Sylvie Delaët</author>
+<author>Stéphane Devismes</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Snap-Stabilization in Message-Passing Systems.</title>
+<pages>281-286</pages>
+<year>2009</year>
+<booktitle>ICDCN</booktitle>
+<crossref>conf/icdcn/2009</crossref>
+<url>db/conf/icdcn/icdcn2009.html#DelaetDNT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/DevismesMT09" mdate="2017-05-21">
+<author>Stéphane Devismes</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Communication Efficiency in Self-Stabilizing Silent Protocols.</title>
+<pages>474-481</pages>
+<year>2009</year>
+<booktitle>ICDCS</booktitle>
+<crossref>conf/icdcs/2009</crossref>
+<url>db/conf/icdcs/icdcs2009.html#DevismesMT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/BernardDPT09" mdate="2017-05-24">
+<author>Samuel Bernard</author>
+<author>Stéphane Devismes</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal deterministic self-stabilizing vertex coloring in unidirectional anonymous networks.</title>
+<pages>1-8</pages>
+<year>2009</year>
+<booktitle>IPDPS</booktitle>
+<crossref>conf/ipps/2009</crossref>
+<url>db/conf/ipps/ipdps2009.html#BernardDPT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/BouzidPT09" mdate="2017-05-17">
+<author>Zohir Bouzid</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Byzantine Convergence in Robot Networks: The Price of Asynchrony.</title>
+<pages>54-70</pages>
+<year>2009</year>
+<booktitle>OPODIS</booktitle>
+<crossref>conf/opodis/2009</crossref>
+<url>db/conf/opodis/opodis2009.html#BouzidPT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/DevismesPT09" mdate="2017-05-21">
+<author>Stéphane Devismes</author>
+<author>Franck Petit</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal Probabilistic Ring Exploration by Semi-synchronous Oblivious Robots.</title>
+<pages>195-208</pages>
+<year>2009</year>
+<booktitle>SIROCCO</booktitle>
+<crossref>conf/sirocco/2009</crossref>
+<url>db/conf/sirocco/sirocco2009.html#DevismesPT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BouzidPT09" mdate="2017-05-25">
+<author>Zohir Bouzid</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal Byzantine Resilient Convergence in Asynchronous Robots Networks.</title>
+<pages>165-179</pages>
+<year>2009</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2009</crossref>
+<url>db/conf/sss/sss2009.html#BouzidPT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/DuboisPT09" mdate="2018-11-02">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Brief Announcement: Dynamic FTSS in Asynchronous Systems: The Case of Unison.</title>
+<pages>291-293</pages>
+<year>2009</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2009</crossref>
+<url>db/conf/wdag/disc2009.html#DuboisPT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BlinPRT09" mdate="2017-05-19">
+<author>Lélia Blin</author>
+<author>Maria Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<author>Sébastien Tixeuil</author>
+<title>A New Self-stabilizing Minimum Spanning Tree Construction with Loop-Free Property.</title>
+<pages>407-422</pages>
+<year>2009</year>
+<booktitle>DISC</booktitle>
+<crossref>conf/wdag/2009</crossref>
+<url>db/conf/wdag/disc2009.html#BlinPRT09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0902-1834" mdate="2018-08-13">
+<author>Stéphane Devismes</author>
+<author>Franck Petit</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal Probabilistic Ring Exploration by Asynchronous Oblivious Robots</title>
+<ee type="oa">http://arxiv.org/abs/0902.1834</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0902.1834</volume>
+<url>db/journals/corr/corr0902.html#abs-0902-1834</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0903-3106" mdate="2018-08-13">
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Stabilizing Maximal Independent Set in Unidirectional Networks is Hard</title>
+<ee type="oa">http://arxiv.org/abs/0903.3106</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0903.3106</volume>
+<url>db/journals/corr/corr0903.html#abs-0903-3106</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-4615" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Dynamic FTSS in Asynchronous Systems: the Case of Unison</title>
+<ee type="oa">http://arxiv.org/abs/0904.4615</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.4615</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-4615</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0905-2287" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Stephane Rovedakis</author>
+<author>Sébastien Tixeuil</author>
+<title>A New Self-Stabilizing Minimum Spanning Tree Construction with Loop-free Property</title>
+<ee type="oa">http://arxiv.org/abs/0905.2287</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0905.2287</volume>
+<url>db/journals/corr/corr0905.html#abs-0905-2287</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0905-3967" mdate="2018-08-13">
+<author>Zohir Bouzid</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal byzantine resilient convergence in oblivious robot networks</title>
+<ee type="oa">http://arxiv.org/abs/0905.3967</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0905.3967</volume>
+<url>db/journals/corr/corr0905.html#abs-0905-3967</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0906-0651" mdate="2018-08-13">
+<author>Zohir Bouzid</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal Byzantine Resilient Convergence in Asynchronous Robot Networks</title>
+<ee type="oa">http://arxiv.org/abs/0906.0651</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0906.0651</volume>
+<url>db/journals/corr/corr0906.html#abs-0906-0651</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0906-1947" mdate="2018-08-13">
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Ideal Stabilization</title>
+<ee type="oa">http://arxiv.org/abs/0906.1947</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0906.1947</volume>
+<url>db/journals/corr/corr0906.html#abs-0906-1947</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0908-0390" mdate="2018-08-13">
+<author>Zohir Bouzid</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Byzantine Convergence in Robots Networks: The Price of Asynchrony</title>
+<ee type="oa">http://arxiv.org/abs/0908.0390</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0908.0390</volume>
+<url>db/journals/corr/corr0908.html#abs-0908-0390</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0910-0832" mdate="2018-08-13">
+<author>Anissa Lamani</author>
+<author>Maria Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal deterministic ring exploration with oblivious asynchronous robots</title>
+<ee type="oa">http://arxiv.org/abs/0910.0832</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0910.0832</volume>
+<url>db/journals/corr/corr0910.html#abs-0910-0832</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0912-0134" mdate="2019-09-17">
+<author orcid="0000-0003-2320-6178">Swan Dubois</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilizing Byzantine Asynchronous Unison</title>
+<ee type="oa">http://arxiv.org/abs/0912.0134</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0912.0134</volume>
+<url>db/journals/corr/corr0912.html#abs-0912-0134</url>
+</article>
+</r>
+<r><article key="journals/taas/CohenDGT08" mdate="2018-11-06">
+<author>Johanne Cohen</author>
+<author>Anurag Dasgupta</author>
+<author>Sukumar Ghosh</author>
+<author>Sébastien Tixeuil</author>
+<title>An exercise in selfish stabilization.</title>
+<year>2008</year>
+<volume>3</volume>
+<journal>TAAS</journal>
+<number>4</number>
+<url>db/journals/taas/taas3.html#CohenDGT08</url>
+<pages>15:1-15:12</pages>
+</article>
+</r>
+<r><inproceedings key="conf/dcoss/DelaetMRT08" mdate="2019-09-25">
+<author>Sylvie Delaët</author>
+<author orcid="0000-0002-8632-5767">Partha Sarathi Mandal 0001</author>
+<author>Mariusz A. Rokicki</author>
+<author>Sébastien Tixeuil</author>
+<title>Deterministic Secure Positioning in Wireless Sensor Networks.</title>
+<pages>469-477</pages>
+<year>2008</year>
+<booktitle>DCOSS</booktitle>
+<crossref>conf/dcoss/2008</crossref>
+<url>db/conf/dcoss/dcoss2008.html#DelaetMRT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/DevismesTY08" mdate="2017-05-21">
+<author>Stéphane Devismes</author>
+<author>Sébastien Tixeuil</author>
+<author>Masafumi Yamashita</author>
+<title>Weak vs. Self vs. Probabilistic Stabilization.</title>
+<pages>681-688</pages>
+<year>2008</year>
+<booktitle>ICDCS</booktitle>
+<crossref>conf/icdcs/2008</crossref>
+<url>db/conf/icdcs/icdcs2008.html#DevismesTY08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/DelaetDNT08" mdate="2018-11-06">
+<author>Sylvie Delaët</author>
+<author>Stéphane Devismes</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Snap-stabilization in message-passing systems.</title>
+<pages>443</pages>
+<year>2008</year>
+<booktitle>PODC</booktitle>
+<crossref>conf/podc/2008</crossref>
+<url>db/conf/podc/podc2008.html#DelaetDNT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/MasuzawaT08" mdate="2017-05-21">
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Quiescence of Self-stabilizing Gossiping among Mobile Agents in Graphs.</title>
+<pages>247-261</pages>
+<year>2008</year>
+<booktitle>SIROCCO</booktitle>
+<crossref>conf/sirocco/2008</crossref>
+<url>db/conf/sirocco/sirocco2008.html#MasuzawaT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/VoraNTD08" mdate="2017-05-25">
+<author>Adnan Vora</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<author>Sylvie Delaët</author>
+<title>Universe Detectors for Sybil Defense in Ad Hoc Wireless Networks.</title>
+<pages>63-78</pages>
+<year>2008</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2008</crossref>
+<url>db/conf/sss/sss2008.html#VoraNTD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/ManneMPT08" mdate="2017-05-25">
+<author>Fredrik Manne</author>
+<author>Morten Mjelde</author>
+<author>Laurence Pilard</author>
+<author>Sébastien Tixeuil</author>
+<title>A Self-stabilizing -Approximation Algorithm for the Maximum Matching Problem.</title>
+<pages>94-108</pages>
+<year>2008</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2008</crossref>
+<url>db/conf/sss/sss2008.html#ManneMPT08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/opodis/2008" mdate="2019-05-14">
+<editor>Theodore P. Baker</editor>
+<editor>Alain Bui</editor>
+<editor>Sébastien Tixeuil</editor>
+<title>Principles of Distributed Systems, 12th International Conference, OPODIS 2008, Luxor, Egypt, December 15-18, 2008. Proceedings</title>
+<booktitle>OPODIS</booktitle>
+<volume>5401</volume>
+<year>2008</year>
+<isbn>978-3-540-92220-9</isbn>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/opodis/opodis2008.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0802-1123" mdate="2018-08-13">
+<author>Sylvie Delaët</author>
+<author>Stéphane Devismes</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Snap-Stabilization in Message-Passing Systems</title>
+<ee type="oa">http://arxiv.org/abs/0802.1123</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0802.1123</volume>
+<url>db/journals/corr/corr0802.html#abs-0802-1123</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0802-1387" mdate="2018-08-13">
+<author>Nathalie Mitton</author>
+<author>Katy Paroux</author>
+<author>Bruno Sericola</author>
+<author>Sébastien Tixeuil</author>
+<title>Ascending runs in dependent uniformly distributed random variables: Application to wireless networks</title>
+<ee type="oa">http://arxiv.org/abs/0802.1387</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0802.1387</volume>
+<url>db/journals/corr/corr0802.html#abs-0802-1387</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0803-0189" mdate="2018-08-13">
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Quiescence of Self-stabilizing Gossiping among Mobile Agents in Graphs</title>
+<ee type="oa">http://arxiv.org/abs/0803.0189</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0803.0189</volume>
+<url>db/journals/corr/corr0803.html#abs-0803-0189</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0805-0087" mdate="2018-08-13">
+<author>Adnan Vora</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<author>Sylvie Delaët</author>
+<title>Universe Detectors for Sybil Defense in Ad Hoc Wireless Networks</title>
+<ee type="oa">http://arxiv.org/abs/0805.0087</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0805.0087</volume>
+<url>db/journals/corr/corr0805.html#abs-0805-0087</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0805-0851" mdate="2018-08-13">
+<author>Samuel Bernard</author>
+<author>Stéphane Devismes</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>Bounds for self-stabilization in unidirectional networks</title>
+<ee type="oa">http://arxiv.org/abs/0805.0851</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0805.0851</volume>
+<url>db/journals/corr/corr0805.html#abs-0805-0851</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0811-3760" mdate="2018-08-13">
+<author>Stéphane Devismes</author>
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Communication Efficiency in Self-stabilizing Silent Protocols</title>
+<ee type="oa">http://arxiv.org/abs/0811.3760</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0811.3760</volume>
+<url>db/journals/corr/corr0811.html#abs-0811-3760</url>
+</article>
+</r>
+<r><article key="journals/dc/BeauquierDDT07" mdate="2019-10-19">
+<author>Joffroy Beauquier</author>
+<author>Sylvie Delaët</author>
+<author orcid="0000-0001-5418-6670">Shlomi Dolev</author>
+<author>Sébastien Tixeuil</author>
+<title>Transient fault detectors.</title>
+<pages>39-51</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>Distributed Computing</journal>
+<number>1</number>
+<url>db/journals/dc/dc20.html#BeauquierDDT07</url>
+</article>
+</r>
+<r><article key="journals/entcs/CadilhacHLPT07" mdate="2017-05-28">
+<author>Michaël Cadilhac</author>
+<author>Thomas Hérault</author>
+<author>Richard Lassaigne</author>
+<author>Sylvain Peyronnet</author>
+<author>Sébastien Tixeuil</author>
+<title>Evaluating Complex MAC Protocols for Sensor Networks with APMC.</title>
+<pages>33-46</pages>
+<year>2007</year>
+<volume>185</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs185.html#CadilhacHLPT07</url>
+</article>
+</r>
+<r><article key="journals/fgcs/HoarauTV07" mdate="2017-05-27">
+<author>William Hoarau</author>
+<author>Sébastien Tixeuil</author>
+<author>Fabien Vauchelles</author>
+<title>FAIL-FCI: Versatile fault injection.</title>
+<pages>913-919</pages>
+<year>2007</year>
+<volume>23</volume>
+<journal>Future Generation Comp. Syst.</journal>
+<number>7</number>
+<url>db/journals/fgcs/fgcs23.html#HoarauTV07</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsn/GreveT07" mdate="2017-05-21">
+<author>Fabíola Greve</author>
+<author>Sébastien Tixeuil</author>
+<title>Knowledge Connectivity vs. Synchrony Requirements for Fault-Tolerant Agreement in Unknown Networks.</title>
+<pages>82-91</pages>
+<year>2007</year>
+<crossref>conf/dsn/2007</crossref>
+<booktitle>DSN</booktitle>
+<url>db/conf/dsn/dsn2007.html#GreveT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/GradinariuT07" mdate="2017-05-21">
+<author>Maria Gradinariu</author>
+<author>Sébastien Tixeuil</author>
+<title>Conflict Managers for Self-stabilization without Fairness Assumption.</title>
+<pages>46</pages>
+<year>2007</year>
+<crossref>conf/icdcs/2007</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs2007.html#GradinariuT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/BlinPT07" mdate="2017-05-17">
+<author>Lélia Blin</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>On the Self-stabilization of Mobile Robots in Graphs.</title>
+<pages>301-314</pages>
+<year>2007</year>
+<booktitle>OPODIS</booktitle>
+<crossref>conf/opodis/2007</crossref>
+<url>db/conf/opodis/opodis2007.html#BlinPT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/ManneMPT07" mdate="2017-05-21">
+<author>Fredrik Manne</author>
+<author>Morten Mjelde</author>
+<author>Laurence Pilard</author>
+<author>Sébastien Tixeuil</author>
+<title>A New Self-stabilizing Maximal Matching Algorithm.</title>
+<pages>96-108</pages>
+<year>2007</year>
+<crossref>conf/sirocco/2007</crossref>
+<booktitle>SIROCCO</booktitle>
+<url>db/conf/sirocco/sirocco2007.html#ManneMPT07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sss/2007" mdate="2019-05-14">
+<editor>Toshimitsu Masuzawa</editor>
+<editor>Sébastien Tixeuil</editor>
+<title>Stabilization, Safety, and Security of Distributed Systems, 9th International Symposium, SSS 2007, Paris, France, November 14-16, 2007, Proceedings</title>
+<booktitle>SSS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4838</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-76626-1</isbn>
+<url>db/conf/sss/sss2007.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0708-0909" mdate="2018-08-13">
+<author>Lélia Blin</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Sébastien Tixeuil</author>
+<title>On the Self-stabilization of Mobile Robots in Graphs</title>
+<ee type="oa">http://arxiv.org/abs/0708.0909</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0708.0909</volume>
+<url>db/journals/corr/corr0708.html#abs-0708-0909</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0710-3824" mdate="2018-08-13">
+<author>Sylvie Delaët</author>
+<author>Partha Sarathi Mandal 0001</author>
+<author>Mariusz A. Rokicki</author>
+<author>Sébastien Tixeuil</author>
+<title>Deterministic Secure Positioning in Wireless Sensor Networks</title>
+<ee type="oa">http://arxiv.org/abs/0710.3824</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0710.3824</volume>
+<url>db/journals/corr/corr0710.html#abs-0710-3824</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0711-3672" mdate="2018-08-13">
+<author>Stéphane Devismes</author>
+<author>Sébastien Tixeuil</author>
+<author>Masafumi Yamashita</author>
+<title>Weak vs. Self vs. Probabilistic Stabilization</title>
+<ee type="oa">http://arxiv.org/abs/0711.3672</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0711.3672</volume>
+<url>db/journals/corr/corr0711.html#abs-0711-3672</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701189" mdate="2018-08-13">
+<author>Fredrik Manne</author>
+<author>Morten Mjelde</author>
+<author>Laurence Pilard</author>
+<author>Sébastien Tixeuil</author>
+<title>A New Self-Stabilizing Maximal Matching Algorithm</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701189</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701189</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701189</url>
+</article>
+</r>
+<r><book publtype="habil" key="books/hal/Tixeuil06" mdate="2017-09-28">
+<author>Sébastien Tixeuil</author>
+<title>Vers l'auto-stabilisation des systèmes à grande échelle. (Toward self-stabilizing large-scale systems).</title>
+<year>2006</year>
+<school>University of Paris-Sud, Orsay, France</school>
+</book>
+</r>
+<r><article key="journals/jacic/DelaetDT06" mdate="2017-05-18">
+<author>Sylvie Delaët</author>
+<author>Bertrand Ducourthial</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilization with r-Operators revisited.</title>
+<pages>498-514</pages>
+<year>2006</year>
+<volume>3</volume>
+<journal>JACIC</journal>
+<number>10</number>
+<url>db/journals/jacic/jacic3.html#DelaetDT06</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/FraigniaudIRT06" mdate="2017-05-23">
+<author>Pierre Fraigniaud</author>
+<author>David Ilcinkas</author>
+<author>Sergio Rajsbaum</author>
+<author>Sébastien Tixeuil</author>
+<title>The Reduced Automata Technique for Graph Exploration Space Lower Bounds.</title>
+<pages>1-26</pages>
+<year>2006</year>
+<crossref>conf/birthday/2006even</crossref>
+<booktitle>Essays in Memory of Shimon Even</booktitle>
+<url>db/conf/birthday/even2006.html#FraigniaudIRT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cluster/HoarauLHRTC06" mdate="2017-05-21">
+<author>William Hoarau</author>
+<author>Pierre Lemarinier</author>
+<author>Thomas Hérault</author>
+<author>Eric Rodriguez</author>
+<author>Sébastien Tixeuil</author>
+<author>Franck Cappello</author>
+<title>FAIL-MPI: How Fault-Tolerant Is Fault-Tolerant MPI?</title>
+<year>2006</year>
+<crossref>conf/cluster/2006</crossref>
+<booktitle>CLUSTER</booktitle>
+<url>db/conf/cluster/cluster2006.html#HoarauLHRTC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coregrid/HoarauTRSS06" mdate="2017-05-25">
+<author>William Hoarau</author>
+<author>Sébastien Tixeuil</author>
+<author>Nuno Rodrigues</author>
+<author>Décio Sousa</author>
+<author>Luís Moura Silva</author>
+<title>Dependability Evaluation of The Ogsa-Dai Middleware.</title>
+<pages>223-236</pages>
+<year>2006</year>
+<booktitle>CoreGRID Integration Workshop</booktitle>
+<crossref>conf/coregrid/2006iw</crossref>
+<url>db/conf/coregrid/coregrid2006iw.html#HoarauTRSS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/MittonFLST06" mdate="2017-05-26">
+<author>Nathalie Mitton</author>
+<author>Eric Fleury</author>
+<author>Isabelle Guérin Lassous</author>
+<author>Bruno Sericola</author>
+<author>Sébastien Tixeuil</author>
+<title>Fast Convergence in Self-Stabilizing Wireless Networks.</title>
+<pages>31-38</pages>
+<year>2006</year>
+<crossref>conf/icpads/2006</crossref>
+<booktitle>ICPADS (1)</booktitle>
+<url>db/conf/icpads/icpads2006-1.html#MittonFLST06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/HoarauTV06" mdate="2017-05-24">
+<author>William Hoarau</author>
+<author>Sébastien Tixeuil</author>
+<author>Fabien Vauchelles</author>
+<title>Fault injection in distributed Java applications.</title>
+<year>2006</year>
+<crossref>conf/ipps/2006</crossref>
+<booktitle>IPDPS</booktitle>
+<url>db/conf/ipps/ipdps2006.html#HoarauTV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/NesterenkoT06" mdate="2017-05-21">
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Discovering Network Topology in the Presence of Byzantine Faults.</title>
+<pages>212-226</pages>
+<year>2006</year>
+<crossref>conf/sirocco/2006</crossref>
+<booktitle>SIROCCO</booktitle>
+<url>db/conf/sirocco/sirocco2006.html#NesterenkoT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/DanturiNT06" mdate="2017-05-25">
+<author>Praveen Danturi</author>
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilizing Philosophers with Generic Conflicts.</title>
+<pages>214-230</pages>
+<year>2006</year>
+<crossref>conf/sss/2006</crossref>
+<booktitle>SSS</booktitle>
+<url>db/conf/sss/sss2006.html#DanturiNT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/DasguptaGT06" mdate="2017-05-25">
+<author>Anurag Dasgupta</author>
+<author>Sukumar Ghosh</author>
+<author>Sébastien Tixeuil</author>
+<title>Selfish Stabilization.</title>
+<pages>231-243</pages>
+<year>2006</year>
+<crossref>conf/sss/2006</crossref>
+<booktitle>SSS</booktitle>
+<url>db/conf/sss/sss2006.html#DasguptaGT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/MasuzawaT06" mdate="2017-05-25">
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>Bounding the Impact of Unbounded Attacks in Stabilization.</title>
+<pages>440-453</pages>
+<year>2006</year>
+<crossref>conf/sss/2006</crossref>
+<booktitle>SSS</booktitle>
+<url>db/conf/sss/sss2006.html#MasuzawaT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/MasuzawaT06a" mdate="2017-05-25">
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>On Bootstrapping Topology Knowledge in Anonymous Networks.</title>
+<pages>454-468</pages>
+<year>2006</year>
+<crossref>conf/sss/2006</crossref>
+<booktitle>SSS</booktitle>
+<url>db/conf/sss/sss2006.html#MasuzawaT06a</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0611116" mdate="2018-08-13">
+<author>Mikhail Nesterenko</author>
+<author>Sébastien Tixeuil</author>
+<title>Discovering Network Topology in the Presence of Byzantine Faults</title>
+<ee type="oa">http://arxiv.org/abs/cs/0611116</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0611116</volume>
+<url>db/journals/corr/corr0611.html#abs-cs-0611116</url>
+</article>
+</r>
+<r><article key="journals/jhsn/ChenDT05" mdate="2015-05-18">
+<author>Yu Chen</author>
+<author>Ajoy Kumar Datta</author>
+<author>Sébastien Tixeuil</author>
+<title>Stabilizing inter-domain routing in the Internet.</title>
+<pages>21-37</pages>
+<year>2005</year>
+<volume>14</volume>
+<journal>J. High Speed Networks</journal>
+<number>1</number>
+<url>db/journals/jhsn/jhsn14.html#ChenDT05</url>
+</article>
+</r>
+<r><inproceedings key="conf/grid/HoarauT05" mdate="2017-05-26">
+<author>William Hoarau</author>
+<author>Sébastien Tixeuil</author>
+<title>A language-driven tool for fault injection in distributed systems.</title>
+<pages>194-201</pages>
+<year>2005</year>
+<crossref>conf/grid/2005</crossref>
+<booktitle>GRID</booktitle>
+<url>db/conf/grid/grid2005.html#HoarauT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcsw/MittonFLT05" mdate="2017-05-26">
+<author>Nathalie Mitton</author>
+<author>Eric Fleury</author>
+<author>Isabelle Guérin Lassous</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilization in Self-Organized Multihop Wireless Networks.</title>
+<pages>909-915</pages>
+<year>2005</year>
+<crossref>conf/icdcsw/2005</crossref>
+<booktitle>ICDCS Workshops</booktitle>
+<url>db/conf/icdcsw/icdcsw2005.html#MittonFLT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/MasuzawaT05" mdate="2017-05-17">
+<author>Toshimitsu Masuzawa</author>
+<author>Sébastien Tixeuil</author>
+<title>A Self-stabilizing Link-Coloring Protocol Resilient to Unbounded Byzantine Faults in Arbitrary Networks.</title>
+<pages>118-129</pages>
+<year>2005</year>
+<crossref>conf/opodis/2005</crossref>
+<booktitle>OPODIS</booktitle>
+<url>db/conf/opodis/opodis2005.html#MasuzawaT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/FraigniaudIRT05" mdate="2017-05-21">
+<author>Pierre Fraigniaud</author>
+<author>David Ilcinkas</author>
+<author>Sergio Rajsbaum</author>
+<author>Sébastien Tixeuil</author>
+<title>Space Lower Bounds for Graph Exploration via Reduced Automata.</title>
+<pages>140-154</pages>
+<year>2005</year>
+<crossref>conf/sirocco/2005</crossref>
+<booktitle>SIROCCO</booktitle>
+<url>db/conf/sirocco/sirocco2005.html#FraigniaudIRT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/DelaetDT05" mdate="2017-05-25">
+<author>Sylvie Delaët</author>
+<author>Bertrand Ducourthial</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilization with r-Operators Revisited.</title>
+<pages>68-80</pages>
+<year>2005</year>
+<crossref>conf/sss/2005</crossref>
+<booktitle>Self-Stabilizing Systems</booktitle>
+<url>db/conf/sss/sss2005.html#DelaetDT05</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sss/2005" mdate="2019-05-14">
+<editor>Ted Herman</editor>
+<editor>Sébastien Tixeuil</editor>
+<title>Self-Stabilizing Systems, 7th International Symposium, SSS 2005, Barcelona, Spain, October 26-27, 2005, Proceedings</title>
+<volume>3764</volume>
+<year>2005</year>
+<isbn>3-540-29814-2</isbn>
+<booktitle>Self-Stabilizing Systems</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/sss/sss2005.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cj/DattaGT04" mdate="2017-05-20">
+<author>Ajoy Kumar Datta</author>
+<author>Maria Gradinariu</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilizing Mutual Exclusion Under Arbitrary Scheduler.</title>
+<pages>289-298</pages>
+<year>2004</year>
+<volume>47</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj47.html#DattaGT04</url>
+</article>
+</r>
+<r><article key="journals/tsi/JohnenPT04" mdate="2017-05-20">
+<author>Colette Johnen</author>
+<author>Franck Petit</author>
+<author>Sébastien Tixeuil</author>
+<title>Autostabilisation et protocoles réseau.</title>
+<pages>1027-1056</pages>
+<year>2004</year>
+<volume>23</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>8</number>
+<url>db/journals/tsi/tsi23.html#JohnenPT04</url>
+</article>
+</r>
+<r><inproceedings key="conf/algosensors/HermanT04" mdate="2017-05-19">
+<author>Ted Herman</author>
+<author>Sébastien Tixeuil</author>
+<title>A Distributed TDMA Slot Assignment Algorithm for Wireless Sensor Networks.</title>
+<pages>45-58</pages>
+<year>2004</year>
+<crossref>conf/algosensors/2004</crossref>
+<booktitle>ALGOSENSORS</booktitle>
+<url>db/conf/algosensors/algosensors2004.html#HermanT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/DuchonHT04" mdate="2017-05-19">
+<author>Philippe Duchon</author>
+<author>Nicolas Hanusse</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal Randomized Self-stabilizing Mutual Exclusion on Synchronous Rings.</title>
+<pages>216-229</pages>
+<year>2004</year>
+<crossref>conf/wdag/2004</crossref>
+<booktitle>DISC</booktitle>
+<url>db/conf/wdag/disc2004.html#DuchonHT04</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DC-0405042" mdate="2018-08-13">
+<author>Ted Herman</author>
+<author>Sébastien Tixeuil</author>
+<title>A Distributed TDMA Slot Assignment Algorithm for Wireless Sensor Networks</title>
+<ee type="oa">http://arxiv.org/abs/cs.DC/0405042</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.DC/0405042</volume>
+<url>db/journals/corr/corr0405.html#cs-DC-0405042</url>
+</article>
+</r>
+<r><article key="journals/jise/DattaGK03" mdate="2007-10-24">
+<author>Ajoy Kumar Datta</author>
+<author>Maria Gradinariu</author>
+<author>Anthony B. Kenitzki</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilizing Wormhole Routing on Ring Networks.</title>
+<pages>401-414</pages>
+<year>2003</year>
+<volume>19</volume>
+<journal>J. Inf. Sci. Eng.</journal>
+<number>3</number>
+<url>db/journals/jise/jise19.html#DattaGK03</url>
+</article>
+</r>
+<r><article key="journals/tcs/DucourthialT03" mdate="2017-05-28">
+<author>Bertrand Ducourthial</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilization with path algebra.</title>
+<pages>219-236</pages>
+<year>2003</year>
+<volume>293</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/tcs/tcs293.html#DucourthialT03</url>
+</article>
+</r>
+<r><inproceedings key="conf/rivf/DelaetNT03" mdate="2004-02-04">
+<author>Sylvie Delaët</author>
+<author>Duy-So Nguyen</author>
+<author>Sébastien Tixeuil</author>
+<title>Stabilite Et Auto-Stabilisation Du Routage Inter-Domaine Dans Internet.</title>
+<pages>139-144</pages>
+<year>2003</year>
+<crossref>conf/rivf/2003</crossref>
+<booktitle>RIVF</booktitle>
+<url>db/conf/rivf/rivf2003.html#DelaetNT03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/JohnenT03" mdate="2017-05-25">
+<author>Colette Johnen</author>
+<author>Sébastien Tixeuil</author>
+<title>Route Preserving Stabilization.</title>
+<pages>184-198</pages>
+<year>2003</year>
+<crossref>conf/sss/2003</crossref>
+<booktitle>Self-Stabilizing Systems</booktitle>
+<url>db/conf/sss/sss2003.html#JohnenT03</url>
+</inproceedings>
+</r>
+<r><article key="journals/jpdc/DelaetT02" mdate="2017-05-26">
+<author>Sylvie Delaët</author>
+<author>Sébastien Tixeuil</author>
+<title>Tolerating Transient and Intermittent Failures.</title>
+<pages>961-981</pages>
+<year>2002</year>
+<volume>62</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<number>5</number>
+<url>db/journals/jpdc/jpdc62.html#DelaetT02</url>
+</article>
+</r>
+<r><article key="journals/ppl/JohnenADT02" mdate="2017-05-17">
+<author>Colette Johnen</author>
+<author>Luc Onana Alima</author>
+<author>Ajoy Kumar Datta</author>
+<author>Sébastien Tixeuil</author>
+<title>Optimal Snap-Stabilizing Neighborhood Synchronizer in Tree Networks.</title>
+<pages>327-340</pages>
+<year>2002</year>
+<volume>12</volume>
+<journal>Parallel Processing Letters</journal>
+<number>3-4</number>
+<url>db/journals/ppl/ppl12.html#JohnenADT02</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/ChenDT02" mdate="2017-05-24">
+<author>Yu Chen</author>
+<author>Ajoy Kumar Datta</author>
+<author>Sébastien Tixeuil</author>
+<title>Stabilizing Inter-domain Routing in the Internet (Research Note).</title>
+<pages>749-752</pages>
+<year>2002</year>
+<crossref>conf/europar/2002</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2002.html#ChenDT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/DattaGKT02" mdate="2017-05-26">
+<author>Ajoy Kumar Datta</author>
+<author>Maria Gradinariu</author>
+<author>Anthony B. Kenitzki</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilizing Wormhole Routing on Ring Networks.</title>
+<pages>425-430</pages>
+<year>2002</year>
+<crossref>conf/icpads/2002</crossref>
+<booktitle>ICPADS</booktitle>
+<url>db/conf/icpads/icpads2002.html#DattaGKT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/GenoliniT02" mdate="2017-05-19">
+<author>Christophe Genolini</author>
+<author>Sébastien Tixeuil</author>
+<title>A Lower Bound on Dynamic k-Stabilization in Asynchronous Systems.</title>
+<pages>212-</pages>
+<year>2002</year>
+<crossref>conf/srds/2002</crossref>
+<booktitle>SRDS</booktitle>
+<url>db/conf/srds/srds2002.html#GenoliniT02</url>
+</inproceedings>
+</r>
+<r><article key="journals/dc/DucourthialT01" mdate="2017-05-28">
+<author>Bertrand Ducourthial</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilization with r-operators.</title>
+<pages>147-162</pages>
+<year>2001</year>
+<volume>14</volume>
+<journal>Distributed Computing</journal>
+<number>3</number>
+<url>db/journals/dc/dc14.html#DucourthialT01</url>
+</article>
+</r>
+<r><article key="journals/paapp/DattaT01" mdate="2017-05-20">
+<author>Ajoy Kumar Datta</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilizing distributed sorting in tree networks.</title>
+<pages>1-15</pages>
+<year>2001</year>
+<volume>16</volume>
+<journal>Parallel Algorithms Appl.</journal>
+<number>1</number>
+<url>db/journals/paapp/paapp16.html#DattaT01</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/GradinariuT01" mdate="2017-05-21">
+<author>Maria Gradinariu</author>
+<author>Sébastien Tixeuil</author>
+<title>Tight Space Self-Stabilizing Uniform l-Mutual Exclusion.</title>
+<pages>83-90</pages>
+<year>2001</year>
+<crossref>conf/icdcs/2001</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs2001.html#GradinariuT01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wss/Tixeuil01" mdate="2017-05-21">
+<author>Sébastien Tixeuil</author>
+<title>On a Space-Optimal Distributed Traversal Algorithm.</title>
+<pages>216-228</pages>
+<year>2001</year>
+<crossref>conf/wss/2001</crossref>
+<booktitle>WSS</booktitle>
+<url>db/conf/wss/wss2001.html#Tixeuil01</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Tixeuil00" mdate="2016-07-15">
+<author>Sébastien Tixeuil</author>
+<title>Auto-stabilisation Efficace. (Efficient Self-stabilization).</title>
+<year>2000</year>
+<school>University of Paris-Sud, Orsay, France</school>
+</phdthesis>
+</r>
+<r><article key="journals/join/DattaDLT00" mdate="2017-05-28">
+<author>Ajoy Kumar Datta</author>
+<author>Jerry L. Derby</author>
+<author>James E. Lawrence</author>
+<author>Sébastien Tixeuil</author>
+<title>Stabilizing Hierarchical Routing.</title>
+<pages>283-302</pages>
+<year>2000</year>
+<volume>1</volume>
+<journal>Journal of Interconnection Networks</journal>
+<number>4</number>
+<url>db/journals/join/join1.html#DattaDLT00</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/DattaGT00" mdate="2017-05-24">
+<author>Ajoy Kumar Datta</author>
+<author>Maria Gradinariu</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilizing Mutual Exclusion Using Unfair Distributed Scheduler.</title>
+<pages>465-470</pages>
+<year>2000</year>
+<crossref>conf/ipps/2000</crossref>
+<booktitle>IPDPS</booktitle>
+<url>db/conf/ipps/ipdps2000.html#DattaGT00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/DelaetT00" mdate="2004-02-04">
+<author>Sylvie Delaët</author>
+<author>Sébastien Tixeuil</author>
+<title>Tolerating Transient and Intermittent Failure.</title>
+<pages>17-36</pages>
+<year>2000</year>
+<crossref>conf/opodis/2000</crossref>
+<booktitle>OPODIS</booktitle>
+<url>db/conf/opodis/opodis00.html#DelaetT00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/GradinariuT00" mdate="2004-01-20">
+<author>Maria Gradinariu</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilizing Vertex Coloration and Arbitrary Graphs.</title>
+<pages>55-70</pages>
+<year>2000</year>
+<crossref>conf/opodis/2000</crossref>
+<booktitle>OPODIS</booktitle>
+<url>db/conf/opodis/opodis00.html#GradinariuT00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/DucourthialT00" mdate="2004-02-05">
+<author>Bertrand Ducourthial</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilization with path algebra.</title>
+<pages>95-109</pages>
+<year>2000</year>
+<crossref>conf/sirocco/2000</crossref>
+<booktitle>SIROCCO</booktitle>
+<url>db/conf/sirocco/sirocco2000.html#DucourthialT00</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppl/DasDT99" mdate="2019-09-10">
+<author>Sajal K. Das 0001</author>
+<author>Ajoy Kumar Datta</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilizing Algorithms in DAG Structured Networks.</title>
+<pages>563-574</pages>
+<year>1999</year>
+<volume>9</volume>
+<journal>Parallel Processing Letters</journal>
+<number>4</number>
+<url>db/journals/ppl/ppl9.html#DasDT99</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/JohnenADT99" mdate="2017-05-21">
+<author>Colette Johnen</author>
+<author>Luc Onana Alima</author>
+<author>Ajoy Kumar Datta</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilizing Neighborhood Synchronizer in Tree Networks.</title>
+<pages>487-494</pages>
+<year>1999</year>
+<crossref>conf/icdcs/1999</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs99.html#JohnenADT99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispan/DasDT99" mdate="2019-09-10">
+<author>Sajal K. Das 0001</author>
+<author>Ajoy Kumar Datta</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilizing Algorithms in DAG Structured Networks.</title>
+<pages>190-197</pages>
+<year>1999</year>
+<crossref>conf/ispan/1999</crossref>
+<booktitle>ISPAN</booktitle>
+<url>db/conf/ispan/ispan1999.html#DasDT99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wss/BeauquierDT99" mdate="2002-12-30">
+<author>Joffroy Beauquier</author>
+<author>Ajoy Kumar Datta</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-stabilizing census with cut-through constraint.</title>
+<pages>70-77</pages>
+<year>1999</year>
+<crossref>conf/wss/1999</crossref>
+<booktitle>WSS</booktitle>
+<url>db/conf/wss/wss1999.html#BeauquierDT99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/AlimaBDT98" mdate="2017-05-21">
+<author>Luc Onana Alima</author>
+<author>Joffroy Beauquier</author>
+<author>Ajoy Kumar Datta</author>
+<author>Sébastien Tixeuil</author>
+<title>Self-Stabilization with Global Rooted Synchronizers.</title>
+<pages>102-109</pages>
+<year>1998</year>
+<crossref>conf/icdcs/1998</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs98.html#AlimaBDT98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/DucourthialT98" mdate="2004-01-20">
+<author>Bertrand Ducourthial</author>
+<author>Sébastien Tixeuil</author>
+<title>SelfStabilizing Global Computations with rOperators.</title>
+<pages>99-114</pages>
+<year>1998</year>
+<crossref>conf/opodis/1998</crossref>
+<booktitle>OPODIS</booktitle>
+<url>db/conf/opodis/opodis98.html#DucourthialT98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BeauquierDDT98" mdate="2019-10-19">
+<author>Joffroy Beauquier</author>
+<author>Sylvie Delaët</author>
+<author orcid="0000-0001-5418-6670">Shlomi Dolev</author>
+<author>Sébastien Tixeuil</author>
+<title>Transient Fault Detectors.</title>
+<pages>62-74</pages>
+<year>1998</year>
+<crossref>conf/wdag/1998</crossref>
+<booktitle>DISC</booktitle>
+<url>db/conf/wdag/disc98.html#BeauquierDDT98</url>
+</inproceedings>
+</r>
+<coauthors n="133" nc="1">
+<co c="0"><na f="a/Adamek:Jordan">Jordan Adamek</na></co>
+<co c="0"><na f="a/Aflaki:Saba">Saba Aflaki</na></co>
+<co c="0"><na f="a/Alima:Luc_Onana">Luc Onana Alima</na></co>
+<co c="0"><na f="a/Alon:Noga">Noga Alon</na></co>
+<co c="0"><na f="a/Ammar_0001:Nesrine">Nesrine Ammar 0001</na></co>
+<co c="-1"><na f="a/Asim:Ali">Ali Asim</na></co>
+<co c="0"><na f="a/Attiya:Hagit">Hagit Attiya</na></co>
+<co c="0"><na f="a/Auger:C=eacute=dric">Cédric Auger</na></co>
+<co c="0"><na f="b/Baker:Theodore_P=">Theodore P. Baker</na></co>
+<co c="0"><na f="b/Balabonski:Thibaut">Thibaut Balabonski</na></co>
+<co c="0"><na f="b/Bampas:Evangelos">Evangelos Bampas</na></co>
+<co c="0"><na f="b/Beauquier:Joffroy">Joffroy Beauquier</na></co>
+<co c="0"><na f="b/Benchaita:Walid">Walid Benchaita</na></co>
+<co c="0"><na f="b/B=eacute=rard:B=eacute=atrice">Béatrice Bérard</na></co>
+<co c="0"><na f="b/Bernard:Samuel">Samuel Bernard</na></co>
+<co c="0"><na f="b/Blin:L=eacute=lia">Lélia Blin</na></co>
+<co c="0"><na f="b/Bonakdarpour:Borzoo">Borzoo Bonakdarpour</na></co>
+<co c="0"><na f="b/Bonnet_0001:Fran=ccedil=ois">François Bonnet 0001</na></co>
+<co c="0"><na f="b/Bonomi:Silvia">Silvia Bonomi</na></co>
+<co c="0"><na f="b/Bouzid:Zohir">Zohir Bouzid</na></co>
+<co c="0"><na f="b/Bramas:Quentin">Quentin Bramas</na></co>
+<co c="0"><na f="b/Bui:Alain">Alain Bui</na></co>
+<co c="0"><na f="c/Cadilhac:Micha=euml=l">Michaël Cadilhac</na></co>
+<co c="0"><na f="c/Cappello:Franck">Franck Cappello</na></co>
+<co c="0"><na f="c/Carlinet:Yannick">Yannick Carlinet</na></co>
+<co c="0"><na f="c/Chen:Yu">Yu Chen</na></co>
+<co c="0"><na f="c/Cohen:Johanne">Johanne Cohen</na></co>
+<co c="0"><na f="c/Courtieu:Pierre">Pierre Courtieu</na></co>
+<co c="0"><na f="c/Czyzowicz:Jurek">Jurek Czyzowicz</na></co>
+<co c="0"><na f="d/Danturi:Praveen">Praveen Danturi</na></co>
+<co c="0"><na f="d/Das_0001:Sajal_K=">Sajal K. Das 0001</na></co>
+<co c="0"><na f="d/Das_0001:Shantanu">Shantanu Das 0001</na></co>
+<co c="0"><na f="d/Dasgupta:Anurag">Anurag Dasgupta</na></co>
+<co c="0" n="2"><na f="d/Datta:Ajoy_K=">Ajoy K. Datta</na><na>Ajoy Kumar Datta</na></co>
+<co c="0"><na f="d/D=eacute=fago:Xavier">Xavier Défago</na></co>
+<co c="0"><na f="d/Dela=euml=t:Sylvie">Sylvie Delaët</na></co>
+<co c="0"><na f="d/Delga:Am=eacute=lie">Amélie Delga</na></co>
+<co c="0"><na f="d/Derby:Jerry_L=">Jerry L. Derby</na></co>
+<co c="0"><na f="d/Devismes:St=eacute=phane">Stéphane Devismes</na></co>
+<co c="0"><na f="d/Dolev:Shlomi">Shlomi Dolev</na></co>
+<co c="0"><na f="d/Dron:Wilfried">Wilfried Dron</na></co>
+<co c="0"><na f="d/Dubois:Swan">Swan Dubois</na></co>
+<co c="0"><na f="d/Duchon:Philippe">Philippe Duchon</na></co>
+<co c="0"><na f="d/Ducourthial:Bertrand">Bertrand Ducourthial</na></co>
+<co c="0"><na f="f/Fadhl:Mariem_Ben">Mariem Ben Fadhl</na></co>
+<co c="0"><na f="f/Faghih:Fathiyeh">Fathiyeh Faghih</na></co>
+<co c="0"><na f="f/Fallahi:Narges">Narges Fallahi</na></co>
+<co c="0"><na f="f/Farina:Giovanni">Giovanni Farina</na></co>
+<co c="0"><na f="f/Fleury:Eric">Eric Fleury</na></co>
+<co c="0"><na f="f/Foreback:Dianne">Dianne Foreback</na></co>
+<co c="0"><na f="f/Fraigniaud:Pierre">Pierre Fraigniaud</na></co>
+<co c="0"><na f="g/Garda:Patrick">Patrick Garda</na></co>
+<co c="0"><na f="g/Genolini:Christophe">Christophe Genolini</na></co>
+<co c="0"><na f="g/Ghaffari:Mohsen">Mohsen Ghaffari</na></co>
+<co c="0"><na f="g/Ghamri=Doudane:Samir">Samir Ghamri-Doudane</na></co>
+<co c="0"><na f="g/Ghosh:Sukumar">Sukumar Ghosh</na></co>
+<co c="0" n="2"><na f="g/Greve:Fab=iacute=ola_Gon=ccedil=alves_Pereira">Fabíola Gonçalves Pereira Greve</na><na>Fabíola Greve</na></co>
+<co c="0"><na f="h/Hachicha:Khalil">Khalil Hachicha</na></co>
+<co c="0"><na f="h/Hanusse:Nicolas">Nicolas Hanusse</na></co>
+<co c="0"><na f="h/H=eacute=rault:Thomas">Thomas Hérault</na></co>
+<co c="0"><na f="h/Heriban:Adam">Adam Heriban</na></co>
+<co c="0"><na f="h/Herman:Ted">Ted Herman</na></co>
+<co c="0"><na f="h/Hoarau:William">William Hoarau</na></co>
+<co c="0"><na f="h/Honorat:Anthony">Anthony Honorat</na></co>
+<co c="0"><na f="h/Huynh:The_Dang">The Dang Huynh</na></co>
+<co c="0"><na f="i/Ilcinkas:David">David Ilcinkas</na></co>
+<co c="0"><na f="i/Inoue:Michiko">Michiko Inoue</na></co>
+<co c="0"><na f="i/Izumi:Taisuke">Taisuke Izumi</na></co>
+<co c="0"><na f="j/Johnen:Colette">Colette Johnen</na></co>
+<co c="0"><na f="k/Kaino:Daichi">Daichi Kaino</na></co>
+<co c="0"><na f="k/Kakugawa:Hirotsugu">Hirotsugu Kakugawa</na></co>
+<co c="0"><na f="k/Kamei:Sayaka">Sayaka Kamei</na></co>
+<co c="0"><na f="k/Kauffmann:Bruno">Bruno Kauffmann</na></co>
+<co c="0"><na f="k/Kenitzki:Anthony_B=">Anthony B. Kenitzki</na></co>
+<co c="0"><na f="k/Khouri:Catia">Catia Khouri</na></co>
+<co c="0"><na f="k/Kijima:Shuji">Shuji Kijima</na></co>
+<co c="0"><na f="k/Kulkarni:Sandeep_S=">Sandeep S. Kulkarni</na></co>
+<co c="0"><na f="l/Labourel:Arnaud">Arnaud Labourel</na></co>
+<co c="0"><na f="l/Lafourcade_0001:Pascal">Pascal Lafourcade 0001</na></co>
+<co c="0"><na f="l/Lamani:Anissa">Anissa Lamani</na></co>
+<co c="0"><na f="l/Larmore:Lawrence_L=">Lawrence L. Larmore</na></co>
+<co c="0"><na f="l/Lassaigne:Richard">Richard Lassaigne</na></co>
+<co c="0"><na f="l/Lassous:Isabelle_Gu=eacute=rin">Isabelle Guérin Lassous</na></co>
+<co c="0"><na f="l/Lawrence:James_E=">James E. Lawrence</na></co>
+<co c="-1"><na f="l/L=eacute=chine:Ulysse">Ulysse Léchine</na></co>
+<co c="0"><na f="l/Lemarinier:Pierre">Pierre Lemarinier</na></co>
+<co c="0"><na f="l/Lesueur:Fran=ccedil=ois">François Lesueur</na></co>
+<co c="0"><na f="m/Mandal_0001:Partha_Sarathi">Partha Sarathi Mandal 0001</na></co>
+<co c="0"><na f="m/Manne:Fredrik">Fredrik Manne</na></co>
+<co c="0"><na f="m/Masuzawa:Toshimitsu">Toshimitsu Masuzawa</na></co>
+<co c="0"><na f="m/Mathieu:Fabien">Fabien Mathieu</na></co>
+<co c="0"><na f="m/Maurer:Alexandre">Alexandre Maurer</na></co>
+<co c="0"><na f="m/Milani:Alessia">Alessia Milani</na></co>
+<co c="0"><na f="m/Millet:Laure">Laure Millet</na></co>
+<co c="0"><na f="m/Mitton:Nathalie">Nathalie Mitton</na></co>
+<co c="0"><na f="m/Mjelde:Morten">Morten Mjelde</na></co>
+<co c="0"><na f="n/Nesterenko:Mikhail">Mikhail Nesterenko</na></co>
+<co c="0"><na f="n/Nguyen:Duy=So">Duy-So Nguyen</na></co>
+<co c="0"><na f="n/Noirie:Ludovic">Ludovic Noirie</na></co>
+<co c="0"><na f="n/Nor:Rizal_Mohd">Rizal Mohd Nor</na></co>
+<co c="0"><na f="o/Ooshita:Fukuhito">Fukuhito Ooshita</na></co>
+<co c="0"><na f="p/Paroux:Katy">Katy Paroux</na></co>
+<co c="0"><na f="p/Pelle:Robin">Robin Pelle</na></co>
+<co c="0"><na f="p/Petit:Franck">Franck Petit</na></co>
+<co c="0"><na f="p/Peyronnet:Sylvain">Sylvain Peyronnet</na></co>
+<co c="0"><na f="p/Pilard:Laurence">Laurence Pilard</na></co>
+<co c="0" n="3"><na f="p/Potop=Butucaru:Maria">Maria Potop-Butucaru</na><na>Maria Gradinariu Potop-Butucaru</na><na>Maria Gradinariu</na></co>
+<co c="0"><na f="p/Pozzo:Antonella_Del">Antonella Del Pozzo</na></co>
+<co c="0"><na f="r/Rajsbaum:Sergio">Sergio Rajsbaum</na></co>
+<co c="0"><na f="r/Raymond:Pascal">Pascal Raymond</na></co>
+<co c="0"><na f="r/Raynal:Michel">Michel Raynal</na></co>
+<co c="0"><na f="r/Rezmerita:Ala">Ala Rezmerita</na></co>
+<co c="0"><na f="r/Rieg:Lionel">Lionel Rieg</na></co>
+<co c="0"><na f="r/Robinson:James_Scott">James Scott Robinson</na></co>
+<co c="0"><na f="r/Rodrigues:Nuno">Nuno Rodrigues</na></co>
+<co c="0"><na f="r/Rodriguez:Eric">Eric Rodriguez</na></co>
+<co c="0"><na f="r/Rokicki:Mariusz_A=">Mariusz A. Rokicki</na></co>
+<co c="0"><na f="r/Rovedakis:Stephane">Stephane Rovedakis</na></co>
+<co c="0"><na f="s/Sangnier:Arnaud">Arnaud Sangnier</na></co>
+<co c="0"><na f="s/Sericola:Bruno">Bruno Sericola</na></co>
+<co c="0"><na f="s/Silva:Lu=iacute=s_Moura">Luís Moura Silva</na></co>
+<co c="0"><na f="s/Sousa:D=eacute=cio">Décio Sousa</na></co>
+<co c="0"><na f="s/Sznajder:Nathalie">Nathalie Sznajder</na></co>
+<co c="0"><na f="t/Tangari:Gioacchino">Gioacchino Tangari</na></co>
+<co c="0"><na f="t/Thierry=Mieg:Yann">Yann Thierry-Mieg</na></co>
+<co c="0"><na f="t/Tucci:Sara">Sara Tucci</na></co>
+<co c="0"><na f="u/Urbain:Xavier">Xavier Urbain</na></co>
+<co c="0"><na f="v/Vauchelles:Fabien">Fabien Vauchelles</na></co>
+<co c="0"><na f="v/Vora:Adnan">Adnan Vora</na></co>
+<co c="0"><na f="w/Wada:Koichi">Koichi Wada</na></co>
+<co c="0"><na f="y/Yamashita:Masafumi">Masafumi Yamashita</na></co>
+<co c="0"><na f="y/Yamauchi:Yukiko">Yukiko Yamauchi</na></co>
+<co c="0"><na f="z/Zhu:Nini">Nini Zhu</na></co>
+</coauthors>
+</dblpperson>
+

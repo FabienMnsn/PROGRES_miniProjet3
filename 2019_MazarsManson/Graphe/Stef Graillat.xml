@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Stef Graillat" n="35">
+<person key="homepages/06/4155" mdate="2009-06-10">
+<author>Stef Graillat</author>
+</person>
+<r><article key="journals/ijhpca/IakymchukGDQ19" mdate="2019-09-23">
+<author orcid="0000-0003-2414-700X">Roman Iakymchuk</author>
+<author>Stef Graillat</author>
+<author>David Defour</author>
+<author>Enrique S. Quintana-Ortí</author>
+<title>Hierarchical approach for deriving a reproducible unblocked LU factorization.</title>
+<year>2019</year>
+<volume>33</volume>
+<journal>IJHPCA</journal>
+<number>5</number>
+<url>db/journals/ijhpca/ijhpca33.html#IakymchukGDQ19</url>
+</article>
+</r>
+<r><article key="journals/jocs/GraillatJPFL19" mdate="2019-11-26">
+<author>Stef Graillat</author>
+<author>Fabienne Jézéquel</author>
+<author>Romain Picot</author>
+<author orcid="0000-0003-2402-0535">François Févotte</author>
+<author>Bruno Lathuilière</author>
+<title>Auto-tuning for floating-point precision with Discrete Stochastic Arithmetic.</title>
+<year>2019</year>
+<volume>36</volume>
+<journal>J. Comput. Science</journal>
+<url>db/journals/jocs/jocs36.html#GraillatJPFL19</url>
+</article>
+</r>
+<r><article key="journals/amc/GraillatJP18" mdate="2018-03-29">
+<author>Stef Graillat</author>
+<author>Fabienne Jézéquel</author>
+<author>Romain Picot</author>
+<title>Numerical validation of compensated algorithms with stochastic arithmetic.</title>
+<pages>339-363</pages>
+<year>2018</year>
+<volume>329</volume>
+<journal>Applied Mathematics and Computation</journal>
+<url>db/journals/amc/amc329.html#GraillatJP18</url>
+</article>
+</r>
+<r><article key="journals/amc/Graillat18" mdate="2018-07-30">
+<author>Stef Graillat</author>
+<title>An accurate algorithm for evaluating rational functions.</title>
+<pages>494-503</pages>
+<year>2018</year>
+<volume>337</volume>
+<journal>Applied Mathematics and Computation</journal>
+<url>db/journals/amc/amc337.html#Graillat18</url>
+</article>
+</r>
+<r><article key="journals/tjs/Abbas-TurkiG17" mdate="2017-07-26">
+<author orcid="0000-0002-2150-7623">Lokman A. Abbas-Turki</author>
+<author>Stef Graillat</author>
+<title>Resolving small random symmetric linear systems on graphics processing units.</title>
+<pages>1360-1386</pages>
+<year>2017</year>
+<volume>73</volume>
+<journal>The Journal of Supercomputing</journal>
+<number>4</number>
+<url>db/journals/tjs/tjs73.html#Abbas-TurkiG17</url>
+</article>
+</r>
+<r><article key="journals/toms/FortinGG17" mdate="2018-11-06">
+<author>Pierre Fortin</author>
+<author>Mourad Gouicem</author>
+<author>Stef Graillat</author>
+<title>GPU-Accelerated Generation of Correctly Rounded Elementary Functions.</title>
+<pages>22:1-22:26</pages>
+<year>2017</year>
+<volume>43</volume>
+<journal>ACM Trans. Math. Softw.</journal>
+<number>3</number>
+<url>db/journals/toms/toms43.html#FortinGG17</url>
+</article>
+</r>
+<r><article key="journals/toms/BoldoGM17" mdate="2018-11-06">
+<author>Sylvie Boldo</author>
+<author>Stef Graillat</author>
+<author>Jean-Michel Muller</author>
+<title>On the Robustness of the 2Sum and Fast2Sum Algorithms.</title>
+<pages>4:1-4:14</pages>
+<year>2017</year>
+<volume>44</volume>
+<journal>ACM Trans. Math. Softw.</journal>
+<number>1</number>
+<url>db/journals/toms/toms44.html#BoldoGM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/IakymchukQLG17" mdate="2019-09-16">
+<author>Roman Iakymchuk</author>
+<author orcid="0000-0002-5454-165X">Enrique S. Quintana-Ortí</author>
+<author>Erwin Laure</author>
+<author>Stef Graillat</author>
+<title>Towards Reproducible Blocked LU Factorization.</title>
+<pages>1598-1607</pages>
+<year>2017</year>
+<booktitle>IPDPS Workshops</booktitle>
+<crossref>conf/ipps/2017w</crossref>
+<url>db/conf/ipps/ipdps2017w.html#IakymchukQLG17</url>
+</inproceedings>
+</r>
+<r><article key="journals/amc/JiangGBY16" mdate="2018-11-30">
+<author>Hao Jiang 0001</author>
+<author>Stef Graillat</author>
+<author orcid="0000-0002-8089-343X">Roberto Barrio</author>
+<author>Canqun Yang</author>
+<title>Accurate, validated and fast evaluation of elementary symmetric functions and its application.</title>
+<pages>1160-1178</pages>
+<year>2016</year>
+<volume>273</volume>
+<journal>Applied Mathematics and Computation</journal>
+<url>db/journals/amc/amc273.html#JiangGBY16</url>
+</article>
+</r>
+<r><article key="journals/entcs/GraillatJP15" mdate="2017-05-28">
+<author>Stef Graillat</author>
+<author>Fabienne Jézéquel</author>
+<author>Romain Picot</author>
+<title>Numerical Validation of Compensated Summation Algorithms with Stochastic Arithmetic.</title>
+<pages>55-69</pages>
+<year>2015</year>
+<volume>317</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs317.html#GraillatJP15</url>
+</article>
+</r>
+<r><article key="journals/na/GraillatLM15" mdate="2017-05-18">
+<author>Stef Graillat</author>
+<author>Vincent Lefèvre</author>
+<author>Jean-Michel Muller</author>
+<title>On the maximum relative error when computing integer powers by iterated multiplications in floating-point arithmetic.</title>
+<pages>653-667</pages>
+<year>2015</year>
+<volume>70</volume>
+<journal>Numerical Algorithms</journal>
+<number>3</number>
+<url>db/journals/na/na70.html#GraillatLM15</url>
+</article>
+</r>
+<r><article key="journals/pc/CollangeDGI15" mdate="2017-06-08">
+<author>Sylvain Collange</author>
+<author>David Defour</author>
+<author>Stef Graillat</author>
+<author orcid="0000-0003-2414-700X">Roman Iakymchuk</author>
+<title>Numerical reproducibility for the parallel reduction on multi- and many-core architectures.</title>
+<pages>83-97</pages>
+<year>2015</year>
+<volume>49</volume>
+<journal>Parallel Computing</journal>
+<url>db/journals/pc/pc49.html#CollangeDGI15</url>
+</article>
+</r>
+<r><article key="journals/toms/GraillatLTYO15" mdate="2018-11-06">
+<author>Stef Graillat</author>
+<author>Christoph Quirin Lauter</author>
+<author>Ping Tak Peter Tang</author>
+<author>Naoya Yamanaka</author>
+<author>Shin'ichi Oishi</author>
+<title>Efficient Calculations of Faithfully Rounded <i>l</i><sub>2</sub>-Norms of <i>n</i>-Vectors.</title>
+<pages>24:1-24:20</pages>
+<year>2015</year>
+<volume>41</volume>
+<journal>ACM Trans. Math. Softw.</journal>
+<number>4</number>
+<url>db/journals/toms/toms41.html#GraillatLTYO15</url>
+</article>
+</r>
+<r><inproceedings key="conf/scan/IakymchukDCG14" mdate="2017-05-23">
+<author>Roman Iakymchuk</author>
+<author>David Defour</author>
+<author>Sylvain Collange</author>
+<author>Stef Graillat</author>
+<title>Reproducible and Accurate Matrix Multiplication.</title>
+<pages>126-137</pages>
+<year>2014</year>
+<booktitle>SCAN</booktitle>
+<crossref>conf/scan/2014</crossref>
+<url>db/conf/scan/scan2014.html#IakymchukDCG14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GraillatLM14" mdate="2018-08-13">
+<author>Stef Graillat</author>
+<author>Vincent Lefèvre</author>
+<author>Jean-Michel Muller</author>
+<title>On the maximum relative error when computing x^n in floating-point arithmetic.</title>
+<year>2014</year>
+<volume>abs/1402.2991</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1402.2991</ee>
+<url>db/journals/corr/corr1402.html#GraillatLM14</url>
+</article>
+</r>
+<r><article key="journals/jcam/JiangGHLLCS13" mdate="2018-06-04">
+<author>Hao Jiang 0001</author>
+<author>Stef Graillat</author>
+<author>Canbin Hu</author>
+<author>Shengguo Li</author>
+<author>Xiangke Liao</author>
+<author>Lizhi Cheng</author>
+<author>Fang Su</author>
+<title>Accurate evaluation of the k-th derivative of a polynomial and its application.</title>
+<pages>28-47</pages>
+<year>2013</year>
+<volume>243</volume>
+<journal>J. Computational Applied Mathematics</journal>
+<url>db/journals/jcam/jcam243.html#JiangGHLLCS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/arith/JiangGB13" mdate="2018-06-05">
+<author>Hao Jiang 0001</author>
+<author>Stef Graillat</author>
+<author orcid="0000-0002-8089-343X">Roberto Barrio</author>
+<title>Accurate and Fast Evaluation of Elementary Symmetric Functions.</title>
+<pages>183-190</pages>
+<year>2013</year>
+<booktitle>IEEE Symposium on Computer Arithmetic</booktitle>
+<crossref>conf/arith/2013</crossref>
+<url>db/conf/arith/arith2013.html#JiangGB13</url>
+</inproceedings>
+</r>
+<r><article key="journals/cca/JiangGB12" mdate="2018-11-06">
+<author>Hao Jiang 0001</author>
+<author>Stef Graillat</author>
+<author orcid="0000-0002-8089-343X">Roberto Barrio</author>
+<title>Accurate computing elementary symmetric functions.</title>
+<pages>102-103</pages>
+<year>2012</year>
+<volume>46</volume>
+<journal>ACM Comm. Computer Algebra</journal>
+<number>3/4</number>
+<url>db/journals/cca/cca46.html#JiangGB12</url>
+</article>
+</r>
+<r><article key="journals/iandc/GraillatM12" mdate="2017-05-18">
+<author>Stef Graillat</author>
+<author>Valérie Ménissier-Morain</author>
+<title>Accurate summation, dot product and polynomial evaluation in complex floating point arithmetic.</title>
+<pages>57-71</pages>
+<year>2012</year>
+<volume>216</volume>
+<journal>Inf. Comput.</journal>
+<url>db/journals/iandc/iandc216.html#GraillatM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/pdp/FortinGG12" mdate="2017-05-25">
+<author>Pierre Fortin</author>
+<author>Mourad Gouicem</author>
+<author>Stef Graillat</author>
+<title>Towards Solving the Table Maker's Dilemma on GPU.</title>
+<pages>407-415</pages>
+<year>2012</year>
+<booktitle>PDP</booktitle>
+<crossref>conf/pdp/2012</crossref>
+<url>db/conf/pdp/pdp2012.html#FortinGG12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1211-3056" mdate="2018-08-13">
+<author>Pierre Fortin</author>
+<author>Mourad Gouicem</author>
+<author>Stef Graillat</author>
+<title>Correctly rounding elementary functions on GPU</title>
+<ee type="oa">http://arxiv.org/abs/1211.3056</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1211.3056</volume>
+<url>db/journals/corr/corr1211.html#abs-1211-3056</url>
+</article>
+</r>
+<r><article key="journals/mics/GraillatJWZ11" mdate="2017-05-26">
+<author>Stef Graillat</author>
+<author>Fabienne Jézéquel</author>
+<author>Shiyue Wang</author>
+<author>Yuxiang Zhu</author>
+<title>Stochastic Arithmetic in Multiprecision.</title>
+<pages>359-375</pages>
+<year>2011</year>
+<volume>5</volume>
+<journal>Mathematics in Computer Science</journal>
+<number>4</number>
+<url>db/journals/mics/mics5.html#GraillatJWZ11</url>
+</article>
+</r>
+<r><article key="journals/na/RumpG10" mdate="2017-05-18">
+<author>Siegfried M. Rump</author>
+<author>Stef Graillat</author>
+<title>Verified error bounds for multiple roots of systems of nonlinear equations.</title>
+<pages>359-377</pages>
+<year>2010</year>
+<volume>54</volume>
+<journal>Numerical Algorithms</journal>
+<number>3</number>
+<url>db/journals/na/na54.html#RumpG10</url>
+</article>
+</r>
+<r><inproceedings key="conf/synasc/JeanG10" mdate="2017-05-19">
+<author>Jérémy Jean</author>
+<author>Stef Graillat</author>
+<title>A Parallel Algorithm for Dot Product over Word-Size Finite Field Using Floating-Point Arithmetic.</title>
+<pages>80-87</pages>
+<year>2010</year>
+<booktitle>SYNASC</booktitle>
+<crossref>conf/synasc/2010</crossref>
+<url>db/conf/synasc/synasc2010.html#JeanG10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tc/Graillat09" mdate="2017-05-20">
+<author>Stef Graillat</author>
+<title>Accurate Floating-Point Product and Exponentiation.</title>
+<pages>994-1000</pages>
+<year>2009</year>
+<volume>58</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>7</number>
+<url>db/journals/tc/tc58.html#Graillat09</url>
+</article>
+</r>
+<r><inproceedings key="conf/issac/GraillatT09" mdate="2018-11-06">
+<author>Stef Graillat</author>
+<author>Philippe Trebuchet</author>
+<title>A new algorithm for computing certified numerical approximations of the roots of a zero-dimensional system.</title>
+<pages>167-174</pages>
+<year>2009</year>
+<booktitle>ISSAC</booktitle>
+<crossref>conf/issac/2009</crossref>
+<url>db/conf/issac/issac2009.html#GraillatT09</url>
+</inproceedings>
+</r>
+<r><article key="journals/cma/Graillat08" mdate="2017-05-28">
+<author>Stef Graillat</author>
+<title>Accurate simple zeros of polynomials in floating point arithmetic.</title>
+<pages>1114-1120</pages>
+<year>2008</year>
+<volume>56</volume>
+<journal>Computers and Mathematics with Applications</journal>
+<number>4</number>
+<url>db/journals/cma/cma56.html#Graillat08</url>
+</article>
+</r>
+<r><inproceedings key="conf/dagstuhl/GraillatLH08" mdate="2017-05-19">
+<author>Stef Graillat</author>
+<author>Jean Luc Lamotte</author>
+<author>Diep Nguyen Hong</author>
+<title>Error-Free Transformation in Rounding Mode toward Zero.</title>
+<pages>217-229</pages>
+<year>2008</year>
+<booktitle>Numerical Validation in Current Hardware Architectures</booktitle>
+<crossref>conf/dagstuhl/2008nv</crossref>
+<url>db/conf/dagstuhl/nv2008.html#GraillatLH08</url>
+</inproceedings>
+</r>
+<r><incollection key="reference/wiley/ChesneauxGJ08" mdate="2017-05-16">
+<author>Jean Marie Chesneaux</author>
+<author>Stef Graillat</author>
+<author>Fabienne Jézéquel</author>
+<title>Rounding Errors.</title>
+<year>2008</year>
+<booktitle>Wiley Encyclopedia of Computer Science and Engineering</booktitle>
+<crossref>reference/wiley/2008</crossref>
+<url>db/reference/wiley/wiley2008.html#ChesneauxGJ08</url>
+</incollection>
+</r>
+<r><article key="journals/ita/GraillatL07" mdate="2017-05-28">
+<author>Stef Graillat</author>
+<author>Philippe Langlois</author>
+<title>Real and complex pseudozero sets for polynomials with applications.</title>
+<pages>45-56</pages>
+<year>2007</year>
+<volume>41</volume>
+<journal>ITA</journal>
+<number>1</number>
+<url>db/journals/ita/ita41.html#GraillatL07</url>
+</article>
+</r>
+<r><article key="journals/mics/Graillat07" mdate="2017-05-26">
+<author>Stef Graillat</author>
+<title>Pseudozero Set of Real Multivariate Polynomials.</title>
+<pages>337-352</pages>
+<year>2007</year>
+<volume>1</volume>
+<journal>Mathematics in Computer Science</journal>
+<number>2</number>
+<url>db/journals/mics/mics1.html#Graillat07</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/GraillatLL06" mdate="2018-11-06">
+<author>Stef Graillat</author>
+<author>Philippe Langlois</author>
+<author>Nicolas Louvet</author>
+<title>Improving the compensated Horner scheme with a fused multiply and add.</title>
+<pages>1323-1327</pages>
+<year>2006</year>
+<crossref>conf/sac/2006</crossref>
+<booktitle>SAC</booktitle>
+<url>db/conf/sac/sac2006.html#GraillatLL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/GraillatL06" mdate="2018-11-06">
+<author>Stef Graillat</author>
+<author>Philippe Langlois</author>
+<title>Pseudozero set of interval polynomials.</title>
+<pages>1655-1659</pages>
+<year>2006</year>
+<crossref>conf/sac/2006</crossref>
+<booktitle>SAC</booktitle>
+<url>db/conf/sac/sac2006.html#GraillatL06</url>
+</inproceedings>
+</r>
+<r><article key="journals/cca/Graillat05" mdate="2018-11-06">
+<author>Stef Graillat</author>
+<title>A note on a nearest polynomial with a given root.</title>
+<pages>53-60</pages>
+<year>2005</year>
+<volume>39</volume>
+<journal>ACM SIGSAM Bulletin</journal>
+<number>2</number>
+<url>db/journals/cca/cca39.html#Graillat05</url>
+</article>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/LangloisGL05" mdate="2018-08-23">
+<author>Philippe Langlois</author>
+<author>Stef Graillat</author>
+<author>Nicolas Louvet</author>
+<title>Compensated Horner Scheme.</title>
+<year>2005</year>
+<crossref>conf/dagstuhl/2005P5391</crossref>
+<booktitle>Algebraic and Numerical Algorithms and Computer-assisted Proofs</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2006/442</ee>
+<url>db/conf/dagstuhl/P5391.html#LangloisGL05</url>
+</inproceedings>
+</r>
+<coauthors n="38" nc="2">
+<co c="-1"><na f="a/Abbas=Turki:Lokman_A=">Lokman A. Abbas-Turki</na></co>
+<co c="1"><na f="b/Barrio:Roberto">Roberto Barrio</na></co>
+<co c="0"><na f="b/Boldo:Sylvie">Sylvie Boldo</na></co>
+<co c="1"><na f="c/Cheng:Lizhi">Lizhi Cheng</na></co>
+<co c="0"><na f="c/Chesneaux:Jean_Marie">Jean Marie Chesneaux</na></co>
+<co c="0"><na f="c/Collange:Sylvain">Sylvain Collange</na></co>
+<co c="0"><na f="d/Defour:David">David Defour</na></co>
+<co c="0"><na f="f/F=eacute=votte:Fran=ccedil=ois">François Févotte</na></co>
+<co c="0"><na f="f/Fortin:Pierre">Pierre Fortin</na></co>
+<co c="0"><na f="g/Gouicem:Mourad">Mourad Gouicem</na></co>
+<co c="0"><na f="h/Hong:Diep_Nguyen">Diep Nguyen Hong</na></co>
+<co c="1"><na f="h/Hu:Canbin">Canbin Hu</na></co>
+<co c="0"><na f="i/Iakymchuk:Roman">Roman Iakymchuk</na></co>
+<co c="-1"><na f="j/Jean:J=eacute=r=eacute=my">Jérémy Jean</na></co>
+<co c="0"><na f="j/J=eacute=z=eacute=quel:Fabienne">Fabienne Jézéquel</na></co>
+<co c="1"><na f="j/Jiang_0001:Hao">Hao Jiang 0001</na></co>
+<co c="0"><na f="l/Lamotte:Jean_Luc">Jean Luc Lamotte</na></co>
+<co c="0"><na f="l/Langlois:Philippe">Philippe Langlois</na></co>
+<co c="0"><na f="l/Lathuili=egrave=re:Bruno">Bruno Lathuilière</na></co>
+<co c="0"><na f="l/Laure:Erwin">Erwin Laure</na></co>
+<co c="0"><na f="l/Lauter:Christoph_Quirin">Christoph Quirin Lauter</na></co>
+<co c="0"><na f="l/Lef=egrave=vre:Vincent">Vincent Lefèvre</na></co>
+<co c="1"><na f="l/Li:Shengguo">Shengguo Li</na></co>
+<co c="1"><na f="l/Liao:Xiangke">Xiangke Liao</na></co>
+<co c="0"><na f="l/Louvet:Nicolas">Nicolas Louvet</na></co>
+<co c="-1"><na f="m/M=eacute=nissier=Morain:Val=eacute=rie">Valérie Ménissier-Morain</na></co>
+<co c="0"><na f="m/Muller:Jean=Michel">Jean-Michel Muller</na></co>
+<co c="0"><na f="o/Oishi:Shin=ichi">Shin'ichi Oishi</na></co>
+<co c="0"><na f="p/Picot:Romain">Romain Picot</na></co>
+<co c="0"><na f="q/Quintana=Ort=iacute=:Enrique_S=">Enrique S. Quintana-Ortí</na></co>
+<co c="0"><na f="r/Rump:Siegfried_M=">Siegfried M. Rump</na></co>
+<co c="1"><na f="s/Su:Fang">Fang Su</na></co>
+<co c="0"><na f="t/Tang:Ping_Tak_Peter">Ping Tak Peter Tang</na></co>
+<co c="-1"><na f="t/Trebuchet:Philippe">Philippe Trebuchet</na></co>
+<co c="0"><na f="w/Wang:Shiyue">Shiyue Wang</na></co>
+<co c="0"><na f="y/Yamanaka:Naoya">Naoya Yamanaka</na></co>
+<co c="1"><na f="y/Yang:Canqun">Canqun Yang</na></co>
+<co c="0"><na f="z/Zhu:Yuxiang">Yuxiang Zhu</na></co>
+</coauthors>
+</dblpperson>
+

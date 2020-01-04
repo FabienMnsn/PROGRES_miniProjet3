@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Hamed Sheibanyrad" n="3">
+<person key="homepages/15/7646" mdate="2009-12-28">
+<author>Hamed Sheibanyrad</author>
+</person>
+<r><inproceedings key="conf/isvlsi/AmorSP17" mdate="2018-04-11">
+<author>Hela Belhadj Amor</author>
+<author>Hamed Sheibanyrad</author>
+<author>Frédéric Pétrot</author>
+<title>A Meta-Routing Method to Create Multiple Virtual Logical Networks on a Single Hardware NoC.</title>
+<pages>200-205</pages>
+<year>2017</year>
+<booktitle>ISVLSI</booktitle>
+<crossref>conf/isvlsi/2017</crossref>
+<url>db/conf/isvlsi/isvlsi2017.html#AmorSP17</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/LimaFRS16" mdate="2018-03-09">
+<author>Otávio Alcântara de Lima Jr.</author>
+<author>Virginie Fresse</author>
+<author>Frédéric Rousseau</author>
+<author>Hamed Sheibanyrad</author>
+<title>Synthesis of dependency-aware traffic generators from NoC simulation traces.</title>
+<pages>102-113</pages>
+<year>2016</year>
+<volume>71</volume>
+<journal>Journal of Systems Architecture - Embedded Systems Design</journal>
+<url>db/journals/jsa/jsa71.html#LimaFRS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsd/MrabtiSRPLM09" mdate="2019-10-19">
+<author>Amin El Mrabti</author>
+<author>Hamed Sheibanyrad</author>
+<author>Frédéric Rousseau</author>
+<author>Frédéric Pétrot</author>
+<author>Romain Lemaire</author>
+<author orcid="0000-0001-6611-7306">Jérôme Martin</author>
+<title>Abstract Description of System Application and Hardware Architecture for Hardware/Software Code Generation.</title>
+<pages>567-574</pages>
+<year>2009</year>
+<booktitle>DSD</booktitle>
+<crossref>conf/dsd/2009</crossref>
+<url>db/conf/dsd/dsd2009.html#MrabtiSRPLM09</url>
+</inproceedings>
+</r>
+<coauthors n="8" nc="1">
+<co c="0"><na f="a/Amor:Hela_Belhadj">Hela Belhadj Amor</na></co>
+<co c="0"><na f="f/Fresse:Virginie">Virginie Fresse</na></co>
+<co c="0" n="2"><na f="j/Junior:Ot=aacute=vio_Alc=acirc=ntara_de_Lima">Otávio Alcântara de Lima Junior</na><na>Otávio Alcântara de Lima Jr.</na></co>
+<co c="0"><na f="l/Lemaire:Romain">Romain Lemaire</na></co>
+<co c="0"><na f="m/Martin:J=eacute=r=ocirc=me">Jérôme Martin</na></co>
+<co c="0"><na f="m/Mrabti:Amin_El">Amin El Mrabti</na></co>
+<co c="0"><na f="p/P=eacute=trot:Fr=eacute=d=eacute=ric">Frédéric Pétrot</na></co>
+<co c="0"><na f="r/Rousseau:Fr=eacute=d=eacute=ric">Frédéric Rousseau</na></co>
+</coauthors>
+</dblpperson>
+

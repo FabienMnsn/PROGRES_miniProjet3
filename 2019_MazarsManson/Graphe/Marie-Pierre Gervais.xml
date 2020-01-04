@@ -1,0 +1,836 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Marie-Pierre Gervais" n="62">
+<person key="homepages/76/3583" mdate="2009-06-10">
+<author>Marie-Pierre Gervais</author>
+</person>
+<r><inproceedings key="conf/iceccs/BellaGBWK18" mdate="2019-02-11">
+<author>Emma Effa Bella</author>
+<author>Marie-Pierre Gervais</author>
+<author>Reda Bendraou</author>
+<author>Laurent Wouters</author>
+<author>Ali Koudri</author>
+<title>Semi-Supervised Approach for Recovering Traceability Links in Complex Systems.</title>
+<pages>193-196</pages>
+<year>2018</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2018</crossref>
+<url>db/conf/iceccs/iceccs2018.html#BellaGBWK18</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/KhelladiBHG17" mdate="2018-11-30">
+<author>Djamel Eddine Khelladi</author>
+<author>Reda Bendraou</author>
+<author orcid="0000-0002-1459-2081">Regina Hebig</author>
+<author>Marie-Pierre Gervais</author>
+<title>A semi-automatic maintenance and co-evolution of OCL constraints with (meta)model evolution.</title>
+<pages>242-260</pages>
+<year>2017</year>
+<volume>134</volume>
+<journal>Journal of Systems and Software</journal>
+<url>db/journals/jss/jss134.html#KhelladiBHG17</url>
+</article>
+</r>
+<r><article key="journals/smr/KhelladiBHG17" mdate="2018-11-30">
+<author>Djamel Eddine Khelladi</author>
+<author>Reda Bendraou</author>
+<author orcid="0000-0002-1459-2081">Regina Hebig</author>
+<author>Marie-Pierre Gervais</author>
+<title>Coadapting multidimension process properties.</title>
+<year>2017</year>
+<volume>29</volume>
+<journal>Journal of Software: Evolution and Process</journal>
+<number>11</number>
+<url>db/journals/smr/smr29.html#KhelladiBHG17</url>
+</article>
+</r>
+<r><article key="journals/is/KhelladiHBRG16" mdate="2017-06-14">
+<author>Djamel Eddine Khelladi</author>
+<author orcid="0000-0002-1459-2081">Regina Hebig</author>
+<author>Reda Bendraou</author>
+<author>Jacques Robin</author>
+<author>Marie-Pierre Gervais</author>
+<title>Detecting complex changes and refactorings during (Meta)model evolution.</title>
+<pages>220-241</pages>
+<year>2016</year>
+<volume>62</volume>
+<journal>Inf. Syst.</journal>
+<url>db/journals/is/is62.html#KhelladiHBRG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/iceccs/KhelladiBG16" mdate="2017-05-26">
+<author>Djamel Eddine Khelladi</author>
+<author>Reda Bendraou</author>
+<author>Marie-Pierre Gervais</author>
+<title>Towards a User-Guided Difference-Based Detection of Atomic Changes.</title>
+<pages>211-214</pages>
+<year>2016</year>
+<booktitle>ICECCS</booktitle>
+<crossref>conf/iceccs/2016</crossref>
+<url>db/conf/iceccs/iceccs2016.html#KhelladiBG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/KhelladiBG16" mdate="2018-11-06">
+<author>Djamel Eddine Khelladi</author>
+<author>Reda Bendraou</author>
+<author>Marie-Pierre Gervais</author>
+<title>AD-ROOM: a tool for automatic detection of refactorings in object-oriented models.</title>
+<pages>617-620</pages>
+<year>2016</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<crossref>conf/icse/2016c</crossref>
+<url>db/conf/icse/icse2016c.html#KhelladiBG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsr/KhelladiHBRG16" mdate="2017-06-15">
+<author>Djamel Eddine Khelladi</author>
+<author orcid="0000-0002-1459-2081">Regina Hebig</author>
+<author>Reda Bendraou</author>
+<author>Jacques Robin</author>
+<author>Marie-Pierre Gervais</author>
+<title>Metamodel and Constraints Co-evolution: A Semi Automatic Maintenance of OCL Constraints.</title>
+<pages>333-349</pages>
+<year>2016</year>
+<booktitle>ICSR</booktitle>
+<crossref>conf/icsr/2016</crossref>
+<url>db/conf/icsr/icsr2016.html#KhelladiHBRG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispw/KhelladiBHG16" mdate="2018-11-06">
+<author>Djamel Eddine Khelladi</author>
+<author>Reda Bendraou</author>
+<author orcid="0000-0002-1459-2081">Regina Hebig</author>
+<author>Marie-Pierre Gervais</author>
+<title>Supporting the co-adaption of process properties.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>ICSSP</booktitle>
+<crossref>conf/ispw/2016</crossref>
+<url>db/conf/ispw/icssp2016.html#KhelladiBHG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/KhelladiBG16" mdate="2019-05-28">
+<author>Djamel Eddine Khelladi</author>
+<author>Reda Bendraou</author>
+<author>Marie-Pierre Gervais</author>
+<title>SAC-OCL: A Tool for A Semi Automatic Co-evolution of OCL Constraints.</title>
+<pages>40-47</pages>
+<year>2016</year>
+<booktitle>DandP@MoDELS</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1725/demo6.pdf</ee>
+<crossref>conf/models/2016dp</crossref>
+<url>db/conf/models/dp2016.html#KhelladiBG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/KhelladiHBRG15" mdate="2017-06-15">
+<author>Djamel Eddine Khelladi</author>
+<author orcid="0000-0002-1459-2081">Regina Hebig</author>
+<author>Reda Bendraou</author>
+<author>Jacques Robin</author>
+<author>Marie-Pierre Gervais</author>
+<title>Detecting Complex Changes During Metamodel Evolution.</title>
+<pages>263-278</pages>
+<year>2015</year>
+<booktitle>CAiSE</booktitle>
+<crossref>conf/caise/2015</crossref>
+<url>db/conf/caise/caise2015.html#KhelladiHBRG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/KhelladiBBLG15" mdate="2018-11-06">
+<author>Djamel Eddine Khelladi</author>
+<author>Reda Bendraou</author>
+<author>Souheib Baarir</author>
+<author>Yoann Laurent</author>
+<author>Marie-Pierre Gervais</author>
+<title>A framework to formally verify conformance of a software process to a software method.</title>
+<pages>1518-1525</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#KhelladiBBLG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/LaurentBBG14" mdate="2019-08-20">
+<author>Yoann Laurent</author>
+<author>Reda Bendraou</author>
+<author>Souheib Baarir</author>
+<author>Marie-Pierre Gervais</author>
+<title>Formalization of fUML: An Application to Process Verification.</title>
+<pages>347-363</pages>
+<year>2014</year>
+<booktitle>CAiSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-07881-6_24</ee>
+<crossref>conf/caise/2014</crossref>
+<url>db/conf/caise/caise2014.html#LaurentBBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecmdafa/LaurentBBG14" mdate="2017-05-22">
+<author>Yoann Laurent</author>
+<author>Reda Bendraou</author>
+<author>Souheib Baarir</author>
+<author>Marie-Pierre Gervais</author>
+<title>Alloy4SPV : A Formal Framework for Software Process Verification.</title>
+<pages>83-100</pages>
+<year>2014</year>
+<booktitle>ECMFA</booktitle>
+<crossref>conf/ecmdafa/2014</crossref>
+<url>db/conf/ecmdafa/ecmfa2014.html#LaurentBBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inforsid/Dupuy-ChessaCGNPW14" mdate="2014-10-10">
+<author>Sophie Dupuy-Chessa</author>
+<author>Benoît Combemale</author>
+<author>Marie-Pierre Gervais</author>
+<author>Thierry Nodenot</author>
+<author>Xavier Le Pallec</author>
+<author>Laurent Wouters</author>
+<title>Vers une approche centrée humain pour la définition de langages de modélisation graphiques.</title>
+<pages>379-394</pages>
+<year>2014</year>
+<booktitle>INFORSID</booktitle>
+<crossref>conf/inforsid/2014</crossref>
+<url>db/conf/inforsid/inforsid2014.html#Dupuy-ChessaCGNPW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LaurentBBG14" mdate="2018-11-06">
+<author>Yoann Laurent</author>
+<author>Reda Bendraou</author>
+<author>Souheib Baarir</author>
+<author>Marie-Pierre Gervais</author>
+<title>Planning for declarative processes.</title>
+<pages>1126-1133</pages>
+<year>2014</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2014</crossref>
+<url>db/conf/sac/sac2014.html#LaurentBBG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/isi/SilvaBBG13" mdate="2017-11-16">
+<author>Marcos Aurélio Almeida da Silva</author>
+<author>Xavier Blanc 0001</author>
+<author>Reda Bendraou</author>
+<author>Marie-Pierre Gervais</author>
+<title>Experiments on the impact of deviations to process execution.</title>
+<pages>295-119</pages>
+<year>2013</year>
+<volume>18</volume>
+<journal>Ingénierie des Systèmes d'Information</journal>
+<number>3</number>
+<url>db/journals/isi/isi18.html#SilvaBBG13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ispw/LaurentBG13" mdate="2018-11-06">
+<author>Yoann Laurent</author>
+<author>Reda Bendraou</author>
+<author>Marie-Pierre Gervais</author>
+<title>Generation of process using multi-objective genetic algorithm.</title>
+<pages>161-165</pages>
+<year>2013</year>
+<booktitle>ICSSP</booktitle>
+<crossref>conf/ispw/2013</crossref>
+<url>db/conf/ispw/icssp2013.html#LaurentBG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LaurentBG13" mdate="2018-11-06">
+<author>Yoann Laurent</author>
+<author>Reda Bendraou</author>
+<author>Marie-Pierre Gervais</author>
+<title>Executing and debugging UML models: an fUML extension.</title>
+<pages>1095-1102</pages>
+<year>2013</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2013</crossref>
+<url>db/conf/sac/sac2013.html#LaurentBG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/WoutersG13" mdate="2018-11-06">
+<author>Laurent Wouters</author>
+<author>Marie-Pierre Gervais</author>
+<title>Notation-driven vs metamodel-driven development of domain-specific modeling languages: an empirical study.</title>
+<pages>1145-1146</pages>
+<year>2013</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2013</crossref>
+<url>db/conf/sac/sac2013.html#WoutersG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/FallBGB13" mdate="2017-11-16">
+<author>Ibrahima Fall</author>
+<author>Reda Bendraou</author>
+<author>Marie-Pierre Gervais</author>
+<author>Xavier Blanc 0001</author>
+<title>Towards a Full Specification and Use of Overlap Relationships between Work Products in MDE Software Processes.</title>
+<pages>209-217</pages>
+<year>2013</year>
+<booktitle>WETICE</booktitle>
+<crossref>conf/wetice/2013</crossref>
+<url>db/conf/wetice/wetice2013.html#FallBGB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/BendraouSGB12" mdate="2019-05-28">
+<author>Reda Bendraou</author>
+<author>Marcos Aurélio Almeida da Silva</author>
+<author>Marie-Pierre Gervais</author>
+<author>Xavier Blanc 0001</author>
+<title>Support for Deviation Detections in the Context of Multi-Viewpoint-Based Development Processes.</title>
+<pages>23-31</pages>
+<year>2012</year>
+<booktitle>CAiSE Forum</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-855/paper3.pdf</ee>
+<crossref>conf/caise/2012fo</crossref>
+<url>db/conf/caise/caisefo2012.html#BendraouSGB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edoc/WoutersG12" mdate="2017-05-17">
+<author>Laurent Wouters</author>
+<author>Marie-Pierre Gervais</author>
+<title>Ontology Transformations.</title>
+<pages>71-80</pages>
+<year>2012</year>
+<booktitle>EDOC</booktitle>
+<crossref>conf/edoc/2012</crossref>
+<url>db/conf/edoc/edoc2012.html#WoutersG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inforsid/KolskiEGOS12" mdate="2019-10-22">
+<author>Christophe Kolski</author>
+<author>Houcine Ezzedine</author>
+<author>Marie-Pierre Gervais</author>
+<author>Káthia Marçal de Oliveira</author>
+<author>Ahmed Seffah</author>
+<title>Evaluation des SI  Besoins en méthodes et outils provenant de l'ergonomie et de l'IHM .</title>
+<pages>395-410</pages>
+<year>2012</year>
+<booktitle>INFORSID</booktitle>
+<crossref>conf/inforsid/2012</crossref>
+<url>db/conf/inforsid/inforsid2012.html#KolskiEGOS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inforsid/OliveiraTDGCK12" mdate="2019-10-22">
+<author>Káthia Marçal de Oliveira</author>
+<author>Virginie Thion</author>
+<author>Sophie Dupuy-Chessa</author>
+<author>Marie-Pierre Gervais</author>
+<author>Samira Si-Said Cherfi</author>
+<author>Christophe Kolski</author>
+<title>Limites de l'évaluation d'un Système d'Information : une analyse fondée sur l'expérience pratique .</title>
+<pages>411-428</pages>
+<year>2012</year>
+<booktitle>INFORSID</booktitle>
+<crossref>conf/inforsid/2012</crossref>
+<url>db/conf/inforsid/inforsid2012.html#OliveiraTDGCK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecmdafa/BendraouLCG11" mdate="2017-05-22">
+<author>Reda Bendraou</author>
+<author>Rédouane Lbath</author>
+<author>Bernard Coulette</author>
+<author>Marie-Pierre Gervais</author>
+<title>Process-Centred Approaches for Model-Driven Engineering (PMDE) - First Edition.</title>
+<pages>383-384</pages>
+<year>2011</year>
+<booktitle>ECMFA</booktitle>
+<crossref>conf/ecmdafa/2011</crossref>
+<url>db/conf/ecmdafa/ecmfa2011.html#BendraouLCG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edoc/WoutersG11" mdate="2017-05-17">
+<author>Laurent Wouters</author>
+<author>Marie-Pierre Gervais</author>
+<title>xOWL: An Executable Modeling Language for Domain Experts.</title>
+<pages>215-224</pages>
+<year>2011</year>
+<booktitle>EDOC</booktitle>
+<crossref>conf/edoc/2011</crossref>
+<url>db/conf/edoc/edoc2011.html#WoutersG11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tse/BendraouJGB10" mdate="2017-11-16">
+<author>Reda Bendraou</author>
+<author>Jean-Marc Jézéquel</author>
+<author>Marie-Pierre Gervais</author>
+<author>Xavier Blanc 0001</author>
+<title>A Comparison of Six UML-Based Languages for Software Process Modeling.</title>
+<pages>662-675</pages>
+<year>2010</year>
+<volume>36</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>5</number>
+<url>db/journals/tse/tse36.html#BendraouJGB10</url>
+</article>
+</r>
+<r><inproceedings key="conf/kbse/MougenotBG10" mdate="2019-05-28">
+<author>Alix Mougenot</author>
+<author>Xavier Blanc 0001</author>
+<author>Marie-Pierre Gervais</author>
+<title>Inconsistency Detection in Distributed Model Driven Software Engineering Environments.</title>
+<pages>2-7</pages>
+<year>2010</year>
+<booktitle>LWI@ASE</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-661/paper2.pdf</ee>
+<crossref>conf/kbse/2010lwi</crossref>
+<url>db/conf/kbse/lwi2010.html#MougenotBG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/SilvaBBG10" mdate="2017-11-16">
+<author>Marcos Aurélio Almeida da Silva</author>
+<author>Reda Bendraou</author>
+<author>Xavier Blanc 0001</author>
+<author>Marie-Pierre Gervais</author>
+<title>Early Deviation Detection in Modeling Activities of MDE Processes.</title>
+<pages>303-317</pages>
+<year>2010</year>
+<booktitle>MoDELS (2)</booktitle>
+<crossref>conf/models/2010-2</crossref>
+<url>db/conf/models/models2010-2.html#SilvaBBG10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ecmdafa/2010" mdate="2019-05-14">
+<editor>Thomas Kühne</editor>
+<editor>Bran Selic</editor>
+<editor>Marie-Pierre Gervais</editor>
+<editor>François Terrier</editor>
+<title>Modelling Foundations and Applications, 6th European Conference, ECMFA 2010, Paris, France, June 15-18, 2010. Proceedings</title>
+<volume>6138</volume>
+<year>2010</year>
+<isbn>978-3-642-13594-1</isbn>
+<booktitle>ECMFA</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/ecmdafa/ecmfa2010.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/dais/MougenotBG09" mdate="2018-06-26">
+<author>Alix Mougenot</author>
+<author>Xavier Blanc 0001</author>
+<author>Marie-Pierre Gervais</author>
+<title>D-Praxis : A Peer-to-Peer Collaborative Model Editing Framework.</title>
+<pages>16-29</pages>
+<year>2009</year>
+<booktitle>DAIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02164-0_2</ee>
+<crossref>conf/dais/2009</crossref>
+<url>db/conf/dais/dais2009.html#MougenotBG09</url>
+</inproceedings>
+</r>
+<r><article key="journals/sosym/BendraouDGM08" mdate="2019-08-19">
+<author>Reda Bendraou</author>
+<author>Philippe Desfray</author>
+<author>Marie-Pierre Gervais</author>
+<author>Alexis Muller</author>
+<title>MDA Tool Components: a proposal for packaging know-how in model driven development.</title>
+<pages>329-343</pages>
+<year>2008</year>
+<volume>7</volume>
+<journal>Software and Systems Modeling</journal>
+<number>3</number>
+<url>db/journals/sosym/sosym7.html#BendraouDGM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/lmo/BendraouGBJ08" mdate="2017-11-16">
+<author>Reda Bendraou</author>
+<author>Marie-Pierre Gervais</author>
+<author>Xavier Blanc 0001</author>
+<author>Jean-Marc Jézéquel</author>
+<title>Vers l'Exécutabilité des Modèles de Procédés Logiciels.</title>
+<pages>153-168</pages>
+<year>2008</year>
+<booktitle>LMO</booktitle>
+<crossref>conf/lmo/2008</crossref>
+<url>db/conf/lmo/lmo2008.html#BendraouGBJ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/SriplakichBG08" mdate="2018-11-06">
+<author>Prawee Sriplakich</author>
+<author>Xavier Blanc 0001</author>
+<author>Marie-Pierre Gervais</author>
+<title>Collaborative software engineering on large-scale models: requirements and experience in ModelBus.</title>
+<pages>674-681</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#SriplakichBG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apsec/BendraouCCG07" mdate="2017-05-17">
+<author>Reda Bendraou</author>
+<author>Benoît Combemale</author>
+<author>Xavier Crégut</author>
+<author>Marie-Pierre Gervais</author>
+<title>Definition of an Executable SPEM 2.0.</title>
+<pages>390-397</pages>
+<year>2007</year>
+<crossref>conf/apsec/2007</crossref>
+<booktitle>APSEC</booktitle>
+<url>db/conf/apsec/apsec2007.html#BendraouCCG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/BendraouSGB07" mdate="2017-11-16">
+<author>Reda Bendraou</author>
+<author>Andrey Sadovykh</author>
+<author>Marie-Pierre Gervais</author>
+<author>Xavier Blanc 0001</author>
+<title>Software Process Modeling and Execution: The UML4SPM to WS-BPEL Approach.</title>
+<pages>314-321</pages>
+<year>2007</year>
+<crossref>conf/euromicro/2007</crossref>
+<booktitle>EUROMICRO-SEAA</booktitle>
+<url>db/conf/euromicro/euromicro2007.html#BendraouSGB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsea/BendraouG07" mdate="2017-05-25">
+<author>Reda Bendraou</author>
+<author>Marie-Pierre Gervais</author>
+<title>A Framework for Classifying and Comparing Process Technology Domains.</title>
+<pages>5</pages>
+<year>2007</year>
+<booktitle>ICSEA</booktitle>
+<crossref>conf/icsea/2007</crossref>
+<url>db/conf/icsea/icsea2007.html#BendraouG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecmdafa/FombelleBRG06" mdate="2017-11-21">
+<author>Gregory de Fombelle</author>
+<author>Xavier Blanc 0001</author>
+<author>Laurent Rioux</author>
+<author>Marie-Pierre Gervais</author>
+<title>Finding a Path to Model Consistency.</title>
+<pages>101-112</pages>
+<year>2006</year>
+<crossref>conf/ecmdafa/2006</crossref>
+<booktitle>ECMDA-FA</booktitle>
+<url>db/conf/ecmdafa/ecmdafa2006.html#FombelleBRG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecmdafa/BezivinBFGJKKP06" mdate="2017-05-22">
+<author>Jean Bézivin</author>
+<author>Salim Bouzitouna</author>
+<author>Marcos Didonet Del Fabro</author>
+<author>Marie-Pierre Gervais</author>
+<author>Frédéric Jouault</author>
+<author>Dimitrios S. Kolovos</author>
+<author>Ivan Kurtev</author>
+<author>Richard F. Paige</author>
+<title>A Canonical Scheme for Model Composition.</title>
+<pages>346-360</pages>
+<year>2006</year>
+<crossref>conf/ecmdafa/2006</crossref>
+<booktitle>ECMDA-FA</booktitle>
+<url>db/conf/ecmdafa/ecmdafa2006.html#BezivinBFGJKKP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edoc/BendraouGB06" mdate="2017-11-16">
+<author>Reda Bendraou</author>
+<author>Marie-Pierre Gervais</author>
+<author>Xavier Blanc 0001</author>
+<title>UML4SPM: An Executable Software Process Modeling Language Providing High-Level Abstractions.</title>
+<pages>297-306</pages>
+<year>2006</year>
+<crossref>conf/edoc/2006</crossref>
+<booktitle>EDOC</booktitle>
+<url>db/conf/edoc/edoc2006.html#BendraouGB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/SriplakichBG06" mdate="2017-11-21">
+<author>Prawee Sriplakich</author>
+<author>Xavier Blanc 0001</author>
+<author>Marie-Pierre Gervais</author>
+<title>Supporting Collaborative Development in an Open MDA Environment.</title>
+<pages>244-253</pages>
+<year>2006</year>
+<crossref>conf/icsm/2006</crossref>
+<booktitle>ICSM</booktitle>
+<url>db/conf/icsm/icsm2006.html#SriplakichBG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/SriplakichBG06" mdate="2017-11-21">
+<author>Prawee Sriplakich</author>
+<author>Xavier Blanc 0001</author>
+<author>Marie-Pierre Gervais</author>
+<title>Applying Model Fragment Copy-Restore to Build an Open and Distributed MDA Environment.</title>
+<pages>631-645</pages>
+<year>2006</year>
+<crossref>conf/models/2006</crossref>
+<booktitle>MoDELS</booktitle>
+<url>db/conf/models/models2006.html#SriplakichBG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/SriplakichBG06" mdate="2018-11-06">
+<author>Prawee Sriplakich</author>
+<author>Xavier Blanc 0001</author>
+<author>Marie-Pierre Gervais</author>
+<title>Supporting transparent model update in distributed CASE tool integration.</title>
+<pages>1759-1766</pages>
+<year>2006</year>
+<crossref>conf/sac/2006</crossref>
+<booktitle>SAC</booktitle>
+<url>db/conf/sac/sac2006.html#SriplakichBG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecmdafa/BendraouDG05" mdate="2017-05-22">
+<author>Reda Bendraou</author>
+<author>Philippe Desfray</author>
+<author>Marie-Pierre Gervais</author>
+<title>MDA Components: A Flexible Way for Implementing the MDA Approach.</title>
+<pages>59-73</pages>
+<year>2005</year>
+<crossref>conf/ecmdafa/2005</crossref>
+<booktitle>ECMDA-FA</booktitle>
+<url>db/conf/ecmdafa/ecmdafa2005.html#BendraouDG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/serp/BouzitounaGB05" mdate="2017-11-21">
+<author>Salim Bouzitouna</author>
+<author>Marie-Pierre Gervais</author>
+<author>Xavier Blanc 0001</author>
+<title>Model Reuse in MDA.</title>
+<pages>354-360</pages>
+<year>2005</year>
+<crossref>conf/serp/2005-1</crossref>
+<booktitle>Software Engineering Research and Practice</booktitle>
+<url>db/conf/serp/serp2005-1.html#BouzitounaGB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/serp/BlancSG05" mdate="2017-11-21">
+<author>Xavier Blanc 0001</author>
+<author>Prawee Sriplakich</author>
+<author>Marie-Pierre Gervais</author>
+<title>Modeling Services and Web Services: Application of ModelBus.</title>
+<pages>557-563</pages>
+<year>2005</year>
+<crossref>conf/serp/2005-2</crossref>
+<booktitle>Software Engineering Research and Practice</booktitle>
+<url>db/conf/serp/serp2005-2.html#BlancSG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uml/BendraouGB05" mdate="2017-11-16">
+<author>Reda Bendraou</author>
+<author>Marie-Pierre Gervais</author>
+<author>Xavier Blanc 0001</author>
+<title>UML4SPM: A UML2.0-Based Metamodel for Software Process Modelling.</title>
+<pages>17-38</pages>
+<year>2005</year>
+<crossref>conf/uml/2005</crossref>
+<booktitle>MoDELS</booktitle>
+<url>db/conf/uml/models2005.html#BendraouGB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdafa/BlancGS04" mdate="2017-11-21">
+<author>Xavier Blanc 0001</author>
+<author>Marie-Pierre Gervais</author>
+<author>Prawee Sriplakich</author>
+<title>Model Bus: Towards the Interoperability of Modelling Tools.</title>
+<pages>17-32</pages>
+<year>2004</year>
+<crossref>conf/mdafa/2004</crossref>
+<booktitle>MDAFA</booktitle>
+<url>db/conf/mdafa/mdafa2004.html#BlancGS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/serp/BendraouBG04" mdate="2004-11-19">
+<author>Reda Bendraou</author>
+<author>Salim Bouzitouna</author>
+<author>Marie-Pierre Gervais</author>
+<title>From MDA Platform-Specific Model to Code Generation: Coupling of RM-ODP and UML Action Semantics Standards.</title>
+<pages>407-416</pages>
+<year>2004</year>
+<crossref>conf/serp/2004-1</crossref>
+<booktitle>Software Engineering Research and Practice</booktitle>
+<url>db/conf/serp/serp2004-1.html#BendraouBG04</url>
+</inproceedings>
+</r>
+<r><article key="journals/aamas/Gervais03" mdate="2017-05-20">
+<author>Marie-Pierre Gervais</author>
+<title>ODAC: An Agent-Oriented Methodology Based on ODP.</title>
+<pages>199-228</pages>
+<year>2003</year>
+<volume>7</volume>
+<journal>Autonomous Agents and Multi-Agent Systems</journal>
+<number>3</number>
+<url>db/journals/aamas/aamas7.html#Gervais03</url>
+</article>
+</r>
+<r><article key="journals/Lobjet/GervaisB02" mdate="2017-11-21">
+<author>Marie-Pierre Gervais</author>
+<author>Xavier Blanc 0001</author>
+<title>Interopérabilité de spécifications.</title>
+<pages>121-144</pages>
+<year>2002</year>
+<volume>8</volume>
+<journal>L'OBJET</journal>
+<number>4</number>
+<url>db/journals/Lobjet/Lobjet8.html#GervaisB02</url>
+</article>
+</r>
+<r><inproceedings key="conf/compsac/Gervais02" mdate="2017-05-21">
+<author>Marie-Pierre Gervais</author>
+<title>Towards an MDA-Oriented Methodology.</title>
+<pages>265-270</pages>
+<year>2002</year>
+<crossref>conf/compsac/2002</crossref>
+<booktitle>COMPSAC</booktitle>
+<url>db/conf/compsac/compsac2002.html#Gervais02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aose/GervaisM01" mdate="2017-05-24">
+<author>Marie-Pierre Gervais</author>
+<author>Florin Muscutariu</author>
+<title>Towards an ADL for Designing Agent-Based Systems.</title>
+<pages>263-277</pages>
+<year>2001</year>
+<crossref>conf/aose/2001</crossref>
+<booktitle>AOSE</booktitle>
+<url>db/conf/aose/aose2001.html#GervaisM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dais/BlancGD01" mdate="2017-11-21">
+<author>Xavier Blanc 0001</author>
+<author>Marie-Pierre Gervais</author>
+<author>Raymonde Le Delliou</author>
+<title>On the Construction of Distributed RM-ODP Specifications.</title>
+<pages>99-111</pages>
+<year>2001</year>
+<crossref>conf/dais/2001</crossref>
+<booktitle>DAIS</booktitle>
+<url>db/conf/dais/dais2001.html#BlancGD01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mata/MuscutariuG01" mdate="2017-05-25">
+<author>Florin Muscutariu</author>
+<author>Marie-Pierre Gervais</author>
+<title>On the Modelling of Mobile Agent-Based Systems.</title>
+<pages>219-234</pages>
+<year>2001</year>
+<crossref>conf/mata/2001</crossref>
+<booktitle>MATA</booktitle>
+<url>db/conf/mata/mata2001.html#MuscutariuG01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doa/BlancGD00" mdate="2017-11-21">
+<author>Xavier Blanc 0001</author>
+<author>Marie-Pierre Gervais</author>
+<author>Juliette Le Delliou</author>
+<title>A Comparison of the Basic DO Concepts in Standardization.</title>
+<pages>209-218</pages>
+<year>2000</year>
+<crossref>conf/doa/2000</crossref>
+<booktitle>DOA</booktitle>
+<url>db/conf/doa/doa2000.html#BlancGD00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edoc/BlancGD00" mdate="2017-11-21">
+<author>Xavier Blanc 0001</author>
+<author>Marie-Pierre Gervais</author>
+<author>Juliette Le Delliou</author>
+<title>The Specifications Exchange Service of an RM-ODP Framework.</title>
+<pages>86-</pages>
+<year>2000</year>
+<crossref>conf/edoc/2000</crossref>
+<booktitle>EDOC</booktitle>
+<url>db/conf/edoc/edoc2000.html#BlancGD00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mata/MuscutariuG00" mdate="2017-05-24">
+<author>Florin Muscutariu</author>
+<author>Marie-Pierre Gervais</author>
+<title>Modeling an OMG-MASIF Compliant Mobile Agent Platform with the RM-ODP Engineering Language.</title>
+<pages>129-137</pages>
+<year>2000</year>
+<crossref>conf/mata/2000</crossref>
+<booktitle>MATA</booktitle>
+<url>db/conf/mata/mata2000.html#MuscutariuG00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edoc/BlancGD99" mdate="2017-11-21">
+<author>Xavier Blanc 0001</author>
+<author>Marie-Pierre Gervais</author>
+<author>Raymonde Le Delliou</author>
+<title>Using the UML language to express the ODP enterprise concepts.</title>
+<pages>50-59</pages>
+<year>1999</year>
+<booktitle>EDOC</booktitle>
+<crossref>conf/edoc/1999</crossref>
+<url>db/conf/edoc/edoc1999.html#BlancGD99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwaca/Gervais94" mdate="2017-05-17">
+<author>Marie-Pierre Gervais</author>
+<title>The Universal Personal Telecommunication Service in a Multi-Operator Environment.</title>
+<pages>426-434</pages>
+<year>1994</year>
+<crossref>conf/iwaca/1994</crossref>
+<booktitle>IWACA</booktitle>
+<url>db/conf/iwaca/iwaca1994.html#Gervais94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aipt/Gervais93" mdate="2002-01-21">
+<author>Marie-Pierre Gervais</author>
+<title>On Overview of the Existing Solutions for the Integration of Intelligent Network and Telecommunication Management Network.</title>
+<pages>53-66</pages>
+<year>1993</year>
+<crossref>conf/aipt/1993</crossref>
+<booktitle>Advanced Information Processing Techniques for LAN and MAN Management</booktitle>
+<url>db/conf/aipt/aipt1993.html#Gervais93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networks/GervaisG92" mdate="2002-01-14">
+<author>Marie-Pierre Gervais</author>
+<author>Dominique Gaïti</author>
+<title>The Intelligent Network: New Trends.</title>
+<pages>237-246</pages>
+<year>1992</year>
+<crossref>conf/networks/1992</crossref>
+<booktitle>NETWORKS</booktitle>
+<url>db/conf/networks/networks1992.html#GervaisG92</url>
+</inproceedings>
+</r>
+<coauthors n="47" nc="1">
+<co c="0"><na f="b/Baarir:Souheib">Souheib Baarir</na></co>
+<co c="0"><na f="b/Bella:Emma_Effa">Emma Effa Bella</na></co>
+<co c="0"><na f="b/Bendraou:Reda">Reda Bendraou</na></co>
+<co c="0"><na f="b/B=eacute=zivin:Jean">Jean Bézivin</na></co>
+<co c="0"><na f="b/Blanc_0001:Xavier">Xavier Blanc 0001</na></co>
+<co c="0"><na f="b/Bouzitouna:Salim">Salim Bouzitouna</na></co>
+<co c="0"><na f="c/Cherfi:Samira_Si=Said">Samira Si-Said Cherfi</na></co>
+<co c="0"><na f="c/Combemale:Beno=icirc=t">Benoît Combemale</na></co>
+<co c="0"><na f="c/Coulette:Bernard">Bernard Coulette</na></co>
+<co c="0"><na f="c/Cr=eacute=gut:Xavier">Xavier Crégut</na></co>
+<co c="0"><na f="d/Delliou:Juliette_Le">Juliette Le Delliou</na></co>
+<co c="0"><na f="d/Delliou:Raymonde_Le">Raymonde Le Delliou</na></co>
+<co c="0"><na f="d/Desfray:Philippe">Philippe Desfray</na></co>
+<co c="0"><na f="d/Dupuy=Chessa:Sophie">Sophie Dupuy-Chessa</na></co>
+<co c="0"><na f="e/Ezzedine:Houcine">Houcine Ezzedine</na></co>
+<co c="0"><na f="f/Fabro:Marcos_Didonet_Del">Marcos Didonet Del Fabro</na></co>
+<co c="0"><na f="f/Fall:Ibrahima">Ibrahima Fall</na></co>
+<co c="0" n="2"><na f="f/Fombelle:Gr=eacute=gory_Jevardat_de">Grégory Jevardat de Fombelle</na><na>Gregory de Fombelle</na></co>
+<co c="-1"><na f="g/Ga=iuml=ti:Dominique">Dominique Gaïti</na></co>
+<co c="0"><na f="h/Hebig:Regina">Regina Hebig</na></co>
+<co c="0"><na f="j/J=eacute=z=eacute=quel:Jean=Marc">Jean-Marc Jézéquel</na></co>
+<co c="0"><na f="j/Jouault:Fr=eacute=d=eacute=ric">Frédéric Jouault</na></co>
+<co c="0"><na f="k/Khelladi:Djamel_Eddine">Djamel Eddine Khelladi</na></co>
+<co c="0"><na f="k/Kolovos:Dimitrios_S=">Dimitrios S. Kolovos</na></co>
+<co c="0"><na f="k/Kolski:Christophe">Christophe Kolski</na></co>
+<co c="0"><na f="k/Koudri:Ali">Ali Koudri</na></co>
+<co c="0"><na f="k/K=uuml=hne:Thomas">Thomas Kühne</na></co>
+<co c="0"><na f="k/Kurtev:Ivan">Ivan Kurtev</na></co>
+<co c="0"><na f="l/Laurent:Yoann">Yoann Laurent</na></co>
+<co c="0"><na f="l/Lbath:R=eacute=douane">Rédouane Lbath</na></co>
+<co c="0"><na f="m/Mougenot:Alix">Alix Mougenot</na></co>
+<co c="0"><na f="m/Muller:Alexis">Alexis Muller</na></co>
+<co c="-1"><na f="m/Muscutariu:Florin">Florin Muscutariu</na></co>
+<co c="0"><na f="n/Nodenot:Thierry">Thierry Nodenot</na></co>
+<co c="0"><na f="o/Oliveira:K=aacute=thia_Mar=ccedil=al_de">Káthia Marçal de Oliveira</na></co>
+<co c="0"><na f="p/Paige:Richard_F=">Richard F. Paige</na></co>
+<co c="0"><na f="p/Pallec:Xavier_Le">Xavier Le Pallec</na></co>
+<co c="0"><na f="r/Rioux:Laurent">Laurent Rioux</na></co>
+<co c="0"><na f="r/Robin:Jacques">Jacques Robin</na></co>
+<co c="0"><na f="s/Sadovykh:Andrey">Andrey Sadovykh</na></co>
+<co c="0"><na f="s/Seffah:Ahmed">Ahmed Seffah</na></co>
+<co c="0"><na f="s/Selic:Bran">Bran Selic</na></co>
+<co c="0"><na f="s/Silva:Marcos_Aur=eacute=lio_Almeida_da">Marcos Aurélio Almeida da Silva</na></co>
+<co c="0"><na f="s/Sriplakich:Prawee">Prawee Sriplakich</na></co>
+<co c="0"><na f="t/Terrier:Fran=ccedil=ois">François Terrier</na></co>
+<co c="0"><na f="t/Thion:Virginie">Virginie Thion</na></co>
+<co c="0"><na f="w/Wouters:Laurent">Laurent Wouters</na></co>
+</coauthors>
+</dblpperson>
+

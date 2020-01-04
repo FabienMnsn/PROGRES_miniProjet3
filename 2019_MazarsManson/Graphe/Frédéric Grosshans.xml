@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Frédéric Grosshans" n="2">
+<person key="homepages/57/10161" mdate="2011-09-21">
+<author>Frédéric Grosshans</author>
+</person>
+<r><article publtype="informal" key="journals/corr/GrosshansLMS15" mdate="2018-08-13">
+<author>Frédéric Grosshans</author>
+<author>Thomas Lawson</author>
+<author>François Morain</author>
+<author>Benjamin Smith 0003</author>
+<title>Factoring Safe Semiprimes with a Single Quantum Query.</title>
+<year>2015</year>
+<volume>abs/1511.04385</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.04385</ee>
+<url>db/journals/corr/corr1511.html#GrosshansLMS15</url>
+</article>
+</r>
+<r><article key="journals/qic/GrosshansCWTG03" mdate="2011-09-21">
+<author>Frédéric Grosshans</author>
+<author>Nicolas J. Cerf</author>
+<author>Jérôme Wenger</author>
+<author>Rosa Tualle-Brouri</author>
+<author>Philippe Grangier</author>
+<title>Virtual entanglement and reconciliation protocols for quantum cryptography with continuous variables.</title>
+<pages>535-552</pages>
+<year>2003</year>
+<volume>3</volume>
+<journal>Quantum Information and Computation</journal>
+<number>7</number>
+<url>db/journals/qic/qic3.html#GrosshansCWTG03</url>
+</article>
+</r>
+<coauthors n="7" nc="2">
+<co c="0"><na f="c/Cerf:Nicolas_J=">Nicolas J. Cerf</na></co>
+<co c="0"><na f="g/Grangier:Philippe">Philippe Grangier</na></co>
+<co c="1"><na f="l/Lawson:Thomas">Thomas Lawson</na></co>
+<co c="1"><na f="m/Morain:Fran=ccedil=ois">François Morain</na></co>
+<co c="1"><na f="s/Smith_0003:Benjamin">Benjamin Smith 0003</na></co>
+<co c="0"><na f="t/Tualle=Brouri:Rosa">Rosa Tualle-Brouri</na></co>
+<co c="0"><na f="w/Wenger:J=eacute=r=ocirc=me">Jérôme Wenger</na></co>
+</coauthors>
+</dblpperson>
+

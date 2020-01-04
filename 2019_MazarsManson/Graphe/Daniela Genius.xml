@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Daniela Genius" n="28">
+<person key="homepages/31/4526" mdate="2009-06-10">
+<author>Daniela Genius</author>
+</person>
+<r><article key="journals/mam/GeniusAL19" mdate="2019-05-28">
+<author>Daniela Genius</author>
+<author>Ludovic Apvrille</author>
+<author>Letitia W. Li</author>
+<title>High-level modeling of communication-centric applications: Extensions to a system-level design and virtual prototyping tool.</title>
+<pages>117-130</pages>
+<year>2019</year>
+<volume>67</volume>
+<journal>Microprocessors and Microsystems - Embedded Hardware Design</journal>
+<url>db/journals/mam/mam67.html#GeniusAL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/modelsward/GeniusPAP19" mdate="2019-06-07">
+<author>Daniela Genius</author>
+<author>Rodrigo Cortés Porto</author>
+<author>Ludovic Apvrille</author>
+<author>François Pêcheux</author>
+<title>A Tool for High-level Modeling of Analog/Mixed Signal Embedded Systems.</title>
+<pages>433-440</pages>
+<year>2019</year>
+<booktitle>MODELSWARD</booktitle>
+<crossref>conf/modelsward/2019</crossref>
+<url>db/conf/modelsward/modelsward2019.html#GeniusPAP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rapido/PortoGA19" mdate="2019-06-14">
+<author>Rodrigo Cortés Porto</author>
+<author>Daniela Genius</author>
+<author>Ludovic Apvrille</author>
+<title>Modeling and Virtual Prototyping for Embedded Systems on Mixed-Signal Multicores.</title>
+<pages>4:1-4:7</pages>
+<year>2019</year>
+<booktitle>RAPIDO</booktitle>
+<crossref>conf/rapido/2019</crossref>
+<url>db/conf/rapido/rapido2019.html#PortoGA19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-06091" mdate="2019-10-16">
+<author>Daniela Genius</author>
+<title>Scalability of TTool's AMS extensions: a case study.</title>
+<year>2019</year>
+<volume>abs/1910.06091</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.06091</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-06091</url>
+</article>
+</r>
+<r><inproceedings key="conf/modelsward/GeniusLAT18" mdate="2018-04-11">
+<author>Daniela Genius</author>
+<author>Letitia W. Li</author>
+<author>Ludovic Apvrille</author>
+<author>Tullio Tanzi</author>
+<title>Multi-level Latency Evaluation with an MDE Approach.</title>
+<pages>295-302</pages>
+<year>2018</year>
+<booktitle>MODELSWARD</booktitle>
+<crossref>conf/modelsward/2018</crossref>
+<url>db/conf/modelsward/modelsward2018.html#GeniusLAT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/GeniusA18" mdate="2018-09-04">
+<author>Daniela Genius</author>
+<author>Ludovic Apvrille</author>
+<title>System-Level Design and Virtual Prototyping of a Telecommunication Application on a NUMA Platform.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>ReCoSoC</booktitle>
+<crossref>conf/recosoc/2018</crossref>
+<url>db/conf/recosoc/recosoc2018.html#GeniusA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/modelsward/LiGA17" mdate="2018-07-16">
+<author>Letitia W. Li</author>
+<author>Daniela Genius</author>
+<author>Ludovic Apvrille</author>
+<title>Formal and Virtual Multi-level Design Space Exploration.</title>
+<pages>47-71</pages>
+<year>2017</year>
+<booktitle>MODELSWARD (Revised Selected Papers)</booktitle>
+<crossref>conf/modelsward/2017s</crossref>
+<url>db/conf/modelsward/modelsward2017s.html#LiGA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/modelsward/GeniusLA17" mdate="2017-05-18">
+<author>Daniela Genius</author>
+<author>Letitia W. Li</author>
+<author>Ludovic Apvrille</author>
+<title>Model-Driven Performance Evaluation and Formal Verification for Multi-level Embedded System Design.</title>
+<pages>78-89</pages>
+<year>2017</year>
+<booktitle>MODELSWARD</booktitle>
+<crossref>conf/modelsward/2017</crossref>
+<url>db/conf/modelsward/modelsward2017.html#GeniusLA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/GeniusA17" mdate="2017-09-07">
+<author>Daniela Genius</author>
+<author>Ludovic Apvrille</author>
+<title>System-level design for communication-centric task farm applications.</title>
+<pages>1-8</pages>
+<year>2017</year>
+<booktitle>ReCoSoC</booktitle>
+<crossref>conf/recosoc/2017</crossref>
+<url>db/conf/recosoc/recosoc2017.html#GeniusA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/CarleDGPPSWZ14" mdate="2017-05-25">
+<author>Thomas Carle</author>
+<author>Manel Djemal</author>
+<author>Daniela Genius</author>
+<author>François Pêcheux</author>
+<author>Dumitru Potop-Butucaru</author>
+<author>Robert de Simone</author>
+<author>Franck Wajsbürt</author>
+<author>Zhen Zhang</author>
+<title>Reconciling performance and predictability on a many-core through off-line mapping.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>ReCoSoC</booktitle>
+<crossref>conf/recosoc/2014</crossref>
+<url>db/conf/recosoc/ReCoSoC2014.html#CarleDGPPSWZ14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/GeniusKA13" mdate="2017-05-20">
+<author>Daniela Genius</author>
+<author>Alix Munier Kordon</author>
+<author>Khouloud Zine el Abidine</author>
+<title>Space optimal solution for data reordering in streaming applications on NoC based MPSoC.</title>
+<pages>455-467</pages>
+<year>2013</year>
+<volume>59</volume>
+<journal>Journal of Systems Architecture - Embedded Systems Design</journal>
+<number>7</number>
+<url>db/journals/jsa/jsa59.html#GeniusKA13</url>
+</article>
+</r>
+<r><inproceedings key="conf/recosoc/Genius13" mdate="2017-05-25">
+<author>Daniela Genius</author>
+<title>Measuring memory access latency for software objects in a NUMA system-on-chip architecture.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>ReCoSoC</booktitle>
+<crossref>conf/recosoc/2013</crossref>
+<url>db/conf/recosoc/ReCoSoC2013.html#Genius13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/GeniusA12" mdate="2017-04-30">
+<author>Daniela Genius</author>
+<author>Khouloud Zine el Abidine</author>
+<title>A hierarchical approach to the out-of-order arrival of frames in video streaming applications on clustered MPSoC.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2012</crossref>
+<url>db/conf/dasip/dasip2012.html#GeniusA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/GeniusA12" mdate="2017-05-25">
+<author>Daniela Genius</author>
+<author>Khouloud Zine el Abidine</author>
+<title>A solution to the data re-ordering problem for multi-pipeline streaming applications on clustered MPSoC.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>ReCoSoC</booktitle>
+<crossref>conf/recosoc/2012</crossref>
+<url>db/conf/recosoc/ReCoSoC2012.html#GeniusA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/GeniusP11" mdate="2017-05-21">
+<author>Daniela Genius</author>
+<author>Nicolas Pouillon</author>
+<title>Analyzing software inter-task communication channels on a clustered shared memory multi processor system-on-chip.</title>
+<pages>284-291</pages>
+<year>2011</year>
+<booktitle>DASIP</booktitle>
+<crossref>conf/dasip/2011</crossref>
+<url>db/conf/dasip/dasip2011.html#GeniusP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/GeniusP11" mdate="2017-05-25">
+<author>Daniela Genius</author>
+<author>Nicolas Pouillon</author>
+<title>Monitoring communication channels on a shared memory multi-processor system on chip.</title>
+<pages>1-8</pages>
+<year>2011</year>
+<booktitle>ReCoSoC</booktitle>
+<crossref>conf/recosoc/2011</crossref>
+<url>db/conf/recosoc/ReCoSoC2011.html#GeniusP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/GeniusKA09" mdate="2017-05-24">
+<author>Daniela Genius</author>
+<author>Alix Munier Kordon</author>
+<author>Khouloud Zine el Abidine</author>
+<title>A Buffer Space Optimal Solution for Re-establishing the Packet Order in a MPSoC Network Processor.</title>
+<pages>216-227</pages>
+<year>2009</year>
+<booktitle>Euro-Par</booktitle>
+<crossref>conf/europar/2009</crossref>
+<url>db/conf/europar/europar2009.html#GeniusKA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/GreinerFPG09" mdate="2017-04-30">
+<author>Alain Greiner</author>
+<author>Etienne Faure</author>
+<author>Nicolas Pouillon</author>
+<author>Daniela Genius</author>
+<title>A generic hardware / software communication middleware for streaming applications on shared memory multi processor systems-on-chip.</title>
+<pages>1-4</pages>
+<year>2009</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2009</crossref>
+<url>db/conf/fdl/fdl2009.html#GreinerFPG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/FaureG08" mdate="2017-05-24">
+<author>Etienne Faure</author>
+<author>Daniela Genius</author>
+<title>Telecommunication Application Modelling with Multi Writer Multi Reader Channels: a Case Study.</title>
+<pages>241-242</pages>
+<year>2008</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2008</crossref>
+<url>db/conf/fdl/fdl2008.html#FaureG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recosoc/FaureGG06" mdate="2006-11-13">
+<author>Etienne Faure</author>
+<author>Alain Greiner</author>
+<author>Daniela Genius</author>
+<title>A generic hardware/software communication mechanism for Multi-Processor System on Chip, Targeting Telecommunication Applications.</title>
+<pages>237-242</pages>
+<year>2006</year>
+<crossref>conf/recosoc/2006</crossref>
+<booktitle>ReCoSoC</booktitle>
+<url>db/conf/recosoc/ReCoSoC2006.html#FaureGG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/BerrayanaFGP04" mdate="2017-05-24">
+<author>Saifeddine Berrayana</author>
+<author>Etienne Faure</author>
+<author>Daniela Genius</author>
+<author>Frédéric Pétrot</author>
+<title>Modular On-chip Multiprocessor for Routing Applications.</title>
+<pages>846-855</pages>
+<year>2004</year>
+<crossref>conf/europar/2004</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2004.html#BerrayanaFGP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/CohenGKCDF02" mdate="2017-05-24">
+<author>Albert Cohen 0001</author>
+<author>Daniela Genius</author>
+<author>Abdesselem Kortebi</author>
+<author>Zbigniew Chamski</author>
+<author>Marc Duranton</author>
+<author>Paul Feautrier</author>
+<title>Multi-periodic Process Networks: Prototyping and Verifying Stream-Processing Systems.</title>
+<pages>137-146</pages>
+<year>2002</year>
+<crossref>conf/europar/2002</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2002.html#CohenGKCDF02</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/dnb/Genius01" mdate="2017-01-19">
+<author>Daniela Genius</author>
+<title>Konfliktvermeidende Speicherabbildung durch zyklische Graphfärbung.</title>
+<year>2001</year>
+<pages>1-109</pages>
+<publisher>Shaker</publisher>
+<school>Karlsruhe Institute of Technology, Germany</school>
+<isbn>978-3-8265-8507-4</isbn>
+</phdthesis>
+</r>
+<r><article key="journals/jcss/HanlonCCGLP01" mdate="2017-05-20">
+<author>Philip J. Hanlon</author>
+<author>Dean Chung</author>
+<author>Siddhartha Chatterjee</author>
+<author>Daniela Genius</author>
+<author>Alvin R. Lebeck</author>
+<author>Erin Parker</author>
+<title>The Combinatorics of Cache Misses during Matrix Multiplication.</title>
+<pages>80-126</pages>
+<year>2001</year>
+<volume>63</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>1</number>
+<url>db/journals/jcss/jcss63.html#HanlonCCGLP01</url>
+</article>
+</r>
+<r><inproceedings key="conf/acpc/GeniusE99" mdate="2017-05-23">
+<author>Daniela Genius</author>
+<author>Jörn Eisenbiegler</author>
+<title>Reducing Cache Conflicts by a Parametrized Memory Mapping.</title>
+<pages>460-469</pages>
+<year>1999</year>
+<crossref>conf/acpc/1999</crossref>
+<booktitle>ACPC</booktitle>
+<url>db/conf/acpc/acpc1999.html#GeniusE99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/GeniusL99" mdate="2017-05-24">
+<author>Daniela Genius</author>
+<author>Sylvain Lelait</author>
+<title>Compiler-Directed Reordering of Data by Cyclic Graph Coloring.</title>
+<pages>1260-1264</pages>
+<year>1999</year>
+<crossref>conf/europar/1999</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar99.html#GeniusL99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEpact/Genius98" mdate="2017-05-22">
+<author>Daniela Genius</author>
+<title>Handling Cross Interferences by Cyclic Cache Line Coloring.</title>
+<pages>112-117</pages>
+<year>1998</year>
+<crossref>conf/IEEEpact/1998</crossref>
+<booktitle>IEEE PACT</booktitle>
+<url>db/conf/IEEEpact/IEEEpact1998.html#Genius98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tic/GeniusTZ98" mdate="2017-05-17">
+<author>Daniela Genius</author>
+<author>Martin Trapp</author>
+<author>Wolf Zimmermann</author>
+<title>An Approach to Improve Locality Using Sandwich Types.</title>
+<pages>194-214</pages>
+<year>1998</year>
+<crossref>conf/tic/1998</crossref>
+<booktitle>Types in Compilation</booktitle>
+<url>db/conf/tic/tic1998.html#GeniusTZ98</url>
+</inproceedings>
+</r>
+<coauthors n="32" nc="4">
+<co c="0"><na f="a/Abidine:Khouloud_Zine_el">Khouloud Zine el Abidine</na></co>
+<co c="0"><na f="a/Apvrille:Ludovic">Ludovic Apvrille</na></co>
+<co c="0"><na f="b/Berrayana:Saifeddine">Saifeddine Berrayana</na></co>
+<co c="0"><na f="c/Carle:Thomas">Thomas Carle</na></co>
+<co c="1"><na f="c/Chamski:Zbigniew">Zbigniew Chamski</na></co>
+<co c="2"><na f="c/Chatterjee:Siddhartha">Siddhartha Chatterjee</na></co>
+<co c="2"><na f="c/Chung:Dean">Dean Chung</na></co>
+<co c="1"><na f="c/Cohen_0001:Albert">Albert Cohen 0001</na></co>
+<co c="0"><na f="d/Djemal:Manel">Manel Djemal</na></co>
+<co c="1"><na f="d/Duranton:Marc">Marc Duranton</na></co>
+<co c="3"><na f="e/Eisenbiegler:J=ouml=rn">Jörn Eisenbiegler</na></co>
+<co c="0"><na f="f/Faure:Etienne">Etienne Faure</na></co>
+<co c="1"><na f="f/Feautrier:Paul">Paul Feautrier</na></co>
+<co c="0"><na f="g/Greiner:Alain">Alain Greiner</na></co>
+<co c="2"><na f="h/Hanlon:Philip_J=">Philip J. Hanlon</na></co>
+<co c="0"><na f="k/Kordon:Alix_Munier">Alix Munier Kordon</na></co>
+<co c="1"><na f="k/Kortebi:Abdesselem">Abdesselem Kortebi</na></co>
+<co c="2"><na f="l/Lebeck:Alvin_R=">Alvin R. Lebeck</na></co>
+<co c="-1"><na f="l/Lelait:Sylvain">Sylvain Lelait</na></co>
+<co c="0"><na f="l/Li:Letitia_W=">Letitia W. Li</na></co>
+<co c="2"><na f="p/Parker:Erin">Erin Parker</na></co>
+<co c="0"><na f="p/P=ecirc=cheux:Fran=ccedil=ois">François Pêcheux</na></co>
+<co c="0"><na f="p/P=eacute=trot:Fr=eacute=d=eacute=ric">Frédéric Pétrot</na></co>
+<co c="0"><na f="p/Porto:Rodrigo_Cort=eacute=s">Rodrigo Cortés Porto</na></co>
+<co c="0"><na f="p/Potop=Butucaru:Dumitru">Dumitru Potop-Butucaru</na></co>
+<co c="0"><na f="p/Pouillon:Nicolas">Nicolas Pouillon</na></co>
+<co c="0"><na f="s/Simone:Robert_de">Robert de Simone</na></co>
+<co c="0"><na f="t/Tanzi:Tullio">Tullio Tanzi</na></co>
+<co c="3"><na f="t/Trapp:Martin">Martin Trapp</na></co>
+<co c="0"><na f="w/Wajsb=uuml=rt:Franck">Franck Wajsbürt</na></co>
+<co c="0"><na f="z/Zhang:Zhen">Zhen Zhang</na></co>
+<co c="3"><na f="z/Zimmermann:Wolf">Wolf Zimmermann</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,1473 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Matthieu Latapy" n="111">
+<person key="homepages/l/MLatapy" mdate="2018-11-07">
+<author>Matthieu Latapy</author>
+<note type="affiliation">LIP6, Paris</note>
+<url>http://www-rp.lip6.fr/~latapy/</url>
+<url>https://orcid.org/0000-0002-0975-6109</url>
+</person>
+<r><article key="journals/cn/LatapyFZ19" mdate="2019-02-11">
+<author>Matthieu Latapy</author>
+<author>Marco Fiore</author>
+<author>Artur Ziviani</author>
+<title>Link streams: Methods and applications.</title>
+<pages>263-265</pages>
+<year>2019</year>
+<volume>150</volume>
+<journal>Computer Networks</journal>
+<url>db/journals/cn/cn150.html#LatapyFZ19</url>
+</article>
+</r>
+<r><article key="journals/cn/WilmetVLL19" mdate="2019-08-26">
+<author>Audrey Wilmet</author>
+<author>Tiphaine Viard</author>
+<author>Matthieu Latapy</author>
+<author>Robin Lamarche-Perrin</author>
+<title>Outlier detection in IP traffic modelled as a link stream using the stability of degree distributions over time.</title>
+<pages>197-209</pages>
+<year>2019</year>
+<volume>161</volume>
+<journal>Computer Networks</journal>
+<url>db/journals/cn/cn161.html#WilmetVLL19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-12576" mdate="2019-05-02">
+<author>Armel Jacques Nzekon Nzeko'o</author>
+<author>Maurice Tchuente</author>
+<author>Matthieu Latapy</author>
+<title>Link Stream Graph for Temporal Recommendations.</title>
+<year>2019</year>
+<volume>abs/1904.12576</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.12576</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-12576</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-02681" mdate="2019-05-27">
+<author>Armel Jacques Nzekon Nzeko'o</author>
+<author>Maurice Tchuente</author>
+<author>Matthieu Latapy</author>
+<title>A general graph-based framework for top-N recommendation using content, temporal and trust information.</title>
+<year>2019</year>
+<volume>abs/1905.02681</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.02681</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-02681</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-02524" mdate="2019-06-13">
+<author>Audrey Wilmet</author>
+<author>Tiphaine Viard</author>
+<author>Matthieu Latapy</author>
+<author>Robin Lamarche-Perrin</author>
+<title>Degree-based Outlier Detection within IP Traffic Modelled as a Link Stream.</title>
+<year>2019</year>
+<volume>abs/1906.02524</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.02524</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-02524</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-04840" mdate="2019-06-14">
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<author>Tiphaine Viard</author>
+<title>Weighted, Bipartite, or Directed Stream Graphs for the Modeling of Temporal Networks.</title>
+<year>2019</year>
+<volume>abs/1906.04840</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.04840</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-04840</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-10792" mdate="2019-12-03">
+<author>Nicolas Gensollen</author>
+<author>Matthieu Latapy</author>
+<title>Do you trade with your friends or become friends with your trading partners? A case study in the G1 cryptocurrency.</title>
+<year>2019</year>
+<volume>abs/1911.10792</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.10792</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-10792</url>
+</article>
+</r>
+<r><article key="journals/cuza/BertrandPKL18" mdate="2018-09-25">
+<author>Clément Bertrand</author>
+<author>Frédéric Peschanski</author>
+<author>Hanna Klaudel</author>
+<author>Matthieu Latapy</author>
+<title>Pattern Matching in Link Streams: Timed-Automata with Finite Memory.</title>
+<pages>161-198</pages>
+<year>2018</year>
+<volume>28</volume>
+<journal>Sci. Ann. Comp. Sci.</journal>
+<number>2</number>
+<url>db/journals/cuza/cuza28.html#BertrandPKL18</url>
+</article>
+</r>
+<r><article key="journals/ipl/ViardML18" mdate="2018-03-20">
+<author orcid="0000-0002-5969-5439">Tiphaine Viard</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<title>Enumerating maximal cliques in link streams with durations.</title>
+<pages>44-48</pages>
+<year>2018</year>
+<volume>133</volume>
+<journal>Inf. Process. Lett.</journal>
+<url>db/journals/ipl/ipl133.html#ViardML18</url>
+</article>
+</r>
+<r><article key="journals/snam/LatapyVM18" mdate="2018-11-02">
+<author orcid="0000-0002-0975-6109">Matthieu Latapy</author>
+<author>Tiphaine Viard</author>
+<author>Clémence Magnien</author>
+<title>Stream graphs and link streams for the modeling of interactions over time.</title>
+<pages>61:1-61:29</pages>
+<year>2018</year>
+<volume>8</volume>
+<journal>Social Netw. Analys. Mining</journal>
+<number>1</number>
+<url>db/journals/snam/snam8.html#LatapyVM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/BertrandKLP18" mdate="2018-05-29">
+<author>Clément Bertrand</author>
+<author>Hanna Klaudel</author>
+<author>Matthieu Latapy</author>
+<author>Frédéric Peschanski</author>
+<title>Pattern Matching in Link Streams: A Token-Based Approach.</title>
+<pages>227-247</pages>
+<year>2018</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2018</crossref>
+<url>db/conf/apn/pn2018.html#BertrandKLP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tma/WilmetVLL18" mdate="2018-10-30">
+<author>Audrey Wilmet</author>
+<author>Tiphaine Viard</author>
+<author>Matthieu Latapy</author>
+<author>Robin Lamarche-Perrin</author>
+<title>Degree-Based Outliers Detection Within IP Traffic Modelled as a Link Stream.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>TMA</booktitle>
+<crossref>conf/tma/2018</crossref>
+<url>db/conf/tma/tma2018.html#WilmetVLL18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-01465" mdate="2018-08-13">
+<author>Thibaud Arnoux</author>
+<author>Lionel Tabourier</author>
+<author>Matthieu Latapy</author>
+<title>Predicting interactions between individuals with structural and dynamical information.</title>
+<year>2018</year>
+<volume>abs/1804.01465</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.01465</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-01465</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-09073" mdate="2018-08-13">
+<author>Jean Creusefond</author>
+<author>Matthieu Latapy</author>
+<title>Propagation of content similarity through a collaborative network for live show recommendation.</title>
+<year>2018</year>
+<volume>abs/1804.09073</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.09073</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-09073</url>
+</article>
+</r>
+<r><article key="journals/compsys/LatapyRCT17" mdate="2017-05-20">
+<author>Matthieu Latapy</author>
+<author>Elie Rotenberg</author>
+<author>Christophe Crespelle</author>
+<author>Fabien Tarissan</author>
+<title>Rigorous Measurement of the Internet Degree Distribution.</title>
+<year>2017</year>
+<volume>26</volume>
+<journal>Complex Systems</journal>
+<number>1</number>
+<url>db/journals/compsys/compsys26.html#LatapyRCT17</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/ArnouxTL17" mdate="2018-11-06">
+<author>Thibaud Arnoux</author>
+<author>Lionel Tabourier</author>
+<author>Matthieu Latapy</author>
+<title>Combining structural and dynamic information to predict activity in link streams.</title>
+<pages>935-942</pages>
+<year>2017</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2017</crossref>
+<url>db/conf/asunam/asonam2017.html#ArnouxTL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/complexnetworks/RemyRM17" mdate="2018-04-25">
+<author>Rémy Cazabet</author>
+<author>Rym Baccour</author>
+<author>Matthieu Latapy</author>
+<title>Tracking Bitcoin Users Activity Using Community Detection on a Network of Weak Signals.</title>
+<pages>166-177</pages>
+<year>2017</year>
+<booktitle>COMPLEX NETWORKS</booktitle>
+<crossref>conf/complexnetworks/2017</crossref>
+<url>db/conf/complexnetworks/complexnetworks2017.html#RemyRM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/PayenTL17" mdate="2017-07-06">
+<author>Aurore Payen</author>
+<author>Lionel Tabourier</author>
+<author>Matthieu Latapy</author>
+<title>Impact of Temporal Features of Cattle Exchanges on the Size and Speed of Epidemic Outbreaks.</title>
+<pages>84-97</pages>
+<year>2017</year>
+<booktitle>ICCSA (2)</booktitle>
+<crossref>conf/iccsa/2017-2</crossref>
+<url>db/conf/iccsa/iccsa2017-2.html#PayenTL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/NzekooTL17" mdate="2017-06-14">
+<author>Armel Jacques Nzekon Nzeko'o</author>
+<author>Maurice Tchuente</author>
+<author>Matthieu Latapy</author>
+<title>Temporal Recommendation, Long- and Short-term Preferences, Session-based Temporal Graph, Time Weight Content-based Graph, Time-averaged Hit Ratio, PageRank, Injected Preference Fusion..</title>
+<pages>268-275</pages>
+<year>2017</year>
+<booktitle>WEBIST</booktitle>
+<crossref>conf/webist/2017</crossref>
+<url>db/conf/webist/webist2017.html#NzekooTL17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-04073" mdate="2018-08-13">
+<author>Matthieu Latapy</author>
+<author>Tiphaine Viard</author>
+<author>Clémence Magnien</author>
+<title>Stream Graphs and Link Streams for the Modeling of Interactions over Time.</title>
+<year>2017</year>
+<volume>abs/1710.04073</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.04073</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-04073</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-07107" mdate="2018-08-13">
+<author>Tiphaine Viard</author>
+<author>Raphaël Fournier-S'niehotta</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<title>Discovering Patterns of Interest in IP Traffic Using Cliques in Bipartite Link Streams.</title>
+<year>2017</year>
+<volume>abs/1710.07107</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.07107</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-07107</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-08158" mdate="2018-08-13">
+<author>Rémy Cazabet</author>
+<author>Baccour Rym</author>
+<author>Matthieu Latapy</author>
+<title>Tracking bitcoin users activity using community detection on a network of weak signals.</title>
+<year>2017</year>
+<volume>abs/1710.08158</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.08158</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-08158</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-06970" mdate="2018-08-13">
+<author>Tiphaine Viard</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<title>Enumerating maximal cliques in link streams with durations.</title>
+<year>2017</year>
+<volume>abs/1712.06970</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.06970</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-06970</url>
+</article>
+</r>
+<r><article key="journals/compnet/VigerL16" mdate="2017-05-28">
+<author>Fabien Viger</author>
+<author>Matthieu Latapy</author>
+<title>Efficient and simple generation of random simple connected graphs with prescribed degree sequence.</title>
+<pages>15-37</pages>
+<year>2016</year>
+<volume>4</volume>
+<journal>J. Complex Networks</journal>
+<number>1</number>
+<url>db/journals/compnet/compnet4.html#VigerL16</url>
+</article>
+</r>
+<r><article key="journals/snam/GaumontML16" mdate="2017-06-14">
+<author orcid="0000-0003-3760-7191">Noé Gaumont</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<title>Finding remarkably dense sequences of contacts in link streams.</title>
+<pages>87:1-87:14</pages>
+<year>2016</year>
+<volume>6</volume>
+<journal>Social Netw. Analys. Mining</journal>
+<number>1</number>
+<url>db/journals/snam/snam6.html#GaumontML16</url>
+</article>
+</r>
+<r><article key="journals/tcs/ViardLM16" mdate="2017-09-16">
+<author orcid="0000-0002-5969-5439">Tiphaine Viard</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<title>Computing maximal cliques in link streams.</title>
+<pages>245-252</pages>
+<year>2016</year>
+<volume>609</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs609.html#ViardLM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/complenet/GaumontVFWL16" mdate="2017-09-16">
+<author>Noé Gaumont</author>
+<author orcid="0000-0002-5969-5439">Tiphaine Viard</author>
+<author>Raphaël Fournier-S'niehotta</author>
+<author>Qinna Wang</author>
+<author>Matthieu Latapy</author>
+<title>Analysis of the Temporal and Structural Features of Threads in a Mailing-List.</title>
+<pages>107-118</pages>
+<year>2016</year>
+<booktitle>CompleNet</booktitle>
+<crossref>conf/complenet/2016</crossref>
+<url>db/conf/complenet/complenet2016.html#GaumontVFWL16</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/CrespelleLP15" mdate="2017-05-28">
+<author>Christophe Crespelle</author>
+<author>Matthieu Latapy</author>
+<author>Thi Ha Duong Phan</author>
+<title>On the termination of some biclique operators on multipartite graphs.</title>
+<pages>59-73</pages>
+<year>2015</year>
+<volume>195</volume>
+<journal>Discrete Applied Mathematics</journal>
+<url>db/journals/dam/dam195.html#CrespelleLP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/ViardLM15" mdate="2018-11-06">
+<author>Jordan Viard</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<title>Revealing contact patterns among high-school students using maximal cliques in link streams.</title>
+<pages>1517-1522</pages>
+<year>2015</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2015</crossref>
+<url>db/conf/asunam/asonam2015.html#ViardLM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdata/NzekooLT15" mdate="2019-02-20">
+<author>Armel Jacques Nzekon Nzeko'o</author>
+<author>Matthieu Latapy</author>
+<author>Maurice Tchuente</author>
+<title>Social Network Analysis of Developers' and Users' Mailing Lists of Some Free Open Source Software.</title>
+<pages>728-732</pages>
+<year>2015</year>
+<booktitle>BigData Congress</booktitle>
+<crossref>conf/bigdata/2015</crossref>
+<url>db/conf/bigdata/bigdata2015.html#NzekooLT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/complenet/GaumontQML15" mdate="2017-05-22">
+<author>Noé Gaumont</author>
+<author>François Queyroi</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<title>Expected Nodes: A Quality Function for the Detection of Link Communities.</title>
+<pages>57-64</pages>
+<year>2015</year>
+<booktitle>CompleNet</booktitle>
+<crossref>conf/complenet/2015</crossref>
+<url>db/conf/complenet/complenet2015.html#GaumontQML15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ViardLM15" mdate="2018-08-13">
+<author>Tiphaine Viard</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<title>Computing maximal cliques in link streams.</title>
+<year>2015</year>
+<volume>abs/1502.00993</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1502.00993</ee>
+<url>db/journals/corr/corr1502.html#ViardLM15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GaumontVFWL15" mdate="2018-08-13">
+<author>Noé Gaumont</author>
+<author>Tiphaine Viard</author>
+<author>Raphaël Fournier-S'niehotta</author>
+<author>Qinna Wang</author>
+<author>Matthieu Latapy</author>
+<title>Analysis of the temporal and structural features of threads in a mailing-list.</title>
+<year>2015</year>
+<volume>abs/1512.05002</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1512.05002</ee>
+<url>db/journals/corr/corr1512.html#GaumontVFWL15</url>
+</article>
+</r>
+<r><article key="journals/compnet/LatapyHM14" mdate="2017-05-28">
+<author>Matthieu Latapy</author>
+<author>Assia Hamzaoui</author>
+<author>Clémence Magnien</author>
+<title>Detecting events in the dynamics of ego-centred measurements of the Internet topology.</title>
+<pages>38-59</pages>
+<year>2014</year>
+<volume>2</volume>
+<journal>J. Complex Networks</journal>
+<number>1</number>
+<url>db/journals/compnet/compnet2.html#LatapyHM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/LatapyV14" mdate="2017-09-16">
+<author>Matthieu Latapy</author>
+<author orcid="0000-0002-5969-5439">Tiphaine Viard</author>
+<title>Complex Networks and Link Streams for the Empirical Analysis of Large Software.</title>
+<pages>40-50</pages>
+<year>2014</year>
+<booktitle>Petri Nets</booktitle>
+<crossref>conf/apn/2014</crossref>
+<url>db/conf/apn/pn2014.html#LatapyV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/RotenbergCL14" mdate="2017-05-16">
+<author>Elie Rotenberg</author>
+<author>Christophe Crespelle</author>
+<author>Matthieu Latapy</author>
+<title>Measuring routing tables in the internet.</title>
+<pages>795-800</pages>
+<year>2014</year>
+<booktitle>INFOCOM Workshops</booktitle>
+<crossref>conf/infocom/2014w</crossref>
+<url>db/conf/infocom/infocom2014w.html#RotenbergCL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/ViardL14" mdate="2017-05-16">
+<author>Jordan Viard</author>
+<author>Matthieu Latapy</author>
+<title>Identifying roles in an IP network with temporal and structural density.</title>
+<pages>801-806</pages>
+<year>2014</year>
+<booktitle>INFOCOM Workshops</booktitle>
+<crossref>conf/infocom/2014w</crossref>
+<url>db/conf/infocom/infocom2014w.html#ViardL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/TarissanRLC14" mdate="2017-05-26">
+<author>Fabien Tarissan</author>
+<author>Elie Rotenberg</author>
+<author>Matthieu Latapy</author>
+<author>Christophe Crespelle</author>
+<title>UDP Ping: A Dedicated Tool for Improving Measurements of the Internet Topology.</title>
+<pages>506-509</pages>
+<year>2014</year>
+<booktitle>MASCOTS</booktitle>
+<crossref>conf/mascots/2014</crossref>
+<url>db/conf/mascots/mascots2014.html#TarissanRLC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/LatapyRCT14" mdate="2019-02-22">
+<author>Matthieu Latapy</author>
+<author>Elie Rotenberg</author>
+<author>Christophe Crespelle</author>
+<author>Fabien Tarissan</author>
+<title>Measuring the degree distribution of routers in the core internet.</title>
+<pages>1-9</pages>
+<year>2014</year>
+<booktitle>Networking</booktitle>
+<crossref>conf/networking/2014</crossref>
+<url>db/conf/networking/networking2014.html#LatapyRCT14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ViardL14" mdate="2018-08-13">
+<author>Tiphaine Viard</author>
+<author>Matthieu Latapy</author>
+<title>Identifying roles in an IP network with temporal and structural density.</title>
+<year>2014</year>
+<volume>abs/1406.4969</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1406.4969</ee>
+<url>db/journals/corr/corr1406.html#ViardL14</url>
+</article>
+</r>
+<r><article key="journals/cn/TarissanQMDPL13" mdate="2019-10-19">
+<author>Fabien Tarissan</author>
+<author>Bruno Quoitin</author>
+<author>Pascal Mérindol</author>
+<author orcid="0000-0002-0651-3398">Benoit Donnet</author>
+<author orcid="0000-0003-4195-1788">Jean-Jacques Pansiot</author>
+<author>Matthieu Latapy</author>
+<title>Towards a bipartite graph modeling of the internet topology.</title>
+<pages>2331-2347</pages>
+<year>2013</year>
+<volume>57</volume>
+<journal>Computer Networks</journal>
+<number>11</number>
+<url>db/journals/cn/cn57.html#TarissanQMDPL13</url>
+</article>
+</r>
+<r><article key="journals/ida/AllaliML13" mdate="2017-05-26">
+<author>Oussama Allali</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<title>Internal link prediction: A new approach for predicting links in bipartite graphs.</title>
+<pages>5-25</pages>
+<year>2013</year>
+<volume>17</volume>
+<journal>Intell. Data Anal.</journal>
+<number>1</number>
+<url>db/journals/ida/ida17.html#AllaliML13</url>
+</article>
+</r>
+<r><article key="journals/ipm/LatapyMF13" mdate="2017-05-18">
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<author>Raphaël Fournier</author>
+<title>Quantifying paedophile activity in a large P2P system.</title>
+<pages>248-263</pages>
+<year>2013</year>
+<volume>49</volume>
+<journal>Inf. Process. Manage.</journal>
+<number>1</number>
+<url>db/journals/ipm/ipm49.html#LatapyMF13</url>
+</article>
+</r>
+<r><article key="journals/snam/AllaliTML13" mdate="2017-05-27">
+<author>Oussama Allali</author>
+<author>Lionel Tabourier</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<title>Internal links and pairs as a new tool for the analysis of bipartite complex networks.</title>
+<pages>85-91</pages>
+<year>2013</year>
+<volume>3</volume>
+<journal>Social Netw. Analys. Mining</journal>
+<number>1</number>
+<url>db/journals/snam/snam3.html#AllaliTML13</url>
+</article>
+</r>
+<r><article key="journals/snam/BernardesLT13" mdate="2017-05-27">
+<author>Daniel Faria Bernardes</author>
+<author>Matthieu Latapy</author>
+<author>Fabien Tarissan</author>
+<title>Inadequacy of SIR model to reproduce key properties of real-world spreading cascades: experiments on a large-scale P2P system.</title>
+<pages>1195-1208</pages>
+<year>2013</year>
+<volume>3</volume>
+<journal>Social Netw. Analys. Mining</journal>
+<number>4</number>
+<url>db/journals/snam/snam3.html#BernardesLT13</url>
+</article>
+</r>
+<r><article key="journals/ppl/BrahimGL12" mdate="2017-05-17">
+<author>Abdelhamid Salah Brahim</author>
+<author>Bénédicte Le Grand</author>
+<author>Matthieu Latapy</author>
+<title>Diffusion Cascades: Spreading Phenomena in Blog Network Communities.</title>
+<year>2012</year>
+<volume>22</volume>
+<journal>Parallel Processing Letters</journal>
+<number>1</number>
+<url>db/journals/ppl/ppl22.html#BrahimGL12</url>
+</article>
+</r>
+<r><article key="journals/ria/AlbanoGL12" mdate="2017-05-27">
+<author>Alice Albano</author>
+<author>Bénédicte Le Grand</author>
+<author>Matthieu Latapy</author>
+<title>Visualisation de grands réseaux dynamiques. Application à la détection d'anomalies de routage dans l'Internet.</title>
+<pages>409-427</pages>
+<year>2012</year>
+<volume>26</volume>
+<journal>Revue d'Intelligence Artificielle</journal>
+<number>4</number>
+<url>db/journals/ria/ria26.html#AlbanoGL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/BernardesLT12" mdate="2017-05-23">
+<author>Daniel Faria Bernardes</author>
+<author>Matthieu Latapy</author>
+<author>Fabien Tarissan</author>
+<title>Relevance of SIR Model for Real-world Spreading Phenomena: Experiments on a Large-scale P2P System.</title>
+<pages>327-334</pages>
+<year>2012</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2012</crossref>
+<url>db/conf/asunam/asonam2012.html#BernardesLT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asunam/HeymannLM12" mdate="2017-05-23">
+<author>Sebastien Heymann</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<title>Outskewer: Using Skewness to Spot Outliers in Samples and Time Series.</title>
+<pages>527-534</pages>
+<year>2012</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2012</crossref>
+<url>db/conf/asunam/asonam2012.html#HeymannLM12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1206-4166" mdate="2018-08-13">
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<author>Raphaël Fournier</author>
+<title>Quantifying Paedophile Activity in a Large P2P System</title>
+<ee type="oa">http://arxiv.org/abs/1206.4166</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1206.4166</volume>
+<url>db/journals/corr/corr1206.html#abs-1206-4166</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1206-4167" mdate="2018-08-13">
+<author>Raphaël Fournier</author>
+<author>Thibault Cholez</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<author>Isabelle Chrisment</author>
+<author>Ivan Daniloff</author>
+<author>Olivier Festor</author>
+<title>Comparing paedophile activity in different P2P systems</title>
+<ee type="oa">http://arxiv.org/abs/1206.4167</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1206.4167</volume>
+<url>db/journals/corr/corr1206.html#abs-1206-4167</url>
+</article>
+</r>
+<r><article key="journals/comcom/Latapy11" mdate="2017-05-26">
+<author>Matthieu Latapy</author>
+<title>Complex networks.</title>
+<pages>607-608</pages>
+<year>2011</year>
+<volume>34</volume>
+<journal>Computer Communications</journal>
+<number>5</number>
+<url>db/journals/comcom/comcom34.html#Latapy11</url>
+</article>
+</r>
+<r><article key="journals/compsys/FriggeriCL11" mdate="2017-05-25">
+<author>Adrien Friggeri</author>
+<author>Jean-Philippe Cointet</author>
+<author>Matthieu Latapy</author>
+<title>A Real-World Spreading Experiment in the Blogosphere.</title>
+<year>2011</year>
+<volume>19</volume>
+<journal>Complex Systems</journal>
+<number>3</number>
+<url>db/journals/compsys/compsys19.html#FriggeriCL11</url>
+</article>
+</r>
+<r><article key="journals/compsys/LatapyMO11" mdate="2017-05-25">
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<author>Frédéric Ouédraogo</author>
+<title>A Radar for the Internet.</title>
+<year>2011</year>
+<volume>20</volume>
+<journal>Complex Systems</journal>
+<number>1</number>
+<url>db/journals/compsys/compsys20.html#LatapyMO11</url>
+</article>
+</r>
+<r><article key="journals/csur/MagnienLG11" mdate="2019-10-19">
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<author orcid="0000-0002-4615-1563">Jean-Loup Guillaume</author>
+<title>Impact of random failures and attacks on Poisson and power-law random networks.</title>
+<pages>13:1-13:31</pages>
+<year>2011</year>
+<volume>43</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>3</number>
+<url>db/journals/csur/csur43.html#MagnienLG11</url>
+</article>
+</r>
+<r><article key="journals/jocs/BrahimGTL11" mdate="2017-05-20">
+<author>Abdelhamid Salah Brahim</author>
+<author>Bénédicte Le Grand</author>
+<author>Lionel Tabourier</author>
+<author>Matthieu Latapy</author>
+<title>Citations among blogs in a hierarchy of communities: Method and case study.</title>
+<pages>247-252</pages>
+<year>2011</year>
+<volume>2</volume>
+<journal>J. Comput. Science</journal>
+<number>3</number>
+<url>db/journals/jocs/jocs2.html#BrahimGTL11</url>
+</article>
+</r>
+<r><article key="journals/tcs/PonsL11" mdate="2017-05-28">
+<author>Pascal Pons</author>
+<author>Matthieu Latapy</author>
+<title>Post-processing hierarchical community structures: Quality improvements and multi-scale view.</title>
+<pages>892-900</pages>
+<year>2011</year>
+<volume>412</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>8-10</number>
+<url>db/journals/tcs/tcs412.html#PonsL11</url>
+</article>
+</r>
+<r><article key="journals/tsi/Latapy11" mdate="2011-04-18">
+<author>Matthieu Latapy</author>
+<title>Introduction.</title>
+<pages>135-136</pages>
+<year>2011</year>
+<volume>30</volume>
+<journal>Technique et Science Informatiques</journal>
+<number>2</number>
+<url>db/journals/tsi/tsi30.html#Latapy11</url>
+</article>
+</r>
+<r><inproceedings key="conf/infocom/LatapyMF11" mdate="2017-05-16">
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<author>Raphaël Fournier</author>
+<title>Quantifying paedophile queries in a large P2P system.</title>
+<pages>401-405</pages>
+<year>2011</year>
+<booktitle>INFOCOM</booktitle>
+<crossref>conf/infocom/2011</crossref>
+<url>db/conf/infocom/infocom2011.html#LatapyMF11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1104-4418" mdate="2018-08-13">
+<author>Oussama Allali</author>
+<author>Lionel Tabourier</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<title>Internal links and pairs as a new tool for the analysis of bipartite complex networks</title>
+<ee type="oa">http://arxiv.org/abs/1104.4418</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1104.4418</volume>
+<url>db/journals/corr/corr1104.html#abs-1104-4418</url>
+</article>
+</r>
+<r><inproceedings key="conf/cocoa/LatapyPCN10" mdate="2017-05-17">
+<author>Matthieu Latapy</author>
+<author>Thi Ha Duong Phan</author>
+<author>Christophe Crespelle</author>
+<author>Thanh Qui Nguyen</author>
+<title>Termination of Multipartite Graph Series Arising from Complex Network Modelling.</title>
+<pages>1-10</pages>
+<year>2010</year>
+<booktitle>COCOA (1)</booktitle>
+<crossref>conf/cocoa/2010-1</crossref>
+<url>db/conf/cocoa/cocoa2010-1.html#LatapyPCN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/complenet/WangLS10" mdate="2017-05-22">
+<author>Xiaomin Wang</author>
+<author>Matthieu Latapy</author>
+<author>Michèle Soria</author>
+<title>Deciding on the Type of a Graph from a BFS.</title>
+<pages>68-74</pages>
+<year>2010</year>
+<booktitle>CompleNet</booktitle>
+<crossref>conf/complenet/2010</crossref>
+<url>db/conf/complenet/complenet2010.html#WangLS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiopt/HamzaouiLM10" mdate="2017-04-30">
+<author>Assia Hamzaoui</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<title>Detecting events in the dynamics of ego-centered measurements of the internet topology.</title>
+<pages>505-512</pages>
+<year>2010</year>
+<booktitle>WiOpt</booktitle>
+<crossref>conf/wiopt/2010</crossref>
+<url>db/conf/wiopt/wiopt2010.html#HamzaouiLM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/dm/LatapyP09" mdate="2017-05-28">
+<author>Matthieu Latapy</author>
+<author>Thi Ha Duong Phan</author>
+<title>The lattice of integer partitions and its infinite extension.</title>
+<pages>1357-1367</pages>
+<year>2009</year>
+<volume>309</volume>
+<journal>Discrete Mathematics</journal>
+<number>6</number>
+<url>db/journals/dm/dm309.html#LatapyP09</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/AidouniLM09" mdate="2017-05-24">
+<author>Frederic Aidouni</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<title>Ten weeks in the life of an eDonkey server.</title>
+<pages>1-5</pages>
+<year>2009</year>
+<booktitle>IPDPS</booktitle>
+<crossref>conf/ipps/2009</crossref>
+<url>db/conf/ipps/ipdps2009.html#AidouniLM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/AllaliLM09" mdate="2017-05-24">
+<author>Oussama Allali</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<title>Measurement of eDonkey activity with distributed honeypots.</title>
+<pages>1-8</pages>
+<year>2009</year>
+<booktitle>IPDPS</booktitle>
+<crossref>conf/ipps/2009</crossref>
+<url>db/conf/ipps/ipdps2009.html#AllaliLM09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-2716" mdate="2018-08-13">
+<author>Clémence Magnien</author>
+<author>Frédéric Ouédraogo</author>
+<author>Guillaume Valadon</author>
+<author>Matthieu Latapy</author>
+<title>Fast dynamics in Internet topology: preliminary observations and explanations</title>
+<ee type="oa">http://arxiv.org/abs/0904.2716</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.2716</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-2716</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-2728" mdate="2018-08-13">
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<author>Michel Habib</author>
+<title>Fast Computation of Empirically Tight Bounds for the Diameter of Massive Graphs</title>
+<ee type="oa">http://arxiv.org/abs/0904.2728</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.2728</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-2728</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-2733" mdate="2018-08-13">
+<author>Fabien Viger</author>
+<author>Brice Augustin</author>
+<author>Xavier Cuvellier</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<author>Timur Friedman</author>
+<author>Renata Teixeira</author>
+<title>Detection, Understanding, and Prevention of Traceroute Measurement Artifacts</title>
+<ee type="oa">http://arxiv.org/abs/0904.2733</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.2733</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-2733</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-3215" mdate="2018-08-13">
+<author>Oussama Allali</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<title>Measurement of eDonkey Activity with Distributed Honeypots</title>
+<ee type="oa">http://arxiv.org/abs/0904.3215</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.3215</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-3215</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-3222" mdate="2018-08-13">
+<author>Fabien Tarissan</author>
+<author>Matthieu Latapy</author>
+<author>Christophe Prieur 0002</author>
+<title>Efficient Measurement of Complex Networks Using Link Queries</title>
+<ee type="oa">http://arxiv.org/abs/0904.3222</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.3222</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-3222</url>
+</article>
+</r>
+<r><article key="journals/cn/VigerACMLFT08" mdate="2017-05-18">
+<author>Fabien Viger</author>
+<author>Brice Augustin</author>
+<author>Xavier Cuvellier</author>
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<author>Timur Friedman</author>
+<author>Renata Teixeira</author>
+<title>Detection, understanding, and prevention of traceroute measurement artifacts.</title>
+<pages>998-1018</pages>
+<year>2008</year>
+<volume>52</volume>
+<journal>Computer Networks</journal>
+<number>5</number>
+<url>db/journals/cn/cn52.html#VigerACMLFT08</url>
+</article>
+</r>
+<r><article key="journals/cn/LatapyW08" mdate="2017-05-18">
+<author>Matthieu Latapy</author>
+<author>Walter Willinger</author>
+<title>Complex computer and communication networks.</title>
+<pages>2817-2818</pages>
+<year>2008</year>
+<volume>52</volume>
+<journal>Computer Networks</journal>
+<number>15</number>
+<url>db/journals/cn/cn52.html#LatapyW08</url>
+</article>
+</r>
+<r><article key="journals/jea/MagnienLH08" mdate="2018-11-06">
+<author>Clémence Magnien</author>
+<author>Matthieu Latapy</author>
+<author>Michel Habib</author>
+<title>Fast computation of empirically tight bounds for the diameter of massive graphs.</title>
+<year>2008</year>
+<volume>13</volume>
+<journal>ACM Journal of Experimental Algorithmics</journal>
+<url>db/journals/jea/jea13.html#MagnienLH08</url>
+</article>
+</r>
+<r><article key="journals/socnet/LatapyMV08" mdate="2018-11-14">
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<author>Nathalie Del Vecchio</author>
+<title>Basic notions for the analysis of large two-mode networks.</title>
+<pages>31-48</pages>
+<year>2008</year>
+<volume>30</volume>
+<journal>Social Networks</journal>
+<number>1</number>
+<url>db/journals/socnet/socnet30.html#LatapyMV08</url>
+</article>
+</r>
+<r><article key="journals/tcs/Latapy08" mdate="2017-05-28">
+<author>Matthieu Latapy</author>
+<title>Main-memory triangle computations for very large (sparse (power-law)) graphs.</title>
+<pages>458-473</pages>
+<year>2008</year>
+<volume>407</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<url>db/journals/tcs/tcs407.html#Latapy08</url>
+</article>
+</r>
+<r><inproceedings key="conf/coria/Latapy08" mdate="2009-07-08">
+<author>Matthieu Latapy</author>
+<title>Analyse des grands graphes de terrain.</title>
+<pages>5-6</pages>
+<year>2008</year>
+<booktitle>CORIA</booktitle>
+<crossref>conf/coria/2008</crossref>
+<url>db/conf/coria/coria2008.html#Latapy08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/LatapyMO08" mdate="2017-05-26">
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<author>Frédéric Ouédraogo</author>
+<title>A Radar for the Internet.</title>
+<pages>901-908</pages>
+<year>2008</year>
+<booktitle>ICDM Workshops</booktitle>
+<crossref>conf/icdm/2008w</crossref>
+<url>db/conf/icdm/icdmw2008.html#LatapyMO08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/LatapyM08" mdate="2017-05-16">
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<title>Complex Network Measurements: Estimating the Relevance of Observed Properties.</title>
+<pages>1660-1668</pages>
+<year>2008</year>
+<booktitle>INFOCOM</booktitle>
+<crossref>conf/infocom/2008</crossref>
+<url>db/conf/infocom/infocom2008.html#LatapyM08</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0807-1603" mdate="2018-08-13">
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<author>Frédéric Ouédraogo</author>
+<title>A Radar for the Internet</title>
+<ee type="oa">http://arxiv.org/abs/0807.1603</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0807.1603</volume>
+<url>db/journals/corr/corr0807.html#abs-0807-1603</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0809-3415" mdate="2018-08-13">
+<author>Frederic Aidouni</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<title>Ten weeks in the life of an eDonkey server</title>
+<ee type="oa">http://arxiv.org/abs/0809.3415</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0809.3415</volume>
+<url>db/journals/corr/corr0809.html#abs-0809-3415</url>
+</article>
+</r>
+<r><article key="journals/adt/DoratLCA07" mdate="2017-05-28">
+<author>Rémi Dorat</author>
+<author>Matthieu Latapy</author>
+<author>Bernard Conein</author>
+<author>Nicolas Auray</author>
+<title>Multi-level analysis of an interaction network between individuals in a mailing-list.</title>
+<pages>325-349</pages>
+<year>2007</year>
+<volume>62</volume>
+<journal>Annales des Télécommunications</journal>
+<number>3-4</number>
+<url>db/journals/adt/adt62.html#DoratLCA07</url>
+</article>
+</r>
+<r><article key="journals/cn/LeguayLFS07" mdate="2018-11-30">
+<author orcid="0000-0002-4670-6389">Jeremie Leguay</author>
+<author>Matthieu Latapy</author>
+<author>Timur Friedman</author>
+<author>Kavé Salamatian</author>
+<title>Describing and simulating internet routes.</title>
+<pages>2067-2085</pages>
+<year>2007</year>
+<volume>51</volume>
+<journal>Computer Networks</journal>
+<number>8</number>
+<url>db/journals/cn/cn51.html#LeguayLFS07</url>
+</article>
+</r>
+<r><article key="journals/cn/GuillaumeLM06" mdate="2019-10-19">
+<author orcid="0000-0002-4615-1563">Jean-Loup Guillaume</author>
+<author>Matthieu Latapy</author>
+<author orcid="0000-0003-2578-1803">Damien Magoni</author>
+<title>Relevance of massively distributed explorations of the Internet topology: Qualitative results.</title>
+<pages>3197-3224</pages>
+<year>2006</year>
+<volume>50</volume>
+<journal>Computer Networks</journal>
+<number>16</number>
+<url>db/journals/cn/cn50.html#GuillaumeLM06</url>
+</article>
+</r>
+<r><article key="journals/jgaa/PonsL06" mdate="2019-06-02">
+<author>Pascal Pons</author>
+<author>Matthieu Latapy</author>
+<title>Computing Communities in Large Networks Using Random Walks.</title>
+<pages>191-218</pages>
+<year>2006</year>
+<volume>10</volume>
+<journal>J. Graph Algorithms Appl.</journal>
+<number>2</number>
+<url>db/journals/jgaa/jgaa10.html#PonsL06</url>
+</article>
+</r>
+<r><article key="journals/tcs/KumarL06" mdate="2017-05-28">
+<author>Ravi Kumar 0001</author>
+<author>Matthieu Latapy</author>
+<title>Preface.</title>
+<pages>1-5</pages>
+<year>2006</year>
+<volume>355</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/tcs/tcs355.html#KumarL06</url>
+</article>
+</r>
+<r><inproceedings key="conf/imc/AugustinCOVFLMT06" mdate="2018-11-06">
+<author>Brice Augustin</author>
+<author>Xavier Cuvellier</author>
+<author>Benjamin Orgogozo</author>
+<author>Fabien Viger</author>
+<author>Timur Friedman</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<author>Renata Teixeira</author>
+<title>Avoiding traceroute anomalies with Paris traceroute.</title>
+<pages>153-158</pages>
+<year>2006</year>
+<crossref>conf/imc/2006</crossref>
+<booktitle>Internet Measurement Conference</booktitle>
+<url>db/conf/imc/imc2006.html#AugustinCOVFLMT06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0609115" mdate="2018-08-13">
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<title>Measuring Fundamental Properties of Real-World Complex Networks</title>
+<ee type="oa">http://arxiv.org/abs/cs/0609115</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0609115</volume>
+<url>db/journals/corr/corr0609.html#abs-cs-0609115</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0609116" mdate="2018-08-13">
+<author>Matthieu Latapy</author>
+<title>Theory and Practice of Triangle Problems in Very Large (Sparse (Power-Law)) Graphs</title>
+<ee type="oa">http://arxiv.org/abs/cs/0609116</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0609116</volume>
+<url>db/journals/corr/corr0609.html#abs-cs-0609116</url>
+</article>
+</r>
+<r><article key="journals/compsys/GuillaumeL05" mdate="2017-05-27">
+<author>Jean-Loup Guillaume</author>
+<author>Matthieu Latapy</author>
+<title>Complex Network Metrology.</title>
+<year>2005</year>
+<volume>16</volume>
+<journal>Complex Systems</journal>
+<number>1</number>
+<url>db/journals/compsys/compsys16.html#GuillaumeL05</url>
+</article>
+</r>
+<r><article key="journals/tcs/ChavanonLMRV05" mdate="2017-05-28">
+<author>Frédéric Chavanon</author>
+<author>Matthieu Latapy</author>
+<author>Michel Morvan</author>
+<author>Eric Rémila</author>
+<author>Laurent Vuillon</author>
+<title>Graph encoding of 2<i>D</i>-gon tilings.</title>
+<pages>226-253</pages>
+<year>2005</year>
+<volume>346</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>2-3</number>
+<url>db/journals/tcs/tcs346.html#ChavanonLMRV05</url>
+</article>
+</r>
+<r><inproceedings key="conf/cocoon/VigerL05" mdate="2017-05-23">
+<author>Fabien Viger</author>
+<author>Matthieu Latapy</author>
+<title>Efficient and Simple Generation of Random Simple Connected Graphs with Prescribed Degree Sequence.</title>
+<pages>440-449</pages>
+<year>2005</year>
+<crossref>conf/cocoon/2005</crossref>
+<booktitle>COCOON</booktitle>
+<url>db/conf/cocoon/cocoon2005.html#VigerL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/FraigniaudGL05" mdate="2017-05-24">
+<author>Pierre Fraigniaud</author>
+<author>Philippe Gauron</author>
+<author>Matthieu Latapy</author>
+<title>Combining the Use of Clustering and Scale-Free Nature of User Exchanges into a Simple and Efficient P2P System.</title>
+<pages>1163-1172</pages>
+<year>2005</year>
+<crossref>conf/europar/2005</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2005.html#FraigniaudGL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/GuillaumeL05" mdate="2017-05-16">
+<author>Jean-Loup Guillaume</author>
+<author>Matthieu Latapy</author>
+<title>Relevance of massively distributed explorations of the Internet topology: simulation results.</title>
+<pages>1084-1094</pages>
+<year>2005</year>
+<crossref>conf/infocom/2005</crossref>
+<booktitle>INFOCOM</booktitle>
+<url>db/conf/infocom/infocom2005.html#GuillaumeL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iptps/Le-BlondGL05" mdate="2017-05-26">
+<author>Stevens Le Blond</author>
+<author>Jean-Loup Guillaume</author>
+<author>Matthieu Latapy</author>
+<title>Clustering in P2P Exchanges and Consequences on Performances.</title>
+<pages>193-204</pages>
+<year>2005</year>
+<crossref>conf/iptps/2005</crossref>
+<booktitle>IPTPS</booktitle>
+<url>db/conf/iptps/iptps2005.html#Le-BlondGL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscis/PonsL05" mdate="2017-05-26">
+<author>Pascal Pons</author>
+<author>Matthieu Latapy</author>
+<title>Computing Communities in Large Networks Using Random Walks.</title>
+<pages>284-293</pages>
+<year>2005</year>
+<crossref>conf/iscis/2005</crossref>
+<booktitle>ISCIS</booktitle>
+<url>db/conf/iscis/iscis2005.html#PonsL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/LeguayLFS05" mdate="2018-06-26">
+<author>Jeremie Leguay</author>
+<author>Matthieu Latapy</author>
+<author>Timur Friedman</author>
+<author>Kavé Salamatian</author>
+<title>Describing and Simulating Internet Routes.</title>
+<pages>659-670</pages>
+<year>2005</year>
+<crossref>conf/networking/2005</crossref>
+<booktitle>NETWORKING</booktitle>
+<ee type="oa">https://doi.org/10.1007/11422778_53</ee>
+<url>db/conf/networking/networking2005.html#LeguayLFS05</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0502085" mdate="2018-08-13">
+<author>Fabien Viger</author>
+<author>Matthieu Latapy</author>
+<title>Fast generation of random connected graphs with prescribed degrees</title>
+<ee type="oa">http://arxiv.org/abs/cs/0502085</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0502085</volume>
+<url>db/journals/corr/corr0502.html#abs-cs-0502085</url>
+</article>
+</r>
+<r><article key="journals/ipl/GuillaumeL04" mdate="2019-10-19">
+<author orcid="0000-0002-4615-1563">Jean-Loup Guillaume</author>
+<author>Matthieu Latapy</author>
+<title>Bipartite structure of all complex networks.</title>
+<pages>215-221</pages>
+<year>2004</year>
+<volume>90</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl90.html#GuillaumeL04</url>
+</article>
+</r>
+<r><article key="journals/tcs/GolesLMMP04" mdate="2017-05-28">
+<author>Eric Goles Ch.</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<author>Michel Morvan</author>
+<author>Ha Duong Phan</author>
+<title>Sandpile models and lattices: a comprehensive survey.</title>
+<pages>383-407</pages>
+<year>2004</year>
+<volume>322</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>2</number>
+<url>db/journals/tcs/tcs322.html#GolesLMMP04</url>
+</article>
+</r>
+<r><inproceedings key="conf/caan/GuillaumeL04" mdate="2017-05-21">
+<author>Jean-Loup Guillaume</author>
+<author>Matthieu Latapy</author>
+<title>Bipartite Graphs as Models of Complex Networks.</title>
+<pages>127-139</pages>
+<year>2004</year>
+<crossref>conf/caan/2004</crossref>
+<booktitle>CAAN</booktitle>
+<url>db/conf/caan/caan2004.html#GuillaumeL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwdc/GuillaumeLL04" mdate="2017-05-21">
+<author>Jean-Loup Guillaume</author>
+<author>Matthieu Latapy</author>
+<author>Stevens Le Blond</author>
+<title>Statistical Analysis of a P2P Query Graph Based on Degrees and Their Time-Evolution.</title>
+<pages>126-137</pages>
+<year>2004</year>
+<crossref>conf/iwdc/2004</crossref>
+<booktitle>IWDC</booktitle>
+<url>db/conf/iwdc/iwdc2004.html#GuillaumeLL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/GuillaumeLM04" mdate="2017-05-17">
+<author>Jean-Loup Guillaume</author>
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<title>Comparison of Failures and Attacks on Random and Scale-Free Networks.</title>
+<pages>186-196</pages>
+<year>2004</year>
+<crossref>conf/opodis/2004</crossref>
+<booktitle>OPODIS</booktitle>
+<url>db/conf/opodis/opodis2004.html#GuillaumeLM04</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-NI-0411051" mdate="2018-08-13">
+<author>Jeremie Leguay</author>
+<author>Matthieu Latapy</author>
+<author>Timur Friedman</author>
+<author>Kavé Salamatian</author>
+<title>Describing and Simulating Internet Routes</title>
+<ee type="oa">http://arxiv.org/abs/cs.NI/0411051</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.NI/0411051</volume>
+<url>db/journals/corr/corr0411.html#cs-NI-0411051</url>
+</article>
+</r>
+<r><article key="journals/dm/AutebertLS02" mdate="2017-05-28">
+<author>Jean-Michel Autebert</author>
+<author>Matthieu Latapy</author>
+<author>Sylviane R. Schwer</author>
+<title>Le treillis des chemins de Delannoy.</title>
+<pages>225-234</pages>
+<year>2002</year>
+<volume>258</volume>
+<journal>Discrete Mathematics</journal>
+<number>1-3</number>
+<url>db/journals/dm/dm258.html#AutebertLS02</url>
+</article>
+</r>
+<r><article key="journals/ipl/LatapyM02" mdate="2017-05-26">
+<author>Matthieu Latapy</author>
+<author>Clémence Magnien</author>
+<title>Coding distributive lattices with Edge Firing Games.</title>
+<pages>125-128</pages>
+<year>2002</year>
+<volume>83</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl83.html#LatapyM02</url>
+</article>
+</r>
+<r><article key="journals/ita/Latapy02" mdate="2017-05-28">
+<author>Matthieu Latapy</author>
+<title>Integer Partitions, Tilings of <i>2D</i>-gons and Lattices.</title>
+<pages>389-399</pages>
+<year>2002</year>
+<volume>36</volume>
+<journal>ITA</journal>
+<number>4</number>
+<url>db/journals/ita/ita36.html#Latapy02</url>
+</article>
+</r>
+<r><inproceedings key="conf/waim/GuillaumeLV02" mdate="2017-05-21">
+<author>Jean-Loup Guillaume</author>
+<author>Matthieu Latapy</author>
+<author>Laurent Viennot</author>
+<title>Efficient and Simple Encodings for the Web Graph.</title>
+<pages>328-337</pages>
+<year>2002</year>
+<crossref>conf/waim/2002</crossref>
+<booktitle>WAIM</booktitle>
+<url>db/conf/waim/waim2002.html#GuillaumeLV02</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/LatapyMMP01" mdate="2017-05-28">
+<author>Matthieu Latapy</author>
+<author>Roberto Mantaci</author>
+<author>Michel Morvan</author>
+<author>Ha Duong Phan</author>
+<title>Structure of some sand piles model.</title>
+<pages>525-556</pages>
+<year>2001</year>
+<volume>262</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/tcs/tcs262.html#LatapyMMP01</url>
+</article>
+</r>
+<r><inproceedings key="conf/dmccg/Latapy01" mdate="2017-05-11">
+<author>Matthieu Latapy</author>
+<title>Partitions of an Integer into Powers.</title>
+<pages>215-228</pages>
+<year>2001</year>
+<crossref>conf/dmccg/2001</crossref>
+<booktitle>DM-CCG</booktitle>
+<url>db/conf/dmccg/dmccg2001.html#Latapy01</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DM-0008002" mdate="2018-08-13">
+<author>Matthieu Latapy</author>
+<author>Roberto Mantaci</author>
+<author>Michel Morvan</author>
+<author>Ha Duong Phan</author>
+<title>Structure of some sand pile model</title>
+<ee type="oa">http://arxiv.org/abs/cs.DM/0008002</ee>
+<year>2000</year>
+<journal>CoRR</journal>
+<volume>cs.DM/0008002</volume>
+<url>db/journals/corr/corr0008.html#cs-DM-0008002</url>
+</article>
+</r>
+<coauthors n="82" nc="6">
+<co c="0"><na f="a/Aidouni:Frederic">Frederic Aidouni</na></co>
+<co c="0"><na f="a/Albano:Alice">Alice Albano</na></co>
+<co c="0"><na f="a/Allali:Oussama">Oussama Allali</na></co>
+<co c="0"><na f="a/Arnoux:Thibaud">Thibaud Arnoux</na></co>
+<co c="0"><na f="a/Augustin:Brice">Brice Augustin</na></co>
+<co c="3"><na f="a/Auray:Nicolas">Nicolas Auray</na></co>
+<co c="4"><na f="a/Autebert:Jean=Michel">Jean-Michel Autebert</na></co>
+<co c="2"><na f="b/Baccour:Rym">Rym Baccour</na></co>
+<co c="0"><na f="b/Bernardes:Daniel_Faria">Daniel Faria Bernardes</na></co>
+<co c="1"><na f="b/Bertrand:Cl=eacute=ment">Clément Bertrand</na></co>
+<co c="0"><na f="b/Blond:Stevens_Le">Stevens Le Blond</na></co>
+<co c="0"><na f="b/Brahim:Abdelhamid_Salah">Abdelhamid Salah Brahim</na></co>
+<co c="2"><na f="c/Cazabet:R=eacute=my">Rémy Cazabet</na></co>
+<co c="0"><na f="c/Ch=:Eric_Goles">Eric Goles Ch.</na></co>
+<co c="0"><na f="c/Chavanon:Fr=eacute=d=eacute=ric">Frédéric Chavanon</na></co>
+<co c="0"><na f="c/Cholez:Thibault">Thibault Cholez</na></co>
+<co c="0"><na f="c/Chrisment:Isabelle">Isabelle Chrisment</na></co>
+<co c="0"><na f="c/Cointet:Jean=Philippe">Jean-Philippe Cointet</na></co>
+<co c="3"><na f="c/Conein:Bernard">Bernard Conein</na></co>
+<co c="0"><na f="c/Crespelle:Christophe">Christophe Crespelle</na></co>
+<co c="-1"><na f="c/Creusefond:Jean">Jean Creusefond</na></co>
+<co c="0"><na f="c/Cuvellier:Xavier">Xavier Cuvellier</na></co>
+<co c="0"><na f="d/Daniloff:Ivan">Ivan Daniloff</na></co>
+<co c="0"><na f="d/Donnet:Benoit">Benoit Donnet</na></co>
+<co c="3"><na f="d/Dorat:R=eacute=mi">Rémi Dorat</na></co>
+<co c="0"><na f="f/Festor:Olivier">Olivier Festor</na></co>
+<co c="0"><na f="f/Fiore:Marco">Marco Fiore</na></co>
+<co c="0" n="2"><na f="f/Fournier=S=niehotta:Rapha=euml=l">Raphaël Fournier-S'niehotta</na><na>Raphaël Fournier</na></co>
+<co c="0"><na f="f/Fraigniaud:Pierre">Pierre Fraigniaud</na></co>
+<co c="0"><na f="f/Friedman:Timur">Timur Friedman</na></co>
+<co c="0"><na f="f/Friggeri:Adrien">Adrien Friggeri</na></co>
+<co c="0"><na f="g/Gaumont:No=eacute=">Noé Gaumont</na></co>
+<co c="0"><na f="g/Gauron:Philippe">Philippe Gauron</na></co>
+<co c="-1"><na f="g/Gensollen:Nicolas">Nicolas Gensollen</na></co>
+<co c="0"><na f="g/Grand:B=eacute=n=eacute=dicte_Le">Bénédicte Le Grand</na></co>
+<co c="0"><na f="g/Guillaume:Jean=Loup">Jean-Loup Guillaume</na></co>
+<co c="0"><na f="h/Habib:Michel">Michel Habib</na></co>
+<co c="0"><na f="h/Hamzaoui:Assia">Assia Hamzaoui</na></co>
+<co c="0"><na f="h/Heymann:Sebastien">Sebastien Heymann</na></co>
+<co c="1"><na f="k/Klaudel:Hanna">Hanna Klaudel</na></co>
+<co c="-1"><na f="k/Kumar_0001:Ravi">Ravi Kumar 0001</na></co>
+<co c="0"><na f="l/Lamarche=Perrin:Robin">Robin Lamarche-Perrin</na></co>
+<co c="0"><na f="l/Leguay:Jeremie">Jeremie Leguay</na></co>
+<co c="0"><na f="m/Magnien:Cl=eacute=mence">Clémence Magnien</na></co>
+<co c="0"><na f="m/Magoni:Damien">Damien Magoni</na></co>
+<co c="0"><na f="m/Mantaci:Roberto">Roberto Mantaci</na></co>
+<co c="0"><na f="m/M=eacute=rindol:Pascal">Pascal Mérindol</na></co>
+<co c="0"><na f="m/Morvan:Michel">Michel Morvan</na></co>
+<co c="0"><na f="n/Nguyen:Thanh_Qui">Thanh Qui Nguyen</na></co>
+<co c="0"><na f="n/Nzeko=o:Armel_Jacques_Nzekon">Armel Jacques Nzekon Nzeko'o</na></co>
+<co c="0"><na f="o/Orgogozo:Benjamin">Benjamin Orgogozo</na></co>
+<co c="0"><na f="o/Ou=eacute=draogo:Fr=eacute=d=eacute=ric">Frédéric Ouédraogo</na></co>
+<co c="0"><na f="p/Pansiot:Jean=Jacques">Jean-Jacques Pansiot</na></co>
+<co c="0"><na f="p/Payen:Aurore">Aurore Payen</na></co>
+<co c="1"><na f="p/Peschanski:Fr=eacute=d=eacute=ric">Frédéric Peschanski</na></co>
+<co c="0" n="2"><na f="p/Phan:Thi_Ha_Duong">Thi Ha Duong Phan</na><na>Ha Duong Phan</na></co>
+<co c="0"><na f="p/Pons:Pascal">Pascal Pons</na></co>
+<co c="0"><na f="p/Prieur_0002:Christophe">Christophe Prieur 0002</na></co>
+<co c="0"><na f="q/Queyroi:Fran=ccedil=ois">François Queyroi</na></co>
+<co c="0"><na f="q/Quoitin:Bruno">Bruno Quoitin</na></co>
+<co c="0"><na f="r/R=eacute=mila:Eric">Eric Rémila</na></co>
+<co c="0"><na f="r/Rotenberg:Elie">Elie Rotenberg</na></co>
+<co c="2"><na f="r/Rym:Baccour">Baccour Rym</na></co>
+<co c="0"><na f="s/Salamatian:Kav=eacute=">Kavé Salamatian</na></co>
+<co c="4"><na f="s/Schwer:Sylviane_R=">Sylviane R. Schwer</na></co>
+<co c="5"><na f="s/Soria:Mich=egrave=le">Michèle Soria</na></co>
+<co c="0"><na f="t/Tabourier:Lionel">Lionel Tabourier</na></co>
+<co c="0"><na f="t/Tarissan:Fabien">Fabien Tarissan</na></co>
+<co c="0"><na f="t/Tchuente:Maurice">Maurice Tchuente</na></co>
+<co c="0"><na f="t/Teixeira:Renata">Renata Teixeira</na></co>
+<co c="0"><na f="v/Valadon:Guillaume">Guillaume Valadon</na></co>
+<co c="0"><na f="v/Vecchio:Nathalie_Del">Nathalie Del Vecchio</na></co>
+<co c="0"><na f="v/Viard:Jordan">Jordan Viard</na></co>
+<co c="0"><na f="v/Viard:Tiphaine">Tiphaine Viard</na></co>
+<co c="0"><na f="v/Viennot:Laurent">Laurent Viennot</na></co>
+<co c="0"><na f="v/Viger:Fabien">Fabien Viger</na></co>
+<co c="0"><na f="v/Vuillon:Laurent">Laurent Vuillon</na></co>
+<co c="0"><na f="w/Wang:Qinna">Qinna Wang</na></co>
+<co c="5"><na f="w/Wang:Xiaomin">Xiaomin Wang</na></co>
+<co c="0"><na f="w/Willinger:Walter">Walter Willinger</na></co>
+<co c="0"><na f="w/Wilmet:Audrey">Audrey Wilmet</na></co>
+<co c="0"><na f="z/Ziviani:Artur">Artur Ziviani</na></co>
+</coauthors>
+</dblpperson>
+

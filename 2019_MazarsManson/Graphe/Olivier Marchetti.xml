@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Olivier Marchetti" n="7">
+<person key="homepages/28/1842" mdate="2009-06-09">
+<author>Olivier Marchetti</author>
+</person>
+<r><article key="journals/tac/Benabid-NajjarHMK12" mdate="2017-05-20">
+<author>Abir Benabid-Najjar</author>
+<author>Claire Hanen</author>
+<author>Olivier Marchetti</author>
+<author>Alix Munier Kordon</author>
+<title>Periodic Schedules for Bounded Timed Weighted Event Graphs.</title>
+<pages>1222-1232</pages>
+<year>2012</year>
+<volume>57</volume>
+<journal>IEEE Trans. Automat. Contr.</journal>
+<number>5</number>
+<url>db/journals/tac/tac57.html#Benabid-NajjarHMK12</url>
+</article>
+</r>
+<r><article key="journals/disopt/MarchettiK10" mdate="2017-05-28">
+<author>Olivier Marchetti</author>
+<author>Alix Munier Kordon</author>
+<title>Complexity results for Weighted Timed Event Graphs.</title>
+<pages>166-180</pages>
+<year>2010</year>
+<volume>7</volume>
+<journal>Discrete Optimization</journal>
+<number>3</number>
+<url>db/journals/disopt/disopt7.html#MarchettiK10</url>
+</article>
+</r>
+<r><inproceedings key="conf/aiccsa/BenazouzMKU10" mdate="2017-05-26">
+<author>Mohamed Benazouz</author>
+<author>Olivier Marchetti</author>
+<author>Alix Munier Kordon</author>
+<author>Pascal Urard</author>
+<title>A new approach for minimizing buffer capacities with throughput constraint for embedded system design.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>AICCSA</booktitle>
+<crossref>conf/aiccsa/2010</crossref>
+<url>db/conf/aiccsa/aiccsa2010.html#BenazouzMKU10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/estimedia/BenazouzMKM10" mdate="2019-02-07">
+<author>Mohamed Benazouz</author>
+<author>Olivier Marchetti</author>
+<author>Alix Munier Kordon</author>
+<author>Thierry Michel</author>
+<title>A new method for minimizing buffer sizes for Cyclo-Static Dataflow graphs.</title>
+<pages>11-20</pages>
+<year>2010</year>
+<booktitle>ESTImedia</booktitle>
+<crossref>conf/estimedia/2010</crossref>
+<url>db/conf/estimedia/estimedia2010.html#BenazouzMKM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/eor/MarchettiK09" mdate="2017-05-27">
+<author>Olivier Marchetti</author>
+<author>Alix Munier Kordon</author>
+<title>A sufficient condition for the liveness of weighted event graphs.</title>
+<pages>532-540</pages>
+<year>2009</year>
+<volume>197</volume>
+<journal>European Journal of Operational Research</journal>
+<number>2</number>
+<url>db/journals/eor/eor197.html#MarchettiK09</url>
+</article>
+</r>
+<r><incollection key="books/tf/09/MarchettiK09" mdate="2019-07-10">
+<author>Olivier Marchetti</author>
+<author>Alix Munier Kordon</author>
+<title>Cyclic Scheduling for the Synthesis of Embedded Systems.</title>
+<pages>129-157</pages>
+<year>2009</year>
+<booktitle>Introduction to Scheduling</booktitle>
+<crossref>books/tf/09/RV2009</crossref>
+<url>db/books/collections/RV2009.html#MarchettiK09</url>
+</incollection>
+</r>
+<r><article key="journals/deds/MarchettiK08" mdate="2017-05-27">
+<author>Olivier Marchetti</author>
+<author>Alix Munier Kordon</author>
+<title>Minimizing Place Capacities of Weighted Event Graphs for Enforcing Liveness.</title>
+<pages>91-109</pages>
+<year>2008</year>
+<volume>18</volume>
+<journal>Discrete Event Dynamic Systems</journal>
+<number>1</number>
+<url>db/journals/deds/deds18.html#MarchettiK08</url>
+</article>
+</r>
+<coauthors n="6" nc="1">
+<co c="0" n="2"><na f="b/Benabid:Abir">Abir Benabid</na><na>Abir Benabid-Najjar</na></co>
+<co c="0"><na f="b/Benazouz:Mohamed">Mohamed Benazouz</na></co>
+<co c="0"><na f="h/Hanen:Claire">Claire Hanen</na></co>
+<co c="0"><na f="k/Kordon:Alix_Munier">Alix Munier Kordon</na></co>
+<co c="0"><na f="m/Michel:Thierry">Thierry Michel</na></co>
+<co c="0"><na f="u/Urard:Pascal">Pascal Urard</na></co>
+</coauthors>
+</dblpperson>
+

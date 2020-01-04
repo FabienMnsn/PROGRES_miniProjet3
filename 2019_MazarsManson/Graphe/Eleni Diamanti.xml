@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Eleni Diamanti" n="2">
+<person key="homepages/75/8086" mdate="2010-05-17">
+<author>Eleni Diamanti</author>
+</person>
+<r><article key="journals/entropy/DiamantiL15" mdate="2019-06-02">
+<author>Eleni Diamanti</author>
+<author orcid="0000-0002-6707-1458">Anthony Leverrier</author>
+<title>Distributing Secret Keys with Quantum Continuous Variables: Principle, Security and Implementations.</title>
+<pages>6072-6092</pages>
+<year>2015</year>
+<volume>17</volume>
+<journal>Entropy</journal>
+<number>9</number>
+<ee type="oa">https://doi.org/10.3390/e17096072</ee>
+<url>db/journals/entropy/entropy17.html#DiamantiL15</url>
+</article>
+</r>
+<r><article key="journals/jcs/SalvailPDALL10" mdate="2019-06-02">
+<author>Louis Salvail</author>
+<author orcid="0000-0002-7928-0409">Momtchil Peev</author>
+<author>Eleni Diamanti</author>
+<author>Romain Alléaume</author>
+<author>Norbert Lütkenhaus</author>
+<author>Thomas Länger</author>
+<title>Security of trusted repeater quantum key distribution networks.</title>
+<pages>61-87</pages>
+<year>2010</year>
+<volume>18</volume>
+<journal>Journal of Computer Security</journal>
+<number>1</number>
+<url>db/journals/jcs/jcs18.html#SalvailPDALL10</url>
+</article>
+</r>
+<coauthors n="6" nc="1">
+<co c="0"><na f="a/All=eacute=aume:Romain">Romain Alléaume</na></co>
+<co c="0"><na f="l/L=auml=nger:Thomas">Thomas Länger</na></co>
+<co c="0"><na f="l/Leverrier:Anthony">Anthony Leverrier</na></co>
+<co c="0"><na f="l/L=uuml=tkenhaus:Norbert">Norbert Lütkenhaus</na></co>
+<co c="0"><na f="p/Peev:Momtchil">Momtchil Peev</na></co>
+<co c="0"><na f="s/Salvail:Louis">Louis Salvail</na></co>
+</coauthors>
+</dblpperson>
+

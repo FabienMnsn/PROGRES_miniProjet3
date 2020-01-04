@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Brigitte Kervella" n="18">
+<person key="homepages/99/6012" mdate="2009-06-10">
+<author>Brigitte Kervella</author>
+</person>
+<r><inproceedings key="conf/iwcmc/OualiKNSK17" mdate="2017-07-24">
+<author>Kaouthar Ouali</author>
+<author>Meriem Kassar</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Kaouthar Sethom</author>
+<author>Brigitte Kervella</author>
+<title>Modeling D2D handover management in 5G cellular networks.</title>
+<pages>196-201</pages>
+<year>2017</year>
+<booktitle>IWCMC</booktitle>
+<crossref>conf/iwcmc/2017</crossref>
+<url>db/conf/iwcmc/iwcmc2017.html#OualiKNSK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wd/AkreZBKFZF14" mdate="2018-11-30">
+<author>Jean-Michel N. Akré</author>
+<author>Xiaofei Zhang</author>
+<author>Sébastien Baey</author>
+<author>Brigitte Kervella</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Mario Antonio Zancanaro</author>
+<author orcid="0000-0003-1604-0915">Mauro Fonseca</author>
+<title>Accurate 2-D localization of RFID tags using antenna transmission power control.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>Wireless Days</booktitle>
+<crossref>conf/wd/2014</crossref>
+<url>db/conf/wd/wd2014.html#AkreZBKFZF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wd/ZhangABFKZF14" mdate="2018-11-30">
+<author>Xiaofei Zhang</author>
+<author>Jean-Michel N. Akré</author>
+<author>Sébastien Baey</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Brigitte Kervella</author>
+<author>Mario Antonio Zancanaro</author>
+<author orcid="0000-0003-1604-0915">Mauro Fonseca</author>
+<title>Towards localization of RFID tags based on experimental analysis of RSSI.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>Wireless Days</booktitle>
+<crossref>conf/wd/2014</crossref>
+<url>db/conf/wd/wd2014.html#ZhangABFKZF14</url>
+</inproceedings>
+</r>
+<r><article key="journals/cm/AchourHKP12" mdate="2017-05-26">
+<author>Amel Achour</author>
+<author>Kamel Haddadou</author>
+<author>Brigitte Kervella</author>
+<author>Guy Pujolle</author>
+<title>A SIP-SHIM6-based solution providing interdomain service continuity in IMS-based networks.</title>
+<pages>109-119</pages>
+<year>2012</year>
+<volume>50</volume>
+<journal>IEEE Communications Magazine</journal>
+<number>7</number>
+<url>db/journals/cm/cm50.html#AchourHKP12</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccnc/AchourHKP12" mdate="2017-05-24">
+<author>Amel Achour</author>
+<author>Kamel Haddadou</author>
+<author>Brigitte Kervella</author>
+<author>Guy Pujolle</author>
+<title>Inter-domain mobility management solution for service continuity in IMS-based networks.</title>
+<pages>559-564</pages>
+<year>2012</year>
+<booktitle>CCNC</booktitle>
+<crossref>conf/ccnc/2012</crossref>
+<url>db/conf/ccnc/ccnc2012.html#AchourHKP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/AchourHKP12" mdate="2017-05-23">
+<author>Amel Achour</author>
+<author>Kamel Haddadou</author>
+<author>Brigitte Kervella</author>
+<author>Guy Pujolle</author>
+<title>A SIP-SHIM6 based solution for seamless intra-domain mobility in IMS networks.</title>
+<pages>2030-2035</pages>
+<year>2012</year>
+<booktitle>GLOBECOM</booktitle>
+<crossref>conf/globecom/2012</crossref>
+<url>db/conf/globecom/globecom2012.html#AchourHKP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wocn/AchourKP11" mdate="2017-05-25">
+<author>Amel Achour</author>
+<author>Brigitte Kervella</author>
+<author>Guy Pujolle</author>
+<title>SHIM6-based mobility management for multi-homed terminals in heterogeneous environment.</title>
+<pages>1-5</pages>
+<year>2011</year>
+<booktitle>WOCN</booktitle>
+<crossref>conf/wocn/2011</crossref>
+<url>db/conf/wocn/wocn2011.html#AchourKP11</url>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/KassarKP08" mdate="2017-05-26">
+<author>Meriem Kassar</author>
+<author>Brigitte Kervella</author>
+<author>Guy Pujolle</author>
+<title>An overview of vertical handover decision strategies in heterogeneous wireless networks.</title>
+<pages>2607-2620</pages>
+<year>2008</year>
+<volume>31</volume>
+<journal>Computer Communications</journal>
+<number>10</number>
+<url>db/journals/comcom/comcom31.html#KassarKP08</url>
+</article>
+</r>
+<r><article key="journals/ejwcn/KassarKP08" mdate="2019-06-02">
+<author>Meriem Kassar</author>
+<author>Brigitte Kervella</author>
+<author>Guy Pujolle</author>
+<title>An Intelligent Handover Management System for Future Generation Wireless Networks.</title>
+<year>2008</year>
+<volume>2008</volume>
+<journal>EURASIP J. Wireless Comm. and Networking</journal>
+<ee type="oa">https://doi.org/10.1155/2008/791691</ee>
+<url>db/journals/ejwcn/ejwcn2008.html#KassarKP08</url>
+</article>
+</r>
+<r><inproceedings key="conf/cnsr/KassarKP08" mdate="2017-05-21">
+<author>Meriem Kassar</author>
+<author>Brigitte Kervella</author>
+<author>Guy Pujolle</author>
+<title>Autonomic-Oriented Architecture for an Intelligent Handover Management Scheme.</title>
+<pages>139-146</pages>
+<year>2008</year>
+<booktitle>CNSR</booktitle>
+<crossref>conf/cnsr/2008</crossref>
+<url>db/conf/cnsr/cnsr2008.html#KassarKP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fgcn/KassarKP07" mdate="2017-05-17">
+<author>Meriem Kassar</author>
+<author>Brigitte Kervella</author>
+<author>Guy Pujolle</author>
+<title>Architecture of an Intelligent Inter-system Handover Management Scheme.</title>
+<pages>332-337</pages>
+<year>2007</year>
+<booktitle>FGCN (1)</booktitle>
+<crossref>conf/fgcn/2007</crossref>
+<url>db/conf/fgcn/fgcn2007.html#KassarKP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icn/DuflosKG07" mdate="2019-09-25">
+<author>Sandrine Duflos</author>
+<author>Brigitte Kervella</author>
+<author orcid="0000-0002-4301-1995">Valérie Gay</author>
+<title>Considering Security and Quality of Service in SLS to Improve Policy-Based Management of Multimedia Services.</title>
+<pages>39</pages>
+<year>2007</year>
+<crossref>conf/icn/2007</crossref>
+<booktitle>ICN</booktitle>
+<url>db/conf/icn/icn2007.html#DuflosKG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/DuflosGKH05" mdate="2019-09-25">
+<author>Sandrine Duflos</author>
+<author orcid="0000-0002-4301-1995">Valérie Gay</author>
+<author>Brigitte Kervella</author>
+<author>Eric Horlait</author>
+<title>Integration of Security Parameters in the Service Level Specification to Improve QoS Management of Secure Distributed Multimedia Services.</title>
+<pages>145-148</pages>
+<year>2005</year>
+<crossref>conf/aina/2005</crossref>
+<booktitle>AINA</booktitle>
+<url>db/conf/aina/aina2005.html#DuflosGKH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmns/DuflosGKH05" mdate="2019-09-25">
+<author>Sandrine Duflos</author>
+<author orcid="0000-0002-4301-1995">Valérie Gay</author>
+<author>Brigitte Kervella</author>
+<author>Eric Horlait</author>
+<title>Improving the SLA-Based Management of QoS for Secure Multimedia Services.</title>
+<pages>204-215</pages>
+<year>2005</year>
+<crossref>conf/mmns/2005</crossref>
+<booktitle>MMNS</booktitle>
+<ee type="oa">https://doi.org/10.1007/11572831_18</ee>
+<url>db/conf/mmns/mmns2005.html#DuflosGKH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/DuflosKH02" mdate="2018-11-06">
+<author>Sandrine Duflos</author>
+<author>Brigitte Kervella</author>
+<author>Eric Horlait</author>
+<title>An architecture for policy-based security management for distributed multimedia services.</title>
+<pages>653-655</pages>
+<year>2002</year>
+<crossref>conf/mm/2002</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<url>db/conf/mm/mm2002.html#DuflosKH02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmns/GayDKDH02" mdate="2017-05-21">
+<author>Valérie Gay</author>
+<author>Sandrine Duflos</author>
+<author>Brigitte Kervella</author>
+<author>Gladys Diaz</author>
+<author>Eric Horlait</author>
+<title>Policy-Based Quality of Service and Security Management for Multimedia Services on IP Networks in the RTIPA Project.</title>
+<pages>25-35</pages>
+<year>2002</year>
+<crossref>conf/mmns/2002</crossref>
+<booktitle>MMNS</booktitle>
+<url>db/conf/mmns/mmns2002.html#GayDKDH02</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieeemm/KervellaG97" mdate="2017-06-06">
+<author>Brigitte Kervella</author>
+<author orcid="0000-0002-4301-1995">Valérie Gay</author>
+<title>MHEGAM - A Multimedia Messaging System.</title>
+<pages>22-29</pages>
+<year>1997</year>
+<volume>4</volume>
+<journal>IEEE MultiMedia</journal>
+<number>4</number>
+<url>db/journals/ieeemm/ieeemm4.html#KervellaG97</url>
+</article>
+</r>
+<r><inproceedings key="conf/cost/KervellaGH94" mdate="2017-05-20">
+<author>Brigitte Kervella</author>
+<author>Valérie Gay</author>
+<author>Eric Horlait</author>
+<title>Towards a Complete Multimedia Mail: Use of MHEG in Standard Messaging System.</title>
+<pages>1-13</pages>
+<year>1994</year>
+<crossref>conf/cost/1994</crossref>
+<booktitle>COST 237 Workshop</booktitle>
+<url>db/conf/cost/cost1994.html#KervellaGH94</url>
+</inproceedings>
+</r>
+<coauthors n="17" nc="1">
+<co c="0"><na f="a/Achour:Amel">Amel Achour</na></co>
+<co c="0"><na f="a/Akr=eacute=:Jean=Michel_N=">Jean-Michel N. Akré</na></co>
+<co c="0"><na f="b/Baey:S=eacute=bastien">Sébastien Baey</na></co>
+<co c="0"><na f="d/Diaz:Gladys">Gladys Diaz</na></co>
+<co c="0"><na f="d/Duflos:Sandrine">Sandrine Duflos</na></co>
+<co c="0"><na f="f/Fladenmuller:Anne">Anne Fladenmuller</na></co>
+<co c="0"><na f="f/Fonseca:Mauro">Mauro Fonseca</na></co>
+<co c="0"><na f="g/Gay:Val=eacute=rie">Valérie Gay</na></co>
+<co c="0"><na f="h/Haddadou:Kamel">Kamel Haddadou</na></co>
+<co c="0"><na f="h/Horlait:Eric">Eric Horlait</na></co>
+<co c="0"><na f="k/Kassar:Meriem">Meriem Kassar</na></co>
+<co c="0"><na f="n/Nguyen:Thi_Mai_Trang">Thi Mai Trang Nguyen</na></co>
+<co c="0"><na f="o/Ouali:Kaouthar">Kaouthar Ouali</na></co>
+<co c="0"><na f="p/Pujolle:Guy">Guy Pujolle</na></co>
+<co c="0"><na f="s/Sethom:Kaouthar">Kaouthar Sethom</na></co>
+<co c="0"><na f="z/Zancanaro:Mario_Antonio">Mario Antonio Zancanaro</na></co>
+<co c="0"><na f="z/Zhang:Xiaofei">Xiaofei Zhang</na></co>
+</coauthors>
+</dblpperson>
+

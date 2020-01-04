@@ -1,0 +1,1863 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Gilles Muller" n="125">
+<person key="homepages/27/4405" mdate="2009-06-10">
+<author>Gilles Muller</author>
+</person>
+<r><article publtype="data" key="journals/darts/KangTLMJ019" mdate="2019-12-27">
+<author>Hong Jin Kang</author>
+<author>Ferdian Thung</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<author>Lingxiao Jiang</author>
+<author orcid="0000-0002-4367-7201">David Lo 0001</author>
+<title>Semantic Patches for Java Program Transformation (Artifact).</title>
+<pages>10:1-10:3</pages>
+<year>2019</year>
+<volume>5</volume>
+<journal>DARTS</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.4230/DARTS.5.2.10</ee>
+<url>db/journals/darts/darts5.html#KangTLMJ019</url>
+</article>
+</r>
+<r><article key="journals/tdsc/CotaMGDLMB19" mdate="2019-08-08">
+<author orcid="0000-0002-1680-8077">Guido Lena Cota</author>
+<author orcid="0000-0003-2821-7714">Sonia Ben Mokhtar</author>
+<author>Gabriele Gianini</author>
+<author>Ernesto Damiani</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<author>Lionel Brunie</author>
+<title>RACOON++: A Semi-Automatic Framework for the Selfishness-Aware Design of Cooperative Systems.</title>
+<pages>635-650</pages>
+<year>2019</year>
+<volume>16</volume>
+<journal>IEEE Trans. Dependable Sec. Comput.</journal>
+<number>4</number>
+<url>db/journals/tdsc/tdsc16.html#CotaMGDLMB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecoop/KangTLMJ019" mdate="2019-07-10">
+<author>Hong Jin Kang</author>
+<author>Ferdian Thung</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<author>Lingxiao Jiang</author>
+<author>David Lo 0001</author>
+<title>Semantic Patches for Java Program Transformation (Experience Report).</title>
+<pages>22:1-22:27</pages>
+<year>2019</year>
+<booktitle>ECOOP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ECOOP.2019.22</ee>
+<crossref>conf/ecoop/2019</crossref>
+<url>db/conf/ecoop/ecoop2019.html#KangTLMJ019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/BuiMTJWT0HMP19" mdate="2019-03-28">
+<author>Vo Quoc Bao Bui</author>
+<author>Djob Mvondo</author>
+<author>Boris Teabe</author>
+<author>Kevin Jiokeng</author>
+<author>Patrick Lavoisier Wapet</author>
+<author>Alain Tchana</author>
+<author>Gaël Thomas 0001</author>
+<author>Daniel Hagimont</author>
+<author>Gilles Muller</author>
+<author>Noel De Palma</author>
+<title>When eXtended Para - Virtualization (XPV) Meets NUMA.</title>
+<pages>7:1-7:15</pages>
+<year>2019</year>
+<booktitle>EuroSys</booktitle>
+<crossref>conf/eurosys/2019</crossref>
+<url>db/conf/eurosys/eurosys2019.html#BuiMTJWT0HMP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/CarverGLSLZPLM19" mdate="2019-11-05">
+<author>Damien Carver</author>
+<author>Redha Gouicem</author>
+<author>Jean-Pierre Lozi</author>
+<author>Julien Sopena</author>
+<author>Baptiste Lepers</author>
+<author>Willy Zwaenepoel</author>
+<author>Nicolas Palix</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<title>Fork/Wait and Multicore Frequency Scaling: a Generational Clash.</title>
+<pages>53-59</pages>
+<year>2019</year>
+<booktitle>PLOS@SOSP</booktitle>
+<crossref>conf/sosp/2019plos</crossref>
+<url>db/conf/sosp/plos2019.html#CarverGLSLZPLM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/MercadierDLM18" mdate="2018-11-06">
+<author>Darius Mercadier</author>
+<author>Pierre-Évariste Dagand</author>
+<author>Lionel Lacassagne</author>
+<author>Gilles Muller</author>
+<title>Usuba: Optimizing and Trustworthy Bitslicing Compiler.</title>
+<pages>4:1-4:8</pages>
+<year>2018</year>
+<booktitle>WPMVP@PPoPP</booktitle>
+<crossref>conf/ppopp/2018wpmvp</crossref>
+<url>db/conf/ppopp/wpmvp2018.html#MercadierDLM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/BouronCLZGLMS18" mdate="2018-07-16">
+<author>Justinien Bouron</author>
+<author>Sebastien Chevalley</author>
+<author>Baptiste Lepers</author>
+<author>Willy Zwaenepoel</author>
+<author>Redha Gouicem</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<author>Julien Sopena</author>
+<title>The Battle of the Schedulers: FreeBSD ULE vs. Linux CFS.</title>
+<pages>85-96</pages>
+<year>2018</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<crossref>conf/usenix/2018</crossref>
+<url>db/conf/usenix/usenix2018.html#BouronCLZGLMS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/LawallM18" mdate="2018-07-16">
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<title>Coccinelle: 10 Years of Automated Evolution in the Linux Kernel.</title>
+<pages>601-614</pages>
+<year>2018</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<crossref>conf/usenix/2018</crossref>
+<url>db/conf/usenix/usenix2018.html#LawallM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/LawallM17" mdate="2017-09-06">
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<title>JMake: Dependable Compilation for Kernel Janitors.</title>
+<pages>357-366</pages>
+<year>2017</year>
+<booktitle>DSN</booktitle>
+<crossref>conf/dsn/2017</crossref>
+<url>db/conf/dsn/dsn2017.html#LawallM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/CotaMGDLMB17" mdate="2017-09-06">
+<author>Guido Lena Cota</author>
+<author>Sonia Ben Mokhtar</author>
+<author>Gabriele Gianini</author>
+<author>Ernesto Damiani</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<author>Lionel Brunie</author>
+<title>Analysing Selfishness Flooding with SEINE.</title>
+<pages>603-614</pages>
+<year>2017</year>
+<booktitle>DSN</booktitle>
+<crossref>conf/dsn/2017</crossref>
+<url>db/conf/dsn/dsn2017.html#CotaMGDLMB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotos/LepersZLPGSLM17" mdate="2018-11-06">
+<author>Baptiste Lepers</author>
+<author>Willy Zwaenepoel</author>
+<author>Jean-Pierre Lozi</author>
+<author>Nicolas Palix</author>
+<author>Redha Gouicem</author>
+<author>Julien Sopena</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<title>Towards Proving Optimistic Multicore Schedulers.</title>
+<pages>18-23</pages>
+<year>2017</year>
+<booktitle>HotOS</booktitle>
+<crossref>conf/hotos/2017</crossref>
+<url>db/conf/hotos/hotos2017.html#LepersZLPGSLM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/LawallPGM17" mdate="2017-07-19">
+<author>Julia Lawall</author>
+<author>Derek Palinski</author>
+<author>Lukas Gnirke</author>
+<author>Gilles Muller</author>
+<title>Fast and Precise Retrieval of Forward and Back Porting Information for Linux Device Drivers.</title>
+<pages>15-26</pages>
+<year>2017</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<crossref>conf/usenix/2017</crossref>
+<url>db/conf/usenix/usenix2017.html#LawallPGM17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ase/BissyandeRLM16" mdate="2017-05-18">
+<author>Tegawendé F. Bissyandé</author>
+<author>Laurent Réveillère</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Ahead of time static analysis for automatic generation of debugging interfaces to the Linux kernel.</title>
+<pages>3-41</pages>
+<year>2016</year>
+<volume>23</volume>
+<journal>Autom. Softw. Eng.</journal>
+<number>1</number>
+<url>db/journals/ase/ase23.html#BissyandeRLM16</url>
+</article>
+</r>
+<r><article key="journals/tocs/LoziD0LM16" mdate="2018-11-28">
+<author>Jean-Pierre Lozi</author>
+<author>Florian David</author>
+<author>Gaël Thomas 0001</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Fast and Portable Locking for Multicore Architectures.</title>
+<pages>13:1-13:62</pages>
+<year>2016</year>
+<volume>33</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>4</number>
+<url>db/journals/tocs/tocs33.html#LoziD0LM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecrts/BlinCSLM16" mdate="2017-05-21">
+<author>Antoine Blin</author>
+<author>Cédric Courtaud</author>
+<author>Julien Sopena</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Maximizing Parallelism without Exploding Deadlines in a Mixed Criticality Embedded System.</title>
+<pages>109-119</pages>
+<year>2016</year>
+<booktitle>ECRTS</booktitle>
+<crossref>conf/ecrts/2016</crossref>
+<url>db/conf/ecrts/ecrts2016.html#BlinCSLM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipc/SaiedGM16" mdate="2019-02-07">
+<author>Mariem Saied</author>
+<author>Jens Gustedt</author>
+<author>Gilles Muller</author>
+<title>Automatic Code Generation for Iterative Multi-dimensional Stencil Computations.</title>
+<pages>280-289</pages>
+<year>2016</year>
+<booktitle>HiPC</booktitle>
+<crossref>conf/hipc/2016</crossref>
+<url>db/conf/hipc/hipc2016.html#SaiedGM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netys/BlinCSLM16" mdate="2017-05-23">
+<author>Antoine Blin</author>
+<author>Cédric Courtaud</author>
+<author>Julien Sopena</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<title>Understanding the Memory Consumption of the MiBench Embedded Benchmark.</title>
+<pages>71-86</pages>
+<year>2016</year>
+<booktitle>NETYS</booktitle>
+<crossref>conf/netys/2016</crossref>
+<url>db/conf/netys/netys2016.html#BlinCSLM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/spe/BissyandeRLBM15" mdate="2017-05-28">
+<author>Tegawendé F. Bissyandé</author>
+<author>Laurent Réveillère</author>
+<author>Julia L. Lawall</author>
+<author>Yérom-David Bromberg</author>
+<author>Gilles Muller</author>
+<title>Implementing an embedded compiler using program transformation rules.</title>
+<pages>177-196</pages>
+<year>2015</year>
+<volume>45</volume>
+<journal>Softw., Pract. Exper.</journal>
+<number>2</number>
+<url>db/journals/spe/spe45.html#BissyandeRLBM15</url>
+</article>
+</r>
+<r><article key="journals/topc/MaldonadoMFLMR15" mdate="2018-11-06">
+<author>Walther Maldonado</author>
+<author>Patrick Marlier</author>
+<author>Pascal Felber</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<author>Etienne Rivière</author>
+<title>Supporting Time-Based QoS Requirements in Software Transactional Memory.</title>
+<pages>10:1-10:30</pages>
+<year>2015</year>
+<volume>2</volume>
+<journal>TOPC</journal>
+<number>2</number>
+<url>db/journals/topc/topc2.html#MaldonadoMFLMR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsn/Attouchi0MLB15" mdate="2017-05-21">
+<author>Koutheir Attouchi</author>
+<author>Gaël Thomas 0001</author>
+<author>Gilles Muller</author>
+<author>Julia L. Lawall</author>
+<author>André Bottaro</author>
+<title>Incinerator - Eliminating Stale References in Dynamic OSGi Applications.</title>
+<pages>545-554</pages>
+<year>2015</year>
+<booktitle>DSN</booktitle>
+<crossref>conf/dsn/2015</crossref>
+<url>db/conf/dsn/dsn2015.html#Attouchi0MLB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/CotaMLMGDB15" mdate="2017-06-15">
+<author>Guido Lena Cota</author>
+<author orcid="0000-0003-2821-7714">Sonia Ben Mokhtar</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<author orcid="0000-0001-5186-0199">Gabriele Gianini</author>
+<author orcid="0000-0002-9557-6496">Ernesto Damiani</author>
+<author>Lionel Brunie</author>
+<title>A Framework for the Design Configuration of Accountable Selfish-Resilient Peer-to-Peer Systems.</title>
+<pages>276-285</pages>
+<year>2015</year>
+<booktitle>SRDS</booktitle>
+<crossref>conf/srds/2015</crossref>
+<url>db/conf/srds/srds2015.html#CotaMLMGDB15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tocs/PalixTSCML14" mdate="2018-11-06">
+<author>Nicolas Palix</author>
+<author>Gaël Thomas 0001</author>
+<author>Suman Saha</author>
+<author>Christophe Calvès</author>
+<author>Gilles Muller</author>
+<author>Julia Lawall</author>
+<title>Faults in Linux 2.6.</title>
+<pages>4:1-4:40</pages>
+<year>2014</year>
+<volume>32</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/tocs/tocs32.html#PalixTSCML14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbse/Attouchi0BM14" mdate="2018-11-06">
+<author>Koutheir Attouchi</author>
+<author>Gaël Thomas 0001</author>
+<author>André Bottaro</author>
+<author>Gilles Muller</author>
+<title>Memory monitoring in a multi-tenant OSGi execution environment.</title>
+<pages>107-116</pages>
+<year>2014</year>
+<booktitle>CBSE</booktitle>
+<crossref>conf/cbse/2014</crossref>
+<url>db/conf/cbse/cbse2014.html#Attouchi0BM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/GuoLM14" mdate="2018-11-06">
+<author>Lisong Guo</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Oops! where did that code snippet come from?</title>
+<pages>52-61</pages>
+<year>2014</year>
+<booktitle>MSR</booktitle>
+<crossref>conf/msr/2014</crossref>
+<url>db/conf/msr/msr2014.html#GuoLM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/DavidTLM14" mdate="2018-11-06">
+<author>Florian David</author>
+<author>Gaël Thomas 0001</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<title>Continuously measuring critical section pressure with the free-lunch profiler.</title>
+<pages>291-307</pages>
+<year>2014</year>
+<booktitle>OOPSLA</booktitle>
+<crossref>conf/oopsla/2014</crossref>
+<url>db/conf/oopsla/oopsla2014.html#DavidTLM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/se/WamhoffRMFF14" mdate="2014-05-10">
+<author>Jons-Tobias Wamhoff</author>
+<author>Etienne Riviere</author>
+<author>Gilles Muller</author>
+<author>Christof Fetzer</author>
+<author>Pascal Felber</author>
+<title>FastLane: Software Transactional Memory Optimized for Low Numbers of Threads.</title>
+<pages>35-36</pages>
+<year>2014</year>
+<booktitle>Software Engineering</booktitle>
+<crossref>conf/se/2014</crossref>
+<url>db/conf/se/se2014.html#WamhoffRMFF14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Palix0SCML14" mdate="2018-08-13">
+<author>Nicolas Palix</author>
+<author>Gaël Thomas 0001</author>
+<author>Suman Saha</author>
+<author>Christophe Calvès</author>
+<author>Gilles Muller</author>
+<author>Julia L. Lawall</author>
+<title>Faults in Linux 2.6.</title>
+<year>2014</year>
+<volume>abs/1407.4346</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.4346</ee>
+<url>db/journals/corr/corr1407.html#Palix0SCML14</url>
+</article>
+</r>
+<r><article key="journals/spe/LawallBPHSM13" mdate="2017-05-28">
+<author>Julia L. Lawall</author>
+<author>Julien Brunel</author>
+<author>Nicolas Palix</author>
+<author>René Rydhof Hansen</author>
+<author>Henrik Stuart</author>
+<author>Gilles Muller</author>
+<title>WYSIWIB: exploiting fine-grained program structure in a scriptable API-usage protocol-finding process.</title>
+<pages>67-92</pages>
+<year>2013</year>
+<volume>43</volume>
+<journal>Softw., Pract. Exper.</journal>
+<number>1</number>
+<url>db/journals/spe/spe43.html#LawallBPHSM13</url>
+</article>
+</r>
+<r><article key="journals/tdsc/HermenierLM13" mdate="2017-05-28">
+<author>Fabien Hermenier</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>BtrPlace: A Flexible Consolidation Manager for Highly Available Applications.</title>
+<pages>273-286</pages>
+<year>2013</year>
+<volume>10</volume>
+<journal>IEEE Trans. Dependable Sec. Comput.</journal>
+<number>5</number>
+<url>db/journals/tdsc/tdsc10.html#HermenierLM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsn/SahaL0LM13" mdate="2017-05-21">
+<author>Suman Saha</author>
+<author>Jean-Pierre Lozi</author>
+<author>Gaël Thomas 0001</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Hector: Detecting Resource-Release Omission Faults in error-handling code for systems software.</title>
+<pages>1-12</pages>
+<year>2013</year>
+<booktitle>DSN</booktitle>
+<crossref>conf/dsn/2013</crossref>
+<url>db/conf/dsn/dsn2013.html#SahaL0LM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/WamhoffFFRM13" mdate="2018-11-06">
+<author>Jons-Tobias Wamhoff</author>
+<author>Christof Fetzer</author>
+<author>Pascal Felber</author>
+<author>Etienne Rivière</author>
+<author>Gilles Muller</author>
+<title>FastLane: improving performance of software transactional memory for low thread counts.</title>
+<pages>113-122</pages>
+<year>2013</year>
+<booktitle>PPOPP</booktitle>
+<crossref>conf/ppopp/2013</crossref>
+<url>db/conf/ppopp/ppopp2013.html#WamhoffFFRM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/TschudinRJLLM13" mdate="2019-10-19">
+<author>Peter Senna Tschudin</author>
+<author>Laurent Réveillère</author>
+<author orcid="0000-0002-4336-8548">Lingxiao Jiang</author>
+<author orcid="0000-0002-4367-7201">David Lo 0001</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Understanding the genetic makeup of Linux device drivers.</title>
+<pages>10:1-10:6</pages>
+<year>2013</year>
+<booktitle>PLOS@SOSP</booktitle>
+<crossref>conf/sosp/2013plos</crossref>
+<url>db/conf/sosp/plos2013.html#TschudinRJLLM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/taas/LegtchenkoMSM12" mdate="2019-12-18">
+<author>Sergey Legtchenko</author>
+<author>Sébastien Monnet</author>
+<author>Pierre Sens 0001</author>
+<author>Gilles Muller</author>
+<title>RelaxDHT: A churn-resilient replication strategy for peer-to-peer distributed hash-tables.</title>
+<pages>28:1-28:18</pages>
+<year>2012</year>
+<volume>7</volume>
+<journal>TAAS</journal>
+<number>2</number>
+<url>db/journals/taas/taas7.html#LegtchenkoMSM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/kbse/BissyandeRLM12" mdate="2018-11-06">
+<author>Tegawendé F. Bissyandé</author>
+<author>Laurent Réveillère</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Diagnosys: automatic generation of a debugging interface to the Linux kernel.</title>
+<pages>60-69</pages>
+<year>2012</year>
+<booktitle>ASE</booktitle>
+<crossref>conf/kbse/2012</crossref>
+<url>db/conf/kbse/ase2012.html#BissyandeRLM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/LoziD0LM12" mdate="2014-05-17">
+<author>Jean-Pierre Lozi</author>
+<author>Florian David</author>
+<author>Gaël Thomas 0001</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Remote Core Locking: Migrating Critical-Section Execution to Improve the Performance of Multithreaded Applications.</title>
+<pages>65-76</pages>
+<year>2012</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<crossref>conf/usenix/2012</crossref>
+<url>db/conf/usenix/usenix2012.html#LoziD0LM12</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigops/EideMSS11" mdate="2018-11-06">
+<author>Eric Eide</author>
+<author>Gilles Muller</author>
+<author>Wolfgang Schröder-Preikschat</author>
+<author>Olaf Spinczyk</author>
+<title>Summary of PLOS 2011: the sixth workshop on programming languages and operating systems.</title>
+<pages>1-4</pages>
+<year>2011</year>
+<volume>45</volume>
+<journal>Operating Systems Review</journal>
+<number>3</number>
+<url>db/journals/sigops/sigops45.html#EideMSS11</url>
+</article>
+</r>
+<r><article key="journals/sigops/SahaLM11" mdate="2018-11-06">
+<author>Suman Saha</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Finding resource-release omission faults in Linux.</title>
+<pages>5-9</pages>
+<year>2011</year>
+<volume>45</volume>
+<journal>Operating Systems Review</journal>
+<number>3</number>
+<url>db/journals/sigops/sigops45.html#SahaLM11</url>
+</article>
+</r>
+<r><article key="journals/tse/BurgyRLM11" mdate="2017-05-17">
+<author>Laurent Burgy</author>
+<author>Laurent Réveillère</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Zebu: A Language-Based Approach for Network Protocol Message Processing.</title>
+<pages>575-591</pages>
+<year>2011</year>
+<volume>37</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>4</number>
+<url>db/journals/tse/tse37.html#BurgyRLM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/PalixTSCLM11" mdate="2018-11-06">
+<author>Nicolas Palix</author>
+<author>Gaël Thomas 0001</author>
+<author>Suman Saha</author>
+<author>Christophe Calvès</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Faults in linux: ten years later.</title>
+<pages>305-318</pages>
+<year>2011</year>
+<booktitle>ASPLOS</booktitle>
+<crossref>conf/asplos/2011</crossref>
+<url>db/conf/asplos/asplos2011.html#PalixTSCLM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/MaldonadoMFLMR11" mdate="2017-05-21">
+<author>Walther Maldonado</author>
+<author>Patrick Marlier</author>
+<author>Pascal Felber</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<author>Etienne Riviere</author>
+<title>Deadline-aware scheduling for Software Transactional Memory.</title>
+<pages>257-268</pages>
+<year>2011</year>
+<booktitle>DSN</booktitle>
+<crossref>conf/dsn/2011</crossref>
+<url>db/conf/dsn/dsn2011.html#MaldonadoMFLMR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lctrts/SahaLM11" mdate="2018-11-06">
+<author>Suman Saha</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>An approach to improving the structure of error-handling code in the linux kernel.</title>
+<pages>41-50</pages>
+<year>2011</year>
+<booktitle>LCTES</booktitle>
+<crossref>conf/lctrts/2011</crossref>
+<url>db/conf/lctrts/lctes2011.html#SahaLM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/SahaLM11" mdate="2018-11-06">
+<author>Suman Saha</author>
+<author>Julia Lawall</author>
+<author>Gilles Muller</author>
+<title>Finding resource-release omission faults in Linux.</title>
+<pages>1:1-1:5</pages>
+<year>2011</year>
+<booktitle>PLOS@SOSP</booktitle>
+<crossref>conf/sosp/2011plos</crossref>
+<url>db/conf/sosp/plos2011.html#SahaLM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aosd/PalixLM10" mdate="2018-11-06">
+<author>Nicolas Palix</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<pages>169-180</pages>
+<year>2010</year>
+<booktitle>AOSD</booktitle>
+<crossref>conf/aosd/2010</crossref>
+<url>db/conf/aosd/aosd2010.html#PalixLM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edcc/LawallLHPM10" mdate="2017-05-26">
+<author>Julia L. Lawall</author>
+<author>Ben Laurie</author>
+<author>René Rydhof Hansen</author>
+<author>Nicolas Palix</author>
+<author>Gilles Muller</author>
+<title>Finding Error Handling Bugs in OpenSSL Using Coccinelle.</title>
+<pages>191-196</pages>
+<year>2010</year>
+<booktitle>EDCC</booktitle>
+<crossref>conf/edcc/2010</crossref>
+<url>db/conf/edcc/edcc2010.html#LawallLHPM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/GaudGLLMMQ10" mdate="2017-05-21">
+<author>Fabien Gaud</author>
+<author>Sylvain Geneves</author>
+<author>Renaud Lachaize</author>
+<author>Baptiste Lepers</author>
+<author>Fabien Mottet</author>
+<author>Gilles Muller</author>
+<author>Vivien Quéma</author>
+<title>Efficient Workstealing for Multicore Event-Driven Systems.</title>
+<pages>516-525</pages>
+<year>2010</year>
+<booktitle>ICDCS</booktitle>
+<crossref>conf/icdcs/2010</crossref>
+<url>db/conf/icdcs/icdcs2010.html#GaudGLLMMQ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/BissyandeRBLM10" mdate="2018-06-26">
+<author>Tegawendé F. Bissyandé</author>
+<author>Laurent Réveillère</author>
+<author>Yérom-David Bromberg</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Bridging the Gap between Legacy Services and Web Services.</title>
+<pages>273-292</pages>
+<year>2010</year>
+<booktitle>Middleware</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-16955-7_14</ee>
+<crossref>conf/middleware/2010</crossref>
+<url>db/conf/middleware/middleware2010.html#BissyandeRBLM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/MaldonadoMFSHFLM10" mdate="2018-11-06">
+<author>Walther Maldonado</author>
+<author>Patrick Marlier</author>
+<author>Pascal Felber</author>
+<author>Adi Suissa</author>
+<author>Danny Hendler</author>
+<author>Alexandra Fedorova</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Scheduling support for transactional memory contention management.</title>
+<pages>79-90</pages>
+<year>2010</year>
+<booktitle>PPOPP</booktitle>
+<crossref>conf/ppopp/2010</crossref>
+<url>db/conf/ppopp/ppopp2010.html#MaldonadoMFSHFLM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vee/GeoffrayTLMF10" mdate="2018-11-06">
+<author>Nicolas Geoffray</author>
+<author>Gaël Thomas 0001</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<author>Bertil Folliot</author>
+<title>VMKit: a substrate for managed runtime environments.</title>
+<pages>51-62</pages>
+<year>2010</year>
+<booktitle>VEE</booktitle>
+<crossref>conf/vee/2010</crossref>
+<url>db/conf/vee/vee2010.html#GeoffrayTLMF10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/eurosys/2010" mdate="2011-01-25">
+<editor>Christine Morin</editor>
+<editor>Gilles Muller</editor>
+<title>European Conference on Computer Systems, Proceedings of the 5th European conference on Computer systems, EuroSys 2010, Paris, France, April 13-16, 2010</title>
+<isbn>978-1-60558-577-2</isbn>
+<booktitle>EuroSys</booktitle>
+<publisher>ACM</publisher>
+<year>2010</year>
+<url>db/conf/eurosys/eurosys2010.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/ercim/LawallHPM10" mdate="2019-05-22">
+<author>Julia L. Lawall</author>
+<author>René Rydhof Hansen</author>
+<author>Nicolas Palix</author>
+<author>Gilles Muller</author>
+<title>Improving the Security of Infrastructure Software using Coccinelle.</title>
+<pages>54</pages>
+<year>2010</year>
+<volume>2010</volume>
+<journal>ERCIM News</journal>
+<number>83</number>
+<ee type="oa">http://ercim-news.ercim.eu/en83/rd/improving-the-security-of-infrastructure-software-using-coccinelle</ee>
+<url>db/journals/ercim/ercim2010.html#LawallHPM10</url>
+</article>
+</r>
+<r><article key="journals/sigops/EideMS09" mdate="2018-11-06">
+<author>Eric Eide</author>
+<author>Gilles Muller</author>
+<author>Olaf Spinczyk</author>
+<title>PLOS 2009: fifth workshop on programming languages and operating systems.</title>
+<pages>31-34</pages>
+<year>2009</year>
+<volume>43</volume>
+<journal>Operating Systems Review</journal>
+<number>4</number>
+<url>db/journals/sigops/sigops43.html#EideMS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsn/LawallBPHSM09" mdate="2019-02-07">
+<author>Julia L. Lawall</author>
+<author>Julien Brunel</author>
+<author>Nicolas Palix</author>
+<author>René Rydhof Hansen</author>
+<author>Henrik Stuart</author>
+<author>Gilles Muller</author>
+<title>WYSIWIB: A declarative approach to finding API protocols and bugs in Linux code.</title>
+<pages>43-52</pages>
+<year>2009</year>
+<booktitle>DSN</booktitle>
+<crossref>conf/dsn/2009</crossref>
+<url>db/conf/dsn/dsn2009.html#LawallBPHSM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/GeoffrayTMPFF09" mdate="2019-02-07">
+<author>Nicolas Geoffray</author>
+<author>Gaël Thomas 0001</author>
+<author>Gilles Muller</author>
+<author>Pierre Parrend</author>
+<author>Stéphane Frénot</author>
+<author>Bertil Folliot</author>
+<title>I-JVM: a Java Virtual Machine for component isolation in OSGi.</title>
+<pages>544-553</pages>
+<year>2009</year>
+<booktitle>DSN</booktitle>
+<crossref>conf/dsn/2009</crossref>
+<url>db/conf/dsn/dsn2009.html#GeoffrayTMPFF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/BrombergRLM09" mdate="2018-06-26">
+<author>Yérom-David Bromberg</author>
+<author>Laurent Réveillère</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Automatic Generation of Network Protocol Gateways.</title>
+<pages>21-41</pages>
+<year>2009</year>
+<booktitle>Middleware</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-10445-9_2</ee>
+<crossref>conf/middleware/2009</crossref>
+<url>db/conf/middleware/middleware2009.html#BrombergRLM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/BrunelDHLM09" mdate="2018-11-06">
+<author>Julien Brunel</author>
+<author>Damien Doligez</author>
+<author>René Rydhof Hansen</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>A foundation for flow-based program matching: using temporal logic and model checking.</title>
+<pages>114-126</pages>
+<year>2009</year>
+<booktitle>POPL</booktitle>
+<crossref>conf/popl/2009</crossref>
+<url>db/conf/popl/popl2009.html#BrunelDHLM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/LegtchenkoMSM09" mdate="2019-12-18">
+<author>Sergey Legtchenko</author>
+<author>Sébastien Monnet</author>
+<author>Pierre Sens 0001</author>
+<author>Gilles Muller</author>
+<title>Churn-Resilient Replication Strategy for Peer-to-Peer Distributed Hash-Tables.</title>
+<pages>485-499</pages>
+<year>2009</year>
+<booktitle>SSS</booktitle>
+<crossref>conf/sss/2009</crossref>
+<url>db/conf/sss/sss2009.html#LegtchenkoMSM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vee/HermenierLMML09" mdate="2019-10-19">
+<author>Fabien Hermenier</author>
+<author orcid="0000-0002-6534-8644">Xavier Lorca</author>
+<author>Jean-Marc Menaud</author>
+<author>Gilles Muller</author>
+<author>Julia L. Lawall</author>
+<title>Entropy: a consolidation manager for clusters.</title>
+<pages>41-50</pages>
+<year>2009</year>
+<booktitle>VEE</booktitle>
+<crossref>conf/vee/2009</crossref>
+<url>db/conf/vee/vee2009.html#HermenierLMML09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sosp/2009plos" mdate="2018-11-06">
+<editor>Gilles Muller</editor>
+<title>Proceedings of the Fifth Workshop on Programming Languages and Operating Systems, PLOS@SOSP 2009, Big Sky, Montana, USA, October 11, 2009</title>
+<booktitle>PLOS@SOSP</booktitle>
+<publisher>ACM</publisher>
+<year>2009</year>
+<isbn>978-1-60558-844-5</isbn>
+<url>db/conf/sosp/plos2009.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/eurosys/PadioleauLHM08" mdate="2018-11-06">
+<author>Yoann Padioleau</author>
+<author>Julia L. Lawall</author>
+<author>René Rydhof Hansen</author>
+<author>Gilles Muller</author>
+<title>Documenting and automating collateral evolutions in linux device drivers.</title>
+<pages>247-260</pages>
+<year>2008</year>
+<booktitle>EuroSys</booktitle>
+<crossref>conf/eurosys/2008</crossref>
+<url>db/conf/eurosys/eurosys2008.html#PadioleauLHM08</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcs/PadioleauLM07" mdate="2017-05-28">
+<author>Yoann Padioleau</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>SmPL: A Domain-Specific Language for Specifying Collateral Evolutions in Linux Device Drivers.</title>
+<pages>47-62</pages>
+<year>2007</year>
+<volume>166</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs166.html#PadioleauLM07</url>
+</article>
+</r>
+<r><article key="journals/entcs/BodeveixFLM07" mdate="2017-05-28">
+<author>Jean-Paul Bodeveix</author>
+<author>Mamoun Filali</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Automatic Verification of Bossa Scheduler Properties.</title>
+<pages>17-32</pages>
+<year>2007</year>
+<volume>185</volume>
+<journal>Electr. Notes Theor. Comput. Sci.</journal>
+<url>db/journals/entcs/entcs185.html#BodeveixFLM07</url>
+</article>
+</r>
+<r><inproceedings key="conf/sosp/StuartHLAPM07" mdate="2018-11-06">
+<author>Henrik Stuart</author>
+<author>René Rydhof Hansen</author>
+<author>Julia L. Lawall</author>
+<author>Jesper Andersen</author>
+<author>Yoann Padioleau</author>
+<author>Gilles Muller</author>
+<title>Towards easing the diagnosis of bugs in OS code.</title>
+<pages>2:1-2:5</pages>
+<year>2007</year>
+<booktitle>PLOS@SOSP</booktitle>
+<crossref>conf/sosp/2007plos</crossref>
+<url>db/conf/sosp/plos2007.html#StuartHLAPM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/BurgyRLM07" mdate="2017-05-19">
+<author>Laurent Burgy</author>
+<author>Laurent Réveillère</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>A Language-Based Approach for Improving the Robustness of Network Application Protocol Implementations.</title>
+<pages>149-160</pages>
+<year>2007</year>
+<booktitle>SRDS</booktitle>
+<crossref>conf/srds/2007</crossref>
+<url>db/conf/srds/srds2007.html#BurgyRLM07</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/UrunuelaML07" mdate="2018-08-23">
+<author>Richard Urunuela</author>
+<author>Gilles Muller</author>
+<author>Julia L. Lawall</author>
+<title>Towards Class-Based Dynamic Voltage Scaling for Multimedia Applications.</title>
+<year>2007</year>
+<booktitle>Power-aware Computing Systems</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/1108</ee>
+<crossref>conf/dagstuhl/2007P7041</crossref>
+<url>db/conf/dagstuhl/P7041.html#UrunuelaML07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0704-1373" mdate="2018-08-13">
+<author>Laurent Burgy</author>
+<author>Laurent Réveillère</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>A Language-Based Approach for Improving the Robustness of Network Application Protocol Implementations</title>
+<ee type="oa">http://arxiv.org/abs/0704.1373</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0704.1373</volume>
+<url>db/journals/corr/corr0704.html#abs-0704-1373</url>
+</article>
+</r>
+<r><article key="journals/sigops/MullerPLH06" mdate="2018-11-06">
+<author>Gilles Muller</author>
+<author>Yoann Padioleau</author>
+<author>Julia L. Lawall</author>
+<author>René Rydhof Hansen</author>
+<title>Semantic patches considered helpful.</title>
+<pages>90-92</pages>
+<year>2006</year>
+<volume>40</volume>
+<journal>Operating Systems Review</journal>
+<number>3</number>
+<url>db/journals/sigops/sigops40.html#MullerPLH06</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/PadioleauHLM06" mdate="2018-11-14">
+<author>Yoann Padioleau</author>
+<author>René Rydhof Hansen</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Semantic patches for documenting and automating collateral evolutions in Linux device drivers.</title>
+<pages>10</pages>
+<year>2006</year>
+<crossref>conf/asplos/2006plos</crossref>
+<booktitle>PLOS</booktitle>
+<url>db/conf/asplos/plos2006.html#PadioleauHLM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emsoft/UrunuelaML06" mdate="2018-11-06">
+<author>Richard Urunuela</author>
+<author>Gilles Muller</author>
+<author>Julia L. Lawall</author>
+<title>Energy adaptation for multimedia information kiosks.</title>
+<pages>223-232</pages>
+<year>2006</year>
+<crossref>conf/emsoft/2006</crossref>
+<booktitle>EMSOFT</booktitle>
+<url>db/conf/emsoft/emsoft2006.html#UrunuelaML06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/PadioleauLM06" mdate="2018-11-06">
+<author>Yoann Padioleau</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Understanding collateral evolution in Linux device drivers.</title>
+<pages>59-71</pages>
+<year>2006</year>
+<crossref>conf/eurosys/2006</crossref>
+<booktitle>EuroSys</booktitle>
+<url>db/conf/eurosys/eurosys2006.html#PadioleauLM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gpce/LawallDMM05" mdate="2017-05-21">
+<author>Julia L. Lawall</author>
+<author>Hervé Duchesne</author>
+<author>Gilles Muller</author>
+<author>Anne-Françoise Le Meur</author>
+<title>Bossa Nova: Introducing Modularity into the Bossa Domain-Specific Language.</title>
+<pages>78-93</pages>
+<year>2005</year>
+<crossref>conf/gpce/2005</crossref>
+<booktitle>GPCE</booktitle>
+<url>db/conf/gpce/gpce2005.html#LawallDMM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hase/MullerLD05" mdate="2017-05-25">
+<author>Gilles Muller</author>
+<author>Julia L. Lawall</author>
+<author>Hervé Duchesne</author>
+<title>A Framework for Simplifying the Development of Kernel Schedulers: Design and Performance Evaluation.</title>
+<pages>56-65</pages>
+<year>2005</year>
+<crossref>conf/hase/2005</crossref>
+<booktitle>HASE</booktitle>
+<url>db/conf/hase/hase2005.html#MullerLD05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifm/BodeveixFLM05" mdate="2017-05-24">
+<author>Jean-Paul Bodeveix</author>
+<author>Mamoun Filali</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Formal Methods Meet Domain Specific Languages.</title>
+<pages>187-206</pages>
+<year>2005</year>
+<crossref>conf/ifm/2005</crossref>
+<booktitle>IFM</booktitle>
+<url>db/conf/ifm/ifm2005.html#BodeveixFLM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/words/MullerLD05" mdate="2017-05-24">
+<author>Gilles Muller</author>
+<author>Julia L. Lawall</author>
+<author>Hervé Duchesne</author>
+<title>A Framework for Simplifying the Development of Kernel Schedulers: Design and Performance Evaluation.</title>
+<pages>219-230</pages>
+<year>2005</year>
+<crossref>conf/words/2005</crossref>
+<booktitle>WORDS</booktitle>
+<url>db/conf/words/words2005.html#MullerLD05</url>
+</inproceedings>
+</r>
+<r><article key="journals/Lobjet/CointeNDLMMS04" mdate="2017-05-27">
+<author>Pierre Cointe</author>
+<author>Jacques Noyé</author>
+<author>Rémi Douence</author>
+<author>Thomas Ledoux</author>
+<author>Jean-Marc Menaud</author>
+<author>Gilles Muller</author>
+<author>Mario Südholt</author>
+<title>Programmation post-objets. Des langages d'aspects aux langages de composants.</title>
+<pages>119-143</pages>
+<year>2004</year>
+<volume>10</volume>
+<journal>L'OBJET</journal>
+<number>4</number>
+<url>db/journals/Lobjet/Lobjet10.html#CointeNDLMMS04</url>
+</article>
+</r>
+<r><inproceedings key="conf/gpce/LawallMM04" mdate="2017-05-21">
+<author>Julia L. Lawall</author>
+<author>Anne-Françoise Le Meur</author>
+<author>Gilles Muller</author>
+<title>On Designing a Target-Independent DSL for Safe OS Process-Scheduling Components.</title>
+<pages>436-455</pages>
+<year>2004</year>
+<crossref>conf/gpce/2004</crossref>
+<booktitle>GPCE</booktitle>
+<url>db/conf/gpce/gpce2004.html#LawallMM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pepm/LawallMD04" mdate="2018-11-06">
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<author>Hervé Duchesne</author>
+<title>Invited application paper: language design for implementing process scheduling hierarchies.</title>
+<pages>80-91</pages>
+<year>2004</year>
+<crossref>conf/pepm/2004</crossref>
+<booktitle>PEPM</booktitle>
+<url>db/conf/pepm/pepm2004.html#LawallMD04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigopsE/MullerLMS04" mdate="2018-11-06">
+<author>Gilles Muller</author>
+<author>Julia L. Lawall</author>
+<author>Jean-Marc Menaud</author>
+<author>Mario Südholt</author>
+<title>Constructing component-based extension interfaces in legacy systems code.</title>
+<pages>15</pages>
+<year>2004</year>
+<booktitle>ACM SIGOPS European Workshop</booktitle>
+<crossref>conf/sigopsE/2004</crossref>
+<url>db/conf/sigopsE/sigopsE2004.html#MullerLMS04</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsmc/MullerLTJ03" mdate="2017-05-17">
+<author>Gilles Muller</author>
+<author>Julia L. Lawall</author>
+<author>Scott Thibault</author>
+<author>R. E. Voel Jensen</author>
+<title>A domain-specific language approach to programmable networks.</title>
+<pages>370-381</pages>
+<year>2003</year>
+<volume>33</volume>
+<journal>IEEE Trans. Systems, Man, and Cybernetics, Part C</journal>
+<number>3</number>
+<url>db/journals/tsmc/tsmcc33.html#MullerLTJ03</url>
+</article>
+</r>
+<r><inproceedings key="conf/aosd/Segura-DevillechaiseMML03" mdate="2018-11-06">
+<author>Marc Ségura-Devillechaise</author>
+<author>Jean-Marc Menaud</author>
+<author>Gilles Muller</author>
+<author>Julia L. Lawall</author>
+<title>Web cache prefetching as an aspect: towards a dynamic-weaving based solution.</title>
+<pages>110-119</pages>
+<year>2003</year>
+<crossref>conf/aosd/2003</crossref>
+<booktitle>AOSD</booktitle>
+<url>db/conf/aosd/aosd2003.html#Segura-DevillechaiseMML03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/AbergLSMM03" mdate="2017-05-23">
+<author>Rickard A. Åberg</author>
+<author>Julia L. Lawall</author>
+<author>Mario Südholt</author>
+<author>Gilles Muller</author>
+<author>Anne-Françoise Le Meur</author>
+<title>On the automatic evolution of an OS kernel using temporal logic and AOP.</title>
+<pages>196-204</pages>
+<year>2003</year>
+<crossref>conf/kbse/2003</crossref>
+<booktitle>ASE</booktitle>
+<url>db/conf/kbse/ase2003.html#AbergLSMM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/HeML02" mdate="2019-08-04">
+<author>Dan He</author>
+<author>Gilles Muller</author>
+<author>Julia L. Lawall</author>
+<title>Distributing MPEG Movies Over the Internet using Programmable Networks.</title>
+<pages>161-170</pages>
+<year>2002</year>
+<crossref>conf/icdcs/2002</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs2002.html#HeML02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigopsE/LawallMB02" mdate="2018-11-06">
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<author>Luciano Porto Barreto</author>
+<title>Capturing OS expertise in an event type system: the Bossa experience.</title>
+<pages>54-61</pages>
+<year>2002</year>
+<booktitle>ACM SIGOPS European Workshop</booktitle>
+<crossref>conf/sigopsE/2002</crossref>
+<url>db/conf/sigopsE/sigopsE2002.html#LawallMB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/FassinoSLM02" mdate="2002-08-27">
+<author>Jean-Philippe Fassino</author>
+<author>Jean-Bernard Stefani</author>
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Think: A Software Framework for Component-based Operating System Kernels.</title>
+<pages>73-86</pages>
+<year>2002</year>
+<crossref>conf/usenix/2002g</crossref>
+<booktitle>USENIX Annual Technical Conference, General Track</booktitle>
+<url>db/conf/usenix/usenix2002g.html#FassinoSLM02</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigopsE/2002" mdate="2019-11-07">
+<editor>Gilles Muller</editor>
+<editor>Eric Jul</editor>
+<title>Proceedings of the 10th ACM SIGOPS European Workshop, Saint-Emilion, France, July 1, 2002</title>
+<booktitle>ACM SIGOPS European Workshop</booktitle>
+<publisher>ACM</publisher>
+<year>2002</year>
+<url>db/conf/sigopsE/sigopsE2002.html</url>
+</proceedings>
+</r>
+<r><article key="journals/comcom/GulwaniTGSBMC01" mdate="2019-10-14">
+<author>Sumit Gulwani</author>
+<author>A. Tarachandani</author>
+<author>Deepak Gupta 0001</author>
+<author>Dheeraj Sanghi</author>
+<author>Luciano Porto Barreto</author>
+<author>Gilles Muller</author>
+<author>Charles Consel</author>
+<title>WebCaL - a domain specific language for web caching.</title>
+<pages>191-201</pages>
+<year>2001</year>
+<volume>24</volume>
+<journal>Computer Communications</journal>
+<number>2</number>
+<url>db/journals/comcom/comcom24.html#GulwaniTGSBMC01</url>
+</article>
+</r>
+<r><article key="journals/tocs/McNameeWPCKGWCMM01" mdate="2018-11-06">
+<author>Dylan McNamee</author>
+<author>Jonathan Walpole</author>
+<author>Calton Pu</author>
+<author>Crispin Cowan</author>
+<author>Charles Krasic</author>
+<author>Ashvin Goel</author>
+<author>Perry Wagle</author>
+<author>Charles Consel</author>
+<author>Gilles Muller</author>
+<author>Renaud Marlet</author>
+<title>Specialization tools and techniques for systematic optimization of system software.</title>
+<pages>217-251</pages>
+<year>2001</year>
+<volume>19</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/tocs/tocs19.html#McNameeWPCKGWCMM01</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsn/ReveillereM01" mdate="2017-05-21">
+<author>Laurent Réveillère</author>
+<author>Gilles Muller</author>
+<title>Improving Driver Robustness: An Evaluation of the Devil Approach.</title>
+<pages>131-140</pages>
+<year>2001</year>
+<crossref>conf/dsn/2001</crossref>
+<booktitle>DSN</booktitle>
+<url>db/conf/dsn/dsn2001.html#ReveillereM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotos/BarretoM01" mdate="2017-05-17">
+<author>Luciano Porto Barreto</author>
+<author>Gilles Muller</author>
+<title>Bossa: A DSL Framework for Application-Specific Scheduling Policies.</title>
+<pages>161</pages>
+<year>2001</year>
+<crossref>conf/hotos/2001</crossref>
+<booktitle>HotOS</booktitle>
+<url>db/conf/hotos/hotos2001.html#BarretoM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lctrts/MerillonM01" mdate="2018-11-06">
+<author>Fabrice Mérillon</author>
+<author>Gilles Muller</author>
+<title>Dealing with Hardware in Embedded Software: A General Framework Based on the Devil Language.</title>
+<pages>121-127</pages>
+<year>2001</year>
+<crossref>conf/lctrts/2001</crossref>
+<booktitle>LCTES/OM</booktitle>
+<url>db/conf/lctrts/lctes2001.html#MerillonM01</url>
+</inproceedings>
+</r>
+<r><article key="journals/lisp/ThibaultCLMM00" mdate="2017-05-26">
+<author>Scott Thibault</author>
+<author>Charles Consel</author>
+<author>Julia L. Lawall</author>
+<author>Renaud Marlet</author>
+<author>Gilles Muller</author>
+<title>Static and Dynamic Program Compilation by Interpreter Specialization.</title>
+<pages>161-178</pages>
+<year>2000</year>
+<volume>13</volume>
+<journal>Higher-Order and Symbolic Computation</journal>
+<number>3</number>
+<url>db/journals/lisp/lisp13.html#ThibaultCLMM00</url>
+</article>
+</r>
+<r><article key="journals/tcs/MullerMV00" mdate="2017-05-28">
+<author>Gilles Muller</author>
+<author>Renaud Marlet</author>
+<author>Eugen-Nicolae Volanschi</author>
+<title>Accurate program analyses for successful specialization of legacy system software.</title>
+<pages>201-210</pages>
+<year>2000</year>
+<volume>248</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs248.html#MullerMV00</url>
+</article>
+</r>
+<r><article key="journals/toplas/ClausenSCM00" mdate="2018-11-06">
+<author>Lars Ræder Clausen</author>
+<author orcid="0000-0003-4119-2689">Ulrik Pagh Schultz</author>
+<author>Charles Consel</author>
+<author>Gilles Muller</author>
+<title>Java bytecode compression for low-end embedded systems.</title>
+<pages>471-489</pages>
+<year>2000</year>
+<volume>22</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>3</number>
+<url>db/journals/toplas/toplas22.html#ClausenSCM00</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsn/LawallM00" mdate="2017-05-21">
+<author>Julia L. Lawall</author>
+<author>Gilles Muller</author>
+<title>Efficient Incremental Checkpointing of Java Programs.</title>
+<pages>61-70</pages>
+<year>2000</year>
+<crossref>conf/dsn/2000</crossref>
+<booktitle>DSN</booktitle>
+<url>db/conf/dsn/dsn2000.html#LawallM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/ReveillereMCMM00" mdate="2017-05-23">
+<author>Laurent Réveillère</author>
+<author>Fabrice Mérillon</author>
+<author>Charles Consel</author>
+<author>Renaud Marlet</author>
+<author>Gilles Muller</author>
+<title>A DSL Approach to Improve Productivity and Safety in Device Drivers Development.</title>
+<pages>101-110</pages>
+<year>2000</year>
+<crossref>conf/kbse/2000</crossref>
+<booktitle>ASE</booktitle>
+<url>db/conf/kbse/ase2000.html#ReveillereMCMM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/BoinotMNMC00" mdate="2017-05-23">
+<author>Philippe Boinot</author>
+<author>Renaud Marlet</author>
+<author>Jacques Noyé</author>
+<author>Gilles Muller</author>
+<author>Charles Consel</author>
+<title>A Declarative Approach for Designing and Developing Adaptive Components.</title>
+<pages>111-</pages>
+<year>2000</year>
+<crossref>conf/kbse/2000</crossref>
+<booktitle>ASE</booktitle>
+<url>db/conf/kbse/ase2000.html#BoinotMNMC00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/MerillonRCMM00" mdate="2012-05-21">
+<author>Fabrice Mérillon</author>
+<author>Laurent Réveillère</author>
+<author>Charles Consel</author>
+<author>Renaud Marlet</author>
+<author>Gilles Muller</author>
+<title>Devil: An IDL for Hardware Programming.</title>
+<pages>17-30</pages>
+<year>2000</year>
+<crossref>conf/osdi/2000</crossref>
+<booktitle>OSDI</booktitle>
+<url>db/conf/osdi/osdi2000.html#MerillonRCMM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saig/Muller00" mdate="2017-05-21">
+<author>Gilles Muller</author>
+<title>Specialization of Systems Programs: Lessons and Perspectives.</title>
+<pages>7-8</pages>
+<year>2000</year>
+<crossref>conf/saig/2000</crossref>
+<booktitle>SAIG</booktitle>
+<url>db/conf/saig/saig2000.html#Muller00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigopsE/MullerCMBMR00" mdate="2018-11-06">
+<author>Gilles Muller</author>
+<author>Charles Consel</author>
+<author>Renaud Marlet</author>
+<author>Luciano Porto Barreto</author>
+<author>Fabrice Mérillon</author>
+<author>Laurent Réveillère</author>
+<title>Towards robust OSes for appliances: a new approach based on domain-specific languages.</title>
+<pages>19-24</pages>
+<year>2000</year>
+<crossref>conf/sigopsE/2000</crossref>
+<booktitle>ACM SIGOPS European Workshop</booktitle>
+<url>db/conf/sigopsE/sigopsE2000.html#MullerCMBMR00</url>
+</inproceedings>
+</r>
+<r><article key="journals/software/MullerS99" mdate="2017-05-18">
+<author>Gilles Muller</author>
+<author>Ulrik Pagh Schultz</author>
+<title>Harissa: A Hybrid Approach to Java Execution.</title>
+<year>1999</year>
+<volume>16</volume>
+<journal>IEEE Software</journal>
+<number>2</number>
+<url>db/journals/software/software16.html#MullerS99</url>
+<pages>44-51</pages>
+</article>
+</r>
+<r><inproceedings key="conf/ecoop/SchultzLCM99" mdate="2017-05-21">
+<author>Ulrik Pagh Schultz</author>
+<author>Julia L. Lawall</author>
+<author>Charles Consel</author>
+<author>Gilles Muller</author>
+<title>Towards Automatic Specialization of Java Programs.</title>
+<pages>367-390</pages>
+<year>1999</year>
+<crossref>conf/ecoop/1999</crossref>
+<booktitle>ECOOP</booktitle>
+<url>db/conf/ecoop/ecoop99.html#SchultzLCM99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/ThibaultMM99" mdate="2017-05-21">
+<author>Scott Thibault</author>
+<author>Jerôme Marant</author>
+<author>Gilles Muller</author>
+<title>Adapting Distributed Applications Using Extensible Networks.</title>
+<pages>234-243</pages>
+<year>1999</year>
+<crossref>conf/icdcs/1999</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs99.html#ThibaultMM99</url>
+</inproceedings>
+</r>
+<r><article key="journals/csur/ConselHMMTV98" mdate="2018-11-06">
+<author>Charles Consel</author>
+<author>Luke Hornof</author>
+<author>Renaud Marlet</author>
+<author>Gilles Muller</author>
+<author>Scott Thibault</author>
+<author>Eugen-Nicolae Volanschi</author>
+<title>Tempo: Specializing Systems applications and Beyond.</title>
+<pages>19</pages>
+<year>1998</year>
+<volume>30</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>3es</number>
+<url>db/journals/csur/csur30.html#ConselHMMTV98</url>
+</article>
+</r>
+<r><article key="journals/csur/ConselHMMTV98a" mdate="2018-11-06">
+<author>Charles Consel</author>
+<author>Luke Hornof</author>
+<author>Renaud Marlet</author>
+<author>Gilles Muller</author>
+<author>Scott Thibault</author>
+<author>Eugen-Nicolae Volanschi</author>
+<title>Partial Evaluation for Software Engineering.</title>
+<pages>20</pages>
+<year>1998</year>
+<volume>30</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>3es</number>
+<url>db/journals/csur/csur30.html#ConselHMMTV98a</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/MullerMVCPG98" mdate="2017-05-21">
+<author>Gilles Muller</author>
+<author>Renaud Marlet</author>
+<author>Eugen-Nicolae Volanschi</author>
+<author>Charles Consel</author>
+<author>Calton Pu</author>
+<author>Ashvin Goel</author>
+<title>Fast, Optimized Sun RPC Using Automatic Program Specialization.</title>
+<pages>240-249</pages>
+<year>1998</year>
+<crossref>conf/icdcs/1998</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs98.html#MullerMVCPG98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/ThibaultCM98" mdate="2017-05-19">
+<author>Scott Thibault</author>
+<author>Charles Consel</author>
+<author>Gilles Muller</author>
+<title>Safe and Efficient Active Network Programming.</title>
+<pages>135-143</pages>
+<year>1998</year>
+<crossref>conf/srds/1998</crossref>
+<booktitle>SRDS</booktitle>
+<url>db/conf/srds/srds98.html#ThibaultCM98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coots/MullerMBC97" mdate="2003-10-01">
+<author>Gilles Muller</author>
+<author>Bárbara Moura</author>
+<author>Fabrice Bellard</author>
+<author>Charles Consel</author>
+<title>Harissa: A Flexible and Efficient Java Environment Mixing Bytecode and Compiled Code.</title>
+<pages>1-20</pages>
+<year>1997</year>
+<crossref>conf/coots/1997</crossref>
+<booktitle>COOTS</booktitle>
+<url>db/conf/coots/coots1997.html#MullerMBC97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/VolanschiCMC97" mdate="2018-11-06">
+<author>Eugen-Nicolae Volanschi</author>
+<author>Charles Consel</author>
+<author>Gilles Muller</author>
+<author>Crispin Cowan</author>
+<title>Declarative Specialization of Object-Oriented Programs.</title>
+<pages>286-300</pages>
+<year>1997</year>
+<crossref>conf/oopsla/1997</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla97.html#VolanschiCMC97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pepm/MullerVM97" mdate="2018-11-06">
+<author>Gilles Muller</author>
+<author>Eugen-Nicolae Volanschi</author>
+<author>Renaud Marlet</author>
+<title>Scaling up Partial Evaluation for Optimizing the Sun Commercial RPC Protocol.</title>
+<pages>116-126</pages>
+<year>1997</year>
+<crossref>conf/pepm/1997</crossref>
+<booktitle>PEPM</booktitle>
+<url>db/conf/pepm/pepm97.html#MullerVM97</url>
+</inproceedings>
+</r>
+<r><article key="journals/tr/MullerBPR96" mdate="2017-05-26">
+<author>Gilles Muller</author>
+<author>Michel Banâtre</author>
+<author>Nadine Peyrouze</author>
+<author>Bruno Rochat</author>
+<title>Lessons from FTM: An Experiment in Design and Implementation of a Low-Cost Fault-Tolerant System.</title>
+<pages>332-339</pages>
+<year>1996</year>
+<volume>45</volume>
+<journal>IEEE Trans. Reliability</journal>
+<number>2</number>
+<url>db/journals/tr/tr45.html#MullerBPR96</url>
+</article>
+</r>
+<r><inproceedings key="conf/ftcs/PeyrouzeM96" mdate="2017-05-23">
+<author>Nadine Peyrouze</author>
+<author>Gilles Muller</author>
+<title>FT-NFS: An Efficient Fault-Tolerant NFS Server Designed for Off-the-Shelf Workstations.</title>
+<pages>64-73</pages>
+<year>1996</year>
+<crossref>conf/ftcs/1996</crossref>
+<booktitle>FTCS</booktitle>
+<url>db/conf/ftcs/ftcs96.html#PeyrouzeM96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spdp/BryceM95" mdate="2017-05-23">
+<author>Ciarán Bryce</author>
+<author>Gilles Muller</author>
+<title>Matching micro-kernels to modern applications using fine-grained memory protection.</title>
+<pages>272-279</pages>
+<year>1995</year>
+<booktitle>SPDP</booktitle>
+<crossref>conf/spdp/1995</crossref>
+<url>db/conf/spdp/spdp1995.html#BryceM95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/CabillicMP95" mdate="2017-05-19">
+<author>Gilbert Cabillic</author>
+<author>Gilles Muller</author>
+<author>Isabelle Puaut</author>
+<title>The Performance of Consistent Checkpointing in Distributed Shared Memory Systems.</title>
+<pages>96-105</pages>
+<year>1995</year>
+<crossref>conf/srds/1995</crossref>
+<booktitle>SRDS</booktitle>
+<url>db/conf/srds/srds95.html#CabillicMP95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edcc/MullerHP94" mdate="2017-05-20">
+<author>Gilles Muller</author>
+<author>Mireille Hue</author>
+<author>Nadine Peyrouze</author>
+<title>Performance of Consistent Checkpointing in a Modular Operating System: Results of the FTM Experiment.</title>
+<pages>491-508</pages>
+<year>1994</year>
+<crossref>conf/edcc/1994</crossref>
+<booktitle>EDCC</booktitle>
+<url>db/conf/edcc/edcc1994.html#MullerHP94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigopsE/BryceIMP94" mdate="2018-11-06">
+<author>C. Bryce</author>
+<author>Valérie Issarny</author>
+<author>Gilles Muller</author>
+<author>Isabelle Puaut</author>
+<title>Towards Safe and Efficient Customization in Distributed Systems.</title>
+<pages>57-61</pages>
+<year>1994</year>
+<crossref>conf/sigopsE/1994</crossref>
+<booktitle>ACM SIGOPS European Workshop</booktitle>
+<url>db/conf/sigopsE/sigopsE94.html#BryceIMP94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/IssarnyMP94" mdate="2019-02-14">
+<author>Valérie Issarny</author>
+<author>Gilles Muller</author>
+<author>Isabelle Puaut</author>
+<title>Efficient Treatment of Failures in RPC Systems.</title>
+<pages>170-180</pages>
+<year>1994</year>
+<crossref>conf/srds/1994</crossref>
+<booktitle>SRDS</booktitle>
+<url>db/conf/srds/srds94.html#IssarnyMP94</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigops/BryceHJMMR93" mdate="2018-11-06">
+<author>C. Bryce</author>
+<author>Daniel Hagimont</author>
+<author>Philippe Joubert</author>
+<author>Christine Morin</author>
+<author>Gilles Muller</author>
+<author>Bruno Rochat</author>
+<title>Models and Paradigms for Distributed Systems Structuring - Summary of Sessions.</title>
+<pages>56-60</pages>
+<year>1993</year>
+<volume>27</volume>
+<journal>Operating Systems Review</journal>
+<number>2</number>
+<url>db/journals/sigops/sigops27.html#BryceHJMMR93</url>
+</article>
+</r>
+<r><inproceedings key="conf/hsaft/Muller93" mdate="2017-05-20">
+<author>Gilles Muller</author>
+<title>A Reliable Client-Server Model on Top of a Micro-Kernel.</title>
+<pages>191-198</pages>
+<year>1993</year>
+<crossref>conf/hsaft/1993</crossref>
+<booktitle>Hardware and Software Architectures for Fault Tolerance</booktitle>
+<url>db/conf/hsaft/hsaft1993.html#Muller93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdis/BanatreHMPR93" mdate="2019-02-14">
+<author>Michel Banâtre</author>
+<author>Pack Heng</author>
+<author>Gilles Muller</author>
+<author>Nadine Peyrouze</author>
+<author>Bruno Rochat</author>
+<title>An Experience in the Design of a Reliable Object Based System (Synopsis).</title>
+<pages>187-190</pages>
+<cdrom>PDIS1993/P187.pdf</cdrom>
+<year>1993</year>
+<crossref>conf/pdis/93</crossref>
+<booktitle>PDIS</booktitle>
+<url>db/conf/pdis/pdis93.html#BanatreHMPR93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigopsE/BanatreJMMR92" mdate="2018-11-06">
+<author>Michel Banâtre</author>
+<author>Philippe Joubert</author>
+<author>Christine Morin</author>
+<author>Gilles Muller</author>
+<author>Bruno Rochat</author>
+<title>Using dynamic atomic actions to build fault tolerant systems.</title>
+<year>1992</year>
+<crossref>conf/sigopsE/1992</crossref>
+<booktitle>ACM SIGOPS European Workshop</booktitle>
+<url>db/conf/sigopsE/sigopsE1992.html#BanatreJMMR92</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigops/BanatreJMMRS91" mdate="2018-11-06">
+<author>Michel Banâtre</author>
+<author>Philippe Joubert</author>
+<author>Christine Morin</author>
+<author>Gilles Muller</author>
+<author>Bruno Rochat</author>
+<author>Patrick Sanchez</author>
+<title>Stable Transactional Memories and Fault Tolerant Architectures.</title>
+<pages>68-72</pages>
+<year>1991</year>
+<volume>25</volume>
+<journal>Operating Systems Review</journal>
+<number>1</number>
+<url>db/journals/sigops/sigops25.html#BanatreJMMRS91</url>
+</article>
+</r>
+<r><inproceedings key="conf/ftcs/BanatreMRS91" mdate="2017-05-23">
+<author>Michel Banâtre</author>
+<author>Gilles Muller</author>
+<author>Bruno Rochat</author>
+<author>Patrick Sanchez</author>
+<title>Design Decisions for the FTM : A General Purpose Fault Tolerant Machine.</title>
+<pages>71-78</pages>
+<year>1991</year>
+<crossref>conf/ftcs/1991</crossref>
+<booktitle>FTCS</booktitle>
+<url>db/conf/ftcs/ftcs91.html#BanatreMRS91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mach/BanatreMHR91" mdate="2014-05-15">
+<author>Michel Banâtre</author>
+<author>Gilles Muller</author>
+<author>Pack Heng</author>
+<author>Bruno Rochat</author>
+<title>How to Design Reliable Servers using Fault Tolerant Micro-Kernel Mechanisms.</title>
+<pages>223-232</pages>
+<year>1991</year>
+<crossref>conf/mach/1991</crossref>
+<booktitle>USENIX MACH Symposium</booktitle>
+<url>db/conf/mach/mach1991.html#BanatreMHR91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigopsE/BanatreJMMRS90" mdate="2018-11-06">
+<author>Michel Banâtre</author>
+<author>Philippe Joubert</author>
+<author>Christine Morin</author>
+<author>Gilles Muller</author>
+<author>Bruno Rochat</author>
+<author>Patrick Sanchez</author>
+<title>Stable transactional memories and fault tolerant architectures.</title>
+<year>1990</year>
+<crossref>conf/sigopsE/1990</crossref>
+<booktitle>ACM SIGOPS European Workshop</booktitle>
+<url>db/conf/sigopsE/sigopsE1990.html#BanatreJMMRS90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotos/BanatreBM89" mdate="2019-07-30">
+<author>Jean-Pierre Banâtre</author>
+<author>Michel Banâtre</author>
+<author>Gilles Muller</author>
+<title>Architecture of fault-tolerant multiprocessor workstations.</title>
+<pages>20-24</pages>
+<year>1989</year>
+<booktitle>WWOS</booktitle>
+<crossref>conf/hotos/1989</crossref>
+<url>db/conf/hotos/wwos89.html#BanatreBM89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BanatreMB88" mdate="2019-02-11">
+<author>Michel Banâtre</author>
+<author>Gilles Muller</author>
+<author>Jean-Pierre Banâtre</author>
+<title>Ensuring Data Security and Integrity with a Fast Stable Storage.</title>
+<pages>285-293</pages>
+<cdrom>ICDE88/P285.pdf</cdrom>
+<year>1988</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde88.html#BanatreMB88</url>
+<crossref>conf/icde/88</crossref>
+<cite label="BAN-86a">journals/cacm/BanatreBLP86</cite>
+<cite label="BAN-86b">...</cite>
+<cite label="BART-81">conf/sosp/Bartlett81</cite>
+<cite label="BORG-83">conf/sosp/BorgBG83</cite>
+<cite label="BULL-85">...</cite>
+<cite label="GIFF-81">...</cite>
+<cite label="LAMP-81">...</cite>
+<cite label="LEVY-84">...</cite>
+<cite label="LISK-84">conf/ac/Liskov84</cite>
+<cite label="NEED-83">journals/sigops/NeedhamHM83</cite>
+<cite label="SPEC-85">conf/sosp/SpectorDDEP85</cite>
+<cite label="SVOB-84">journals/csur/Svobodova84</cite>
+</inproceedings>
+</r>
+<coauthors n="137" nc="2">
+<co c="0"><na f="=/=Aring=berg:Rickard_A=">Rickard A. Åberg</na></co>
+<co c="0"><na f="a/Andersen:Jesper">Jesper Andersen</na></co>
+<co c="0"><na f="a/Attouchi:Koutheir">Koutheir Attouchi</na></co>
+<co c="0"><na f="b/Ban=acirc=tre:Jean=Pierre">Jean-Pierre Banâtre</na></co>
+<co c="0"><na f="b/Ban=acirc=tre:Michel">Michel Banâtre</na></co>
+<co c="0"><na f="b/Barreto:Luciano_Porto">Luciano Porto Barreto</na></co>
+<co c="0"><na f="b/Bellard:Fabrice">Fabrice Bellard</na></co>
+<co c="0"><na f="b/Bissyand=eacute=:Tegawend=eacute=_F=">Tegawendé F. Bissyandé</na></co>
+<co c="0"><na f="b/Blin:Antoine">Antoine Blin</na></co>
+<co c="0"><na f="b/Bodeveix:Jean=Paul">Jean-Paul Bodeveix</na></co>
+<co c="0"><na f="b/Boinot:Philippe">Philippe Boinot</na></co>
+<co c="0"><na f="b/Bottaro:Andr=eacute=">André Bottaro</na></co>
+<co c="0"><na f="b/Bouron:Justinien">Justinien Bouron</na></co>
+<co c="0"><na f="b/Bromberg:Y=eacute=rom=David">Yérom-David Bromberg</na></co>
+<co c="0"><na f="b/Brunel:Julien">Julien Brunel</na></co>
+<co c="0"><na f="b/Brunie:Lionel">Lionel Brunie</na></co>
+<co c="0"><na f="b/Bryce:C=">C. Bryce</na></co>
+<co c="0"><na f="b/Bryce:Ciar=aacute=n">Ciarán Bryce</na></co>
+<co c="0"><na f="b/Bui:Vo_Quoc_Bao">Vo Quoc Bao Bui</na></co>
+<co c="0"><na f="b/Burgy:Laurent">Laurent Burgy</na></co>
+<co c="0"><na f="c/Cabillic:Gilbert">Gilbert Cabillic</na></co>
+<co c="0"><na f="c/Calv=egrave=s:Christophe">Christophe Calvès</na></co>
+<co c="0"><na f="c/Carver:Damien">Damien Carver</na></co>
+<co c="0"><na f="c/Chevalley:Sebastien">Sebastien Chevalley</na></co>
+<co c="0"><na f="c/Clausen:Lars_R=aelig=der">Lars Ræder Clausen</na></co>
+<co c="0"><na f="c/Cointe:Pierre">Pierre Cointe</na></co>
+<co c="0"><na f="c/Consel:Charles">Charles Consel</na></co>
+<co c="0"><na f="c/Cota:Guido_Lena">Guido Lena Cota</na></co>
+<co c="0"><na f="c/Courtaud:C=eacute=dric">Cédric Courtaud</na></co>
+<co c="0"><na f="c/Cowan:Crispin">Crispin Cowan</na></co>
+<co c="0"><na f="d/Dagand:Pierre==Eacute=variste">Pierre-Évariste Dagand</na></co>
+<co c="0"><na f="d/Damiani:Ernesto">Ernesto Damiani</na></co>
+<co c="0"><na f="d/David:Florian">Florian David</na></co>
+<co c="0"><na f="d/Doligez:Damien">Damien Doligez</na></co>
+<co c="0"><na f="d/Douence:R=eacute=mi">Rémi Douence</na></co>
+<co c="0"><na f="d/Duchesne:Herv=eacute=">Hervé Duchesne</na></co>
+<co c="0"><na f="e/Eide:Eric">Eric Eide</na></co>
+<co c="0"><na f="f/Fassino:Jean=Philippe">Jean-Philippe Fassino</na></co>
+<co c="0"><na f="f/Fedorova:Alexandra">Alexandra Fedorova</na></co>
+<co c="0"><na f="f/Felber:Pascal">Pascal Felber</na></co>
+<co c="0"><na f="f/Fetzer:Christof">Christof Fetzer</na></co>
+<co c="0"><na f="f/Filali:Mamoun">Mamoun Filali</na></co>
+<co c="0"><na f="f/Folliot:Bertil">Bertil Folliot</na></co>
+<co c="0"><na f="f/Fr=eacute=not:St=eacute=phane">Stéphane Frénot</na></co>
+<co c="0"><na f="g/Gaud:Fabien">Fabien Gaud</na></co>
+<co c="0"><na f="g/Geneves:Sylvain">Sylvain Geneves</na></co>
+<co c="0"><na f="g/Geoffray:Nicolas">Nicolas Geoffray</na></co>
+<co c="0"><na f="g/Gianini:Gabriele">Gabriele Gianini</na></co>
+<co c="0"><na f="g/Gnirke:Lukas">Lukas Gnirke</na></co>
+<co c="0"><na f="g/Goel:Ashvin">Ashvin Goel</na></co>
+<co c="0"><na f="g/Gouicem:Redha">Redha Gouicem</na></co>
+<co c="0"><na f="g/Gulwani:Sumit">Sumit Gulwani</na></co>
+<co c="0"><na f="g/Guo:Lisong">Lisong Guo</na></co>
+<co c="0"><na f="g/Gupta_0001:Deepak">Deepak Gupta 0001</na></co>
+<co c="1"><na f="g/Gustedt:Jens">Jens Gustedt</na></co>
+<co c="0"><na f="h/Hagimont:Daniel">Daniel Hagimont</na></co>
+<co c="0"><na f="h/Hansen:Ren=eacute=_Rydhof">René Rydhof Hansen</na></co>
+<co c="0"><na f="h/He:Dan">Dan He</na></co>
+<co c="0"><na f="h/Hendler:Danny">Danny Hendler</na></co>
+<co c="0"><na f="h/Heng:Pack">Pack Heng</na></co>
+<co c="0"><na f="h/Hermenier:Fabien">Fabien Hermenier</na></co>
+<co c="0"><na f="h/Hornof:Luke">Luke Hornof</na></co>
+<co c="0"><na f="h/Hue:Mireille">Mireille Hue</na></co>
+<co c="0"><na f="i/Issarny:Val=eacute=rie">Valérie Issarny</na></co>
+<co c="0"><na f="j/Jensen:R=_E=_Voel">R. E. Voel Jensen</na></co>
+<co c="0"><na f="j/Jiang:Lingxiao">Lingxiao Jiang</na></co>
+<co c="0"><na f="j/Jiokeng:Kevin">Kevin Jiokeng</na></co>
+<co c="0"><na f="j/Joubert:Philippe">Philippe Joubert</na></co>
+<co c="-1"><na f="j/Jul:Eric">Eric Jul</na></co>
+<co c="0"><na f="k/Kang:Hong_Jin">Hong Jin Kang</na></co>
+<co c="0"><na f="k/Krasic:Charles">Charles Krasic</na></co>
+<co c="0"><na f="l/Lacassagne:Lionel">Lionel Lacassagne</na></co>
+<co c="0"><na f="l/Lachaize:Renaud">Renaud Lachaize</na></co>
+<co c="0"><na f="l/Laurie:Ben">Ben Laurie</na></co>
+<co c="0" n="2"><na f="l/Lawall:Julia_L=">Julia L. Lawall</na><na>Julia Lawall</na></co>
+<co c="0"><na f="l/Ledoux:Thomas">Thomas Ledoux</na></co>
+<co c="0"><na f="l/Legtchenko:Sergey">Sergey Legtchenko</na></co>
+<co c="0"><na f="l/Lepers:Baptiste">Baptiste Lepers</na></co>
+<co c="0"><na f="l/Lo_0001:David">David Lo 0001</na></co>
+<co c="0"><na f="l/Lorca:Xavier">Xavier Lorca</na></co>
+<co c="0"><na f="l/Lozi:Jean=Pierre">Jean-Pierre Lozi</na></co>
+<co c="0"><na f="m/Maldonado:Walther">Walther Maldonado</na></co>
+<co c="0"><na f="m/Marant:Jer=ocirc=me">Jerôme Marant</na></co>
+<co c="0"><na f="m/Marlet:Renaud">Renaud Marlet</na></co>
+<co c="0"><na f="m/Marlier:Patrick">Patrick Marlier</na></co>
+<co c="0"><na f="m/McNamee:Dylan">Dylan McNamee</na></co>
+<co c="0"><na f="m/Menaud:Jean=Marc">Jean-Marc Menaud</na></co>
+<co c="0"><na f="m/Mercadier:Darius">Darius Mercadier</na></co>
+<co c="0"><na f="m/M=eacute=rillon:Fabrice">Fabrice Mérillon</na></co>
+<co c="0"><na f="m/Meur:Anne=Fran=ccedil=oise_Le">Anne-Françoise Le Meur</na></co>
+<co c="0"><na f="m/Mokhtar:Sonia_Ben">Sonia Ben Mokhtar</na></co>
+<co c="0"><na f="m/Monnet:S=eacute=bastien">Sébastien Monnet</na></co>
+<co c="0"><na f="m/Morin:Christine">Christine Morin</na></co>
+<co c="0"><na f="m/Mottet:Fabien">Fabien Mottet</na></co>
+<co c="0"><na f="m/Moura:B=aacute=rbara">Bárbara Moura</na></co>
+<co c="0"><na f="m/Mvondo:Djob">Djob Mvondo</na></co>
+<co c="0"><na f="n/Noy=eacute=:Jacques">Jacques Noyé</na></co>
+<co c="0"><na f="p/Padioleau:Yoann">Yoann Padioleau</na></co>
+<co c="0"><na f="p/Palinski:Derek">Derek Palinski</na></co>
+<co c="0"><na f="p/Palix:Nicolas">Nicolas Palix</na></co>
+<co c="0"><na f="p/Palma:Noel_De">Noel De Palma</na></co>
+<co c="0"><na f="p/Parrend:Pierre">Pierre Parrend</na></co>
+<co c="0"><na f="p/Peyrouze:Nadine">Nadine Peyrouze</na></co>
+<co c="0"><na f="p/Pu:Calton">Calton Pu</na></co>
+<co c="0"><na f="p/Puaut:Isabelle">Isabelle Puaut</na></co>
+<co c="0"><na f="q/Qu=eacute=ma:Vivien">Vivien Quéma</na></co>
+<co c="0"><na f="r/R=eacute=veill=egrave=re:Laurent">Laurent Réveillère</na></co>
+<co c="0" n="2"><na f="r/Riviere:Etienne">Etienne Riviere</na><na>Etienne Rivière</na></co>
+<co c="0"><na f="r/Rochat:Bruno">Bruno Rochat</na></co>
+<co c="0"><na f="s/Saha:Suman">Suman Saha</na></co>
+<co c="1"><na f="s/Saied:Mariem">Mariem Saied</na></co>
+<co c="0"><na f="s/Sanchez:Patrick">Patrick Sanchez</na></co>
+<co c="0"><na f="s/Sanghi:Dheeraj">Dheeraj Sanghi</na></co>
+<co c="0"><na f="s/Schr=ouml=der=Preikschat:Wolfgang">Wolfgang Schröder-Preikschat</na></co>
+<co c="0"><na f="s/Schultz:Ulrik_Pagh">Ulrik Pagh Schultz</na></co>
+<co c="0"><na f="s/S=eacute=gura=Devillechaise:Marc">Marc Ségura-Devillechaise</na></co>
+<co c="0"><na f="s/Sens_0001:Pierre">Pierre Sens 0001</na></co>
+<co c="0"><na f="s/Sopena:Julien">Julien Sopena</na></co>
+<co c="0"><na f="s/Spinczyk:Olaf">Olaf Spinczyk</na></co>
+<co c="0"><na f="s/Stefani:Jean=Bernard">Jean-Bernard Stefani</na></co>
+<co c="0"><na f="s/Stuart:Henrik">Henrik Stuart</na></co>
+<co c="0"><na f="s/S=uuml=dholt:Mario">Mario Südholt</na></co>
+<co c="0"><na f="s/Suissa:Adi">Adi Suissa</na></co>
+<co c="0"><na f="t/Tarachandani:A=">A. Tarachandani</na></co>
+<co c="0"><na f="t/Tchana:Alain">Alain Tchana</na></co>
+<co c="0"><na f="t/Teabe:Boris">Boris Teabe</na></co>
+<co c="0"><na f="t/Thibault:Scott">Scott Thibault</na></co>
+<co c="0"><na f="t/Thomas_0001:Ga=euml=l">Gaël Thomas 0001</na></co>
+<co c="0"><na f="t/Thung:Ferdian">Ferdian Thung</na></co>
+<co c="0"><na f="t/Tschudin:Peter_Senna">Peter Senna Tschudin</na></co>
+<co c="0"><na f="u/Urunuela:Richard">Richard Urunuela</na></co>
+<co c="0"><na f="v/Volanschi:Eugen=Nicolae">Eugen-Nicolae Volanschi</na></co>
+<co c="0"><na f="w/Wagle:Perry">Perry Wagle</na></co>
+<co c="0"><na f="w/Walpole:Jonathan">Jonathan Walpole</na></co>
+<co c="0"><na f="w/Wamhoff:Jons=Tobias">Jons-Tobias Wamhoff</na></co>
+<co c="0"><na f="w/Wapet:Patrick_Lavoisier">Patrick Lavoisier Wapet</na></co>
+<co c="0"><na f="z/Zwaenepoel:Willy">Willy Zwaenepoel</na></co>
+</coauthors>
+</dblpperson>
+

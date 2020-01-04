@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Emmanuel Saint-James" n="6">
+<person key="homepages/16/2270" mdate="2009-06-09">
+<author>Emmanuel Saint-James</author>
+</person>
+<r><article key="journals/heuristics/CarpentierAS10" mdate="2017-05-18">
+<author>Grégoire Carpentier</author>
+<author>Gérard Assayag</author>
+<author>Emmanuel Saint-James</author>
+<title>Solving the musical orchestration problem using multiobjective constrained optimization with a genetic local search approach.</title>
+<pages>681-714</pages>
+<year>2010</year>
+<volume>16</volume>
+<journal>J. Heuristics</journal>
+<number>5</number>
+<url>db/journals/heuristics/heuristics16.html#CarpentierAS10</url>
+</article>
+</r>
+<r><article key="journals/dn/Saint-James08" mdate="2017-05-27">
+<author>Emmanuel Saint-James</author>
+<title>Partitions musicales et technologies web.</title>
+<pages>45-57</pages>
+<year>2008</year>
+<volume>11</volume>
+<journal>Document Numérique</journal>
+<number>3-4</number>
+<url>db/journals/dn/dn11.html#Saint-James08</url>
+</article>
+</r>
+<r><inproceedings key="conf/evoW/CarpentierTARS07" mdate="2017-05-21">
+<author>Grégoire Carpentier</author>
+<author>Damien Tardieu</author>
+<author>Gérard Assayag</author>
+<author>Xavier Rodet</author>
+<author>Emmanuel Saint-James</author>
+<title>An Evolutionary Approach to Computer-Aided Orchestration.</title>
+<pages>488-497</pages>
+<year>2007</year>
+<crossref>conf/evoW/2007</crossref>
+<booktitle>EvoWorkshops</booktitle>
+<url>db/conf/evoW/evoW2007.html#CarpentierTARS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ep/BouzaieneGS98" mdate="2017-05-19">
+<author>Nabil Bouzaiene</author>
+<author>Loïc Le Gall</author>
+<author>Emmanuel Saint-James</author>
+<title>Une bibliothéque informatique pour la notation musicale baroque.</title>
+<pages>319-330</pages>
+<year>1998</year>
+<crossref>conf/ep/1998</crossref>
+<booktitle>EP</booktitle>
+<url>db/conf/ep/ep98.html#BouzaieneGS98</url>
+</inproceedings>
+</r>
+<r><article key="journals/ita/DurieuxS88" mdate="2019-05-24">
+<author>Jean-Louis Durieux</author>
+<author>Emmanuel Saint-James</author>
+<title>Une Charpente De Semi-Unification.</title>
+<pages>173-226</pages>
+<year>1988</year>
+<volume>22</volume>
+<journal>ITA</journal>
+<number>2</number>
+<url>db/journals/ita/ita22.html#DurieuxS88</url>
+</article>
+</r>
+<r><inproceedings key="conf/lfp/Saint-James84" mdate="2019-08-03">
+<author>Emmanuel Saint-James</author>
+<title>Recursion is More Efficient than Iteration.</title>
+<pages>228-234</pages>
+<year>1984</year>
+<crossref>conf/lfp/1984</crossref>
+<booktitle>LISP and Functional Programming</booktitle>
+<url>db/conf/lfp/lfp1984.html#Saint-James84</url>
+</inproceedings>
+</r>
+<coauthors n="7" nc="2">
+<co c="0"><na f="a/Assayag:G=eacute=rard">Gérard Assayag</na></co>
+<co c="1"><na f="b/Bouzaiene:Nabil">Nabil Bouzaiene</na></co>
+<co c="0"><na f="c/Carpentier:Gr=eacute=goire">Grégoire Carpentier</na></co>
+<co c="-1"><na f="d/Durieux:Jean=Louis">Jean-Louis Durieux</na></co>
+<co c="1"><na f="g/Gall:Lo=iuml=c_Le">Loïc Le Gall</na></co>
+<co c="0"><na f="r/Rodet:Xavier">Xavier Rodet</na></co>
+<co c="0"><na f="t/Tardieu:Damien">Damien Tardieu</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Colette Faucher" n="12">
+<person key="homepages/21/499" mdate="2009-06-09">
+<author>Colette Faucher</author>
+</person>
+<r><article key="journals/ijssci/BergierF16" mdate="2017-10-06">
+<author>Jean-Yves Bergier</author>
+<author>Colette Faucher</author>
+<title>Persuasive Communication from a Military Force to Local Civilians: A Cognitive Treatment of PsyOps Messages Based on the Elaboration Likelihood Model.</title>
+<pages>21-34</pages>
+<year>2016</year>
+<volume>8</volume>
+<journal>IJSSCI</journal>
+<number>2</number>
+<url>db/journals/ijssci/ijssci8.html#BergierF16</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEicci/BergierF16" mdate="2017-05-22">
+<author>Jean-Yves Bergier</author>
+<author>Colette Faucher</author>
+<title>Persuasive communication from a military force to local civilians: A PsyOps system based on the Elaboration Likelihood Model.</title>
+<pages>160-166</pages>
+<year>2016</year>
+<booktitle>ICCI*CC</booktitle>
+<crossref>conf/IEEEicci/2016</crossref>
+<url>db/conf/IEEEicci/IEEEicci2016.html#BergierF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asunam/ForestierBBRZVF15" mdate="2018-11-24">
+<author>Mathilde Forestier</author>
+<author>Jean-Yves Bergier</author>
+<author orcid="0000-0002-7218-2398">Youssef Bouanan</author>
+<author>Judicaël Ribault</author>
+<author orcid="0000-0001-7726-1725">Gregory Zacharewicz</author>
+<author>Bruno Vallespir</author>
+<author>Colette Faucher</author>
+<title>Generating Multidimensional Social Network to Simulate the Propagation of Information.</title>
+<pages>1324-1331</pages>
+<year>2015</year>
+<booktitle>ASONAM</booktitle>
+<crossref>conf/asunam/2015</crossref>
+<url>db/conf/asunam/asonam2015.html#ForestierBBRZVF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/culture/FaucherBF15" mdate="2017-05-25">
+<author>Colette Faucher</author>
+<author>Jean-Yves Bergier</author>
+<author>Mathilde Forestier</author>
+<title>Capturing Sub-Saharan African Sociality in Social Networks to Generate a Culturally Realistic Population.</title>
+<pages>107-112</pages>
+<year>2015</year>
+<booktitle>Culture Computing</booktitle>
+<crossref>conf/culture/2015</crossref>
+<url>db/conf/culture/culture2015.html#FaucherBF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/Faucher14" mdate="2014-07-31">
+<author>Colette Faucher</author>
+<title>Special Track on Culture-Aware AI System.</title>
+<year>2014</year>
+<booktitle>FLAIRS Conference</booktitle>
+<crossref>conf/flairs/2014</crossref>
+<url>db/conf/flairs/flairs2014.html#Faucher14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/FaucherM14" mdate="2014-07-31">
+<author>Colette Faucher</author>
+<author>Malika Machtoune</author>
+<title>Modeling the Salience of Socio-Cultural Identities in the System PSYMDEV.</title>
+<year>2014</year>
+<booktitle>FLAIRS Conference</booktitle>
+<crossref>conf/flairs/2014</crossref>
+<url>db/conf/flairs/flairs2014.html#FaucherM14</url>
+</inproceedings>
+</r>
+<r><book key="series/sci/2014-514" mdate="2017-05-16">
+<editor>Colette Faucher</editor>
+<editor>Lakhmi C. Jain</editor>
+<title>Innovations in Intelligent Machines-4 - Recent Advances in Knowledge Engineering</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<series href="db/series/sci/index.html">Studies in Computational Intelligence</series>
+<volume>514</volume>
+<isbn>978-3-319-01865-2</isbn>
+<booktitle>Innovations in Intelligent Machines (4)</booktitle>
+<url>db/series/sci/sci514.html</url>
+</book>
+</r>
+<r><inproceedings key="conf/springsim/FaucherZHF12" mdate="2012-10-14">
+<author>Colette Faucher</author>
+<author>Gregory Zacharewicz</author>
+<author>Maâmar El-Amine Hamri</author>
+<author>Claudia S. Frydman</author>
+<title>PSYOPS and CIMIC operations: from concepts to G-DEVS models.</title>
+<pages>42</pages>
+<year>2012</year>
+<booktitle>SpringSim (TMS-DEVS)</booktitle>
+<crossref>conf/springsim/2012-4</crossref>
+<url>db/conf/springsim/springsim2012-4.html#FaucherZHF12</url>
+</inproceedings>
+</r>
+<r><article key="journals/dke/Faucher01" mdate="2017-05-20">
+<author>Colette Faucher</author>
+<title>Easy definition of new facets in the frame-based language Objlog+.</title>
+<pages>223-263</pages>
+<year>2001</year>
+<volume>38</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>3</number>
+<url>db/journals/dke/dke38.html#Faucher01</url>
+</article>
+</r>
+<r><article key="journals/ijis/Faucher01" mdate="2017-05-27">
+<author>Colette Faucher</author>
+<title>Approximate knowledge modeling and classification in a frame-based language: The system CAIN.</title>
+<pages>743-780</pages>
+<year>2001</year>
+<volume>16</volume>
+<journal>Int. J. Intell. Syst.</journal>
+<number>6</number>
+<url>db/journals/ijis/ijis16.html#Faucher01</url>
+</article>
+</r>
+<r><inproceedings key="conf/ekaw/VascoFC96" mdate="2017-05-22">
+<author>João José Furtado Vasco</author>
+<author>Colette Faucher</author>
+<author>Eugène Chouraqui</author>
+<title>A Knowledge Acquisition Tool for Multi-Perspective Concept Formation.</title>
+<pages>229-244</pages>
+<year>1996</year>
+<crossref>conf/ekaw/1996</crossref>
+<booktitle>EKAW</booktitle>
+<url>db/conf/ekaw/ekaw1996.html#VascoFC96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scai/VascoFC95" mdate="2019-08-01">
+<author>João José Furtado Vasco</author>
+<author>Colette Faucher</author>
+<author>Eugène Chouraqui</author>
+<title>Incremental Concept Formation in an Object-Oriented Representation.</title>
+<pages>473-477</pages>
+<year>1995</year>
+<crossref>conf/scai/1995</crossref>
+<booktitle>SCAI</booktitle>
+<url>db/conf/scai/scai1995.html#VascoFC95</url>
+</inproceedings>
+</r>
+<coauthors n="12" nc="2">
+<co c="0"><na f="b/Bergier:Jean=Yves">Jean-Yves Bergier</na></co>
+<co c="0"><na f="b/Bouanan:Youssef">Youssef Bouanan</na></co>
+<co c="1"><na f="c/Chouraqui:Eug=egrave=ne">Eugène Chouraqui</na></co>
+<co c="0"><na f="f/Forestier:Mathilde">Mathilde Forestier</na></co>
+<co c="0"><na f="f/Frydman:Claudia_S=">Claudia S. Frydman</na></co>
+<co c="0"><na f="h/Hamri:Ma=acirc=mar_El=Amine">Maâmar El-Amine Hamri</na></co>
+<co c="0"><na f="j/Jain:Lakhmi_C=">Lakhmi C. Jain</na></co>
+<co c="-1"><na f="m/Machtoune:Malika">Malika Machtoune</na></co>
+<co c="0"><na f="r/Ribault:Judica=euml=l">Judicaël Ribault</na></co>
+<co c="0"><na f="v/Vallespir:Bruno">Bruno Vallespir</na></co>
+<co c="1"><na f="v/Vasco:Jo=atilde=o_Jos=eacute=_Furtado">João José Furtado Vasco</na></co>
+<co c="0"><na f="z/Zacharewicz:Gregory">Gregory Zacharewicz</na></co>
+</coauthors>
+</dblpperson>
+

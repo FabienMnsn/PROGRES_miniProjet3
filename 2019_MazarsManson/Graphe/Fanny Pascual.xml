@@ -1,0 +1,492 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Fanny Pascual" n="37">
+<person key="homepages/61/4953" mdate="2009-06-10">
+<author>Fanny Pascual</author>
+</person>
+<r><article key="journals/tpds/PascualR19" mdate="2019-11-07">
+<author orcid="0000-0003-0215-409X">Fanny Pascual</author>
+<author>Krzysztof Rzadca</author>
+<title>Optimizing Egalitarian Performance when Colocating Tasks with Types for Cloud Data Center Resource Management.</title>
+<pages>2523-2535</pages>
+<year>2019</year>
+<volume>30</volume>
+<journal>IEEE Trans. Parallel Distrib. Syst.</journal>
+<number>11</number>
+<url>db/journals/tpds/tpds30.html#PascualR19</url>
+</article>
+</r>
+<r><article key="journals/disopt/PhouratsamayKP18" mdate="2019-01-08">
+<author>Siao-Leu Phouratsamay</author>
+<author>Safia Kedad-Sidhoum</author>
+<author>Fanny Pascual</author>
+<title>Two-level lot-sizing with inventory bounds.</title>
+<pages>1-19</pages>
+<year>2018</year>
+<volume>30</volume>
+<journal>Discrete Optimization</journal>
+<url>db/journals/disopt/disopt30.html#PhouratsamayKP18</url>
+</article>
+</r>
+<r><article key="journals/eor/PascualR18" mdate="2018-05-06">
+<author>Fanny Pascual</author>
+<author orcid="0000-0002-4176-853X">Krzysztof Rzadca</author>
+<title>Colocating tasks in data centers using a side-effects performance model.</title>
+<pages>450-462</pages>
+<year>2018</year>
+<volume>268</volume>
+<journal>European Journal of Operational Research</journal>
+<number>2</number>
+<url>db/journals/eor/eor268.html#PascualR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/PascualRS18" mdate="2018-07-16">
+<author>Fanny Pascual</author>
+<author>Krzysztof Rzadca</author>
+<author>Piotr Skowron</author>
+<title>Collective Schedules: Scheduling Meets Computational Social Choice.</title>
+<pages>667-675</pages>
+<year>2018</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2018</crossref>
+<url>db/conf/atal/aamas2018.html#PascualRS18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-07484" mdate="2018-08-13">
+<author>Fanny Pascual</author>
+<author>Krzysztof Rzadca</author>
+<author>Piotr Skowron</author>
+<title>Collective Schedules: Scheduling Meets Computational Social Choice.</title>
+<year>2018</year>
+<volume>abs/1803.07484</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.07484</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-07484</url>
+</article>
+</r>
+<r><article key="journals/tcs/GourvesMPV17" mdate="2017-09-16">
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<author>Fanny Pascual</author>
+<author orcid="0000-0002-5934-0603">Daniel Vanderpooten</author>
+<title>Bi-objective matchings with the triangle inequality.</title>
+<pages>1-10</pages>
+<year>2017</year>
+<volume>670</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs670.html#GourvesMPV17</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/PascualR17" mdate="2017-08-18">
+<author>Fanny Pascual</author>
+<author>Krzysztof Rzadca</author>
+<title>Optimizing Egalitarian Performance in the Side-Effects Model of Colocation for Data Center Resource Management.</title>
+<pages>206-219</pages>
+<year>2017</year>
+<booktitle>Euro-Par</booktitle>
+<crossref>conf/europar/2017</crossref>
+<url>db/conf/europar/europar2017.html#PascualR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cocoon/AngelBPT16" mdate="2017-05-23">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<author>Nicolas Thibault</author>
+<title>Truthfulness for the Sum of Weighted Completion Times.</title>
+<pages>15-26</pages>
+<year>2016</year>
+<booktitle>COCOON</booktitle>
+<crossref>conf/cocoon/2016</crossref>
+<url>db/conf/cocoon/cocoon2016.html#AngelBPT16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PhouratsamayKP16" mdate="2018-08-13">
+<author>Siao-Leu Phouratsamay</author>
+<author>Safia Kedad-Sidhoum</author>
+<author>Fanny Pascual</author>
+<title>Two-level lot-sizing with inventory bounds.</title>
+<year>2016</year>
+<volume>abs/1604.02278</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.02278</ee>
+<url>db/journals/corr/corr1604.html#PhouratsamayKP16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PascualR16" mdate="2018-08-13">
+<author>Fanny Pascual</author>
+<author>Krzysztof Rzadca</author>
+<title>Optimizing egalitarian performance in the side-effects model of colocation for data~center resource management.</title>
+<year>2016</year>
+<volume>abs/1610.07339</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.07339</ee>
+<url>db/journals/corr/corr1610.html#PascualR16</url>
+</article>
+</r>
+<r><article key="journals/rairo/BlogowskiCP15" mdate="2017-05-26">
+<author>Alexandre Blogowski</author>
+<author>Philippe Chrétienne</author>
+<author>Fanny Pascual</author>
+<title>Network sharing by two mobile operators: beyond competition, cooperation.</title>
+<pages>635-650</pages>
+<year>2015</year>
+<volume>49</volume>
+<journal>RAIRO - Operations Research</journal>
+<number>3</number>
+<url>db/journals/rairo/rairo49.html#BlogowskiCP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/CohenP15" mdate="2017-05-24">
+<author>Johanne Cohen</author>
+<author>Fanny Pascual</author>
+<title>Scheduling Tasks from Selfish Multi-tasks Agents.</title>
+<pages>183-195</pages>
+<year>2015</year>
+<booktitle>Euro-Par</booktitle>
+<crossref>conf/europar/2015</crossref>
+<url>db/conf/europar/europar2015.html#CohenP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipc/PascualR15" mdate="2017-05-26">
+<author>Fanny Pascual</author>
+<author>Krzysztof Rzadca</author>
+<title>Partition with Side Effects.</title>
+<pages>295-304</pages>
+<year>2015</year>
+<booktitle>HiPC</booktitle>
+<crossref>conf/hipc/2015</crossref>
+<url>db/conf/hipc/hipc2015.html#PascualR15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/BazganGMP13" mdate="2017-05-28">
+<author>Cristina Bazgan</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<author>Fanny Pascual</author>
+<title>Single approximation for the biobjective Max TSP.</title>
+<pages>41-50</pages>
+<year>2013</year>
+<volume>478</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs478.html#BazganGMP13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciac/EscoffierMPS13" mdate="2017-05-24">
+<author>Bruno Escoffier</author>
+<author>Jérôme Monnot</author>
+<author>Fanny Pascual</author>
+<author>Olivier Spanjaard</author>
+<title>Truthful Many-to-Many Assignment with Private Weights.</title>
+<pages>209-220</pages>
+<year>2013</year>
+<booktitle>CIAC</booktitle>
+<crossref>conf/ciac/2013</crossref>
+<url>db/conf/ciac/ciac2013.html#EscoffierMPS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/aor/GourvesMP12" mdate="2013-07-10">
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<author>Fanny Pascual</author>
+<title>Cooperation in multiorganization matching.</title>
+<year>2012</year>
+<volume>7</volume>
+<journal>Algorithmic Operations Research</journal>
+<number>2</number>
+<url>db/journals/aor/aor7.html#GourvesMP12</url>
+</article>
+</r>
+<r><article key="journals/tpds/DutotPRT11" mdate="2017-05-27">
+<author>Pierre-François Dutot</author>
+<author>Fanny Pascual</author>
+<author>Krzysztof Rzadca</author>
+<author>Denis Trystram</author>
+<title>Approximation Algorithms for the Multiorganization Scheduling Problem.</title>
+<pages>1888-1895</pages>
+<year>2011</year>
+<volume>22</volume>
+<journal>IEEE Trans. Parallel Distrib. Syst.</journal>
+<number>11</number>
+<url>db/journals/tpds/tpds22.html#DutotPRT11</url>
+</article>
+</r>
+<r><inproceedings key="conf/aldt/EscoffierGTPS11" mdate="2017-05-23">
+<author>Bruno Escoffier</author>
+<author>Laurent Gourvès</author>
+<author>Nguyen Kim Thang</author>
+<author>Fanny Pascual</author>
+<author>Olivier Spanjaard</author>
+<title>Strategy-Proof Mechanisms for Facility Location Games with Many Facilities.</title>
+<pages>67-81</pages>
+<year>2011</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2011</crossref>
+<url>db/conf/aldt/adt2011.html#EscoffierGTPS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waoa/BazganGMP11" mdate="2017-05-26">
+<author>Cristina Bazgan</author>
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<author>Fanny Pascual</author>
+<title>Single Approximation for Biobjective Max TSP.</title>
+<pages>49-62</pages>
+<year>2011</year>
+<booktitle>WAOA</booktitle>
+<crossref>conf/waoa/2011</crossref>
+<url>db/conf/waoa/waoa2011.html#BazganGMP11</url>
+</inproceedings>
+</r>
+<r><article key="journals/algorithmica/DiedrichJPT10" mdate="2017-05-17">
+<author>Florian Diedrich</author>
+<author>Klaus Jansen</author>
+<author>Fanny Pascual</author>
+<author>Denis Trystram</author>
+<title>Approximation Algorithms for Scheduling with Reservations.</title>
+<pages>391-404</pages>
+<year>2010</year>
+<volume>58</volume>
+<journal>Algorithmica</journal>
+<number>2</number>
+<url>db/journals/algorithmica/algorithmica58.html#DiedrichJPT10</url>
+</article>
+</r>
+<r><article key="journals/concurrency/PascualRT09" mdate="2017-05-20">
+<author>Fanny Pascual</author>
+<author>Krzysztof Rzadca</author>
+<author>Denis Trystram</author>
+<title>Cooperation in multi-organization scheduling.</title>
+<pages>905-921</pages>
+<year>2009</year>
+<volume>21</volume>
+<journal>Concurrency and Computation: Practice and Experience</journal>
+<number>7</number>
+<url>db/journals/concurrency/concurrency21.html#PascualRT09</url>
+</article>
+</r>
+<r><article key="journals/scheduling/AngelBPT09" mdate="2017-05-20">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<author>Alex-Ariel Tchetgnia</author>
+<title>On truthfulness and approximation for scheduling selfish tasks.</title>
+<pages>437-445</pages>
+<year>2009</year>
+<volume>12</volume>
+<journal>J. Scheduling</journal>
+<number>5</number>
+<url>db/journals/scheduling/scheduling12.html#AngelBPT09</url>
+</article>
+</r>
+<r><article key="journals/anor/AngelBP08" mdate="2017-05-27">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>How good are SPT schedules for fair optimality criteria.</title>
+<pages>53-64</pages>
+<year>2008</year>
+<volume>159</volume>
+<journal>Annals OR</journal>
+<number>1</number>
+<url>db/journals/anor/anor159.html#AngelBP08</url>
+</article>
+</r>
+<r><article key="journals/jco/AngelBP08" mdate="2017-05-18">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>An exponential (matching based) neighborhood for the vehicle routing problem.</title>
+<pages>179-190</pages>
+<year>2008</year>
+<volume>15</volume>
+<journal>J. Comb. Optim.</journal>
+<number>2</number>
+<url>db/journals/jco/jco15.html#AngelBP08</url>
+</article>
+</r>
+<r><article key="journals/scheduling/AngelBP08" mdate="2017-05-20">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>The impact of local policies on the quality of packet routing in paths, trees, and rings.</title>
+<pages>311-322</pages>
+<year>2008</year>
+<volume>11</volume>
+<journal>J. Scheduling</journal>
+<number>5</number>
+<url>db/journals/scheduling/scheduling11.html#AngelBP08</url>
+</article>
+</r>
+<r><inproceedings key="conf/waoa/GourvesMP08" mdate="2017-05-26">
+<author>Laurent Gourvès</author>
+<author>Jérôme Monnot</author>
+<author>Fanny Pascual</author>
+<title>Cooperation in Multiorganization Matching.</title>
+<pages>78-91</pages>
+<year>2008</year>
+<booktitle>WAOA</booktitle>
+<crossref>conf/waoa/2008</crossref>
+<url>db/conf/waoa/waoa2008.html#GourvesMP08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jco/LiaziMPZ07" mdate="2017-05-18">
+<author>Maria Liazi</author>
+<author>Ioannis Milis</author>
+<author>Fanny Pascual</author>
+<author>Vassilis Zissimopoulos</author>
+<title>The densest <i>k</i>-subgraph problem on clique graphs.</title>
+<pages>465-474</pages>
+<year>2007</year>
+<volume>14</volume>
+<journal>J. Comb. Optim.</journal>
+<number>4</number>
+<url>db/journals/jco/jco14.html#LiaziMPZ07</url>
+</article>
+</r>
+<r><inproceedings key="conf/cocoon/ChristodoulouGP07" mdate="2017-05-23">
+<author>George Christodoulou 0001</author>
+<author>Laurent Gourvès</author>
+<author>Fanny Pascual</author>
+<title>Scheduling Selfish Tasks: About the Performance of Truthful Algorithms.</title>
+<pages>187-197</pages>
+<year>2007</year>
+<crossref>conf/cocoon/2007</crossref>
+<booktitle>COCOON</booktitle>
+<url>db/conf/cocoon/cocoon2007.html#ChristodoulouGP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/PascualRT07" mdate="2017-05-24">
+<author>Fanny Pascual</author>
+<author>Krzysztof Rzadca</author>
+<author>Denis Trystram</author>
+<title>Cooperation in Multi-organization Scheduling.</title>
+<pages>224-233</pages>
+<year>2007</year>
+<crossref>conf/europar/2007</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2007.html#PascualRT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipc/DiedrichJPT07" mdate="2017-05-26">
+<author>Florian Diedrich</author>
+<author>Klaus Jansen</author>
+<author>Fanny Pascual</author>
+<author>Denis Trystram</author>
+<title>Approximation Algorithms for Scheduling with Reservations.</title>
+<pages>297-307</pages>
+<year>2007</year>
+<crossref>conf/hipc/2007</crossref>
+<booktitle>HiPC</booktitle>
+<url>db/conf/hipc/hipc2007.html#DiedrichJPT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/AngelBPT07" mdate="2018-11-06">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<author>Alex-Ariel Tchetgnia</author>
+<title>On the truthfulness and the approximation for scheduling selfish tasks.</title>
+<pages>196-197</pages>
+<year>2007</year>
+<crossref>conf/spaa/2007</crossref>
+<booktitle>SPAA</booktitle>
+<url>db/conf/spaa/spaa2007.html#AngelBPT07</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/crc/BampisAP07" mdate="2017-07-12">
+<author>Evripidis Bampis</author>
+<author>Eric Angel</author>
+<author>Fanny Pascual</author>
+<title>Algorithmic Game Theory and Scheduling.</title>
+<year>2007</year>
+<booktitle>Handbook of Approximation Algorithms and Metaheuristics</booktitle>
+<crossref>reference/crc/2007aam</crossref>
+<url>db/reference/crc/aam2007.html#BampisAP07</url>
+</incollection>
+</r>
+<r><phdthesis key="phd/hal/Pascual06" mdate="2016-08-04">
+<author>Fanny Pascual</author>
+<title>Optimisation dans les réseaux : de l'approximation polynomiale à la théorie des jeux. (Optimization in networks: from polynomial time approximation to game theory).</title>
+<year>2006</year>
+<school>University of Évry Val d'Essonne, France</school>
+</phdthesis>
+</r>
+<r><article key="journals/tcs/AngelBP06" mdate="2017-05-28">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>Truthful algorithms for scheduling selfish tasks on parallel machines.</title>
+<pages>157-168</pages>
+<year>2006</year>
+<volume>369</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<url>db/journals/tcs/tcs369.html#AngelBP06</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/AngelBP06" mdate="2017-05-24">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>The Price of Approximate Stability for Scheduling Selfish Tasks on Two Links.</title>
+<pages>157-166</pages>
+<year>2006</year>
+<crossref>conf/europar/2006</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2006.html#AngelBP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wine/AngelBP05" mdate="2017-05-26">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>Truthful Algorithms for Scheduling Selfish Tasks on Parallel Machines.</title>
+<pages>698-707</pages>
+<year>2005</year>
+<crossref>conf/wine/2005</crossref>
+<booktitle>WINE</booktitle>
+<url>db/conf/wine/wine2005.html#AngelBP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/AngelBP04" mdate="2017-05-21">
+<author>Eric Angel</author>
+<author>Evripidis Bampis</author>
+<author>Fanny Pascual</author>
+<title>Traffic Grooming in a Passive Star WDM Network.</title>
+<pages>1-12</pages>
+<year>2004</year>
+<crossref>conf/sirocco/2004</crossref>
+<booktitle>SIROCCO</booktitle>
+<url>db/conf/sirocco/sirocco2004.html#AngelBP04</url>
+</inproceedings>
+</r>
+<coauthors n="26" nc="1">
+<co c="0"><na f="a/Angel:Eric">Eric Angel</na></co>
+<co c="0"><na f="b/Bampis:Evripidis">Evripidis Bampis</na></co>
+<co c="0"><na f="b/Bazgan:Cristina">Cristina Bazgan</na></co>
+<co c="0"><na f="b/Blogowski:Alexandre">Alexandre Blogowski</na></co>
+<co c="0"><na f="c/Chr=eacute=tienne:Philippe">Philippe Chrétienne</na></co>
+<co c="0"><na f="c/Christodoulou_0001:George">George Christodoulou 0001</na></co>
+<co c="0"><na f="c/Cohen:Johanne">Johanne Cohen</na></co>
+<co c="0"><na f="d/Diedrich:Florian">Florian Diedrich</na></co>
+<co c="0"><na f="d/Dutot:Pierre=Fran=ccedil=ois">Pierre-François Dutot</na></co>
+<co c="0"><na f="e/Escoffier:Bruno">Bruno Escoffier</na></co>
+<co c="0"><na f="g/Gourv=egrave=s:Laurent">Laurent Gourvès</na></co>
+<co c="0"><na f="j/Jansen:Klaus">Klaus Jansen</na></co>
+<co c="0"><na f="k/Kedad=Sidhoum:Safia">Safia Kedad-Sidhoum</na></co>
+<co c="0"><na f="l/Liazi:Maria">Maria Liazi</na></co>
+<co c="0"><na f="m/Milis:Ioannis">Ioannis Milis</na></co>
+<co c="0"><na f="m/Monnot:J=eacute=r=ocirc=me">Jérôme Monnot</na></co>
+<co c="0"><na f="p/Phouratsamay:Siao=Leu">Siao-Leu Phouratsamay</na></co>
+<co c="0"><na f="r/Rzadca:Krzysztof">Krzysztof Rzadca</na></co>
+<co c="0"><na f="s/Skowron:Piotr">Piotr Skowron</na></co>
+<co c="0"><na f="s/Spanjaard:Olivier">Olivier Spanjaard</na></co>
+<co c="0"><na f="t/Tchetgnia:Alex=Ariel">Alex-Ariel Tchetgnia</na></co>
+<co c="0"><na f="t/Thang:Nguyen_Kim">Nguyen Kim Thang</na></co>
+<co c="0"><na f="t/Thibault:Nicolas">Nicolas Thibault</na></co>
+<co c="0"><na f="t/Trystram:Denis">Denis Trystram</na></co>
+<co c="0"><na f="v/Vanderpooten:Daniel">Daniel Vanderpooten</na></co>
+<co c="0"><na f="z/Zissimopoulos:Vassilis">Vassilis Zissimopoulos</na></co>
+</coauthors>
+</dblpperson>
+

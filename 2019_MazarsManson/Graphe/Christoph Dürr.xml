@@ -1,0 +1,1506 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Christoph Dürr" n="109">
+<person key="homepages/d/ChristophDurr" mdate="2016-02-09">
+<author>Christoph Dürr</author>
+<note type="affiliation">École Polytechnique, Paris, France</note>
+<url>http://www.lix.polytechnique.fr/~durr/</url>
+</person>
+<r><article key="journals/dam/AngelopoulosDL19" mdate="2019-05-07">
+<author>Spyros Angelopoulos 0001</author>
+<author>Christoph Dürr</author>
+<author>Thomas Lidbetter</author>
+<title>The expanding search ratio of a graph.</title>
+<pages>51-65</pages>
+<year>2019</year>
+<volume>260</volume>
+<journal>Discrete Applied Mathematics</journal>
+<url>db/journals/dam/dam260.html#AngelopoulosDL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/stacs/0001DJ19" mdate="2019-06-01">
+<author orcid="0000-0001-9819-9158">Spyros Angelopoulos 0001</author>
+<author orcid="0000-0001-8103-5333">Christoph Dürr</author>
+<author orcid="0000-0003-1218-9085">Shendan Jin</author>
+<title>Best-Of-Two-Worlds Analysis of Online Search.</title>
+<pages>7:1-7:17</pages>
+<year>2019</year>
+<booktitle>STACS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.STACS.2019.7</ee>
+<crossref>conf/stacs/2019</crossref>
+<url>db/conf/stacs/stacs2019.html#0001DJ19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-05655" mdate="2019-05-28">
+<author>Spyros Angelopoulos 0001</author>
+<author>Christoph Dürr</author>
+<author>Shendan Jin</author>
+<author>Shahin Kamali</author>
+<author>Marc P. Renault</author>
+<title>Online Computation with Untrusted Advice.</title>
+<year>2019</year>
+<volume>abs/1905.05655</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.05655</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-05655</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-09595" mdate="2019-05-29">
+<author>Christoph Dürr</author>
+<author>Nguyen Kim Thang</author>
+<author>Abhinav Srivastav</author>
+<author>Léo Tible</author>
+<title>Non-monotone DR-submodular Maximization: Approximation and Regret Guarantees.</title>
+<year>2019</year>
+<volume>abs/1905.09595</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.09595</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-09595</url>
+</article>
+</r>
+<r><article key="journals/mst/DurrV18" mdate="2019-09-16">
+<author>Christoph Dürr</author>
+<author orcid="0000-0002-9292-1960">Heribert Vollmer</author>
+<title>Preface of STACS 2016 Special Issue.</title>
+<pages>1-3</pages>
+<year>2018</year>
+<volume>62</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s00224-017-9830-5</ee>
+<url>db/journals/mst/mst62.html#DurrV18</url>
+</article>
+</r>
+<r><article key="journals/mst/0001DKRR18" mdate="2018-09-11">
+<author>Spyros Angelopoulos 0001</author>
+<author>Christoph Dürr</author>
+<author>Shahin Kamali</author>
+<author>Marc P. Renault</author>
+<author>Adi Rosén</author>
+<title>Online Bin Packing with Advice of Small Size.</title>
+<pages>2006-2034</pages>
+<year>2018</year>
+<volume>62</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>8</number>
+<url>db/journals/mst/mst62.html#0001DKRR18</url>
+</article>
+</r>
+<r><article key="journals/scheduling/DurrHKSSVW18" mdate="2018-08-30">
+<author orcid="0000-0001-8103-5333">Christoph Dürr</author>
+<author>Zdenek Hanzálek</author>
+<author>Christian Konrad</author>
+<author>Yasmina Seddik</author>
+<author>René Sitters</author>
+<author>Óscar C. Vásquez</author>
+<author>Gerhard J. Woeginger</author>
+<title>The triangle scheduling problem.</title>
+<pages>305-312</pages>
+<year>2018</year>
+<volume>21</volume>
+<journal>J. Scheduling</journal>
+<number>3</number>
+<url>db/journals/scheduling/scheduling21.html#DurrHKSSVW18</url>
+</article>
+</r>
+<r><inproceedings key="conf/innovations/DurrEMM18" mdate="2018-11-30">
+<author>Christoph Dürr</author>
+<author>Thomas Erlebach</author>
+<author orcid="0000-0002-3531-7644">Nicole Megow</author>
+<author>Julie Meißner</author>
+<title>Scheduling with Explorable Uncertainty.</title>
+<pages>30:1-30:14</pages>
+<year>2018</year>
+<booktitle>ITCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ITCS.2018.30</ee>
+<crossref>conf/innovations/2018</crossref>
+<url>db/conf/innovations/innovations2018.html#DurrEMM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfcs/0001DJ18" mdate="2019-05-02">
+<author>Spyros Angelopoulos 0001</author>
+<author>Christoph Dürr</author>
+<author>Shendan Jin</author>
+<title>Online Maximum Matching with Recourse.</title>
+<pages>8:1-8:15</pages>
+<year>2018</year>
+<booktitle>MFCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.MFCS.2018.8</ee>
+<crossref>conf/mfcs/2018</crossref>
+<url>db/conf/mfcs/mfcs2018.html#0001DJ18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-03462" mdate="2018-08-13">
+<author>Spyros Angelopoulos 0001</author>
+<author>Christoph Dürr</author>
+<author>Shendan Jin</author>
+<title>Online Maximum Matching with Recourse.</title>
+<year>2018</year>
+<volume>abs/1801.03462</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.03462</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-03462</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-11297" mdate="2018-08-30">
+<author>Christoph Dürr</author>
+<author>Lukasz Jez</author>
+<author>Óscar C. Vásquez</author>
+<title>Scheduling under dynamic speed-scaling for minimizing weighted completion time and energy consumption.</title>
+<year>2018</year>
+<volume>abs/1805.11297</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.11297</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-11297</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-08109" mdate="2018-10-30">
+<author>Spyros Angelopoulos 0001</author>
+<author>Christoph Dürr</author>
+<author>Shendan Jin</author>
+<title>Best-of-two-worlds analysis of online search.</title>
+<year>2018</year>
+<volume>abs/1810.08109</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.08109</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-08109</url>
+</article>
+</r>
+<r><article key="journals/mst/AngelopoulosADL17" mdate="2017-05-28">
+<author>Spyros Angelopoulos 0001</author>
+<author>Diogo Arsénio</author>
+<author>Christoph Dürr</author>
+<author>Alejandro López-Ortiz</author>
+<title>Multi-processor Search and Scheduling Problems with Setup Cost.</title>
+<pages>637-670</pages>
+<year>2017</year>
+<volume>60</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>4</number>
+<url>db/journals/mst/mst60.html#AngelopoulosADL17</url>
+</article>
+</r>
+<r><article key="journals/scheduling/BansalDTV17" mdate="2018-08-30">
+<author>Nikhil Bansal</author>
+<author>Christoph Dürr</author>
+<author>Nguyen Kim Thang</author>
+<author>Óscar C. Vásquez</author>
+<title>The local-global conjecture for scheduling with non-linear cost.</title>
+<pages>239-254</pages>
+<year>2017</year>
+<volume>20</volume>
+<journal>J. Scheduling</journal>
+<number>3</number>
+<url>db/journals/scheduling/scheduling20.html#BansalDTV17</url>
+</article>
+</r>
+<r><article key="journals/tcs/AngelopoulosAD17" mdate="2017-05-28">
+<author>Spyros Angelopoulos 0001</author>
+<author>Diogo Arsénio</author>
+<author>Christoph Dürr</author>
+<title>Infinite linear programming and online searching with turn cost.</title>
+<pages>11-22</pages>
+<year>2017</year>
+<volume>670</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs670.html#AngelopoulosAD17</url>
+</article>
+</r>
+<r><article key="journals/tcs/DurrJV17" mdate="2018-08-30">
+<author orcid="0000-0001-8103-5333">Christoph Dürr</author>
+<author>Lukasz Jez</author>
+<author orcid="0000-0002-1393-4692">Óscar C. Vásquez</author>
+<title>Mechanism design for aggregating energy consumption and quality of service in speed scaling scheduling.</title>
+<pages>28-41</pages>
+<year>2017</year>
+<volume>695</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs695.html#DurrJV17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-02592" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Thomas Erlebach</author>
+<author>Nicole Megow</author>
+<author>Julie Meißner</author>
+<title>Scheduling with Explorable Uncertainty.</title>
+<year>2017</year>
+<volume>abs/1709.02592</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.02592</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-02592</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/BienkowskiBBCDF16" mdate="2018-08-23">
+<author>Marcin Bienkowski</author>
+<author orcid="0000-0003-4796-7422">Martin Böhm</author>
+<author>Jaroslaw Byrka</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Lukas Folwarczny</author>
+<author>Lukasz Jez</author>
+<author orcid="0000-0003-3658-4848">Jiri Sgall</author>
+<author>Nguyen Kim Thang</author>
+<author orcid="0000-0003-1169-7934">Pavel Veselý</author>
+<title>Online Algorithms for Multi-Level Aggregation.</title>
+<pages>12:1-12:17</pages>
+<year>2016</year>
+<booktitle>ESA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ESA.2016.12</ee>
+<crossref>conf/esa/2016</crossref>
+<url>db/conf/esa/esa2016.html#BienkowskiBBCDF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/DurrKR16" mdate="2018-08-23">
+<author>Christoph Dürr</author>
+<author>Christian Konrad</author>
+<author>Marc P. Renault</author>
+<title>On the Power of Advice and Randomization for Online Bipartite Matching.</title>
+<pages>37:1-37:16</pages>
+<year>2016</year>
+<booktitle>ESA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ESA.2016.37</ee>
+<crossref>conf/esa/2016</crossref>
+<url>db/conf/esa/esa2016.html#DurrKR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stacs/0001DL16" mdate="2018-08-23">
+<author>Spyros Angelopoulos 0001</author>
+<author>Christoph Dürr</author>
+<author>Thomas Lidbetter</author>
+<title>The Expanding Search Ratio of a Graph.</title>
+<pages>9:1-9:14</pages>
+<year>2016</year>
+<booktitle>STACS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.STACS.2016.9</ee>
+<crossref>conf/stacs/2016</crossref>
+<url>db/conf/stacs/stacs2016.html#0001DL16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DurrHKSVW16" mdate="2018-08-30">
+<author>Christoph Dürr</author>
+<author>Zdenek Hanzálek</author>
+<author>Christian Konrad</author>
+<author>René Sitters</author>
+<author>Óscar C. Vásquez</author>
+<author>Gerhard J. Woeginger</author>
+<title>The triangle scheduling problem.</title>
+<year>2016</year>
+<volume>abs/1602.04365</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.04365</ee>
+<url>db/journals/corr/corr1602.html#DurrHKSVW16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/0001DL16" mdate="2018-08-13">
+<author>Spyros Angelopoulos 0001</author>
+<author>Christoph Dürr</author>
+<author>Thomas Lidbetter</author>
+<title>The expanding search ratio of a graph.</title>
+<year>2016</year>
+<volume>abs/1602.06258</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.06258</ee>
+<url>db/journals/corr/corr1602.html#0001DL16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DurrKR16" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Christian Konrad</author>
+<author>Marc P. Renault</author>
+<title>On the Power of Advice and Randomization for Online Bipartite Matching.</title>
+<year>2016</year>
+<volume>abs/1602.07154</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.07154</ee>
+<url>db/journals/corr/corr1602.html#DurrKR16</url>
+</article>
+</r>
+<r><article key="journals/dam/DurrJV15" mdate="2017-05-28">
+<author>Christoph Dürr</author>
+<author>Lukasz Jez</author>
+<author>Oscar C. Vásquez</author>
+<title>Scheduling under dynamic speed-scaling for minimizing weighted completion time and energy consumption.</title>
+<pages>20-27</pages>
+<year>2015</year>
+<volume>196</volume>
+<journal>Discrete Applied Mathematics</journal>
+<url>db/journals/dam/dam196.html#DurrJV15</url>
+</article>
+</r>
+<r><article key="journals/scheduling/Bellenguez-Morineau15" mdate="2017-05-20">
+<author>Odile Bellenguez-Morineau</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Damien Prot</author>
+<title>A note on NP-hardness of preemptive mean flow-time scheduling for parallel machines.</title>
+<pages>299-304</pages>
+<year>2015</year>
+<volume>18</volume>
+<journal>J. Scheduling</journal>
+<number>3</number>
+<url>db/journals/scheduling/scheduling18.html#Bellenguez-Morineau15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciac/ChrobakDN15" mdate="2017-05-24">
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Bengt J. Nilsson</author>
+<title>Competitive Strategies for Online Clique Clustering.</title>
+<pages>101-113</pages>
+<year>2015</year>
+<booktitle>CIAC</booktitle>
+<crossref>conf/ciac/2015</crossref>
+<url>db/conf/ciac/ciac2015.html#ChrobakDN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wads/AngelopoulosDKR15" mdate="2017-06-05">
+<author>Spyros Angelopoulos 0001</author>
+<author>Christoph Dürr</author>
+<author>Shahin Kamali</author>
+<author orcid="0000-0001-7152-4192">Marc P. Renault</author>
+<author>Adi Rosén</author>
+<title>Online Bin Packing with Advice of Small Size.</title>
+<pages>40-53</pages>
+<year>2015</year>
+<booktitle>WADS</booktitle>
+<crossref>conf/wads/2015</crossref>
+<url>db/conf/wads/wads2015.html#AngelopoulosDKR15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DurrJV15" mdate="2018-08-30">
+<author>Christoph Dürr</author>
+<author>Lukasz Jez</author>
+<author>Óscar C. Vásquez</author>
+<title>Mechanism design for aggregating energy consumption and quality of service in speed scaling scheduling.</title>
+<year>2015</year>
+<volume>abs/1504.03586</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.03586</ee>
+<url>db/journals/corr/corr1504.html#DurrJV15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BienkowskiBBCDF15" mdate="2018-08-13">
+<author>Marcin Bienkowski</author>
+<author>Martin Böhm</author>
+<author>Jaroslaw Byrka</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Lukas Folwarczny</author>
+<author>Lukasz Jez</author>
+<author>Jirí Sgall</author>
+<author>Nguyen Kim Thang</author>
+<author>Pavel Veselý</author>
+<title>Online Algorithms for Multi-Level Aggregation.</title>
+<year>2015</year>
+<volume>abs/1507.02378</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.02378</ee>
+<url>db/journals/corr/corr1507.html#BienkowskiBBCDF15</url>
+</article>
+</r>
+<r><article key="journals/mst/DurrW14" mdate="2018-06-26">
+<author>Christoph Dürr</author>
+<author>Thomas Wilke</author>
+<title>Preface of STACS 2012 Special Issue.</title>
+<pages>637-639</pages>
+<year>2014</year>
+<volume>55</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s00224-013-9530-8</ee>
+<url>db/journals/mst/mst55.html#DurrW14</url>
+</article>
+</r>
+<r><inproceedings key="conf/alenex/DurrV14" mdate="2018-08-30">
+<author>Christoph Dürr</author>
+<author>Óscar C. Vásquez</author>
+<title>Order constraints for single machine scheduling with non-linear cost.</title>
+<pages>98-111</pages>
+<year>2014</year>
+<booktitle>ALENEX</booktitle>
+<crossref>conf/alenex/2014</crossref>
+<url>db/conf/alenex/alenex2014.html#DurrV14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Bellenguez-MorineauCDP14" mdate="2018-08-13">
+<author>Odile Bellenguez-Morineau</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Damien Prot</author>
+<title>A Note on NP-Hardness of Preemptive Mean Flow-Time Scheduling for Parallel Machines.</title>
+<year>2014</year>
+<volume>abs/1404.5424</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1404.5424</ee>
+<url>db/journals/corr/corr1404.html#Bellenguez-MorineauCDP14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ChrobakDN14" mdate="2018-08-13">
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Bengt J. Nilsson</author>
+<title>Approximation Algorithms for Clique Clustering.</title>
+<year>2014</year>
+<volume>abs/1411.4274</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1411.4274</ee>
+<url>db/journals/corr/corr1411.html#ChrobakDN14</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/BienkowskiCDHJJS13" mdate="2019-10-19">
+<author>Marcin Bienkowski</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Mathilde Hurand</author>
+<author orcid="0000-0003-4321-3105">Artur Jez</author>
+<author>Lukasz Jez</author>
+<author orcid="0000-0002-3128-4689">Grzegorz Stachowiak</author>
+<title>Collecting Weighted Items from a Dynamic Queue.</title>
+<pages>60-94</pages>
+<year>2013</year>
+<volume>65</volume>
+<journal>Algorithmica</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s00453-011-9574-6</ee>
+<url>db/journals/algorithmica/algorithmica65.html#BienkowskiCDHJJS13</url>
+</article>
+</r>
+<r><article key="journals/endm/DurrG13" mdate="2017-05-27">
+<author>Christoph Dürr</author>
+<author>Flavio Guiñez</author>
+<title>The Wide Partition Conjecture and the Atom Problem in Discrete Tomography.</title>
+<pages>351-356</pages>
+<year>2013</year>
+<volume>44</volume>
+<journal>Electronic Notes in Discrete Mathematics</journal>
+<url>db/journals/endm/endm44.html#DurrG13</url>
+</article>
+</r>
+<r><article key="journals/mst/DurrS13" mdate="2018-06-26">
+<author>Christoph Dürr</author>
+<author>Thomas Schwentick</author>
+<title>Preface of Special Issue on Theoretical Aspects of Computer Science.</title>
+<pages>123-125</pages>
+<year>2013</year>
+<volume>53</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s00224-013-9467-y</ee>
+<url>db/journals/mst/mst53.html#DurrS13</url>
+</article>
+</r>
+<r><article key="journals/tcs/BienkowskiCDHJJS13" mdate="2019-10-19">
+<author>Marcin Bienkowski</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Mathilde Hurand</author>
+<author orcid="0000-0003-4321-3105">Artur Jez</author>
+<author>Lukasz Jez</author>
+<author orcid="0000-0002-3128-4689">Grzegorz Stachowiak</author>
+<title>A <i></i>-competitive algorithm for collecting items with increasing weights from a dynamic queue.</title>
+<pages>92-102</pages>
+<year>2013</year>
+<volume>475</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs475.html#BienkowskiCDHJJS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/wine/DurrJV13" mdate="2018-08-30">
+<author>Christoph Dürr</author>
+<author>Lukasz Jez</author>
+<author>Óscar C. Vásquez</author>
+<title>Mechanism Design for Aggregating Energy Consumption and Quality of Service in Speed Scaling Scheduling.</title>
+<pages>134-145</pages>
+<year>2013</year>
+<booktitle>WINE</booktitle>
+<crossref>conf/wine/2013</crossref>
+<url>db/conf/wine/wine2013.html#DurrJV13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-6188" mdate="2018-08-30">
+<author>Christoph Dürr</author>
+<author>Óscar C. Vásquez</author>
+<title>Order constraints for single machine scheduling with non-linear cost</title>
+<ee type="oa">http://arxiv.org/abs/1304.6188</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.6188</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-6188</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/ChrobakDGLT12" mdate="2018-06-26">
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Flavio Guiñez</author>
+<author orcid="0000-0002-3633-063X">Antoni Lozano</author>
+<author>Nguyen Kim Thang</author>
+<title>Tile-Packing Tomography Is NP-hard.</title>
+<pages>267-278</pages>
+<year>2012</year>
+<volume>64</volume>
+<journal>Algorithmica</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s00453-011-9498-1</ee>
+<url>db/journals/algorithmica/algorithmica64.html#ChrobakDGLT12</url>
+</article>
+</r>
+<r><article key="journals/dam/DurrQSNW12" mdate="2017-05-28">
+<author>Christoph Dürr</author>
+<author>Maurice Queyranne</author>
+<author>Frits C. R. Spieksma</author>
+<author>Fabrice Talla Nobibon</author>
+<author>Gerhard J. Woeginger</author>
+<title>The interval ordering problem.</title>
+<pages>1094-1103</pages>
+<year>2012</year>
+<volume>160</volume>
+<journal>Discrete Applied Mathematics</journal>
+<number>7-8</number>
+<url>db/journals/dam/dam160.html#DurrQSNW12</url>
+</article>
+</r>
+<r><article key="journals/scheduling/DurrJT12" mdate="2018-06-26">
+<author>Christoph Dürr</author>
+<author>Lukasz Jez</author>
+<author>Nguyen Kim Thang</author>
+<title>Online scheduling of bounded length jobs to maximize throughput.</title>
+<pages>653-664</pages>
+<year>2012</year>
+<volume>15</volume>
+<journal>J. Scheduling</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1007/s10951-011-0233-1</ee>
+<url>db/journals/scheduling/scheduling15.html#DurrJT12</url>
+</article>
+</r>
+<r><article key="journals/siamdm/DurrGM12" mdate="2019-10-19">
+<author>Christoph Dürr</author>
+<author>Flavio Guiñez</author>
+<author orcid="0000-0001-6919-6206">Martín Matamala</author>
+<title>Reconstructing 3-Colored Grids from Horizontal and Vertical Projections is NP-Hard: A Solution to the 2-Atom Problem in Discrete Tomography.</title>
+<pages>330-352</pages>
+<year>2012</year>
+<volume>26</volume>
+<journal>SIAM J. Discrete Math.</journal>
+<number>1</number>
+<url>db/journals/siamdm/siamdm26.html#DurrGM12</url>
+</article>
+</r>
+<r><article key="journals/suscom/BampisDKM12" mdate="2019-08-26">
+<author>Evripidis Bampis</author>
+<author>Christoph Dürr</author>
+<author>Fadi Kacem</author>
+<author>Ioannis Milis</author>
+<title>Speed scaling with power down scheduling for agreeable deadlines.</title>
+<pages>184-189</pages>
+<year>2012</year>
+<volume>2</volume>
+<journal>SUSCOM</journal>
+<number>4</number>
+<url>db/journals/suscom/suscom2.html#BampisDKM12</url>
+</article>
+</r>
+<r><article key="journals/talg/BaptisteCD12" mdate="2018-11-06">
+<author>Philippe Baptiste</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<title>Polynomial-time algorithms for minimum energy scheduling.</title>
+<pages>26:1-26:29</pages>
+<year>2012</year>
+<volume>8</volume>
+<journal>ACM Trans. Algorithms</journal>
+<number>3</number>
+<url>db/journals/talg/talg8.html#BaptisteCD12</url>
+</article>
+</r>
+<r><inproceedings key="conf/stacs/DurrW12" mdate="2018-08-23">
+<author>Christoph Dürr</author>
+<author>Thomas Wilke</author>
+<title>Frontmatter, Foreword, Conference Organization, External Reviewers, Table of Contents.</title>
+<year>2012</year>
+<booktitle>STACS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.STACS.2012.i</ee>
+<crossref>conf/stacs/2012</crossref>
+<url>db/conf/stacs/stacs2012.html#DurrW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waoa/DurrMRZ12" mdate="2017-05-26">
+<author>Christoph Dürr</author>
+<author>Ioannis Milis</author>
+<author>Julien Robert</author>
+<author>Georgios Zois</author>
+<title>Approximating the Throughput by Coolest First Scheduling.</title>
+<pages>187-200</pages>
+<year>2012</year>
+<booktitle>WAOA</booktitle>
+<crossref>conf/waoa/2012</crossref>
+<url>db/conf/waoa/waoa2012.html#DurrMRZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wine/CohenDT12" mdate="2017-05-26">
+<author>Johanne Cohen</author>
+<author>Christoph Dürr</author>
+<author>Nguyen Kim Thang</author>
+<title>Smooth Inequalities and Equilibrium Inefficiency in Scheduling Games.</title>
+<pages>350-363</pages>
+<year>2012</year>
+<booktitle>WINE</booktitle>
+<crossref>conf/wine/2012</crossref>
+<url>db/conf/wine/wine2012.html#CohenDT12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/stacs/2012" mdate="2013-02-26">
+<editor>Christoph Dürr</editor>
+<editor>Thomas Wilke</editor>
+<title>29th International Symposium on Theoretical Aspects of Computer Science, STACS 2012, February 29th - March 3rd, 2012, Paris, France</title>
+<booktitle>STACS</booktitle>
+<volume>14</volume>
+<year>2012</year>
+<isbn>978-3-939897-35-4</isbn>
+<publisher>Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik</publisher>
+<series href="db/series/lipics/index.html">LIPIcs</series>
+<url>db/conf/stacs/stacs2012.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1202-4302" mdate="2018-08-13">
+<author>Johanne Cohen</author>
+<author>Christoph Dürr</author>
+<author>Nguyen Kim Thang</author>
+<title>Smooth Inequalities and Equilibrium Inefficiency in Scheduling Games</title>
+<ee type="oa">http://arxiv.org/abs/1202.4302</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1202.4302</volume>
+<url>db/journals/corr/corr1202.html#abs-1202-4302</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/DurrH11" mdate="2017-05-17">
+<author>Christoph Dürr</author>
+<author>Mathilde Hurand</author>
+<title>Finding Total Unimodularity in Optimization Problems Solved by Linear Programs.</title>
+<pages>256-268</pages>
+<year>2011</year>
+<volume>59</volume>
+<journal>Algorithmica</journal>
+<number>2</number>
+<url>db/journals/algorithmica/algorithmica59.html#DurrH11</url>
+</article>
+</r>
+<r><article key="journals/mst/CohenDT11" mdate="2017-05-28">
+<author>Johanne Cohen</author>
+<author>Christoph Dürr</author>
+<author>Nguyen Kim Thang</author>
+<title>Non-clairvoyant Scheduling Games.</title>
+<pages>3-23</pages>
+<year>2011</year>
+<volume>49</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>1</number>
+<url>db/journals/mst/mst49.html#CohenDT11</url>
+</article>
+</r>
+<r><article key="journals/suscom/ChrobakDHR11" mdate="2019-08-26">
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Mathilde Hurand</author>
+<author>Julien Robert</author>
+<title>Algorithms for temperature-aware task scheduling in microprocessor systems.</title>
+<pages>241-247</pages>
+<year>2011</year>
+<volume>1</volume>
+<journal>SUSCOM</journal>
+<number>3</number>
+<url>db/journals/suscom/suscom1.html#ChrobakDHR11</url>
+</article>
+</r>
+<r><inproceedings key="conf/stacs/SchwentickD11" mdate="2018-08-23">
+<author>Thomas Schwentick</author>
+<author>Christoph Dürr</author>
+<title>Frontmatter, Table of Contents, Preface, Conference Organization.</title>
+<year>2011</year>
+<booktitle>STACS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.STACS.2011.i</ee>
+<crossref>conf/stacs/2011</crossref>
+<url>db/conf/stacs/stacs2011.html#SchwentickD11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/stacs/2011" mdate="2011-03-21">
+<editor>Thomas Schwentick</editor>
+<editor>Christoph Dürr</editor>
+<title>28th International Symposium on Theoretical Aspects of Computer Science, STACS 2011, March 10-12, 2011, Dortmund, Germany</title>
+<booktitle>STACS</booktitle>
+<volume>9</volume>
+<year>2011</year>
+<isbn>978-3-939897-25-5</isbn>
+<publisher>Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik</publisher>
+<series href="db/series/lipics/index.html">LIPIcs</series>
+<url>db/conf/stacs/stacs2011.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1101-1256" mdate="2018-08-13">
+<author>Johanne Cohen</author>
+<author>Christoph Dürr</author>
+<author>Nguyen Kim Thang</author>
+<title>Non-clairvoyant Scheduling Games</title>
+<ee type="oa">http://arxiv.org/abs/1101.1256</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1101.1256</volume>
+<url>db/journals/corr/corr1101.html#abs-1101-1256</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1111-3398" mdate="2018-08-13">
+<author>Evripidis Bampis</author>
+<author>Christoph Dürr</author>
+<author>Fadi Kacem</author>
+<author>Ioannis Milis</author>
+<title>Speed scaling with power down scheduling for agreeable deadlines</title>
+<ee type="oa">http://arxiv.org/abs/1111.3398</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1111.3398</volume>
+<url>db/journals/corr/corr1111.html#abs-1111-3398</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1112-0534" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Maurice Queyranne</author>
+<author>Frits C. R. Spieksma</author>
+<author>Fabrice Talla Nobibon</author>
+<author>Gerhard J. Woeginger</author>
+<title>The interval ordering problem</title>
+<ee type="oa">http://arxiv.org/abs/1112.0534</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1112.0534</volume>
+<url>db/journals/corr/corr1112.html#abs-1112-0534</url>
+</article>
+</r>
+<r><inproceedings key="conf/cocoon/ChrobakDGLT10" mdate="2017-09-16">
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Flavio Guiñez</author>
+<author orcid="0000-0002-3633-063X">Antoni Lozano</author>
+<author>Nguyen Kim Thang</author>
+<title>Tile-Packing Tomography Is \mathbb<i>NP</i>{\mathbb{NP}}-hard.</title>
+<pages>254-263</pages>
+<year>2010</year>
+<booktitle>COCOON</booktitle>
+<crossref>conf/cocoon/2010</crossref>
+<url>db/conf/cocoon/cocoon2010.html#ChrobakDGLT10</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/ChrobakBD10" mdate="2018-08-23">
+<author>Marek Chrobak</author>
+<author>Philippe Baptiste</author>
+<author>Christoph Dürr</author>
+<title>Polynomial Time Algorithms for Minimum Energy Scheduling.</title>
+<year>2010</year>
+<booktitle>Scheduling</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2010/2535/</ee>
+<crossref>conf/dagstuhl/2010P10071</crossref>
+<url>db/conf/dagstuhl/P10071.html#ChrobakBD10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/DurrGM09" mdate="2019-10-19">
+<author>Christoph Dürr</author>
+<author>Flavio Guiñez</author>
+<author orcid="0000-0001-6919-6206">Martín Matamala</author>
+<title>Reconstructing 3-Colored Grids from Horizontal and Vertical Projections Is NP-hard.</title>
+<pages>776-787</pages>
+<year>2009</year>
+<booktitle>ESA</booktitle>
+<crossref>conf/esa/2009</crossref>
+<url>db/conf/esa/esa2009.html#DurrGM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sagt/DurrT09" mdate="2017-05-21">
+<author>Christoph Dürr</author>
+<author>Nguyen Kim Thang</author>
+<title>Non-clairvoyant Scheduling Games.</title>
+<pages>135-146</pages>
+<year>2009</year>
+<booktitle>SAGT</booktitle>
+<crossref>conf/sagt/2009</crossref>
+<url>db/conf/sagt/sagt2009.html#DurrT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/BienkowskiCDHJJS09" mdate="2012-12-07">
+<author>Marcin Bienkowski</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Mathilde Hurand</author>
+<author>Artur Jez</author>
+<author>Lukasz Jez</author>
+<author>Grzegorz Stachowiak</author>
+<title>Collecting weighted items from a dynamic queue.</title>
+<pages>1126-1135</pages>
+<year>2009</year>
+<booktitle>SODA</booktitle>
+<crossref>conf/soda/2009</crossref>
+<url>db/conf/soda/soda2009.html#BienkowskiCDHJJS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waoa/DurrJT09" mdate="2017-05-26">
+<author>Christoph Dürr</author>
+<author>Lukasz Jez</author>
+<author>Nguyen Kim Thang</author>
+<title>Online Scheduling of Bounded Length Jobs to Maximize Throughput.</title>
+<pages>116-127</pages>
+<year>2009</year>
+<booktitle>WAOA</booktitle>
+<crossref>conf/waoa/2009</crossref>
+<url>db/conf/waoa/waoa2009.html#DurrJT09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0902-2209" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Lukasz Jez</author>
+<author>Nguyen Kim Thang</author>
+<title>Online Scheduling of Bounded Length Jobs to Maximize Throughput</title>
+<ee type="oa">http://arxiv.org/abs/0902.2209</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0902.2209</volume>
+<url>db/journals/corr/corr0902.html#abs-0902-2209</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-3169" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Flavio Guiñez</author>
+<author>Martín Matamala</author>
+<title>Reconstructing 3-colored grids from horizontal and vertical projections is NP-hard</title>
+<ee type="oa">http://arxiv.org/abs/0904.3169</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.3169</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-3169</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0908-3505" mdate="2018-08-13">
+<author>Philippe Baptiste</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<title>Polynomial Time Algorithms for Minimum Energy Scheduling</title>
+<ee type="oa">http://arxiv.org/abs/0908.3505</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0908.3505</volume>
+<url>db/journals/corr/corr0908.html#abs-0908-3505</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0911-2567" mdate="2018-08-13">
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Flavio Guiñez</author>
+<author>Antoni Lozano</author>
+<author>Nguyen Kim Thang</author>
+<title>Tile Packing Tomography is NP-hard</title>
+<ee type="oa">http://arxiv.org/abs/0911.2567</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0911.2567</volume>
+<url>db/journals/corr/corr0911.html#abs-0911-2567</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/JaworCD08" mdate="2017-05-17">
+<author>Wojciech Jawor</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<title>Competitive Analysis of Scheduling Algorithms for Aggregated Links.</title>
+<pages>367-386</pages>
+<year>2008</year>
+<volume>51</volume>
+<journal>Algorithmica</journal>
+<number>4</number>
+<url>db/journals/algorithmica/algorithmica51.html#JaworCD08</url>
+</article>
+</r>
+<r><article key="journals/eor/ArtiouchineBD08" mdate="2017-05-27">
+<author>Konstantin Artiouchine</author>
+<author>Philippe Baptiste</author>
+<author>Christoph Dürr</author>
+<title>Runway sequencing with holding patterns.</title>
+<pages>1254-1266</pages>
+<year>2008</year>
+<volume>189</volume>
+<journal>European Journal of Operational Research</journal>
+<number>3</number>
+<url>db/journals/eor/eor189.html#ArtiouchineBD08</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaim/ChrobakDHR08" mdate="2017-05-24">
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Mathilde Hurand</author>
+<author>Julien Robert</author>
+<title>Algorithms for Temperature-Aware Task Scheduling in Microprocessor Systems.</title>
+<pages>120-130</pages>
+<year>2008</year>
+<booktitle>AAIM</booktitle>
+<crossref>conf/aaim/2008</crossref>
+<url>db/conf/aaim/aaim2008.html#ChrobakDHR08</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0801-4238" mdate="2018-08-13">
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Mathilde Hurand</author>
+<author>Julien Robert</author>
+<title>Algorithms for Temperature-Aware Task Scheduling in Microprocessor Systems</title>
+<ee type="oa">http://arxiv.org/abs/0801.4238</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0801.4238</volume>
+<url>db/journals/corr/corr0801.html#abs-0801-4238</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0802-1685" mdate="2018-08-13">
+<author>Marcin Bienkowski</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Mathilde Hurand</author>
+<author>Artur Jez</author>
+<author>Lukasz Jez</author>
+<author>Jakub Lopuszanski</author>
+<author>Grzegorz Stachowiak</author>
+<title>Generalized Whac-a-Mole</title>
+<ee type="oa">http://arxiv.org/abs/0802.1685</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0802.1685</volume>
+<url>db/journals/corr/corr0802.html#abs-0802-1685</url>
+</article>
+</r>
+<r><article key="journals/scheduling/BaptisteBCDKS07" mdate="2017-05-20">
+<author>Philippe Baptiste</author>
+<author>Peter Brucker</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Svetlana A. Kravchenko</author>
+<author>Francis Sourd</author>
+<title>The complexity of mean flow time scheduling problems with release times.</title>
+<pages>139-146</pages>
+<year>2007</year>
+<volume>10</volume>
+<journal>J. Scheduling</journal>
+<number>2</number>
+<url>db/journals/scheduling/scheduling10.html#BaptisteBCDKS07</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/DurrT07" mdate="2017-05-26">
+<author>Christoph Dürr</author>
+<author>Nguyen Kim Thang</author>
+<title>Nash Equilibria in Voronoi Games on Graphs.</title>
+<pages>17-28</pages>
+<year>2007</year>
+<crossref>conf/esa/2007</crossref>
+<booktitle>ESA</booktitle>
+<url>db/conf/esa/esa2007.html#DurrT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/BaptisteCD07" mdate="2017-05-26">
+<author>Philippe Baptiste</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<title>Polynomial Time Algorithms for Minimum Energy Scheduling.</title>
+<pages>136-150</pages>
+<year>2007</year>
+<crossref>conf/esa/2007</crossref>
+<booktitle>ESA</booktitle>
+<url>db/conf/esa/esa2007.html#BaptisteCD07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0702054" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Nguyen Kim Thang</author>
+<title>Nash equilibria in Voronoi games on graphs</title>
+<ee type="oa">http://arxiv.org/abs/cs/0702054</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0702054</volume>
+<url>db/journals/corr/corr0702.html#abs-cs-0702054</url>
+</article>
+</r>
+<r><book publtype="habil" key="books/hal/Durr06" mdate="2017-09-28">
+<author>Christoph Dürr</author>
+<title>Tomographie discrète, calcul quantique et ordonnancement. (Discrete tomography, quantum computation and scheduling).</title>
+<year>2006</year>
+<school>University of Paris-Sud, Orsay, France</school>
+</book>
+</r>
+<r><article key="journals/scheduling/ChrobakDJKK06" mdate="2017-05-20">
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Wojciech Jawor</author>
+<author>Lukasz Kowalik</author>
+<author>Maciej Kurowski</author>
+<title>A Note on Scheduling Equal-Length Jobs to Maximize Throughput.</title>
+<pages>71-73</pages>
+<year>2006</year>
+<volume>9</volume>
+<journal>J. Scheduling</journal>
+<number>1</number>
+<url>db/journals/scheduling/scheduling9.html#ChrobakDJKK06</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/DurrHHM06" mdate="2019-06-02">
+<author>Christoph Dürr</author>
+<author>Mark Heiligman</author>
+<author orcid="0000-0001-9877-268X">Peter Høyer</author>
+<author>Mehdi Mhalla</author>
+<title>Quantum Query Complexity of Some Graph Problems.</title>
+<pages>1310-1328</pages>
+<year>2006</year>
+<volume>35</volume>
+<journal>SIAM J. Comput.</journal>
+<number>6</number>
+<url>db/journals/siamcomp/siamcomp35.html#DurrHHM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/DurrH06" mdate="2017-05-26">
+<author>Christoph Dürr</author>
+<author>Mathilde Hurand</author>
+<title>Finding Total Unimodularity in Optimization Problems Solved by Linear Programs.</title>
+<pages>315-326</pages>
+<year>2006</year>
+<crossref>conf/esa/2006</crossref>
+<booktitle>ESA</booktitle>
+<url>db/conf/esa/esa2006.html#DurrH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latin/JaworCD06" mdate="2017-05-23">
+<author>Wojciech Jawor</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<title>Competitive Analysis of Scheduling Algorithms for Aggregated Links.</title>
+<pages>617-628</pages>
+<year>2006</year>
+<crossref>conf/latin/2006</crossref>
+<booktitle>LATIN</booktitle>
+<url>db/conf/latin/latin2006.html#JaworCD06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0602016" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Mathilde Hurand</author>
+<title>Finding total unimodularity in optimization problems solved by linear programs</title>
+<ee type="oa">http://arxiv.org/abs/cs/0602016</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0602016</volume>
+<url>db/journals/corr/corr0602.html#abs-cs-0602016</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0605078" mdate="2018-08-13">
+<author>Philippe Baptiste</author>
+<author>Peter Brucker</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Svetlana A. Kravchenko</author>
+<author>Francis Sourd</author>
+<title>The Complexity of Mean Flow Time Scheduling Problems with Release Times</title>
+<ee type="oa">http://arxiv.org/abs/cs/0605078</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0605078</volume>
+<url>db/journals/corr/corr0605.html#abs-cs-0605078</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/BuhrmanD05" mdate="2019-06-02">
+<author>Harry Buhrman</author>
+<author>Christoph Dürr</author>
+<author>Mark Heiligman</author>
+<author orcid="0000-0001-9877-268X">Peter Høyer</author>
+<author>Frédéric Magniez</author>
+<author>Miklos Santha</author>
+<author>Ronald de Wolf</author>
+<title>Quantum Algorithms for Element Distinctness.</title>
+<pages>1324-1330</pages>
+<year>2005</year>
+<volume>34</volume>
+<journal>SIAM J. Comput.</journal>
+<number>6</number>
+<url>db/journals/siamcomp/siamcomp34.html#BuhrmanD05</url>
+</article>
+</r>
+<r><article key="journals/orl/BaptisteCDJV04" mdate="2017-05-27">
+<author>Philippe Baptiste</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Wojciech Jawor</author>
+<author>Nodari Vakhania</author>
+<title>Preemptive scheduling of equal-length jobs to maximize weighted throughput.</title>
+<pages>258-264</pages>
+<year>2004</year>
+<volume>32</volume>
+<journal>Oper. Res. Lett.</journal>
+<number>3</number>
+<url>db/journals/orl/orl32.html#BaptisteCDJV04</url>
+</article>
+</r>
+<r><article key="journals/tcs/DurrRT04" mdate="2017-06-14">
+<author>Christoph Dürr</author>
+<author orcid="0000-0002-2969-5083">Ivan Rapaport</author>
+<author>Guillaume Theyssier</author>
+<title>Cellular automata and communication complexity.</title>
+<pages>355-368</pages>
+<year>2004</year>
+<volume>322</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>2</number>
+<url>db/journals/tcs/tcs322.html#DurrRT04</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalp/DurrHHM04" mdate="2017-05-23">
+<author>Christoph Dürr</author>
+<author>Mark Heiligman</author>
+<author>Peter Høyer</author>
+<author>Mehdi Mhalla</author>
+<title>Quantum Query Complexity of Some Graph Problems.</title>
+<pages>481-493</pages>
+<year>2004</year>
+<crossref>conf/icalp/2004</crossref>
+<booktitle>ICALP</booktitle>
+<url>db/conf/icalp/icalp2004.html#DurrHHM04</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0412094" mdate="2018-08-13">
+<author>Philippe Baptiste</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Francis Sourd</author>
+<title>Preemptive Multi-Machine Scheduling of Equal-Length Jobs to Minimize the Average Flow Time</title>
+<ee type="oa">http://arxiv.org/abs/cs/0412094</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0412094</volume>
+<url>db/journals/corr/corr0412.html#abs-cs-0412094</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DS-0410046" mdate="2018-08-13">
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Wojciech Jawor</author>
+<author>Lukasz Kowalik</author>
+<author>Maciej Kurowski</author>
+<title>A Note on Scheduling Equal-Length Jobs to Maximize Throughput</title>
+<ee type="oa">http://arxiv.org/abs/cs.DS/0410046</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.DS/0410046</volume>
+<url>db/journals/corr/corr0410.html#cs-DS-0410046</url>
+</article>
+</r>
+<r><article key="journals/tcs/DurrCRR03" mdate="2017-06-14">
+<author>Christoph Dürr</author>
+<author>Eric Goles Ch.</author>
+<author orcid="0000-0002-2969-5083">Ivan Rapaport</author>
+<author>Eric Rémila</author>
+<title>Tiling with bars under tomographic constraints.</title>
+<pages>1317-1329</pages>
+<year>2003</year>
+<volume>290</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>3</number>
+<url>db/journals/tcs/tcs290.html#DurrCRR03</url>
+</article>
+</r>
+<r><article key="journals/tcs/ChrobakCDW03" mdate="2017-05-28">
+<author>Marek Chrobak</author>
+<author>Peter Couperus</author>
+<author>Christoph Dürr</author>
+<author>Gerhard J. Woeginger</author>
+<title>On tiling under tomographic constraints.</title>
+<pages>2125-2136</pages>
+<year>2003</year>
+<volume>290</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>3</number>
+<url>db/journals/tcs/tcs290.html#ChrobakCDW03</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/DurrS02" mdate="2017-05-27">
+<author>Christoph Dürr</author>
+<author>Miklos Santha</author>
+<title>A Decision Procedure for Unitary Linear Quantum Cellular Automata.</title>
+<pages>1076-1089</pages>
+<year>2002</year>
+<volume>31</volume>
+<journal>SIAM J. Comput.</journal>
+<number>4</number>
+<url>db/journals/siamcomp/siamcomp31.html#DurrS02</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-CC-0210008" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Ivan Rapaport</author>
+<author>Guillaume Theyssier</author>
+<title>Cellular automata and communication complexity</title>
+<ee type="oa">http://arxiv.org/abs/cs.CC/0210008</ee>
+<year>2002</year>
+<journal>CoRR</journal>
+<volume>cs.CC/0210008</volume>
+<url>db/journals/corr/corr0210.html#cs-CC-0210008</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DS-0209033" mdate="2018-08-13">
+<author>Philippe Baptiste</author>
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<author>Wojciech Jawor</author>
+<author>Nodari Vakhania</author>
+<title>Preemptive Scheduling of Equal-Length Jobs to Maximize Weighted Throughput</title>
+<ee type="oa">http://arxiv.org/abs/cs.DS/0209033</ee>
+<year>2002</year>
+<journal>CoRR</journal>
+<volume>cs.DS/0209033</volume>
+<url>db/journals/corr/corr0209.html#cs-DS-0209033</url>
+</article>
+</r>
+<r><article key="journals/tcs/ChrobakD01" mdate="2017-05-28">
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<title>Reconstructing polyatomic structures from discrete X-rays: NP-completeness proof for three atoms.</title>
+<pages>81-98</pages>
+<year>2001</year>
+<volume>259</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs259.html#ChrobakD01</url>
+</article>
+</r>
+<r><inproceedings key="conf/coco/BuhrmanDHHMSW01" mdate="2019-12-20">
+<author>Harry Buhrman</author>
+<author>Christoph Dürr</author>
+<author>Mark Heiligman</author>
+<author orcid="0000-0001-9877-268X">Peter Høyer</author>
+<author>Frédéric Magniez</author>
+<author>Miklos Santha</author>
+<author>Ronald de Wolf</author>
+<title>Quantum Algorithms for Element Distinctness.</title>
+<pages>131-137</pages>
+<year>2001</year>
+<crossref>conf/coco/2001</crossref>
+<booktitle>Computational Complexity Conference</booktitle>
+<url>db/conf/coco/coco2001.html#BuhrmanDHHMSW01</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-CC-0108010" mdate="2018-08-13">
+<author>Marek Chrobak</author>
+<author>Peter Couperus</author>
+<author>Christoph Dürr</author>
+<author>Gerhard J. Woeginger</author>
+<title>A Note on Tiling under Tomographic Constraints</title>
+<ee type="oa">http://arxiv.org/abs/cs.CC/0108010</ee>
+<year>2001</year>
+<journal>CoRR</journal>
+<volume>cs.CC/0108010</volume>
+<url>db/journals/corr/corr0108.html#cs-CC-0108010</url>
+</article>
+</r>
+<r><article key="journals/ipl/ChrobakD99" mdate="2018-11-14">
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<title>Reconstructing hv-Convex Polyominoes from Orthogonal Projections.</title>
+<pages>283-289</pages>
+<year>1999</year>
+<volume>69</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl69.html#ChrobakD99</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DS-9903020" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Eric Goles Ch.</author>
+<author>Ivan Rapaport</author>
+<author>Eric Rémila</author>
+<title>Tiling with bars under tomographic constraints</title>
+<ee type="oa">http://arxiv.org/abs/cs.DS/9903020</ee>
+<year>1999</year>
+<journal>CoRR</journal>
+<volume>cs.DS/9903020</volume>
+<url>db/journals/corr/corr9903.html#cs-DS-9903020</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DS-9906018" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Marek Chrobak</author>
+<title>Reconstructing Polyatomic Structures from Discrete X-Rays: NP-Completeness Proof for Three Atoms</title>
+<ee type="oa">http://arxiv.org/abs/cs.DS/9906018</ee>
+<year>1999</year>
+<journal>CoRR</journal>
+<volume>cs.DS/9906018</volume>
+<url>db/journals/corr/corr9906.html#cs-DS-9906018</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DS-9906021" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Marek Chrobak</author>
+<title>Reconstructing hv-Convex Polyominoes from Orthogonal Projections</title>
+<ee type="oa">http://arxiv.org/abs/cs.DS/9906021</ee>
+<year>1999</year>
+<journal>CoRR</journal>
+<volume>cs.DS/9906021</volume>
+<url>db/journals/corr/corr9906.html#cs-DS-9906021</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DS-9906024" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Huong Lê Thanh</author>
+<author>Miklos Santha</author>
+<title>A decision procedure for well-formed linear quantum cellular automata</title>
+<ee type="oa">http://arxiv.org/abs/cs.DS/9906024</ee>
+<year>1999</year>
+<journal>CoRR</journal>
+<volume>cs.DS/9906024</volume>
+<url>db/journals/corr/corr9906.html#cs-DS-9906024</url>
+</article>
+</r>
+<r><inproceedings key="conf/mfcs/ChrobakD98" mdate="2017-05-23">
+<author>Marek Chrobak</author>
+<author>Christoph Dürr</author>
+<title>Reconstructing Polyatomic Structures from Discrete X-Rays: NP-Completeness Proof for Three Atoms.</title>
+<pages>185-193</pages>
+<year>1998</year>
+<crossref>conf/mfcs/1998</crossref>
+<booktitle>MFCS</booktitle>
+<url>db/conf/mfcs/mfcs98.html#ChrobakD98</url>
+</inproceedings>
+</r>
+<r><article key="journals/rsa/DurrLS97" mdate="2017-05-26">
+<author>Christoph Dürr</author>
+<author>Huong Lê Thanh</author>
+<author>Miklos Santha</author>
+<title>A decision procedure for well-formed linear quantum cellular automata.</title>
+<pages>381-394</pages>
+<year>1997</year>
+<volume>11</volume>
+<journal>Random Struct. Algorithms</journal>
+<number>4</number>
+<url>db/journals/rsa/rsa11.html#DurrLS97</url>
+</article>
+</r>
+<r><inproceedings key="conf/focs/DurrS96" mdate="2017-05-19">
+<author>Christoph Dürr</author>
+<author>Miklos Santha</author>
+<title>A Decision Procedure for Unitary Linear Quantum Cellular Automata.</title>
+<pages>38-45</pages>
+<year>1996</year>
+<crossref>conf/focs/1996</crossref>
+<booktitle>FOCS</booktitle>
+<url>db/conf/focs/focs96.html#DurrS96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stacs/DurrTS96" mdate="2017-05-22">
+<author>Christoph Dürr</author>
+<author>Huong Lê Thanh</author>
+<author>Miklos Santha</author>
+<title>A Decision Procedure for Well-Formed Linear Quantum Cellular Automata.</title>
+<pages>281-292</pages>
+<year>1996</year>
+<crossref>conf/stacs/1996</crossref>
+<booktitle>STACS</booktitle>
+<url>db/conf/stacs/stacs96.html#DurrTS96</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/quant-ph-9604007" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Miklos Santha</author>
+<title>A decision procedure for unitary linear quantum cellular automata</title>
+<ee type="oa">http://arxiv.org/abs/quant-ph/9604007</ee>
+<year>1996</year>
+<journal>CoRR</journal>
+<volume>quant-ph/9604007</volume>
+<url>db/journals/corr/corr9604.html#quant-ph-9604007</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/quant-ph-9607014" mdate="2018-08-13">
+<author>Christoph Dürr</author>
+<author>Peter Høyer</author>
+<title>A Quantum Algorithm for Finding the Minimum</title>
+<ee type="oa">http://arxiv.org/abs/quant-ph/9607014</ee>
+<year>1996</year>
+<journal>CoRR</journal>
+<volume>quant-ph/9607014</volume>
+<url>db/journals/corr/corr9607.html#quant-ph-9607014</url>
+</article>
+</r>
+<coauthors n="73" nc="2">
+<co c="0"><na f="a/Angelopoulos_0001:Spyros">Spyros Angelopoulos 0001</na></co>
+<co c="0"><na f="a/Ars=eacute=nio:Diogo">Diogo Arsénio</na></co>
+<co c="0"><na f="a/Artiouchine:Konstantin">Konstantin Artiouchine</na></co>
+<co c="0"><na f="b/Bampis:Evripidis">Evripidis Bampis</na></co>
+<co c="0"><na f="b/Bansal:Nikhil">Nikhil Bansal</na></co>
+<co c="0"><na f="b/Baptiste:Philippe">Philippe Baptiste</na></co>
+<co c="0"><na f="b/Bellenguez=Morineau:Odile">Odile Bellenguez-Morineau</na></co>
+<co c="0"><na f="b/Bienkowski:Marcin">Marcin Bienkowski</na></co>
+<co c="0"><na f="b/B=ouml=hm:Martin">Martin Böhm</na></co>
+<co c="0"><na f="b/Brucker:Peter">Peter Brucker</na></co>
+<co c="0"><na f="b/Buhrman:Harry">Harry Buhrman</na></co>
+<co c="0"><na f="b/Byrka:Jaroslaw">Jaroslaw Byrka</na></co>
+<co c="0"><na f="c/Ch=:Eric_Goles">Eric Goles Ch.</na></co>
+<co c="0"><na f="c/Chrobak:Marek">Marek Chrobak</na></co>
+<co c="0"><na f="c/Cohen:Johanne">Johanne Cohen</na></co>
+<co c="0"><na f="c/Couperus:Peter">Peter Couperus</na></co>
+<co c="0"><na f="e/Erlebach:Thomas">Thomas Erlebach</na></co>
+<co c="0"><na f="f/Folwarczny:Lukas" bibtex="Luk\'a\v{s} Folwarczn\'y">Lukas Folwarczny</na></co>
+<co c="0"><na f="g/Gui=ntilde=ez:Flavio">Flavio Guiñez</na></co>
+<co c="0"><na f="h/Hanz=aacute=lek:Zdenek">Zdenek Hanzálek</na></co>
+<co c="0"><na f="h/Heiligman:Mark">Mark Heiligman</na></co>
+<co c="0"><na f="h/H=oslash=yer:Peter">Peter Høyer</na></co>
+<co c="0"><na f="h/Hurand:Mathilde">Mathilde Hurand</na></co>
+<co c="0"><na f="j/Jawor:Wojciech">Wojciech Jawor</na></co>
+<co c="0"><na f="j/Jez:Artur">Artur Jez</na></co>
+<co c="0"><na f="j/Jez:Lukasz">Lukasz Jez</na></co>
+<co c="0"><na f="j/Jin:Shendan">Shendan Jin</na></co>
+<co c="0"><na f="k/Kacem:Fadi">Fadi Kacem</na></co>
+<co c="0"><na f="k/Kamali:Shahin">Shahin Kamali</na></co>
+<co c="0"><na f="k/Konrad:Christian">Christian Konrad</na></co>
+<co c="0"><na f="k/Kowalik:Lukasz">Lukasz Kowalik</na></co>
+<co c="0"><na f="k/Kravchenko:Svetlana_A=">Svetlana A. Kravchenko</na></co>
+<co c="0"><na f="k/Kurowski:Maciej">Maciej Kurowski</na></co>
+<co c="0" n="2"><na f="l/Lidbetter:Tom">Tom Lidbetter</na><na>Thomas Lidbetter</na></co>
+<co c="0"><na f="l/L=oacute=pez=Ortiz:Alejandro">Alejandro López-Ortiz</na></co>
+<co c="0"><na f="l/Lopuszanski:Jakub">Jakub Lopuszanski</na></co>
+<co c="0"><na f="l/Lozano:Antoni">Antoni Lozano</na></co>
+<co c="0"><na f="m/Magniez:Fr=eacute=d=eacute=ric">Frédéric Magniez</na></co>
+<co c="0"><na f="m/Matamala:Mart=iacute=n">Martín Matamala</na></co>
+<co c="0"><na f="m/Megow:Nicole">Nicole Megow</na></co>
+<co c="0"><na f="m/Mei=szlig=ner:Julie">Julie Meißner</na></co>
+<co c="0"><na f="m/Mhalla:Mehdi">Mehdi Mhalla</na></co>
+<co c="0"><na f="m/Milis:Ioannis">Ioannis Milis</na></co>
+<co c="0"><na f="n/Nilsson:Bengt_J=">Bengt J. Nilsson</na></co>
+<co c="0"><na f="n/Nobibon:Fabrice_Talla">Fabrice Talla Nobibon</na></co>
+<co c="0"><na f="p/Prot:Damien">Damien Prot</na></co>
+<co c="0"><na f="q/Queyranne:Maurice">Maurice Queyranne</na></co>
+<co c="0"><na f="r/Rapaport:Ivan">Ivan Rapaport</na></co>
+<co c="0"><na f="r/R=eacute=mila:Eric">Eric Rémila</na></co>
+<co c="0"><na f="r/Renault:Marc_P=">Marc P. Renault</na></co>
+<co c="0"><na f="r/Robert:Julien">Julien Robert</na></co>
+<co c="0"><na f="r/Ros=eacute=n:Adi">Adi Rosén</na></co>
+<co c="0"><na f="s/Santha:Miklos">Miklos Santha</na></co>
+<co c="1"><na f="s/Schwentick:Thomas">Thomas Schwentick</na></co>
+<co c="0"><na f="s/Seddik:Yasmina">Yasmina Seddik</na></co>
+<co c="0" n="2"><na f="s/Sgall:Jir=iacute=">Jirí Sgall</na><na>Jiri Sgall</na></co>
+<co c="0"><na f="s/Sitters:Ren=eacute=">René Sitters</na></co>
+<co c="0"><na f="s/Sourd:Francis">Francis Sourd</na></co>
+<co c="0"><na f="s/Spieksma:Frits_C=_R=">Frits C. R. Spieksma</na></co>
+<co c="0"><na f="s/Srivastav:Abhinav">Abhinav Srivastav</na></co>
+<co c="0"><na f="s/Stachowiak:Grzegorz">Grzegorz Stachowiak</na></co>
+<co c="0"><na f="t/Thang:Nguyen_Kim">Nguyen Kim Thang</na></co>
+<co c="0"><na f="t/Thanh:Huong_L=ecirc=">Huong Lê Thanh</na></co>
+<co c="0"><na f="t/Theyssier:Guillaume">Guillaume Theyssier</na></co>
+<co c="0"><na f="t/Tible:L=eacute=o">Léo Tible</na></co>
+<co c="0"><na f="v/Vakhania:Nodari">Nodari Vakhania</na></co>
+<co c="0" n="2"><na f="v/V=aacute=squez:=Oacute=scar_C=">Óscar C. Vásquez</na><na>Oscar C. Vásquez</na></co>
+<co c="0"><na f="v/Vesel=yacute=:Pavel">Pavel Veselý</na></co>
+<co c="1"><na f="v/Vollmer:Heribert">Heribert Vollmer</na></co>
+<co c="-1"><na f="w/Wilke:Thomas">Thomas Wilke</na></co>
+<co c="0"><na f="w/Woeginger:Gerhard_J=">Gerhard J. Woeginger</na></co>
+<co c="0"><na f="w/Wolf:Ronald_de">Ronald de Wolf</na></co>
+<co c="0"><na f="z/Zois:Georgios">Georgios Zois</na></co>
+</coauthors>
+</dblpperson>
+

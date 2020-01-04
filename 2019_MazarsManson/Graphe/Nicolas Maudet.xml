@@ -1,0 +1,1684 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dblpperson name="Nicolas Maudet" n="121">
+<person key="homepages/93/1858" mdate="2009-06-09">
+<author>Nicolas Maudet</author>
+</person>
+<r><article key="journals/aamas/BeynierCGHLMW19" mdate="2019-09-05">
+<author>Aurélie Beynier</author>
+<author>Yann Chevaleyre</author>
+<author>Laurent Gourvès</author>
+<author>Ararat Harutyunyan</author>
+<author>Julien Lesca</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Anaëlle Wilczynski</author>
+<title>Local envy-freeness in house allocation problems.</title>
+<pages>591-627</pages>
+<year>2019</year>
+<volume>33</volume>
+<journal>Autonomous Agents and Multi-Agent Systems</journal>
+<number>5</number>
+<url>db/journals/aamas/aamas33.html#BeynierCGHLMW19</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BeynierBLMRS19" mdate="2019-05-29">
+<author>Aurélie Beynier</author>
+<author>Sylvain Bouveret</author>
+<author>Michel Lemaître</author>
+<author>Nicolas Maudet</author>
+<author>Simon Rey</author>
+<author>Parham Shams</author>
+<title>Efficiency, Sequenceability and Deal-Optimality in Fair Division of Indivisible Goods.</title>
+<pages>900-908</pages>
+<year>2019</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2019</crossref>
+<url>db/conf/atal/aamas2019.html#BeynierBLMRS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BelahceneLMMO19" mdate="2019-08-20">
+<author>Khaled Belahcène</author>
+<author>Christophe Labreuche</author>
+<author>Nicolas Maudet</author>
+<author>Vincent Mousseau</author>
+<author>Wassila Ouerdane</author>
+<title>Comparing Options with Argument Schemes Powered by Cancellation.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/213</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#BelahceneLMMO19</url>
+<pages>1537-1543</pages>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-10250" mdate="2019-06-27">
+<author>Aurélie Beynier</author>
+<author>Nicolas Maudet</author>
+<author>Simon Rey</author>
+<author>Parham Shams</author>
+<title>House Markets and Single-Peaked Preferences: From Centralized to Decentralized Allocation Procedures.</title>
+<year>2019</year>
+<volume>abs/1906.10250</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.10250</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-10250</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-11053" mdate="2019-12-03">
+<author>Parham Shams</author>
+<author>Aurélie Beynier</author>
+<author>Sylvain Bouveret</author>
+<author>Nicolas Maudet</author>
+<title>Fair in the Eyes of Others.</title>
+<year>2019</year>
+<volume>abs/1911.11053</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.11053</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-11053</url>
+</article>
+</r>
+<r><article key="journals/cor/BelahceneLMMO18" mdate="2018-07-10">
+<author>Khaled Belahcène</author>
+<author>Christophe Labreuche</author>
+<author>Nicolas Maudet</author>
+<author orcid="0000-0001-8574-3337">Vincent Mousseau</author>
+<author>Wassila Ouerdane</author>
+<title>An efficient SAT formulation for learning multiple criteria non-compensatory sorting rules from examples.</title>
+<pages>58-71</pages>
+<year>2018</year>
+<volume>97</volume>
+<journal>Computers and OR</journal>
+<url>db/journals/cor/cor97.html#BelahceneLMMO18</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BeynierCGLMW18" mdate="2018-07-16">
+<author>Aurélie Beynier</author>
+<author>Yann Chevaleyre</author>
+<author>Laurent Gourvès</author>
+<author>Julien Lesca</author>
+<author>Nicolas Maudet</author>
+<author>Anaëlle Wilczynski</author>
+<title>Local Envy-Freeness in House Allocation Problems.</title>
+<pages>292-300</pages>
+<year>2018</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2018</crossref>
+<url>db/conf/atal/aamas2018.html#BeynierCGLMW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BeynierMD18" mdate="2018-07-16">
+<author>Aurélie Beynier</author>
+<author>Nicolas Maudet</author>
+<author>Anastasia Damamme</author>
+<title>Fairness in Multiagent Resource Allocation with Dynamic and Partial Observations.</title>
+<pages>1868-1870</pages>
+<year>2018</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2018</crossref>
+<url>db/conf/atal/aamas2018.html#BeynierMD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comma/HadouxBMW18" mdate="2018-09-13">
+<author>Emmanuel Hadoux</author>
+<author>Aurélie Beynier</author>
+<author>Nicolas Maudet</author>
+<author>Paul Weng</author>
+<title>Mediation of Debates with Dynamic Argumentative Behaviors.</title>
+<pages>249-256</pages>
+<year>2018</year>
+<booktitle>COMMA</booktitle>
+<crossref>conf/comma/2018</crossref>
+<url>db/conf/comma/comma2018.html#HadouxBMW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BelahceneCLMMO18" mdate="2019-08-20">
+<author>Khaled Belahcène</author>
+<author>Yann Chevaleyre</author>
+<author>Christophe Labreuche</author>
+<author>Nicolas Maudet</author>
+<author>Vincent Mousseau</author>
+<author>Wassila Ouerdane</author>
+<title>Accountable Approval Sorting.</title>
+<pages>70-76</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/10</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#BelahceneCLMMO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kr/AmgoudBDDKM18" mdate="2018-10-18">
+<author>Leila Amgoud</author>
+<author>Elise Bonzon</author>
+<author>Jérôme Delobelle</author>
+<author>Dragan Doder</author>
+<author>Sébastien Konieczny</author>
+<author>Nicolas Maudet</author>
+<title>Gradual Semantics Accounting for Similarity between Arguments.</title>
+<pages>88-97</pages>
+<year>2018</year>
+<booktitle>KR</booktitle>
+<crossref>conf/kr/2018</crossref>
+<url>db/conf/kr/kr2018.html#AmgoudBDDKM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kr/BonzonDKM18" mdate="2018-10-18">
+<author>Elise Bonzon</author>
+<author>Jérôme Delobelle</author>
+<author>Sébastien Konieczny</author>
+<author>Nicolas Maudet</author>
+<title>Combining Extension-Based Semantics and Ranking-Based Semantics for Abstract Argumentation.</title>
+<pages>118-127</pages>
+<year>2018</year>
+<booktitle>KR</booktitle>
+<crossref>conf/kr/2018</crossref>
+<url>db/conf/kr/kr2018.html#BonzonDKM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-11919" mdate="2018-08-13">
+<author>Aurélie Beynier</author>
+<author>Sylvain Bouveret</author>
+<author>Michel Lemaître</author>
+<author>Nicolas Maudet</author>
+<author>Simon Rey</author>
+<title>Efficiency, Sequenceability and Deal-Optimality in Fair Division of Indivisible Goods.</title>
+<year>2018</year>
+<volume>abs/1807.11919</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.11919</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-11919</url>
+</article>
+</r>
+<r><article key="journals/ai/ChevaleyreEM17" mdate="2019-06-02">
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<title>Distributed fair allocation of indivisible goods.</title>
+<pages>1-22</pages>
+<year>2017</year>
+<volume>242</volume>
+<journal>Artif. Intell.</journal>
+<url>db/journals/ai/ai242.html#ChevaleyreEM17</url>
+</article>
+</r>
+<r><article key="journals/jair/AiriauBEMR17" mdate="2019-06-02">
+<author>Stéphane Airiau</author>
+<author>Elise Bonzon</author>
+<author>Ulle Endriss</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Julien Rossit</author>
+<title>Rationalisation of Profiles of Abstract Argumentation Frameworks: Characterisation and Complexity.</title>
+<pages>149-177</pages>
+<year>2017</year>
+<volume>60</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5436</ee>
+<url>db/journals/jair/jair60.html#AiriauBEMR17</url>
+</article>
+</r>
+<r><inproceedings key="conf/eumas/Maudet17" mdate="2018-10-15">
+<author>Nicolas Maudet</author>
+<title>Multiagent Resource Allocation: The Power and Limitations of Bilateral Deals (Extended Abstract).</title>
+<pages>22-25</pages>
+<year>2017</year>
+<booktitle>EUMAS/AT</booktitle>
+<crossref>conf/eumas/2017</crossref>
+<url>db/conf/eumas/eumas2017.html#Maudet17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieaaie/MernissiFMO17" mdate="2017-06-13">
+<author>Karim El Mernissi</author>
+<author>Pierre Feillet</author>
+<author>Nicolas Maudet</author>
+<author>Wassila Ouerdane</author>
+<title>Introducing Causality in Business Rule-Based Decisions.</title>
+<pages>433-439</pages>
+<year>2017</year>
+<booktitle>IEA/AIE (1)</booktitle>
+<crossref>conf/ieaaie/2017-1</crossref>
+<url>db/conf/ieaaie/ieaaie2017-1.html#MernissiFMO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BelahceneLMMO17" mdate="2019-08-20">
+<author>Khaled Belahcène</author>
+<author>Christophe Labreuche</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Vincent Mousseau</author>
+<author>Wassila Ouerdane</author>
+<title>A Model for Accountable Ordinal Sorting.</title>
+<pages>814-820</pages>
+<year>2017</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2017/113</ee>
+<crossref>conf/ijcai/2017</crossref>
+<url>db/conf/ijcai/ijcai2017.html#BelahceneLMMO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/AiriauBEMR17" mdate="2019-08-20">
+<author>Stéphane Airiau</author>
+<author>Elise Bonzon</author>
+<author>Ulle Endriss</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Julien Rossit</author>
+<title>Rationalisation of Profiles of Abstract Argumentation Frameworks: Extended Abstract.</title>
+<pages>4776-4780</pages>
+<year>2017</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2017/665</ee>
+<crossref>conf/ijcai/2017</crossref>
+<url>db/conf/ijcai/ijcai2017.html#AiriauBEMR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/BonzonDKM17" mdate="2019-12-27">
+<author>Elise Bonzon</author>
+<author>Jérôme Delobelle</author>
+<author orcid="0000-0002-2590-1222">Sébastien Konieczny</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<title>A Parametrized Ranking-Based Semantics for Persuasion.</title>
+<pages>237-251</pages>
+<year>2017</year>
+<booktitle>SUM</booktitle>
+<crossref>conf/sum/2017</crossref>
+<url>db/conf/sum/sum2017.html#BonzonDKM17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AmgoudBCCDKLMMV17" mdate="2018-09-27">
+<author>Leila Amgoud</author>
+<author>Elise Bonzon</author>
+<author>Marco Correia</author>
+<author>Jorge Cruz 0001</author>
+<author>Jérôme Delobelle</author>
+<author>Sébastien Konieczny</author>
+<author>João Leite</author>
+<author>Alexis Martin</author>
+<author>Nicolas Maudet</author>
+<author>Srdjan Vesic</author>
+<title>A note on the uniqueness of models in social abstract argumentation.</title>
+<year>2017</year>
+<volume>abs/1705.03381</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.03381</ee>
+<url>db/journals/corr/corr1705.html#AmgoudBCCDKLMMV17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-10098" mdate="2018-08-13">
+<author>Khaled Belahcène</author>
+<author>Christophe Labreuche</author>
+<author>Nicolas Maudet</author>
+<author>Vincent Mousseau</author>
+<author>Wassila Ouerdane</author>
+<title>An efficient SAT formulation for learning multiple criteria non-compensatory sorting rules from examples.</title>
+<year>2017</year>
+<volume>abs/1710.10098</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.10098</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-10098</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/BonzonDKM16" mdate="2016-04-21">
+<author>Elise Bonzon</author>
+<author>Jérôme Delobelle</author>
+<author>Sébastien Konieczny</author>
+<author>Nicolas Maudet</author>
+<title>A Comparative Study of Ranking-Based Semantics for Abstract Argumentation.</title>
+<pages>914-920</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BonzonDKM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/AiriauBEMR16" mdate="2016-05-20">
+<author>Stéphane Airiau</author>
+<author>Elise Bonzon</author>
+<author>Ulle Endriss</author>
+<author>Nicolas Maudet</author>
+<author>Julien Rossit</author>
+<title>Rationalisation of Profiles of Abstract Argumentation Frameworks.</title>
+<pages>350-357</pages>
+<year>2016</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2016</crossref>
+<url>db/conf/atal/aamas2016.html#AiriauBEMR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comma/BonzonDKM16" mdate="2017-05-23">
+<author>Elise Bonzon</author>
+<author>Jérôme Delobelle</author>
+<author>Sébastien Konieczny</author>
+<author>Nicolas Maudet</author>
+<title>Argumentation Ranking Semantics Based on Propagation.</title>
+<pages>139-150</pages>
+<year>2016</year>
+<booktitle>COMMA</booktitle>
+<crossref>conf/comma/2016</crossref>
+<url>db/conf/comma/comma2016.html#BonzonDKM16</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/choice/BouveretCM16" mdate="2019-06-02">
+<author>Sylvain Bouveret</author>
+<author>Yann Chevaleyre</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<title>Fair Allocation of Indivisible Goods.</title>
+<pages>284-310</pages>
+<year>2016</year>
+<booktitle>Handbook of Computational Social Choice</booktitle>
+<crossref>reference/choice/2016</crossref>
+<url>db/reference/choice/choice2016.html#BouveretCM16</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/BonzonDKM16" mdate="2018-08-13">
+<author>Elise Bonzon</author>
+<author>Jérôme Delobelle</author>
+<author>Sébastien Konieczny</author>
+<author>Nicolas Maudet</author>
+<title>A Comparative Study of Ranking-based Semantics for Abstract Argumentation.</title>
+<year>2016</year>
+<volume>abs/1602.01059</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.01059</ee>
+<url>db/journals/corr/corr1602.html#BonzonDKM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/DamammeBCM15" mdate="2015-05-15">
+<author>Anastasia Damamme</author>
+<author>Aurélie Beynier</author>
+<author>Yann Chevaleyre</author>
+<author>Nicolas Maudet</author>
+<title>The Power of Swap Deals in Distributed Resource Allocation.</title>
+<pages>625-633</pages>
+<year>2015</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2015</crossref>
+<url>db/conf/atal/aamas2015.html#DamammeBCM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/LabreucheMOP15" mdate="2015-05-15">
+<author>Christophe Labreuche</author>
+<author>Nicolas Maudet</author>
+<author>Wassila Ouerdane</author>
+<author>Simon Parsons</author>
+<title>A Dialogue Game for Recommendation with Adaptive Preference Models.</title>
+<pages>959-967</pages>
+<year>2015</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2015</crossref>
+<url>db/conf/atal/aamas2015.html#LabreucheMOP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BelardinelliGM15" mdate="2019-08-20">
+<author>Francesco Belardinelli</author>
+<author>Davide Grossi</author>
+<author>Nicolas Maudet</author>
+<title>Formal Analysis of Dialogues on Infinite Argumentation Frameworks.</title>
+<pages>861-867</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/126</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#BelardinelliGM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/HadouxBMWH15" mdate="2019-08-20">
+<author>Emmanuel Hadoux</author>
+<author>Aurélie Beynier</author>
+<author>Nicolas Maudet</author>
+<author>Paul Weng</author>
+<author>Anthony Hunter</author>
+<title>Optimization of Probabilistic Argumentation with Markov Decision Models.</title>
+<pages>2004-2010</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/284</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#HadouxBMWH15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BelahceneLMMO15" mdate="2018-08-13">
+<author>Khaled Belahcène</author>
+<author>Christophe Labreuche</author>
+<author>Nicolas Maudet</author>
+<author>Vincent Mousseau</author>
+<author>Wassila Ouerdane</author>
+<title>Explaining robust additive utility models by sequences of preference swaps.</title>
+<year>2015</year>
+<volume>abs/1502.04593</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1502.04593</ee>
+<url>db/journals/corr/corr1502.html#BelahceneLMMO15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/BoutilierDMM15" mdate="2017-06-07">
+<author>Craig Boutilier</author>
+<author>Britta Dorn</author>
+<author>Nicolas Maudet</author>
+<author>Vincent Merlin</author>
+<title>Computational Social Choice: Theory and Applications (Dagstuhl Seminar 15241).</title>
+<pages>1-27</pages>
+<year>2015</year>
+<volume>5</volume>
+<journal>Dagstuhl Reports</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.5.6.1</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports5.html#BoutilierDMM15</url>
+</article>
+</r>
+<r><article key="journals/ci/BourgneM14" mdate="2019-06-02">
+<author>Gauvain Bourgne</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<title>Designing Protocols for Abductive Hypothesis Refinement in Dynamic Multiagent Environments.</title>
+<pages>362-401</pages>
+<year>2014</year>
+<volume>30</volume>
+<journal>Computational Intelligence</journal>
+<number>2</number>
+<url>db/journals/ci/ci30.html#BourgneM14</url>
+</article>
+</r>
+<r><article key="journals/eswa/PlaLMM14" mdate="2019-06-02">
+<author orcid="0000-0001-7527-2500">Albert Pla</author>
+<author orcid="0000-0001-9210-0073">Beatriz López</author>
+<author>Javier Murillo</author>
+<author>Nicolas Maudet</author>
+<title>Multi-attribute auctions with different types of attributes: Enacting properties in multi-attribute auctions.</title>
+<pages>4829-4843</pages>
+<year>2014</year>
+<volume>41</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>10</number>
+<url>db/journals/eswa/eswa41.html#PlaLMM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/IsmailiBMP14" mdate="2014-09-25">
+<author>Anisse Ismaili</author>
+<author>Evripidis Bampis</author>
+<author>Nicolas Maudet</author>
+<author>Patrice Perny</author>
+<title>How the number of strategies impacts the likelihood of equilibria in random graphical games.</title>
+<pages>285-292</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#IsmailiBMP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clima/KontarinisBMM14" mdate="2019-06-02">
+<author>Dionysios Kontarinis</author>
+<author>Elise Bonzon</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Pavlos Moraitis</author>
+<title>Empirical Evaluation of Strategies for Multiparty Argumentative Debates.</title>
+<pages>105-122</pages>
+<year>2014</year>
+<booktitle>CLIMA</booktitle>
+<crossref>conf/clima/2014</crossref>
+<url>db/conf/clima/clima2014.html#KontarinisBMM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comma/BonzonMM14" mdate="2017-05-23">
+<author>Elise Bonzon</author>
+<author>Nicolas Maudet</author>
+<author>Stefano Moretti</author>
+<title>Coalitional games for abstract argumentation.</title>
+<pages>161-172</pages>
+<year>2014</year>
+<booktitle>COMMA</booktitle>
+<crossref>conf/comma/2014</crossref>
+<url>db/conf/comma/comma2014.html#BonzonMM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/GrandiLMR14" mdate="2019-06-02">
+<author>Umberto Grandi</author>
+<author>Hang Luo</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Francesca Rossi</author>
+<title>Aggregating CP-nets with Unfeasible Outcomes.</title>
+<pages>366-381</pages>
+<year>2014</year>
+<booktitle>CP</booktitle>
+<crossref>conf/cp/2014</crossref>
+<url>db/conf/cp/cp2014.html#GrandiLMR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/KontarinisBMM14" mdate="2017-05-24">
+<author>Dionysios Kontarinis</author>
+<author>Elise Bonzon</author>
+<author>Nicolas Maudet</author>
+<author>Pavlos Moraitis</author>
+<title>On the Use of Target Sets for Move Selection in Multi-Agent Debates.</title>
+<pages>1047-1048</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#KontarinisBMM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/MaranMPRV13" mdate="2013-08-20">
+<author>Alberto Maran</author>
+<author>Nicolas Maudet</author>
+<author>Maria Silvia Pini</author>
+<author>Francesca Rossi</author>
+<author>Kristen Brent Venable</author>
+<title>A Framework for Aggregating Influenced CP-Nets and its Resistance to Bribery.</title>
+<year>2013</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2013</crossref>
+<url>db/conf/aaai/aaai2013.html#MaranMPRV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/IsmailiBMP13" mdate="2013-06-28">
+<author>Anisse Ismaili</author>
+<author>Evripidis Bampis</author>
+<author>Nicolas Maudet</author>
+<author>Patrice Perny</author>
+<title>A study on the stability and efficiency of graphical games with unbounded treewidth.</title>
+<pages>263-270</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#IsmailiBMP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clima/KontarinisBMPTV13" mdate="2019-06-02">
+<author>Dionysios Kontarinis</author>
+<author>Elise Bonzon</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Alan Perotti</author>
+<author>Leon van der Torre</author>
+<author>Serena Villata</author>
+<title>Rewriting Rules for the Computation of Goal-Oriented Changes in an Argumentation System.</title>
+<pages>51-68</pages>
+<year>2013</year>
+<booktitle>CLIMA</booktitle>
+<crossref>conf/clima/2013</crossref>
+<url>db/conf/clima/clima2013.html#KontarinisBMPTV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sagt/LangMP13" mdate="2019-06-02">
+<author>Jérôme Lang</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Maria Polukarov</author>
+<title>New Results on Equilibria in Strategic Candidacy.</title>
+<pages>13-25</pages>
+<year>2013</year>
+<booktitle>SAGT</booktitle>
+<crossref>conf/sagt/2013</crossref>
+<url>db/conf/sagt/sagt2013.html#LangMP13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LangMP13" mdate="2018-08-13">
+<author>Jérôme Lang</author>
+<author>Nicolas Maudet</author>
+<author>Maria Polukarov</author>
+<title>New Results on Equilibria in Strategic Candidacy.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1306.1849</ee>
+<volume>abs/1306.1849</volume>
+<url>db/journals/corr/corr1306.html#LangMP13</url>
+</article>
+</r>
+<r><article key="journals/mss/ChevaleyreLMMX12" mdate="2019-06-02">
+<author>Yann Chevaleyre</author>
+<author>Jérôme Lang</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Jérôme Monnot</author>
+<author>Lirong Xia</author>
+<title>New candidates welcome! Possible winners with respect to the addition of new candidates.</title>
+<pages>74-88</pages>
+<year>2012</year>
+<volume>64</volume>
+<journal>Mathematical Social Sciences</journal>
+<number>1</number>
+<url>db/journals/mss/mss64.html#ChevaleyreLMMX12</url>
+</article>
+</r>
+<r><inproceedings key="conf/aamas/BourgneIM12" mdate="2015-03-19">
+<author>Gauvain Bourgne</author>
+<author>Katsumi Inoue</author>
+<author>Nicolas Maudet</author>
+<title>Finding new consequences of an observation in a system of agents.</title>
+<pages>1223-1224</pages>
+<year>2012</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2012</crossref>
+<url>db/conf/atal/aamas2012.html#BourgneIM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aamas/MaudetPVR12" mdate="2015-03-19">
+<author>Nicolas Maudet</author>
+<author>Maria Silvia Pini</author>
+<author>Kristen Brent Venable</author>
+<author>Francesca Rossi</author>
+<title>Influence and aggregation of preferences over combinatorial domains.</title>
+<pages>1313-1314</pages>
+<year>2012</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2012</crossref>
+<url>db/conf/atal/aamas2012.html#MaudetPVR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comma/KontarinisBMM12" mdate="2017-05-23">
+<author>Dionysios Kontarinis</author>
+<author>Elise Bonzon</author>
+<author>Nicolas Maudet</author>
+<author>Pavlos Moraitis</author>
+<title>Picking the Right Expert to Make a Debate Uncontroversial.</title>
+<pages>486-497</pages>
+<year>2012</year>
+<booktitle>COMMA</booktitle>
+<crossref>conf/comma/2012</crossref>
+<url>db/conf/comma/comma2012.html#KontarinisBMM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/LabreucheMO12" mdate="2017-05-24">
+<author>Christophe Labreuche</author>
+<author>Nicolas Maudet</author>
+<author>Wassila Ouerdane</author>
+<title>Justifying Dominating Options when Preferential Information is Incomplete.</title>
+<pages>486-491</pages>
+<year>2012</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2012</crossref>
+<url>db/conf/ecai/ecai2012.html#LabreucheMO12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ker/YuanMRRM11" mdate="2019-06-02">
+<author>Tangming Yuan</author>
+<author>David J. Moore</author>
+<author orcid="0000-0002-6849-1374">Chris Reed</author>
+<author>Andrew Ravenscroft</author>
+<author>Nicolas Maudet</author>
+<title>Informal logic dialogue games in human-computer dialogue.</title>
+<pages>159-174</pages>
+<year>2011</year>
+<volume>26</volume>
+<journal>Knowledge Eng. Review</journal>
+<number>2</number>
+<url>db/journals/ker/ker26.html#YuanMRRM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/aldt/LabreucheMO11" mdate="2017-05-23">
+<author>Christophe Labreuche</author>
+<author>Nicolas Maudet</author>
+<author>Wassila Ouerdane</author>
+<title>Minimal and Complete Explanations for Critical Multi-attribute Decisions.</title>
+<pages>121-134</pages>
+<year>2011</year>
+<booktitle>ADT</booktitle>
+<crossref>conf/aldt/2011</crossref>
+<url>db/conf/aldt/adt2011.html#LabreucheMO11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/argmas/KakasAKMM11" mdate="2019-06-02">
+<author orcid="0000-0001-6773-3944">Antonis C. Kakas</author>
+<author>Leila Amgoud</author>
+<author>Gabriele Kern-Isberner</author>
+<author>Nicolas Maudet</author>
+<author>Pavlos Moraitis</author>
+<title>ABA: Argumentation Based Agents.</title>
+<pages>9-27</pages>
+<year>2011</year>
+<booktitle>ArgMAS</booktitle>
+<crossref>conf/argmas/2011</crossref>
+<url>db/conf/argmas/argmas2011.html#KakasAKMM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/argmas/BonzonM11" mdate="2019-06-02">
+<author>Elise Bonzon</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<title>On the Outcomes of Multiparty Persuasion.</title>
+<pages>86-101</pages>
+<year>2011</year>
+<booktitle>ArgMAS</booktitle>
+<crossref>conf/argmas/2011</crossref>
+<url>db/conf/argmas/argmas2011.html#BonzonM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BonzonM11" mdate="2011-11-18">
+<author>Elise Bonzon</author>
+<author>Nicolas Maudet</author>
+<title>On the outcomes of multiparty persuasion.</title>
+<pages>47-54</pages>
+<year>2011</year>
+<booktitle>AAMAS</booktitle>
+<crossref>conf/atal/2011</crossref>
+<url>db/conf/atal/aamas2011.html#BonzonM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tark/ChevaleyreLMM11" mdate="2019-06-02">
+<author>Yann Chevaleyre</author>
+<author>Jérôme Lang</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Jérôme Monnot</author>
+<title>Compilation and communication protocols for voting rules with a dynamic set of candidates.</title>
+<pages>153-160</pages>
+<year>2011</year>
+<booktitle>TARK</booktitle>
+<crossref>conf/tark/2011</crossref>
+<url>db/conf/tark/tark2011.html#ChevaleyreLMM11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1109-6340" mdate="2018-08-13">
+<author>Ulrich Endriss</author>
+<author>Nicolas Maudet</author>
+<author>Fariba Sadri</author>
+<author>Francesca Toni</author>
+<title>Negotiating Socially Optimal Allocations of Resources</title>
+<ee type="oa">http://arxiv.org/abs/1109.6340</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1109.6340</volume>
+<url>db/journals/corr/corr1109.html#abs-1109-6340</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1111-3690" mdate="2018-08-13">
+<author>Yann Chevaleyre</author>
+<author>Jérôme Lang</author>
+<author>Nicolas Maudet</author>
+<author>Jérôme Monnot</author>
+<author>Lirong Xia</author>
+<title>New Candidates Welcome! Possible Winners with respect to the Addition of New Candidates</title>
+<ee type="oa">http://arxiv.org/abs/1111.3690</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1111.3690</volume>
+<url>db/journals/corr/corr1111.html#abs-1111-3690</url>
+</article>
+</r>
+<r><book publtype="habil" key="books/hal/Maudet10" mdate="2017-09-29">
+<author>Nicolas Maudet</author>
+<title>Reaching Agreement in Multiagent Systems.</title>
+<year>2010</year>
+<school>Paris Dauphine University, France</school>
+</book>
+</r>
+<r><article key="journals/aamas/ChevaleyreEM10" mdate="2019-06-02">
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<title>Simple negotiation schemes for agents with simple preferences: sufficiency, necessity and maximality.</title>
+<pages>234-259</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>Autonomous Agents and Multi-Agent Systems</journal>
+<number>2</number>
+<url>db/journals/aamas/aamas20.html#ChevaleyreEM10</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ChevaleyreLMM10" mdate="2010-09-01">
+<author>Yann Chevaleyre</author>
+<author>Jérôme Lang</author>
+<author>Nicolas Maudet</author>
+<author>Jérôme Monnot</author>
+<title>Possible Winners when New Candidates Are Added: The Case of Scoring Rules.</title>
+<year>2010</year>
+<booktitle>AAAI</booktitle>
+<crossref>conf/aaai/2010</crossref>
+<url>db/conf/aaai/aaai2010.html#ChevaleyreLMM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BourgneIM10" mdate="2017-05-24">
+<author>Gauvain Bourgne</author>
+<author>Katsumi Inoue</author>
+<author>Nicolas Maudet</author>
+<title>Abduction of distributed theories through local interactions.</title>
+<pages>901-906</pages>
+<year>2010</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2010</crossref>
+<url>db/conf/ecai/ecai2010.html#BourgneIM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/OuerdaneMT10" mdate="2017-05-24">
+<author>Wassila Ouerdane</author>
+<author>Nicolas Maudet</author>
+<author>Alexis Tsoukiàs</author>
+<title>Dealing with the dynamics of proof-standard in argumentation-based decision aiding.</title>
+<pages>999-1000</pages>
+<year>2010</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2010</crossref>
+<url>db/conf/ecai/ecai2010.html#OuerdaneMT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/KakasAKMM10" mdate="2017-06-02">
+<author orcid="0000-0001-6773-3944">Antonis C. Kakas</author>
+<author>Leila Amgoud</author>
+<author>Gabriele Kern-Isberner</author>
+<author>Nicolas Maudet</author>
+<author>Pavlos Moraitis</author>
+<title>ABA: Argumentation Based Agents.</title>
+<pages>1005-1006</pages>
+<year>2010</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2010</crossref>
+<url>db/conf/ecai/ecai2010.html#KakasAKMM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lads/BourgneIM10" mdate="2017-05-19">
+<author>Gauvain Bourgne</author>
+<author>Katsumi Inoue</author>
+<author>Nicolas Maudet</author>
+<title>Towards Efficient Multi-agent Abduction Protocols.</title>
+<pages>19-38</pages>
+<year>2010</year>
+<booktitle>LADS</booktitle>
+<crossref>conf/lads/2010</crossref>
+<url>db/conf/lads/lads2010.html#BourgneIM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mallow/BourgneIM10" mdate="2019-05-28">
+<author>Gauvain Bourgne</author>
+<author>Katsumi Inoue</author>
+<author>Nicolas Maudet</author>
+<title>Towards Efficient Multi-Agent Abduction Protocols.</title>
+<year>2010</year>
+<booktitle>MALLOW</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-627/lads_5.pdf</ee>
+<crossref>conf/mallow/2010</crossref>
+<url>db/conf/mallow/mallow2010.html#BourgneIM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stairs/OuerdaneMT10" mdate="2017-05-23">
+<author>Wassila Ouerdane</author>
+<author>Nicolas Maudet</author>
+<author>Alexis Tsoukiàs</author>
+<title>Dealing with the dynamics of proof-standard in argumentation-based decision aiding.</title>
+<pages>225-237</pages>
+<year>2010</year>
+<booktitle>STAIRS</booktitle>
+<crossref>conf/stairs/2010</crossref>
+<url>db/conf/stairs/stairs2010.html#OuerdaneMT10</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/10/OuerdaneMT10" mdate="2019-11-28">
+<author>Wassila Ouerdane</author>
+<author>Nicolas Maudet</author>
+<author>Alexis Tsoukiàs</author>
+<title>Argumentation Theory and Decision Aiding.</title>
+<pages>177-208</pages>
+<year>2010</year>
+<booktitle>Trends in Multiple Criteria Decision Analysis</booktitle>
+<crossref>books/sp/10/EFG2010</crossref>
+<url>db/books/collections/EFG2010.html#OuerdaneMT10</url>
+</incollection>
+</r>
+<r><proceedings key="conf/argmas/2009" mdate="2019-10-19">
+<editor orcid="0000-0001-5547-5239">Peter McBurney</editor>
+<editor>Iyad Rahwan</editor>
+<editor>Simon Parsons</editor>
+<editor>Nicolas Maudet</editor>
+<title>Argumentation in Multi-Agent Systems, 6th International Workshop, ArgMAS 2009, Budapest, Hungary, May 12, 2009. Revised Selected and Invited Papers</title>
+<volume>6057</volume>
+<year>2010</year>
+<isbn>978-3-642-12804-2</isbn>
+<booktitle>ArgMAS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/argmas/argmas2009.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/mallow/2010" mdate="2019-05-28">
+<editor>Olivier Boissier</editor>
+<editor>Amal El Fallah-Seghrouchni</editor>
+<editor>Salima Hassas</editor>
+<editor>Nicolas Maudet</editor>
+<title>Proceedings of The Multi-Agent Logics, Languages, and Organisations Federated Workshops (MALLOW 2010), Lyon, France, August 30 - September 2, 2010</title>
+<booktitle>MALLOW</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>627</volume>
+<year>2010</year>
+<ee type="oa">http://ceur-ws.org/Vol-627</ee>
+<url>db/conf/mallow/mallow2010.html</url>
+</proceedings>
+</r>
+<r><article key="journals/japll/BourgneFM09" mdate="2019-06-02">
+<author>Gauvain Bourgne</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<title>Towards refinement of abductive or inductive hypotheses through propagation.</title>
+<pages>289-306</pages>
+<year>2009</year>
+<volume>7</volume>
+<journal>J. Applied Logic</journal>
+<number>3</number>
+<url>db/journals/japll/japll7.html#BourgneFM09</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/ChevaleyreLMR09" mdate="2019-08-20">
+<author>Yann Chevaleyre</author>
+<author>Jérôme Lang</author>
+<author>Nicolas Maudet</author>
+<author>Guillaume Ravilly-Abadie</author>
+<title>Compiling the Votes of a Subelectorate.</title>
+<pages>97-102</pages>
+<year>2009</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/09/Papers/027.pdf</ee>
+<crossref>conf/ijcai/2009</crossref>
+<url>db/conf/ijcai/ijcai2009.html#ChevaleyreLMR09</url>
+</inproceedings>
+</r>
+<r><article key="journals/aim/ChevaleyreELM08" mdate="2010-12-27">
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author>Jérôme Lang</author>
+<author>Nicolas Maudet</author>
+<title>Preference Handling in Combinatorial Domains: From AI to Social Choice.</title>
+<pages>37-46</pages>
+<year>2008</year>
+<volume>29</volume>
+<journal>AI Magazine</journal>
+<number>4</number>
+<url>db/journals/aim/aim29.html#ChevaleyreELM08</url>
+</article>
+</r>
+<r><article key="journals/anor/ChevaleyreEEM08" mdate="2019-06-02">
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author>Sylvia Estivie</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<title>Multiagent resource allocation in <i>k</i> -additive domains: preference representation and complexity.</title>
+<pages>49-62</pages>
+<year>2008</year>
+<volume>163</volume>
+<journal>Annals OR</journal>
+<number>1</number>
+<url>db/journals/anor/anor163.html#ChevaleyreEEM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/ChevaleyreEM08" mdate="2018-11-30">
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author>Nicolas Maudet</author>
+<title>Trajectories of goods in distributed allocation.</title>
+<pages>1111-1118</pages>
+<year>2008</year>
+<booktitle>AAMAS (2)</booktitle>
+<crossref>conf/atal/2008-2</crossref>
+<url>db/conf/atal/aamas2008-2.html#ChevaleyreEM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comma/OuerdaneMT08" mdate="2012-03-14">
+<author>Wassila Ouerdane</author>
+<author>Nicolas Maudet</author>
+<author>Alexis Tsoukiàs</author>
+<title>Argument Schemes and Critical Questions for Decision Aiding Process.</title>
+<pages>285-296</pages>
+<year>2008</year>
+<booktitle>COMMA</booktitle>
+<crossref>conf/comma/2008</crossref>
+<url>db/conf/comma/comma2008.html#OuerdaneMT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/BourgneMR08" mdate="2012-02-07">
+<author>Gauvain Bourgne</author>
+<author>Nicolas Maudet</author>
+<author>Guillaume Ravilly-Abadie</author>
+<title>Raisonnement hypothétique distribué sans connaissance commune.</title>
+<pages>213-222</pages>
+<year>2008</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2008</crossref>
+<url>db/conf/jfsma/jfsma2008.html#BourgneMR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prima/BourgneFMS08" mdate="2017-05-19">
+<author>Gauvain Bourgne</author>
+<author>Amal El Fallah-Seghrouchni</author>
+<author>Nicolas Maudet</author>
+<author>Henry Soldano</author>
+<title>Multiagent Incremental Learning in Networks.</title>
+<pages>109-120</pages>
+<year>2008</year>
+<booktitle>PRIMA</booktitle>
+<crossref>conf/prima/2008</crossref>
+<url>db/conf/prima/prima2008.html#BourgneFMS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/ChevaleyreEM07" mdate="2012-12-10">
+<author>Yann Chevaleyre</author>
+<author>Ulrich Endriss</author>
+<author>Nicolas Maudet</author>
+<title>Allocating Goods on a Graph to Eliminate Envy.</title>
+<pages>700-705</pages>
+<year>2007</year>
+<crossref>conf/aaai/2007</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai2007.html#ChevaleyreEM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BourgneHMP07" mdate="2018-11-06">
+<author>Gauvain Bourgne</author>
+<author>Gaël Hette</author>
+<author>Nicolas Maudet</author>
+<author>Suzanne Pinson</author>
+<title>Hypotheses refinement under topological communication constraints.</title>
+<pages>239</pages>
+<year>2007</year>
+<crossref>conf/atal/2007</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2007.html#BourgneHMP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecsqaru/OuerdaneMT07" mdate="2017-05-21">
+<author>Wassila Ouerdane</author>
+<author>Nicolas Maudet</author>
+<author>Alexis Tsoukiàs</author>
+<title>Arguing over Actions That Involve Multiple Criteria: A Critical Review.</title>
+<pages>308-319</pages>
+<year>2007</year>
+<crossref>conf/ecsqaru/2007</crossref>
+<booktitle>ECSQARU</booktitle>
+<url>db/conf/ecsqaru/ecsqaru2007.html#OuerdaneMT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ChevaleyreEEM07" mdate="2019-08-20">
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author>Sylvia Estivie</author>
+<author>Nicolas Maudet</author>
+<title>Reaching Envy-Free States in Distributed Negotiation Settings.</title>
+<pages>1239-1244</pages>
+<year>2007</year>
+<crossref>conf/ijcai/2007</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/07/Papers/200.pdf</ee>
+<url>db/conf/ijcai/ijcai2007.html#ChevaleyreEEM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sofsem/ChevaleyreELM07" mdate="2017-05-23">
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author>Jérôme Lang</author>
+<author>Nicolas Maudet</author>
+<title>A Short Introduction to Computational Social Choice.</title>
+<pages>51-69</pages>
+<year>2007</year>
+<crossref>conf/sofsem/2007</crossref>
+<booktitle>SOFSEM (1)</booktitle>
+<url>db/conf/sofsem/sofsem2007.html#ChevaleyreELM07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/argmas/2006" mdate="2019-05-14">
+<editor>Nicolas Maudet</editor>
+<editor>Simon Parsons</editor>
+<editor>Iyad Rahwan</editor>
+<title>Argumentation in Multi-Agent Systems, Third International Workshop, ArgMAS 2006, Hakodate, Japan, May 8, 2006, Revised Selected and Invited Papers</title>
+<booktitle>ArgMAS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4766</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-75525-8</isbn>
+<url>db/conf/argmas/argmas2006.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cogsr/HulstijnM06" mdate="2019-06-02">
+<author>Joris Hulstijn</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<title>Uptake and joint action.</title>
+<pages>175-191</pages>
+<year>2006</year>
+<volume>7</volume>
+<journal>Cognitive Systems Research</journal>
+<number>2-3</number>
+<url>db/journals/cogsr/cogsr7.html#HulstijnM06</url>
+</article>
+</r>
+<r><article key="journals/informaticaSI/ChevaleyreDELLMPPRS06" mdate="2016-02-15">
+<author>Yann Chevaleyre</author>
+<author>Paul E. Dunne</author>
+<author>Ulle Endriss</author>
+<author>Jérôme Lang</author>
+<author>Michel Lemaître</author>
+<author>Nicolas Maudet</author>
+<author>Julian A. Padget</author>
+<author>Steve Phelps</author>
+<author>Juan A. Rodríguez-Aguilar</author>
+<author>Paulo Sousa</author>
+<title>Issues in Multiagent Resource Allocation.</title>
+<pages>3-31</pages>
+<year>2006</year>
+<volume>30</volume>
+<journal>Informatica (Slovenia)</journal>
+<number>1</number>
+<url>db/journals/informaticaSI/informaticaSI30.html#ChevaleyreDELLMPPRS06</url>
+</article>
+</r>
+<r><article key="journals/jair/EndrissMST06" mdate="2019-01-21">
+<author>Ulrich Endriss</author>
+<author>Nicolas Maudet</author>
+<author>Fariba Sadri</author>
+<author>Francesca Toni</author>
+<title>Negotiating Socially Optimal Allocations of Resources.</title>
+<pages>315-348</pages>
+<year>2006</year>
+<volume>25</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.1870</ee>
+<url>db/journals/jair/jair25.html#EndrissMST06</url>
+</article>
+</r>
+<r><inproceedings key="conf/argmas/MaudetPR06" mdate="2017-05-22">
+<author>Nicolas Maudet</author>
+<author>Simon Parsons</author>
+<author>Iyad Rahwan</author>
+<title>Argumentation in Multi-Agent Systems: Context and Recent Developments.</title>
+<pages>1-16</pages>
+<year>2006</year>
+<crossref>conf/argmas/2006</crossref>
+<booktitle>ArgMAS</booktitle>
+<url>db/conf/argmas/argmas2006.html#MaudetPR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/ChevaleyreEM06" mdate="2019-06-02">
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<title>Tractable negotiation in tree-structured domains.</title>
+<pages>362-369</pages>
+<year>2006</year>
+<crossref>conf/atal/2006</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2006.html#ChevaleyreEM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/EstivieCEM06" mdate="2019-06-02">
+<author>Sylvia Estivie</author>
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<title>How equitable is rational negotiation?</title>
+<pages>866-873</pages>
+<year>2006</year>
+<crossref>conf/atal/2006</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2006.html#EstivieCEM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/BourgneMP06" mdate="2017-05-19">
+<author>Gauvain Bourgne</author>
+<author>Nicolas Maudet</author>
+<author>Suzanne Pinson</author>
+<title>When Agents Communicate Hypotheses in Critical Situations.</title>
+<pages>89-104</pages>
+<year>2006</year>
+<crossref>conf/dalt/2006</crossref>
+<booktitle>DALT</booktitle>
+<url>db/conf/dalt/dalt2006.html#BourgneMP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/BourgneMP06" mdate="2012-02-13">
+<author>Gauvain Bourgne</author>
+<author>Nicolas Maudet</author>
+<author>Suzanne Pinson</author>
+<title>Raffinement et propagation d'hypothèses entre agents.</title>
+<pages>163-166</pages>
+<year>2006</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2006</crossref>
+<url>db/conf/jfsma/jfsma2006.html#BourgneMP06</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/06/ChevaleyreEM06" mdate="2019-07-18">
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author>Nicolas Maudet</author>
+<title>Some Recent Results and Open Questions in Distributed Resource Allocation.</title>
+<pages>49-63</pages>
+<year>2006</year>
+<booktitle>Decision Theory and Multi-Agent Planning</booktitle>
+<crossref>books/sp/06/RDKL2006</crossref>
+<url>db/books/collections/RDKL2006.html#ChevaleyreEM06</url>
+</incollection>
+</r>
+<r><proceedings key="conf/argmas/2005" mdate="2019-05-14">
+<editor>Simon Parsons</editor>
+<editor>Nicolas Maudet</editor>
+<editor>Pavlos Moraitis</editor>
+<editor>Iyad Rahwan</editor>
+<title>Argumentation in Multi-Agent Systems, Second International Workshop, ArgMAS 2005, Utrecht, The Netherlands, July 26, 2005, Revised Selected and Invited Papers</title>
+<booktitle>ArgMAS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4049</volume>
+<publisher>Springer</publisher>
+<year>2006</year>
+<isbn>3-540-36355-6</isbn>
+<url>db/conf/argmas/argmas2005.html</url>
+</proceedings>
+</r>
+<r><article key="journals/aamas/EndrissM05" mdate="2017-05-20">
+<author>Ulle Endriss</author>
+<author>Nicolas Maudet</author>
+<title>On the Communication Complexity of Multilateral Trading: Extended Report.</title>
+<pages>91-107</pages>
+<year>2005</year>
+<volume>11</volume>
+<journal>Autonomous Agents and Multi-Agent Systems</journal>
+<number>1</number>
+<url>db/journals/aamas/aamas11.html#EndrissM05</url>
+</article>
+</r>
+<r><article key="journals/aamas/KakasMM05" mdate="2019-06-02">
+<author orcid="0000-0001-6773-3944">Antonis C. Kakas</author>
+<author>Nicolas Maudet</author>
+<author>Pavlos Moraitis</author>
+<title>Modular Representation of Agent Interaction Rules through Argumentation.</title>
+<pages>189-206</pages>
+<year>2005</year>
+<volume>11</volume>
+<journal>Autonomous Agents and Multi-Agent Systems</journal>
+<number>2</number>
+<url>db/journals/aamas/aamas11.html#KakasMM05</url>
+</article>
+</r>
+<r><article key="journals/ker/ChevaleyreDELMR05" mdate="2019-06-02">
+<author>Yann Chevaleyre</author>
+<author>Paul E. Dunne</author>
+<author>Ulle Endriss</author>
+<author>Jérôme Lang</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author orcid="0000-0002-2940-6886">Juan A. Rodríguez-Aguilar</author>
+<title>Multiagent resource allocation.</title>
+<pages>143-149</pages>
+<year>2005</year>
+<volume>20</volume>
+<journal>Knowledge Eng. Review</journal>
+<number>2</number>
+<url>db/journals/ker/ker20.html#ChevaleyreDELMR05</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/ChevaleyreELM05" mdate="2018-11-06">
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author>Jérôme Lang</author>
+<author>Nicolas Maudet</author>
+<title>Negotiating over small bundles of resources.</title>
+<pages>296-302</pages>
+<year>2005</year>
+<crossref>conf/atal/2005</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2005.html#ChevaleyreELM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bnaic/ChevaleyreEM05" mdate="2005-12-06">
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author>Nicolas Maudet</author>
+<title>Maximal Classes of Utility Functions for Efficient one-to-one Negotiation: Extended Abstract.</title>
+<pages>331-332</pages>
+<year>2005</year>
+<crossref>conf/bnaic/2005</crossref>
+<booktitle>BNAIC</booktitle>
+<url>db/conf/bnaic/bnaic2005.html#ChevaleyreEM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eumas/BourgneMP05" mdate="2005-12-16">
+<author>Gauvain Bourgne</author>
+<author>Nicolas Maudet</author>
+<author>Suzanne Pinson</author>
+<title>Efficient Propagation of Uncertain Information (A rumor-based approach).</title>
+<pages>69-78</pages>
+<year>2005</year>
+<crossref>conf/eumas/2005</crossref>
+<booktitle>EUMAS</booktitle>
+<url>db/conf/eumas/eumas2005.html#BourgneMP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ChevaleyreEM05" mdate="2019-08-20">
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author>Nicolas Maudet</author>
+<title>On Maximal Classes of Utility Functions for Efficient one-to-one Negotiation.</title>
+<pages>941-946</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1338.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ChevaleyreEM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/EstivieCEM05" mdate="2012-07-20">
+<author>Sylvia Estivie</author>
+<author>Yann Chevaleyre</author>
+<author>Ulle Endriss</author>
+<author>Nicolas Maudet</author>
+<title>Sur le caractère égalitaire de l'allocation de ressources distribuée.</title>
+<pages>143-156</pages>
+<year>2005</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2005</crossref>
+<url>db/conf/jfsma/jfsma2005.html#EstivieCEM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/argmas/KakasMM04" mdate="2017-05-22">
+<author>Antonis C. Kakas</author>
+<author>Nicolas Maudet</author>
+<author>Pavlos Moraitis</author>
+<title>Layered Strategies and Protocols for Argumentation-Based Agent Interaction.</title>
+<pages>64-77</pages>
+<year>2004</year>
+<crossref>conf/argmas/2004</crossref>
+<booktitle>ArgMAS</booktitle>
+<url>db/conf/argmas/argmas2004.html#KakasMM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/EndrissM04" mdate="2019-06-18">
+<author>Ulrich Endriss</author>
+<author>Nicolas Maudet</author>
+<title>On the Communication Complexity of Multilateral Trading.</title>
+<pages>622-629</pages>
+<year>2004</year>
+<crossref>conf/atal/2004</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2004.html#EndrissM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/KakasMM04" mdate="2019-06-18">
+<author>Antonis C. Kakas</author>
+<author>Nicolas Maudet</author>
+<author>Pavlos Moraitis</author>
+<title>Flexible Agent Dialogue Strategies and Societal Communication Protocols.</title>
+<pages>1434-1435</pages>
+<year>2004</year>
+<crossref>conf/atal/2004</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2004.html#KakasMM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esaw/ChevaleyreEEM04" mdate="2017-05-21">
+<author>Yann Chevaleyre</author>
+<author>Ulrich Endriss</author>
+<author>Sylvia Estivie</author>
+<author>Nicolas Maudet</author>
+<title>Welfare Engineering in Practice: On the Variety of Multiagent Resource Allocation Problems.</title>
+<pages>335-347</pages>
+<year>2004</year>
+<crossref>conf/esaw/2004</crossref>
+<booktitle>ESAW</booktitle>
+<url>db/conf/esaw/esaw2004.html#ChevaleyreEEM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jfsma/BalboMS04" mdate="2012-03-11">
+<author>Flavien Balbo</author>
+<author>Nicolas Maudet</author>
+<author>Julien Saunier</author>
+<title>Interactions opportunistes par l'écoute flottante (article court).</title>
+<pages>265-270</pages>
+<year>2004</year>
+<booktitle>JFSMA</booktitle>
+<crossref>conf/jfsma/2004</crossref>
+<url>db/conf/jfsma/jfsma2004.html#BalboMS04</url>
+</inproceedings>
+</r>
+<r><article key="journals/aamas/Maudet03" mdate="2017-05-20">
+<author>Nicolas Maudet</author>
+<title>Negotiating Dialogue Games.</title>
+<pages>229-233</pages>
+<year>2003</year>
+<volume>7</volume>
+<journal>Autonomous Agents and Multi-Agent Systems</journal>
+<number>3</number>
+<url>db/journals/aamas/aamas7.html#Maudet03</url>
+</article>
+</r>
+<r><inproceedings key="conf/agentCL/EndrissMST03" mdate="2017-05-21">
+<author>Ulrich Endriss</author>
+<author>Nicolas Maudet</author>
+<author>Fariba Sadri</author>
+<author>Francesca Toni</author>
+<title>Logic-Based Agent Communication Protocols.</title>
+<pages>91-107</pages>
+<year>2003</year>
+<crossref>conf/agentCL/2003</crossref>
+<booktitle>Workshop on Agent Communication Languages</booktitle>
+<url>db/conf/agentCL/acl2003.html#EndrissMST03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ai/LabrieCM03" mdate="2017-05-24">
+<author>Marc-André Labrie</author>
+<author>Brahim Chaib-draa</author>
+<author>Nicolas Maudet</author>
+<title>DIAGAL: A Tool for Analyzing and Modelling Commitment-Based Dialogues between Agents.</title>
+<pages>353-369</pages>
+<year>2003</year>
+<crossref>conf/ai/2003</crossref>
+<booktitle>Canadian Conference on AI</booktitle>
+<url>db/conf/ai/ai2003.html#LabrieCM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/EndrissMST03" mdate="2019-06-02">
+<author>Ulrich Endriss</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Fariba Sadri</author>
+<author>Francesca Toni</author>
+<title>On optimal outcomes of negotiations over resources.</title>
+<pages>177-184</pages>
+<year>2003</year>
+<crossref>conf/atal/2003</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2003.html#EndrissMST03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/Chaib-draaLM03" mdate="2017-05-23">
+<author>Brahim Chaib-draa</author>
+<author>Marc-André Labrie</author>
+<author>Nicolas Maudet</author>
+<title>Request for Action Reconsidered as a Dialogue Game Based on Commitments.</title>
+<pages>284-299</pages>
+<year>2003</year>
+<crossref>conf/atal/2003cms</crossref>
+<booktitle>Communication in Multiagent Systems</booktitle>
+<url>db/conf/atal/cms2003.html#Chaib-draaLM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/EndrissMST03a" mdate="2019-06-02">
+<author>Ulrich Endriss</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Fariba Sadri</author>
+<author>Francesca Toni</author>
+<title>Aspects of protocol conformance in inter-agent dialogue.</title>
+<pages>982-983</pages>
+<year>2003</year>
+<crossref>conf/atal/2003</crossref>
+<booktitle>AAMAS</booktitle>
+<url>db/conf/atal/aamas2003.html#EndrissMST03a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esaw/EndrissM03" mdate="2017-05-21">
+<author>Ulrich Endriss</author>
+<author>Nicolas Maudet</author>
+<title>Welfare Engineering in Multiagent Systems.</title>
+<pages>93-106</pages>
+<year>2003</year>
+<crossref>conf/esaw/2003</crossref>
+<booktitle>ESAW</booktitle>
+<url>db/conf/esaw/esaw2003.html#EndrissM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esaw/EndrissLMS03" mdate="2017-05-21">
+<author>Ulrich Endriss</author>
+<author>Wenjin Lu</author>
+<author>Nicolas Maudet</author>
+<author>Kostas Stathis</author>
+<title>Competent Agents and Customising Protocols.</title>
+<pages>168-181</pages>
+<year>2003</year>
+<crossref>conf/esaw/2003</crossref>
+<booktitle>ESAW</booktitle>
+<url>db/conf/esaw/esaw2003.html#EndrissLMS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/EndrissMST03" mdate="2019-08-20">
+<author>Ulrich Endriss</author>
+<author>Nicolas Maudet</author>
+<author>Fariba Sadri</author>
+<author>Francesca Toni</author>
+<title>Protocol Conformance for Logic-based Agents.</title>
+<pages>679-684</pages>
+<year>2003</year>
+<crossref>conf/ijcai/2003</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai2003.html#EndrissMST03</url>
+<ee type="oa">http://ijcai.org/Proceedings/03/Papers/099.pdf</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ker/MaudetC02" mdate="2017-05-28">
+<author>Nicolas Maudet</author>
+<author>Brahim Chaib-draa</author>
+<title>Commitment-based and dialogue-game-based protocols: new trends in agent communication languages.</title>
+<pages>157-179</pages>
+<year>2002</year>
+<volume>17</volume>
+<journal>Knowledge Eng. Review</journal>
+<number>2</number>
+<url>db/journals/ker/ker17.html#MaudetC02</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/AmgoudMP02" mdate="2003-11-25">
+<author>Leila Amgoud</author>
+<author>Nicolas Maudet</author>
+<author>Simon Parsons</author>
+<title>An argumentation-based Semantics for Agent Communication Languages.</title>
+<pages>38-42</pages>
+<year>2002</year>
+<crossref>conf/ecai/2002</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2002.html#AmgoudMP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nmr/AmgoudM02" mdate="2004-07-02">
+<author>Leila Amgoud</author>
+<author>Nicolas Maudet</author>
+<title>Strategical considerations for argumentative agents (preliminary report).</title>
+<pages>399-407</pages>
+<year>2002</year>
+<crossref>conf/nmr/2002</crossref>
+<booktitle>NMR</booktitle>
+<url>db/conf/nmr/nmr2002.html#AmgoudM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/AmgoudPM00" mdate="2003-06-30">
+<author>Leila Amgoud</author>
+<author>Simon Parsons</author>
+<author>Nicolas Maudet</author>
+<title>Arguments, Dialogue, and Negotiation.</title>
+<pages>338-342</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#AmgoudPM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmas/AmgoudMP00" mdate="2019-06-02">
+<author>Leila Amgoud</author>
+<author orcid="0000-0002-4232-069X">Nicolas Maudet</author>
+<author>Simon Parsons</author>
+<title>Modeling Dialogues Using Argumentation.</title>
+<pages>31-38</pages>
+<year>2000</year>
+<crossref>conf/icmas/2000</crossref>
+<booktitle>ICMAS</booktitle>
+<url>db/conf/icmas/icmas2000.html#AmgoudMP00</url>
+</inproceedings>
+</r>
+<coauthors n="94" nc="3">
+<co c="0"><na f="a/Airiau:St=eacute=phane">Stéphane Airiau</na></co>
+<co c="0"><na f="a/Amgoud:Leila">Leila Amgoud</na></co>
+<co c="0"><na f="b/Balbo:Flavien">Flavien Balbo</na></co>
+<co c="0"><na f="b/Bampis:Evripidis">Evripidis Bampis</na></co>
+<co c="0"><na f="b/Belahc=egrave=ne:Khaled">Khaled Belahcène</na></co>
+<co c="0"><na f="b/Belardinelli:Francesco">Francesco Belardinelli</na></co>
+<co c="0"><na f="b/Beynier:Aur=eacute=lie">Aurélie Beynier</na></co>
+<co c="0"><na f="b/Boissier:Olivier">Olivier Boissier</na></co>
+<co c="0"><na f="b/Bonzon:Elise">Elise Bonzon</na></co>
+<co c="0"><na f="b/Bourgne:Gauvain">Gauvain Bourgne</na></co>
+<co c="0"><na f="b/Boutilier:Craig">Craig Boutilier</na></co>
+<co c="0"><na f="b/Bouveret:Sylvain">Sylvain Bouveret</na></co>
+<co c="2"><na f="c/Chaib=draa:Brahim">Brahim Chaib-draa</na></co>
+<co c="0"><na f="c/Chevaleyre:Yann">Yann Chevaleyre</na></co>
+<co c="0"><na f="c/Correia:Marco">Marco Correia</na></co>
+<co c="0"><na f="c/Cruz_0001:Jorge">Jorge Cruz 0001</na></co>
+<co c="0"><na f="d/Damamme:Anastasia">Anastasia Damamme</na></co>
+<co c="0"><na f="d/Delobelle:J=eacute=r=ocirc=me">Jérôme Delobelle</na></co>
+<co c="0"><na f="d/Doder:Dragan">Dragan Doder</na></co>
+<co c="0"><na f="d/Dorn:Britta">Britta Dorn</na></co>
+<co c="0"><na f="d/Dunne:Paul_E=">Paul E. Dunne</na></co>
+<co c="0" n="2"><na f="e/Endriss:Ulrich">Ulrich Endriss</na><na>Ulle Endriss</na></co>
+<co c="0"><na f="e/Estivie:Sylvia">Sylvia Estivie</na></co>
+<co c="0"><na f="f/Fallah=Seghrouchni:Amal_El">Amal El Fallah-Seghrouchni</na></co>
+<co c="0"><na f="f/Feillet:Pierre">Pierre Feillet</na></co>
+<co c="0"><na f="g/Gourv=egrave=s:Laurent">Laurent Gourvès</na></co>
+<co c="0"><na f="g/Grandi:Umberto">Umberto Grandi</na></co>
+<co c="0"><na f="g/Grossi:Davide">Davide Grossi</na></co>
+<co c="0"><na f="h/Hadoux:Emmanuel">Emmanuel Hadoux</na></co>
+<co c="0"><na f="h/Harutyunyan:Ararat">Ararat Harutyunyan</na></co>
+<co c="0"><na f="h/Hassas:Salima">Salima Hassas</na></co>
+<co c="0"><na f="h/Hette:Ga=euml=l">Gaël Hette</na></co>
+<co c="0"><na f="h/Hulstijn:Joris">Joris Hulstijn</na></co>
+<co c="0"><na f="h/Hunter:Anthony">Anthony Hunter</na></co>
+<co c="0"><na f="i/Inoue:Katsumi">Katsumi Inoue</na></co>
+<co c="0"><na f="i/Ismaili:Anisse">Anisse Ismaili</na></co>
+<co c="0"><na f="k/Kakas:Antonis_C=">Antonis C. Kakas</na></co>
+<co c="0"><na f="k/Kern=Isberner:Gabriele">Gabriele Kern-Isberner</na></co>
+<co c="0"><na f="k/Konieczny:S=eacute=bastien">Sébastien Konieczny</na></co>
+<co c="0"><na f="k/Kontarinis:Dionysios">Dionysios Kontarinis</na></co>
+<co c="0"><na f="l/Labreuche:Christophe">Christophe Labreuche</na></co>
+<co c="2"><na f="l/Labrie:Marc=Andr=eacute=">Marc-André Labrie</na></co>
+<co c="0"><na f="l/Lang:J=eacute=r=ocirc=me">Jérôme Lang</na></co>
+<co c="0"><na f="l/Leite:Jo=atilde=o">João Leite</na></co>
+<co c="0"><na f="l/Lema=icirc=tre:Michel">Michel Lemaître</na></co>
+<co c="0"><na f="l/Lesca:Julien">Julien Lesca</na></co>
+<co c="1"><na f="l/L=oacute=pez:Beatriz">Beatriz López</na></co>
+<co c="0"><na f="l/Lu:Wenjin">Wenjin Lu</na></co>
+<co c="0"><na f="l/Luo:Hang">Hang Luo</na></co>
+<co c="0"><na f="m/Maran:Alberto">Alberto Maran</na></co>
+<co c="0"><na f="m/Martin:Alexis">Alexis Martin</na></co>
+<co c="0"><na f="m/McBurney:Peter">Peter McBurney</na></co>
+<co c="0"><na f="m/Merlin:Vincent">Vincent Merlin</na></co>
+<co c="0"><na f="m/Mernissi:Karim_El">Karim El Mernissi</na></co>
+<co c="0"><na f="m/Monnot:J=eacute=r=ocirc=me">Jérôme Monnot</na></co>
+<co c="0"><na f="m/Moore:David_J=">David J. Moore</na></co>
+<co c="0"><na f="m/Moraitis:Pavlos">Pavlos Moraitis</na></co>
+<co c="0"><na f="m/Moretti:Stefano">Stefano Moretti</na></co>
+<co c="0"><na f="m/Mousseau:Vincent">Vincent Mousseau</na></co>
+<co c="1"><na f="m/Murillo:Javier">Javier Murillo</na></co>
+<co c="0"><na f="o/Ouerdane:Wassila">Wassila Ouerdane</na></co>
+<co c="0"><na f="p/Padget:Julian_A=">Julian A. Padget</na></co>
+<co c="0"><na f="p/Parsons:Simon">Simon Parsons</na></co>
+<co c="0"><na f="p/Perny:Patrice">Patrice Perny</na></co>
+<co c="0"><na f="p/Perotti:Alan">Alan Perotti</na></co>
+<co c="0"><na f="p/Phelps:Steve">Steve Phelps</na></co>
+<co c="0"><na f="p/Pini:Maria_Silvia">Maria Silvia Pini</na></co>
+<co c="0"><na f="p/Pinson:Suzanne">Suzanne Pinson</na></co>
+<co c="1"><na f="p/Pla:Albert">Albert Pla</na></co>
+<co c="0"><na f="p/Polukarov:Maria">Maria Polukarov</na></co>
+<co c="0"><na f="r/Rahwan:Iyad">Iyad Rahwan</na></co>
+<co c="0"><na f="r/Ravenscroft:Andrew">Andrew Ravenscroft</na></co>
+<co c="0"><na f="r/Ravilly=Abadie:Guillaume">Guillaume Ravilly-Abadie</na></co>
+<co c="0"><na f="r/Reed:Chris">Chris Reed</na></co>
+<co c="0"><na f="r/Rey:Simon">Simon Rey</na></co>
+<co c="0"><na f="r/Rodr=iacute=guez=Aguilar:Juan_A=">Juan A. Rodríguez-Aguilar</na></co>
+<co c="0"><na f="r/Rossi:Francesca">Francesca Rossi</na></co>
+<co c="0"><na f="r/Rossit:Julien">Julien Rossit</na></co>
+<co c="0"><na f="s/Sadri:Fariba">Fariba Sadri</na></co>
+<co c="0"><na f="s/Saunier:Julien">Julien Saunier</na></co>
+<co c="0"><na f="s/Shams:Parham">Parham Shams</na></co>
+<co c="0"><na f="s/Soldano:Henry">Henry Soldano</na></co>
+<co c="0"><na f="s/Sousa:Paulo">Paulo Sousa</na></co>
+<co c="0"><na f="s/Stathis:Kostas">Kostas Stathis</na></co>
+<co c="0"><na f="t/Toni:Francesca">Francesca Toni</na></co>
+<co c="0"><na f="t/Torre:Leon_van_der">Leon van der Torre</na></co>
+<co c="0"><na f="t/Tsouki=agrave=s:Alexis">Alexis Tsoukiàs</na></co>
+<co c="0"><na f="v/Venable:Kristen_Brent">Kristen Brent Venable</na></co>
+<co c="0"><na f="v/Vesic:Srdjan">Srdjan Vesic</na></co>
+<co c="0"><na f="v/Villata:Serena">Serena Villata</na></co>
+<co c="0"><na f="w/Weng:Paul">Paul Weng</na></co>
+<co c="0"><na f="w/Wilczynski:Ana=euml=lle">Anaëlle Wilczynski</na></co>
+<co c="0"><na f="x/Xia:Lirong">Lirong Xia</na></co>
+<co c="0"><na f="y/Yuan:Tangming">Tangming Yuan</na></co>
+</coauthors>
+</dblpperson>
+
